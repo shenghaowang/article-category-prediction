@@ -1,9 +1,13 @@
 #from newsplease import NewsPlease
 #import ssl
 from bs4 import BeautifulSoup
+from nltk.corpus import stopwords
+import os
 import requests
 import logging
 import sys
+import time
+import pandas as pd
 
 #ssl._create_default_https_context = ssl._create_unverified_context
 file_handler = logging.FileHandler(filename='main.log')
@@ -17,7 +21,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-def preprocess():
+def preprocess(str, porter):
     def rm_html_tags(str):
         html_prog = re.compile(r'<[^>]+>',re.S)
         return html_prog.sub('', str)
@@ -41,20 +45,52 @@ def preprocess():
             str = str.replace(k, v)
         return str
 
+    try:
+        str = nltk.tokenize.word_tokenize(str.strip())
+        try:
+            str = [porter.stem(t) for t in str]
+        except:
+            pass
+    except:
+        pass
+
+    return str
+
+
+def export_article(article_id, webpage_content, output_dir):
+    porter = nltk.PorterStemmer()
+    soup = BeautifulSoup(webpage_content, 'html.parser')
+    paragraghs = soup.find_all('p')
+
+    if paragraphs:
+        f = open(os.path.join(output_dir, str(article_id) + '.txt'))
+        for paragraph in paragraphs:
+            f.write('%s\n' %preprocess(paragraph, porter))
+        f.close()
+
 
 def main():
-    url = "https://www.nasdaq.com/article/forex-pound-drops-to-onemonth-lows-against-euro-cm333750"
-    #url = "https://www.nytimes.com/2017/02/23/us/politics/cpac-stephen-bannon-reince-priebus.html?hp"
     #article = NewsPlease.from_url(url)
     #print(article.text)
 
-    r = requests.get(url)
-    soup = BeautifulSoup(r.text, 'html.parser')
-    ps = soup.find_all('p')
-    #logger.info(ps)
+    # Initiate a directory to store the processed articles
+    articles_dir = './articles'
+    if not os.path.exists(articles_dir):
+        os.makedirs(articles_dir)
 
-    if ps:
-        for p in ps:
+    # Import information of articles as dataframe
+    logger.info("Start crawling and processing articles...")
+    articles_df = pd.read_csv("input/train.csv", index_col=-0)
+    for article_id, article_info in articles_df.iterrows():
+        try:
+            r = requests.get(article_info["url"], timeout=10.0)
+        except Exception as err:
+            logger.exception(err)
+            continue
+
+        if r.status_code == 200:
+            export_article(article_id, r.text, articles_dir)
+
 
 
 if __name__ == "__main__":
