@@ -1,0 +1,24 @@
+<p style="font-size:12px;font-style:italic;color:#6A6A6A;line-height:110%;padding-top:10px;">You must have an Automotive News<br/>subscription to view the digital edition</p>
+<p><a href="/section/subscribe" style="font-size:14px;color:#6A6A6A;font-weight:600;"><u>Click here to subscribe</u></a></p>
+<p class="shares-number">0</p>
+<p class="shares-text">Shares</p>
+<p>WASHINGTON -- General Motors said it saw signs of flimsy ignition switches  in the Saturn Ion as early as 2001, three years earlier than the first indications of a defect previously disclosed by the automaker.</p>
+<p>According to GM’s filing on Wednesday with the National Highway Traffic Safety Administration, GM received a report on the "passlock" system for the Saturn Ion's ignition switch in 2001, during pre-production development of the car. The chronology was released to explain a second batch vehicles recalled globally last month.</p>
+<p>The report said the ignition switch’s problem was "low detent plunger force," but a change in the design of the ignition switch resolved the problems. GM engineers and outside investigators would later find a similar problem with a Delphi-supplied ignition switch used in 1.6 million vehicles between model years 2003 and 2007.</p>
+<p>The problem was fixed when Delphi began using a different detent plunger and spring to increase the torque in the switch.</p>
+<p>In a 2003 report, a service technician observed that a car had stalled while driving, and noted that "[t]he owner had several keys on the key ring," and suggested that "[t]he additional weight of the keys had worn out the ignition switch."</p>
+<p>In its previous filings with NHTSA, the first warning sign that GM disclosed came in 2004, around the time the Chevrolet Cobalt went on sale.</p>
+<p>The fact that ignition switch problems with the Saturn Ion predate problems with the Chevrolet Cobalt also raises questions about why GM did not recall the Chevrolet HHR, Pontiac Solstice, Saturn Ion and Saturn Sky at the same time as the Chevrolet Cobalt and Pontiac G5.</p>
+<p>GM recalled U.S. cars in two batches: the Cobalt and G5 on Feb. 13, and the rest on Feb. 25.</p>
+<p>GM now is telling drivers to remove all items from their key ring besides the ignition key until the repairs are completed, and that even afterward they should not put anything but the car's key fob back onto the ring.</p>
+<p class="left-padding">
+<i>You can reach Gabe Nelson at <a href="mailto:gnelson@crain.com">gnelson@crain.com</a> </i>
+</p>
+<p>Have an opinion about this story? <a href="/section/submit04?title=First-signs-of-GM-ignition-switch-flaw-emerged-in-2001&amp;profile=5885" target="float"><strong>Click here to submit a Letter to the Editor</strong></a>, and we may publish it in print.</p>
+<p style="font-size:18px;"><span style="font-family:Franklin Gothic Light,Franklin Gothic,ITC Franklin Gothic,Arial,sans-serif;font-size:22px;color:#fa1109;">ATTENTION COMMENTERS:</span> <i>Automotive News</i> has monitored a significant increase in the number of personal attacks and abusive comments on our site. We encourage our readers to voice their opinions and argue their points. We expect disagreement. We do not expect our readers to turn on each other. We will be aggressively deleting all comments that personally attack another poster, or an article author, even if the comment is otherwise a well-argued observation. If we see repeated behavior, we will ban the commenter. Please help us maintain a civil level of discourse.</p>
+<p>Get 24/7 access to in-depth, authoritative coverage of the auto industry from a global team of reporters and editors covering the news that's vital to your business.</p>
+<p>Sign up today to get the best of <em>Automotive News</em> delivered straight to your email inbox, free of charge. Choose your news – we'll deliver.</p>
+<p>
+                Entire contents © Crain Communications, Inc.
+            </p>
+<p>Use of editorial content without permission is strictly prohibited. All Rights Reserved.</p>

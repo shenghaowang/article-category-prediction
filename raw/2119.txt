@@ -1,0 +1,22 @@
+<p>The City of Los Angeles has filed a lawsuit against Time Warner Cable Inc for unpaid franchise fees in the past, the Los Angeles Times reported.</p>
+<p>Lodged in the US District Court in Los Angeles, the complaint said the cable giant owed the city fees amounting to $9.7 million. Los Angeles said it "blatantly refused to live up to its obligations to the city" for the privilege of holding operations in the rights of way owned by the city even while it pocketed over $500 million annually from its customers there, the report said.</p>
+<p></p>
+<p>In a news conference held at City Hall about the lawsuit, City Attorney Michael Feuer told reporters, "Time Warner owes L.A.'s taxpayers millions of dollars for the privilege of having its franchise. This is a day where we are standing up and saying enough is enough."</p>
+<p>The 24-page lawsuit alleged that the cable company needed to pay the city franchise fees as well as public, educational and governmental channel fees amounting to $2.5 million which it owed from 2008 to 2009. From 2010 to 2011, Time Warner Cable owed the city $7.2 million more in fees. According to Feuer, this money could have been deployed towards adding 100 police officers to city and repairing the sidewalks, the report said.</p>
+<p>Feuer added that the city has been talking with the cable company for several years but the discussions had not succeeded. He said, "The negotiations haven't been fruitful and we have to do something about that. Time Warner pocketed the money from its subscribers and then did not turn it over to the city of Los Angeles."</p>
+<p>Time Warner Cable denied the allegations. In a statement, the cable firm said, "As a major job creator, tax contributor and service provider in the city of Los Angeles, Time Warner Cable is an active and responsible corporate citizen. We are disappointed the city has chosen to bring this action, which we strongly believe is without merit."</p>
+<p>Sign up for our Deals of the Day newsletter.<br/>We will not spam you!</p>
+<p>Everything went well, You are now subscribed!</p>
+<p class="sub-name">
+<label for="subscribe-name">Name:</label>
+<input id="subscribe-name" name="name" placeholder="Your Name" type="text" value=""/>
+</p>
+<p class="sub-email">
+<label for="subscribe-email">E-mail:</label>
+<input id="subscribe-email" name="email" placeholder="Your E-mail" type="text" value=""/>
+<input name="nl" type="hidden" value="3">
+</input></p>
+<p class="sub-submit">
+<input id="articlesubmit" name="subscribe-submit" type="submit" value="Subscribe"/>
+</p>
+<p><img alt="Clicky" height="1" src="//in.getclicky.com/66631289ns.gif" width="1"/></p>

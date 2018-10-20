@@ -1,0 +1,56 @@
+<p>Thanks for contacting us. We've received your submission.</p>
+<p class="section-tag">
+<a class="background-color" href="/business/">Business</a>
+</p>
+<p class="byline">By <a class="michelle-celarier" href="https://nypost.com/author/michelle-celarier/">Michelle Celarier</a></p>
+<p class="contact-submit">
+<input class="pushbutton-wide" type="submit" value="Submit »"/>
+<input name="contact-form-id" type="hidden" value="widget-text-4"/>
+<input name="action" type="hidden" value="grunion-contact-form"/>
+<input name="contact-form-hash" type="hidden" value="c4b73003bd4b26a16a066823ea46f34274e30536"/>
+</p>
+<p class="byline-date">
+									March 12, 2014 <span class="separator">|</span> 3:17pm
+												</p>
+<p>The Federal Trade Commission has launched an investigation into Herbalife, the multilevel marketing company activist Bill Ackman bet $1 billion was a pyramid scheme nearly 15 months ago.</p>
+<p>When news of the probe broke Wednesday afternoon — after the LA company’s stock was halted in trading for about 30 minutes — Herbalife shares plunged.</p>
+<p>They had been up about 4.4 percent but then pivoted and were off about 11 percent within minutes. They closed at $60.57, down 7.4 percent.</p>
+<p>Although the battle is far from over, the news is a victory for Ackman, who has spent the past year pressing federal regulators and nine state attorneys general to investigate the company he believes is a fraud.</p>
+<p>After Ackman went public with his short, the company gained even wider media attention when other billionaires — Carl Icahn, George Soros and Bill Stiritz — lined up against the hedge-fund activist.</p>
+<p>Herbalife, a distributor of nutritional shakes and weight-loss supplements, became, at times, a very public battleground for the investor warriors.</p>
+<p>Ackman and Soros on Wednesday declined to comment. Icahn and Stiritz did not return calls.</p>
+<p>Herbalife, which has strongly denied Ackman’s accusations and has launched a massive lobbying campaign to defend itself, said it “welcomes the inquiry given the tremendous amount of misinformation in the marketplace.</p>
+<p>“We are confident that Herbalife is in compliance with all applicable laws and regulations,” it added.</p>
+<p>The FTC confirmed the investigation.</p>
+<p>Brent Wilkes, the executive director of the League of United Latin American Citizens, which has been in the forefront of the push for an investigation, said, “We believe the FTC is absolutely doing the right thing, and we are hopeful the information we were able to provide them from victims and others was convincing and that they are acting on our request to make sure that Latino communities and others are not being defrauded by the company.”</p>
+<p>The nonprofit organization also helped nine Hispanics recently file complaints with the Illinois Attorney General’s office, said a spokeswoman.</p>
+<p>A spokeswoman for Illinois AG Lisa Madigan,confirmed the complaints. It has not made a decision about a formal probe, she said.</p>
+<p>Felipe Colon, a former Illinois businessman who recently moved to Florida, is one of the nine.</p>
+<p>Colon told The Post he became an Herbalife distributor in 2008, when the economy was failing. After three years and a full-time commitment, Colon said he lost about $35,000.</p>
+<p>“[Herbalife distributors] promised me that in a few months I was going to be making a lot of money,” he said. “They lied. They talk about money, money, money and show you the checks they received from the company.”</p>
+<p>To keep his distributorship, he said he had to buy more product, which he could not sell.</p>
+<p>Colon also paid $250 a month for rent at a nutrition club he used as a recruitment venue, he said. People who came there and decided to become Herbalife distributors (now called members) did so because “they wanted to make money,” he said.</p>
+<p class="read-next">
+<a href="https://nypost.com/2014/03/12/morgans-hotel-group-set-for-second-proxy-fight/">Read Next</a>
+</p>
+<p class="read-next-link">
+<a class="desktop postid-3505507" href="https://nypost.com/2014/03/12/morgans-hotel-group-set-for-second-proxy-fight/">
+				Morgans Hotel Group set for second proxy fight			</a>
+</p>
+<p class="read-next">
+<a href="https://nypost.com/2014/03/12/morgans-hotel-group-set-for-second-proxy-fight/">Read Next</a>
+</p>
+<p class="read-next-link">
+<a class="desktop postid-3505507" href="https://nypost.com/2014/03/12/morgans-hotel-group-set-for-second-proxy-fight/">
+				Morgans Hotel Group set for second proxy fight			</a>
+</p>
+<p id="text-share-popup-title">Share Selection</p>
+<p class="share-count">29,429</p>
+<p class="share-count">1,892</p>
+<p class="share-count">1,559</p>
+<p>Post Digital Network</p>
+<p>
+<span id="copyright">© 2018 NYP Holdings, Inc. All Rights Reserved</span><span class="desktop"> | </span><a href="https://nypost.com/terms/">Terms of Use</a> | <a href="https://nypost.com/privacy/">Privacy</a> <span class="desktop">| <a href="https://nypost.com/privacy/#adchoices">Your Ad Choices</a></span> | <a href="https://nypost.com/sitemap/">Sitemap</a>
+</p>
+<p class="newscorp-slider-description">
+							News Corp. is a network of leading companies in the world of diversified media, news, and information services.						</p>

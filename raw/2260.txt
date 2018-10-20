@@ -1,0 +1,98 @@
+<p>Welcome!</p>
+<p class="topics">SYS-CON MEDIA Authors: <span class="topic-links"><a href="http://yeshimdeniz.sys-con.com/">Yeshim Deniz</a>, <a href="http://patromanski.sys-con.com/">Pat Romanski</a>, <a href="http://elizabethwhite.sys-con.com/">Elizabeth White</a>, <a href="http://lizmcmillan.sys-con.com/">Liz McMillan</a>, <a href="http://williamschmarzo.sys-con.com/">William Schmarzo</a></span></p>
+<p class="category">News Feed Item</p>
+<p class="subtitle"></p>
+<p><span class="xn-location">DENVER</span>, <span class="xn-chron">March 14, 2014</span> /PRNewswire/ -- Quiznos, one of the nation's premier quick-service restaurant chains and pioneer of the toasted sub, today announced that its senior lenders have voted overwhelmingly in favor of a "pre-packaged" restructuring plan that will reduce the Company's debt by more than <span class="xn-money">$400 million</span>. The plan is intended to increase the Company's flexibility as it executes operational enhancements designed to strengthen performance, revitalize the Quiznos brand and reinforce its promise as a fresh, high-quality and great-tasting alternative to traditional fast food offerings. In order to implement this pre-packaged plan, the Company today voluntarily filed to reorganize under Chapter 11 of the U.S. Bankruptcy Code in the U.S. Bankruptcy Court in <span class="xn-location">Wilmington, Delaware</span>.</p>
+<p>All but seven of Quiznos' nearly 2,100 restaurants are independently owned and operated by franchisees in the U.S. and 30 other countries around the world. As separate businesses, these restaurants are not a part of the Chapter 11 proceedings and are open and operating as usual. Quiznos customers can expect to continue to enjoy their favorite high-quality menu offerings. The Company expects to continue operating in the ordinary course of business throughout the restructuring process. The Company will continue working with its franchisees in the U.S. and internationally to strengthen the brand, build momentum and improve growth and profitability.</p>
+<p>"The actions we are taking are intended to enable Quiznos to reduce our debt, execute a comprehensive plan to further enhance the customer experience, elevate the profile of the brand and help increase sales and profits for our franchise owners," said <span class="xn-person">Stuart K. Mathis</span>, Quiznos Chief Executive Officer. "We look forward to continuing to work with and support our global network of franchise owners, who are the backbone of our business."</p>
+<p>Mathis continued, "Our business plan includes several key elements aimed at supporting our franchisees, including reducing food costs, implementing a franchise owner rebate program, in certain circumstances making loans available to franchisees for restaurant improvements, investing in advertising to improve location awareness, and providing new incentives for prospective franchisees. We are also introducing new technology at the restaurants and taking other actions to help our franchisees operate their businesses more efficiently."</p>
+<p>In conjunction with the restructuring plan, Quiznos has received a commitment for <span class="xn-money">$15 million</span> in debtor-in-possession ("DIP") financing from its senior lenders, which, subject to Court approval, will be available to support its ongoing operations during the Chapter 11 proceedings. The Company's distribution centers are open and fulfilling orders, and Quiznos has been in touch with its key suppliers to help ensure that products will continue to be delivered to franchisees in a timely fashion. Because the Company has already received the requisite approvals for its pre-packaged restructuring plan from the necessary creditor groups, it expects to execute the plan and emerge from the court-supervised process on an accelerated basis. </p>
+<p>Quiznos has established a Restructuring Information Hotline for interested parties at (855) 388-4579 in <span class="xn-location">North America</span>, or internationally at (646) 795-6978. Additional information can be found on the Quiznos website at <a href="http://www.quiznos.com/restructuring" rel="nofollow" target="_blank">www.quiznos.com/restructuring</a>. Court filings and information about the claims process can be found at a separate website maintained by Quiznos' claims agent, PrimeClerk, at <a href="http://cases.primeclerk.com/quiznos" rel="nofollow" target="_blank">http://cases.primeclerk.com/quiznos</a>.  </p>
+<p>Akin Gump Strauss Hauer &amp; Felds LLP is serving as legal advisor, Lazard Freres &amp; Co. LLC is serving as financial advisor and Alvarez &amp; Marsal is serving as restructuring advisor to Quiznos.</p>
+<p><b>ABOUT QUIZNOS </b></p>
+<p>Denver‐based Quiznos is a chain designed for today's busy consumers who are looking for a high quality, tasty, freshly prepared alternative to traditional fast‐food restaurants. With locations in 50 states and 30 countries, Quiznos is one of the world's premier quick‐service restaurant chains and pioneer of the toasted sandwich; Quiznos restaurants offer creative, chef‐created sandwiches and salads using premium ingredients. Quiznos was founded in 1981 by chefs who discovered that toasting brought out the best in every sandwich ingredient.  For more information, please visit <a href="http://www.quiznos.com/" rel="nofollow" target="_blank">www.quiznos.com</a>. </p>
+<p></p>
+<p><b>Contacts: </b></p>
+<p></p>
+<p><span class="xn-person">Elizabeth Sapp</span><br/>Quiznos <br/>720-359-3390</p>
+<p></p>
+<p><span class="xn-person">Michael Freitag</span> / <span class="xn-person">Aaron Palash</span><br/><span class="xn-person">Joele Frank</span>, Wilkinson Brimmer Katcher<br/>(212) 355-4449</p>
+<p> </p>
+<p>SOURCE Quiznos</p>
+<p class="story-footer">
+ Published March 14, 2014 – Reads 139 <br/>
+Copyright © 2014 SYS-CON Media, Inc. — All Rights Reserved.
+<br/>
+Syndicated stories and blog feeds, all rights reserved by the author.
+</p>
+<p>Copyright © 2007 PR Newswire. All rights reserved. Republication or redistribution of PRNewswire content is expressly prohibited without the prior written consent of PRNewswire. PRNewswire shall not be liable for any errors or delays in the content, or for any actions taken in reliance thereon.</p>
+<p>
+<style type="text/css"><!--
+.event-footer-lfc {
+font-size: 10px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+color: #ccc;
+}	
+.event-copy-lfc {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+color: #fff;
+}	
+
+.event-footer-lfc2 {
+	font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; 
+	color: #555555; 
+	font-style: italic;
+}
+
+.footer-nav {
+	/*width:100%!important;*/
+	padding: 1px 5px 5px 5px !important;
+	margin: 0px 0px 0px 0px !important;
+	float: left !important;
+	background-color:#0f131c!important;
+}
+
+.footer-head1{
+	font-family:Georgia, "Times New Roman", Times, serif!important;
+	font-size:32px!important;
+	color:#82c5cd!important;
+	text-decoration:none!important;
+
+}
+
+.footer-head2 {
+	font-family:Georgia, "Times New Roman", Times, serif!important;
+	font-size:14px!important;
+	color:#9c9b9b!important;
+	text-decoration:none!important;	
+}
+
+#footer-terms {
+	font-family:Verdana, Arial, Helvetica, sans-serif !important;
+	margin:10px 0 0 !important;
+	border-top:1px solid #667788 !important;
+	background: #000000 !important;
+	color: #FFFFFF !important;
+	padding: 9px !important;
+	clear: both !important;
+}
+#footer-terms p {
+	color: #fff !important;
+	font-size: 10px !important;
+	font-family: Verdana, Arial, Helvetica, sans-serif !important;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+--></style>
+<meta content="wT-eP7-k8lEt4As_ltjRl2w_1J84KeUTpGPyQ_B0oJI" name="google-site-verification"/>
+<img height="161" src="http://www2.sys-con.com/2018/header_cloud2018.jpg" width="1015"/></p>
+<p><img align="left" src="http://www2.sys-con.com/eventserver/other/footer/logo_ulitzer_sml.png"/><a href="http://www.sys-con.com/general/terms.htm">Terms of Use &amp; Our Privacy Statement</a> - <a href="http://www.sys-con.com/general/aboutfeeds.htm">About Newsfeeds / Videofeeds</a>. Copyright ©1994-2018 DXWorldEXPO LLC. All Rights Reserved. All marks are trademarks of DXWorldEXPO LLC. Reproduction in whole or in part in any form or medium without express written permission of DXWorldEXPO LLC is prohibited.</p>
+<p>
+<map name="Map">
+<area coords="6,5,1008,153" href="http://cloudcomputingexpo.com/" shape="rect" target="_blank"/>
+</map>
+</p>

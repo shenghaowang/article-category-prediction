@@ -1,0 +1,64 @@
+<p class="entry-meta"><time class="entry-time" datetime="2014-03-09T17:41:39-04:00" itemprop="datePublished">March 9, 2014</time> by <a class="author url fn" href="https://www.thedomains.com/author/raymondhackney/" rel="author" title="Posts by Raymond Hackney">Raymond Hackney</a> <span class="entry-comments-link"><a href="https://www.thedomains.com/2014/03/09/hackers-claim-to-publish-evidence-of-fraud-at-bitcoin-exchange-mt-gox/#comments">3 Comments</a></span> </p>
+<p><a href="https://i2.wp.com/www.thedomains.com/wp-content/Bitcoin.png?ssl=1"><img alt="Bitcoin" class="alignnone size-full wp-image-53746" data-recalc-dims="1" height="347" sizes="(max-width: 350px) 100vw, 350px" src="https://i2.wp.com/www.thedomains.com/wp-content/Bitcoin.png?resize=350%2C347&amp;ssl=1" srcset="https://i2.wp.com/www.thedomains.com/wp-content/Bitcoin.png?w=350&amp;ssl=1 350w, https://i2.wp.com/www.thedomains.com/wp-content/Bitcoin.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/www.thedomains.com/wp-content/Bitcoin.png?resize=300%2C297&amp;ssl=1 300w" width="350"/></a></p>
+<p><a href="http://www.forbes.com/sites/andygreenberg/" target="_blank">Andy Greenberg</a> just did a piece on Forbes with regards to hackers claiming to have hacked the Mt.Gox servers. The recent bankruptcy of the Bitcoin exchange has many up in arms and some are deciding to get answers on their own. Some of the data released and posted on Reddit has already been taken down. Greenberg reached out to disgraced Mt.Gox C.E.O. Mark Karpeles but has yet to get a reply back.</p>
+<p>From the article:</p>
+<p>The <a href="http://www.forbes.com/ebooks/secret-money-living-on-bitcoin/">Bitcoin</a> community has been angrily pressing for details on what the Bitcoin exchange Mt. Gox has described as a massive hacker attack that stole hundreds of millions of dollars worth of its users’ bitcoins and <a href="http://www.forbes.com/sites/kashmirhill/2014/02/28/mt-gox-ceo-says-all-the-bitcoin-is-gone-in-bankruptcy-filing/">left the company bankrupt</a>. Mt. Gox’s staff isn’t talking. So another group of hackers say they’ve broken into the company’s servers to provide answers of their own.</p>
+<p>On Sunday, hackers took over the Reddit account and personal blog of Mark Karpeles, Mt. Gox’s CEO, to post an angry screed alleging that the exchange he ran had actually kept at least some of the bitcoins that the company had said were stolen from users. “It’s time that MTGOX got the bitcoin communities wrath instead of [the] Bitcoin Community getting Goxed,” wrote the unidentified hackers, referring to the multiple occasions over its three year history when Mt. Gox has gone offline, delayed trades or suspended withdrawals, events so common that Bitcoin users coined the phrase to be “goxed”–to suffer from Mt. Gox’s technical glitches.</p>
+<p>Read the full article <a href="http://www.forbes.com/sites/andygreenberg/2014/03/09/hackers-hit-mt-gox-exchanges-ceo-claim-to-publish-evidence-of-fraud/" target="_blank">here</a></p>
+<p class="entry-meta"><span class="entry-categories">Filed Under: <a href="https://www.thedomains.com/category/bitcoin/" rel="category tag">Bitcoin</a></span> </p>
+<p>Raymond is a writer, domain trader and consultant based in Pennsylvania. Raymond is the founder of 3Character.com and TLDInvestors.com.</p>
+<p class="comment-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+<img alt="" class="avatar avatar-48 photo" height="48" src="https://secure.gravatar.com/avatar/b838c6aee0616e8d374b78160ee0166d?s=48&amp;d=wavatar&amp;r=g" srcset="https://secure.gravatar.com/avatar/b838c6aee0616e8d374b78160ee0166d?s=96&amp;d=wavatar&amp;r=g 2x" width="48"/><span itemprop="name"><a class="comment-author-link" href="http://www.voodoo.com" itemprop="url" rel="external nofollow">Donny</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2014-03-09T19:45:44-04:00" itemprop="datePublished"><a class="comment-time-link" href="https://www.thedomains.com/2014/03/09/hackers-claim-to-publish-evidence-of-fraud-at-bitcoin-exchange-mt-gox/#comment-135798" itemprop="url">March 9, 2014 at 7:45 pm</a></time></p>
+<p>I’ve spent some time reading quite a few of the documents that were made available.  All of them are rather interesting.  It definitely shows that Mt. Gox, still has the Bitcoins.</p>
+<p class="comment-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+<img alt="" class="avatar avatar-48 photo" height="48" src="https://secure.gravatar.com/avatar/b838c6aee0616e8d374b78160ee0166d?s=48&amp;d=wavatar&amp;r=g" srcset="https://secure.gravatar.com/avatar/b838c6aee0616e8d374b78160ee0166d?s=96&amp;d=wavatar&amp;r=g 2x" width="48"/><span itemprop="name"><a class="comment-author-link" href="http://www.voodoo.com" itemprop="url" rel="external nofollow">Donny</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2014-03-10T05:55:17-04:00" itemprop="datePublished"><a class="comment-time-link" href="https://www.thedomains.com/2014/03/09/hackers-claim-to-publish-evidence-of-fraud-at-bitcoin-exchange-mt-gox/#comment-135809" itemprop="url">March 10, 2014 at 5:55 am</a></time></p>
+<p>If you do download the files, this is a reminder to NEVER run any .exe file.</p>
+<p class="comment-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+<img alt="" class="avatar avatar-48 photo" height="48" src="https://secure.gravatar.com/avatar/b981c206b348cbbdd77f111a471edde7?s=48&amp;d=wavatar&amp;r=g" srcset="https://secure.gravatar.com/avatar/b981c206b348cbbdd77f111a471edde7?s=96&amp;d=wavatar&amp;r=g 2x" width="48"/><span itemprop="name"><a class="comment-author-link" href="http://help.org" itemprop="url" rel="external nofollow">HELP.org</a></span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time" datetime="2014-03-10T07:38:29-04:00" itemprop="datePublished"><a class="comment-time-link" href="https://www.thedomains.com/2014/03/09/hackers-claim-to-publish-evidence-of-fraud-at-bitcoin-exchange-mt-gox/#comment-135810" itemprop="url">March 10, 2014 at 7:38 am</a></time></p>
+<p>Most experienced Bitcoiners got their funds out of Mt. Gox many months ago when US withdrawals stopped.  First rule of Bitcoin investing, never leave funds at an exchange except when making trades.  Maintain offline, cold wallet storage with offsite backups.</p>
+<p>Before getting involved in Bitcoin you must realize that it is composed of a very strange and complicated underworld and you have to know what is going on if you invest any substantial amount.  Anyone who lost funds with Mt. Gox either did not know what they were doing or were playing a very high risk gamble.</p>
+<p>TheDomains.com welcomes reader comments. Please follow these simple rules:</p>
+<p>We reserve the right to remove comments if we deem it necessary.</p>
+<p class="comment-form-comment"><label for="comment">Comment</label> <textarea cols="45" id="comment" maxlength="65525" name="comment" required="required" rows="8"></textarea></p>
+<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input aria-describedby="email-notes" id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" maxlength="200" name="url" size="30" type="url" value=""/></p>
+<p class="comment-subscription-form"><input id="subscribe_comments" name="subscribe_comments" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" type="checkbox" value="subscribe"/> <label class="subscribe-label" for="subscribe_comments" id="subscribe-label">Notify me of follow-up comments by email.</label></p>
+<p class="comment-subscription-form"><input id="subscribe_blog" name="subscribe_blog" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" type="checkbox" value="subscribe"/> <label class="subscribe-label" for="subscribe_blog" id="subscribe-blog-label">Notify me of new posts by email.</label></p>
+<p class="comment-form-subscriptions"><label for="subscribe-reloaded"><select id="subscribe-reloaded" name="subscribe-reloaded">
+<option value="none">Don't subscribe</option>
+<option value="yes">All</option>
+<option selected="selected" value="replies">Replies to my comments</option>
+</select> Notify me of followup comments via e-mail. You can also <a href="https://www.thedomains.com/comment-subscriptions/?srp=55227&amp;srk=37355b0606da9c9c598cf5b9fb79d0d4&amp;sra=s&amp;srsrc=f">subscribe</a> without commenting.</label></p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Submit Comment"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="55227"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="47bca548a7"/></p>
+<p class="antispam-group antispam-group-q" style="clear: both;">
+<label>Current ye@r <span class="required">*</span></label>
+<input class="antispam-control antispam-control-a" name="antspm-a" type="hidden" value="2018"/>
+<input autocomplete="off" class="antispam-control antispam-control-q" name="antspm-q" type="text" value="5.2"/>
+</p>
+<p class="antispam-group antispam-group-e" style="display: none;">
+<label>Leave this field empty</label>
+<input autocomplete="off" class="antispam-control antispam-control-e" name="antspm-e-email-url-website" type="text" value=""/>
+</p>
+<p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="202"/></p>
+<p> <script>
+		(function($) { 
+			$("#dfjHfiZ").load("https://www.thedomains.com/wp-admin/admin-ajax.php?action=dfads_ajax_load_ads&groups=203&limit=1&orderby=random&order=ASC&container_id=&container_html=none&container_class=&ad_html=div&ad_class=&callback_function=&return_javascript=0&_block_id=dfjHfiZ" );			
+		})( jQuery );
+		</script><br/>
+<noscript></noscript></p>
+<p></p>
+<p style="display: none;"><input id="poll_152_nonce" name="wp-polls-nonce" type="hidden" value="98b0d3bbca"/></p>
+<p style="display: none;"><input name="poll_id" type="hidden" value="152"/></p>
+<p class="wp-polls-q">How Many .Web Domains Will Be Registered 1 Year After Launch</p>
+<p style="text-align: center;"><input class="Buttons" name="vote" onclick="poll_vote(152);" onkeypress="poll_result(152);" type="button" value="   Vote   "/></p>
+<p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(152); return false;" onkeypress="poll_result(152); return false;" title="View Results Of This Poll">View Results</a></p>
+<p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+<p><iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fthedomains.co&amp;width=300&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23989898&amp;stream=false&amp;header=false&amp;appId=169811523084034" style="border:none; overflow:hidden; width:100%; height:258px;"></iframe></p>
+<p>Copyright ©2015 <a href="http://www.thedomains.com">TheDomains.com</a> — Published by <a href="http://www.wwmi.com" target="_blank">Worldwide Media, Inc.</a> — Site by <a href="http://www.nutsandboltsmedia.com/" rel="nofollow" target="_blank">Nuts and Bolts Media</a></p>

@@ -1,0 +1,62 @@
+<p>Copyright © 2018 ALM Media Properties, LLC. All Rights Reserved.</p>
+<p><a href="http://www.alm.com" target="_blank"><img data-pin-nopin="true" src="/assets/master-template/images/logo-alm.png" style="height:24px;"/></a></p>
+<p>Choose How You Would Like to Share This Page</p>
+<p class="share">
+<a class="button fb" href="#"><i></i><span class="label">Facebook</span></a>
+<a class="button tw" href="#"><i></i><span class="label">Twitter</span></a>
+<a class="button go" href="#"><i></i><span class="label">Google+</span></a>
+<a class="button li" href="#"><i></i><span class="label">LinkedIn</span></a>
+<a class="button em email-topic" href="#"><i></i><span class="label">Email</span></a>
+</p>
+<p>Get alerted any time new stories match your search criteria. Create an alert to follow a developing story, keep current on a competitor, or monitor industry news.</p>
+<p class="OverwriteExistingContainer" style="text-align: center;">
+<label style="display: inline-block;">Overwrite Existing Alert:</label>
+<input id="OverwriteExisting" name="OverwriteExisting" type="checkbox"/>
+</p>
+<p>
+<a class="signin sign-in-option button now" data-control="signin" href="https://store.law.com/Registration/Login.aspx?refDomain=store.thinkadvisor.com&amp;source=https://www.thinkadvisor.com/life-health/" rel="nofollow">Sign In</a>
+</p>
+<p class="title">Thank You!</p>
+<p>Don’t forget you can visit <a href="https://store.law.com/Registration/MyAccount.aspx?promoCode=TA#/CustomAlerts">MyAlerts</a> to manage your alerts at any time.</p>
+<p class="abstract major smallview-hidden">Come here for news, tips, commentary and analysis related to the life insurance, annuity, health insurance, disability insurance, long-term care insurance, Medicare plan and supplemental health insurance markets.</p>
+<p class="article-title major"><a href="https://www.thinkadvisor.com/2018/10/04/10-fastest-growing-large-cities-in-us/">Top 10 Fastest-Growing Large Cities in US</a></p>
+<p class="article-title major"><a href="https://www.thinkadvisor.com/2018/10/17/top-15-colleges-with-highest-salaries-for-business/">Top 15 Colleges Whose Business Majors Get Highest Starting Salaries</a></p>
+<p class="article-title major"><a href="https://www.thinkadvisor.com/2018/10/16/15-worst-cities-for-nursing-home-quality/">15 Worst Cities for Nursing Home Quality</a></p>
+<p class="article-title major"><a href="https://www.thinkadvisor.com/2018/10/18/new-dol-fiduciary-rule-coming-next-fall/">New DOL Fiduciary Rule Coming Next Fall</a></p>
+<p class="article-title major"><a href="https://www.thinkadvisor.com/2018/10/01/top-10-fastest-growing-small-midsize-cities-in-us/">Top 10 Fastest Growing Small, Midsize Cities in the US</a></p>
+<p class="sub">From Universal Financial Consultants</p>
+<p class="deck">Use this guide to identify the best prospects for an IUL with premium financing strategy and learn how to introduce the benefits to your clients.</p>
+<p class="action"><a href="http://thinkadvisorlifehealth.tradepub.com/free/w_unig09/prgm.cgi" target="_blank">Download Resource ›</a></p>
+<p class="sub">From Gradient Insurance Brokerage, Inc.</p>
+<p class="deck">You may not have complete financial records from your clients, but you can still get critical information from their basic tax form.</p>
+<p class="action"><a href="http://thinkadvisorlifehealth.tradepub.com/free/w_grad05/prgm.cgi" target="_blank">Download Resource ›</a></p>
+<p class="sub">From LegacyShield</p>
+<p class="deck">Why client engagement and personal referrals are more important than ever and what you need to do moving forward.</p>
+<p class="action"><a href="http://thinkadvisorlifehealth.tradepub.com/free/w_legc01/prgm.cgi" target="_blank">Download Resource ›</a></p>
+<p class="sub">From SCHECHTER</p>
+<p class="deck">Premium finance is not a set it and forget it investment, and it’s not one-size-fits-all. Learn how to make it effective with a custom-built strategy that adapts over your clients’ lifetime.</p>
+<p class="action"><a href="http://thinkadvisorlifehealth.tradepub.com/free/w_endc01/prgm.cgi" target="_blank">Download Resource ›</a></p>
+<p class="sub">From Universal Financial Consultants</p>
+<p class="deck">There is nothing like a real-life example to validate a new strategy for your wealthiest clients.</p>
+<p class="action"><a href="http://thinkadvisorlifehealth.tradepub.com/free/w_unig08/prgm.cgi" target="_blank">Download Resource ›</a></p>
+<p class="sub">From Universal Financial Consultants</p>
+<p class="deck">In an uncertain market, clients look to you for creative solutions. Offer them a way to boost wealth while protecting their loved ones.</p>
+<p class="action"><a href="http://thinkadvisorlifehealth.tradepub.com/free/w_unig07/prgm.cgi" target="_blank">Download Resource ›</a></p>
+<p class="sub">From Universal Financial Consultants</p>
+<p class="deck">Use this tool to explain the premium financing process to your clients in a easy-to-follow way!</p>
+<p class="action"><a href="http://thinkadvisorlifehealth.tradepub.com/free/w_unig05/prgm.cgi" target="_blank">Download Resource ›</a></p>
+<p class="sub">From Universal Financial Consultants</p>
+<p class="deck">Prospecting to increase your life insurance sales does not have to be difficult. Using ready-made, automated marketing campaigns can take you from zero to launch in minutes!</p>
+<p class="action"><a href="http://thinkadvisorlifehealth.tradepub.com/free/w_unig04/prgm.cgi" target="_blank">Download Resource ›</a></p>
+<p class="sub">From Universal Financial Consultants</p>
+<p class="deck">Use these tips as a primer before you talk to High-Net-Worth (HNW) clients to ensure you can answer their questions and build trust.</p>
+<p class="action"><a href="http://thinkadvisorlifehealth.tradepub.com/free/w_unig03/prgm.cgi" target="_blank">Download Resource ›</a></p>
+<p class="sub">From Kansas City Life</p>
+<p class="deck">Finding the best IUL for your practice.</p>
+<p class="action"><a href="http://thinkadvisorlifehealth.tradepub.com/free/w_kans04/prgm.cgi" target="_blank">Download Resource ›</a></p>
+<p class="sub">From Kansas City Life</p>
+<p class="deck">Help your clients secure their loved ones’ future with this useful worksheet.</p>
+<p class="action"><a href="http://thinkadvisorlifehealth.tradepub.com/free/w_kans03/prgm.cgi" target="_blank">Download Resource ›</a></p>
+<p class="view-more"><a href="/life-health/resources/">Browse More Resources  →</a></p>
+<p><a href="https://store.law.com/registration/default.aspx?promoCode=TA:LIMITED&amp;source=https://www.thinkadvisor.com/life-health/" rel="nofollow"><input class="submit" name="submit" type="button" value="Join ThinkAdvisor"/></a></p>
+<p><img class="alm-logo" src="/assets/master-template/images/logo-alm.png"/>Copyright © 2018 ALM Media Properties, LLC. All Rights Reserved.</p>

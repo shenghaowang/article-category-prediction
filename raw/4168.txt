@@ -1,0 +1,50 @@
+<p>Please <span class="not-logged-in">log in, or sign up for a new account and</span> purchase a subscription to continue reading.</p>
+<p>Please <span class="not-logged-in">log in, or sign up for a new account</span> to continue reading.</p>
+<p><strong>Thank you for Reading!
+</strong> We hope that you continue to enjoy our free content.</p>
+<p><strong>Welcome!</strong> Please enjoy your free content for the month.</p>
+<p><strong>Thank you for Reading!
+</strong> On your next view you will be asked to <span class="not-logged-in"><a class="alert-link" href="https://lmtribune.com/users/login/?referer_url=https%3A%2F%2Flmtribune.com%2Fbusiness%2Farticle_a886dd9b-d4c8-5a3f-b046-5ded28b5932b.html">log in</a> to your subscriber account or <a class="alert-link" href="/tncms/auth/begin/?provider=Newzware&amp;return=https%253A%252F%252Flmtribune.com%252Fbusiness%252Farticle_a886dd9b-d4c8-5a3f-b046-5ded28b5932b.html">create an account</a> and subscribe</span><span class="logged-in"><a href="https://lmtribune.com/users/admin/service/purchase/?referer_url=https%253A%252F%252Flmtribune.com%252Fbusiness%252Farticle_a886dd9b-d4c8-5a3f-b046-5ded28b5932b.html">purchase a subscription</a></span> to continue reading.</p>
+<p><strong>Thank you for Reading!
+</strong>Please enjoy your free content for the month.</p>
+<p><strong>Thank you for signing in!</strong> We hope that you continue to enjoy our free content.</p>
+<p><strong>Welcome!</strong> Please enjoy your free content for the month.</p>
+<p><strong>Welcome!</strong> Please enjoy your free content for the month.</p>
+<p><strong>Welcome!</strong> Please enjoy your free content for the month.</p>
+<p><strong>Welcome!</strong> Please enjoy your free content for the month.</p>
+<p><strong>Welcome!</strong> Please enjoy your free content for the month.</p>
+<p><strong>Checking back?</strong> Since you viewed this item previously you can read it again.</p>
+<p>Already a subscriber? Please log in below. New to us? Please choose one of our offers and "Get Started" to become a subscriber.</p>
+<p>Please purchase a subscription to continue reading.</p>
+<p>Your current subscription does not provide access to this content.</p>
+<p><strong>Sorry</strong>, this zipcode is not in our deliverable area for this subscription service.</p>
+<p>Re-enter zip code or sign up for digital access.</p>
+<p class="text-right"><a class="alert-link" href="/users//admin/service/purchase/?services=digital">Get digital access</a></p>
+<p>Please confirm you are in our delivery area</p>
+<p>Sunny. High 71F. Winds light and variable..</p>
+<p>Clear to partly cloudy. Low 43F. Winds light and variable.</p>
+<p class="text-center"><small><i class="fas tnt-info-circle"></i> Updated: October 20, 2018 @ 4:55 am</small></p>
+<p class="tnt-summary">As Cynthia Pemberton was formally recognized Friday as the 16th president of Lewis-Clark State College, she ended her remarks with a pledge and an ask. </p>
+<p class="tnt-summary">PULLMAN - For ESPN GameDay host Rece Davis, the delight of bringing the show to Pullman is inseparable from the delight of college football in general.In…</p>
+<p class="tnt-summary">This editorial was published by the Seattle Times.---A past conviction for something that is no longer considered a crime should not continue to damage someone's future.Yet…</p>
+<p>DENVER - Denver-based Quiznos has filed for Chapter 11 bankruptcy protection to reduce its debt by more than $400 million after the chain lost ground to competitors.</p>
+<p>The toasted sandwich company said Friday that it voluntarily filed to reorganize to implement a pre-packaged restructuring plan. Quiznos said the move won't affect its customers.</p>
+<p>The company only owns and operates seven of the nearly 2,100 Quiznos restaurants. The rest are owned and operated by franchisees and aren't part of the bankruptcy proceedings.</p>
+<p>Quiznos also said its distribution centers are open and fulfilling orders.</p>
+<p>Quiznos, founded in 1981, says the restructuring plan has been approved by its creditors so it expects to emerge from reorganization quickly.</p>
+<p>The Lewiston Quiznos at 2331 Thain Grade closed late last year.</p>
+<p>The Quiznos in the Palouse Mall in Moscow is still doing business.</p>
+<p>Associated Press</p>
+<p style="text-align: center;"><span style="font-size: 8pt; color: #808080;"><span style="color: #000000;"><strong>LEARN MORE:</strong></span>   <a href="http://www.integrativehealthoflewiston.com/" style="color: #808080;">Integrative Health</a> | <a href="https://oui.org/" style="color: #808080;">Opportunities Unlimited</a> | <a href="https://www.facebook.com/OneMoreTimeforCityCouncil/" style="color: #808080;">Bob Blakey</a> | <a href="http://www.delta.com/" style="color: #808080;">Lewiston Airport</a> | <a href="https://www.idaholottery.com/" style="color: #808080;">I</a><a href="https://www.idaholottery.com/" style="color: #808080;">daho</a><a href="https://www.idaholottery.com/" style="color: #808080;"> Lottery</a> | <a href="http://hahnsupply.com/supply/" style="color: #808080;">Hahn Supply</a>   | <a href="https://inland360.com/" style="color: #808080;">Inland 360</a>  | <a href="https://www.instagram.com/lewistontribune/" style="color: #808080;">Tribune Instagram</a></span></p>
+<p>Pick winners, win $50. Every week. It's that easy.</p>
+<p>Where you go for what you do. The region's best source for events, arts, culture ... everything.</p>
+<p>Digital newspaper archives: 1877 to present</p>
+<p>Text LMT to 87940 to receive breaking news alerts/links to your phone.</p>
+<p>Sign up to have headlines and breaking news delivered straight to your inbox.</p>
+<p>
+<strong>Success!</strong> An email has been sent with a link to confirm list signup.
+            </p>
+<p>
+<strong>Error!</strong> There was an error processing your request.
+            </p>
+<p>Travel safe with road and snow reports</p>

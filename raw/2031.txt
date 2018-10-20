@@ -1,0 +1,20 @@
+<p class="weather-nav-location-name"></p>
+<p class="weather-nav-settings-header">Settings</p>
+<p class="ui-btn header-nav-dropdown-dark-btn weather-nav-location-cancel-btn">Cancel</p>
+<p class="ui-btn header-nav-dropdown-light-btn weather-nav-location-set-btn">Set</p>
+<p class="site-nav-firefly-dropdown-text header-light">Hi <span class="site-nav-firefly-user-display-name"></span></p>
+<p class="site-nav-firefly-dropdown-text header-light">Already a subscriber?</p>
+<p class="site-nav-firefly-dropdown-text header-light">Subscribe to USA TODAY</p>
+<p class="site-nav-firefly-dropdown-text header-light">Already a print edition subscriber, but don't have a login?</p>
+<p class="site-nav-firefly-dropdown-text header-light">Manage your account settings.</p>
+<p class="site-nav-firefly-dropdown-text header-light"><a class="ff" data-user-account="firefly" href="https://help.usatoday.com" target="_blank">Support</a></p>
+<p class="site-nav-firefly-dropdown-text header-light"><a class="ff-logout-btn userAuth-redirect" data-ht="HeaderUserAuthLogout" href="https://user.usatoday.com/USAT-GUP/user/logout/?return-url=https%3A//www.usatoday.com/videos/money/business/2014/03/11/6282897/">Log Out</a></p>
+<p class="partner-scroll-message">Get the news</p>
+<p class="util-bar-flyout-subtitle util-bar-flyout-subtitle-share">Let friends in your social network know what you are reading about</p>
+<p class="util-bar-share-summary-description">The U.S. retail sector right now resembles a war zone as companies announce mass store closures hand over fist, but one retailer is growing, Dick's Sporting Goods. Not only is Dick's opening new stores, but massive new innovation inside those stores</p>
+<p class="share-email-success-pane-description">A link has been sent to your friend's email address.</p>
+<p class="util-bar-success-description util-bar-success-description-facebook">A link has been posted to your Facebook feed. </p>
+<p class="util-bar-flyout-subtitle util-bar-flyout-subtitle-comments">To find out more about Facebook commenting please read the <a href="http://static.usatoday.com/conversation-guidelines/">Conversation Guidelines and FAQs</a></p>
+<p class="video-desc" itemprop="description">
+    The U.S. retail sector right now resembles a war zone as companies announce mass store closures hand over fist, but one retailer is growing, Dick's Sporting Goods. Not only is Dick's opening new stores, but massive new innovation inside those stores
+    <span class="credit">Newslook</span></p>

@@ -1,0 +1,17 @@
+<p><input type="checkbox"/>Keep Me Logged In</p>
+<p>  Gold settled higher on Tuesday as fears of an economic slowdown in China and Ukraine's geopolitical crisis keep investors seeking safe-haven bullion. </p>
+<p>  In a sign of investor confidence in the precious metal amid global uncertainties, the world's biggest bullion-backed exchange-traded fund saw its largest inflow in a month on Monday.</p>
+<p>  Traders expect the metal to be well supported between $1,330 and $1,350, with the next big movement expected from the U.S. Federal Reserve's policy meeting next week.<br/> </p>
+<p> <a class="inline_quotes" data-gdsid="49020635" data-inline-quote-symbol="@GC.1" href="//www.cnbc.com/quotes/?symbol=%40GC.1" target="_self">U.S. gold futures</a> for April delivery settled $5.20 higher at $1,346.70 an ounce, having earlier dropped as much as 0.8 percent. </p>
+<p>  Meanwhile, <a class="inline_asset" data-nodeid="100271748" href="http://data.cnbc.com/quotes/xau%3D" target="_self">spot gold</a> was last up up 0.7 percent to $1,347 an ounce.  </p>
+<p>  "Gold continues to be largely supported above $1,329, and while prices are unlikely to break above $1,361.60 in the absence of war, underlying support from the Ukrainian crisis ... is likely to keep prices elevated above $1,320 for an extended time," said Joyce Liu, an analyst at Phillip Futures. </p>
+<p><em>  (Read more: </em><a href="/2014/03/11/why-traders-want-to-be-long-gold-into-the-weekend.html" target="_self">Why traders want to be long gold into the weekend</a>)</p>
+<p>  Gold traders are watching developments in the Ukraine crisis, over which the West and Russia are facing their worst stand off since the Cold War. </p>
+<p>  Weak Chinese exports data for February is also making investors opt for safe-haven gold rather than equities. </p>
+<p>  For more information on commodities, please <a href="/metal-commodities/" target="_self">click here</a>.  </p>
+<p class="Footer-sectionInfo">Got a confidential news tip? We want to hear from you.</p>
+<p class="Footer-sectionInfo">Sign up for free newsletters and get more CNBC delivered to your inbox</p>
+<p class="Footer-copyright">Get this delivered to your inbox, and more info about our products and services. <a href="https://www.nbcuniversal.com/privacy/">Privacy Policy.</a></p>
+<p class="Footer-copyright">© <!-- -->2018<!-- --> CNBC LLC. All Rights Reserved. <a href="http://www.nbcuni.com/">A Division of NBCUniversal</a></p>
+<p class="Footer-copyright">Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.</p>
+<p class="Footer-copyright">Data also provided by<!-- --> <a href="//www.cnbc.com/id/16061983/"><img alt="Reuters" class="Footer-reutersLogo" src="https://static-redesign.cnbcfm.com/dist/5000be27f744603e5cae8fb39b03fbc4.svg"/></a></p>

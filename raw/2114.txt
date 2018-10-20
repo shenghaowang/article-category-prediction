@@ -1,0 +1,10 @@
+<p>As the Malaysia Airlines flight MH370 remains untraceable even four days after it went missing, the US-based satellite imaging firm DigitalGlobe has crowdsourced search for the jet.</p>
+<p>The Colorado satellite imaging company's initiative will allow the public to analyse high-resolution images to look for any sign of the missing plane, a move which may prove highly crucial in finding the passenger jet.</p>
+<p>DigitalGlobe, which owns and operates five private satellites, will provide images taken from positions that are nearly 400 miles above earth. The pictures of the region will be available to users for free at the <a href="http://www.tomnod.com/nod/challenge/malaysiaairsar2014" rel="nofollow" target="_blank">website Tomnod.</a></p>
+<p>The public can scan the images and tag suspicious regions for any debris.</p>
+<p>"For people who aren't able to drive a boat through the Pacific Ocean to get to the Malaysian peninsula, or who can't fly airplanes to look there, this is a way that they can contribute and try to help out," Luke Barrington, senior manager of Geospatial Big Data for DigitalGlobe, told ABC News.</p>
+<p>The aim of the initiative, known as crowdsourcing, is to have as many eyes on the region as possible increasing the probability of acquiring clues.</p>
+<p>Barrington adds: "Anyone can click on the link and begin searching the images, tagging anything that looks suspicious. Each pixel on a computer screen represents 0.5m on the ocean's surface. We'll say, 'here are our 10 top suspicious or interesting locations'. Is it really an aircraft wing that's been chopped in half or is this some other debris floating on the ocean?"</p>
+<p>"We may not be 100 percent sure, but if this is where I had to go pick a location to go looking for needles in this big haystack, this is where I'd start."</p>
+<p>On previous occasions, images from the same company, whose clients include the US government and others across the world, had helped in disasters like floods and typhoons, and to locate missing hikers.</p>
+<p class="embTI"></p>

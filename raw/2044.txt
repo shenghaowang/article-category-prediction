@@ -1,0 +1,24 @@
+<p class="byline" data-component="meta-byline" data-link-name="byline"><span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="tone-colour" data-link-name="auto tag link" href="https://www.theguardian.com/profile/sean-farrell" itemprop="sameAs" rel="author"><span itemprop="name">Sean Farrell</span></a></span></p>
+<p aria-hidden="true" class="content__dateline">
+<time class="content__dateline-wpd js-wpd" data-timestamp="1395149700000" datetime="2014-03-18T13:35:00+0000" itemprop="datePublished">
+Tue 18 Mar 2014 <span class="content__dateline-time">13.35 GMT</span>
+</time>
+<time class="content__dateline-lm js-lm u-h" data-timestamp="1395149700000" datetime="2014-03-18T13:35:00+0000">
+First published on Tue 18 Mar 2014 <span class="content__dateline-time">13.35 GMT</span>
+</time>
+</p>
+<p>Nemat Shafik's <a class="u-underline" data-link-name="in body link" href="https://www.theguardian.com/business/blog/2014/mar/18/sainsburys-nine-year-run-of-sales-growth-is-over-business-live#block-53281aa5e4b0ffcfb3ba567e" title="">appointment as deputy governor of the Bank of England</a> will turn her from a relative unknown into arguably the most powerful woman in the City of London.</p>
+<p>Shafik, known by her nickname of Minouche, will oversee banking and markets in a newly created job at the Bank and will join the monetary policy committee, which sets interest rates.</p>
+<p>The Egyptian-born economist is a British and US national. She joins in August with an impressive record in academia and public service, shaped by her early life in <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="https://www.theguardian.com/world/egypt">Egypt</a>.</p>
+<p>As deputy managing director of the International Monetary Fund for almost three years she has overseen work on Europe and the Middle East and has managed the IMF's $1bn (£600m) administrative budget.</p>
+<p>Shafik, who is 51, is already well connected in the UK after working as permanent secretary at the Department for International Development (Dfid) for three years before joining the IMF. At Dfid she was the main sounding board for ministers and appeared regularly before parliament.</p>
+<p>Before Dfid, she was the youngest ever vice president of the World Bank and was responsible for $50bn of investments.</p>
+<p>Shafik was born in Alexandria, Egypt in 1962 but her family left Egypt in the 1960s after her father lost everything during the country's nationalisation. Those early years had a profound influence on her.</p>
+<p>"When you live in a poor country, you're surrounded by poverty and so that natural interest in why some people have and other people don't is always there," <a class="u-underline" data-link-name="in body link" href="http://globetrotter.berkeley.edu/conversations/Shafik/shafik-con1.html" title="">she said in 2001</a>.</p>
+<p>"I guess the particular angle that I have on development comes from the fact that my family was nationalised, and when that occurred, I left as a child and was raised in the US and didn't go back to Egypt until I was a teenager. But that experience of nationalisation and struggling with the role of the state trying to take resources, to redistribute them, but at the same time not being very successful at it was a part of my childhood."</p>
+<p>After finishing high school in Egypt she went back to the US, graduating in economics and politics from the University of Massachusetts-Amherst where she completed a BA in economics and politics. Two years of working on development issues in Egypt followed before she took an MSc in economics at the LSE by a doctorate in economics from St Antony's College, Oxford.</p>
+<p>Shafik married Raffael Jovine in 2002 and has a daughter, a son and three stepchildren. In her <a class="u-underline" data-link-name="in body link" href="Family, friends, museums, theatre, occasionally reading, walking and yoga" title="">Who's Who entry</a> she lists her interests as "family, friends, museums, theatre, occasionally reading, walking and yoga".</p>
+<p>On top of her academic and policy record, she has proved herself to be an effective administrator under stressful conditions.</p>
+<p>She joined the IMF shortly before it was thrown into turmoil by allegations of rape against its then managing director Dominique Strauss-Kahn. As well as managing the IMF's budget, Shafik oversaw human resources for its 3,000 staff and its training for policy makers around the world.</p>
+<p>With that kind of experience she is now surely in the running to become the Bank's first female governor when <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="https://www.theguardian.com/business/mark-carney">Mark Carney</a> steps down.</p>

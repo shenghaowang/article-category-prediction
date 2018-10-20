@@ -1,0 +1,9 @@
+<p class="now-playing-subhdr" data-reactid="171"></p>
+<p data-reactid="244"><textarea data-reactid="245" id="embed-player-code">&lt;iframe width="100%" height="124" scrolling="no" frameborder="no" src="https://player.wbur.org/hereandnow/2014/03/10/public-transit-study"&gt;&lt;/iframe&gt;</textarea></p>
+<p class="" data-reactid="272">Americans are riding the rails and buses in greater numbers than anytime since the beginning of the suburban sprawl in the 1950s.</p>
+<p class="" data-reactid="273">A <a href="http://www.apta.com/resources/statistics/Documents/2013-q4-ridership-APTA.pdf" target="_blank">study</a> by the American Public Transportation Association reports nearly 10.7 billion trips were taken last year, which is the highest number of trips since 1956.</p>
+<p class="" data-reactid="274">The uptick is not confined to cities like New York and Washington, D.C., which have average high populations of ridership. Cities including Seattle, Denver and San Diego have also seen a huge gain as they expand their public transportation offerings.</p>
+<p class="" data-reactid="275"><strong>Cardiff Garcia</strong> of The Financial Times joins <em><a href="http://hereandnow.wbur.org">Here &amp; Now'</a>s</em> Jeremy Hobson to discuss the increasing use of public transportation.</p>
+<p class="" data-reactid="279"><em>This segment aired on March 10, 2014.</em></p>
+<p class="uw-label" data-reactid="284">Support the news</p>
+<p class="uw-label" data-reactid="314">Support the news</p>

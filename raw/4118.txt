@@ -1,0 +1,41 @@
+<p class="h3red">Thank you for visiting Telecompaper</p>
+<p>We hope you've enjoyed your free articles. Sign up below to get access to the rest of this article and all the telecom news you need.</p>
+<p class="h4blue">Already registered?</p>
+<p><input class="normal_input" id="ctl00_MainPlaceHolder_txtEmail1" maxlength="200" name="ctl00$MainPlaceHolder$txtEmail1" placeholder="E-mail" style="width:200px;" type="text"/></p>
+<p><input class="normal_input" id="ctl00_MainPlaceHolder_txtPassword" maxlength="200" name="ctl00$MainPlaceHolder$txtPassword" placeholder="Password" style="width:200px;" type="password"/></p>
+<p><input id="ctl00_MainPlaceHolder_chkPersistLogin" name="ctl00$MainPlaceHolder$chkPersistLogin" type="checkbox"/><label for="ctl00_MainPlaceHolder_chkPersistLogin">Remember me</label></p>
+<p><input class="button_blue" id="ctl00_MainPlaceHolder_btnLogin" name="ctl00$MainPlaceHolder$btnLogin" type="submit" value="Login"/></p>
+<p>Every day we send out a free e-mail with the most important headlines of the last 24 hours.
+            
+        </p>
+<p>
+<a class="button_blue" href="https://www.telecompaper.com/international/headlines">Subscribe now</a>
+</p>
+<p class="source warning">We welcome comments that add value to the discussion. We attempt to block comments that use offensive language or appear to be spam, and our editors frequently review the comments to ensure they are appropriate. If you see a comment that you believe is inappropriate to the discussion, you can bring it to our attention by using the report abuse links. As the comments are written and submitted by visitors of the Telecompaper website, they in no way represent the opinion of Telecompaper.</p>
+<p>
+                        We have been keeping professionals in the telecoms industry up-to-date since 2000. Telecompaper is a well respected, independent research and publishing company focussed on the telecommunications industry.
+                    </p>
+<p>
+<span class="tp">tp:</span><span class="news">news</span><br/>
+<span class="tp">tp:</span><span class="research">research</span><br/>
+<span class="tp">tp:</span><span class="events">events</span><br/>
+</p>
+<p>
+<b>Corporate HQ</b><br/>
+                        Standerdmolen 20-III<br/>
+                        3995 AA Houten<br/>
+                        The Netherlands<br/>
+</p>
+<p>
+                        Phone: +31 30 6349600<br/>
+                        Fax: +31 30 6349699<br/>
+</p>
+<p>© 2000 - 2018 Telecom.paper BV. All rights reserved.
+                    Telecompaper is a trademark of Telecom.paper BV. No part of this site can be reproduced without 
+                    the expressed permission of Telecom.paper BV. Our General Terms and Conditions can be found <a href="https://www.telecompaper.com/order/termsconditions.aspx">here</a>.</p>
+<p>
+<a href="https://www.telecompaper.com/info/privacy-statement--68">Privacybeleid</a><br/>
+<a href="https://www.telecompaper.com/info/gdpr-information--66">GDPR</a><br/>
+<a href="https://www.telecompaper.com/about/this-website/cookie-policy">Cookie Statement</a><br/>
+<a href="https://www.telecompaper.com/order/termsconditions.aspx">Terms and Conditions</a><br/>
+</p>

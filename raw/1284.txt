@@ -1,0 +1,15 @@
+<p class="truncated-string" title="DOW">DOW</p>
+<p class="truncated-string" title="NASDAQ">NASDAQ</p>
+<p class="truncated-string" title="S&amp;P 500 Index">S&amp;P 500 Index</p>
+<p class="truncated-string" tabindex="0" title="NASDAQ 100">NASDAQ 100</p>
+<p class="truncated-string" tabindex="0" title="S&amp;P 100">S&amp;P 100</p>
+<p class="truncated-string" tabindex="0" title="S&amp;P MidCap 400">S&amp;P MidCap 400</p>
+<p class="truncated-string" tabindex="0" title="NYSE Composite">NYSE Composite</p>
+<p class="truncated-string" tabindex="0" title="AMEX Composite">AMEX Composite</p>
+<p class="truncated-string" tabindex="0" title="S&amp;P/TSX Composite">S&amp;P/TSX Composite</p>
+<p class="truncated-string" tabindex="0" title="DAX">DAX</p>
+<p class="truncated-string" tabindex="0" title="Nikkei 225">Nikkei 225</p>
+<p class="truncated-string" tabindex="0" title="FTSE 100">FTSE 100</p>
+<p class="truncated-string" tabindex="0" title="Hang Seng">Hang Seng</p>
+<p class="truncated-string" tabindex="0" title="SENSEX">SENSEX</p>
+<p class="truncated-string" tabindex="0" title="Market Statistics">Market Statistics</p>

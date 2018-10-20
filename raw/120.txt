@@ -1,0 +1,60 @@
+<p class="bk_timeline">updated - October 20, 2018 Saturday EDT</p>
+<p>King Entertainment's Candy Crush Saga app is aiming to fund  $530 million for a $7.6 billion value on its Initial Public Offering submitted last month <em>The Telegraph</em> reported Wednesday.</p>
+<p>"'Candy Crush' is in slight decline and I think that's what investors will focus on," Arvind Bhatia, an analyst at Sterne Agree and Leach told <a href="http://www.bloomberg.com/news/2014-03-12/-candy-crush-maker-king-prices-ipo-at-as-much-as-24-a-share.html" rel="nofollow">Bloomberg.</a>."They are trying to be cognizant of what happened to Zynga."</p>
+<p>According to <em>The Telegraph,</em> plans to have shares from $21 and $24 each upon its arrival on the United States Securities and Exchange Commission. Shareholders Ventures and Apax are expected to market 6.7 million in shares.</p>
+<p>"King simply must create multi-decade franchises around characters that last for generations - not for fortnights - before they can have a successful IPO at the valuation they want," Sam Hamadeh, founder of PrivCo, said in a statement prior to KING submitting necessary materials for the Initial Public Offering Feb. 18 Bloomberg reported.</p>
+<p>
+<!-- article_center_middle11_computer start-->
+<div class="adunit_rectangle" id="adunit_article_center_middle11_computer">
+<div class="ad-sample advertisement_article_center_middle11_computer"><span>Advertisement</span></div>
+<!-- Place in head part widget:fran003 -->
+<script type="text/javascript">
+ 
+    var sbElementInterval = setInterval(function(){sbElementCheck()}, 50);
+ 
+    function sbElementCheck() {
+ 
+        var targetedElement = document.getElementById('ingageunit');
+        if(targetedElement) {
+            clearInterval(sbElementInterval);
+            (function(d) {
+                var js, s = d.getElementsByTagName('script')[0];
+                js = d.createElement('script');
+                js.async = true;
+                js.onload = function(e) {
+                    SbInGageWidget.init({
+                        partnerId : 4255,
+                        widgetId : 'fran003',
+                        cmsPath : 'http://cms.springboardplatform.com'
+                    });
+                }
+                js.src = "http://cdn.springboardplatform.com/storage/js/ingage/apingage.min.js";
+                s.parentNode.insertBefore(js, s);
+            })(window.document);
+        }
+    }
+</script>
+<!-- Place in head part -->
+<!-- Place in body part -->
+<div id="ingageunit"></div>
+<!-- Place in body part -->
+</div>
+<!-- article_center_middle11_computer end -->
+</p>
+<p>Candy Crush Saga was first introduced on King's website before coming to Facebook last April <a href="http://www.technologytell.com/apple/126617/candy-crush-saga-surpassed-500-million-downloads-in-one-year/" rel="nofollow">Technology Tell</a> reported. It then became available on Mobile Apps a year ago this month.</p>
+<p>The game has since set records in Apple's iOS app store, and Google Play Store.</p>
+<p>The app is bringing in the most money in the US App store, and many parts of the world Technology Tell reported.</p>
+<p>More than 61 percent of players who have the game in the United Kingdom, compete while they are on their way to work in the morning Tech Crunch reported.</p>
+<p>Seventy-eight percent of players in the United States use the game as they view television shows since data found prime time was from 6 p.m. to 9 p.m., along with Sundays.</p>
+<p>According to <a href="http://techcrunch.com/2013/11/15/ahead-of-possible-ipo-king-reveals-candy-crush-hits-half-a-billion-installs-150-billion-plays-to-date/" rel="nofollow">Tech Crunch,</a> one in every 23 people on Facebook play the game.</p>
+<p>King brought in $1.9 billion in income in 2013 according to information from <a href="http://news.cnet.com/8301-1023_3-57619014-93/candy-crush-saga-maker-king-files-for-ipo/" rel="nofollow">CNET.</a> This is an increase from $164 million in 2012, and $63,9 million in 2011 CNET reported.</p>
+<p>King owns 180 additional other games, which are played by ninety-three million people regularly.</p>
+<p class="nw_comment" id="info" style="display:none;">You have already subscribed. Thank you.</p>
+<p class="nw_lwtter_title">Connect With Franchise News</p>
+<p class="nw_lwtter_title br_gray ">Email Newsletter </p>
+<p class="nw_comment" id="repword" style="display:none;">You have already subscribed. Thank you.</p>
+<p class="title">TOP 10 FRANCHISES OF 2018</p>
+<p class="partner-txt"><span class="bold">Partner :</span> <a class="partner-link" href="https://www.uwannit.com/" target="_blank">Best Product Reviews
+            <span alt="uwannit.com" class="uwannit-logo"></span></a>
+</p>
+<p><img alt="Clicky" height="1" src="//in.getclicky.com/66581476ns.gif" width="1"/></p>

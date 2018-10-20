@@ -1,0 +1,116 @@
+<p><b>Cookies from EE and our partners can help our site work better for you by remembering your settings, improving social media features and personalising offers. Choose the type of cookies you're happy for us to use (you can change them anytime), or just accept.</b><br/>
+</p>
+<p style="text-align: center;"><b>Certain types of cookie are essential to use our site. You can choose to disable some types of cookie, but this may reduce the services we can offer you</b>.</p>
+<p>These cookies let you use essential features like secure areas, shopping baskets and online billing. They also collect information about how you use our website such as which pages you visit, and any errors you might experience.</p>
+<p>They <b>DO NOT</b> gather any information about you that could be used for marketing or remember where you've been on the internet.</p>
+<p>Cookies that help provide services and remember settings to improve your visit.</p>
+<p>Keeping these switched on means we can improve the support we give you when you're using our site.</p>
+<p>Cookies linked to services provided by us and our partners, such as 'Like' and 'Share' buttons. Our partners provide these services in return for recognising that you've visited our website.</p>
+<p>Keeping these switched on means we can offer you all the services available on our site and tailor the offers we and our partners share with you.</p>
+<p class="eed-business-segment-overlay__mainheading">CHOOSE WHICH TYPE OF BUSINESS YOU ARE:</p>
+<p class="eed-business-segment-overlay__heading">Small business</p>
+<p><a class="cta-group__button button button-primary" data-segment="small-business" href="https://ee.co.uk/business/small/?s_intcid=eecon_choose_small_business">SMALL BUSINESS</a></p>
+<p>OR</p>
+<p class="eed-business-segment-overlay__heading">Large business</p>
+<p><a class="cta-group__button button button-primary" data-segment="large-business" href="https://ee.co.uk/business/large/?s_intcid=eecon_choose_large_business">LARGE BUSINESS</a></p>
+<p class="eed-business-segment-overlay__heading">Small business</p>
+<p>OR</p>
+<p class="eed-business-segment-overlay__heading">Large business</p>
+<p>Got a phone, tablet or 4GEE WiFi device? Add it to My EE and manage everything in one place.</p>
+<p><a href="https://myaccount.ee.co.uk/association/">Add a device</a></p>
+<p>Got home broadband? Add it to My EE and manage everything in one place.</p>
+<p><a href="https://yourhomeaccount.orange.co.uk">Add home broadband</a></p>
+<p><span class="h1">EE Home Broadband</span></p>
+<p><b><span class="h4">We've now moved all our mobile and broadband accounts to My EE so everything you need is in one place.</span></b></p>
+<p style="margin-left: 40.0px;"><b><br/>
+<span class="h4">Already registered for My EE?<br/>
+</span></b><a href="https://id.ee.co.uk/id/login">Log in to My EE</a> using your mobile login details and choose 'Add home broadband'</p>
+<p style="margin-left: 40.0px;"><b><span class="h4">Not registered yet for My EE?<br/>
+</span></b>It's easy and quick to set up a new login. Just <a href="https://id.ee.co.uk/register">register now</a> and choose 'Add home broadband’</p>
+<p style="margin-left: 40.0px;"><a href="https://ee.co.uk/help/help-new/managing-and-using-my-account/managing-my-account/why-cant-i-log-in-to-my-ee#broadbanddetails">Find out more &gt;</a></p>
+<p> </p>
+<p><span class="h1">ORANGE MOBILE</span></p>
+<p><span class="h4">Orange Your Account is now closed so you can no longer access it online. But you can still manage elements of your account by text. </span><br/>
+</p>
+<p>You can use our Text Service to manage your account and stay in control of your account from your phone</p>
+<p>
+<a class="cta-group__link" href="https://ee.co.uk/help/accounts-billing-and-topping-up/pay-as-you-go-top-ups/text-services-pay-as-you-go#orange">Find out more</a></p>
+<p>There are lots of ways you can top up your PAYG phone</p>
+<p>
+<a class="cta-group__link" href="https://ee.co.uk/help/accounts-billing-and-topping-up/pay-as-you-go-top-ups/ways-to-top-up#orange">Find out more</a></p>
+<p>If you want to buy an Add on, here’s how you can</p>
+<p>
+<a class="cta-group__link" href="https://ee.co.uk/help/my-account/pay-as-you-go/pay-as-you-go-add-ons#orange">Find out more</a></p>
+<p style="text-align: center;"><span class="h3">Text Service<br/>
+</span><br/>
+You can use our Text Service to manage<br/>
+your account and stay in control of your account from your phone<br/>
+<br/>
+<a href="https://ee.co.uk/help/accounts-billing-and-topping-up/sign-up-and-manage-your-account/my-ee-account-help/text-service-for-pay-monthly#orange"><span class="white"><b>Find out more &gt;</b></span></a><br/>
+ </p>
+<p style="text-align: center;"><span class="h3">My Bill</span><span class="h2"><br/>
+</span><br/>
+You can find out more about your plan by texting the following codes to 150 from you Orange Pay Monthly Phone. All free of charge.</p>
+<p style="margin-left: 40.0px;"><b>BALANCE</b> - view your current balance<br/>
+<b>BILL</b> - for a summary of your recent invoices and payments<br/>
+<b>PLAN</b> - to see which plan you're on<br/>
+</p>
+<p style="text-align: center;">If you’ve used Your Account to view your bills then we will send you an itemised bill. If you aren’t getting an itemised bill and want one, then please give us a call to get set up<br/>
+</p>
+<p class="respond-message-yes">Thank you.</p>
+<p class="respond-message-no">Thank you.</p>
+<p class="respond-message">Thank you.</p>
+<p class="ee-form-field radio-grid ee-form-field--input-group">
+<input name="radioQuestion" type="hidden" value="Why wasn't this helpful?"/>
+<label>
+                    Why wasn't this helpful?</label>
+<span class="ee-form-control-wrapper table">
+<span class="table-row">
+<input id="feedbackRadio0" name="radioFeedback" type="radio" value="The article didn't answer my question"/>
+<label class="ee-form-control table-cell" for="feedbackRadio0">
+<span>The article didn't answer my question</span>
+</label>
+<input id="feedbackRadio1" name="radioFeedback" type="radio" value="The article is too long"/>
+<label class="ee-form-control table-cell" for="feedbackRadio1">
+<span>The article is too long</span>
+</label>
+</span>
+<span class="table-row">
+<input id="feedbackRadio2" name="radioFeedback" type="radio" value="The article is missing important information"/>
+<label class="ee-form-control table-cell" for="feedbackRadio2">
+<span>The article is missing important information</span>
+</label>
+<input id="feedbackRadio3" name="radioFeedback" type="radio" value="The article doesn't make any sense"/>
+<label class="ee-form-control table-cell" for="feedbackRadio3">
+<span>The article doesn't make any sense</span>
+</label>
+</span>
+</span>
+</p>
+<p class="ee-form-field">
+<input class="form_button_submit" id="edit-submit" name="feedback" type="submit" value="Send Feedback"/>
+</p>
+<p class="blind-message blind-message-1">Thank you.</p>
+<p class="blind-message blind-message-2">Thank you, now you can press any tab to choose why this article is not helpful.</p>
+<p class="blind-message blind-message-3">Your response was sent. Thank you.</p>
+<p class="ee-footer-social">
+<a class="ee-footer-social__link ee-icon-twitter" href="https://twitter.com/EE" target="_blank" title="Visit our Twitter page"> <span class="assistive-text">EE on Twitter</span>
+</a>
+<a class="ee-footer-social__link ee-icon-facebook" href="http://www.facebook.com/ee" target="_blank" title="Visit our Facebook page">
+<span class="assistive-text">EE on Facebook</span>
+</a>
+<a class="ee-footer-social__link ee-icon-youtube" href="http://www.youtube.com/ee" target="_blank" title="Visit our YouTube channel">
+<span class="assistive-text">EE on YouTube</span>
+</a>
+<a class="ee-footer-social__link ee-icon-linkedin" href="http://www.linkedin.com/company/ee-uk" target="_blank" title="Visit our LinkedIn page"> <span class="assistive-text">EE
+											on LinkedIn</span>
+</a>
+</p>
+<p class="ee-footer-copyright">
+						©
+						2018 
+						EE Limited</p>
+<p class="ee-footer-brand">
+<span class="ee-footer-brand__text"></span>
+</p>
+<p class="ee-overlay__heading"></p>

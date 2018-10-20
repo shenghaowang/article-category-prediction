@@ -1,0 +1,97 @@
+<p class="widget-title widgettitle">Share This Article</p>
+<p class="widget-title widgettitle">Email this Article</p>
+<p class="entry-meta">By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/tclarke/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Tara Clarke</span></a></span>, <span class="author-title"> Associate Editor</span>, <span class="author-attribution">Money Morning</span><span class="sep"> • </span><a href="http://twitter.com/TaraKateClarke" target="_blank"><span class="author-twitter">@TaraKateClarke</span></a> <span class="sep">•</span> <time class="entry-time" datetime="2014-03-07T15:24:56+00:00" itemprop="datePublished">March 7, 2014</time> </p>
+<p>Start the conversation</p>
+<p class="comment-reply-title" id="reply-title">Leave a Reply <small><a href="/2014/03/07/five-year-anniversary-stock-market-crash-week-investors-worried/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Click here to cancel reply.</a></small></p>
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>
+<p class="comment-form-comment"><label for="comment">Comment</label> <textarea aria-required="true" cols="45" id="comment" maxlength="65525" name="comment" required="required" rows="8"></textarea></p>
+<p class="mm-signup-comment-checkbox"><label><input checked="checked" class="mm-signup" id="mm-signup" name="mm-signup" type="checkbox" value="1"/> Sign me up for the <em>Money Morning</em> newsletter</label></p>
+<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input aria-required="true" id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input aria-describedby="email-notes" aria-required="true" id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" maxlength="200" name="url" size="30" type="url" value=""/></p>
+<p class="cptch_block"><br/><span class="cptch_wrap">
+<label class="cptch_label" for="cptch_input">
+<span class="cptch_span">two</span>
+<span class="cptch_span"> × </span>
+<span class="cptch_span"><input aria-required="true" autocomplete="off" class="cptch_input " id="cptch_input_92" maxlength="2" name="cptch_number" required="required" size="2" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;" type="text" value=""/></span>
+<span class="cptch_span"> = </span>
+<span class="cptch_span">six</span>
+<input name="cptch_result" type="hidden" value="i+4="/>
+<input name="cptch_time" type="hidden" value="1540058353"/>
+<input type="hidden" value="Version: 4.2.2"/>
+</label><span class="cptch_reload_button_wrap hide-if-no-js">
+<noscript>
+<style type="text/css">
+							.hide-if-no-js {
+								display: none !important;
+							}
+						</style>
+</noscript>
+<span class="cptch_reload_button dashicons dashicons-update"></span>
+</span></span></p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Submit &gt;"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="124620"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="a079a749a8"/></p>
+<p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="221"/></p>
+<p>The stock market crash this week  that occurred five years ago this Sunday marks a solemn anniversary for U.S.  stock markets.</p>
+<p>Subprime financial crisis-related  events would ultimately become responsible for <a href="https://moneymorning.com/2014/02/13/stock-market-crash-history-dows-10-biggest-one-day-plunges/" target="_blank">five out  of the top ten biggest single-day Dow Jones Industrial Average stock market crashes</a>,  including the top two spots.  </p>
+<p><img align="left" alt="stock market crash this week" src="http://moneymorning.com/files/2014/03/stock-market-crash-this-week.png" style="padding:10px" title="stock market crash this week"/></p>
+<p>After the Dow Jones hit an (at  the time) all-time high on Oct. 9, 2007, at 14,164.43, it would fall by more  than 50% to 6,594.44 by March 5, 2009 – a little under 18 months later.</p>
+<p>U.S. markets hit their lowest  point in the crash on March 9, 2009; the 5-year anniversary of that low point  is this Sunday.</p>
+<p>Since that day, U.S. markets have  skyrocketed. The <a href="https://www.google.com/finance?q=INDEXSP%3A.INX&amp;ei=TwAaU_jmJOjw6AG01gE" rel="nofollow" target="_blank">S&amp;P  500</a> Index is up  174.7% (1,193.85 points), the <a href="https://moneymorning.com/stocks/dji/" target="_blank">Dow Jones  Industrial Average</a> has posted a 148.35% gain (9,830.98 points), and  the <a href="https://www.google.com/finance?q=INDEXNASDAQ%3A.IXIC&amp;ei=MAEaU-H3IYn46wHmjQE" rel="nofollow" target="_blank">Nasdaq</a> is up  235% (3,040.5).</p>
+<p><strong><font color="#FF0000">Note:</font> <em>Turn market  volatility into profits by learning to trade the market's most powerful index. </em><a href="https://moneymorning.com/active-premiums/vix-report/?src=organic" target="_blank"><em>Here's how…</em></a></strong><a href="https://moneymorning.com/active-premiums/vix-report/?src=organic" target="_blank"></a></p>
+<p>In fact, as of this week, the  bull market – defined as a period in which the S&amp;P 500 gains 20% or more –  ranks as the sixth longest since 1928, according to Bespoke Investment Group  research.</p>
+<p>However, the longer this rally  lasts, the greater the anxiety there will be a stock market crash, or at least  an official stock market correction – defined as a decline of 10% or more.</p>
+<p>"I am very concerned about a  correction right now," <em>Money Morning </em>Chief Financial Strategist Keith  Fitz-Gerald said on Friday. "The past few weeks have seen higher prices and  lower volume. This is like climbing a mountain into thin air – every step  higher gets harder. Sooner or later, the markets are going to have to take a breather  and turn around."</p>
+<p>Here are the three signs that have investors worried we're due for a  stock market crash or correction soon…</p>
+<p> <a id="continueReading" name="continueReading"></a><script>if (location.search.indexOf("continueReading=1") >= 0) {  jQuery(window).load(function() {    jQuery(window).scrollTop(jQuery("#continueReading").offset().top - 35);  });}</script></p>
+<p><a class="scroll-to-comments" href="#respond">Join the conversation. Click here to jump to comments…</a></p>
+<p>Tags: <a href="https://moneymorning.com/tag/five-year-anniversary-of-the-stark-market-crash/" rel="tag">five year anniversary of the stark market crash</a>, <a href="https://moneymorning.com/tag/is-the-stock-market-going-to-crash/" rel="tag">is the stock market going to crash</a>, <a href="https://moneymorning.com/tag/market-correction/" rel="tag">market correction</a>, <a href="https://moneymorning.com/tag/signs-of-a-stock-market-crash/" rel="tag">signs of a stock market crash</a>, <a href="https://moneymorning.com/tag/signs-the-stock-market-will-crash/" rel="tag">signs the stock market will crash</a>, <a href="https://moneymorning.com/tag/stock-market-correction/" rel="tag">stock market correction.</a>, <a href="https://moneymorning.com/tag/stock-market-crash/" rel="tag">stock market crash</a>, <a href="https://moneymorning.com/tag/stock-market-crash-anniversary/" rel="tag">stock market crash anniversary</a>, <a href="https://moneymorning.com/tag/stock-market-crash-this-week/" rel="tag">Stock market crash this week</a>, <a href="https://moneymorning.com/tag/stock-market-history/" rel="tag">stock market history</a>, <a href="https://moneymorning.com/tag/stock-market-today/" rel="tag">Stock Market Today</a>, <a href="https://moneymorning.com/tag/will-the-stock-market-crash/" rel="tag">will the stock market crash</a></p>
+<p>HERDING AND MARKETS</p>
+<p>Speaking of lower volume in recent weeks, Facebook's last gap up to $64/hare from the low $50's in late January right after its earnings announcement was carried higher by less volume than in late July, the first time it began to recover back to its 2012 IPO price levels. FB stock moved much higher on higher earnings and growth in mobile advertising revenue but on lower volume. I noticed it at the time, but until now, nobody else seemed ready to make a comment about this development. Most pundits wait until there already is a consensus with either their peers or the public before stating a (existing) trend in motion. </p>
+<p>As the saying goes: " Its way better to be wrong but in agreement with the majority (crowd) than right but alone". This tendency alone goes a long way in explaining market behavior. Therefore, we tend to experience waves of of momentum up or down and consequent volatility.</p>
+<p class="comment-reply-title" id="reply-title">Leave a Reply <small><a href="/2014/03/07/five-year-anniversary-stock-market-crash-week-investors-worried/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Click here to cancel reply.</a></small></p>
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>
+<p class="comment-form-comment"><label for="comment">Comment</label> <textarea aria-required="true" cols="45" id="comment" maxlength="65525" name="comment" required="required" rows="8"></textarea></p>
+<p class="mm-signup-comment-checkbox"><label><input checked="checked" class="mm-signup" id="mm-signup" name="mm-signup" type="checkbox" value="1"/> Sign me up for the <em>Money Morning</em> newsletter</label></p>
+<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input aria-required="true" id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input aria-describedby="email-notes" aria-required="true" id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" maxlength="200" name="url" size="30" type="url" value=""/></p>
+<p class="cptch_block"><br/><span class="cptch_wrap">
+<label class="cptch_label" for="cptch_input">
+<span class="cptch_span"><input aria-required="true" autocomplete="off" class="cptch_input " id="cptch_input_19" maxlength="2" name="cptch_number" required="required" size="2" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;" type="text" value=""/></span>
+<span class="cptch_span"> − </span>
+<span class="cptch_span">three</span>
+<span class="cptch_span"> = </span>
+<span class="cptch_span">6</span>
+<input name="cptch_result" type="hidden" value="9uQ="/>
+<input name="cptch_time" type="hidden" value="1540058353"/>
+<input type="hidden" value="Version: 4.2.2"/>
+</label><span class="cptch_reload_button_wrap hide-if-no-js">
+<noscript>
+<style type="text/css">
+							.hide-if-no-js {
+								display: none !important;
+							}
+						</style>
+</noscript>
+<span class="cptch_reload_button dashicons dashicons-update"></span>
+</span></span></p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Submit &gt;"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="124620"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="a079a749a8"/></p>
+<p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="28"/></p>
+<p>
+					Choose from the topics below to receive our<wbr/>
+					money-making recommendations in real time.
+				</p>
+<p class="fpw-entry-meta"><time class="entry-time" datetime="2018-10-19T15:44:38+00:00" itemprop="datePublished">October 19, 2018</time> • By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/tom-gentile/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Tom Gentile</span></a></span> <span class="entry-comments-link"><a href="https://moneymorning.com/investing/use-options-to-profit-from-these-10-worst-performing-stocks/#respond">Leave a Comment</a></span></p>
+<p class="fpw-entry-meta"><time class="entry-time" datetime="2018-10-19T15:32:42+00:00" itemprop="datePublished">October 19, 2018</time> • By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/mmstaffreports/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Money Morning Staff Reports</span></a></span> <span class="entry-comments-link"><a href="https://moneymorning.com/2018/10/19/3-must-watch-penny-stocks-in-october-2018/#respond">Leave a Comment</a></span></p>
+<p class="fpw-entry-meta"><time class="entry-time" datetime="2018-10-19T15:09:53+00:00" itemprop="datePublished">October 19, 2018</time> • By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/mmnewsteam/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Money Morning News Team</span></a></span> <span class="entry-comments-link"><a href="https://moneymorning.com/2018/10/19/the-best-defense-stock-to-buy-in-october/#respond">Leave a Comment</a></span></p>
+<p class="widget-title">Trending Posts</p>
+<p class="disclaimer">By submitting your email address you will receive a free subscription to VQScore and occasional special offers from Money Map Press and our affiliates. You can unsubscribe at anytime and we encourage you to read more about our <a href="/privacy/" target="_blank">privacy policy</a>.</p>
+<p>Money Morning gives you access to a team of ten market experts with more than 250 years of combined investing experience – for free. Our experts – who have appeared on FOXBusiness, CNBC, NPR, and BloombergTV – deliver daily investing tips and stock picks, provide analysis with actions to take, and answer your biggest market questions. Our goal is to help our millions of e-newsletter subscribers and Moneymorning.com visitors become smarter, more confident investors. </p>
+<p>© 2018 Money Morning All Rights Reserved. Protected by copyright of the United States and international treaties. Any reproduction, copying, or redistribution (electronic or otherwise, including the world wide web), of content from this webpage, in whole or in part, is strictly prohibited without the express written permission of Money Morning. </p>
+<p>Address: 1125 N Charles Street | Baltimore, MD, 21201 | USA | Phone: 888.384.8339 | <a href="https://moneymorning.com/legal-disclaimers/">Disclaimer</a> | <a href="https://moneymorning.com/sitemap/">Sitemap</a> | <a href="https://moneymorning.com/privacy/">Privacy Policy</a> | <a href="https://moneymorning.com/whitelist/">Whitelist Us</a></p>

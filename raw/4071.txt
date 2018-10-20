@@ -1,0 +1,15 @@
+<p>Bitcoin exchange MtGox has finally allowed thousands of concerned customers to view their balances, but not to withdraw the digital funny money.</p>
+<p>On its <a href="https://www.mtgox.com/">website</a>, MtGox said it would let users look at their accounts as long as they were happy not to touch.</p>
+<p>"This balance confirmation service is provided on this site only for the convenience of all users," said MtGox in a statement.</p>
+<p>"Please be aware that confirming the balance on this site does not constitute a filing of rehabilitation claims under the civil rehabilitation procedure and note that the balance amounts shown on this site should also not be considered an acknowledgment by MtGox Co., Ltd. of the amount of any rehabilitation claims of users."</p>
+<p>As well as this teasing statement, Gox also said that any method for filing claims would be published on the website as soon as it decided.</p>
+<p>Gox has filed for bankrupcy protection in Japan after admitting it had <a href="http://www.theregister.co.uk/2014/02/26/mtgox_bitcoin_collapse_ceo_vanishes_but_vows_fight_on/">lost</a> more than 750,000 of its customers' Bitcoins.</p>
+<p>The stricken exchange and its boss Mark Karpeles now face a number <a href="http://www.theregister.co.uk/2014/03/17/bitcoin_bust_litigants_fling_sueballs_at_japanese_bank/">lawsuits</a> and a <a href="http://www.theregister.co.uk/2014/03/05/bitcoin_devs_hit_by_mt_gox_collapse/">class action</a> raised by people who lost money in the collapse. ®</p>
+<p class="wptl btm">
+<span>Sponsored: </span>
+<a href="https://go.theregister.co.uk/tl/1790/-6625/following-bottomlines-journey-to-the-hybrid-cloud?td=wptl1790">Following Bottomline’s journey to the Hybrid Cloud</a>
+</p>
+<p class="foot_desc"><strong>The Register</strong> - Independent news and views for the tech community. Part of Situation Publishing</p>
+<p>Join our daily or weekly newsletters, subscribe to a specific section or set <a href="https://account.theregister.co.uk/alert/?create=1">News alerts</a></p>
+<p>Biting the hand that feeds IT © 1998–2018
+</p>

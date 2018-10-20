@@ -1,0 +1,144 @@
+<p>1100 13th Street, NW, Suite 750<br/>Washington, DC 20005<br/>202.887.6400<br/><br/>Toll-free: 800.544.0155</p>
+<p>All Contents © 2018<br/>The Kiplinger Washington Editors</p>
+<p>1100 13th Street, NW, Suite 750<br/>Washington, DC 20005<br/>202.887.6400<br/><br/>Toll-free: 800.544.0155</p>
+<p>All Contents © 2018<br/>The Kiplinger Washington Editors</p>
+<p class="kip-byline">
+<!-- byline1_id; 223 -->
+<!-- byline2_id; 0 -->
+<!-- byline3_id; 0 -->
+By <a href="/fronts/archive/bios/index.html?bylineID=223">Tom Petruno</a>, Contributing Writer
+
+|              March 7, 2014					</p>
+<p class="kip-caption">
+<span class="kip-image-credit">Thinkstock</span>
+</p>
+<p>You had to be very unlucky to lose money in stocks over the past five years. But it was possible.</p>
+<p>Despite a bull market that celebrated its fifth birthday on March 9, prices of some stocks are substantially lower today than they were at the bottom of the bear market. That's a pretty remarkable feat, given that so many stocks were priced for economic oblivion in early 2009.</p>
+<p>We asked Morningstar to cull its universe of stocks and give us the "nightmare portfolio" — the ten stocks that have lost the most over the past five years, even as broad market indexes have risen 200% or more. The stocks are ranked by largest negative total returns from March 9, 2009, through February 21, 2014. We limited the list to companies based in the U.S. and to those with market capitalizations today of at least $1 billion.</p>
+<p>Of course, as painful as these stocks' losses are to investors, the shares still are worth something. The true biggest-losers list would have been all of the stocks that went to zero in the financial crisis or its aftermath and no longer trade. Think Lehman Brothers.</p>
+<p class="kip-attribution">(Bull-market returns are through February 21, but share prices and related ratios are as of March 5. Price-earnings ratios are based on estimated 2014 calendar year earnings, unless otherwise indicated.)</p>
+<p class="kip-caption">
+<span class="kip-image-credit">Thinkstock</span>
+</p>
+<p><strong>Five-year loss:</strong> -32% (-7% annualized)<br/><br/>
+<strong>52-week price range:</strong> $20.79-$42.00<br/><br/>
+<strong>Price-earnings ratio:</strong> 27<br/><br/>
+<strong>Market capitalization:</strong> $12.2 billion</p>
+<p>Gold-mining stocks went along for the ride when the bull market launched in March 2009. But they parted ways with the rest of the stock market in 2011, when gold itself peaked, then fell into a deep bear market as many global investors began to shun the metal in favor of other assets.</p>
+<p>And whatever the price of gold does, mining shares tend to do on steroids: Their moves are often exaggerated relative to the metal. So Newmont Mining (<a href="/tfn/index.php?ticker=NEM&amp;page=stockTipsheet" target="_blank">NEM</a>), one of the world's biggest gold producers, saw its stock collapse from $70 in 2011 to a low of just under $21 in early February of this year, a drop of 70%. Gold, by contrast, lost about half as much from its 2011 peak of about $1,900 an ounce to its low of $1,182 last December.</p>
+<p>This year, gold has gotten a bounce, to $1,336 an ounce. The miners, including Greenwood Village, Colo.-based Newmont, are following suit. For many investors, the miners are an easy decision: If you think gold is going higher, you buy; if you don't, you don't. But with Newmont there's an additional twist: The company raises or lowers its cash dividends depending on gold's price. In February, Newmont said it would slash its payout in the near term in light of gold's long decline. Understandable, maybe — but certainly not a welcome mat for investors.</p>
+<p><strong>Bottom line: If you crave excitement, gold miners are for you. If you just like gold, then stick with the metal itself.</strong></p>
+<p class="kip-caption">
+<span class="kip-image-credit">Thinkstock</span>
+</p>
+<p><strong>Five-year loss:</strong> -33% (-8% annualized)<br/><br/>
+<strong>52-week price range:</strong> $28.23-$46.73<br/><br/>
+<strong>Price-earnings ratio:</strong> 16<br/><br/>
+<strong>Market capitalization:</strong> $1.2 billion</p>
+<p>Better times are harder times for FTI Consulting (<a href="/tfn/index.php?ticker=FCN&amp;page=stockTipsheet" target="_blank">FCN</a>), and that partly explains how the stock managed a 33% decline in a raging bull market. The company offers an array of consulting services, advising companies that are restructuring, in bankruptcy or dealing with a potentially costly lawsuit, for example. That means business for FTI can be worse when it's better for clients.</p>
+<p>It's not a coincidence, then, that the post-crash year of 2009 was a great one for FTI, when it earned a record $2.63 a share on revenue of $1.4 billion. But since then, the West Palm Beach, Fla., company has yet to top those profits, even though revenue has crept higher. FTI disappointed Wall Street again last month by reporting a net loss for 2013 of 27 cents a share after one-time charges. The results, and FTI's forecast of weak first-quarter performance, drove the stock down 19% on February 20.</p>
+<p>Two problems seem evident from FTI's financial statements: First, although management has been using capital to buy back stock, annual interest costs of $51 million are sapping the bottom line. Second, the company's operating expenses have surged 43% since 2009, while revenue is up just 18%. Whatever the reasons, even at the stock's depressed level just one of the eight Wall Street analysts following FTI now recommends buying it. The others remain on hold.</p>
+<p><strong>Bottom line: The consultant may be in need of a consultant.</strong></p>
+<p class="kip-caption">
+<span class="kip-image-credit">Thinkstock</span>
+</p>
+<p><strong>Five-year loss:</strong> -40% (-10% annualized)<br/><br/>
+<strong>52-week price range:</strong> $4.60-$8.90<br/><br/>
+<strong>Price-earnings ratio:</strong> 26<br/><br/>
+<strong>Market capitalization:</strong> $1.1 billion</p>
+<p>EXCO (<a href="/tfn/index.php?ticker=XCO&amp;page=stockTipsheet" target="_blank">XCO</a>), an energy producer, decided years ago to tie its future to natural gas rather than oil. And that's the root cause of the 40% slide in EXCO's stock over the past five years: Amid a glut of supply, U.S. natural gas prices have fallen by more than half since mid 2008.</p>
+<p>For EXCO, which explores for and produces gas in east and west Texas, north Louisiana and Appalachia, the dive in prices helped slashed revenue from $846 million in 2007 to $634 million in 2013. The Dallas company earned just $22 million last year, or 10 cents a share.</p>
+<p>Thanks to the frigid winter, gas prices have rebounded, creating hope that EXCO's hefty drilling investments (it shelled out $340 million for capital spending last year) will produce a bigger payday. The company has also been paring its heavy debt load. Still, with earnings expected at just 20 cents a share this year, there isn't much to recommend the stock — except maybe this: Two savvy investors, WL Ross &amp; Co. and Oaktree Capital Group, are major shareholders, with stakes, at last report, of 19% and 17%, respectively.</p>
+<p><strong>Bottom line: For gamblers, a high-risk bet on rising natural gas prices. Hope its biggest shareholders know something you don't.</strong></p>
+<p class="kip-caption">
+<span class="kip-image-credit">Courtesy Leap Wireless</span>
+</p>
+<p><strong>Five-year loss:</strong> -42% (-10% annualized)<br/><br/>
+<strong>52-week price range:</strong> $5.31-$17.76<br/><br/>
+<strong>Price-earnings ratio:</strong> Not meaningful<br/><br/>
+<strong>Market capitalization:</strong> $1.4 billion</p>
+<p>After battling for years as a smaller player in the wireless-telecommunications market, Leap (<a href="/tfn/index.php?ticker=LEAP&amp;page=stockTipsheet" target="_blank">LEAP</a>) wound up being saved by the bell, or at least by a Baby Bell — namely AT&amp;T, one of the phone companies spun off by the original Ma Bell. Last July, Leap agreed to a buyout by AT&amp;T for $15 a share in cash, plus an expected bonus of about $2.50 per share from asset sales. The deal, worth $1.2 billion, awaits regulatory approval.</p>
+<p>But Leap's saga is a cautionary tale about the risk of betting on takeovers. The San Diego company, whose prepaid, no-contract wireless plans under the Cricket brand are popular with the young, had been rumored for years to be a buyout target. Those expectations helped drive the stock as high as $100 in 2007. Between that point and AT&amp;T's bid, however, Leap was always left waiting at the altar, and its stock price moved relentlessly lower, bottoming at about $5 before AT&amp;T rode in.</p>
+<p>So even with the benefit of AT&amp;T's bid, Leap ranks as one of the biggest losers of the bull market.</p>
+<p><strong>Bottom line: Heard any good takeover-stock tips lately?</strong></p>
+<p class="kip-caption">
+<span class="kip-image-credit">Thinkstock</span>
+</p>
+<p><strong>Five-year loss:</strong> -48% (-12% annualized)<br/><br/>
+<strong>52-week price range:</strong> $15.98-$35.92<br/><br/>
+<strong>Price-earnings ratio:</strong> 16*<br/><br/>
+<strong>Market capitalization:</strong> $3.7 billion</p>
+<p>For-profit education was supposed to be one of the hot growth industries of the 21st century. What investors didn't anticipate was Uncle Sam busting into the classroom and handing out an F — to the professor.</p>
+<p>Education companies, including Phoenix-based Apollo (<a href="/tfn/index.php?ticker=APOL&amp;page=stockTipsheet" target="_blank">APOL</a>), have had a rough five years as federal and state authorities have zeroed in on alleged predatory practices. At worst, regulators say, for-profit educators have aggressively recruited students, persuaded them to borrow heavily to pay for school, then provided them lousy training that has left too many unable to find work after graduating (if they graduated). The government's crackdown ratcheted up in February, when the Consumer Financial Protection Bureau sued ITT Educational Services for allegedly exploiting students and warned of more actions to come.</p>
+<p>For Apollo, which owns University of Phoenix, the pall cast by the government's crackdown has helped drag down enrollment. So revenue fell from a peak of $4.9 billion in 2010 to $3.7 billion last year, pulling earnings down as well. Although Apollo’s stock has lost nearly half its value during the bull market, it and most other education stocks have been recovering. Yet many analysts remain cautious. "As the best-known name in the higher-education group, Apollo is likely to benefit when investor confidence in the sector rebounds from the bottom," says Trace Urdan, an analyst at Wells Fargo Securities. But with enrollment continuing to slide, "it's still too early to declare an inflection" in the outlook, Urdan says.</p>
+<p><strong>Bottom line: For-profit education will survive, but just how profitable the industry will be is the big question mark. That argues against paying up for the stocks.</strong></p>
+<p><em>*Based on estimated earnings for the four quarters that end November 30.</em></p>
+<p class="kip-caption">
+<span class="kip-image-credit">Courtesy First Solar</span>
+</p>
+<p><strong>Five-year loss:</strong> -48% (-12% annualized)<br/><br/>
+<strong>52-week price range:</strong> $25.35-$65.99<br/><br/>
+<strong>Price-earnings ratio:</strong> 18<br/><br/>
+<strong>Market capitalization:</strong> $5.8 billion</p>
+<p>Solar-power stocks have been another great example of the danger of unbridled optimism over new industries. After the euphoria of the mid 2000s, many solar stocks remain far off their peak prices. Not surprisingly, the future didn't turn out to be as consistently bright for solar as the wildest bulls wanted to believe.</p>
+<p>A case in point is Tempe, Ariz.-based First Solar (<a href="/tfn/index.php?ticker=FSLR&amp;page=stockTipsheet" target="_blank">FSLR</a>), one of the biggest names in solar systems — and also among the worst-performing U.S. stocks of the past five years. It's not that demand for solar power has evaporated. But investors have learned the hard way that demand ebbs and flows, subject to global economic growth, fossil-fuel energy costs, rising competition (think China) and, not least, government energy policies.</p>
+<p>After tumbling again in 2011 and 2012, in part on disappointing European demand for solar equipment, solar stocks went on a tear in mid 2013. Then, in February, First Solar dropped a bombshell: Fourth-quarter sales and earnings, at $768 million and 89 cents a share, respectively, fell far short of Wall Street expectations. Why? The company blamed part of the shortfall on some projects running behind schedule, delaying recording of the revenue. But many investors now are waiting for First Solar's analyst meeting in mid March, when the company will give its annual forecast. At 18 times estimated 2014 earnings of $3.28 a share, First Solar stock is well below nosebleed territory. But it also isn't the bargain it was a year ago.</p>
+<p><strong>Bottom line: The business is real. But so is the volatility. </strong></p>
+<p class="kip-caption">
+<span class="kip-image-credit">Courtesy Supervalu</span>
+</p>
+<p><strong>Five-year loss:</strong> -49% (-13% annualized)<br/><br/>
+<strong>52-week price range:</strong> $4.01-$8.76<br/><br/>
+<strong>Price-earnings ratio:</strong> 11*<br/><br/>
+<strong>Market capitalization:</strong> $1.8 billion
+</p>
+<p>Management of supermarket chain Supervalu (<a href="/tfn/index.php?ticker=SVU&amp;page=stockTipsheet" target="_blank">SVU</a>) couldn't have had worse timing. In mid 2006, a bit more than a year before the start of the 2007-09 recession, the Eden Prairie, Minn., company loaded up on debt to buy 1,100 grocery stores from the Albertsons chain. Things have mostly gone downhill since: Supervalu stock, which peaked near $50 in 2007, edged below $2 in 2012 as losses ballooned. The stock has more than tripled from its 2012 low, but it is still down by half since the beginning of the bull market.</p>
+<p>Besides biting off more than it could handle with the Albertsons deal, Supervalu faced intensifying competition from the likes of Wal-Mart Stores. And the Great Recession made business rougher for nearly all retailers as consumers retrenched.</p>
+<p>Now, Supervalu is shrinking itself back to what it hopes will be a manageable size. It has shed hundreds of stores over the past year to end up with a core of wholesaling and retailing businesses (led by the Save-a-Lot chain), which are expected to have total annual sales of $17 billion. That's less than half what the company had at its peak. Wall Street analysts figure that Supervalu will earn 65 cents a share in the year that ends February 2015. At 11 times estimated earnings, the stock looks cheap — but this is a company that has a lot to prove to investors.</p>
+<p><strong>Bottom line: If you want a growth stock, this probably isn't the place to shop. And no dividends,  either.</strong></p>
+<p><em>*Based on estimated earnings for the four quarters that end November 30</em> </p>
+<p class="kip-caption">
+<span class="kip-image-credit">Azt3r1x via Wikipedia</span>
+</p>
+<p><strong>Five-year loss:</strong> -57% (-15% annualized)<br/><br/>
+<strong>52-week price range:</strong> $4.90-$19.63<br/><br/>
+<strong>Price-earnings ratio:</strong> Not meaningful<br/><br/>
+<strong>Market capitalization:</strong> $2.5 billion</p>
+<p>The decline of J.C. Penney (<a href="/tfn/index.php?ticker=JCP&amp;page=stockTipsheet" target="_blank">JCP</a>) has been perhaps the most spectacular retail flameout of the past few years. Looking for new direction, the company's board of directors stunned Wall Street in June 2011 by giving the CEO job to Ron Johnson, creator of Apple's ultra-cool retail stores. Johnson's arrival stoked excitement in the retail industry, but it would end disastrously: His strategies — including eliminating markdowns — alienated many of Penney's core customers.</p>
+<p>With its stock continuing to crater, Penney axed Johnson in April 2013 and brought back the previous CEO, Myron Ullman. But sales continued to slide, taking the stock along. In the first nine months of the fiscal year that ended in January, Plano, Texas-based Penney lost $1.4 billion as sales fell 11%, to $8.1 billion. By February of this year, the shares were plumbing 50-year lows, at just under $5.</p>
+<p>But now Penney investors again have reason for hope. In a shock, Penney said on February 24 that sales at stores open at least one year rose 2% in the holiday quarter. Since the February 24 close, the stock has soared 59%. And CEO Ullman told investors that "the most challenging and expensive parts of the turnaround [are] behind us." Most Wall Street analysts aren't convinced: Just three out of 25 who cover the retailer advise buying its stock. So if you like contrarian bets, Penney qualifies.</p>
+<p><strong>Bottom line: If it's between buying Penney stock and buying a Powerball ticket, you probably have better odds of winning with Penney.</strong></p>
+<p class="kip-caption">
+<span class="kip-image-credit">Dwight Burdette via Wikipedia</span>
+</p>
+<p>
+<strong>Five-year loss:</strong> -66% (-20% annualized)<br/><br/>
+<strong>52-week price range:</strong> $12.29-$22.88<br/><br/>
+<strong>Price-earnings ratio:</strong> 15<br/><br/>
+<strong>Market capitalization</strong>: $1.2 billion<br/><br/>
+</p>
+<p>Michigan's largest bank survived the financial crisis, but it made paupers of its shareholders in the process. Bleeding from mortgage losses, Flagstar (<a href="/tfn/index.php?ticker=FBC&amp;page=stockTipsheet" target="_blank">FBC</a>) needed a $523 million capital infusion in January 2009 to stay afloat. About half of that came from the U.S. Treasury, the rest from private investors.</p>
+<p>The bank was forced to issue mountains of stock to the rescuers, severely diluting the ownership of the rest of its shareholders. Taking into account two "reverse" stock splits — designed to boost the market price of the stock without changing the value of shareholders' stakes — Flagstar's shares are down 66% from their value five years ago. Of course, it could have been worse: Shareholders of financial institutions that became insolvent, such as Lehman Brothers, lost everything.</p>
+<p>After bottoming in 2011, shares of the "new" Flagstar have been on the comeback trail as the Troy, Mich., bank has turned profitable again and has settled a host of mortgage-fraud claims with the government. Analysts expect Flagstar — which has shrunk to $9.4 billion in assets, from $14 billion in 2012 — to post earnings of $1.49 a share this year and $2.15 next year. Some investors are clearly willing to let the past go: The stock is up 80% from its 52-week low.
+ 
+<!--4 a230--><p><strong>Bottom line: With the shares selling just slightly above the bank's theoretical net worth (assets minus liabilities), there's value here — if not much excitement.</strong></p><!--5 a254-->
+</p>
+<p><strong>Bottom line: With the shares selling just slightly above the bank's theoretical net worth (assets minus liabilities), there's value here — if not much excitement.</strong></p>
+<p class="kip-caption">
+<span class="kip-image-credit">Thinkstock</span>
+</p>
+<p><strong>Five-year loss:</strong> -67% (-20% annualized)<br/><br/>
+<strong>52-week price range:</strong> $4.78-$9.05<br/><br/>
+<strong>Price-earnings ratio:</strong> Not meaningful<br/><br/>
+<strong>Market capitalization:</strong> $1.2 billion</p>
+<p>Alpha Natural Resources (<a href="/tfn/index.php?ticker=ANR&amp;page=stockTipsheet">ANR</a>) is a sad symbol of the downfall of King Coal. As the largest coal producer in Appalachia, Alpha had been slammed by the forces that have slashed demand for the fuel — in particular, cheap natural gas from the nation's fracking boom and mounting environmental concerns.</p>
+<p>The Bristol, Va., miner’s revenues plummeted from $7.1 billion in 2011 to $4.9 billion last year. Net losses over the past three years totaled $4.2 billion. A major restructuring in 2012 wasn't enough — Alpha announced more cost cutting last fall. As a result, the stock has lost two-thirds of its value since the start of the bull market in March 2009, the worst performer in our tally.</p>
+<p>Although many speculators have tried to call the bottom for Alpha shares over the past three years, every bounce in the stock has faded. Billionaire hedge-fund manager John Paulson, who had taken a flier on Alpha shares in late 2011, gave up in the fourth quarter of last year and sold his stake. Analyst Meredith Bandy, at BMO Capital Markets, expects Alpha's net loss to narrow to $1.20 a share in 2015 from a deficit of $2.07 per share this year. But she still rates the stock "underperform" — meaning stay away.</p>
+<p><strong>Bottom line: An earnings recovery may be out there somewhere, but you'll strain your eyes looking.</strong></p>
+<p style="font-size: 14px;font-weight: bold;text-align:right;"><a href="javascript:void(0);" onclick="javascript:kip_slideshow.Slide(9999);">Skip This Ad »</a></p>
+<p><a class="kip-one-page noprint mbhide" href="javascript:;" onclick="javascript:kip_slideshow.ViewAll();" title="view as one page">View as One Page</a></p>
+<p>1100 13th Street, NW, Suite 750<br/>
+                  Washington, DC 20005<br/>
+                  202.887.6400</p>
+<p>Toll-free: 800.544.0155</p>
+<p class="kip-copyright">All Contents © 2018, The Kiplinger Washington Editors</p>

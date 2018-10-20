@@ -1,0 +1,21 @@
+<p>
+            Use of and/or registration on any portion of this site constitutes acceptance of our
+            <a href="https://www.al.com/user-agreement/">User Agreement</a> (updated 5/25/18) and
+            <a href="https://www.al.com/privacy-policy/">Privacy Policy and Cookie Statement</a> (updated 5/25/18).
+        </p>
+<p>
+            © 2018  Advance Local Media LLC. All rights reserved (<a href="https://www.al.com/aboutus/">About Us</a>).<br/>
+            The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the 
+            prior written permission of Advance Local.
+        </p>
+<p>
+<a href="https://www.al.com/communityrules">Community Rules</a>
+            apply to all content you upload or otherwise submit to this site.
+        </p>
+<p>
+<a href="/privacy-policy/#california_top">Your California Privacy Rights</a>
+</p>
+<p>
+<a href="https://www.al.com/privacy-policy/#oba_top">
+<img alt="" src="//static.advance.net/static/common/img/ad_choices_arrow_transparent.png"/> Ad Choices</a>
+</p>

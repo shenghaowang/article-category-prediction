@@ -1,0 +1,82 @@
+<p>
+<img src="https://www.pressherald.com/wp-content/themes/mainetoday/assets/images/pph-icon.png" style="vertical-align:middle;"/>
+<span></span>
+<span>
+<a href="https://www.pressherald.com/login">Sign in</a> or <a href="https://myaccount.pressherald.com/order/?ref=paywall-stub">Subscribe</a> </span>
+<span class="expand-extra-messaging extra-closed">See Offers</span>
+<span class="close-slidedown">
+<img src="https://www.pressherald.com/wp-content/themes/mainetoday/assets/images/close-icon.png" style="vertical-align:middle;"/>
+</span>
+</p>
+<p></p>
+<p class="article-excerpt" itemprop="description">
+China’s exports slumped 18 percent in February, which reinforced fears about the outlook for its economy. </p>
+<p>Stocks drifted to a slightly lower finish Monday as investors sifted through a blend of discouraging economic data from China and Japan as well as ongoing uncertainty over Russia’s incursion into Ukraine.</p>
+<p>Major market indexes pared their losses as the day drew to a close, aided by some high-flying stocks including Alexion Pharmaceuticals, Chiquita Brands International and Southwest Airlines.</p>
+<p>In the absence of U.S. economic data, investors focused on news that China’s exports slumped 18 percent in February. The report reinforced fears about the outlook for the world’s second-largest economy. </p>
+<p>In addition, Japan reported a record current account deficit for January and lowered its economic growth estimate for the October-December quarter to 0.7 percent from 1 percent. </p>
+<p>The reports made for a downbeat start for the market as investors seized the moment to recalibrate their stock holdings.</p>
+<p>“It was a little bit of an excuse to take some money off the table,” said Ron Florance, deputy chief investment officer at Wells Fargo Private Bank. “We have geopolitical uncertainty, so (it’s) a good excuse to re-evaluate your risk exposure. It’s going to be par for the course for this year.”</p>
+<p>The Standard &amp; Poor’s 500 index edged down 0.87 of a point to close at 1,877.17. It had been down 11 points earlier.</p>
+<p>The Dow Jones industrial average lost 34.04 points, or 0.2 percent, to 16,418.68. The Nasdaq composite fell 1.77 points, or less than 0.1 percent, to 4,334.45.</p>
+<p>The three major U.S. indexes are still up for the month, and only the Dow is down for the year. The S&amp;P 500 ended Monday up 1.6 percent for the year, while the Nasdaq finished up 3.8 percent.</p>
+<p>The downbeat economic report from China hurt several industry sectors heavily reliant on Chinese economic growth, in particular, materials, energy and industrials. Six of the 10 sectors of the S&amp;P 500 index ended lower, led by industrials. Mining company Cliffs Natural Resources was among the biggest decliners in the S&amp;P 500, shedding 70 cents, or 3.8 percent to $17.95. </p>
+<p>“The market is growing more pessimistic around growth in China,” said David Chalupnik, head of equities for Nuveen Asset Management. “Expectations have been coming down, but the numbers have been disappointing even those reduced expectations.”</p>
+<p>Despite the disappointing data from China, some market watchers anticipate that last week’s gains will continue. </p>
+<p>The S&amp;P 500 index notched record highs three times last week as investors grew more confident that weak U.S. economic reports in recent weeks were a reflection of unusually severe winter weather, not a broad economic slowdown. Better-than-expected payroll numbers last week also helped encourage investors.</p>
+<p>“In general, I think the market will move past the poor China export numbers fairly quickly,” said James Liu, global market strategist at J.P. Morgan Funds. “There’s still a lot of fundamental support for the S&amp;P at this particular range.”</p>
+<p>Chalupnik also anticipates Monday’s decline isn’t telling of the market’s trajectory for the week ahead, barring more fallout from Russia’s deployment of troops in Ukraine. </p>
+<p>“My guess is the market moves ever so slightly higher this week,” he said. “The trend is still up. We really haven’t seen anything to break that trend.”</p>
+<p>Monday marked the fifth anniversary of the current bull market in stocks.</p>
+<p>
+<a href="/feedback-form/">
+Send questions/comments to the editors. </a>
+</p>
+<p></p>
+<p>Here at <strong>MaineToday Media</strong> we value our readers and are committed to growing our community by encouraging you to add to the discussion. </p>
+<p>To ensure conscientious dialogue we have implemented a strict no-bullying policy. To participate, you must follow our <a href="/terms-use/" target="_blank">Terms of Use</a>. <a href="/feedback/" target="_blank">Click here</a> to flag and report a comment that violates our terms of use.</p>
+<p>
+</p>
+<p>
+<script>
+			
+			var mediaContent = "media\\:content,content";
+			
+      (function() {
+         var now = new Date();
+         var cookieName = new RegExp('MSPAN_Paywall_views_' + now.getMonth());
+         window.MSPAN = {
+              Paywall: {
+                  totalViews: function() {
+                      var cookies = document.cookie.split('; ');
+                      var val = 0;
+                      if (!cookieName.test(document.cookie)) {
+                          return 0;
+                      }
+                      for (var i = 0; i < cookies.length; i++) {
+                          if (cookieName.test(cookies[i])) {
+                              val = parseInt(cookies[i].split('=')[1]);
+                          }
+                      }
+                      return val;
+                  }
+              }
+          };
+      }());
+    </script>
+</p>
+<p>
+<script>
+         (function(){
+            "use strict";
+            if(/logout/.test(window.location.search)){
+               var date = new Date();
+               var cookieString = "MSPAN_Paywall_user=0; domain=."+document.location.host.replace(/^\w+\./, '')+"; path=/; expires=" + date.toGMTString();
+               var cookieString2 = "MSPAN_Paywall_user=0; domain="+document.location.host+"; path=/; expires=" + date.toGMTString();
+               date.setHours(date.getHours() - 1);
+               document.cookie = cookieString;
+               document.cookie = cookieString2;
+            }
+         }());
+    </script>
+</p>

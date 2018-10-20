@@ -1,0 +1,109 @@
+<p id="breadcrumbs"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="https://siliconangle.com/" property="v:title" rel="v:url">Home</a> » <span rel="v:child" typeof="v:Breadcrumb"><a href="https://siliconangle.com/category/the-latest/" property="v:title" rel="v:url">The-Latest</a></span></span></span></p>
+<p class="text-muted post-author-name text-uppercase">
+									by <a href="https://siliconangle.com/author/mikewheatley/">
+<span class="color-me-red">Mike Wheatley</span>
+</a>
+</p>
+<p class="text-muted text-uppercase">
+<span class="meta-dt">UPDATED 04:14<span> EST</span><span> . </span>10 MARCH 2014</span>
+<span class="meta-vr"></span>
+</p>
+<p><a href="http://siliconangle.com/blog/2014/03/10/hackers-claim-mtgox-still-has-access-to-missing-bitcoin/medium_10307527573/" rel="attachment wp-att-184799"><img alt="medium_10307527573" class="alignright size-medium wp-image-184799" height="200" src="http://siliconangle.com/files/2014/03/medium_10307527573-300x200.jpg" width="300"/></a>When MtGox suddenly shut up show with $400 million worth of ‘missing’ Bitcoins last month, the owners of the exchange stated that hackers were responsible for this loss. Whoever had raided MtGox has successfully exploited the transaction malleability bug to divert these funds from the exchange, or so its owners claimed. But suspicions have lingered over how true the hacker story really is, with some claiming that the owners may have simply pocketed the cash for themselves.</p>
+<p>Now, following MtGox’s unnerving silence since it made an application for bankruptcy just over a week ago, a group of hackers claims to have broken into the site’s network to find out what the real story is.</p>
+<p>According to a report in <a class="external external_icon" href="http://www.forbes.com/sites/andygreenberg/2014/03/09/hackers-hit-mt-gox-exchanges-ceo-claim-to-publish-evidence-of-fraud/" rel="nofollow" target="_blank">Forbes</a>, the hacker or hackers successfully compromised Mark Karpeles’ personal blog and Reddit account, before using these two platforms to post ‘evidence’ that the MtGox CEO still had access to some of the missing Bitcoins. They also provided a series of files to support these claims, including a spreadsheet that details over a million Bitcoin transactions; a screenshot that appears to confirm the hackers gained access to MtGox’s network; and Karpeles’ home address.</p>
+<p>The hackers also presented a file that show’s MtGox’s bank balance in 18 different currencies. Most tellingly, this file shows that it still has a balance of 951,116 Bitcoins – something that hackers say is ‘evidence’ that the exchange’s owners still have quite a stash of BTC. As the hacker’s so eloquently point out, “That fat fuck has been lying!!”</p>
+<p>Here’s the full text of the message from the hackers:</p>
+<p>*** SAVE THIS POST, MIRROR THE FILES, REPOST, SHARE AND KEEP THIS DATA AVAILABLE ***</p>
+<p><a class="external external_icon" href="http://blog.magicaltux.net/wp-content/uploads/2014/03/MtGox2014Leak.zip" rel="nofollow" target="_blank">http://blog.magicaltux.net/wp-content/uploads/2014/03/MtGox2014Leak.zip</a></p>
+<p><a class="external external_icon" href="http://89.248.171.30/MtGox2014Leak.zip" rel="nofollow" target="_blank">http://89.248.171.30/MtGox2014Leak.zip</a></p>
+<p>First and foremost, this is not Mark Karpeles. Fuck that bitch-titted motherfucker.<br/>
+It’s time that MTGOX got the bitcoin communities wrath instead of Bitcoin Community getting Goxed. This release would have been sooner, but in spirit of responsible disclosure and making sure all of ducks were in a row, it took a few days longer than would have liked to verify the data.<br/>
+Above you will finding download link and a mirror used without asking from Mark Karpeles very own blog.magicaltux.net.<br/>
+Included in this download you will find relevant database dumps, csv exports, specialized tools, and some highlighted summaries compiled from data. Keeping in line with fucking Gox alone, no user database dumps have been included.<br/>
+Repost and share this info before it’s gone. Lots of people, including us, lost money and coins. Upvote this post.<br/>
+We stole no bitcoins. There were none to steal. If you want to donate, you can keep us full of pizzas and beers by sending coins here, 1859rayqN1X7DYjD1BrAHm4vaQxoUhhzsN .<br/>
+Balance SUM for ALL USERS by currency.<br/>
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]<br/>
+Currency: AUD Balance: 924,124.65121<br/>
+Currency: BTC Balance: 951,116.21905382 &lt;– That fat fuck has been lying!!<br/>
+Currency: CAD Balance: 320,184.36558<br/>
+Currency: CHF Balance: 99,487.07308<br/>
+Currency: CNY Balance: 297,775.78994<br/>
+Currency: DKK Balance: 112,264.56207<br/>
+Currency: EUR Balance: 5,634,625.59531<br/>
+Currency: GBP Balance: 921,892.96793<br/>
+Currency: HKD Balance: 740,519.14894<br/>
+Currency: JPY Balance: 384,885,150.13700<br/>
+Currency: NOK Balance: 91,346.00305<br/>
+Currency: NZD Balance: 58,224.95320<br/>
+Currency: PLN Balance: 1,645,194.67364<br/>
+Currency: RUB Balance: 551,162.54477<br/>
+Currency: SEK Balance: 15,335.84383<br/>
+Currency: SGD Balance: 43,193.59706<br/>
+Currency: THB Balance: 666,464.33497<br/>
+Currency: USD Balance: 30,611,805.67481<br/>
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]<br/>
+Total BTC Deposits: 19,065,241.307202<br/>
+Total BTC Withdrawl: 18,563,466.149383<br/>
+————————————<br/>
+BTC Difference: 501,775.157819<br/>
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]</p>
+<p>The files haven’t been confirmed as genuine, and even if they are real there’s no way of telling if they’re up to date. It could simply show money that MtGox once held, before the hackers made off with their booty – but then again, it could be further evidence of massive theft on the part of Karpeles and others at MtGox.</p>
+<p>In its bankruptcy filing, MtGox <a href="http://siliconangle.com/blog/2014/03/04/mtgox-stumbles-on-keeps-blaming-hackers-for-missing-bitcoins/" target="_blank">claimed to have lost around 750,000 Bitcoins</a> that belong to its customers, in addition to 100,000 of its own. However, Bitcoin users have yet to see these missing Bitcoins appear on the public blockchain, which suggests that whoever does have the money is keeping it stashed somewhere.</p>
+<p>This weekend’s ‘hack’ comes just days after someone attempted to sell a file containing the personal details and passport scans of MtGox’s users on the <a href="http://webcache.googleusercontent.com/search?q=cache:fYx5ITe9oDoJ:https://bitcointalk.org/index.php%3Ftopic%3D506152.0+&amp;cd=2&amp;hl=en&amp;ct=clnk&amp;gl=us" target="_blank">BitcoinTalk forum</a>. The ‘owner’ of that 20GB file offered it for sale for 100 bitcoins, “to make up for personal losses from MtGox closure”.</p>
+<p> </p>
+<p><span style="color: #999999;"><em>… We’d like to tell you about our mission and how you can help us fulfill it. SiliconANGLE Media Inc.’s business model is based on the intrinsic value of the content, not advertising. <strong>Unlike many online publications, we don’t have a paywall or run banner advertising, because we want to keep our journalism open</strong>, without influence or the need to chase traffic.<strong>  </strong></em></span></p>
+<p><span style="color: #999999;"><em>The journalism, reporting and commentary on <a href="http://www.siliconangle.com" style="color: #999999;">SiliconANGLE</a> — along with live, unscripted video from our Silicon Valley studio and globe-trotting video teams at <span style="color: #333399;"><a class="external external_icon" href="http://www.thecube.net" rel="nofollow" style="color: #333399;" target="_blank">theCUBE</a> </span>— take a lot of hard work, time and money. Keeping the quality high requires the support of sponsors who are aligned with our vision of ad-free journalism content.</em></span></p>
+<p><span style="color: #999999;"><em>If you like the reporting, video interviews and other ad-free content here, <strong>please take a moment to check out a sample of the video content supported by our sponsors</strong>, <span style="color: #333399;"><strong><a href="https://twitter.com/intent/tweet?text=I am really loving the @SiliconANGLE business model for free quality journalism and reporting" style="color: #333399;">tweet your support</a></strong></span>, and<strong> keep coming back to <span style="color: #333399;"><a href="http://www.siliconangle.com" style="color: #333399;">SiliconANGLE</a></span></strong>:</em></span></p>
+<p><script src="//video.cube365.net/assets/javascripts/embed.js"></script><iframe frameborder="0" height='“363"' src="//video.cube365.net/l/J3dKyfP4QDaYM-deYka7PA" width="100%"></iframe></p>
+<p class="pull-left zero-margin-bottom" style="padding: 6px;">Like Free Content?  Subscribe to follow.</p>
+<p><a href="https://siliconangle.com/2018/10/16/north-carolina-water-utility-crippled-ryuk-ransomware-attack/">North Carolina water utility crippled in Ryuk ransomware attack</a></p>
+<p><a href="https://siliconangle.com/2018/10/16/googles-chinese-search-engine-now-seems-certainty/">Google’s Chinese search engine now seems to be a certainty</a></p>
+<p><a href="https://siliconangle.com/2018/10/16/paperspace-raises-13m-ai-cloud-computing-platform/">Paperspace raises $13M for its AI cloud computing platform</a></p>
+<p><a href="https://siliconangle.com/2018/10/16/apple-apologizes-account-hacks-china/">Apple apologizes for account hacks in China</a></p>
+<p><a href="https://siliconangle.com/2018/10/16/uber-lyft-inch-closer-early-2018-initial-public-offerings/">Uber and Lyft inch closer to early 2019 initial public offerings</a></p>
+<p><a href="https://siliconangle.com/2018/10/16/google-charge-phone-makers-preinstalling-android-apps-europe/">Google to charge phone makers for preinstalling its Android apps in Europe</a></p>
+<p class="post-title hover-text">Cryptocurrencies plunge as market uncertainty spreads to digital assets</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>BLOCKCHAIN</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">5 DAYS AGO</span></span></p>
+<p class="post-title hover-text">TD Ameritrade invests in new digital asset exchange ErisX</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>EMERGING TECH</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">2 WEEKS AGO</span></span></p>
+<p class="post-title hover-text">As ICOs fall by the wayside, blockchain venture capital surges</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>EMERGING TECH</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">2 WEEKS AGO</span></span></p>
+<p class="post-title hover-text">Report: Coinbase in talks to raise $500M on $8B valuation</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>EMERGING TECH</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">2 WEEKS AGO</span></span></p>
+<p class="post-title hover-text">Google partially backflips on cryptocurrency advertising ban</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>EMERGING TECH</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">3 WEEKS AGO</span></span></p>
+<p class="post-title hover-text">$59.5M stolen in hack of Japanese cryptocurrency exchange Zaif</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>EMERGING TECH</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">4 WEEKS AGO</span></span></p>
+<p class="post-title hover-text">Massive increase in illicit cryptomining driven by leaked NSA exploit</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>INFRASTRUCTURE</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">4 WEEKS AGO</span></span></p>
+<p class="post-title hover-text">New York AG report finds cryptocurrency exchanges are vulnerable to manipulation</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>EMERGING TECH</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">4 WEEKS AGO</span></span></p>
+<p class="post-title hover-text">Report: Morgan Stanley is planning to offer bitcoin derivatives</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>EMERGING TECH</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">1 MONTH AGO</span></span></p>
+<p class="post-title">Cryptocurrencies plunge as market uncertainty spreads to digital assets</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>BLOCKCHAIN</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">5 DAYS AGO</span></span></p>
+<p class="post-title">TD Ameritrade invests in new digital asset exchange ErisX</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>EMERGING TECH</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">2 WEEKS AGO</span></span></p>
+<p class="post-title">As ICOs fall by the wayside, blockchain venture capital surges</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>EMERGING TECH</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">2 WEEKS AGO</span></span></p>
+<p class="post-title">Report: Coinbase in talks to raise $500M on $8B valuation</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>EMERGING TECH</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">2 WEEKS AGO</span></span></p>
+<p class="post-title">Google partially backflips on cryptocurrency advertising ban</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>EMERGING TECH</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">3 WEEKS AGO</span></span></p>
+<p class="post-title">$59.5M stolen in hack of Japanese cryptocurrency exchange Zaif</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>EMERGING TECH</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">4 WEEKS AGO</span></span></p>
+<p class="post-title">Massive increase in illicit cryptomining driven by leaked NSA exploit</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>INFRASTRUCTURE</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">4 WEEKS AGO</span></span></p>
+<p class="post-title">New York AG report finds cryptocurrency exchanges are vulnerable to manipulation</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>EMERGING TECH</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">4 WEEKS AGO</span></span></p>
+<p class="post-title">Report: Morgan Stanley is planning to offer bitcoin derivatives</p>
+<p class="post-meta text-muted"><span class="post-meta"><span>EMERGING TECH</span> - BY <a href="https://siliconangle.com/author/duncanriley/"><span class="author color-me-red">DUNCAN RILEY</span></a> . <span class="date">1 MONTH AGO</span></span></p>
+<p class="cube-live-video-description"><em><a href="https://siliconangle.com/category/cube-event-coverage/" target="_blank">Check out more cube videos and stories</a></em></p>
+<p class="post-title hover-text">The future of converged infrastructure is now</p>
+<p class="post-title hover-text">HCI: A foundation for cloud computing</p>
+<p class="post-title hover-text">Analytics feeds machine maker’s global ambitions</p>
+<p class="post-title hover-text">Modern infrastructure management: accelerating productivity through machine learning</p>
+<p>For personalised content stay with us.</p>
+<p class="forgot-pwd-link"><a href="https://siliconangle.com/wp-login.php?action=lostpassword&amp;redirect_to=https://siliconangle.com/2014/03/10/hackers-claim-mtgox-still-has-access-to-missing-bitcoin/">Forgot Password?</a></p>
+<p class="text-center" style="padding: 6px;">Like Free Content? Subscribe to follow.</p>

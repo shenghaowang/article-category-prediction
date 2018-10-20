@@ -1,0 +1,40 @@
+<p align="center"><small><em>Returns as of 10/20/2018</em></small></p>
+<p>Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services.</p>
+<p align="center"><small><em>Returns as of 10/20/2018</em></small></p>
+<p>The <strong>Dow Jones Industrial Average</strong> <span class="ticker" data-id="220471">(<a href="https://www.fool.com/quote/djindices/dow-jones-industrial-average/^dji">DJINDICES:^DJI</a>)</span> may not be knocking off new all-time highs on a daily basis like the broader market <strong>S&amp;P 500</strong>, but it is once again with striking distance of a new high as it's rebounded ferociously off its beginning-of-the-year swoon.</p>
+<p>Helping the Dow move decisively higher has been a steady recovery in the U.S. economy, aided by a double-digit rise in home prices, a precipitous fall in the unemployment rate, improving worker productivity, and the continuation of historically low lending rates.</p>
+<p>But are things really as they appear?</p>
+<p>Two months ago we looked at <a href="https://www.fool.com/investing/general/2014/01/12/3-ways-youve-been-tricked-into-thinking-the-us-eco.aspx">three variables</a> that may be inflating how strong the U.S. economy actually looks. The first is the labor participation rate, which has been falling consistently for the past 14 years. Some of this drop is expected as baby boomers hit their retirement age and others go back to school, but a growing concern is that some people have simply given up on finding work. Comparing the current number of employed workers with those in mid-2008, you'd see that job creation is basically flat.</p>
+<p>Second, the Federal Reserve's economic stimulus, QE3, has been a boost for the housing and banking sector, but has spoiled the U.S. consumer by keeping rates too low for too long, By artificially keeping rates low and reducing this sense of urgency, consumers have drastically cut back on loan originations anytime lending rates tick up in the slightest.</p>
+<p>Finally, a combination of stock buybacks and cost-cutting has helped push corporate earnings higher, but it's also masking what has generally been weak organic growth.</p>
+<p>With these points in mind, I suggest we do what we do every month, which is to take a closer look at the Dow's five most hated companies -- in essence, the five stocks with the highest level of short interest -- to better understand what characteristics, if any, are attracting short-sellers so we can avoid buying similar stocks in the future.</p>
+<p>Here are the Dow's five most hated stocks.</p>
+<p><strong>Company</strong></p>
+<p><strong>Short Interest As a % of Outstanding Shares</strong></p>
+<p><strong>Caterpillar</strong> <span class="ticker" data-id="203043">(<a href="https://www.fool.com/quote/nyse/caterpillar/cat">NYSE:CAT</a>)</span></p>
+<p>5.96%</p>
+<p><strong>Intel </strong><span class="ticker" data-id="204036">(<a href="https://www.fool.com/quote/nasdaq/intel/intc">NASDAQ:INTC</a>)</span></p>
+<p>4.20%</p>
+<p><strong>AT&amp;T</strong></p>
+<p>3.29%</p>
+<p><strong>Verizon</strong> <span class="ticker" data-id="206030">(<a href="https://www.fool.com/quote/nyse/verizon-communications/vz">NYSE:VZ</a>)</span></p>
+<p>2.90%</p>
+<p><strong>IBM</strong> <span class="ticker" data-id="203983">(<a href="https://www.fool.com/quote/nyse/ibm/ibm">NYSE:IBM</a>)</span></p>
+<p>2.58%</p>
+<p class="caption">Source: S&amp;P Capital IQ.</p>
+<p><strong>Caterpillar</strong><br> Why are investors shorting Caterpillar?</br></p>
+<p>Is this short interest warranted?</p>
+<p class="caption">Patrick Gelsinger, Intel Sr. VP, Source: Intel.</p>
+<p><strong>Intel</strong><br/> Why are investors shorting Intel?</p>
+<p>Is this short interest warranted?</p>
+<p><strong>AT&amp;T</strong><br/> Why are investors shorting AT&amp;T?</p>
+<p>Is this short interest warranted?</p>
+<p><strong>Verizon</strong><br/> Why are investors shorting Verizon?</p>
+<p>Is this short interest warranted?</p>
+<p><strong>IBM</strong><br/> Why are investors shorting IBM?</p>
+<p>Is this short interest warranted?</p>
+<p></p>
+<p><em><em><a href="mailto:swilliams@Fool.com">Sean Williams</a> has no material interest in any companies mentioned in this article. You can follow him on CAPS under the screen name <a href="http://caps.fool.com/player/tmfultralong.aspx">TMFUltraLong</a>, track every pick he makes under the screen name <a href="http://caps.fool.com/player/trackultralong.aspx">TrackUltraLong</a>, and check him out on Twitter, where he goes by the handle <a href="http://twitter.com/#%21/TMFUltraLong">@TMFUltraLong</a>.</em></em></p>
+<p><em>The Motley Fool owns shares of, and recommends Berkshire Hathaway and Intel. It also recommends Vodafone and owns shares of IBM. Try any of our Foolish newsletter services <a href="http://www.fool.com/shop/newsletters/index.aspx?source=isiedilnk018048">free for 30 days</a>. We Fools don't all hold the same opinions, but we all believe that <a href="http://wiki.fool.com/Motley">considering a diverse range of insights</a> makes us better investors. The Motley Fool has a <a href="http://www.fool.com/Legal/fool-disclosure-policy.aspx">disclosure policy</a>.</em></p>
+<p class="primary_author-bio">A Fool since 2010, and a graduate from UC San Diego with a B.A. in Economics, Sean specializes in the healthcare sector and investment planning. You'll often find him writing about Obamacare, marijuana, drug and device development, Social Security, taxes, retirement issues and general macroeconomic topics of interest. <a class="twitter-follow-button" data-show-count="true" data-size="large" href="https://twitter.com/TMFUltraLong">Follow @TMFUltraLong</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>

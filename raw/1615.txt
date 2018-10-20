@@ -1,0 +1,46 @@
+<p class="c-nav__promo-message">ONLY £1.50 AN
+ISSUE + FREE
+DIGITAL EDITIONS</p>
+<p class="c-cookie-warning__message">
+Welcome to WIRED UK. This site uses cookies to improve your experience and deliver personalised advertising. You can <a href="https://www.condenast.co.uk/cookie-notice/?utm_source=WIRED%20UK&amp;utm_campaign=cookie%20warning&amp;utm_medium=referral#opting_out_of_cookies">opt out</a> at any time or find out more by reading our <a href="https://www.condenast.co.uk/cookie-notice/?utm_source=WIRED%20UK&amp;utm_campaign=cookie warning&amp;utm_medium=referral">cookie policy</a>.
+</p>
+<p class="a-author__byline a-author__byline--authors">
+<span class="a-author__byline-prefix">By</span>
+<span class="a-author__byline-name"><a href="/profile/liat-clark">Liat Clark</a></span>
+</p>
+<p class="bb-p">Hours after Flight MH370 and its 239 passengers disappeared off the coast of Malaysia on 8 March, DigitalGlobe had repositioned its high-resolution satellite constellation to capture as much data as possible. On Monday, it posted those images on crowdsourcing platform Tomnod and had 60,000 page views within an hour. It did so at the bequest of the crowd, which came to DigitalGlobe within minutes of the plane being reported missing, asking when a page would launch. But DigitalGlobe is always keeping a watchful eye.  "When the Nina ship went missing off the coast of Australia last year, we got involved after the crew had been missing for two months," Luke Barrington, Senior Manager of Geospatial Big Data at DigitalGlobe tells Wired.co.uk. "Bad things happen in the world, then people would call DigitalGlobe some time later. This week, five minutes after the news of the Malaysia incident I was getting text messages and emails."</p>
+<p class="bb-p">DigitalGlobe's constellation of five satellites, which scope the world at a rate of 75 laps a day between them, has been harnessed for humanitarian reasons in the past. It has been used to track the movements of the Lord's Resistance Army across swathes of land in the Democratic Republic of the Congo, South Sudan and the Central African Republic, in order to predict and scupper their next attacks. But more and more, its capabilities are being called upon in emergent situations. Last year it posted images covering thousands of square kilometres to help in the hunt for a light aircraft crash in Idaho.  "We were able to prioritise the search in the field to tell them where not to go. Then they flew over with a GoPro camera hanging out, and looked over footage when they got back to find one little sign of wreckage." In that instance, the team was hunting for a glimpse of a white plane, in snow-covered mountains. Today, the search is not much easier. To help, as with the Idaho crash, DigitalGlobe has already posted satellite images to a Tomnod crowdsourcing page where every pixel covers 50cm of land space -- or in this case, water. Nasa's Landsat, in contrast, captures around 30 metres per pixel. "The jet might occupy one pixel in that image," says Barrington.</p>
+<p class="bb-p">The former Tomnod employee explains he had unofficial requests right after news emerged from the US government and even insurance companies, all asking when the crowdsourcing platform would go live. The latter, he says, want to know whether the incident was terror-related, or a crash. "At least we're getting involved sooner," Barrington tells us. </p>
+<p class="bb-p">For DigitalGlobe though, the operation starts as soon as the news hits the wires. The First Look team is tasked with reading tweets and scouring the wires 24/7 for emergent situations just like this. "If you know you want to monitor a particular uranium site in the Middle East you might request imagery all the time -- but there's no analysts on staff at the US government whose job it is to look for a Malaysian plane."</p>
+<p class="bb-p">First Look members make on the fly decisions about where their satellites might be needed and start programming them into position. For something like an earthquake, that might mean downloading data from before the incident, so search and rescue has a comparison. With the Malaysia incident it meant making inferences from the news to position the constellation correctly.</p>
+<p class="c-card__byline">
+<span class="c-card__byline-prefix">By</span>
+<span class="c-card__byline-name">Matt Burgess</span>
+</p>
+<p class="bb-p">WorldView-2 satellite</p>
+<p class="bb-p">Each satellite already circles the Earth from the north to the south pole, taking 90 minutes to do one lap at heights of around 400 to 700km above Earth. "They stay in a Sun-synchronised orbit," explains Barrington, "staying in line with a point on surface of the Earth where its roughly 10.30am so we know we'll get sunlight and not too many shadows." Each can be skewed up to 45 degrees to gain more scope and capture a few different time zones. When an analyst makes a decision about the ground/water they need to cover, the closest satellite moves into position. This week, two have been moved.</p>
+<p class="bb-p">Shortly after news of the missing airline got out, rumours flooded the networks that an oil slick had been spotted in the Gulf of Thailand that could be jet fuel, and Landsat data also pointed the team there. At 10.30am on Sunday, two shots were taken to the the north east of the Malaysian peninsula off the coast. Those images have been loaded to Tomnod, but it looks as though the fuel was from ships, so the satellites have been moved closer to the southern tip of Cambodia.</p>
+<p class="bb-p">Like the Idaho plane crash, we are looking for a needle in a haystack today. "Getting through all those pixels is difficult, and we're looking for a feature that isn't specifically defined. I imagine at this stage -- and I hope we're wrong -- it's not going to look like regular plane. This is why we ask for the public's help."</p>
+<p class="bb-p">Barrington says 100 people contacted him within minutes of the incident to ask when they could help. The Tomnod community is a loyal one, and is used to scouring through mundane images of landmass, snow or water to hunt for that one indistinguishable scrap of pixel that holds the answer. "They can click on the map just like when using Google Maps, then go on to the next area and try and see as many pixels as possible. We have hundreds or thousands doing this all in real time. "But it's incredibly difficult, differentiating between clouds, waves and wreckage to find those one or two points which will be valuable. You'd be surprised how many clouds look like ships. We use a set of algorithms to rank the crowd and see where people are agreeing -- if 99 out of 100 people are all clicking on this one funny little pixel right here, for instance. The algorithm sifts through that data to see who is reliable and who is not, so maybe shouldn't be trusted as much. Then those pixels get reviewed by our analysts and sent out to people searching."</p>
+<p class="bb-p">The team is continually adding to the image set on Tomnod, ensuring each is covered five times or more. "We keep on going until we're done, or we find something."</p>
+<p class="bb-p">Once the crowd gets going though, as it already has, Barrington says it could take minutes or hours to go through 1,000sq km strips like the ones already loaded.</p>
+<p class="bb-p">For the missing Nina ship, more than 100 images of that scale were searched and dissected by the crowdsourcing community. For those onboard, however, it was unfortunately much too late. The search got underway as a last resort, when all other avenues had come up empty. But as the public, and governments, become more and more used to calling on the expertise of private companies with resources like DigitalGlobe, the gap begins to close between when an emergency strikes and when satellites are called to action.</p>
+<p class="bb-note">
+        To help, visit Tomnod <a class="bb-a" href="http://www.tomnod.com/nod/challenge/malaysiaairsar2014">here</a>.
+    </p>
+<p class="c-card__byline">
+<span class="c-card__byline-prefix">By</span>
+<span class="c-card__byline-name">Sian Bradley</span>
+</p>
+<p class="c-card__byline">
+<span class="c-card__byline-prefix">By</span>
+<span class="c-card__byline-name">Lee Bell</span>
+</p>
+<p class="c-card__byline">
+<span class="c-card__byline-prefix">By</span>
+<span class="c-card__byline-name">Victoria Woollaston</span>
+</p>
+<p class="c-card__byline">
+<span class="c-card__byline-prefix">By</span>
+<span class="c-card__byline-name">Matt Reynolds</span>
+</p>

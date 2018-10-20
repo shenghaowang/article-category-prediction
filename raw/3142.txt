@@ -1,0 +1,56 @@
+<p>By Libya Herald staff.</p>
+<p>Tripoli, 11 March 2014:</p>
+<p>The North Korean oil tanker that the General National Congress (GNC) yesterday claimed had been . . .</p>
+<p><span style="color: red;">This article is only available to subscribers. Please <a href="http://www.libyaherald.com/members-login/" title="Login"><b><span style="text-decoration: underline;">login</span></b> </a>or <a href="http://www.libyaherald.com/subscribe/" title="Subscribe"><b><span style="text-decoration: underline;">subscribe</span></b></a></span>.</p>
+<p>
+You must be logged in to post a comment
+<a href="https://www.libyaherald.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.libyaherald.com%2F2014%2F03%2F11%2Foil-tanker-now-in-international-waters-says-gnc-member%2F">
+Login </a>
+</p>
+<p class="footer-left-text">
+© Copyright 2012-2014, <a href="#top" rel="home" title="Libya Herald"><strong>↑</strong> Libya Herald</a>
+</p>
+<p class="footer-right-text">
+<a href="https://www.libyaherald.com/wp-login.php">Log in</a>- <a href="https://www.libyaherald.com/wp-admin/edit.php">Posts</a> -
+<a href="https://www.libyaherald.com/wp-admin/post-new.php">Add New</a>
+-
+<a href="http://wordpress.org/" rel="generator" title="Semantic Personal Publishing Platform">Powered by WordPress</a> -
+<div id="fb-root"></div>
+<script type="text/javascript">
+	<!--
+	(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+	// -->
+	</script><script src="//www.libyaherald.com/wp-content/plugins/ubermenu/core/js/hoverIntent.js?ver=4.5.15" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var uberMenuSettings = {"speed":"300","trigger":"hoverIntent","orientation":"horizontal","transition":"slide","hoverInterval":"20","hoverTimeout":"400","removeConflicts":"on","autoAlign":"off","noconflict":"off","fullWidthSubs":"off","androidClick":"off","iOScloseButton":"on","loadGoogleMaps":"off","repositionOnLoad":"off"};
+/* ]]> */
+</script>
+<script src="//www.libyaherald.com/wp-content/plugins/ubermenu/core/js/ubermenu.min.js?ver=4.5.15" type="text/javascript"></script>
+<script src="//www.libyaherald.com/wp-includes/js/comment-reply.js?ver=4.5.15" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var uberMenuStickySettings = {"expand_menu_bar":"1","offset":"0","mobile":"","scroll_context":""};
+/* ]]> */
+</script>
+<script src="//www.libyaherald.com/wp-content/plugins/ubermenu-sticky/ubermenu.sticky.js?ver=4.5.15" type="text/javascript"></script>
+<script src="//www.libyaherald.com/wp-includes/js/wp-embed.js?ver=4.5.15" type="text/javascript"></script>
+<div id="fb-root"></div>
+<script type="text/javascript">
+  window.fbAsyncInit = function() {
+    FB.init({"appId":"474124912655114","channelUrl":"https:\/\/www.libyaherald.com\/?sfc-channel-file=1","status":true,"cookie":true,"xfbml":true,"oauth":true});
+      };
+  (function(d){
+       var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+       js = d.createElement('script'); js.id = id; js.async = true;
+       js.src = "//connect.facebook.net/en_US/all.js";
+       d.getElementsByTagName('head')[0].appendChild(js);
+   }(document));     
+</script>
+</p>

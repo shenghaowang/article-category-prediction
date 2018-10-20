@@ -1,0 +1,34 @@
+<p class="text">
+        We're no longer maintaining this page.
+    </p>
+<p class="text">
+        For the latest business news and markets data, <a href="https://www.cnn.com/business/">please visit CNN
+            Business </a>
+</p>
+<p class="speakable"> The <a href="http://money.cnn.com/data/markets/dow/">Dow</a> trimmed a loss of over 100 points earlier in the day, but still ended slightly in the red. The <a href="http://money.cnn.com/data/markets/sandp/">S&amp;P 500</a> and <a href="http://money.cnn.com/data/markets/nasdaq/">Nasdaq</a> finished flat. </p>
+<p class="speakable"> The Dow and S&amp;P 500 are near all-time highs as investors celebrated the <a href="http://money.cnn.com/2014/03/06/investing/bull-market-five-years/">five year anniversary</a> of the current bull market. </p>
+<p> But the Nasdaq is not back to all-time highs yet. </p>
+<p> In fact, Monday is the 14-year anniversary of the tech-heavy index hitting its peak of above 5,130. </p>
+<p> Still, the Nasdaq is now only about 15.5% below its dot-com boom record, thanks to a nearly 40% jump last year and strong start to 2014. </p>
+<p> <a href="http://money.cnn.com/data/world_markets/europe/">European markets</a> closed mostly in the red. And <a href="http://money.cnn.com/data/world_markets/asia/">Asian markets</a> ended significantly lower after China trade data and revised Japanese GDP numbers came in weaker than expected. </p>
+<p> <span>Boeing</span> <span>(<span class="inlink_chart"><a class="inlink" href="http://money.cnn.com/quote/quote.html?symb=BA&amp;source=story_quote_link">BA</a></span>)</span> shares fell after <a href="http://edition.cnn.com/2014/03/09/world/asia/malaysia-airlines-plane/index.html">Malaysia Airlines Flight 370, </a>a Boeing 777, disappeared Saturday in mysterious circumstances en route to Beijing. The company also announced late Friday that "hairline cracks" had been found on some of its <a href="http://money.cnn.com/2014/03/07/news/companies/boeing-dreamliner-cracks/index.html">Dreamliner 787 jets</a> still in production. </p>
+<p> <a href="http://money.cnn.com/2014/03/09/investing/stock-market-lookahead/index.html"><span class="inStoryHeading">Related: Winners and losers of the bull market</span></a> </p>
+<p> But one trader on StockTwits thought the stock's dip might be short-lived. </p>
+<p> "<a href="http://stocktwits.com/symbol/BA?q=ba" target="_blank">$BA</a> I wonder if BA jumps right back up after all this bad news," said <a href="http://stocktwits.com/bluegill1972" target="_blank">bluegill1972</a>. "I'm thinking this might be a buy soon." </p>
+<p> Tension in Ukraine created volatility in global markets early last week. But investors have been breathing a sigh of relief the past few days as the crisis seems to be abating. </p>
+<p> "As long as there's no feeling that an escalation into a wider conflict is imminent, the markets may remain calm," said Wasif Latif of USAA Investments in a note to clients Monday morning. </p>
+<p> <a href="http://money.cnn.com/data/fear-and-greed/"><span class="inStoryHeading">Related: Fear &amp; Greed Index is in extreme greed</span></a> </p>
+<p> In other corporate news, <span>Chiquita Brands</span> <span>(<span class="inlink_chart"><a class="inlink" href="http://money.cnn.com/quote/quote.html?symb=CQB&amp;source=story_quote_link">CQB</a></span>)</span> rallied more than 10% after the company <a href="http://money.cnn.com/2014/03/10/news/companies/banana-merger/index.html?iid=HP_LN">said it was buying</a> Ireland's Fyffes for about $526 million to create the world's leading banana company. </p>
+<p> Shares of 3-D printer maker <span>DDD Systems</span> <span>(<span class="inlink_chart"><a class="inlink" href="http://money.cnn.com/quote/quote.html?symb=DDD&amp;source=story_quote_link">DDD</a></span>)</span> plunged 5% after a report over the weekend claimed that investors may be overpaying for 3-D printing stocks. The stock is down around 30% this year after a huge run in 2013. </p>
+<p> But StockTwits user <a href="http://stocktwits.com/johnnyquest" target="_blank">johnnyquest</a> felt that the report was "shortsighted" and that 3-D printing technology will continue to grow. "<a href="http://stocktwits.com/symbol/DDD" target="_blank">$DDD</a> The law of accelerating returns will prevail in 3d printing. We'll be printing our wardrobes soon," he said. </p>
+<p> <a href="http://stocktwits.com/LowRiskTrader" target="_blank">LowRiskTrader </a>echoed that sentiment. "$DDD ...Every sell off is a reason to buy," he said. </p>
+<p> <a href="http://money.cnn.com/technology/tech30/"><span class="inStoryHeading">Related: CNNMoney's Tech 30</span></a> </p>
+<p> Shares of <span>eBay</span> <span>(<span class="inlink_chart"><a class="inlink" href="http://money.cnn.com/quote/quote.html?symb=EBAY&amp;source=story_quote_link">EBAY</a></span>)</span>, a member of CNNMoney's <a href="http://money.cnn.com/technology/tech30/?iid=T_Sub">Tech 30 Index,</a> slumped after Carl Icahn stepped up his campaign against the company's management. </p>
+<p> In a letter Monday, the activist investor attacked John Donahue, the company's CEO, for failing to supervise his firm's board for alleged conflicts of interest related to their financial stakes in companies that Icahn believes are eBay competitors. eBay responded by defending Donahue's record. Icahn wants eBay to spin off its PayPal unit. </p>
+<p> "<a href="http://stocktwits.com/symbol/EBAY?q=ebay" target="_blank">$EBAY</a> board. When will you guys learn. Mr. Icahn always gets his way," quipped <a href="http://stocktwits.com/tonytan0" target="_blank">tonytan0</a> on StockTwits. </p>
+<p>
+        Most stock quote data provided by BATS. Market indices are shown in real time, except for the DJIA, which is delayed by two minutes. All times are ET. Disclaimer. Morningstar: © 2018 Morningstar, Inc. All Rights Reserved. Factset: FactSet Research Systems Inc.2018. All rights reserved. Chicago Mercantile Association: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&amp;P Dow Jones Indices LLC and have been licensed for use to S&amp;P Opco, LLC and CNN. Standard &amp; Poor's and S&amp;P are registered trademarks of Standard &amp; Poor's Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices © S&amp;P Dow Jones Indices LLC 2018 and/or its affiliates.
+        </p>
+<p>© <span class="footer-year">2018</span> Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.
+        <br/>
+        CNN Sans™ &amp; © 2016 Cable News Network.</p>

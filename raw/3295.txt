@@ -1,0 +1,18 @@
+<p class="site-title" itemprop="headline"><a href="https://www.geeky-gadgets.com/">Geeky Gadgets</a></p>
+<p class="site-description" itemprop="description">Gadgets and Technology News</p>
+<p><!-- /1041236/Top728x90 --></p>
+<p class="entry-meta"><time class="entry-time" datetime="2014-03-12T12:25:17+00:00" itemprop="datePublished">12:25 pm</time> <time class="entry-time" datetime="2014-03-12T12:25:17+00:00" itemprop="datePublished">March 12, 2014</time> By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://www.geeky-gadgets.com/author/jhorsey/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Julian Horsey</span></a></span></p>
+<p><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- GG Top --> <ins class="adsbygoogle" data-ad-client="ca-pub-7158083370081382" data-ad-slot="5493556457" style="display:inline-block;width:336px;height:280px"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script> </p>
+<p>It was reported back in February of this year that the creator of the popular Candy Crush game, King Digital Entertainment Plc would file the company for an IPO.</p>
+<p>Today its been reported by Reuters that King Digital Entertainment expects to be worth up to $7.6 billion when it goes public later this month.</p>
+<p style="text-align: center;"><img alt="candy-crush IPO" class="alignnone size-full wp-image-169772" height="525" sizes="(max-width: 700px) 100vw, 700px" src="https://www.geeky-gadgets.com/wp-content/uploads/2014/03/candy-crush.jpg" srcset="https://www.geeky-gadgets.com/wp-content/uploads/2014/03/candy-crush.jpg 700w, https://www.geeky-gadgets.com/wp-content/uploads/2014/03/candy-crush-300x225.jpg 300w" width="700"/></p>
+<p><span id="more-169771"></span></p>
+<p>Both the recent surge in Facebook share price as well as the successful IPO of Twitter back in November of last year have fuelled speculation that a number of technology firms are considering filling for IPO in the near future.</p>
+<p>Now King Digital Entertainment is hoping to take advantage of the strong demand for technology investments. However a company with only a couple of popular game titles to its name might end up being yet another Zynga.</p>
+<p>King Digital Entertainment is scheduled to be priced on March 25th 2014 and the stock will start trading on March 26th, two underwriters have divulged to Reuters who explain’s:</p>
+<p><em>“The Dublin-based company will sell 15.5 million shares in the offering, while stockholders, including Apax Ventures, will sell 6.7 million shares, the company said in a filing with the U.S. Securities and Exchange Commission on Wednesday</em></p>
+<p><em>In February, an average of 144 million daily active users played the company’s games more than 1.4 billion times per day, the filing showed. The King IPO will raise as much as $532.8 million at the top-end of the planned range. It filed for a $500 million placeholder in February.”</em></p>
+<p>For more information on the new King Digital Entertainment IPO jump over to the Reuters website for details.</p>
+<p>Source: <a href="http://www.reuters.com/article/2014/03/12/us-king-ipo-idUSBREA2B0KP20140312">Reuters</a></p>
+<p></p>
+<p><div class="bottomad"><div align="center"><!-- /1041236/Bottom728x90 --><div id="div-gpt-ad-1366207458134-0" style="height:90px; width:728px;"> <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1508183197795-0'); });</script></div></div></div><br/>Copyright 2007 - 2018 Geeky Gadgets</p>

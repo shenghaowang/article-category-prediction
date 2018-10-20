@@ -1,0 +1,32 @@
+<p>Quality journalism is not free. To access this content, please disable your adblocker or pay for an access pass:</p>
+<p>24 hours</p>
+<p>1 month pass</p>
+<p>A policy of deleting historical records at the <a href="http://www.cityam.com/company/bank-of-england">Bank of England</a> has come under fire, as individuals voice concerns about the implication for transparency.<div id="tpd-box-ad-am">
+<script type="text/javascript">
+            if (TPD_Mobile == true) {
+            googletag.cmd.push( function() {
+            googletag.display( 'tpd-box-ad-am' );
+            } );
+            }
+            </script></div><br/></p>
+<p>The <a href="http://www.cityam.com/blog/1393866994/why-youll-never-see-bank-englands-meeting-transcripts">tapes of policy setting meetings are routinely deleted</a> - the transcripts destroyed once minutes are agreed upon. Today, Treasury Select Committee chairman Andrew Tyrie has asked for the Bank of England to reconsider that policy.</p>
+<p><strong>Uniquely opaque</strong></p>
+<p>There's an inconsistency here with other public sector documents, such as Cabinet minutes, which must be released under the <a href="http://en.wikipedia.org/wiki/Thirty_year_rule">30-year rule</a>. If Monetary Policy Committee (MPC) discussions are of a sensitive nature, surely the same also applies for the meetings of senior politicians.</p>
+<p>And elsewhere, the practice of releasing transcripts is now well established.<div id="tpd-box-ad-bm">
+<script type="text/javascript">
+            if (TPD_Mobile == true) {
+            googletag.cmd.push( function() {
+            googletag.display( 'tpd-box-ad-bm' );
+            } );
+            }
+            </script></div><br/></p>
+<p>The US <a href="http://www.cityam.com/company/federal-reserve">Federal Reserve</a> began releasing minutes after then chairman of the House banking Committee, Henry Gonzalez, demanded their publication in 1993. Since then, they've been published with some time delay.</p>
+<p>February saw the release of Fed <a href="http://www.cityam.com/blog/1392995625/federal-reserve-has-finally-released-minutes-its-2008-meeting">minutes from the 2008 financial crash</a>. Information that has proved useful to economic historians and modern economists alike.</p>
+<p>And the Bank of Japan publishes its transcripts with a 10 year delay. Only the European Central Bank is more opaque among large central banks, electing to release summary minutes a staggering 30 years after meetings take place.</p>
+<p>In transparency terms, looks like ECB &lt; BoE &lt; BoJ &lt; Fed</p>
+<p><strong>Bank motivations</strong></p>
+<p>As the Financial Times' <a href="http://blogs.ft.com/money-supply/2014/02/25/the-boes-monotone-communications/">Chris Giles has highlighted</a>, the MPC has become increasingly monotone in public since <a href="http://www.cityam.com/people/mark-carney">Mark Carney</a>'s arrival. Speeches reveal less debate than they had previously, while minutes don't give a full picture of the varying viewpoints.</p>
+<p>It may be favourable to the Bank to delete historical records - especially <a href="http://www.cityam.com/blog/1394532984/bank-england-divided-over-economic-slack">when members disagree</a> - but the general silencing of disagreements gives a false impression of ongoing debates at the Bank.</p>
+<p>Former Bank of England staffer <a href="https://twitter.com/t0nyyates/status/443349796943065088">Tony Yates points out</a> that an incentive exists "to communicate that everything is going to work out fine on the MPC, and all jobs being done well."</p>
+<p>That paints a picture of unity that may not exist, as well as clouding understanding of how policy is set. A transparent central bank would adopt a policy of releasing transcripts with a delay.</p>
+<p style="margin-bottom:0; margin-top:20px; float:right;"><a href="/terms-conditions"><strong><sup><sub>* Terms and conditions</sub></sup></strong></a></p>

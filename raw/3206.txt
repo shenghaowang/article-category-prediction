@@ -1,0 +1,58 @@
+<p class="w1"><a href="https://www.belfasttelegraph.co.uk/"><img alt="Belfast Telegraph" height="46" src="https://www.belfasttelegraph.co.uk/img/logo-belfast-b2.png"/></a></p>
+<p> Hi <span class="hi"></span>°C | Lo <span class="low"></span>°C <a class="change" href="#change"> | WEATHER</a> <a class="location" href=""><strong></strong></a></p>
+<p class="w132 cx-a">
+<a href="https://www.belfasttelegraph.co.uk/">Home</a>
+<small>›</small> <a href="https://www.belfasttelegraph.co.uk/news/">News</a>
+<small>›</small> <a href="https://www.belfasttelegraph.co.uk/news/world-news/">World</a>
+</p>
+<p>
+</p>
+<p>
+<time>March 12 2014</time>
+</p>
+<p>
+Libya's parliament has ousted the prime minister in a vote of confidence, after his government was embarrassed when a militia controlling an eastern port defied Tripoli's authority by trying to sell oil.
+</p>
+<p>The chamber named the defence minister, Abdullah al-Thinni, as an interim prime minister until a replacement for the embattled Ali Zidan is found.</p>
+<p>The "no" vote won the support of 121 MPs out of the approximately 180 that remain in the parliament, according to one MP.</p>
+<p>Mr Zidan, whose ousting had been seen as a matter of time to many Libyans, had no immediate public reaction to the vote.</p>
+<p>He was elected in 2012 as the first prime minister after the 2011 overthrow and killing of dictator Muammar Gaddafi.</p>
+<p>He has had the backing of the liberal-leaning National Forces Alliance against a bloc led by the Islamist group, the Muslim Brotherhood, although parliament is divided as much on regional lines as ideological ones.</p>
+<p>Col Gaddafi's 40-year rule left Libya with few strong state institutions, and Mr Zidan has presided over a government that has little authority and is frequently subjected to humiliations. In the absence of a strong military and police force, it relies on militias to keep order - but many defy the government, with one of them briefly abducting Mr Zidan himself last year.</p>
+<p>The Islamist-led bloc has long wanted to oust him, although until now it could not drum up the votes. It was not clear if parliament changed sides but Mr Zidan in recent days has appeared particularly helpless. He confessed to reporters on Saturday that the nation's military does not carry out his orders and complained that "everyone is working against the government."</p>
+<p>The latest crisis is linked to an autonomy movement in Libya's east, home to most of its oil. Several months ago, a militia seized the key port of al-Sidra and in recent days, the group attempted to load oil into a North Korean-flagged tanker that docked there without government permission.</p>
+<p>The government said on Monday that its forces had taken control of the tanker, but the militia denied this.</p>
+<p> Underlying Libya's crisis is a dispute over the interim parliament, which reached the end of its mandate in February. Islamists want to extend its term while the other bloc wants new elections. </p>
+<p class="originalSource">
+</p>
+<p>Police in Afghanistan say a suicide bomber blew himself up in front of a polling station in Kabul.</p>
+<p><strong class="cx-a news">By Jill Richards</strong> Donald Trump has been criticised for praising a Republican congressman who body-slammed a journalist.</p>
+<p>A speeding train has crashed into a crowd watching fireworks during a religious festival in northern India, killing at least 60 people and injuring dozens more, police said.</p>
+<p>Two explosions were reported in Kabul hours after parliamentary election polls opened in Afghanistan.</p>
+<p class="error" id="quick_subscribe_error"></p>
+<p class="done" id="quick_subscribe_done"></p>
+<p>Today's news headlines, directly to your inbox.</p>
+<p class="field">
+<input id="f-ecemail" name="ecemail" placeholder="Email address" required="required" type="email"/>
+<button class="bx-a cx-a belfasttelegraph news" type="submit">Sign Up</button>
+</p>
+<p class="flag"><strong class="flag-b bx-a news">Nightlife</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Nightlife</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Entertainment</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a business">Food, Drink and Hospitality</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Brexit</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a ">Sunday Life</strong></p>
+<p class="flag"><strong class="flag-b bx-a entertainment">News</strong></p>
+<p class="flag"><strong class="flag-b bx-a ">Sunday Life</strong></p>
+<p class="flag"><strong class="flag-b bx-a business">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a life">Features</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a life">House and Home</strong></p>
+<p class="flag"><strong class="flag-b bx-a life">Features</strong></p>
+<p class="flag"><strong class="flag-b bx-a life">Food and Drink</strong></p>
+<p class="flag"><strong class="flag-b bx-a archive">Archive</strong></p>
+<p class="flag"><strong class="flag-b bx-a opinion">Opinion</strong></p>
+<p class="copys"><span>© Belfast Telegraph</span> <a href="http://www.inmplc.com/"><img alt="Logo Inm A" height="28" src="/img/logo-inm-b.png" width="96"/></a></p>

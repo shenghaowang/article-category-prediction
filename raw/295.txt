@@ -1,0 +1,35 @@
+<p><strong>Get breaking news alerts from Newsday</strong></p>
+<p class="msg">Turn on notifications?</p>
+<p class="msg">Desktop notifications are on   | <a class="alertNo" href="#">Turn off</a></p>
+<p>You might be using private browsing or have notifications blocked.  Please enable notifications or using normal browsing mode.</p>
+<p class="caption">
+	  Mortgage giants Fannie Mae and Freddie Mac will have paid $203 billion to the Treasury by the end of March.
+       Photo Credit: AP / Manuel Balce Ceneta     </p>
+<p>U.S. government-owned mortgage financiers Fannie Mae and Freddie Mac could send about $179.2 billion in profits to taxpayers over the next 10 years if the terms of their bailout remain intact, the White House budget office said Monday.</p>
+<p>The amount, more than triple the estimated 10-year payments calculated last year in the White House budget proposal, is driven by the companies' increased profitability.</p>
+<p>Fannie Mae and Freddie Mac have operated under federal conservatorship since 2008, when regulators agreed to inject capital into the companies to keep them afloat.</p>
+<p>They received $187.5 billion in taxpayer funds, but they have returned to profitability and by the end of March they will have had paid $202.9 billion in dividends to the U.S. Treasury.</p>
+<p>No one expected them to become profitable again so quickly, but when home prices surged in 2012, they were able to recover more money than expected on soured loans.</p>
+<p>The profit projections come in an addendum to President Barack Obama's fiscal 2015 budget proposal.</p>
+<p>In a budget proposal last year the administration estimated that Fannie Mae and Freddie Mac would send the Treasury $51 billion through 2023.</p>
+<p>Under a 2012 revamp of their bailout terms, Fannie Mae and Freddie Mac send a majority of their profits to the Treasury as dividends, and they are unable to repurchase the controlling share the government took when it bailed them out.</p>
+<p>The latest LI business news in your inbox Monday through Friday.</p>
+<p class="disclaimer">By clicking Sign up, you agree to our <a href="/privacy" target="blank">privacy policy</a>.</p>
+<p></p>
+<p>Previously, they were required to pay only a 10 percent dividend on their bailout funds in profitable quarters.</p>
+<p>Shareholders, including Perry Capital and Fairholme Capital Management, have sued the United States over the changes. They argue that since the companies are returning profits to taxpayers, the government's stake should shrink.</p>
+<p>Both Republicans and Democrats in Congress and the Obama administration want to wind down and replace Fannie Mae and Freddie Mac.</p>
+<p class="disclaimer"><a href="/commentsnote">Comments section is temporarily on hold. Here’s why.</a></p>
+<p></p>
+<p></p>
+<p>
+<a href="https://www.newsday.com/privacy">Privacy Policy</a> | 
+<a href="https://www.newsday.com/terms">Terms of service</a> |
+<a href="https://www.newsday.com/homedeliveryterms">Subscription terms</a> |
+<a href="https://www.newsday.com/services/affiliated-sites-linked-sites-and-advertisements-1.4715345">Your ad choices</a> |
+<a href="https://www.newsday.com/contact">Contact Newsday</a> |
+<a href="http://www.newsdayreprints.com/">Reprints &amp; permissions</a> |
+<a href="https://www.newsday.com/advertise">Advertise with Newsday</a> |
+<a href="https://www.newsday.com/help">Help</a>
+</p>
+<p>Copyright © <script>var currentYear = new Date().getFullYear();document.write(currentYear);</script> Newsday. All rights reserved.</p>

@@ -1,0 +1,93 @@
+<p>Welcome!</p>
+<p class="topics">SYS-CON MEDIA Authors: <span class="topic-links"><a href="http://yeshimdeniz.sys-con.com/">Yeshim Deniz</a>, <a href="http://patromanski.sys-con.com/">Pat Romanski</a>, <a href="http://elizabethwhite.sys-con.com/">Elizabeth White</a>, <a href="http://lizmcmillan.sys-con.com/">Liz McMillan</a>, <a href="http://williamschmarzo.sys-con.com/">William Schmarzo</a></span></p>
+<p class="category">News Feed Item</p>
+<p class="subtitle"></p>
+<p><span class="xn-location">WASHINGTON</span>, <span class="xn-chron">March 10, 2014</span> /PRNewswire/ -- Americans' outlook on housing and the economy has fluctuated somewhat during the past few months, but the trend for most indicators remains positive overall, according to Fannie Mae's <span class="xn-chron">February 2014</span> National Housing Survey results. Notably, respondents' home price expectations climbed significantly in February – with 50 percent saying home prices will go up in the next year – following a measurable downturn in January, while the share of those who believe it is a good time to buy a home ticked up by 3 percentage points. At the same time, those who believe that it would be easy to get a mortgage dropped 7 percentage points from January's all-time survey high of 52 percent. Additionally, the share of respondents who say the economy is on the wrong track increased 3 percentage points to 57 percent in February, following a four-month decline. Despite a decrease in optimism across some of the indicators last month, consumer attitudes remain in generally positive ranges.</p>
+<p>"Similar to the noisy economic and housing data published over the past few months, we've seen a corresponding increase in volatility in our survey results, particularly for home price expectations and perceptions about the ease of getting a mortgage," said <span class="xn-person">Doug Duncan</span>, senior vice president and chief economist at Fannie Mae. "Weather may have played a role, as suggested by a 6 percentage point jump over the past two months in the share of consumers who say their household expenses are significantly higher than a year ago. This response would be consistent with higher home heating costs. Despite the volatile month-to-month changes, we believe that the housing recovery is continuing, but is not yet robust."</p>
+<p><b>SURVEY HIGHLIGHTS</b></p>
+<p><i>Homeownership and Renting</i></p>
+<p><i>The Economy and Household Finances</i></p>
+<p>The most detailed consumer attitudinal survey of its kind, the Fannie Mae National Housing Survey polled 1,000 Americans via live telephone interview to assess their attitudes toward owning and renting a home, home and rental price changes, homeownership distress, the economy, household finances, and overall consumer confidence. Homeowners and renters are asked more than 100 questions used to track attitudinal shifts (findings are compared to the same survey conducted monthly beginning <span class="xn-chron">June 2010</span>). Fannie Mae conducts this survey and shares monthly and quarterly results so that we may help industry partners and market participants target our collective efforts to stabilize the housing market in the near-term, and provide support in the future.</p>
+<p>For detailed findings from the <span class="xn-chron">February 2014</span> survey, as well as a podcast providing an audio synopsis of the survey results and technical notes on survey methodology and questions asked of respondents associated with each monthly indicator, please visit the <a href="http://www.fanniemae.com/portal/research-and-analysis/housing-survey.html" rel="nofollow" target="_blank">Fannie Mae Monthly National Housing Survey page</a> on fanniemae.com. Also available on the site are <a href="http://www.fanniemae.com/portal/research-and-analysis/consumer-research-analysis.html" rel="nofollow" target="_blank">in-depth topic analyses</a>, which provide a detailed assessment of combined data results from three monthly studies. The <span class="xn-chron">February 2014</span> Fannie Mae National Housing Survey was conducted between <span class="xn-chron">February 1, 2014</span> and <span class="xn-chron">February 23, 2014</span>. Most of the data collection occurred during the first two weeks of this period. Interviews were conducted by Penn Schoen Berland, in coordination with Fannie Mae.</p>
+<p><i>Opinions, analyses, estimates, forecasts, and other views of Fannie Mae's Economic &amp; Strategic Research (ESR) Group included in these materials should not be construed as indicating Fannie Mae's business prospects or expected results, are based on a number of assumptions, and are subject to change without notice. How this information affects Fannie Mae will depend on many factors. Although the ESR Group bases its opinions, analyses, estimates, forecasts, and other views on information it considers reliable, it does not guarantee that the information provided in these materials is accurate, current, or suitable for any particular purpose. Changes in the assumptions or the information underlying these views could produce materially different results. The analyses, opinions, estimates, forecasts, and other views published by the ESR Group represent the views of that group as of the date indicated and do not necessarily represent the views of Fannie Mae or its management.</i></p>
+<p><i>Fannie Mae enables people to buy, refinance, or rent a home. </i></p>
+<p><i>Visit us at </i><a href="http://www.fanniemae.com/progress" rel="nofollow" target="_blank"><i>http://www.fanniemae.com/progress</i></a><i>.</i></p>
+<p><i>Follow us on Twitter: </i><a href="http://twitter.com/FannieMae" rel="nofollow" target="_blank"><i>http://twitter.com/FannieMae</i></a><i>.</i></p>
+<p>SOURCE Fannie Mae</p>
+<p class="story-footer">
+Published March 10, 2014 <br/>
+Copyright © 2014 SYS-CON Media, Inc. — All Rights Reserved.
+<br/>
+Syndicated stories and blog feeds, all rights reserved by the author.
+</p>
+<p>Copyright © 2007 PR Newswire. All rights reserved. Republication or redistribution of PRNewswire content is expressly prohibited without the prior written consent of PRNewswire. PRNewswire shall not be liable for any errors or delays in the content, or for any actions taken in reliance thereon.</p>
+<p>
+<style type="text/css"><!--
+.event-footer-lfc {
+font-size: 10px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+color: #ccc;
+}	
+.event-copy-lfc {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+color: #fff;
+}	
+
+.event-footer-lfc2 {
+	font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; 
+	color: #555555; 
+	font-style: italic;
+}
+
+.footer-nav {
+	/*width:100%!important;*/
+	padding: 1px 5px 5px 5px !important;
+	margin: 0px 0px 0px 0px !important;
+	float: left !important;
+	background-color:#0f131c!important;
+}
+
+.footer-head1{
+	font-family:Georgia, "Times New Roman", Times, serif!important;
+	font-size:32px!important;
+	color:#82c5cd!important;
+	text-decoration:none!important;
+
+}
+
+.footer-head2 {
+	font-family:Georgia, "Times New Roman", Times, serif!important;
+	font-size:14px!important;
+	color:#9c9b9b!important;
+	text-decoration:none!important;	
+}
+
+#footer-terms {
+	font-family:Verdana, Arial, Helvetica, sans-serif !important;
+	margin:10px 0 0 !important;
+	border-top:1px solid #667788 !important;
+	background: #000000 !important;
+	color: #FFFFFF !important;
+	padding: 9px !important;
+	clear: both !important;
+}
+#footer-terms p {
+	color: #fff !important;
+	font-size: 10px !important;
+	font-family: Verdana, Arial, Helvetica, sans-serif !important;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+--></style>
+<meta content="wT-eP7-k8lEt4As_ltjRl2w_1J84KeUTpGPyQ_B0oJI" name="google-site-verification"/>
+<img height="161" src="http://www2.sys-con.com/2018/header_cloud2018.jpg" width="1015"/></p>
+<p><img align="left" src="http://www2.sys-con.com/eventserver/other/footer/logo_ulitzer_sml.png"/><a href="http://www.sys-con.com/general/terms.htm">Terms of Use &amp; Our Privacy Statement</a> - <a href="http://www.sys-con.com/general/aboutfeeds.htm">About Newsfeeds / Videofeeds</a>. Copyright ©1994-2018 DXWorldEXPO LLC. All Rights Reserved. All marks are trademarks of DXWorldEXPO LLC. Reproduction in whole or in part in any form or medium without express written permission of DXWorldEXPO LLC is prohibited.</p>
+<p>
+<map name="Map">
+<area coords="6,5,1008,153" href="http://cloudcomputingexpo.com/" shape="rect" target="_blank"/>
+</map>
+</p>

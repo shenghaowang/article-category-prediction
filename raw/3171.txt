@@ -1,0 +1,26 @@
+<p style="position: absolute; top: -999em"><img alt="" height="1" src="https://sa.bbc.co.uk/bbc/bbc/s?name=news.technology.story.26387800.page&amp;ml_name=webmodule&amp;ml_version=-1&amp;blq_e=orbit&amp;blq_r=orbit&amp;blq_s=orbit&amp;blq_v=default&amp;language=en&amp;pal_route=asset&amp;language=en-GB&amp;pal_webapp=tabloid&amp;prod_name=news&amp;app_name=news&amp;cps_asset_id=26387800&amp;page_type=Story§ion=%2Fnews%2Ftechnology&amp;first_pub=2014-02-28T13%3A31%3A58%2B00%3A00&amp;last_editorial_update=2014-03-10T11%3A16%3A25%2B00%3A00&amp;curie=e32cda00-64d9-694b-8047-a6eb79346cbb&amp;title=Hackers+hit+web+accounts+of+MtGox+boss&amp;has_video=&amp;topic_names=Bitcoin&amp;topic_ids=c734j90em14t&amp;for_nation=sg&amp;app_version=1.261.0&amp;app_type=responsive&amp;bbc_site=news&amp;blq_js_enabled=0" width="1"/></p>
+<p aria-hidden="true" class="twite__title">Share this with</p>
+<p aria-hidden="true" class="twite__channel-text">Email</p>
+<p aria-hidden="true" class="twite__channel-text">Facebook</p>
+<p aria-hidden="true" class="twite__channel-text">Messenger</p>
+<p aria-hidden="true" class="twite__channel-text">Messenger</p>
+<p aria-hidden="true" class="twite__channel-text">Twitter</p>
+<p aria-hidden="true" class="twite__channel-text">Pinterest</p>
+<p aria-hidden="true" class="twite__channel-text">WhatsApp</p>
+<p aria-hidden="true" class="twite__channel-text">LinkedIn</p>
+<p class="twite__copy-text">Copy this link</p>
+<p aria-hidden="true" class="twite__new-window">These are external links and will open in a new window</p>
+<p class="story-body__introduction">Hackers have taken over some of the web accounts of Mark Karpeles - boss of the troubled MtGox Bitcoin exchange.</p>
+<p>The attack on Mr Karpeles seems to have been motivated by growing frustration over the actions of MtGox.</p>
+<p>Last month MtGox stopped trading and filed for bankruptcy after finding out that $465m (£279m) in bitcoins had been lost via a security bug.</p>
+<p>Many have called on the exchange to release more information about what happened to the lost bitcoins.</p>
+<p>The attacks were mounted on the personal blog and Reddit account of Mr Karpeles and left the hackers in charge of both social media accounts.</p>
+<p>The attackers used their access to grab detailed information about trading activity at MtGox. They then shared their findings by posting a 716MB file containing much of what they had found.</p>
+<p>The material posted included an Excel spreadsheet of more than one million trades, entries from MtGox's business ledger and information about its back-office administration software.</p>
+<p>"It's time that MtGox got the Bitcoin community's wrath instead of [the] Bitcoin community getting Goxed," wrote the hackers in a message accompanying the data dump. The word "Goxed" has been used to describe the sudden interruptions in trading MtGox imposed when it was going through technical problems before its final closure. </p>
+<p>It was not yet clear whether the information dumps were real or shed new light on what had happened at the exchange, <a class="story-body__link-external" href="http://www.forbes.com/sites/andygreenberg/2014/03/09/hackers-hit-mt-gox-exchanges-ceo-claim-to-publish-evidence-of-fraud/">said Forbes staff writer Andy Greenberg</a>. </p>
+<p>He pointed out that although $465m in bitcoins (approximately 744,000 coins) had supposedly gone astray from MtGox, no activity suggesting they had been traded had been seen in the blockchain - the central list of buying and selling that underpins the entire Bitcoin network.</p>
+<p class="unit__meta">The BBC is not responsible for the content of external Internet sites</p>
+<p class="top-stories-promo-story__summary ">Protesters calling for a referendum on the final deal have attended a mass rally in central London.</p>
+<p class="heron__item-summary">Powerful moments that inspired music</p>
+<p class="heron__item-summary">Sign up for our newsletter</p>

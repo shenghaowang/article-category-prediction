@@ -1,0 +1,66 @@
+<p>We use a range of cookies to give you the best possible browsing experience. By continuing to use this website, you agree to our use of cookies. You can view our cookie policy and edit your settings <a href="https://www.ig.com/uk/cookies">here</a>, or by following the link at the bottom of any page on our site.</p>
+<p class="cta float-right"> <a class="button button-ghost-black js_target" href="#information-banner-dismiss" target="_self"> Agree </a> </p>
+<p class="cta"> <a class="normal" data-base.url="/uk/search-results" href="">View more search results</a> </p>
+<p>Stock-market malaise persists into third day on Wall Street.</p>
+<p class="news-article-author-name">IG Analyst<p>
+<p class="news-article-timestamp time" data-datetime="2014-03-12T19:36:52+0000">2014-03-12T19:36:52+0000</p>
+</p></p>
+<p>
+<p class="news-article-timestamp time" data-datetime="2014-03-12T19:36:52+0000">2014-03-12T19:36:52+0000</p>
+</p>
+<p class="news-article-timestamp time" data-datetime="2014-03-12T19:36:52+0000">2014-03-12T19:36:52+0000</p>
+<p>The US stock market has come on with a case of the blahs since the weekend: last week we were seeing record high after record high, but to keep that kind of vim and vigour going you need an injection of regular positive news.</p>
+<p>Instead we have had an absence of any significant US economic data and a bilious backdrop of a stutter in China’s economic growth and unresolved tension between Russia and the West.  </p>
+<p>At the individual company level we have also had a drip-feed of discouraging news. <a class="insight-link" href="/uk/shares/markets-shares/herbalife-ltd-HLF-US">Herbalife</a> fell as much as 15% following news that the Federal Trade Commission (FTC) is to open a civil investigation into the company’s practices, before recovering some of those losses to stand 7.8% lower by later afternoon in New York.</p>
+<p>Hedge fund manager Bill Ackman accused Herbalife of being a pyramid scheme in late 2012 and today alleged that the company is breaking direct-selling laws in China. Of the FTC probe, Herbalife said in a statement that it ‘welcomes the inquiry given the tremendous amount of misinformation in the marketplace, and will cooperate fully with the FTC. We are confident that Herbalife is in compliance with all applicable laws and regulations.’</p>
+<p><a class="insight-link" href="/uk/shares/markets-shares/pfizer-inc-PFE-US">Pfizer</a> fell 1% after revealing a federal court in Eastern Virginia has voided a key patent behind its Celebrex drug. ‘Pfizer disagrees with the ruling and will pursue all available remedies, including an immediate appeal of the court's judgement,’ the company said in a press release.</p>
+<p>Clothing retailer <a class="insight-link" href="/uk/shares/markets-shares/urban-outfitters-inc-URBN-US">Urban Outfitters</a> fell 2.3%, declining for a third consecutive day, after yesterday’s announcement that the company anticipates lower sales in the first quarter on account of the bad weather.</p>
+<p>With half an hour to the close, the <a class="insight-link" href="/uk/indices/markets-indices/wall-street">Dow Jones</a> was down 0.20% at 16,318 and the <a class="insight-link" href="/uk/indices/markets-indices/us-spx-500">S&amp;P 500</a> slid 0.23% to 1863.4.</p>
+<p>Tomorrow will be the busiest day of the week so far in terms of the US economic calendar. We have retail sales and import and export prices for February before the US stock market opens, along with weekly jobless claims data.</p>
+<p>This information has been prepared by IG, a trading name of IG Markets Limited. In addition to the disclaimer below, the material on this page does not contain a record of our trading prices, or an offer of, or solicitation for, a transaction in any financial instrument. IG accepts no responsibility for any use that may be made of these comments and for any consequences that result. No representation or warranty is given as to the accuracy or completeness of this information. Consequently any person acting on it does so entirely at their own risk. Any research provided does not have regard to the specific investment objectives, financial situation and needs of any specific person who may receive it. It has not been prepared in accordance with legal requirements designed to promote the independence of investment research and as such is considered to be a marketing communication. Although we are not specifically constrained from dealing ahead of our recommendations we do not seek to take advantage of them before they are provided to our clients. See full <a href="/uk/non-independent-research-disclaimer">non-independent research disclaimer</a> and <a href="/uk/non-independent-research-quarterly">quarterly summary</a>.</p>
+<p class="heading">
+<a href="/uk/forex">Forex</a></p>
+<p>
+<a href="/uk/indices">Indices</a></p>
+<p>
+<a href="/uk/shares">Shares</a></p>
+<p>
+<a href="/uk/other-markets">Other markets</a></p>
+<p class="heading">
+<a href="/uk/spread-betting">Spread betting</a></p>
+<p>
+<a href="/uk/cfd-trading">CFD trading</a></p>
+<p>
+<a href="/uk/investments/share-dealing">Share dealing</a></p>
+<p class="heading">
+<a href="/uk/online-trading-platform">Web platform</a></p>
+<p>
+<a href="/uk/trading-apps">Trading apps</a></p>
+<p>
+<a href="/uk/advanced-trading-platforms">Advanced platforms</a></p>
+<p>
+<a href="/uk/compare-trading-platforms">Compare features</a></p>
+<p class="heading">
+<a href="/uk/week-ahead">The Week Ahead</a></p>
+<p>
+<a href="/uk/market-news-and-analysis">Market news</a></p>
+<p>New client: <a href="tel:08001953100">0800 1953100</a></p>
+<p>Clients: <a href="/uk/help-and-support">Help and support</a></p>
+<p>Tweet us: <a href="https://twitter.com/igclienthelp">@IGClientHelp</a></p>
+<p>
+<a href="/uk">IG</a> | 
+<a href="/uk/sitemap-ig">Sitemap</a> | 
+<a class="normal" href="/uk/terms-and-agreements">Terms and agreements</a> | 
+<a href="/uk/privacy">Privacy</a> | <a href="/uk/community-ig">IG Community</a> | <a href="/uk/cookies">Cookies</a> | <a href="http://www.iggroup.com/">Investors</a></p>
+<p>Follow us online:</p>
+<p><span style="color: inherit; font-size: inherit;">Spread bets and CFDs are complex instruments and come with a  high risk of losing money rapidly due to leverage. <strong>79% of retail investor accounts lose money when trading spread bets and CFDs with this provider.</strong> You should consider whether you understand how spread bets and CFDs work, and whether you can afford to take the high risk of losing your money. Professional clients can lose more than they deposit. All trading involves risk.</span></p>
+<p>The value of shares, ETFs and ETCs bought through a share dealing account, a stocks and shares ISA or a SIPP can fall as well as rise, which could mean getting back less than you originally put in. Past performance is no guarantee of   future results.</p>
+<p>CFD, share dealing and stocks and shares ISA accounts provided by IG Markets Ltd, spread betting provided by IG Index Ltd. IG is a trading name of IG Markets Ltd (a company registered in England and Wales under number 04008957) and IG Index Ltd (a company registered in England and Wales under number 01190902). Registered address at Cannon Bridge House, 25 Dowgate Hill, London EC4R 2YA. Both IG Markets Ltd (Register number 195355) and IG Index Ltd (Register number 114059) are authorised and regulated by the Financial Conduct Authority.</p>
+<p>The information on this site is not directed at residents of the United States, Belgium or any particular country outside the UK and is not intended for distribution to, or use by, any person in any country or jurisdiction where such distribution or use would be contrary to local law or regulation.</p>
+<p>© 2003-2018</p>
+<p>
+<a href="http://www.iggroup.com/corporate/careers.html">Careers</a> | <a href="/uk/marketing-partnership">Marketing partnership</a></p>
+<p>
+<span class="full-text__warning"> Spread bets and CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. <strong>79% of retail investor accounts lose money when trading spread bets and CFDs with this provider.</strong> You should consider whether you understand how spread bets and CFDs work, and whether you can afford to take the high risk of losing your money. </span>
+<span class="short-text__warning"> Spread bets and CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. </span>
+</p>

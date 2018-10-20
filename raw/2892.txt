@@ -1,0 +1,159 @@
+<p class="timestamp" id="published-timestamp">Published: <span>Mar 10, 2014 11:37 a.m. ET</span></p>
+<p>By</p>
+<p>WASHINGTON (MarketWatch) — It’s been more than five years since Fannie Mae and Freddie Mac were placed into conservatorship, but the reform process has been opaque and the stakes are too high to get it wrong, says the investment research director at the mutual fund that has taken big stakes in the housing finance giants.</p>
+<p>Dan Schmerin is investment research director at Fairholme Capital Management, which owns more than 150 million common and preferred shares in Fannie and Freddie, and spoke to MarketWatch about the firms’ future.</p>
+<p> <a class="icon " href="https://clients.fairholme.net/GSEProposal_11_11_13.pdf" target="_new">Fairholme </a>proposed a private recapitalization of Fannie and Freddie, but the Obama administration <a class="icon " href="http://blogs.marketwatch.com/capitolreport/2013/11/21/fannie-freddie-shares-drop-after-u-s-says-private-recapitalization-is-a-no-go/" target="_new">signaled that the plan was a no-go</a>. Fairholme is also suing over a 2012 amendment to the government’s bailout agreement for Fannie and Freddie that forces the housing-finance giants to send all of their profits to the U.S. Treasury Department. </p>
+<p>Fannie and Freddie’s futures remain unclear. U.S. lawmakers disagree over the role that the government should play in the U.S. housing-finance system. Also, with the recovery of the housing market, Fannie and Freddie have <a class="icon " href="http://blogs.marketwatch.com/capitolreport/2014/02/27/freddie-mac-reports-8-6-billion-profit-for-fourth-quarter/" target="_new">become cash cows</a>, and some say the will to advance meaningful legislation is dimming.</p>
+<p>Supported by <a class="icon none" href="/story/political-legal-hopes-buoy-fannie-freddie-rally-2014-02-14">political and legal hopes</a>, investors have traded up Fannie 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote up bgQuote" data-bgformat="" data-channel="/quotes/zigman/67246705/delayed"><a class="qt-chip trackable" data-fancyid="OOTCStockFNMA" data-track-mod="MW_story_quote" href="/investing/stock/fnma">FNMA, <span class="bgPercentChange">+6.77%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   and Freddie’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote up bgQuote" data-bgformat="" data-channel="/quotes/zigman/67245956/delayed"><a class="qt-chip trackable" data-fancyid="OOTCStockFMCC" data-track-mod="MW_story_quote" href="/investing/stock/fmcc">FMCC, <span class="bgPercentChange">+7.73%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                    common shares more than 1,500% over the past 12 months. Meanwhile, the most heavily traded preferred shares of Fannie 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote up bgQuote" data-bgformat="" data-channel="/quotes/zigman/4571092/delayed"><a class="qt-chip trackable" data-fancyid="OOTCPreferredStockFNMAS" data-track-mod="MW_story_quote" href="/investing/stock/fnmas">FNMAS, <span class="bgPercentChange">+2.61%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   and Freddie 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote up bgQuote" data-bgformat="" data-channel="/quotes/zigman/67143156/delayed"><a class="qt-chip trackable" data-fancyid="OOTCPreferredStockFMCKJ" data-track-mod="MW_story_quote" href="/investing/stock/fmckj">FMCKJ, <span class="bgPercentChange">+1.95%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   have each increased more than 500%.</p>
+<p>This transcript has been edited for clarity and length.</p>
+<p> <strong>MarketWatch</strong>: A U.S. Treasury official recently said Congress’s lack of progress on reforming the U.S. housing-finance system <a class="icon none" href="/story/investors-ready-for-mortgage-credit-risk-treasury-2014-03-06">shouldn’t be “an excuse”</a> to delay rebuilding the market for private-label mortgage securities. Has the administration given up on housing-finance reform? </p>
+<p> <strong>Schmerin</strong>: It’s not entirely clear to us what the administration’s plan or strategy is with respect to reforming the GSEs. Aside from publishing a white paper in 2011, their thoughts, recommendations and viewpoints on GSE reform have really been few and far between. The president recently articulated, as you know, a few very high-level guiding principles, which are subject to significant interpretation and also subject to immediate disagreement from leaders within his own party.</p>
+<p> <strong>MarketWatch</strong>: What does the lack of certainty and progress mean?</p>
+<p> <strong>Schmerin</strong>: There is a growing recognition of the vital role that Fannie and Freddie play in our secondary mortgage market and the tremendous difficulties that our nation would face if one were to effectively abolish Fannie and Freddie with the hope of rebuilding other firms or a consortium of others firms to try and fill the void. </p>
+<p>Our sense is that as more and more elected officials are examining the complexities inherent to this topic, they’ve realized that broad and sweeping reform, which may sound attractive, is actually very challenging to effectuate because the risks of getting it wrong are significant. </p>
+<p>If you do away with Fannie and Freddie, congressional officials need to come forward and say: ‘We’re OK with doing away with affordable mortgages. We’re OK doing away with the 30-year fixed-rate mortgage and we believe our constituents will accept and understand that the availability and liquidity in the secondary mortgage market will be fundamentally different to their detriment going forward.’ Because those are the facts.</p>
+<p> <strong>MarketWatch</strong>: Would it be such a bad thing if 30-year mortgages weren’t such a large share of the U.S. market?</p>
+<p> <strong>Schmerin</strong>: An overwhelming majority of Americans demand the 30-year fixed rate. An overwhelming majority of Americans want the financial certainty that comes with fixed-rate payments and slow amortization over the lifetime of that mortgage.</p>
+<p>We can certainly transition to a system that’s strictly adjustable-rate mortgages, but it’s not our sense that that is in the national interest. </p>
+<p>Americans want, on a per capita basis, the highest quality homes, the largest availability of homes and, in terms of size, the largest square-footage homes. For all the perceived ills with our housing-finance system, we are all lucky in that in America we’ve achieved most of those objectives. That’s not to say that there aren’t high quality homes in other developed countries around the world. But they’re not as large, they’re not as easily available, on a per-capita basis, and most of them, frankly, aren’t as nice.</p>
+<p> <strong>MarketWatch</strong>: Under what circumstances will Fairholme throw in the towel and sell its GSE stake?</p>
+<p> <strong>Schmerin</strong>: I really couldn’t comment on that. I’m not the portfolio manager. I can also tell you that I don’t think that’s been contemplated.</p>
+<p> <strong>MarketWatch</strong>: What’s the biggest misconception that Americans have about Fannie and Freddie stock?</p>
+<p> <strong>Schmerin</strong>: There is a large gap in perception where many Americans believe these companies have been nationalized. Many Americans aren’t aware that there are private investors, shareholders, who still have a stake for 20.1% of the common equity and $33-plus billion of preferred stock.</p>
+<p>These are not federal agencies and they are not wards of the state. They just happen to be unusual because of the charter that they have, the congressional charter, and some of the public mission element that was built into that charter. But at their core they are corporations.</p>
+<p> <strong>MarketWatch</strong>: What does the White House not understand about the benefits of accepting a proposal like Fairholme’s?</p>
+<p> <strong>Schmerin</strong>: We haven’t received a response from anyone in the government regarding our proposal or any other of the numerous proposals that are out there. So I’m not quite sure what to tell you other than we thought carefully about the prospects for reform and took into account some of the leading legislative proposals, took into account our sense of what private market participants would be willing to do and put forth one idea for how to transition going forward. </p>
+<p>It was just one idea. There are many others, and to the extent that people have better ideas, we’d love to hear them.</p>
+<p>It sounds like the administration has been having some private conversations with members of Congress, but we have yet to understand where that’s heading…The process has been very opaque.</p>
+<p> <strong>MarketWatch</strong>: Would Fairholme be willing to negotiate with the government over its suit? And if so, what would the minimum settlement be?</p>
+<p> <strong>Schmerin</strong>: I don’t think we’ve contemplated a minimum amount, per se. I think that’s really not the focus of our attention. We are open and optimistic that a consensual solution can be reached. It’s in the interest of the country. It’s in the interest of all taxpayers. </p>
+<p>We are first and foremost taxpayers. The vast majority of our shareholders are taxpayers. The vast majority of owners of Fannie and Freddie are American taxpayers. So when we talk about who ought to see the benefits and the proceeds and the profits of Fannie and Freddie – taxpayers or shareholders -- we see that as a difference without a distinction.</p>
+<p> <strong>MarketWatch</strong>: Is there anything you’d like to add?</p>
+<p> <strong>Schmerin</strong>: The government has claimed in its responses…that imposing the net worth sweep was necessary because there was purported concern in the agency debt market about extinguishing the Treasury commitment to Fannie and Freddie as a result of this so-called mandatory 10% cash dividend obligation.</p>
+<p>What that overlooks is the fact that in the preferred stock certificates, both Fannie and Freddie, if the board of directors did not declare a 10% cash dividend to Treasury,<a class="icon " href="http://online.wsj.com/public/resources/documents/12Percent.pdf" target="_new"> could simply pay a 12% stock dividend</a> in lieu of that cash dividend. </p>
+<p>We think that’s a really important point. It’s conspicuously absent from any of the explanations, justifications, memoranda, anything else that’s been produced to date in the administrative record. </p>
+<p> <strong>MarketWatch</strong>: Is the 12% stock dividend going to be something that Fairholme emphasizes going forward in the litigation?</p>
+<p> <strong>Schmerin</strong>: It’s a point that we are going to emphasize in multiple venues because we believe it’s a very important issue.</p>
+<p>As Bruce [Berkowitz, Fairholme’s founder] said publicly, we actually think that that fact alone largely collapses the Justice Department’s case. We didn’t know it six months ago, but we know it now since they have responded to our complaints. And they have articulated that their primary justification for imposing the illegal net worth sweep was this concern around the ability of each company to continue paying the 10% cash dividend.</p>
+<p>With each next step we have more unanswered questions than anything else. If I learned one thing from my time in Washington (I spent eight years there), it’s really not the initial action that causes as much consternation and upheaval as the potential cover up. </p>
+<p> <strong>Also read:</strong> <a class="icon none" href="/story/nader-us-has-duty-to-fannie-freddie-investors-2013-05-31">Ralph Nader on the GSEs</a> </p>
+<p> <a class="icon none" href="/story/30-year-mortgage-rate-falls-to-428-2014-03-06-109104">30-year mortgage rate falls</a> </p>
+<p>Join the conversation</p>
+<p class="copyright">Copyright © 2018 MarketWatch, Inc.  All rights reserved.</p>
+<p class="text text--terms">
+                By using this site you agree to the <a href="//www.marketwatch.com/support/disclaimer.asp">Terms of Service</a>,
+                <a href="https://www.dowjones.com/privacy-policy/" target="_blank">Privacy Policy</a>, and
+                <a href="https://www.dowjones.com/cookies-policy/" target="_blank">Cookie Policy</a>.
+            </p>

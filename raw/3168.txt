@@ -1,0 +1,13 @@
+<p class="storyParagraph">
+<span class="source">
+                                            (Newser)
+                                        </span>–
+                                        General Motors is facing more pressure over its handling of a deadly defect in certain compact cars as word leaked of a criminal investigation and two congressional committees opened inquiries into the matter. The Justice Department is investigating whether GM broke any laws with its slow response to a problem with ignition switches in compact cars, including the Cobalt, from model years 2003 to 2007, says a person briefed on the matter. The probe is being handled by the US Attorney's Office in New York and is in its early stages, reports <a href="http://www.reuters.com/article/2014/03/11/us-autos-gm-recall-probe-idUSBREA2A1RZ20140311">Reuters</a>.
+                                    </p>
+<p class="storyParagraph">
+                                        At issue is why GM waited until February to recall 1.6 million older-model compact cars worldwide, even though it admitted knowing about the problem for a decade. The faulty ignition switches have been linked to 31 crashes and 13 deaths. Committees in the House and Senate also want to know why the government's road safety watchdog, the National Highway Traffic Safety Administration, didn't take action sooner. If no criminal charges result, federal prosecutors could pursue civil charges, notes the <a href="http://www.nytimes.com/2014/03/12/business/house-committee-demands-records-from-gm.html?hp"><em>New York Times</em></a>.
+                                        <span id="StoryTextBot" style="display:none;"> </span>
+</p>
+<p style="color:#7c7c7c;">
+                                Copyright 2018 Newser, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.  AP contributed to this report.
+                            </p>

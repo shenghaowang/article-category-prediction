@@ -1,0 +1,64 @@
+<p>We use a range of cookies to give you the best possible browsing experience. By continuing to use this website, you agree to our use of cookies. You can view our cookie policy and edit your settings <a href="https://www.ig.com/uk/cookies">here</a>, or by following the link at the bottom of any page on our site.</p>
+<p class="cta float-right"> <a class="button button-ghost-black js_target" href="#information-banner-dismiss" target="_self"> Agree </a> </p>
+<p class="cta"> <a class="normal" data-base.url="/uk/search-results" href="">View more search results</a> </p>
+<p>Heading into the close the FTSE 100 is up five points, as it clings to the positive territory garnered from the US markets' bullish start to its day.</p>
+<p class="news-article-author-name">IG Analyst<p>
+<p class="news-article-timestamp time" data-datetime="2014-03-11T16:42:04+0000">2014-03-11T16:42:04+0000</p>
+</p></p>
+<p>
+<p class="news-article-timestamp time" data-datetime="2014-03-11T16:42:04+0000">2014-03-11T16:42:04+0000</p>
+</p>
+<p class="news-article-timestamp time" data-datetime="2014-03-11T16:42:04+0000">2014-03-11T16:42:04+0000</p>
+<p>After a shaky beginning the <a class="insight-link" href="/uk/indices/markets-indices/ftse-100">FTSE</a>, with some help from the US, has managed to turn things around. In today’s Q&amp;A session for Mark Carney, we have seen the first chinks in his armour as MPs grilled him over how aware the Bank of England was that LIBOR might be rigged. Regardless of whose watch this occurred on, Mark Carney is the one facing the music now. The calm trading environment that the FTSE has enjoyed today has appeared as quickly as yesterday’s flurry of panicked trading materialised, but one suspects that the panic is just around the corner waiting for further military incidents in Ukraine.</p>
+<p>Tomorrow will see the beginning of conditional trading in both Pets at Home and Poundland. IG’s grey market has both companies trading at a premium to their IPO listings, which might seem overly optimistic. However, last year IG clients predicted that <a class="insight-link" href="/uk/shares/markets-shares/royal-mail-plc">Royal Mail</a> would start trading at over £4, versus its listing price of £3.30. Given that they also came within a few cents of <a class="insight-link" href="/uk/shares/markets-shares/twitter-inc">Twitter's</a> valuation on its first day of trading, we could see a similar strong start for tomorrow’s stock market debutantes. </p>
+<p>Ex-prime minister Gordon Brown has added his opinion to the devolution debate over Scotland. All of this has once again muddied the waters for those companies based north of the border, but business south of the border has ensured the likes of <a class="insight-link" href="/uk/shares/markets-shares/royal-bank-of-scotland-group-plc-RBS-UK">Royal Bank of Scotland</a> head the list of today’s FTSE fallers. </p>
+<p>Monthly US wholesale inventories have crept higher as business spending has eased. However, that has not stopped the markets from heading higher. Words of comfort from Federal Reserve chair Janet Yellen over the US markets' ability to withstand further reductions to the US debt-purchasing scheme have been taken well by all the major US equity markets. Most of the current uncertainties are happening over in Europe and, as such, it has given US traders the ability to focus on stock specifics rather than the macro issues. In an aggressive reversal of sentiment from yesterday’s disappointing figures, <a class="insight-link" href="/uk/shares/markets-shares/mcdonalds-corp-MCD-US">McDonald's</a> has seen its shares trade 3.5% higher in early trading.</p>
+<p>Brazilian coffee growers will be hoping that the chances of El Nino conditions increase, as the current lack of rainfall continues to squeeze the <a class="insight-link" href="/uk/commodities/markets-commodities/coffee-arabica">arabica coffee</a> price ever higher; the spot price is now up 83% in 2014 alone. Indecision is rife with the <a class="insight-link" href="/uk/commodities/markets-commodities/brent-crude">Brent</a> crude price, as the last five trading days have seen the commodity break and retake its 50-,100- and 200-day moving averages. <a class="insight-link" href="/uk/commodities/markets-commodities/gold">Gold's</a> dalliance with $1350 continues, as it keeps showing the desire to break above this level yet lacks the commitment needed to carry out this move.</p>
+<p>With comments flying from both the European Central Bank president Mario Draghi and the latest EU finance ministers' meeting in Brussels, <a class="insight-link" href="/uk/forex/markets-forex/eur-usd">EUR/USD</a> has failed to break through its highs from earlier in the week and now appears to be suffering from a touch of vertigo. That being said, it does look like the $1.40 level will be reached sooner or later, as the 50-day moving average has worked as a solid support for the last six weeks.</p>
+<p>This information has been prepared by IG, a trading name of IG Markets Limited. In addition to the disclaimer below, the material on this page does not contain a record of our trading prices, or an offer of, or solicitation for, a transaction in any financial instrument. IG accepts no responsibility for any use that may be made of these comments and for any consequences that result. No representation or warranty is given as to the accuracy or completeness of this information. Consequently any person acting on it does so entirely at their own risk. Any research provided does not have regard to the specific investment objectives, financial situation and needs of any specific person who may receive it. It has not been prepared in accordance with legal requirements designed to promote the independence of investment research and as such is considered to be a marketing communication. Although we are not specifically constrained from dealing ahead of our recommendations we do not seek to take advantage of them before they are provided to our clients. See full <a href="/uk/non-independent-research-disclaimer">non-independent research disclaimer</a> and <a href="/uk/non-independent-research-quarterly">quarterly summary</a>.</p>
+<p class="heading">
+<a href="/uk/forex">Forex</a></p>
+<p>
+<a href="/uk/indices">Indices</a></p>
+<p>
+<a href="/uk/shares">Shares</a></p>
+<p>
+<a href="/uk/other-markets">Other markets</a></p>
+<p class="heading">
+<a href="/uk/spread-betting">Spread betting</a></p>
+<p>
+<a href="/uk/cfd-trading">CFD trading</a></p>
+<p>
+<a href="/uk/investments/share-dealing">Share dealing</a></p>
+<p class="heading">
+<a href="/uk/online-trading-platform">Web platform</a></p>
+<p>
+<a href="/uk/trading-apps">Trading apps</a></p>
+<p>
+<a href="/uk/advanced-trading-platforms">Advanced platforms</a></p>
+<p>
+<a href="/uk/compare-trading-platforms">Compare features</a></p>
+<p class="heading">
+<a href="/uk/week-ahead">The Week Ahead</a></p>
+<p>
+<a href="/uk/market-news-and-analysis">Market news</a></p>
+<p>New client: <a href="tel:08001953100">0800 1953100</a></p>
+<p>Clients: <a href="/uk/help-and-support">Help and support</a></p>
+<p>Tweet us: <a href="https://twitter.com/igclienthelp">@IGClientHelp</a></p>
+<p>
+<a href="/uk">IG</a> | 
+<a href="/uk/sitemap-ig">Sitemap</a> | 
+<a class="normal" href="/uk/terms-and-agreements">Terms and agreements</a> | 
+<a href="/uk/privacy">Privacy</a> | <a href="/uk/community-ig">IG Community</a> | <a href="/uk/cookies">Cookies</a> | <a href="http://www.iggroup.com/">Investors</a></p>
+<p>Follow us online:</p>
+<p><span style="color: inherit; font-size: inherit;">Spread bets and CFDs are complex instruments and come with a  high risk of losing money rapidly due to leverage. <strong>79% of retail investor accounts lose money when trading spread bets and CFDs with this provider.</strong> You should consider whether you understand how spread bets and CFDs work, and whether you can afford to take the high risk of losing your money. Professional clients can lose more than they deposit. All trading involves risk.</span></p>
+<p>The value of shares, ETFs and ETCs bought through a share dealing account, a stocks and shares ISA or a SIPP can fall as well as rise, which could mean getting back less than you originally put in. Past performance is no guarantee of   future results.</p>
+<p>CFD, share dealing and stocks and shares ISA accounts provided by IG Markets Ltd, spread betting provided by IG Index Ltd. IG is a trading name of IG Markets Ltd (a company registered in England and Wales under number 04008957) and IG Index Ltd (a company registered in England and Wales under number 01190902). Registered address at Cannon Bridge House, 25 Dowgate Hill, London EC4R 2YA. Both IG Markets Ltd (Register number 195355) and IG Index Ltd (Register number 114059) are authorised and regulated by the Financial Conduct Authority.</p>
+<p>The information on this site is not directed at residents of the United States, Belgium or any particular country outside the UK and is not intended for distribution to, or use by, any person in any country or jurisdiction where such distribution or use would be contrary to local law or regulation.</p>
+<p>© 2003-2018</p>
+<p>
+<a href="http://www.iggroup.com/corporate/careers.html">Careers</a> | <a href="/uk/marketing-partnership">Marketing partnership</a></p>
+<p>
+<span class="full-text__warning"> Spread bets and CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. <strong>79% of retail investor accounts lose money when trading spread bets and CFDs with this provider.</strong> You should consider whether you understand how spread bets and CFDs work, and whether you can afford to take the high risk of losing your money. </span>
+<span class="short-text__warning"> Spread bets and CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. </span>
+</p>

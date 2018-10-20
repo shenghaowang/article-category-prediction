@@ -1,0 +1,13 @@
+<p><img alt="France" src="../../../../../assets/comms_update/images/flags/fr.png" title="France"/><span><a href="../../../../../lists/country/france">France</a></span></p>
+<p>Patrick Drahi, <span class="caps">CEO</span> of Luxembourg-based investment fund Altice Group, has reportedly said that he will not raise his bid for Vivendi’s telecoms arm <span class="caps">SFR</span>, according to French newspaper Les Echos. The executive was cited as saying: ‘The offer I’ve made has been valid since 5 March. I have no reason to modify it.’</p>
+<p>As previously reported by TeleGeography’s CommsUpdate, last week Vivendi received two bids for France’s second largest mobile provider in terms of subscribers, from domestic broadband operator Numericable, majority owned by Altice Group, and Bouygues Telecom; both suitors have valued <span class="caps">SFR</span> at around EUR19billion–EUR20 billion (USD26.08 billion–USD27.45 billion). Numericable has tabled a bid which consists of EUR11 billion in cash (comprising EUR8 billion in debt and EUR3 million via a capital increase) and 32% of the new merged entity. For its part, Bouygues Telecom’s proposal comprises EUR10.5 billion in cash and 46% of the share capital of the new entity. Further, Bouygues Telecom has promised to stage an initial public offering (<span class="caps">IPO</span>) for the new company ‘as soon as possible’, with Vivendi given the opportunity to sell an additional 15% stake in the enlarged company.</p>
+<p></p>
+<p></p>
+<p><div class="mc-field-group"><br/>
+<label for="mce-EMAIL">Email Address </label><br/>
+<input class="required email" id="mce-EMAIL" name="EMAIL" type="email" value=""/></div></p>
+<p>Have feedback, corrections, or story ideas? Send them to <a href="mailto:editors@commsupdate.com">editors@commsupdate.com</a>.</p>
+<p>Filter CommsUpdate by the following categories or use the search.</p>
+<p>Visit our <a href="/products/commsupdate/help/">help page</a> information on performing advanced searches, including how to restrict the results by country or company.</p>
+<p>CommsUpdate is an outstanding advertising venue for companies seeking to reach:</p>
+<p><a href="/advertise/">Learn more about advertising on CommsUpdate.</a></p>

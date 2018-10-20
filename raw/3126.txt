@@ -1,0 +1,72 @@
+<p class="menu-switch"><a href="javascript:void(0);" title="Click here to get all Bangkok Post links and content">MENU</a></p>
+<p class="img-wrap">
+<img alt="Today's Bangkok Post newspaper" class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" width="124"/>
+</p>
+<p><img alt="Today's Bangkok Post newspaper" class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" width="124"/></p>
+<p class="levelNavigaton">
+<a href="/news">
+        News
+        </a> &gt;
+		        <a href="/news"><span></span></a>
+</p>
+<p class="sort">
+</p>
+<p>The pilot of a Royal Malaysian Air Force search aircraft shows a map of the search area for the missing Malaysia Airlines plane over the Straits of Malacca on Thursday (AP photo).</p>
+<p class="preParagraph">KUALA LUMPUR - Planes sent to check the spot where Chinese satellite images showed possible debris from the missing Malaysian jetliner found nothing on Thursday, Malaysia's civil aviation chief said, deflating the latest lead in the six-day hunt.</p>
+<p>Crew of a Royal Malaysian Air Force CN-235 aircraft  search for debris from missing Malaysia Airlines flight MH370 over the Straits of Malacca on Thursday. (AP photo)</p>
+<p>''There is nothing. We went there, there is nothing,'' Azharuddin Abdul Rahman told reporters in Kuala Lumpur.</p>
+<p>Vietnam also announced it had been unable to find any debris in the area where Chinese satellite images captured three floating objects which sparked hopes the missing plane had been  located.</p>
+<p>A Vietnamese plane sent on Thursday morning to search the area did not find anything, said Lai Xuan Thanh, head of the Civil Aviation Authority of Vietnam.</p>
+<p>
+<ul>
+<li><a href="/breakingnews/399720/malaysian-plane-pilots-under-scrutiny" target="_blank">Malaysian plane's pilots under scrutiny</a></li>
+</ul>
+</p>
+<p>Vietnam's Deputy Transport Minister Pham Quy Tieu told The Associated Press that the area had been "searched thoroughly'' by searchers from other countries over the past few days. Doan Huu Gia, chief of air search and rescue coordination centre, said Malaysian and Singaporean aircraft were scheduled to visit the area again Thursday.</p>
+<p>Adding to the mystery, the <em>Wall Street Journal</em> reported that US investigators suspect the plane flew on for four hours once it lost contact with air traffic controllers, based on data from the plane's engines that is automatically downloaded and transmitted to the ground as part of routine maintenance programmes.</p>
+<p>The report, based on two anonymous sources, raises questions as to why the Boeing 777-200 would have been flying without passive or active contact with the ground, and if anyone would have been in control during that time.</p>
+<p>US counterterrorism officials were considering whether a pilot or someone else on board intentionally disabled the jetliner's transponders to avoid detection and divert it, the report said.</p>
+<p>A satellite image taken from space shows  objects in a "suspected crash sea area" in the South China Sea on Sunday, thought to possibly be from the missing Malaysia Airlines flight. (AFP / China Center for Resources Satellite Data and Application photo)</p>
+<p>The hunt for the missing Malaysia Airlines flight MH370 has been punctuated by false leads since it disappeared with 239 people aboard about an hour after leaving Kuala Lumpur for Beijing early Saturday.</p>
+<p>The plane was heading northeast over the Gulf of Thailand towards Vietnam when it vanished. The last message from the cockpit of the missing flight was routine: ''All right, good night,'' was the signoff transmitted to air traffic controllers.</p>
+<p>Shortly after that it fell off commercial radar, but military authorities say it might have turned west and flown into the northern stretches of the Straits of Malacca, based on unconfirmed traces seen on its air defence radar.</p>
+<p>Dozens of ships and aircraft from 12 nations have been searching the Gulf of Thailand and the strait, but no trace has been found. The search area has grown to 92,600 square kilometres, or about the size of Portugal.</p>
+<p>If the <em>Wall Street Journal</em> report is confirmed, the search area will have to significantly expand.</p>
+<p>The Chinese satellite imagery showing possible debris was not far from the last confirmed position of the plane,  between Malaysia and Vietnam. The images and coordinates were posted on the website of China's State Administration of Science, Technology and Industry for National Defence.</p>
+<p>China's state Xinhua News Agency said the images taken around 11am (10am Thailand time) on Sunday appeared to show "three suspected floating objects'' of varying sizes in a 20-kilometre radius, the largest about 24-by-22 metres off the southern tip of Vietnam.</p>
+<p>Li Jiaxiang, chief of the Civil Aviation Administration of China, said later China had yet to confirm any link between the suspected floating objects and the plane.  </p>
+<p>Malaysian authorities have come under fire for their handling of the search amid sometimes confusing and conflicting statements, including the time of the plane's disappearance. Officials had also said that five passengers had checked into the flight but did not board the plane, and their luggage had been removed, but later they said this was not true.</p>
+<p>Malaysia's air force chief said Wednesday that an unidentified object appears on military radar records about 320 kilometres northwest of Penang, Malaysia, and experts were analysing the data to determine whether the blip is the missing plane.</p>
+<p>Authorities have not ruled out any possible cause for the flight's disappearance - including mechanical failure, pilot error, sabotage and terrorism - and are waiting to find any wreckage or debris to determine what went wrong.</p>
+<p>Two US Federal Aviation Administration technical experts and a regional representative are in Kuala Lumpur as part of a US National Transportation Safety Board team supporting the investigation. Experts in air traffic control and radar are providing technical help, the board said.</p>
+<p><a href="/news/sports/1561570/chelsea-draw-with-last-gasp-goal">Chelsea draw with last-gasp goal</a></p>
+<p><a href="/news/general/1561566/thai-to-pilots-dont-talk-about-zurich">THAI pilots told to keep mum about Zurich delay</a></p>
+<p><a href="/news/general/1561558/lone-armed-man-robs-store-of-cash-baby-diapers">Lone armed man robs store of cash, baby diapers</a></p>
+<p><a href="/news/world/1561554/australian-coalition-loses-majority">Australian coalition loses majority</a></p>
+<p><a href="/news/politics/1561550/prayut-belgium-trip-a-success">Prayut: Belgium trip a success</a></p>
+<p><a href="/news/general/1561546/songkhla-hunt-for-one-crocodile-nets-two"><span class="icon-vdo">video</span>Songkhla hunt for one crocodile nets two</a></p>
+<p><a href="/news/sports/1561542/ariya-chasing-shanghai-leaders">Ariya chasing Shanghai co-leaders</a></p>
+<p><a href="/news/general/1561534/blame-game-in-amritsar">Indian railway dodges blame for Amritsar horror</a></p>
+<p>Readers are urged not to submit comments that may cause legal dispute including slanderous, vulgar or violent language, incorrectly spelt names, discuss moderation action, quotes with no source or anything deemed critical of the monarchy. More information in our <a href="/policy" title="Terms of use">terms of use</a>.</p>
+<p>Please use our <a href="/forum" title="Forum">forum</a> for more candid, lengthy, conversational and open discussion between one another.</p>
+<p class="more" id="more_comment"><a href="javascript:void(0);" onclick="commentObject(commentObject.getComment());" title="Click here to view more comments">Click here to view more comments</a></p>
+<p class="hd">Thank you for sharing your comment</p>
+<p>Please be aware that all comments will be looked at by the web moderating team and we reserve the right to approve or reject comments at our discretion.</p>
+<p class="hd">What's your comment?</p>
+<p><input checked="" type="checkbox"/><label>I acknowledge the <a href="/policy/" target="_blank">rule &amp; regulations</a></label></p>
+<p><input type="checkbox"/><label>Tick here to also post this comment on your facebook wall</label></p>
+<p>Please log in or sign up for an account to share your valuable thoughts to the world.</p>
+<p class="g-btn"><a href="https://member.bangkokpost.com/login.php?serviceID=10006&amp;ref=https://www.bangkokpost.com/news/asia/399698/no-debris-found-at-spot-shown-on-china-satellite-images">Log in</a></p>
+<p class="g-btn"><a href="https://member.bangkokpost.com/register.php?serviceID=10006">Sign up</a></p>
+<p class="img-wrap"><img alt="Today's Bangkok Post newspaper" class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" width="124"/></p>
+<p><img alt="Today's Bangkok Post newspaper" class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" width="124"/></p>
+<p class="logoBKPgroup"><a href="https://www.bangkokpost.co.th" title="BANGKOK POST GROUP"><img alt="BANGKOK POST GROUP" height="28" src="/common/img/logo/postgroup-logo_blue.svg" width="170"/></a></p>
+<p class="footer_policy">
+<a href="/policy" title="">Terms of use</a> |
+				<a href="/republishingpolicy" title="">Republishing permission</a> |
+				<a href="/faq" title="">Help</a> |
+				<a href="/mediainfo/solution" title="">Online advertising</a> |
+				<a href="https://www.bangkokpost.co.th/post_contact" title="">Contact us</a> |
+				<a href="/send-suggestions" title="">Tell us what you think</a> |
+				<a href="/partner" title="">Partnership</a>
+</p>

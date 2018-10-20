@@ -1,0 +1,37 @@
+<p class="brightcove-video__error-message" hidden="">Sorry, we're having problems with our video player at the moment, but are working to fix it as soon as we can</p>
+<p class="brightcove-video__waiting-message" hidden="">Waiting for Video...</p>
+<p>SCOTTISH INDEPENDENCE: Governer of the Bank of England Mark Carney has said there is “a distinct possibility” that Royal Bank of Scotland would have to relocate in the event of Scotland becoming independent.</p>
+<p>He also said Scotland would need currency reserves “multiple times” the size of its GDP to withstand tests by the international markets on the SNP’s preferred option of a currency union, or in it continuing to informally use the pound in a process known as “sterlingisation”.</p>
+<p>Giving evidence to Westminster’s Treasury select committee, Mr Carney also said that an independent Scotland would have to commit to joining the euro if it wanted to be a member of the European Union (EU).</p>
+<p>But the Bank boss said he had at no time said if he was for or against a post-Yes currency union.</p>
+<p>The SNP last night welcomed Mr Carney’s “neutrality”, but the pro-Union Better Together campaign said the party’s position on currency was not credible.</p>
+<p>Mr Carney’s comment about RBS having to relocate was made with reference to an EU directive requiring banks to have their headquarters located in states where most of their customers live.</p>
+<p>Asked if this would mean RBS would have to move its headquarters to somewhere in the rest of the UK if an independent Scotland joined the EU, Mr Carney said: “It’s a distinct possibility but I shouldn’t prejudge it. It depends on their arrangements as well.”</p>
+<p>Treasury select committee chairman Andrew Tyrie commented: “‘Distinct possibility’ is a central bank phrase with a sort of layer of lawyer on top.”</p>
+<p>Mr Carney said it was a matter of European law, and if the remainder of the UK without Scotland was regarded as a continuing state in the EU. He said he took the views of European Commission president Jose Manuel Barroso as a “starting point”. Mr Carney added: “Scotland would have to apply to join the European Union [and] that application, as for any new application to join the EU, would include a commitment to join the euro in the fullness of time.”</p>
+<p>Mr Barroso has previously said it would be “extremely difficult” for an independent Scotland to join the EU, a claim the Scottish Government has described as “pretty preposterous”.</p>
+<p>Yesterday, Mr Carney also told MPs that any “informal adoption” of sterling by an independent Scotland would mean the country losing the lender of last resort facilities of the Bank of England. He told the committee the Bank “can act as lender of last resort to branches and subsidiaries of foreign banks” but said that it did not have to.</p>
+<p>He described a currency union as a “political question which the major political parties have ruled out”, but added that the Bank had “done work on these issues” and “was well appraised of the potential risks”.</p>
+<p>He said his own speech on the subject in Edinburgh in January, when he talked of countries involved in a currency union having to cede some sovereignty, was a “technocratic assessment”.</p>
+<p>He added: “At no time have I said that I do not support or that I advocate a currency union.”</p>
+<p>Conservative Chancellor George Osborne, his Labour counterpart Ed Balls and Liberal Democrat Chief Treasury Secretary Danny Alexander have already ruled out the possibility of a currency union.</p>
+<p>Yesterday, Mr Carney warned the option of “sterlingisation” would leave Scotland without a lender of last resort. He said that, while a currency union would see the Bank of England’s services currently provided to Scotland “passported over”, each one would “have to be reviewed” without a currency union.</p>
+<p>He agreed with MPs that a currency union or sterlingisation “would be tested by the markets” because it “would be seen as a temporary arrangement” and this would mean Scotland would need substantial currency reserves to withstand this.</p>
+<p>Asked by Labour MP Pat McFadden whether £6 billion of reserves would be enough, Mr Carney pointed to the example of Hong Kong, where the currency is pegged to the US dollar, to suggest it was too little.</p>
+<p>Mr Carney said: “Hong Kong has reserves multiple times the size of its GDP, £6bn is not multiple times Scotland’s GDP.”</p>
+<p>He insisted that, in a currency union, Scotland’s economy would still need to be integrated, undermining any economic independence for an independent Scotland. He also agreed with Mr McFadden’s assessment that attempts to create a currency union is to “recreate what Scotland already has” being in the UK.</p>
+<p>Mr Carney suggested if an independent Scotland wanted to join the EU, any arrangement would be temporary because it would have to commit to joining the euro.</p>
+<p>He said for the eurozone to remain viable it needs “to build a form of fiscal federalism” and said that this would need to be considered with a sterling zone.</p>
+<p>He also said the Bank of England has made no plans on governance in the event of independence, adding that this would be a “political decision” made by the UK government.</p>
+<p>SNP Treasury spokesman Stewart Hosie said: “Mark Carney was clear the issue he wanted to get across was the nature of the stability arrangements which are required for the formation of a successful currency union. </p>
+<p>“I am pleased that the Scottish Government’s fiscal commission working group have described in detail a blueprint for such a successful currency union.”</p>
+<p>A Scottish Government spokesman said: “The Governor restated the neutrality of the Bank of England in the referendum debate and made very clear that the Bank will implement whatever monetary arrangements are put in place by the two governments. Mr Carney also made clear that people ‘shouldn’t pre-judge’ post-independence arrangements.</p>
+<p>“The EU directive referred to is aimed at preventing companies taking advantage of different regulatory regimes. We propose harmonised regulation across a sterling area, so after independence banks would continue to operate under the same standards.”</p>
+<p>However, pro-UK politicians said the governor’s evidence had dealt a blow to Alex Salmond.</p>
+<p>Labour shadow Treasury minister Cathy Jamieson said: “Yet again the governor of the Bank of England has outlined in the clearest, but most diplomatic of terms, why Alex Salmond’s plans are nothing more than assertion and wishful thinking. </p>
+<p>“It’s time for the SNP to come clean and tell us what their Plan B is on currency.”</p>
+<p>A spokesman for the Better Together campaign said: “What people in Scotland need is clarity from Alex Salmond about his Plan B for what would replace the pound. Would we have to sign up to the euro, as Mark Carney said, or would we set up an unproven separate currency?</p>
+<p>“No doubt Alex Salmond’s response will be the same as every other time an expert has questioned his plans – Mark Carney is wrong and only the First Minister is right. It simply isn’t credible.”</p>
+<p><strong>SEE ALSO</strong></p>
+<p><strong>• <a href="http://www.scotsman.com/news/politics/top-stories/boe-s-mark-carney-in-currency-sovereignty-warning-1-3284353" title="Link to article">BoE’s Mark Carney in currency sovereignty warning</a></strong></p>
+<p class="footer-legal__text">©<span id="footer-year">2018</span> Johnston Publishing Ltd.All rights reserved.</p>

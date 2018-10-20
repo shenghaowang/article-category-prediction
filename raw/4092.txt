@@ -1,0 +1,16 @@
+<p class="videoTitle">Metro-North Worker Struck, Killed by Train in East Harlem: MTA</p>
+<p class="boxLabel"> Link to this video </p>
+<p class="boxLabel"> Embed this video </p>
+<p class="replayButton"><a href="#" onclick="return false;">Replay</a></p>
+<p class="related"> More videos (1 of 9)</p>
+<p class="paragraph" data-pnum="1">A veteran Metro-North worker was struck and killed by a train in East Harlem early Monday, the latest in a series of accidents at the beleaguered commuter railroad.</p>
+<p class="paragraph" data-pnum="2">The employee, 58-year-old James Romansoff, was working on the tracks near East 106th Street and Park Avenue when he was hit by a Poughkeepsie-bound Hudson Line train that left Grand Central Terminal at 12:47 a.m., a Metro-North spokesman said.</p>
+<p class="paragraph" data-pnum="3">The Yonkers man had spent eight years with the railroad's power department, and was part of a crew restoring power to tracks that had been closed for weekend maintenance work when he was hit.</p>
+<p class="paragraph" data-pnum="4">Service was suspended while emergency crews worked, and the three dozen passengers on the train that hit the worker were transferred to another train. Service was restored before the morning rush. </p>
+<p class="paragraph" data-pnum="5">"The entire Metro-North family mourns the loss of a colleague and a friend and we offer our deepest condolences to Jim Romansoff's family," Metro-North President Joseph Giulietti said in a statement. </p>
+<p class="paragraph" data-pnum="6">Metro-North authorities and MTA police are investigating, along with the National Transportation Safety Board.</p>
+<p class="paragraph" data-pnum="7">Metro-North has been plagued with problems over the past year, including the <a href="http://www.nbcnewyork.com/news/local/Metro-North-Worker-Struck-Train-Killed-Suspension-Company-211992001.html" target="_blank">death of a worker on the tracks</a> in West Haven, Conn. last spring. In that case, the worker was hit by a train on a supposedly inactive section of track.</p>
+<p class="paragraph" data-pnum="8">Also last spring, <a href="http://www.nbcnewyork.com/news/local/Metro-North-Trains-Collide-Bridgeport-Connecticut-Several-People-Hurt-207944571.html">two trains collided</a> during the evening rush in Connecticut, injuring more than 60 people.</p>
+<p class="paragraph" data-pnum="9">And in December, a <a href="http://www.nbcnewyork.com/news/local/Metro-North-Train-Engineer-Investigation-NTSB-234242251.html" target="_blank">speeding train derailed in the Bronx</a>, killing four people and injuring dozens more. The Federal Railroad Administration is expected to release its review of the December derailment in a week. </p>
+<p class="paragraph" data-pnum="10">Six months before that derailment, a <a href="http://www.nbcnewyork.com/news/local/Freight-Train-Derail-Metro-North-Suspension-Bronx-216135081.html">freight train hauling trash derailed</a> on the same curve.</p>
+<p class="paragraph" data-pnum="11">And in September, <a href="http://www.nbcnewyork.com/news/local/MTA-Service-Metro-North-New-Haven-Line-Power-Failure-Connecticut-225776021.html">a feeder cable in Mount Vernon, N.Y., failed</a>, knocking out power for 12 days on the Metro-North’s New Haven line, which carries 132,000 customers daily.</p>

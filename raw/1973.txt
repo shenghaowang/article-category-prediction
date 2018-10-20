@@ -1,0 +1,52 @@
+<p>The strong uptick in mortgage applications during the week ended February
+28 <b>faded quickly</b> and the Mortgage Bankers Association (MBA) said today that
+application volume has resumed the downward trajectory that has prevailed since
+late last fall. According to MBA's Weekly Mortgage Applications Survey the
+Market Composite Index, a measure of mortgage volume decreased 2.1 percent on a
+seasonally adjusted basis from the week before and down 1 percent on an unadjusted
+basis.</p>
+<p>The Refinance Index fell 3 percent week-over-week and refinancing
+garnered a<b> 57 percent share</b> of mortgage activity, down from 57.7 the previous
+week.  The refinancing share is off 6
+percentage points from the level at the beginning of the year and is at the
+lowest point since April 2011.</p>
+<p> </p>
+<p><b><span style="font-size: small;">Refinance Index vs 30 Yr Fixed</span></b></p>
+<p><a href="Click Here to View the Refinance Applications Chart" rel="nofollow" target="_new"><script type="text/javascript">ChartManager.loadChart('refiappschart', 'RefiMtgAppChart');</script><div id="refiappschart" style="width:600px;"></div> </a></p>
+<p>The seasonally adjusted <b>Purchase Index</b> was 1.0 percent lower and the
+unadjusted Purchase Index was 1.0 percent higher than in the week ended
+February 28.  The unadjusted index was 17
+percent below that of the same week in 2013. 
+</p>
+<p><b><span style="font-size: small;">Purchase Index vs 30 Yr Fixed</span></b>
+</p>
+<p><a href="Click Here to View the Purchase Applications Chart" rel="nofollow" target="_new"><script type="text/javascript">ChartManager.loadChart('purchaseappschart', 'PurchaseMtgAppChart'); </script> <div id="purchaseappschart" style="width:600px;"></div></a></p>
+<p>Both contract and effective <b>interest rates </b>rose for all mortgage products
+during the week.  The average contract
+rate for conventional (loan balances under $417,000) 30-year fixed-rate
+mortgages (FRM) was 4.52 percent with 0.29 point.  The previous week the rate was 4.47 percent
+with 0.28 point.  </p>
+<p><b> </b>The average rate for the <b>jumbo </b>version of the 30-year FRM (balances in
+excess of $417,000) was 4.41 percent, an increase of 4 basis points from the
+week before.  Points were unchanged at
+0.20.</p>
+<p><b>FHA </b>backed
+30-year FRM had an average rate of 4.18 percent with 0.21 point.  This was an increase from the prior level of
+4.13 percent with 0.13 point.</p>
+<p>The average contract interest rate for <b>15-year fixed</b>-rate mortgages increased to 3.53 percent from 3.52 percent. 
+Points increased to 0.28 from 0.18.  </p>
+<p><b>Adjustable rate
+mortgages </b>(ARMs) had an 8 percent share of mortgage applications which has been
+essentially unchanged for the last eight weeks. 
+The average contract
+interest rate for 5/1 ARMs increased to 3.18 percent from 3.09 percent, with points decreasing to 0.36 from 0.38.  </p>
+<p>MBA's
+survey covers over 75 percent
+of all U.S. retail residential mortgage
+applications, and has been conducted since 1990.
+Respondents include mortgage bankers,
+commercial banks and thrifts. Base period and value for all indexes is March 16, 1990=100
+and interest rates are based on loans with an 80 percent loan-to-value
+ratio.  Points include the origination
+fee.</p>
+<p><span style="font-size: small;"><a href="/user/CreateUser.aspx"><strong><span style="color: #0000ff; font-size: medium;">Join Now</span></strong></a><strong><span style="font-size: medium;"> or <a href="/login.aspx"><strong><span style="color: #0000ff; font-size: medium;">Login</span></strong></a> to Post Comments</span></strong></span></p>

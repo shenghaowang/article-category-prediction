@@ -1,0 +1,26 @@
+<p class="navbar-text navbar-left"><a href="/">Kaiser Health News <i aria-hidden="true" class="fa fa-home"></i></a></p>
+<p class="navbar-text navbar-right"><a href="/contact-us/">Connect With Us <i aria-hidden="true" class="fa fa-envelope"></i></a></p>
+<p>Republicans are continuing their offensive against Obamacare.</p>
+<p><a href="http://www.politico.com/blogs/politico-live/2014/03/rnc-chair-obamacare-main-target-185189.html">Politico</a>: RNC Chair: Obamacare 'Main Target'<br/>
+Republican National Committee Chairman Reince Priebus called Obamacare "complete poison" on Sunday and vowed the GOP would continue to target the new health law in upcoming races. Appearing on CNN's "State of the Union," he called the Affordable Care Act the "main target" for Republicans. And he said that David Jolly's victory over Democrat Alex Sink in last week's special congressional race in Florida's 13th District was largely due to opposition to Obamacare (Topaz, 3/16).</p>
+<p><a href="http://www.politico.com/blogs/politico-live/2014/03/wh-likes-dems-chances-this-fall-185195.html">Politico</a>: White House Likes Dem Chances This Fall<br/>
+The White House is confident that Democrats will keep the Senate despite the continued politicization of Obamacare. White House Senior Adviser Dan Pfeiffer said on NBC’s “Meet the Press” that President Barack Obama will not delay Obamacare’s individual mandate -- and that this election will be less about the Affordable Care Act and more about voter turnout. “We absolutely have to do a better job of turning out in midterm elections," Pfeiffer said (Everett, 3/16).</p>
+<p><a href="http://www.washingtonpost.com/politics/house-republican-leaders-craft-their-vision-for-an-alternative-to-health-care-law/2014/03/16/b98db274-ab7e-11e3-98f6-8e3c562f9996_story.html">The Washington Post</a>: House Republican Leaders Craft Their Vision For An Alternative To Health-Care Law<br/>
+House Republican leaders are adopting an agreed-upon conservative approach to fixing the nation’s health-care system, in part to draw an election-year contrast with President Obama’s Affordable Care Act. The plan includes an expansion of high-risk insurance pools, promotion of health savings accounts and inducements for small businesses to purchase coverage together (Costa, 3/16). </p>
+<p><a href="http://www.washingtonpost.com/blogs/fact-checker/wp/2014/03/17/boehners-claim-that-obamacare-has-resulted-in-a-net-loss-of-people-with-health-insurance/" target="_blank">The Washington Post</a>: Boehner’s Claim That Health-Care Law Has Resulted In A ‘Net Loss’ Of People With Health Insurance <br/>
+[House Speaker John] Boehner said about 6 million people received notices that their insurance was canceled. (That number may be a little high — usually it is estimated at nearly 5 million.) Then he notes that healthcare.gov reports that 4.2 million have selected a plan. ... So 4 million minus 6 million equals a net loss of 2 million. ... But Boehner’s math is absurdly simplistic .... the 6 million figure for “lost” insurance and the 4 million for healthcare.gov sign-ups are apples and oranges. They cannot be compared. ... Four Pinocchios (Kessler, 3/17). </p>
+<p class="feedback">
+<a class="btn-feedback" href="/contact-us/">We want to hear from you: Contact Us</a>
+</p>
+<p class="headline" href="https://khn.org/news/as-billions-in-tax-dollars-flow-to-private-medicaid-plans-whos-minding-the-store/">
+										As Billions In Tax Dollars Flow To Private Medicaid Plans, Who’s Minding The Store?									</p>
+<p class="headline" href="https://khn.org/news/breeze-october-19-health-care-must-reads-of-the-week-from-brianna-labuskes/">
+										Must-Reads Of The Week From Brianna Labuskes									</p>
+<p class="headline" href="https://khn.org/news/facebook-live-what-about-those-sky-high-air-ambulance-costs/">
+										Facebook Live: What About Those Sky-High Air Ambulance Costs?									</p>
+<p class="headline" href="https://khn.org/news/childrens-hospitals-again-cry-for-help-from-voters-but-are-they-really-hurting/">
+										Children’s Hospitals Again Cry For Help From Voters. But Are They Really Hurting?									</p>
+<p class="footer-copyright">
+				© 2018 <a href="http://kff.org/" target="_blank">Kaiser Family Foundation</a>. All rights reserved.			</p>
+<p class="footer-vip-powered">
+				Powered by <a class="powered-by-wpcom" href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit&amp;utm_term=khn.org" rel="generator nofollow">WordPress.com VIP</a> </p>

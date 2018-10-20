@@ -1,0 +1,54 @@
+<p class="lastUpdated">Last updated: <span class="is-updating">Updating...</span></p>
+<p class="lastUpdated">Last updated:
+                <!-- Updating text flashing when data gets udpated and the replace time and data -->
+<span class="is-updating">Updating...</span>
+</p>
+<p>Australia has its second hung Parliament this decade after voters in the seat of Wentworth punished the Liberal Party for dumping Malcolm Turnbull as leader and elected independent Kerryn Phelps in a bloodbath.
+</p>
+<p>Even the best-laid plans can be derailed by latent sibling rivalry, acrimony among in-laws and breakdowns in blended families.
+</p>
+<p>A chance discovery by the tax office began a 12-year legal battle that has ended in acrimony and estrangement for members of a wealthy Sydney family.
+</p>
+<p>Qantas Airways chairman Leigh Clifford has attacked the ACTU's industry-wide wage bargaining policy saying it will stifle investment and costs jobs.</p>
+<p>The banks' CEOs had a dry run at next month's appearance in front of the banking royal commission when they fronted up at a parliamentary committee. </p>
+<p>A glut of new housing, falling prices and slowing demand is causing a threefold increase in the number of off-the-plan Sydney apartment buyers settling for less than the purchase price. </p>
+<p>Investors considering handing their money over to professional fund managers are usually told to look at the medium to long-term performance figures before making a move.</p>
+<p>After 30 years, Primary Health Care is looking for a complete brand refresh, asking shareholders to vote on a new name.</p>
+<p>Qantas Airways chairman Leigh Clifford has attacked the ACTU's industry-wide wage bargaining policy saying it will stifle investment and costs jobs.</p>
+<p>Blackstone's tilt at the listed Investa Office Fund was undone when its target's largest investor sold to rival bidder Oxford.</p>
+<p>NAB has slashed the number of home loan referrers from 8000 to 1000, and revealed 300 staff were sacked last year for breaching its code of conduct. </p>
+<p>Management of Coronado Global Resources will spend the weekend considering whether to persist with an Australian listing. </p>
+<p>US stocks edged lower as investors assessed the latest batch of corporate earnings and simmering geopolitical tensions ahead of the weekend.
+</p>
+<p>The drums are beating for value investing after a long period in the wilderness at the expense of the growth phenomenon. This time, team value has the macro forces on side.</p>
+<p>The pressure is on for Amazon, Alphabet and Microsoft as they prepare to report quarterly results.</p>
+<p>Oil prices rose on Friday in New York on signs of surging demand in China, although prices were headed for a second weekly decline on swelling US inventories.</p>
+<p>Bond market bull Robert Tipp says the sheer weight of global savings is poised to press US Treasury yields lower.</p>
+<p>Listen to all the spin on Saturday night about the result of the Wentworth by-election, but it shouldn't blot out the host of important messages that have emerged already.</p>
+<p>The banks' CEOs had a dry run at next month's appearance in front of the banking royal commission when they fronted up at a parliamentary committee. </p>
+<p>Affluent Wentworth voters hoping to express discontent with the dissidents who removed their prime minister might inflict massive financial losses on themselves in one of Australia's most investment-orientated electorates.</p>
+<p>Kerryn Phelps opposes Labor policies that would penalise the wealth creators and savers of Wentworth but her election would take Australia a further step toward an anti-enterprise Labor alternative.</p>
+<p>Bill Shorten has called for the government to "send a strong signal" by boycotting a summit in Saudi Arabia in response to the disappearance and death of journalist Jamal Khashoggi.</p>
+<p>Australia is in the best economic shape since the GFC but this week the government failed miserably to spread the good news. Can it turn a bad week around with Wentworth win? </p>
+<p>The PM's apparent willingness to ditch elements of long-standing Australian policy such as Jerusalem and Iran invokes the Australian diplomat's worst nightmare: isolation.</p>
+<p>Andrew Bragg, who withdrew from the preselection race for Wentworth, is involved in a three-way contest for the top two spots on the NSW Liberal Senate ticket. </p>
+<p>Treasurer Josh Frydenberg is trying to broker a deal that would raise $6 million for the federal Coalition, giving it the firepower to take on the union-financed Labor Party.</p>
+<p>Russians working for a close ally of president Vladimir Putin are engaging in an elaborate campaign of "information warfare" to interfere with the US midterm elections.</p>
+<p>If history is any guide, human rights have never been too persuasive in Wall Street's calculus, and Saudi Arabia probably won't be any different.</p>
+<p>Saudi Arabia said preliminary results of investigations showed US-based journalist Jamal Khashoggi died in the Saudi consulate in Istanbul after a fight.</p>
+<p>A German-based investigative journalism website says it has fresh evidence about the scale of what it claims is a flourishing $89 billion Europe-wide tax fraud that has entangled Macquarie Bank.</p>
+<p>China's economic growth cooled to its weakest pace since the GFC in the third quarter, with regulators pledging further support and the trade war with the US began to bite.</p>
+<p>Investors with large amounts of property shares and real estate investments are being told to lower their exposure amid fears a sharp correction could wipe out their portfolios. 
+</p>
+<p>Australians are doing very nicely compared to their global peers, with superannuation balances and high property prices driving up individual wealth. </p>
+<p>The Aussie sharemarket is the cheapest it's been since 2015 and the recent broad-based selling offers lessons and potentially opportunities.</p>
+<p>When two American sprinters defied ettiquette and raised their fists, they changed sport forever.</p>
+<p>As he steps down from the chairman's role at Qantas, Leigh Clifford provided his views on a range of topics. </p>
+<p>The billionaire's vast holdings – with real estate, art, sports teams and venture capital stakes – would take years to unravel, if that's even what he wanted.</p>
+<p>Fed up with bullying, cantankerous and aggressive judges, barristers have drafted a code of judicial conduct to blow the whistle on bad behaviour. </p>
+<p>What to expect when you're a royal expecting.</p>
+<p>The Australian Financial Review</p>
+<p>www.afr.com</p>
+<p>Get unlimited access to Australia's best business news and market insights, including our award-winning app.</p>
+<p class="prompt__cta-footnote">Already a subscriber? <a class="bind-hagrid-login" href="#" title="">Log in</a>
+</p>

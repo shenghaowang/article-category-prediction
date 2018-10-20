@@ -1,0 +1,47 @@
+<p>Thanks for contacting us. We've received your submission.</p>
+<p class="section-tag">
+<a class="background-color" href="/business/">Business</a>
+</p>
+<p class="byline">By <a class="kaja-whitehouse" href="https://nypost.com/author/kaja-whitehouse/">Kaja Whitehouse</a></p>
+<p class="contact-submit">
+<input class="pushbutton-wide" type="submit" value="Submit »"/>
+<input name="contact-form-id" type="hidden" value="widget-text-4"/>
+<input name="action" type="hidden" value="grunion-contact-form"/>
+<input name="contact-form-hash" type="hidden" value="c4b73003bd4b26a16a066823ea46f34274e30536"/>
+</p>
+<p class="byline-date">
+									March 12, 2014 <span class="separator">|</span> 9:16am
+												</p>
+<p>The maker of popular smartphone game “Candy Crush Saga” played it safe in pricing its IPO Wednesday amid growing concerns that too sweet of an offering could make investors sick.</p>
+<p>King Digital Entertainment, the Dublin-based maker of “Candy Crush,” said it plans to sell 22.2 million shares priced at between $21 and $24 a share in its initial public offering.</p>
+<p>That range values King Digital at up to $7.6 billion — slightly below the $9 billion valuation mobile gaming company Zynga sought when it went public in 2011.</p>
+<p>Since announcing its IPO plans last month, King has been unable to shake comparisons to Zynga, which has watched its shares tumble close to 50 percent since going public — leaving its valuation at $4.7 billion.</p>
+<p>King’s conservative valuation suggests the company and its bankers are worried about turning the stomachs of already wary investors.</p>
+<p>“Candy Crush” was the most downloaded free app on Apple’s iTunes store last year. But Zynga’s “FarmVille” was all the rage at the time of its IPO.</p>
+<p>Meanwhile, King said revenues in the fourth quarter dropped to $601.7 million from $621.1 million the previous quarter, which has some watchers worried that the “Candy Crush” fad is already fading.</p>
+<p>“Candy Crush” accounted for 78 percent of King’s fourth-quarter revenue.</p>
+<p>“The games business is no different than the movie business. One great hit doesn’t ensure that the next movie will be a hit,” said Doug Kass, founder of investment shop Seabreeze Partners Management.</p>
+<p class="read-next">
+<a href="https://nypost.com/2014/03/12/us-judge-freezes-assets-of-mt-gox-boss/">Read Next</a>
+</p>
+<p class="read-next-link">
+<a class="desktop postid-3499440" href="https://nypost.com/2014/03/12/us-judge-freezes-assets-of-mt-gox-boss/">
+				US judge freezes assets of Mt. Gox boss			</a>
+</p>
+<p class="read-next">
+<a href="https://nypost.com/2014/03/12/us-judge-freezes-assets-of-mt-gox-boss/">Read Next</a>
+</p>
+<p class="read-next-link">
+<a class="desktop postid-3499440" href="https://nypost.com/2014/03/12/us-judge-freezes-assets-of-mt-gox-boss/">
+				US judge freezes assets of Mt. Gox boss			</a>
+</p>
+<p id="text-share-popup-title">Share Selection</p>
+<p class="share-count">29,429</p>
+<p class="share-count">1,892</p>
+<p class="share-count">1,559</p>
+<p>Post Digital Network</p>
+<p>
+<span id="copyright">© 2018 NYP Holdings, Inc. All Rights Reserved</span><span class="desktop"> | </span><a href="https://nypost.com/terms/">Terms of Use</a> | <a href="https://nypost.com/privacy/">Privacy</a> <span class="desktop">| <a href="https://nypost.com/privacy/#adchoices">Your Ad Choices</a></span> | <a href="https://nypost.com/sitemap/">Sitemap</a>
+</p>
+<p class="newscorp-slider-description">
+							News Corp. is a network of leading companies in the world of diversified media, news, and information services.						</p>

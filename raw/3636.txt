@@ -1,0 +1,101 @@
+<p class="widget-title widgettitle">Share This Article</p>
+<p class="widget-title widgettitle">Email this Article</p>
+<p class="entry-meta">By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/kanderson/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Kyle Anderson</span></a></span>, <span class="author-title"> Associate Editor</span>, <span class="author-attribution">Money Morning</span><span class="sep"> • </span><a href="http://twitter.com/KyleAndersonMM" target="_blank"><span class="author-twitter">@KyleAndersonMM</span></a> <span class="sep">•</span> <time class="entry-time" datetime="2014-03-11T15:29:03+00:00" itemprop="datePublished">March 11, 2014</time> </p>
+<p>Start the conversation</p>
+<p class="comment-reply-title" id="reply-title">Leave a Reply <small><a href="/2014/03/11/jos-bank-acquisition-means-mens-wearhouse-nyse-mw-stock/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Click here to cancel reply.</a></small></p>
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>
+<p class="comment-form-comment"><label for="comment">Comment</label> <textarea aria-required="true" cols="45" id="comment" maxlength="65525" name="comment" required="required" rows="8"></textarea></p>
+<p class="mm-signup-comment-checkbox"><label><input checked="checked" class="mm-signup" id="mm-signup" name="mm-signup" type="checkbox" value="1"/> Sign me up for the <em>Money Morning</em> newsletter</label></p>
+<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input aria-required="true" id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input aria-describedby="email-notes" aria-required="true" id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" maxlength="200" name="url" size="30" type="url" value=""/></p>
+<p class="cptch_block"><br/><span class="cptch_wrap">
+<label class="cptch_label" for="cptch_input">
+<span class="cptch_span">seven</span>
+<span class="cptch_span"> + </span>
+<span class="cptch_span">7</span>
+<span class="cptch_span"> = </span>
+<span class="cptch_span"><input aria-required="true" autocomplete="off" class="cptch_input " id="cptch_input_26" maxlength="2" name="cptch_number" required="required" size="2" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;" type="text" value=""/></span>
+<input name="cptch_result" type="hidden" value="PFz5"/>
+<input name="cptch_time" type="hidden" value="1540059413"/>
+<input type="hidden" value="Version: 4.2.2"/>
+</label><span class="cptch_reload_button_wrap hide-if-no-js">
+<noscript>
+<style type="text/css">
+							.hide-if-no-js {
+								display: none !important;
+							}
+						</style>
+</noscript>
+<span class="cptch_reload_button dashicons dashicons-update"></span>
+</span></span></p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Submit &gt;"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="124925"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="8b0228eea3"/></p>
+<p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="86"/></p>
+<p>Shares  of both <strong>The Men's Wearhouse Inc.</strong> <strong>(NYSE: </strong><a href="https://moneymorning.com/stocks/mw/" target="_blank"><strong>MW</strong></a><strong>)</strong> and <strong>Jos. A. Bank Clothiers Inc. (Nasdaq: </strong><a href="https://www.google.com/finance?q=NASDAQ%3AJOSB&amp;ei=JEQfU5jEOvSg6wGgrgE" rel="nofollow" target="_blank"><strong>JOSB</strong></a><strong>)</strong> reached  all-time highs today (Tuesday) following news that Men's Wearhouse will acquire  Jos. A. Bank for $1.8 billion. </p>
+<p>MW  stock traded as high as $58.80 today, while JOSB stock touched $64.63. </p>
+<p><img align="left" alt="NYSE: MW" height="198" src="http://moneymorning.com/files/2014/03/NYSE-MW.jpg" style="padding:10px" title="Jos. A Bank MW" width="265">MW offered $65  per share for JOSB. That's up from Monday's closing price of $61.83.</img></p>
+<p>The  deal comes five months after Jos. A. Bank initially made an unsolicited $2.4  billion bid to buy Men's Wearhouse in October. At the time, Men's Wearhouse  rejected the offer and countered with a $1.5 billion ($55 per share) bid for  Jos. A. Bank.</p>
+<p>The  two retailers have been going back and forth since. MW upped its offer twice  since the initial dealings and had most recently offered $63.50 per share. That  was once again rejected by JOSB officials, who said they would accept a higher  offer. </p>
+<p>In  January, Men's Wearhouse tried to put pressure on Jos. A. Bank by nominating  two candidates to JOSB's board of directors. At the time, JOSB still wouldn't  budge. </p>
+<p>The  combined companies will operate more than 1,700 stores in the United States and  employ 23,000 people. The two brands will continue to operate separately  following the deal.</p>
+<p>Officials  project sales to reach $3.5 billion for the retailer. </p>
+<p>Jos.  A. Bank had an $825 million deal to acquire retailer Eddie Bauer in the works,  but is terminating that purchase after today's deal. The company is also axing  a $300 million stock buy-back offer. </p>
+<p>Now  that the deal has finally been made official, investors are wondering how to  play MW stock moving forward…</p>
+<p>While  they're both known as retailers of men's suits and professional wear, the  acquisition actually creates the fourth-largest men's apparel retailer in the United  States.</p>
+<p>After  the announcement, shares of MW stock were up 6% and shares of JOSB were up  nearly 4%. </p>
+<p>Investors  who purchased JOSB stock back in October when the M&amp;A talks surfaced are  patting themselves on the back today. The offer price of $65 is a 51% premium from  the stock's price in October. </p>
+<p>While  MW shareholders are pleased with the 6% bump they've enjoyed today, the future  is a little cloudier, as  some volatility can be expected in the short term. </p>
+<p> <a id="continueReading" name="continueReading"></a><script>if (location.search.indexOf("continueReading=1") >= 0) {  jQuery(window).load(function() {    jQuery(window).scrollTop(jQuery("#continueReading").offset().top - 35);  });}</script></p>
+<p><a class="scroll-to-comments" href="#respond">Join the conversation. Click here to jump to comments…</a></p>
+<p>Tags: <a href="https://moneymorning.com/tag/jos-a-bank-acquisition/" rel="tag">Jos A Bank acquisition</a>, <a href="https://moneymorning.com/tag/jos-a-bank-merger/" rel="tag">Jos A Bank merger</a>, <a href="https://moneymorning.com/tag/jos-a-bank-stock/" rel="tag">Jos A Bank stock</a>, <a href="https://moneymorning.com/tag/josb-stock/" rel="tag">JOSB stock</a>, <a href="https://moneymorning.com/tag/mens-wearhouse-acquisition/" rel="tag">Men’s Wearhouse acquisition</a>, <a href="https://moneymorning.com/tag/mens-wearhouse-buys-jos-a-bank-mw-stock/" rel="tag">Men’s Wearhouse buys Jos A Bank MW stock</a>, <a href="https://moneymorning.com/tag/mens-wearhouse-merger/" rel="tag">Men’s Wearhouse merger</a>, <a href="https://moneymorning.com/tag/mens-wearhouse-stock/" rel="tag">Men’s Wearhouse stock</a>, <a href="https://moneymorning.com/tag/nyse-mw/" rel="tag">NYSE: MW</a>, <a href="https://moneymorning.com/tag/retail-stocks/" rel="tag">retail stocks</a></p>
+<p>what about the debt they took on .<br/>
+what about the fact they both had been declining until they both bid each others stock up .<br/>
+what about the death of retail<br/>
+although an antiquated system is good news , it means all new modern hardware and software system could take care of inventory and reservations for the next generation customers &amp; employee</p>
+<p class="comment-reply-title" id="reply-title">Leave a Reply <small><a href="/2014/03/11/jos-bank-acquisition-means-mens-wearhouse-nyse-mw-stock/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Click here to cancel reply.</a></small></p>
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>
+<p class="comment-form-comment"><label for="comment">Comment</label> <textarea aria-required="true" cols="45" id="comment" maxlength="65525" name="comment" required="required" rows="8"></textarea></p>
+<p class="mm-signup-comment-checkbox"><label><input checked="checked" class="mm-signup" id="mm-signup" name="mm-signup" type="checkbox" value="1"/> Sign me up for the <em>Money Morning</em> newsletter</label></p>
+<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input aria-required="true" id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input aria-describedby="email-notes" aria-required="true" id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" maxlength="200" name="url" size="30" type="url" value=""/></p>
+<p class="cptch_block"><br/><span class="cptch_wrap">
+<label class="cptch_label" for="cptch_input">
+<span class="cptch_span">nine</span>
+<span class="cptch_span"> × </span>
+<span class="cptch_span"><input aria-required="true" autocomplete="off" class="cptch_input " id="cptch_input_33" maxlength="2" name="cptch_number" required="required" size="2" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;" type="text" value=""/></span>
+<span class="cptch_span"> = </span>
+<span class="cptch_span">72</span>
+<input name="cptch_result" type="hidden" value="OFU="/>
+<input name="cptch_time" type="hidden" value="1540059413"/>
+<input type="hidden" value="Version: 4.2.2"/>
+</label><span class="cptch_reload_button_wrap hide-if-no-js">
+<noscript>
+<style type="text/css">
+							.hide-if-no-js {
+								display: none !important;
+							}
+						</style>
+</noscript>
+<span class="cptch_reload_button dashicons dashicons-update"></span>
+</span></span></p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Submit &gt;"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="124925"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="8b0228eea3"/></p>
+<p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="182"/></p>
+<p>
+					Choose from the topics below to receive our<wbr/>
+					money-making recommendations in real time.
+				</p>
+<p class="fpw-entry-meta"><time class="entry-time" datetime="2018-10-19T15:44:38+00:00" itemprop="datePublished">October 19, 2018</time> • By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/tom-gentile/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Tom Gentile</span></a></span> <span class="entry-comments-link"><a href="https://moneymorning.com/investing/use-options-to-profit-from-these-10-worst-performing-stocks/#respond">Leave a Comment</a></span></p>
+<p class="fpw-entry-meta"><time class="entry-time" datetime="2018-10-19T15:32:42+00:00" itemprop="datePublished">October 19, 2018</time> • By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/mmstaffreports/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Money Morning Staff Reports</span></a></span> <span class="entry-comments-link"><a href="https://moneymorning.com/2018/10/19/3-must-watch-penny-stocks-in-october-2018/#respond">Leave a Comment</a></span></p>
+<p class="fpw-entry-meta"><time class="entry-time" datetime="2018-10-19T15:09:53+00:00" itemprop="datePublished">October 19, 2018</time> • By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/mmnewsteam/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Money Morning News Team</span></a></span> <span class="entry-comments-link"><a href="https://moneymorning.com/2018/10/19/the-best-defense-stock-to-buy-in-october/#respond">Leave a Comment</a></span></p>
+<p class="widget-title">Trending Posts</p>
+<p class="disclaimer">By submitting your email address you will receive a free subscription to VQScore and occasional special offers from Money Map Press and our affiliates. You can unsubscribe at anytime and we encourage you to read more about our <a href="/privacy/" target="_blank">privacy policy</a>.</p>
+<p>Money Morning gives you access to a team of ten market experts with more than 250 years of combined investing experience – for free. Our experts – who have appeared on FOXBusiness, CNBC, NPR, and BloombergTV – deliver daily investing tips and stock picks, provide analysis with actions to take, and answer your biggest market questions. Our goal is to help our millions of e-newsletter subscribers and Moneymorning.com visitors become smarter, more confident investors. </p>
+<p>© 2018 Money Morning All Rights Reserved. Protected by copyright of the United States and international treaties. Any reproduction, copying, or redistribution (electronic or otherwise, including the world wide web), of content from this webpage, in whole or in part, is strictly prohibited without the express written permission of Money Morning. </p>
+<p>Address: 1125 N Charles Street | Baltimore, MD, 21201 | USA | Phone: 888.384.8339 | <a href="https://moneymorning.com/legal-disclaimers/">Disclaimer</a> | <a href="https://moneymorning.com/sitemap/">Sitemap</a> | <a href="https://moneymorning.com/privacy/">Privacy Policy</a> | <a href="https://moneymorning.com/whitelist/">Whitelist Us</a></p>

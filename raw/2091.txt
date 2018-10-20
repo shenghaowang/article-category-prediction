@@ -1,0 +1,57 @@
+<p class="w1"><a href="https://www.belfasttelegraph.co.uk/"><img alt="Belfast Telegraph" height="46" src="https://www.belfasttelegraph.co.uk/img/logo-belfast-b2.png"/></a></p>
+<p> Hi <span class="hi"></span>°C | Lo <span class="low"></span>°C <a class="change" href="#change"> | WEATHER</a> <a class="location" href=""><strong></strong></a></p>
+<p class="w132 cx-a">
+<a href="https://www.belfasttelegraph.co.uk/">Home</a>
+<small>›</small> <a href="https://www.belfasttelegraph.co.uk/news/">News</a>
+<small>›</small> <a href="https://www.belfasttelegraph.co.uk/news/world-news/">World</a>
+</p>
+<p>
+</p>
+<p>
+<time>March 11 2014</time>
+</p>
+<p>
+Colorado made roughly 2 million dollars (£1.2 million) in taxes on marijuana in January, state revenue officials reported in the world's first accounting of the recreational pot business.
+</p>
+<p>Other countries are watching Colorado, which has the world's first fully regulated recreational marijuana market. The Netherlands has legal sales of pot but does not allow growing or distribution. Uruguay's marijuana programme is still under development.</p>
+<p>Colorado legalised pot in 2012, but commercial sale did not begin until January. Washington state sales begin in coming months.</p>
+<p>The tax total reported by the state Department of Revenue indicates 14.02 million dollars (£8.4 million) of recreational pot was sold from 59 businesses. The state collected roughly 2.01 million dollars in taxes.</p>
+<p>The taxes come from 12.9% sales taxes and 15% excise taxes. Including licensing fees and taxes from Colorado's pre-existing medical marijuana industry, the state collected about 3.5 million dollars (£2.1 million) from the marijuana industry in January.</p>
+<p>By comparison, Colorado made about 2.7 million dollars (£1.6 million) in alcohol excise taxes in January last year. </p>
+<p>Colorado tax officials say the January marijuana reports were in line with expectations.</p>
+<p>The tax release intensified lobbying over how Colorado should spend its pot money. Budget-writers expect the nascent marijuana industry to be extremely volatile for several years, making politicians nervous about where to direct the funds.</p>
+<p>Governor John Hickenlooper has sent the legislature a detailed 134 million dollar (£80 million) proposal for recreational and medical marijuana money, including new spending on anti-drug messaging to children and more advertising discouraging driving while high.</p>
+<p>State police chiefs have also asked for more money.</p>
+<p class="originalSource">
+</p>
+<p>Police in Afghanistan say a suicide bomber blew himself up in front of a polling station in Kabul.</p>
+<p><strong class="cx-a news">By Jill Richards</strong> Donald Trump has been criticised for praising a Republican congressman who body-slammed a journalist.</p>
+<p>A speeding train has crashed into a crowd watching fireworks during a religious festival in northern India, killing at least 60 people and injuring dozens more, police said.</p>
+<p>Two explosions were reported in Kabul hours after parliamentary election polls opened in Afghanistan.</p>
+<p class="error" id="quick_subscribe_error"></p>
+<p class="done" id="quick_subscribe_done"></p>
+<p>Today's news headlines, directly to your inbox.</p>
+<p class="field">
+<input id="f-ecemail" name="ecemail" placeholder="Email address" required="required" type="email"/>
+<button class="bx-a cx-a belfasttelegraph news" type="submit">Sign Up</button>
+</p>
+<p class="flag"><strong class="flag-b bx-a news">Nightlife</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Nightlife</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Entertainment</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a business">Food, Drink and Hospitality</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Brexit</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a ">Sunday Life</strong></p>
+<p class="flag"><strong class="flag-b bx-a entertainment">News</strong></p>
+<p class="flag"><strong class="flag-b bx-a ">Sunday Life</strong></p>
+<p class="flag"><strong class="flag-b bx-a business">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a life">Features</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a life">House and Home</strong></p>
+<p class="flag"><strong class="flag-b bx-a life">Features</strong></p>
+<p class="flag"><strong class="flag-b bx-a life">Food and Drink</strong></p>
+<p class="flag"><strong class="flag-b bx-a archive">Archive</strong></p>
+<p class="flag"><strong class="flag-b bx-a opinion">Opinion</strong></p>
+<p class="copys"><span>© Belfast Telegraph</span> <a href="http://www.inmplc.com/"><img alt="Logo Inm A" height="28" src="/img/logo-inm-b.png" width="96"/></a></p>

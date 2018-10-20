@@ -1,0 +1,33 @@
+<p> </p>
+<p>There’s more than one way to go after Herbalife 
+  <style>
+  .bgChannel, .bgRealtimeChannel, .bgRevision {
+      display: none;
+  }
+  </style>
+<span class="quotePeekContainer">
+<span class="quotepeekbase bgQuote neutral" id="quoteb8e17ceccd54881f525b522981644e94fa385b80">
+<a href="http://marketwatch.com/investing/stock/HLF">
+<span class="bgChannel">/quotes/zigman/361145/delayed</span>
+<span class="bgRealtimeChannel">/quotes/nls/hlf</span>
+<span class="symbol">HLF</span>
+<span class="data bgPercentChange symbol"></span>
+</a>
+</span>
+</span>.</p>
+<p><a href="http://www.nytimes.com/2014/03/10/business/staking-1-billion-that-herbalife-will-fail-then-ackman-lobbying-to-bring-it-down.html?hp">The New York Times</a> has an extensive report about how, after staking $1 billion on the collapse of the nutritional supplement company, Bill Ackman’s activist hedge fund Pershing Square Capital Management has been aggressively lobbying to bring the company down.</p>
+<p>An investigation by the Times found Ackman’s team has helped organize protests and letter-writing campaigns across the U.S. to pressure state and federal regulators to investigate Herbalife. Ackman retained the Dewey Square Group, a Washington-based firm that specializes in “grass-roots advocacy,” to influence officials by recruiting surrogates to speak out against Herbalife in emails, letters, tweets or rallies, the Times said.</p>
+<p>The report says Ackman’s team has paid civil-rights organizations at least $130,000 to collect names of people who claim they were victimized by Herbalife. Ackman has argued that he is trying to protect Hispanics, who he says are most frequently recruited by Herbalife as distributors – only to find out that there is little money to be made from selling the supplements.</p>
+<p>Herbalife has mobilized its own lobbyists to defend itself. Last month, the Times says, the company held a private briefing for more than 30 Capitol Hill aides to argue against Ackman’s charges.</p>
+<p>The Times points out Ackman so far has little to show for his efforts. Herbalife’s stock has risen, in part because billionaire investor Carl Icahn decided to buy a large stake in the company, and regulators lobbied by Ackman haven’t take any formal action against Herbalife.</p>
+<p>— Robert Schroeder</p>
+<p>Follow Capitol Report on Twitter <a href="https://twitter.com/capitolreport">@capitolreport</a></p>
+<p>Follow Rob on Twitter <a href="https://twitter.com/mktwrobs">@mktwrobs</a></p>
+<p><strong>Read more from MarketWatch</strong>:</p>
+<p><a href="http://blogs.marketwatch.com/need-to-know/2014/03/10/pundits-paradise-carl-icahns-world-and-the-perfect-contrarian-play/?link=instory">Pundit’s paradise, Carl Icahn’s world and the perfect contrarian play</a></p>
+<p><a href="http://blogs.marketwatch.com/thetell/2014/03/10/stock-market-live-blog-sp-500-retreats-from-record-after-downbeat-china-data/?mod=MW_home_latest_news?link=instory">Stock market live blog</a></p>
+<p>
+Capitol Report is a round-up of news and analysis provided by MarketWatch reporters, editors and commentators based in our Washington, D.C bureau and throughout the U.S.
+</p>
+<p>Follow us on Twitter: <a class="twitter-follow-button" href="https://twitter.com/capitolreport">Follow @capitolreport</a><br/>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>

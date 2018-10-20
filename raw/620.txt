@@ -1,0 +1,66 @@
+<p class="menu-switch"><a href="javascript:void(0);" title="Click here to get all Bangkok Post links and content">MENU</a></p>
+<p class="img-wrap">
+<img alt="Today's Bangkok Post newspaper" class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" width="124"/>
+</p>
+<p><img alt="Today's Bangkok Post newspaper" class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" width="124"/></p>
+<p class="levelNavigaton">
+<a href="/news">
+        News
+        </a> &gt;
+		        <a href="/news/world"><span>World</span></a>
+</p>
+<p class="sort">
+</p>
+<p class="preParagraph">Gold advanced to the highest level in almost six months as worsening tension between Ukraine and Russia boosted haven demand, with prices heading for the best run of weekly gains since August 2011.</p>
+<p>Bullion for immediate delivery rose as much as 0.6% to US$1,375.17 an ounce, the highest level since Sept. 19, climbing for a third day. Gold traded at $1,369.34 at 3:04 pm in Singapore, poised for a sixth weekly gain.</p>
+<p>The precious metal advanced 14% this year as demand for a store of value increased on the confrontation in Ukraine and concern growth in China is slowing. Crimea is preparing for a March 16 referendum that may pave the way for the Ukrainian region to join Russia. China’s retail sales, industrial output and investment last month trailed estimates, data showed Thursday.</p>
+<p>“Gold should be supported as long as the situation in Ukraine remains uncertain,” said Zhu Siquan, an analyst at GF Futures Co., a unit of the Guangzhou-based company that bought Natixis Commodity Markets Ltd. “Technically, gold is starting to look a bit overbought.”</p>
+<p>Gold’s 14-day relative strength index climbed to 70, signaling to those who study charts that prices may be set to reverse. Assets in the SPDR Gold Trust declined yesterday from the highest level this year, contracting for the first time since Feb. 19.</p>
+<p>The confrontation in Ukraine has become the biggest between Russia and the West since the end of the Cold War, with U.S. President Barack Obama and allies ratcheting up the threat of sanctions. Government officials and businessmen in Russia are readying for trade curbs resembling those applied to Iran, according to four people with knowledge of the preparations.</p>
+<p>Massing Troops</p>
+<p>Gold jumped 1.3% on Wednesday after Ukraine’s Prime Minister Arseniy Yatsenyuk warned that Russia is massing troops near its border. Crimea can be integrated into Russia within two months if its voters decide the territory should cease to be a part of Ukraine, said the region’s Premier Sergei Aksenov.</p>
+<p>Diplomatic efforts to defuse the crisis continue today after Obama met Yatsenyuk yesterday and said the US stood with Ukraine to protect its sovereignty and territory. US Secretary of State John Kerry is due to meet with his Russian counterpart, Sergei Lavrov, in London, while Yatsenyuk is scheduled to speak to the United Nations Security Council.</p>
+<p>Bullion rebounded this year even as the Federal Reserve, which next meets March 18-19, announced reductions to its bond- buying program at each of its past two meetings. Data today may show retail spending, which accounts for 70 percent of the U.S. economy, rose 0.2% in February from a month earlier.</p>
+<p>Jitti Tangsithpakdi, president of the Gold Traders Association, anticipated that the gold price might climb to $1,400 an ounce due to speculation on news related to Ukraine and higher global demands particularly from China and India. India is likely to lift its tax collection on gold purchase.</p>
+<p>He viewed that the global gold price this year would not drop below $1,050 an ounce but suggested investors to take only short-term investment as risk still persisted for the long term.</p>
+<p>Mr Jitti said the association would discussed with Thailand Futures Exchange on the establishment of a centre to be the focal point on gold trading with foreign countries.</p>
+<p>Futures Advance</p>
+<p>Gold for April delivery climbed as much as 0.4% to $1,375.50 an ounce on the Comex in New York, the highest price since Sept. 19, and was at $1,369.70.</p>
+<p>Silver for immediate delivery traded at $21.3064 an ounce from $21.3029 on Wednesday. Platinum fell 0.4% to $1,469.88 an ounce, while palladium was at $775.75 an ounce from $776.08 yesterday. China is the largest user of industrial metals.</p>
+<p>Production losses at the world’s largest platinum companies caused by a seven-week strike on Thursday eclipsed those from stoppages in 2012 as talks over pay with the South African union leading the walkout remain deadlocked.</p>
+<p class="thumbnail"><img src="/common/img/icons/mostview-1.svg"/></p>
+<p class="thumbnail"><img src="/common/img/icons/mostview-2.svg"/></p>
+<p class="thumbnail"><img src="/common/img/icons/mostview-3.svg"/></p>
+<p class="thumbnail"><img src="/common/img/icons/mostview-4.svg"/></p>
+<p class="thumbnail"><img src="/common/img/icons/mostview-5.svg"/></p>
+<p><a href="/news/sports/1561570/chelsea-draw-with-last-gasp-goal">Chelsea draw with last-gasp goal</a></p>
+<p><a href="/news/general/1561566/thai-to-pilots-dont-talk-about-zurich">THAI pilots told to keep mum about Zurich delay</a></p>
+<p><a href="/news/general/1561558/lone-armed-man-robs-store-of-cash-baby-diapers">Lone armed man robs store of cash, baby diapers</a></p>
+<p><a href="/news/world/1561554/australian-coalition-loses-majority">Australian coalition loses majority</a></p>
+<p><a href="/news/politics/1561550/prayut-belgium-trip-a-success">Prayut: Belgium trip a success</a></p>
+<p><a href="/news/general/1561546/songkhla-hunt-for-one-crocodile-nets-two"><span class="icon-vdo">video</span>Songkhla hunt for one crocodile nets two</a></p>
+<p><a href="/news/sports/1561542/ariya-chasing-shanghai-leaders">Ariya chasing Shanghai co-leaders</a></p>
+<p><a href="/news/general/1561534/blame-game-in-amritsar">Indian railway dodges blame for Amritsar horror</a></p>
+<p>Readers are urged not to submit comments that may cause legal dispute including slanderous, vulgar or violent language, incorrectly spelt names, discuss moderation action, quotes with no source or anything deemed critical of the monarchy. More information in our <a href="/policy" title="Terms of use">terms of use</a>.</p>
+<p>Please use our <a href="/forum" title="Forum">forum</a> for more candid, lengthy, conversational and open discussion between one another.</p>
+<p class="more" id="more_comment"><a href="javascript:void(0);" onclick="commentObject(commentObject.getComment());" title="Click here to view more comments">Click here to view more comments</a></p>
+<p class="hd">Thank you for sharing your comment</p>
+<p>Please be aware that all comments will be looked at by the web moderating team and we reserve the right to approve or reject comments at our discretion.</p>
+<p class="hd">What's your comment?</p>
+<p><input checked="" type="checkbox"/><label>I acknowledge the <a href="/policy/" target="_blank">rule &amp; regulations</a></label></p>
+<p><input type="checkbox"/><label>Tick here to also post this comment on your facebook wall</label></p>
+<p>Please log in or sign up for an account to share your valuable thoughts to the world.</p>
+<p class="g-btn"><a href="https://member.bangkokpost.com/login.php?serviceID=10006&amp;ref=https://www.bangkokpost.com/news/world/399688/gold-hits-its-highest-level-in-six-months-as-the-growing-tension-between-ukraine-and-russia-over-crimea-spurs-demand-for-gold-as-a-haven">Log in</a></p>
+<p class="g-btn"><a href="https://member.bangkokpost.com/register.php?serviceID=10006">Sign up</a></p>
+<p class="img-wrap"><img alt="Today's Bangkok Post newspaper" class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" width="124"/></p>
+<p><img alt="Today's Bangkok Post newspaper" class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" width="124"/></p>
+<p class="logoBKPgroup"><a href="https://www.bangkokpost.co.th" title="BANGKOK POST GROUP"><img alt="BANGKOK POST GROUP" height="28" src="/common/img/logo/postgroup-logo_blue.svg" width="170"/></a></p>
+<p class="footer_policy">
+<a href="/policy" title="">Terms of use</a> |
+				<a href="/republishingpolicy" title="">Republishing permission</a> |
+				<a href="/faq" title="">Help</a> |
+				<a href="/mediainfo/solution" title="">Online advertising</a> |
+				<a href="https://www.bangkokpost.co.th/post_contact" title="">Contact us</a> |
+				<a href="/send-suggestions" title="">Tell us what you think</a> |
+				<a href="/partner" title="">Partnership</a>
+</p>

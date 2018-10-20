@@ -1,0 +1,28 @@
+<p class="weather-nav-location-name"></p>
+<p class="weather-nav-settings-header">Settings</p>
+<p class="ui-btn header-nav-dropdown-dark-btn weather-nav-location-cancel-btn">Cancel</p>
+<p class="ui-btn header-nav-dropdown-light-btn weather-nav-location-set-btn">Set</p>
+<p class="site-nav-firefly-dropdown-text header-light">Hi <span class="site-nav-firefly-user-display-name"></span></p>
+<p class="site-nav-firefly-dropdown-text header-light">Already a subscriber?</p>
+<p class="site-nav-firefly-dropdown-text header-light">Subscribe to USA TODAY</p>
+<p class="site-nav-firefly-dropdown-text header-light">Already a print edition subscriber, but don't have a login?</p>
+<p class="site-nav-firefly-dropdown-text header-light">Manage your account settings.</p>
+<p class="site-nav-firefly-dropdown-text header-light"><a class="ff" data-user-account="firefly" href="https://help.usatoday.com" target="_blank">Support</a></p>
+<p class="site-nav-firefly-dropdown-text header-light"><a class="ff-logout-btn userAuth-redirect" data-ht="HeaderUserAuthLogout" href="https://user.usatoday.com/USAT-GUP/user/logout/?return-url=https%3A//www.usatoday.com/story/tech/columnist/2014/03/16/alibaba-ipo-yahoo-impact-kingcom/6491029/">Log Out</a></p>
+<p class="partner-scroll-message">Get the news</p>
+<p class="util-bar-flyout-subtitle util-bar-flyout-subtitle-share">Let friends in your social network know what you are reading about</p>
+<p class="util-bar-share-summary-description">SAN MATEO, Calif.</p>
+<p class="share-email-success-pane-description">A link has been sent to your friend's email address.</p>
+<p class="util-bar-success-description util-bar-success-description-facebook">A link has been posted to your Facebook feed. </p>
+<p class="util-bar-flyout-subtitle util-bar-flyout-subtitle-comments">To find out more about Facebook commenting please read the <a href="http://static.usatoday.com/conversation-guidelines/">Conversation Guidelines and FAQs</a></p>
+<p class="image-credit-wrap"><span class="js-caption-wrapper"><span class="cutline js-caption">Alibaba founder Jack Ma.</span><meta content="" itemprop="copyrightHolder"/><span class="credit">(Photo: PETER PARKS AFP/Getty Images)</span></span></p>
+<p class="speakable-p-1 p-text">SAN MATEO, Calif. -- Alibaba's eye-popping IPO plans in the U.S. just sent ripples from Hong Kong to New York to Sunnyvale, Calif.</p>
+<p class="speakable-p-2 p-text"><b>MORE: </b><a data-track-label="inline|intext|n/a" href="/story/money/markets/2014/03/16/gains-ipos-market/6427433/" title="https://www.usatoday.com/story/money/markets/2014/03/16/gains-ipos-market/6427433/"> Eye-popping gains by IPOs are back</a></p>
+<p class="p-text">The decision by the Chinese e-commerce leviathan -- whose online properties handle more goods than eBay and Amazon.com combined -- to hold its long-awaited public offering in the USA is a blow to the Hong Kong stock exchange, which was initially the company's preferred venue.</p>
+<p class="p-text">But it is a boon to two of Alibaba's largest shareholders: Yahoo, which owns 24%, and Japan's Softbank, which controls 37%.</p>
+<p class="p-text">Alibaba's success has essentially propped up the Silicon Valley Internet giant's shares hugely, even as its core business has languished. Shebly Seyrafi, an analyst at FBN Securities, estimated in a recent research note that Alibaba alone is worth $21 of Yahoo's stock price, which closed at $37.60 on Friday.</p>
+<p class="p-text"><b>MORE: </b><a data-track-label="inline|intext|n/a" href="/story/money/markets/2014/03/16/chinese-e-commerce-giant-alibaba-gears-for-us-ipo/6487383/" title="https://www.usatoday.com/story/money/markets/2014/03/16/chinese-e-commerce-giant-alibaba-gears-for-us-ipo/6487383/"> Chinese e-commerce giant Alibaba sets U.S. IPO</a></p>
+<p class="p-text">Alibaba Group doesn't report its finances. But Yahoo, which initially invested in it in 2005, said Alibaba's revenue for the quarter ending in September rose 51% from a year earlier to $1.8 billion.</p>
+<p class="p-text">(That's down from 61% growth over a year earlier in the previous quarter and 71% in the first quarter of 2013.)</p>
+<p class="p-text">While the Hong Kong market mourns its lost golden goose, U.S. investors have billions of dollar signs dancing in their heads and calculators.</p>
+<p class="p-text p-text-last" id="article-body-p-last">Alibaba, which controls about 80% of China's e-commerce, is sure to add sizzle to the New York financial scene: Its public offering could be one of the biggest ever in the U.S. Some estimates peg its valuation at $130 billion.</p>

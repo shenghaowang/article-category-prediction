@@ -1,0 +1,61 @@
+<p>Live Now:
+			            	              <a href="http://ctvnews.ca/live?autoPlay=true">CTV News Channel</a>
+</p>
+<p class="ad-below">Advertisement</p>
+<p>
+	DETROIT -- General Motors' executives and government regulators will soon have to explain to Congress why it took years to recall 1.6 million compact cars with a known defect linked to 13 deaths. And the Justice Department is investigating whether GM broke any laws with its slow response, according to a person briefed on the matter.</p>
+<p>
+	Members of two congressional committees will likely ask why a proposed fix to the problem was never implemented and why GM didn't immediately tell car owners about the defect. Here's a look at the developments so far in the recall and what's ahead.</p>
+<p>
+	Q. Which cars is GM recalling?</p>
+<p>
+	A. GM is recalling a total of 1.6 million vehicles that were sold in the U.S., Canada and Mexico. The recall includes the Chevrolet Cobalt and Pontiac G5 from the 2005-2007 model years; the Saturn Ion from the 2003-2007 model years; and the Chevrolet HHR, Pontiac Solstice and Saturn Sky from the 2006-2007 model years.</p>
+<p>
+	Q. What's the defect?</p>
+<p>
+	A. GM says a heavy key ring or jarring from rough roads can cause the ignition switch to move out of the run position and shut off the engine and electrical power. That can knock out power-assisted brakes and steering and disable the front air bags.</p>
+<p>
+	Q. What is GM doing to fix the problem?</p>
+<p>
+	A. Dealers will replace the ignition switches for free. GM will notify owners when the parts are available and repairs can begin, likely in April. Until then, it is warning owners to remove all items from their key rings, including key fobs if applicable. Only the vehicle key should be left on the ring.</p>
+<p>
+	Q. Have any deaths or accidents been linked to this defect?</p>
+<p>
+	A. The problem has been linked to 31 crashes and 13 front-seat deaths. In each of the fatal crashes, the air bags did not inflate. The engines did not shut off in all cases.</p>
+<p>
+	Q. When did GM first know about this problem?</p>
+<p>
+	In 2004, around the time that the Chevrolet Cobalt first went on sale, GM learned of at least one engine losing power and started investigating the problem. By 2007, it had received more reports, including at least one involving a fatal accident. According to a company timeline that was given to NHTSA, the company approved a redesign of the key head in 2005 but later cancelled that plan. The company also alerted dealers that an insert on the key head could fix the problem, but warranty records show only 474 customers have gotten the insert.</p>
+<p>
+	Q. Why didn't GM act more quickly?</p>
+<p>
+	A. GM opened at least two investigations after reports of engine stalling but closed them after taking no action. At the time, the company was juggling eight U.S. brands and losing billions each year, which led to its eventual bankruptcy in 2009. Now, GM has cut excess brands and bureaucracy and is solidly profitable. GM's new CEO has promised "an unvarnished" investigation into what happened.</p>
+<p>
+	Q. Did GM report these incidents to the government?</p>
+<p>
+	A. Yes. The National Highway Traffic Safety Administration also received dozens of complaints from owners about the issue, dating as far back as 2005. NHTSA conducted several investigations into the problem but never ordered a recall.</p>
+<p>
+	Q. Why is Congress investigating?</p>
+<p>
+	A. Rep. Fred Upton of Michigan, who heads the House Energy and Commerce Committee, wrote a 2000 law that was intended to improve communication between automakers and NHTSA and help NHTSA identify potential threats to consumers' safety. He wants to know if GM or NHTSA missed opportunities to fix the problem sooner, or if the legislation needs to be strengthened.</p>
+<p>
+	Q. What actions can the government take if it finds GM didn't act quickly enough?</p>
+<p>
+	A. NHTSA can fine GM up to $35 million. Automakers are required to report safety problems to NHTSA within five days of learning about them. Congress doubled the maximum fine to $35 million last year and could increase it further.</p>
+<p>
+	Q. What's at stake for GM?</p>
+<p>
+	A. It's unclear how much the recall will cost. Toyota Motor Corp. paid $48.8 million in total fines to the U.S. government for its handling of unintended acceleration recalls. It later paid more than $1 billion to settle a lawsuit from owners claiming their cars lost value. It still faces other lawsuits.</p>
+<p>
+	The case will also hurt GM's efforts to break from its pre-bankruptcy past. Older, less reliable products still on the road could still haunt GM.</p>
+<p>
+	Q. Where can I get more information?</p>
+<p>
+	Owners may contact Chevrolet at 1-800-222-1020, Pontiac at 1-800-762-2737 or Saturn at 1-800-553-6000. They may also contact NHTSA at 1-888-327-4236 (TTY 1-800-424-9153) or go to <a href="http://www.safercar.gov/" target="_blank">www.safercar.gov</a>.</p>
+<p class="imgText">The logo for General Motors decorates the entrance at the site of a GM information technology center in Roswell, Ga. on Thursday, Jan. 10, 2013. (AP / David Goldman)</p>
+<p class="ad-below">Advertisement</p>
+<p class="mynewstext" style="font-size:12px">Did you capture some amazing images or video? Share it with CTV News and it could appear online or on-air!</p>
+<p class="terms">Use of this Website assumes acceptance of <a href="http://www.bellmedia.ca/en/toc.html" title="Terms &amp; Conditions">Terms &amp; Conditions</a> and <a href="https://support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy" title="Privacy Policy">Privacy Policy</a></p>
+<p class="copyright">© 2018 <a href="http://www.bellmedia.ca/"><img alt="Bell Media" class="copyright" src="https://static.ctvnews.ca/bellmedia/common/img/logos/bellmedia_logo.gif"/></a> All rights reserved.</p>
+<p class="credits"></p>
+<p><a class="back-top hidden" href="#top" title="skip to top of page">Back to top</a></p>

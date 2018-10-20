@@ -1,0 +1,11 @@
+<p class="margin0px">Join the Nasdaq Community today and get free, instant access to portfolios, stock ratings, real-time alerts, and more!</p>
+<p>Stay ahead of the markets with these must-read articles</p>
+<p>Enlightening. Entertaining. Every day. Only at Nasdaq.com.</p>
+<p>Enter up to 25 symbols separated by commas or spaces in the text box below. These symbols will be available during your session for use on applicable pages.</p>
+<p>
+					You have selected to change your default setting for the Quote Search. This will now be your default target page;
+					unless you change your configuration again, or you delete your
+					cookies. <b>Are you sure you want to change your settings?</b>
+</p>
+<p id="adBlockMsgText">Please disable your ad blocker (or <a href="https://www.nasdaq.com/help/adblock-instructions.aspx">update your settings</a> to ensure that javascript and cookies are enabled), so that we can continue to provide you with the first-rate market news and data you've come to expect from us.</p>
+<p id="interstitialContainer"></p>

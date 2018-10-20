@@ -1,0 +1,68 @@
+<p>
+<span class="fa-stack fa-lg">
+<i class="fa fa-circle-thin fa-stack-2x"></i>
+<i class="fa fa-close fa-stack-1x"></i>
+</span>
+</p>
+<p id="trs-pushtitletext">Title text for next article</p>
+<p class="img-author img-responsive" style="background-image: url(/Content/Authors/mike-paterson.png)" title="Author: Mike Paterson"></p>
+<p>The expected announcement just out from UK treasury office</p>
+<p>Both will sit on the MPC with Shafik taking the place of Paul Fisher. Shafik will also attend FPC meetings</p>
+<p>Shafik has been Deputy MD of the IMF since April 2011 where she oversees work on countries in Europe and the Middle East. She is also responsible for the IMF’s $1 billion administrative budget, human resources for its 3,000 staff and oversees the IMF’s training and technical assistance for policy makers around the world.</p>
+<p>The BBC sums it up <a href="http://www.bbc.co.uk/news/business-26628996" target="_blank">here</a></p>
+<p>This from the BOE</p>
+<p>All the biggest trading floors in the world have screens locked on ForexLive™. We provide real-time forex news and analysis at the highest level while making it accessible for less-experienced traders.</p>
+<p>Connect with forexlive via:</p>
+<p>
+<ul>
+<li>
+<a href="https://facebook.com/forexlive" rel="publisher" target="_blank">
+<span class="fa-stack fa-lg">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+</span>
+</a>
+</li>
+<li>
+<a href="https://plus.google.com/+Forexlive/" rel="publisher" target="_blank">
+<span class="fa-stack fa-lg">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+</span>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/forexlive" rel="publisher" target="_blank">
+<span class="fa-stack fa-lg">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+</span>
+</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/company/forexlive-com" rel="publisher" target="_blank">
+<span class="fa-stack fa-lg">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+</span>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/subscription_center?add_user=forexliveanalysis" rel="publisher" target="_blank" title="Check out our youtube channel">
+<span class="fa-stack fa-lg">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+</span>
+</a>
+</li>
+</ul>
+</p>
+<p>Looking for our RSS feed?</p>
+<p>Founded in 2008, ForexLive.com is the premier forex trading news site offering interesting commentary, opinion and analysis for true FX trading professionals. Get the latest breaking foreign exchange trade news and current updates from active traders daily. ForexLive.com blog posts feature leading edge technical analysis charting tips, forex analysis, and currency pair trading tutorials. Find out how to take advantage of swings in global foreign exchange markets and see our real-time forex news analysis and reactions to central bank news, economic indicators and world events.</p>
+<p>
+                    HIGH RISK WARNING: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives, experience level, and risk tolerance. You could lose some or all of your initial investment; do not invest money that you cannot afford to lose. Educate yourself on the risks associated with foreign exchange trading, and seek advice from an independent financial or tax advisor if you have any questions.
+                </p>
+<p>
+                    ADVISORY WARNING: FOREXLIVE™ provides references and links to selected blogs and other sources of economic and market information as an educational service to its clients and prospects and does not endorse the opinions or recommendations of the blogs or other sources of information. Clients and prospects are advised to carefully consider the opinions and analysis offered in the blogs or other information sources in the context of the client or prospect's individual analysis and decision making. None of the blogs or other sources of information is to be considered as constituting a track record. Past performance is no guarantee of future results and FOREXLIVE™ specifically advises clients and prospects to carefully review all claims and representations made by advisors, bloggers, money managers and system vendors before investing any funds or opening an account with any Forex dealer. Any news, opinions, research, data, or other information contained within this website is provided as general market commentary and does not constitute investment or trading advice. FOREXLIVE™ expressly disclaims any liability for any lost principal or profits without limitation which may arise directly or indirectly from the use of or reliance on such information. As with all such advisory services, past results are never a guarantee of future results.
+                </p>
+<p>Viewing <i class="fa fa-image fa-fw"></i> <span id="ovpimglabel"></span><br>Touch / Click anywhere to close <i class="fa fa-close fa-fw"></i></br></p>

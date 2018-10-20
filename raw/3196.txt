@@ -1,0 +1,80 @@
+<p class="menu-switch"><a href="javascript:void(0);" title="Click here to get all Bangkok Post links and content">MENU</a></p>
+<p class="img-wrap">
+<img alt="Today's Bangkok Post newspaper" class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" width="124"/>
+</p>
+<p><img alt="Today's Bangkok Post newspaper" class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" width="124"/></p>
+<p class="levelNavigaton">
+<a href="/news">
+        News
+        </a> &gt;
+		        <a href="/news/world"><span>World</span></a>
+</p>
+<p class="sort">
+</p>
+<p class="preParagraph">The last words from a Malaysian passenger jet missing for 10 days were apparently spoken by the co-pilot, the airline said Monday, providing a glimpse into the crucial period when the plane was deliberately diverted.</p>
+<p>A navigational radar on Indonesia's National Search and Rescue boat shows details during a search in the Andaman sea area around northern tip of Indonesia's Sumatra island for the missing Malaysian Airlines flight MH370 on March 17, 2014	</p>
+<p>Clarification that the voice was most likely that of First Officer Fariq Abdul Hamid came during a press conference at which Malaysian officials hit back at "irresponsible" suggestions that they had misled the public -- and passengers' relatives -- over what happened to Malaysia Airlines Flight 370.</p>
+<p>Captain Zaharie Ahmad Shah and Fariq, his co-pilot, have become a primary focus of the investigation, with one of the key questions being who was in control of the aircraft when it veered off course about an hour into its flight to Beijing.</p>
+<p>The nonchalant-sounding last message from the cockpit -- "All right, good night" -- came around the time that two of the plane's crucial signalling systems were manually disabled.</p>
+<p>"Initial investigations indicate it was the co-pilot who basically spoke," said Malaysia Airlines CEO Ahmad Jauhari Yahya.</p>
+<p>The last signal from the Aircraft Communications Addressing and Reporting System (ACARS) was received 12 minutes before the co-pilot's final words.</p>
+<p>The transponder -- which relays a plane's location -- was switched off just two minutes after he spoke, and a few minutes later the aircraft turned back on its flight path.</p>
+<p>Yahya said it was not clear precisely when the ACARS system, which sends a signal every 30 minutes, was disabled. Officials had previously maintained it was manually turned off before the final cockpit message. </p>
+<p>The Malaysian authorities have stressed that the backgrounds of all the passengers and crew were being checked, as well as engineers who may have worked on the plane before takeoff.</p>
+<p>But Michael McCaul, chair of the US House Homeland Security Committee, said US intelligence briefings had seemed to lead "towards the cockpit, with the pilot himself, and co-pilot".</p>
+<p>The plane went missing early on March 8 with 239 passengers and crew aboard, spawning a massive international search across Southeast Asia and the Indian Ocean that has turned up no trace of wreckage.</p>
+<p>- 'Contradictory information' -</p>
+<p>China's damning assessments of Malaysia's crisis management continued Monday.</p>
+<p>Premier Li Keqiang, in a phone conversation, asked his Malaysian counterpart Najib Razak to provide more detailed information about the missing flight "in a timely, accurate and comprehensive manner", state news agency Xinhua reported.</p>
+<p>The state-controlled China Daily said the "contradictory and piecemeal information Malaysia Airlines and its government have provided has made search efforts difficult and the entire incident even more mysterious".</p>
+<p>Relatives of the Chinese passengers also voiced anger and frustration after a meeting with airline officials in Beijing.</p>
+<p>"Only the Malaysia government knows the truth. They've been talking nonsense since the beginning," said Wen Wancheng, whose son was on Flight 370.</p>
+<p>At Monday's press briefing, Transport Minister Hishammuddin Hussein reacted angrily when a foreign journalist suggested Malaysia should apologise for its handling of the crisis.</p>
+<p>"I think it is very irresponsible of you to say that," he shot back.</p>
+<p>Twenty-six countries are now involved in searching for the jet after satellite and military radar data projected two dauntingly large corridors the plane might have flown through.</p>
+<p>The northern corridor stretches in an arc over south and central Asia, while the other swoops deep into the southern Indian Ocean towards Australia.</p>
+<p>Satellite and radar data from countries in the northern corridor should allow investigators to confirm within "two or three days" whether it crashed in that area, a foreign member of the investigative team told AFP.</p>
+<p>On Monday, the central Asian states of Kyrgyzstan and Kazakhstan said there had been no sightings in their airspace.</p>
+<p>Malaysia announced that it was deploying its navy and air force to the southern corridor, where Australian Prime Minister Tony Abbott said his country would take the lead in searching a vast area off its west coast.</p>
+<p>Commander William Marks, spokesman for the United States' Seventh Fleet, said his navy's P-8 Poseidon aircraft would also head to western Australia. He added that the USS Kid and MH-60R helicopters had completed their search of the Andaman Sea.</p>
+<p>Meanwhile, the United Arab Emirates said it was providing two planes, according to WAM state news agency.</p>
+<p>Three officials from France's civil aviation accident investigation agency arrived in Kuala Lumpur on Monday to share their experiences of the search for Air France Flight 447, which crashed in the Atlantic Ocean in 2009.</p>
+<p>The "black boxes" from that crash were eventually recovered nearly two years later from a depth of more than 3,800 meters (12,500 feet).</p>
+<p>- Political dimension? -</p>
+<p>Malaysian police have searched both pilots' homes and are examining a flight simulator that Captain Zaharie, 53, had assembled at his home.</p>
+<p>Associates say Zaharie was an active supporter of Malaysia's political opposition headed by veteran politician Anwar Ibrahim.</p>
+<p>In a highly controversial case, Anwar was convicted of sodomy -- illegal in Muslim Malaysia -- just hours before MH370 took off.</p>
+<p>But friends said Zaharie exhibited no extreme views.</p>
+<p>Fariq, meanwhile, was accused in an Australian television report of allowing two young South African women into the cockpit of a plane he piloted in 2011, breaching security rules imposed after the 9/11 attacks in the United States.</p>
+<p>But acquaintances have attested to his good character, and reports said he planned to wed his flight-school sweetheart.</p>
+<p><a href="/news/sports/1561570/chelsea-draw-with-last-gasp-goal">Chelsea draw with last-gasp goal</a></p>
+<p><a href="/news/general/1561566/thai-to-pilots-dont-talk-about-zurich">THAI pilots told to keep mum about Zurich delay</a></p>
+<p><a href="/news/general/1561558/lone-armed-man-robs-store-of-cash-baby-diapers">Lone armed man robs store of cash, baby diapers</a></p>
+<p><a href="/news/world/1561554/australian-coalition-loses-majority">Australian coalition loses majority</a></p>
+<p><a href="/news/politics/1561550/prayut-belgium-trip-a-success">Prayut: Belgium trip a success</a></p>
+<p><a href="/news/general/1561546/songkhla-hunt-for-one-crocodile-nets-two"><span class="icon-vdo">video</span>Songkhla hunt for one crocodile nets two</a></p>
+<p><a href="/news/sports/1561542/ariya-chasing-shanghai-leaders">Ariya chasing Shanghai co-leaders</a></p>
+<p><a href="/news/general/1561534/blame-game-in-amritsar">Indian railway dodges blame for Amritsar horror</a></p>
+<p>Readers are urged not to submit comments that may cause legal dispute including slanderous, vulgar or violent language, incorrectly spelt names, discuss moderation action, quotes with no source or anything deemed critical of the monarchy. More information in our <a href="/policy" title="Terms of use">terms of use</a>.</p>
+<p>Please use our <a href="/forum" title="Forum">forum</a> for more candid, lengthy, conversational and open discussion between one another.</p>
+<p class="more" id="more_comment"><a href="javascript:void(0);" onclick="commentObject(commentObject.getComment());" title="Click here to view more comments">Click here to view more comments</a></p>
+<p class="hd">Thank you for sharing your comment</p>
+<p>Please be aware that all comments will be looked at by the web moderating team and we reserve the right to approve or reject comments at our discretion.</p>
+<p class="hd">What's your comment?</p>
+<p><input checked="" type="checkbox"/><label>I acknowledge the <a href="/policy/" target="_blank">rule &amp; regulations</a></label></p>
+<p><input type="checkbox"/><label>Tick here to also post this comment on your facebook wall</label></p>
+<p>Please log in or sign up for an account to share your valuable thoughts to the world.</p>
+<p class="g-btn"><a href="https://member.bangkokpost.com/login.php?serviceID=10006&amp;ref=https://www.bangkokpost.com/news/world/400271/last-words-from-malaysia-plane-believed-from-co-pilot">Log in</a></p>
+<p class="g-btn"><a href="https://member.bangkokpost.com/register.php?serviceID=10006">Sign up</a></p>
+<p class="img-wrap"><img alt="Today's Bangkok Post newspaper" class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" width="124"/></p>
+<p><img alt="Today's Bangkok Post newspaper" class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" width="124"/></p>
+<p class="logoBKPgroup"><a href="https://www.bangkokpost.co.th" title="BANGKOK POST GROUP"><img alt="BANGKOK POST GROUP" height="28" src="/common/img/logo/postgroup-logo_blue.svg" width="170"/></a></p>
+<p class="footer_policy">
+<a href="/policy" title="">Terms of use</a> |
+				<a href="/republishingpolicy" title="">Republishing permission</a> |
+				<a href="/faq" title="">Help</a> |
+				<a href="/mediainfo/solution" title="">Online advertising</a> |
+				<a href="https://www.bangkokpost.co.th/post_contact" title="">Contact us</a> |
+				<a href="/send-suggestions" title="">Tell us what you think</a> |
+				<a href="/partner" title="">Partnership</a>
+</p>

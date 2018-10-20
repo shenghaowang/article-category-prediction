@@ -1,0 +1,183 @@
+<p class="summary" itemprop="description alternativeHeadline">The Japan-based Bitcoin exchange files Chapter 15 bankruptcy paperwork in the U.S. in efforts to protect its remaining assets, while opening up international channels of co-operation.</p>
+<p class="meta">
+                                   By <a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "byline-author", "pageType": "article"}' data-vanity-rewritten="true" href="/meet-the-team/us/charlie-osborne/" itemprop="author" rel="author">Charlie Osborne</a>
+            
+                    
+                    for <a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "byline-blog", "pageType": "article"}' href="/blog/btl/">Between the Lines</a>
+        
+                                        |            <time datetime="2014-03-10 12:55:05">March 10, 2014 -- 12:55 GMT (20:55 GMT+08:00)</time>
+                
+                                                                                            | Topic: <a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "byline-topic", "pageType": "article"}' href="/topic/tech-industry/">Tech Industry</a>
+</p>
+<p>Bitcoin exchange Mt. Gox has filed for Chapter 15 bankruptcy proceedings in the United States.</p>
+<p>The once-dominant Bitcoin trading post filed for <a href="http://www.marketwatch.com/story/mt-gox-files-for-chapter-15-in-us-2014-03-10" rel="noopener noreferrer" target="_blank">Chapter 15 in the U.S. on Sunday</a>. This particular chapter of the U.S. bankruptcy code deals with insolvency cases that spread across more than one country.</p>
+<p>On 28 February, Tokyo-based Mt. Gox filed for bankruptcy protection in Japan. However, by filing for Chapter 15 in the United States, foreign debtors and parties are able to use the U.S. Bankruptcy Courts and systems. This means that Mt. Gox's insolvency now reaches beyond the confines of Tokyo, and the U.S. is able to work with other countries and connected parties around the world in order to better solve the case and protect the interests of all creditors as well as Mt. Gox and its remaining assets.</p>
+<p class="title">
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "pinbox", "pageType": "article"}' href="https://www.zdnet.com/article/the-mt-gox-bitcoin-debacle-bankruptcy-filed-customer-bitcoin-lost/">
+                        The Mt. Gox bitcoin debacle: Bankruptcy filed, customer bitcoin lost
+                    </a>
+</p>
+<p class="dek">UPDATE: Mt. Gox has closed the bitcoin exchange and filed for bankruptcy in Japan.</p>
+<p class="read-more">
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "pinbox", "pageType": "article"}' href="https://www.zdnet.com/article/the-mt-gox-bitcoin-debacle-bankruptcy-filed-customer-bitcoin-lost/">Read More</a>
+</p>
+<p>As Mt. Gox accounts for investors worldwide, it makes sense that this secondary bankruptcy filing has occurred. Through Chapter 15, the U.S. Bankruptcy Court will generally defer to the actions of a foreign court -- in this case, in Japan, as the primary place for bankruptcy procedures. However, when circumstances do not violate laws or public policy in the U.S., Chapter 15 also allows aid to be offered to the foreign company filing for bankruptcy protection.</p>
+<p>The Bitcoin exchange shut down abruptly last month, closing its Twitter feed and rendering itself mute for over a week before announcing that Mt. Gox was closing its doors. In total, according to Mt. Gox's announcement that it was filing for <a href="https://www.mtgox.com/img/pdf/20140228-announcement_eng.pdf" rel="noopener noreferrer" style="line-height: 1.5em;" target="_blank">Japanese bankruptcy protection</a> (.PDF), approximately 750,000 Bitcoins deposited by users and 100,000 Bitcoins belonging to Mt. Gox disappeared, which is worth roughly $500 million in today's trading rates.</p>
+<p>Mt. Gox CEO Mark Karpeles said the loss -- <span class="link" section="shortcodeLink">
+<a href="/article/the-mt-gox-bitcoin-debacle-bankruptcy-filed-customer-bitcoin-lost/">taking place over several years</a>
+</span> -- was due to "weaknesses in the system" which allowed cyberattacks and Bitcoin theft to occur.</p>
+<p><span class="link" section="shortcodeLink">
+<a href="/article/hackers-allege-mt-gox-ceo-still-controls-stolen-bitcoin/">Over the weekend</a>
+</span>, anonymous hackers claimed to have broken in to Mt. Gox systems and lifted apparent evidence that customer investments were not the target of theft, but instead are still being held at the exchange as part of a fraudulent plot by Mt. Gox management. </p>
+<p class="topicName">Innovation</p>
+<p><a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "more-from-author", "pageType": "article"}' href="/article/this-is-how-researchers-can-now-track-3d-printed-guns-weapons/">This is how researchers can now track 3D printed guns, weapons</a></p>
+<p class="topicName">Innovation</p>
+<p><a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "more-from-author", "pageType": "article"}' href="/article/researchers-grow-mini-brains-to-study-neural-networking/">3D printed mini-brains grown in test tubes used to study degenerative disease</a></p>
+<p class="topicName">Security</p>
+<p><a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "more-from-author", "pageType": "article"}' href="/article/dji-websites-get-the-app-on-google-play-directs-users-elsewhere/">DJI website's 'Get the app on Google Play' directs users elsewhere</a></p>
+<p class="topicName">Mobility</p>
+<p><a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "more-from-author", "pageType": "article"}' href="/pictures/best-gifts-top-tech-gadgets-for-under-100/">Best gifts: Top tech, gadgets for under $100</a></p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/aws-creates-official-customer-support-account-on-reddit/">AWS creates official customer support account on Reddit</a>
+</p>
+<p class="dek">
+								
+																	The subreddit will focus on helping customers with account and billing questions.
+															</p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/facebook-hires-former-uk-deputy-prime-minister-nick-clegg/">Facebook hires former UK Deputy Prime Minister Nick Clegg</a>
+</p>
+<p class="dek">
+								
+																	UPDATED: The former leader of the Liberal Democrats political party joins social media giant as VP of global affairs.
+															</p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/paypal-beats-q3-earnings-targets/">PayPal beats Q3 earnings targets</a>
+</p>
+<p class="dek">
+								
+																	PayPal ended the quarter 254 million active accounts, up from 218 million the year prior.
+															</p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/yep-theres-a-second-apple-event-this-fall-and-its-later-than-its-been-in-a-decade/">Yep, there's a second Apple event this fall, and it's later than it's been in a decade</a>
+</p>
+<p class="dek">
+								
+																																																								Tim
+																																																			Cook
+																																																			will
+																																																			be
+																																																			giving
+																																																			an
+																																																			ethics
+																																																			speech
+																																																			in
+																																																			Europe
+																																																			right
+																																																			around
+																																																			the
+																																																			time
+																																																			we
+																																																			thought
+																																																			there
+																																																			would
+																																																			be
+																																																			a
+																																																			new
+																																																			product
+																																																			event.
+																																																			So
+																																																			what's
+																																																			really
+																																																			going
+																																																			to
+																																																			happen?
+																																																			We
+																																																			have
+																																																			no
+																																																			idea,
+																																																			but
+																																																			we
+																																																			can
+																																																			guess
+																																																																													...
+															</p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/tpp-11-passes-australian-parliament/">TPP 11 passes Australian Parliament</a>
+</p>
+<p class="dek">
+								
+																	The Australian Senate has passed the TPP 11 Pacific trade deal after receiving bipartisan support.
+															</p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/palo-alto-networks-names-googles-amit-singh-as-new-president/">Palo Alto Networks names Google's Amit Singh as new president</a>
+</p>
+<p class="dek">
+								
+																	Singh most recently served as VP of business and operations in emerging computing platforms for Google.
+															</p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/palm-drop-your-phone-companion-price-before-amazon-squashes-you-like-the-insect-you-are/">Palm: Drop your 'phone companion' price before Amazon squashes you like the insect you are</a>
+</p>
+<p class="dek">
+								
+																	$350 for a carrier-locked device is too much money for a smartwatch that, well, isn't one and has very little unique value proposition.
+															</p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/impressions-on-sap-cx-live-sap-during-a-walk-on-calle-de-vendedor/">Impressions on SAP CX Live, SAP during a walk on Calle de Vendedor</a>
+</p>
+<p class="dek">
+								
+																																																								SAP
+																																																			CX
+																																																			Live
+																																																			2018
+																																																			in
+																																																			Barcelona
+																																																			showed
+																																																			me
+																																																			that
+																																																			SAP
+																																																			was
+																																																			still
+																																																			committed
+																																																			to
+																																																			its
+																																																			customer-facing
+																																																			corporate
+																																																			pivot
+																																																			and
+																																																			willing
+																																																			to
+																																																			go
+																																																			to
+																																																			the
+																																																			wall
+																																																			for
+																																																			it.
+																																																			But
+																																																			is
+																																																			it
+																																																			enough?
+																																																			Here
+																																																			are
+																																																			my
+																																																			first
+																																																			impressions.
+																																							...
+															</p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/microsoft-co-founder-paul-allen-dies-of-cancer-at-65/">Microsoft co-founder Paul Allen dies of cancer at 65</a>
+</p>
+<p class="dek">
+								
+																	Allen died on Monday from complications of non-Hodgkin's lymphoma.
+															</p>
+<p class="copyright">© 2018 CBS Interactive. All rights reserved.
+                    <a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "footer_TOS", "pageType": "article"}' href="http://legalterms.cbsinteractive.com/privacy" rel="nofollow noopener noreferrer" target="_blank">Privacy Policy</a> |
+                    <a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "footer_TOS", "pageType": "article"}' href="http://legalterms.cbsinteractive.com/cookies" rel="nofollow noopener noreferrer" target="_blank">Cookies</a> |
+                    <a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "footer_TOS", "pageType": "article"}' href="http://legalterms.cbsinteractive.com/adchoice" rel="nofollow noopener noreferrer" target="_blank">Ad Choice</a> |
+                    <a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "footer_TOS", "pageType": "article"}' data-vanity-rewritten="true" href="/advertise/" rel="nofollow" target="_blank">Advertise</a> |
+                    <a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "footer_TOS", "pageType": "article"}' href="http://legalterms.cbsinteractive.com/terms-of-use" rel="nofollow noopener noreferrer" target="_blank">Terms of Use</a> |
+                    <a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "footer_TOS", "pageType": "article"}' href="http://legalterms.cbsinteractive.com/eula" rel="nofollow noopener noreferrer" target="_blank">Mobile User Agreement</a>
+</p>

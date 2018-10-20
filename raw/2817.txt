@@ -1,0 +1,22 @@
+<p id="weatherChange"></p>
+<p class="byline ap-byline">Associated Press</p>
+<p class="open">Caption</p>
+<p class="close">Close</p>
+<p><i>Kuala Lumpur, Malaysia</i></p>
+<p>Satellite images on a Chinese government website show suspected debris from the missing <a href="/search/?action=search&amp;channel=news&amp;inlineLink=1&amp;searchindex=solr&amp;query=%22Malaysia+Airlines%22">Malaysia Airlines</a> jetliner floating off the southern tip of Vietnam, near the plane's original flight path, China's <a href="/search/?action=search&amp;channel=news&amp;inlineLink=1&amp;searchindex=solr&amp;query=%22Xinhua+News+Agency%22">Xinhua News Agency</a> reported Wednesday.</p>
+<p>The revelation could provide searchers with a focus that has eluded them since the plane disappeared with 239 people aboard early Saturday.</p>
+<p>The Xinhua report said the images from around 11 a.m. on Sunday appear to show "three suspected floating objects" of varying sizes, the largest about 79 feet by 72 feet.</p>
+<p>The report includes coordinates of a location in the sea off the southern tip of Vietnam and east of Malaysia. The images originally were posted on a national defense technology website.</p>
+<p>No other governments have confirmed the Xinhua report, which did not say when Chinese officials became aware of the images and associated them with the missing plane.</p>
+<p>The search for the plane, which left Kuala Lumpur for Beijing before disappearing early Saturday, has encompassed 35,800 square miles of Southeast Asia and on Wednesday expanded toward India.</p>
+<p>Two-thirds of the passengers on the flight were Chinese, and the Chinese government has put increasing pressure on Malaysian officials to find solve the mystery of the plane's disappearance.</p>
+<p>Also Wednesday, it was revealed that the last message from the cockpit of the missing flight was routine. "All right, good night," was the sign-off transmitted to air traffic controllers five days ago.</p>
+<p>Then the Boeing 777 vanished as it cruised over the South China Sea toward Vietnam, and nothing has been seen or heard of the jetliner since.</p>
+<p>Those final words were picked up by controllers and relayed in Beijing to anguished relatives of some of the people aboard Flight MH370.</p>
+<p>The new Chinese reports of the satellite images came after several days of sometimes confusing and conflicting statements from Malaysian officials.</p>
+<p>Earlier Wednesday, the Malaysian military officially disclosed why it was searching on both sides of country: A review of military radar records showed what might have been the plane turning back and crossing westward into the Strait of Malacca.</p>
+<p>That would conflict with the latest images on the Chinese website.</p>
+<p>For now, authorities said the international search effort would stay focused on the South China Sea and the strait leading toward the Andaman Sea.</p>
+<p>Chinese impatience has grown.</p>
+<p>"There's too much information and confusion right now. It is very hard for us to decide whether a given piece of information is accurate," <a href="/search/?action=search&amp;channel=news&amp;inlineLink=1&amp;searchindex=solr&amp;query=%22Chinese+Foreign+Ministry%22">Chinese Foreign Ministry</a> spokesman <a href="/search/?action=search&amp;channel=news&amp;inlineLink=1&amp;searchindex=solr&amp;query=%22Qin+Gang%22">Qin Gang</a> said in Beijing. "We will not give it up as long as there's still a shred of hope."</p>
+<p>Flight MH370 disappeared from civilian radar screens at 1:30 a.m. Saturday at an altitude of about 35,000 feet above the Gulf of Thailand between Malaysia and southern Vietnam. It sent no distress signals or any indication it was experiencing problems.</p>

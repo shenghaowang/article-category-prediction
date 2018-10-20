@@ -1,0 +1,26 @@
+<p><strong>Get breaking news alerts from Newsday</strong></p>
+<p class="msg">Turn on notifications?</p>
+<p class="msg">Desktop notifications are on   | <a class="alertNo" href="#">Turn off</a></p>
+<p>You might be using private browsing or have notifications blocked.  Please enable notifications or using normal browsing mode.</p>
+<p><b>KEY EVENT: Meet the new boss</b>. Janet Yellen presides over her first meeting as Federal Reserve chair. The two-day meeting ends Wednesday with a statement that may clarify whether the Yellen-run central bank will further taper its controversial bond-buying policy. Yellen also holds her first news conference as Fed chair Wednesday afternoon.</p>
+<p>MONDAY: The Federal Reserve Bank of New York releases the March Empire State index, a survey of New York manufacturing activity. </p>
+<p>TUESDAY: Did a cold winter cause inflation to heat up? The answer should appear in the consumer prices report for February from the Labor Department. Also, housing starts for February from the Commerce Department. Earnings: business software maker Oracle.</p>
+<p>WEDNESDAY: Earnings from FedEx and General Mills.</p>
+<p>THURSDAY: Claims for jobless benefits for the week ended March 15 from the Labor Department. Also, the National Association of Realtors posts existing home sales for February. Earnings: ConAgra Foods, Nike.</p>
+<p>FRIDAY: The stock market may see added volatility as the trading week ends because of "quadruple witching," the quarterly event when stock futures, stock options, index futures and index options expire at the same time. Earnings: Olive Garden owner Darden Restaurants, Tiffany.</p>
+<p>The latest LI business news in your inbox Monday through Friday.</p>
+<p class="disclaimer">By clicking Sign up, you agree to our <a href="/privacy" target="blank">privacy policy</a>.</p>
+<p></p>
+<p class="disclaimer"><a href="/commentsnote">Comments section is temporarily on hold. Here’s why.</a></p>
+<p></p>
+<p>
+<a href="https://www.newsday.com/privacy">Privacy Policy</a> | 
+<a href="https://www.newsday.com/terms">Terms of service</a> |
+<a href="https://www.newsday.com/homedeliveryterms">Subscription terms</a> |
+<a href="https://www.newsday.com/services/affiliated-sites-linked-sites-and-advertisements-1.4715345">Your ad choices</a> |
+<a href="https://www.newsday.com/contact">Contact Newsday</a> |
+<a href="http://www.newsdayreprints.com/">Reprints &amp; permissions</a> |
+<a href="https://www.newsday.com/advertise">Advertise with Newsday</a> |
+<a href="https://www.newsday.com/help">Help</a>
+</p>
+<p>Copyright © <script>var currentYear = new Date().getFullYear();document.write(currentYear);</script> Newsday. All rights reserved.</p>

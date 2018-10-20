@@ -1,0 +1,78 @@
+<p class="w w2" data-widget="Dateline">
+Saturday 20 October 2018
+</p>
+<p>
+<strong>Scott Hamilton</strong>
+</p>
+<p>
+<time>March 11 2014 2:30 AM</time>
+</p>
+<p>
+BANK of England governor Mark Carney will today face his toughest public testimony to date as he seeks to defend the integrity of an institution that's become embroiled in the currency-manipulation scandal.
+</p>
+<p>MPs will grill Mr Carney after the BOE suspended an employee and released minutes of meetings showing officials knew of concerns the foreign-exchange market was being rigged almost eight years ago. The central bank said last week that an internal review had found no evidence so far that staff were involved in collusion.</p>
+<p>The controversy marks a major test of Mr Carney's leadership after he took over the BOE less than a year ago and began overhauling its monetary policy, communications regime and structure. It's the second rigging scandal to hit the central bank following its entanglement in 2012 in the manipulation of the London interbank offered rate. Lawmakers criticised how it handled that affair, calling it naive. "The statement on the internal review is only an early staging post in what is likely to develop into a very significant issue," said Simon Hart, a lawyer at RPC LLP in London. "The statement left open as many questions as it answered. It was noticeably silent on what the bank knew about other FX market participants."</p>
+<p>Mr Carney, along with Markets Director Paul Fisher, is due to appear before Parliament's cross-party Treasury Committee at noon in London to answer questions on the foreign-exchange inquiry and the central bank's governance. That session will follow hearings on the BOE's inflation report and Scottish independence.</p>
+<p>The testimony comes as regulators investigate allegations that traders at the world's largest banks worked together to rig the $5.3 trillion-a-day foreign-exchange market.</p>
+<p>The US Securities and Exchange Commission is investigating whether currency traders distorted prices for options and exchange-traded funds by rigging benchmark currency rates, sources told Bloomberg.</p>
+<p>More than 20 traders from banks, including Deutsche Bank, Citigroup and Barclays, the three biggest currency traders, have been fired, suspended or put on leave since Bloomberg first reported in June that dealers said they shared information about client orders to manipulate foreign-exchange benchmark rates.</p>
+<p>The suspended BOE employee, who hasn't been named, is being investigated and "no decision has been taken on disciplinary action", the central bank said last week. According to minutes of meetings released alongside that statement, BOE officials knew of concerns the foreign-exchange market was being manipulated as early as July 2006, more than seven years before regulators opened formal probes. The minutes also show BOE officials discussed with traders concerns that currency benchmarks were being manipulated. Foreign-exchange benchmarks are used to compute the day-to-day value of holdings – and by index providers.</p>
+<p>Even small movements can affect the value of what Morningstar Inc estimates is around $3.6trn in funds. (©Bloomberg)</p>
+<p class="originalSource">
+Irish Independent
+</p>
+<p><strong class="cx-a business">Donal O'Donovan</strong> Top shareholder advisers have backed Aryzta's planned €800m capital raising, in a major boost to management ahead of a shareholders' meeting next month.</p>
+<p><strong class="cx-a business">Jack Sidders</strong> Brookfield Property Group has sweetened an offer for UK shopping malls-owner Intu Properties to value the company at £2.9bn (€3.3bn), as it targets an industry that has been shunned by...</p>
+<p><strong class="cx-a business">John Ainger</strong> Italian bonds and stocks snapped two days of losses after the European Commission struck a more conciliatory tone toward the country's spending plans, easing heightened tensions between the...</p>
+<p class="error" id="quick_subscribe_error"></p>
+<p class="done" id="quick_subscribe_done"></p>
+<p>Read the leading stories from the world of Business.</p>
+<p class="field">
+<input id="f-ecemail" name="ecemail" placeholder="Email address" required="required" type="email"/>
+<button class="bx-a cx-a independent business" type="submit">Sign Up</button>
+</p>
+<p>
+Top shareholder advisers have backed Aryzta's planned €800m capital raising, in a... </p>
+<p>
+Brookfield Property Group has sweetened an offer for UK shopping malls-owner... </p>
+<p>
+Italian bonds and stocks snapped two days of losses after the European Commission... </p>
+<p>
+Ryanair said Friday it had reached an agreement with... </p>
+<p>
+Auction house BidX1 has announced a "strategic joint... </p>
+<p>
+EUROPEAN shares swung back into the red yesterday as fears of rising rates and... </p>
+<p>
+LA LIGA risks losing some of its leading players if tax reforms proposed by the Spanish... </p>
+<p>
+SPAIN'S Santander is the latest bank to be caught up in... </p>
+<p>
+Netflix has managed to pull off the double axle of retail. The $145bn (€125.67bn)... </p>
+<p>
+A recovery by global stocks proved short-lived as warnings over a slowing European auto... </p>
+<p>
+Initial thoughts after a few days with Google’s latest Pixel 3 XL smartphone. </p>
+<p>
+Computer security expert Mikko </p>
+<p>
+With cyber security top of the agenda as a... </p>
+<p>
+Google has unveiled its new flagship smartphones, the Pixel 3 and Pixel 3 XL,... </p>
+<p>
+Charlie Weston and Sinéad Ryan give their first... </p>
+<p>
+Is this the best non full-frame camera on the market? If your main use for it... </p>
+<p>
+A multi-disciplinary team of students from... </p>
+<p>
+The 11 and 12-year-olds at Griffith Barracks multi... </p>
+<p>
+Without a doubt 2018 will go down in... </p>
+<p>
+Potential buyers watch as sheep farmers gather at Lairg... </p>
+<p>
+A soft start to the day didn't deter the 60,000 visitors who flocked to the Tullamore Show... </p>
+<p>
+'Buoyant' was the word that mart managers of both in Tullow and Carnew... </p>
+<p class="copys"><span>© Independent.ie</span> <a href="http://www.inm.ie/"><img alt="INM Logo" height="28" src="//www.independent.ie/img/logo-inm-b.png" width="96"/></a></p>

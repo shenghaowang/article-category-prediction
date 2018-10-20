@@ -1,0 +1,33 @@
+<p>Hackers this weekend targeted the Reddit account and personal blog of Mark Karpeles, CEO of the bankrupt Mt. Gox bitcoin exchange, posting information online that they claim proves Karpeles is actually hoarding bitcoins he claims were stolen.</p>
+<p>The hackers charge that some of the nearly half a billion dollars worth of the digital currency lost in recent cyberattacks is actually still in the French CEO's possession.</p>
+<p>"It's time that MTGOX got the bitcoin communities wrath instead of Bitcoin Community getting Goxed," the unnamed group wrote, <a href="http://www.forbes.com/sites/andygreenberg/2014/03/09/hackers-hit-mt-gox-exchanges-ceo-claim-to-publish-evidence-of-fraud/" target="_blank">according to Forbes</a>, a reference to the downtime and other glitches that have plagued Mt. Gox.</p>
+<p>The hackers initially posted to Karpeles's website a 716MB file of stolen data from Mt. Gox's servers; it included a spreadsheet of more than a million trades, the company's balance in 18 currencies (including bitcoin), administrative access to Gox parent company Tibanne Limited, and a screenshot of the hackers' access, as well as a list of Karpeles's home addresses and personal resume.</p>
+<p>An abridged version, which features Mt. Gox's balances, was later <a href="http://pastebin.com/f7DPskc7" target="_blank">posted online</a>, with a link to the entire set of data.</p>
+<p>"This release would have been sooner, but in the spirit of responsible disclosure and making sure all of ducks were in a row, it took a few days longer than would have liked to verify the data," the hackers wrote on Pastebin, advising readers to "repost and share this info before it's gone."</p>
+<p>Karpeles's website <a href="http://blog.magicaltux.net" target="_blank">is currently offline</a>, and the <a href="http://www.reddit.com/r/Bitcoin/comments/1zz9rw/a_message_from_a_mod/" target="_blank">original Reddit post</a> has since been deleted.</p>
+<p>Mt. Gox <a class="" href="https://www.pcmag.com/article2/0,2817,2454375,00.asp">filed for bankruptcy</a> in Japan late last month, saying it lost 750,000 bitcoins, or about $480 million—7 percent of the estimated global total of bitcoins. An attack on the company's computer systems also cost Gox about 100,000 of its own units.</p>
+<p>The filing came days after the exchange mysteriously went offline, halting trades of the cryptocurrency.</p>
+<p>Last month, meanwhile, bitcoins valued at <a class="" href="https://www.pcmag.com/article2/0,2817,2453444,00.asp">approximately $2.7 million went missing</a> from Silk Road 2, allegedly due to a hack. Silk Road 2 is the reincarnation of the original Silk Road, an online black market for all things criminal that was shut down by the feds last year. The new site emerged in November and is only accessible to those who have an invite and sign in using the Tor anonymizing service.</p>
+<p>Bitcoin has been a popular topic of late. Last week, <i>Newsweek</i> said it had <a class="" href="https://www.pcmag.com/article2/0,2817,2454643,00.asp">uncovered the creator of bitcoin</a>, a 64-year-old California man named Satoshi Nakamoto. But has <a class="" href="https://www.pcmag.com/article2/0,2817,2454690,00.asp">denied any involvement</a>.</p>
+<p>For more, see <a class="" href="https://securitywatch.pcmag.com/malware/321388-how-thieves-steal-your-bitcoins">How Thieves Steal Your Bitcoins</a>, as well as the Bitcoin and Other Cryptocurrencies slideshow above.</p>
+<p>Also check out PCMag Live in the video below, which discusses Karpeles and the "stolen" bitcoins.</p>
+<p><div class="flex-video-fix"><div class="flex-video widescreen"><iframe allowfullscreen="" frameborder="0" height="416" src="//www.youtube.com/embed/4yGWqxu6_FE?rel=0" width="740"></iframe></div></div></p>
+<p><a href="https://www.pcmag.com/article2/0,2817,2454755,00.asp">Google SDK for Android Wearables Coming Soon</a></p>
+<p><a href="https://www.pcmag.com/article2/0,2817,2454758,00.asp">Sony, Panasonic Tip 300GB - 1TB Archival Storage Disc</a></p>
+<p class="author-deck" itemprop="description">
+Stephanie joined PCMag in May 2012, moving to New York City from Frederick, Md., where she worked for four years as a multimedia reporter at the second-largest daily newspaper in Maryland. She interned at Baltimore magazine and graduated from Indiana University of Pennsylvania (in the town of Indiana, in the state of Pennsylvania) with a degree in ... <a href="/author-bio/stephanie-mlot">See Full Bio</a>
+</p>
+<p>8 High-Tech Wedding Ideas</p>
+<p>Muzzle Chatty Colleagues With Hushme Headset</p>
+<p>Amazon, Expedia Back Suit Over Trump Immigration Ban</p>
+<p>Dream House Built Using YouTube Videos</p>
+<p>Walmart Reduces Free 2-Day Shipping Requirements</p>
+<p>Subscribe to <strong>What's New Now</strong></p>
+<p class="privacy-text">This newsletter may contain advertising, deals, or affiliate links. Subscribing to a newsletter indicates your consent to our <a href="http://www.ziffdavis.com/terms-of-use" target="_blank">Terms of Use</a> and <a href="http://www.ziffdavis.com/privacy-policy" target="_blank">Privacy Policy</a>. You may unsubscribe from the newsletters at any time.</p>
+<p>
+© 1996-2018
+<a href="http://www.ziffdavis.com/" target="_blank">
+Ziff Davis, LLC. PCMag Digital Group
+</a><br/>
+PC, PC Magazine and PC PCMag.com are among the federally registered trademarks of <br class="show-for-medium-up"/>Ziff Davis, LLC and may not be used by third parties without explicit permission.</p>
+<p class="legal-text">We strongly encourage you to read our updated <a class="close-link" href="#">PRIVACY POLICY</a> and <a class="close-cookie-link" href="#">COOKIE POLICY</a>.</p>

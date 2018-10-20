@@ -1,0 +1,110 @@
+<p class="channel-bar-station">Radio City Talk</p>
+<p class="channel-bar-track">Rocks</p>
+<p class="channel-bar-artist">Primal Scream</p>
+<p class="channel-bar-station">Radio City</p>
+<p class="channel-bar-track">All The Biggest Hits</p>
+<p class="channel-bar-artist">Non stop music</p>
+<p class="channel-bar-station">Radio City 2</p>
+<p class="channel-bar-track">Give It Up</p>
+<p class="channel-bar-artist">Kc and The Sunshine Band</p>
+<p><a href="/city-talk/local/news/murder-investigation-after-the-second-fatal-shooting-in-liverpool-in-ten-days/">Murder investigation after the second fatal shooting in Liverpool in ten days </a></p>
+<p class="grid-published">
+<a class="brand-color" href="/city-talk/local/news/">Local News</a> 
+    	 |
+    	 
+    	 	18 10 2018
+    	 
+    </p>
+<p><a href="/city-talk/charity/help/cash-for-kids-beneficiaries-2017/">Cash for Kids Beneficiaries 2017</a></p>
+<p class="grid-published">
+<a class="brand-color" href="/city-talk/charity/help/">Who We Help</a> 
+    	 |
+    	 
+    	 	18 10 2018
+    	 
+    </p>
+<p><a href="/city-talk/local/news/liverpool-mayor-reveals-talks-underway-to-bring-the-giants-to-the-city-permanently/">Liverpool Mayor reveals talks underway to bring the giants to the city permanently </a></p>
+<p class="grid-published">
+<a class="brand-color" href="/city-talk/local/news/">Local News</a> 
+    	 |
+    	 
+    	 	17 10 2018
+    	 
+    </p>
+<p><a href="/city-talk/local/news/warrington-man-jailed-for-life-for-murdering-his-partner-during-violent-and-frenzied-attack/">Warrington man jailed for life for murdering his partner during violent and frenzied attack</a></p>
+<p class="grid-published">
+<a class="brand-color" href="/city-talk/local/news/">Local News</a> 
+    	 |
+    	 
+    	 	17 10 2018
+    	 
+    </p>
+<p><a href="/city-talk/local/news/giants-creator-to-be-awarded-freedom-of-liverpool/">Giants Creator to be awarded Freedom of Liverpool</a></p>
+<p class="grid-published">
+<a class="brand-color" href="/city-talk/local/news/">Local News</a> 
+    	 |
+    	 
+    	 	17 10 2018
+    	 
+    </p>
+<p><a href="/city-talk/sky/uk/westminster-paedophile-accuser-appears-in-court-charged-with-lying-to-police">Westminster paedophile accuser appears in court charged with lying to police</a></p>
+<p class="grid-published">
+<a class="brand-color" href="/city-talk/sky/uk/">
+        
+          UK
+          
+          
+        </a> | 20 10 2018
+      </p>
+<p><a href="/city-talk/sky/uk/remain-v-leave-scale-of-facebook-ad-war-revealed">Remain v Leave: Scale of Facebook ad war revealed</a></p>
+<p class="grid-published">
+<a class="brand-color" href="/city-talk/sky/uk/">
+        
+          UK
+          
+          
+        </a> | 20 10 2018
+      </p>
+<p><a href="/city-talk/sky/world/jamal-khashoggi-turkey-wont-allow-cover-up-of-journalists-death">Jamal Khashoggi: Turkey 'won't allow cover-up' of journalist's death</a></p>
+<p class="grid-published">
+<a class="brand-color" href="/city-talk/sky/world/">
+        
+          
+          
+          World
+        </a> | 20 10 2018
+      </p>
+<p><a href="/city-talk/sky/world/suicide-bomber-kills-15-at-afghanistan-election-polling-station">Suicide bomber kills 15 at Afghanistan election polling station</a></p>
+<p class="grid-published">
+<a class="brand-color" href="/city-talk/sky/world/">
+        
+          
+          
+          World
+        </a> | 20 10 2018
+      </p>
+<p><a href="/city-talk/sky/sports/jose-mourinho-involved-in-touchline-melee-at-chelsea">Jose Mourinho involved in touchline melee at Chelsea</a></p>
+<p class="grid-published">
+<a class="brand-color" href="/city-talk/sky/sports/">
+        
+          
+          
+          Sports
+        </a> | 20 10 2018
+      </p>
+<p><a href="/city-talk/sky/sports/andrade-v-kautondokwa-preview-as-demetrius-andrade-battles-for-wbo-middleweight-belt-in-boston">Andrade v Kautondokwa: Preview as Demetrius Andrade battles for WBO middleweight belt in Boston</a></p>
+<p class="grid-published">
+<a class="brand-color" href="/city-talk/sky/sports/">
+        
+          
+          
+          Sports
+        </a> | 20 10 2018
+      </p>
+<p>Radio City Talk is owned by Bauer Radio Limited. Radio City Talk is part of Planet Radio.</p>
+<p class="play-bar-artist-track">Rocks <span class="play-bar-artist-separator">-</span></p>
+<p class="play-bar-artist">Primal Scream</p>
+<p class="play-bar-info-header">Radio City Talk - Extra Time: 18:00 - 22:00</p>
+<p>Radio City Talk's highlights from the week and the greatest rock hits</p>
+<p class="play-bar-info-header">Now:</p>
+<p class="play-bar-info-header">Just Missed:</p>

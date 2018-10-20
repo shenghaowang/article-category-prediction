@@ -1,0 +1,19 @@
+<p class="byline" data-component="meta-byline" data-link-name="byline"><span itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a class="tone-colour" data-link-name="auto tag link" href="https://www.theguardian.com/profile/sean-farrell" itemprop="sameAs" rel="author"><span itemprop="name">Sean Farrell</span></a></span></p>
+<p aria-hidden="true" class="content__dateline">
+<time class="content__dateline-wpd js-wpd" data-timestamp="1394550787000" datetime="2014-03-11T15:13:07+0000" itemprop="datePublished">
+Tue 11 Mar 2014 <span class="content__dateline-time">15.13 GMT</span>
+</time>
+<time class="content__dateline-lm js-lm u-h" data-timestamp="1394550787000" datetime="2014-03-11T15:13:07+0000">
+First published on Tue 11 Mar 2014 <span class="content__dateline-time">15.13 GMT</span>
+</time>
+</p>
+<p><a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="https://www.theguardian.com/business/royalbankofscotlandgroup">Royal Bank of Scotland</a> may have to move its headquarters to England if Scotland votes for independence this year, the Bank of England's governor has told MPs.</p>
+<p>"It's a distinct possibility but I shouldn't prejudge it. It depends on their arrangements as well," <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="https://www.theguardian.com/business/mark-carney">Mark Carney</a> told the Treasury select committee on Tuesday.</p>
+<p>He was referring to a EU rule that requires banks to be based in the same country as most of their business. For RBS, which also owns NatWest and a London-based investment bank, that is England.</p>
+<p>The rule would apply if, as expected, an independent Scotland joined the EU. Carney said RBS also had the option of refocusing its business on <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="https://www.theguardian.com/uk/scotland">Scotland</a>.</p>
+<p>Carney said an independent Scotland would have to guarantee deposits held in England by Scottish-domiciled banks under EU law.</p>
+<p>Since the insurer Standard Life revealed last month it was working on contingency plans to leave Scotland, more attention has focused on what banks and other businesses would do if Scotland voted for independence in September's referendum.</p>
+<p>Scotland has the biggest financial services industry in the UK outside London. Banks, insurers and other financial companies employ about 150,000 people in the country.</p>
+<p>Carney has tried to stay neutral in the political debate about <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="https://www.theguardian.com/politics/scottish-independence">Scottish independence</a> and has said he instead wants to provide analysis on how a monetary and banking union between Scotland and the rest of Britain might work. RBS has also tried to keep out of the matter, saying it is for the Scottish people to decide.</p>
+<p>Carney told MPs that the Bank of England would provide "clear and public advice" on any risks if Scottish independence results in a monetary agreement with the rest of Britain.</p>

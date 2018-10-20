@@ -1,0 +1,13 @@
+<p class="sub-head"> </p>
+<p>  The Associated Press  </p>
+<p class="element element-paragraph text-align-override-left" id="disclaimer">
+            This is an archived article that was published on sltrib.com in 2014, and information in the article may be outdated. It is provided only for personal research purposes and may not be reprinted.
+</p>
+<p class="element element-paragraph text-align-override-left"></p>
+<p class="element element-paragraph text-align-override-left">  Denver • Denver-based Quiznos has filed for Chapter 11 bankruptcy protection to reduce its debt by more than $400 million.</p>
+<p class="element element-paragraph text-align-override-left">The toasted sandwich chain said Friday that it voluntarily filed to reorganize to implement a pre-packaged restructuring plan.</p>
+<p class="element element-paragraph text-align-override-left">Quiznos says the move won&amp;apost affect its customers.</p>
+<p class="element element-paragraph text-align-override-left">The company only owns and operates seven of the nearly 2,100 Quiznos restaurants. The rest are owned operated by franchisees and aren&amp;apost part of the bankruptcy proceedings.</p>
+<p class="element element-paragraph text-align-override-left">It also says its distribution centers are open and fulfilling orders.</p>
+<p class="element element-paragraph text-align-override-left">Quiznos says the restructuring plan has been approved by its creditors so it expects to emerge from restructuring quickly.      </p>
+<p class="element element-paragraph text-align-override-left"> </p>

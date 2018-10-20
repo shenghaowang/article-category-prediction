@@ -1,0 +1,493 @@
+<p class="timestamp" id="published-timestamp">Published: <span>Mar 13, 2014 9:06 a.m. ET</span></p>
+<p>By</p>
+<p>NEW YORK (MarketWatch) — U.S. stock futures got a boost on Thursday from a duo of reports, which showed a surprise drop in weekly jobless claims and a rise in retail sales in February. </p>
+<p>Shares of Plug Power Inc. and Krispy Kreme Doughnuts Inc. both jumped in premarket on earnings reports. </p>
+<p>Futures for the S&amp;P 500 index 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote"><a class="qt-chip trackable" data-track-mod="MW_story_quote" href="/investing/stock/US:SPH4?countrycode=">US:SPH4</a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   rose 4.2 points to 1,871.90, while those for the Dow Jones Industrial Average 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote"><a class="qt-chip trackable" data-track-mod="MW_story_quote" href="/investing/stock/US:DJH4?countrycode=">US:DJH4</a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   added 31 points to 16,370. Futures for the Nasdaq-100 index 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote"><a class="qt-chip trackable" data-track-mod="MW_story_quote" href="/investing/stock/US:NDH4?countrycode=">US:NDH4</a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   added 12 points to 3,718.75.</p>
+<p>The number of people who applied for <a class="icon none" href="/story/jobless-claims-fall-to-3-month-low-of-315000-2014-03-13">U.S. unemployment benefits </a>in the first week of March fell to the lowest level in more than three months, perhaps a sign of an uptick in labor-market conditions. </p>
+<p> <a class="icon none" href="/story/retail-sales-rise-for-first-time-in-three-months-2014-03-13">Sales at U.S. retailers</a> rose in February for the first time in three months as shoppers boosted purchases of a variety of goods after being cooped up by one of the harshest winters in years.</p>
+<p>Another focus for Wall Street will be the question-and-answer session during a Senate hearing of three nominees to the Federal Reserve. Those nominees released their written testimony on Wednesday, and the most prominent, Stanley Fischer, said the Fed’s easy U.S. monetary stance <a class="icon none" href="/story/fed-nominee-fischer-easy-policy-still-needed-2014-03-12">is still needed</a>. The Q&amp;A will start at 10 a.m. Eastern.</p>
+<p>U.S. stocks finished little changed on <a class="icon none" href="/story/us-stocks-fall-as-china-ukraine-worries-weigh-2014-03-12">Wednesday</a> after erasing early losses that stemmed from a selloff of overseas markets. Worries about a China slowdown and Russia-Ukraine tensions contributed to early jitters, though the S&amp;P 500 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote down bgQuote" data-bgformat="" data-channel="/quotes/zigman/3870025/realtime"><a class="qt-chip trackable" data-fancyid="IndexSPX" data-track-mod="MW_story_quote" href="/investing/index/spx">SPX, <span class="bgPercentChange">-0.04%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   ended up 0.57 point, or less than 0.1%, at 1,868.20.</p>
+<p> <a class="icon " href="http://blogs.marketwatch.com/thetell/2014/03/12/asia-markets-live-blog-happy-china-data-day-to-you-and-yours/?link=instory" target="_new">Asian markets</a> were mixed, with the Nikkei 225 index 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote down bgQuote" data-bgformat="" data-channel="/quotes/zigman/5986735/delayed"><a class="qt-chip trackable" data-fancyid="XTKSIndexNIK" data-track-mod="MW_story_quote" href="/investing/index/nik?countrycode=jp">NIK, <span class="bgPercentChange">-0.56%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   ending flat, and the Hang Seng Index 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote up bgQuote" data-bgformat="" data-channel="/quotes/zigman/2622475/delayed"><a class="qt-chip trackable" data-fancyid="XHKGIndexHSI" data-track-mod="MW_story_quote" href="/investing/index/hsi?countrycode=hk">HSI, <span class="bgPercentChange">+0.42%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   falling 0.7% after data showed China’s industrial production slowed to 8.6% in the January-February period, versus 9.7% in December. Retail sales in China eased to 11.8% in January, from 13.1% in December.</p>
+<p> <a class="icon " href="http://blogs.marketwatch.com/thetell/2014/03/13/chinas-soft-data-may-not-be-a-worry-say-analysts/?link=instory" target="_new">Some analysts</a> brushed the readings aside, while others saw a sharper slowdown in the world’s second-largest economy. In a note, analysts at Danske Bank said the data suggests the economy is slowing faster than expected, and the slowdown in industrial production suggests growth in gross domestic product could drop below the government’s 7.5% target as soon as the first quarter. <a class="icon " href="http://blogs.marketwatch.com/thetell/2014/03/13/faber-sees-china-growth-at-4-good-news-for-its-gigantic-bubble/?link=instory" target="_new">Faber sees China growth at 4% -- good news for its ‘gigantic’ bubble</a></p>
+<p>Going the other way, the Shanghai Composite 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote up bgQuote" data-bgformat="" data-channel="/quotes/zigman/72940633/delayed"><a class="qt-chip trackable" data-fancyid="XSHGIndexSHCOMP" data-track-mod="MW_story_quote" href="/investing/index/shcomp?countrycode=cn">SHCOMP, <span class="bgPercentChange">+2.58%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   rose 1%. Some attributed this to comments by Chinese Premier Li Keqiang, who said he was confident the Chinese economy would meet its 7.5% growth goal for this year. He also acknowledged that defaults of some financing vehicles may be inevitable, but the government would closely monitor the situation.</p>
+<p>Some said Shanghai stocks were also boosted by media reports that China’s securities regulator may allow companies to issue preferred shares within the first half of the year, as it works to try to deliver market-boosting measures to lift confidence in the battered market. </p>
+<p>Gold 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote"><a class="qt-chip trackable" data-track-mod="MW_story_quote" href="/investing/stock/US:GCJ4?countrycode=">US:GCJ4</a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   shifted moderately lower, but copper prices 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote"><a class="qt-chip trackable" data-track-mod="MW_story_quote" href="/investing/stock/US:HGK4?countrycode=">US:HGK4</a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   under pressure this week due to China worries, were off another 3.3%. </p>
+<p>The dollar 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote down bgQuote" data-bgformat="" data-channel="/quotes/zigman/1652083/delayed"><a class="qt-chip trackable" data-fancyid="IFUSIndexDXY" data-track-mod="MW_story_quote" href="/investing/index/dxy">DXY, <span class="bgPercentChange">-0.36%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   meanwhile, fell across the board after stronger-than-expected labor-market data in Australia, which pushed the Aussie dollar 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote up bgQuote" data-bgformat='{"change":"0,0.0000"}' data-channel="/quotes/zigman/16008115/realtime/sampled"><a class="qt-chip trackable" data-fancyid="XTUPCurrencyAUDUSD" data-track-mod="MW_story_quote" href="/investing/currency/audusd">AUDUSD, <span class="bgPercentChange">+0.2254%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   back above 90 cents. The euro 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote up bgQuote" data-bgformat='{"change":"0,0.0000"}' data-channel="/quotes/zigman/16008136/realtime/sampled"><a class="qt-chip trackable" data-fancyid="XTUPCurrencyEURUSD" data-track-mod="MW_story_quote" href="/investing/currency/eurusd">EURUSD, <span class="bgPercentChange">+0.5326%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   remained above $1.39, after moving above that on Wednesday. Oil prices fell slightly. </p>
+<p>Shares of Krispy Kreme Doughnuts 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote"><a class="qt-chip trackable" data-track-mod="MW_story_quote" href="/investing/stock/US:KKD?countrycode=">US:KKD</a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                    soared 10% in premarket after the donut maker <a class="icon none" href="/story/krispy-kreme-net-profit-triples-and-buyback-upped-2014-03-12">lifted its financial guidance</a> for the current fiscal year late Wednesday.</p>
+<p>Williams-Sonoma Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote down bgQuote" data-bgformat="" data-channel="/quotes/zigman/246567/composite"><a class="qt-chip trackable" data-fancyid="XNYSStockWSM" data-track-mod="MW_story_quote" href="/investing/stock/wsm">WSM, <span class="bgPercentChange">-2.23%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   jumped 6.6% in premarket after the retailer topped forecasts with its quarterly earnings and revenue, as well as announcing a hike in its dividend late Wednesday.</p>
+<p> <a class="icon none" href="/story/plug-power-surges-11-after-quarterly-earnings-2014-03-13">Plug Power</a>
+<span class="quote up bgQuote" data-bgformat="" data-channel="/quotes/zigman/5142101/composite"><a class="qt-chip trackable" data-fancyid="XNASStockPLUG" data-track-mod="MW_story_quote" href="/investing/stock/plug">PLUG, <span class="bgPercentChange">+1.57%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   rose more than 12% after the fuel-cell company topped a sales forecast in results on Thursday. </p>
+<p>Herbalife Ltd. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote up bgQuote" data-bgformat="" data-channel="/quotes/zigman/361145/composite"><a class="qt-chip trackable" data-fancyid="XNYSStockHLF" data-track-mod="MW_story_quote" href="/investing/stock/hlf">HLF, <span class="bgPercentChange">+0.44%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   was mostly unchanged after the company <a class="icon none" href="/story/oxigene-doubles-fannie-and-freddie-extend-fall-2014-03-12">announced an investigation</a> by regulators on Wednesday, a day after hedge-fund manager accused it of violating Chinese regulation.</p>
+<p>Dollar General Corp. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote up bgQuote" data-bgformat="" data-channel="/quotes/zigman/575788/composite"><a class="qt-chip trackable" data-fancyid="XNYSStockDG" data-track-mod="MW_story_quote" href="/investing/stock/dg">DG, <span class="bgPercentChange">+0.58%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   shares fell 2.5% in premarket action after posting a sales rise, but an <a class="icon none" href="/story/dollar-general-sales-rise-but-outlook-falls-short-2014-03-13">outlook</a> that fell short of expectations.</p>
+<p> <a class="icon none" href="/story/warren-buffett-to-heirs-put-my-estate-in-index-funds-2014-03-13">Warren Buffett’s investment strategy for his heirs: Index funds</a> </p>
+<p> <a class="icon none" href="/story/federal-probe-is-latest-twist-in-herbalife-saga-2014-03-12">Federal probe is latest twist in Herbalife saga</a> </p>
+<p> <a class="icon none" href="/story/missing-malaysia-jet-may-have-flown-on-for-hours-2014-03-13">Missing Malaysia jet may have flown on for hours</a> </p>
+<p><em>Providing critical information for the U.S. trading day. Subscribe to MarketWatch's free Need to Know newsletter. <a href="/newsletter">Sign up here.</a></em></p>
+<p>Join the conversation</p>
+<p class="copyright">Copyright © 2018 MarketWatch, Inc.  All rights reserved.</p>
+<p class="text text--terms">
+                By using this site you agree to the <a href="//www.marketwatch.com/support/disclaimer.asp">Terms of Service</a>,
+                <a href="https://www.dowjones.com/privacy-policy/" target="_blank">Privacy Policy</a>, and
+                <a href="https://www.dowjones.com/cookies-policy/" target="_blank">Cookie Policy</a>.
+            </p>

@@ -1,0 +1,18 @@
+<p>PITTSBURGH — Dick's Sporting Goods Inc. said today that its fourth-quarter net income rose 7 percent benefiting from strong sales during the critical holiday selling period. Its revenue rose 8 percent, topping analysts' expectations.</p>
+<p>The stock rose in premarket trading today.</p>
+<p>The sporting goods company — which runs Golf Galaxy and its namesake stores — earned $138.6 million, or $1.11 per share, for the period ended Feb. 1. That's up from $129.7 million, or $1.03 per share, in the year-ago period.</p>
+<p>Its earnings matched the expectations of analysts polled by FactSet.</p>
+<p>Revenue increased 8 percent to $1.95 billion from $1.81 billion, beating Wall Street's estimate of $1.94 billion.</p>
+<p>Shares of Dick's added 67 cents, or 1.2 percent, to $55 in premarket trading about an hour before the market opens.</p>
+<p>Sales at stores open at least a year, a key gauge of a retailer's health, rose 7.3 percent when adjusted for an extra week in the prior-year period. This metric excludes results from stores recently opened or closed.</p>
+<p>For the year, Dick's earned $337.6 million, or $2.69 per share, up from $290.7 million, or $2.31 per share, a year ago. Revenue rose 6 percent to $6.21 billion from $5.84 billion mostly on new store openings and same-store sales growth.</p>
+<p>Sales at stores open at least a year increased 1.9 percent.</p>
+<p>Dick's maintained its forecast for 2014 earnings in a range of $3.03 to $3.08 per share. Analysts predict $3.10 per share.</p>
+<p>For the first quarter, the chain anticipates earnings between 51 cents and 53 cents per share. Wall Street expects 54 cents per share.</p>
+<p>Dick's had 558 of its namesake stores in 46 states at quarter's end. It also had 79 Golf Galaxy stores in 29 states.</p>
+<p class="tab-label">Most Recent</p>
+<p class="tab-label">Most Read</p>
+<p class="tab-label">News in your town</p>
+<p class="tab-label">Recently Read</p>
+<p class="tab-label">Recommended</p>
+<p id="tab_active-label">Most Recent</p>

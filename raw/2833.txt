@@ -1,0 +1,58 @@
+<p class="bk_timeline">updated - October 20, 2018 Saturday EDT</p>
+<p>The United States Chiquita Brands and Europe's Fyffes new deal creates the largest banana company.</p>
+<p>The $526 million transaction, which represents 14 percent of the banana business across the world will allow for involved individuals to discuss future deals especially during an age when grocery stores are slimming the fruit's prices in tough economic times <a href="http://www.reuters.com/article/2014/03/10/fyffes-chiquita-brands-idUSL3N0M724Y20140310" rel="nofollow">Reuters</a> reported Monday. </p>
+<p>"Two big fruit companies have felt the downward pressure of the big retail buyers on their margins and consolidation appears to them to be a strategy for survival," Bananalink, a British-based group who pushes for bananas and pineapples business that is environmentally friendly.</p>
+<p>"The first three (companies) on a global scale are not too far away from each other, whereas Fyffes was a good deal smaller. Now a firm number one has been created, there will be some impetus for further consolidation in the sector," David Holohan, an analyst at Merrion Stockbrokers in Dublin told Reuters.</p>
+<p>
+<!-- article_center_middle11_computer start-->
+<div class="adunit_rectangle" id="adunit_article_center_middle11_computer">
+<div class="ad-sample advertisement_article_center_middle11_computer"><span>Advertisement</span></div>
+<!-- Place in head part widget:fran003 -->
+<script type="text/javascript">
+ 
+    var sbElementInterval = setInterval(function(){sbElementCheck()}, 50);
+ 
+    function sbElementCheck() {
+ 
+        var targetedElement = document.getElementById('ingageunit');
+        if(targetedElement) {
+            clearInterval(sbElementInterval);
+            (function(d) {
+                var js, s = d.getElementsByTagName('script')[0];
+                js = d.createElement('script');
+                js.async = true;
+                js.onload = function(e) {
+                    SbInGageWidget.init({
+                        partnerId : 4255,
+                        widgetId : 'fran003',
+                        cmsPath : 'http://cms.springboardplatform.com'
+                    });
+                }
+                js.src = "http://cdn.springboardplatform.com/storage/js/ingage/apingage.min.js";
+                s.parentNode.insertBefore(js, s);
+            })(window.document);
+        }
+    }
+</script>
+<!-- Place in head part -->
+<!-- Place in body part -->
+<div id="ingageunit"></div>
+<!-- Place in body part -->
+</div>
+<!-- article_center_middle11_computer end -->
+</p>
+<p>"We looked at it and thought we could create a much stronger competitor. The overlap between the businesses is de minimis," Ed Lonergan, CEO at <a href="http://www.chiquita.com/Home.aspx" rel="nofollow">Chiquita</a> who is chairman of the merger told Reuters.</p>
+<p>According to Reuters, environmentally-friendly farming activists are concerned the new deal will put further strain current economic worries, and the affect on more independent growers, and the environment.</p>
+<p>"There's downward pressure that's creating a race for the bottom. The big producers are under pressure too - the banana business is not working for anybody," Michael Gidney, chief executive of British charity The Fairtrade Foundation told Reuters.</p>
+<p>"The banana market is dysfunctional and this merger feels like further proof," Gidney told Reuters.</p>
+<p>The deal gives Chiquita investors one a share in the company for every one they have.</p>
+<p>Fyffes are slated to get 0.1567 for every one they have, or a 38 percent from when the market closed Friday Reuters reported.</p>
+<p class="nw_comment" id="info" style="display:none;">You have already subscribed. Thank you.</p>
+<p class="nw_lwtter_title">Connect With Franchise News</p>
+<p class="nw_lwtter_title br_gray ">Email Newsletter </p>
+<p class="nw_comment" id="repword" style="display:none;">You have already subscribed. Thank you.</p>
+<p class="title">TOP 10 FRANCHISES OF 2018</p>
+<p class="partner-txt"><span class="bold">Partner :</span> <a class="partner-link" href="https://www.uwannit.com/" target="_blank">Best Product Reviews
+            <span alt="uwannit.com" class="uwannit-logo"></span></a>
+</p>
+<p><img alt="Clicky" height="1" src="//in.getclicky.com/66581476ns.gif" width="1"/></p>

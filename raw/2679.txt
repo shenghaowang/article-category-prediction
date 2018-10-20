@@ -1,0 +1,29 @@
+<p></p>
+<p><strong>INDICATOR:</strong> January Job Openings and Labor Turnover Survey</p>
+<p><strong>KEY DATA:</strong> JOLTS: Openings: +60,000; Year-over-Year: +281,000; Hires: -43,000; Year-over-Year: +146,000; Quits: -42,000; Year-over-Year: +74,000</p>
+<p><strong>IN A NUTSHELL:</strong> "Despite a sluggish month of economic numbers, job openings grew and that is another indication that the labor market is in decent shape."</p>
+<p><strong>WHAT IT MEANS:</strong> The Federal Reserve is meeting next week and the Job Openings and Separations report is supposed to be one of Chair Janet Yellen's favorite indicators. It provides a look not only at what firms are doing but also at the behavior of workers. On the business side, while hiring did slow a bit in January, the deceleration was hardly due to an unwillingness to add workers. Indeed, job openings soared and are up sharply over the year. While available positions jumped by 7.6% between January 2013 and January 2014, the pace of hiring increased by only 3.3%. That points to a backlog in hiring that should start showing up. Similarly, in the March National Federation of Independent Businesses survey, it was reported that "40 percent of the respondents indicated that there were few or no qualified candidates for open positions" and "Twenty-two (22) percent of all owners reported job openings they could not fill in the current period". Demand for workers is building and it is just a matter of time when the openings get filled. As for worker perceptions of conditions, a look at the quit rates points to growing confidence that jobs are becoming more readily available. While the number of quits was off in January, it was up solidly over the year. People haven't been leaving their jobs for a long time for fear of not finding another one. Now they are doing that, especially in professional and business services, where the number rose by 33% and in retail, where it was up by 16%.</p>
+<p><strong>MARKETS AND FED POLICY IMPLICATIONS:</strong> We will not know for months how the weather affected the economy but we can look for underlying trends and they seem to be up. The JOLTS report was hardly a great one but when you compare a reasonably decent January 2013 with an ugly January 2014 and you still get really good numbers, it does point to an improving situation. I am watching the turnover numbers, in particular, the quit rates. If they continue to rise, it will be a clear indication of growing worker confidence that the labor market is strengthening. Since it bottomed in mid-2008, the rate has increased nearly fifty percent. It is still, though, about twenty percent below the rates posted during the mid-2000s, so we still have a long way to go. I don't expect the quit rate to be near the previous peak before year's end but as it approaches it, you can expect wage gains to accelerate as businesses attempt to retain their workforce. This is something I also believe will be a factor in Janet Yellen's thinking when it comes to tapering and ultimately when to raise rates, so watch these numbers carefully. As for the markets, this report is not usually a major market mover and is not likely to be one today, especially since it is lagged and traders and investors worry about the latest number, not a delayed one. They should.</p>
+<p>
+<div class="inline-container rel space--btm">
+<input class="white nl__input font--m bg--slate-light-2" id="fieldEmail" name="cm-qhhtdu-qhhtdu" placeholder="your@email.com" required="" type="email"/>
+<input class="nl__submit br--none font--ml bg--slate-dark-2" type="submit" value="Sign Up"/>
+</div>
+</p>
+<p>
+<ul>
+<li><label for="#nlSignup-Morning"><input checked="checked" class="form-inputs nl-check" data-nl-name="morning" id="nlSignup-Morning" name="cm-ol-qjiurr" type="checkbox"> Morning newsletter</input></label></li>
+<li><label for="#nlSignup-Phillies"><input class="form-inputs nl-check" data-nl-name="extrainnings" id="nlSignup-Phillies" name="cm-ol-zltnr" type="checkbox"> Extra Innings</input></label></li>
+<li><label for="#nlSignup-Eagles"><input class="form-inputs nl-check" data-nl-name="earlybirds" id="nlSignup-Eagles" name="cm-ol-qykdjr" type="checkbox"> Early Birds</input></label></li>
+<li><label for="#nlSignup-Food"><input class="form-inputs nl-check" data-nl-name="letseat" id="nlSignup-Food" name="cm-ol-xljhrk" type="checkbox"> Let's Eat</input></label></li>
+</ul>
+</p>
+<p>
+<a class="sign-up main-form dib" href="//www.philly.com/philly/newsletters">
+<span class="td--on">
+<b>Show all</b>
+<span class="dib tl__arrow invisible">▾</span>
+</span>
+</a>
+</p>
+<p class="copyright clear center"><a href="//www.philly.com/philly/about/copyright/">© Copyright </a><span class="light">2018 Philadelphia Media Network (Digital), LLC</span> <a class="space-half--left" href="//www.philly.com/philly/about/terms_of_use/">Terms of Use &amp; Privacy Policy</a></p>

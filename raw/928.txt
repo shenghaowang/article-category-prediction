@@ -1,0 +1,67 @@
+<p>We use cookies to remember your site preferences, record your referrer and improve the performance of our site. For more information, see our <a href="/help/cookie_policy.html">cookie policy</a>.</p>
+<p>Please select an option below and 'Save' your preferences.</p>
+<p>You can update your cookie preferences at any time from the 'Cookies' link in the footer.</p>
+<p>We use cookies (including third-party cookies such as Google) to remember your site preferences and to help us understand how visitors use our sites so we can improve them. To learn more, please see our <a href="/help/terms_and_conditions.html#Privacy%20policy">privacy policy</a> and our <a href="/help/cookie_policy.html">cookie policy</a>.</p>
+<p>To agree to our use of cookies, click 'Accept' or choose 'Options' to set your preferences by cookie type.</p>
+<p class="text-right visible-xs margin-top-0 margin-bottom-xs">
+<a class="btn btn-white" href="/gold-price-chart.do" id="btn-chart">
+<img src="/images/chart_icon_header.gif">
+</img></a>
+<button aria-expanded="false" class="btn btn-white collapsed" data-target="#header-navbar" data-toggle="collapse" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-menu-hamburger"></span>
+</button>
+</p>
+<p><strong>Live support</strong></p>
+<p>NEED HELP? ASK US NOW</p>
+<p><a href="https://www.bullionvault.com/gold-news" target="_self">Gold News front page</a></p>
+<p><a class="more" href="https://www.bullionvault.com/gold-news/gold-price-news">More...</a></p>
+<p><a href="https://www.bullionvault.com/gold-guide/gold-bars">Learn about gold bullion bars</a></p>
+<p><a href="https://www.bullionvault.com/gold-guide/gold-coins">Learn about gold bullion coins (and costs)</a></p>
+<p><a href="https://www.bullionvault.com/gold-guide/gold-investment" target="_blank">Gold investment: Why &amp; how?</a></p>
+<p><a href="https://www.bullionvault.com/gold-news/opinion-analysis" title="The View from the Vault">Opinion &amp; Analysis</a></p>
+<p><a href="https://www.bullionvault.com/gold-news/gold-price-news" title="Gold Price News">Gold Price News</a></p>
+<p><a href="https://www.bullionvault.com/gold-news/news" title="Investment News">Investment News</a></p>
+<p><a href="https://www.bullionvault.com/gold-news/history" title="Gold in History">Gold in History</a></p>
+<p><a href="https://www.bullionvault.com/gold-news/gold_books" title="Books about Gold Reviewed">Gold Books</a></p>
+<p><a href="https://www.bullionvault.com/gold-news/gold-investor-index" title="Gold Investor Index">Gold Investor Index</a></p>
+<p><a href="https://www.bullionvault.com/gold-news/infographics" title="Gold Infographics">Gold Infographics</a></p>
+<p><a href="https://www.bullionvault.com/gold-news/gold-authors">List of authors</a></p>
+<p>See all articles by <a href="https://www.bullionvault.com/gold-news/users/goldbug">Gold Bug here</a>.</p>
+<p><strong>Please Note:</strong> All articles published here are to inform your thinking, not lead it. Only you can decide the best place for your money, and any decision you make will put your money at risk. Information or data included here may have already been overtaken by events – and must be verified elsewhere – should you choose to act on it. Please review our <a href="https://www.bullionvault.com/gold-news/terms-and-conditions" rel="nofollow" target="_blank">Terms &amp; Conditions</a> for accessing <a href="https://www.bullionvault.com/gold-news">Gold News</a>, <a href="https://www.bullionvault.com/gold-news/terms-and-conditions#RSS Feeds">RSS links</a> are shown there.</p>
+<p><a href="https://www.facebook.com/BullionVaultEnglish" target="_blank"><img alt="Facebook" src="https://www.bullionvault.com/gold-news/sites/default/files/facebook.png" style="width: 30px; height: 54px; "/></a> <a href="https://www.youtube.com/user/bullionvault" target="_blank"><img alt="Youtube" src="https://www.bullionvault.com/gold-news/sites/default/files/youtube.png" style="width: 30px; height: 54px; "/></a> <a href="https://twitter.com/bullionvault" target="_blank"><img alt="Twitter" src="https://www.bullionvault.com/gold-news/sites/default/files/twitter.png" style="width: 30px; height: 54px; "/></a> <a href="https://www.linkedin.com/company/bullionvault" target="_blank"><img alt="LinkedIn" src="https://www.bullionvault.com/gold-news/sites/default/files/linkedin.png" style="width: 30px; height: 54px; "/></a></p>
+<p><span style="font-size:20px;"><strong><span style="font-family: arial, helvetica, sans-serif;">Mobile apps</span></strong></span></p>
+<p><span style="font-size: 12px;"><span style="font-family: arial, helvetica, sans-serif;"> - live trading 24/7</span></span></p>
+<p><span style="font-size: 12px;"><span style="font-family: arial, helvetica, sans-serif;"> - buy &amp; sell instantly</span></span></p>
+<p><span style="font-size: 12px;"><span style="font-family: arial, helvetica, sans-serif;"> - up-to-the-second charts</span></span></p>
+<p><a href="https://itunes.apple.com/us/app/bullionvault/id524049748" rel="nofollow" target="_blank"><img src="https://www.bullionvault.com/gold-news/sites/default/files/apple-app-logo.png" style="vertical-align: middle; height: 45px; width: 160px; margin-left: 10px; margin-right: 10px; margin-top: 10px;"/></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.bullionvault.mobile&amp;hl=en" rel="nofollow" target="_blank"><img src="https://www.bullionvault.com/gold-news/sites/default/files/android-app-logo.png" style="vertical-align: middle; width: 160px; height: 56px; margin-left: 10px; margin-right: 10px; margin-top: 10px;"/></a></p>
+<p> </p>
+<p> </p>
+<p><span style="font-size:20px;"><strong><span style="font-family: arial, helvetica, sans-serif;">Daily news email</span></strong></span><br/><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif;">Go to 'communications settings' </span></span></p>
+<p><a href="https://www.bullionvault.com/secure/edit_communications_preferences.do" rel="nofollow" target="_blank"><img alt="Get the latest daily gold price news free by email" src="https://www.bullionvault.com/gold-news/sites/default/files/lgmr-email.png" style="width: 170px; height: 177px;" title="Get the latest daily gold price news free by email"/></a></p>
+<p><strong><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><a href="https://www.bullionvault.com/secure/edit_communications_preferences.do" rel="nofollow" target="_blank">Latest gold news by email</a></span></span></strong></p>
+<p> </p>
+<p> </p>
+<p><span style="font-size:20px;"><strong><span style="font-family: arial, helvetica, sans-serif;">Gold Investor Index</span></strong></span><br/><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif;">2 October 2018</span></span></p>
+<p><a href="https://www.bullionvault.com/gold-news/investing-in-gold-100220181"><img alt="Gold Investor Index" src="https://www.bullionvault.com/gold-news/sites/default/files/gold-investor-index-dec-17.png" style="width: 200px; height: 150px;"/></a></p>
+<p><strong><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><a href="https://www.bullionvault.com/gold-news/investing-in-gold-100220181" rel="nofollow">Gold investing drops with price</a></span></span></strong></p>
+<p> </p>
+<p> </p>
+<p><span style="font-size:20px;"><strong><span style="font-family: arial, helvetica, sans-serif;">CNBC TV-18</span></strong></span><br/><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif;">28 August 2018</span></span></p>
+<p><a href="https://twitter.com/CNBCTV18News/status/1034389606110646272" rel="nofollow" target="_blank"><img alt="CNBC TV-18" src="https://www.bullionvault.com/gold-news/sites/default/files/tv-18-aug-18.png" style="height: 198px; width: 185px;" title="CNBC TV-18 31 May 2018"/></a></p>
+<p><strong><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><a href="https://twitter.com/CNBCTV18News/status/1034389606110646272" rel="nofollow" target="_blank">Gold gets boring again</a></span></span></strong></p>
+<p> </p>
+<p> </p>
+<p><span style="font-size:20px;"><strong><span style="font-family: arial, helvetica, sans-serif;">Corporate Adviser</span></strong></span><br/><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif;">29 May 2018</span></span></p>
+<p><a href="https://corporate-adviser.com/adrian-ash-dc-defaults-ignoring-golds-diversification-glow/" rel="nofollow" target="_blank"><img alt="Vaulted large bar gold. Source: BullionVault" src="https://www.bullionvault.com/gold-news/sites/default/files/gold-grab.png" style="width: 180px; height: 178px;" title="Vaulted large bar gold. Source: BullionVault"/></a></p>
+<p><strong><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><a href="https://corporate-adviser.com/adrian-ash-dc-defaults-ignoring-golds-diversification-glow/" rel="nofollow" target="_blank">Any gold in your pension?</a></span></span></strong></p>
+<p> </p>
+<p> </p>
+<p><span style="font-size:20px;"><strong><span style="font-family: arial, helvetica, sans-serif;">Money Observer</span></strong></span><br/><span style="font-size:12px;"><span style="font-family: arial, helvetica, sans-serif;">6 August 2018</span></span></p>
+<p><a href="https://www.moneyobserver.com/bitcoin-it-new-gold" rel="nofollow" target="_blank"><img alt="Bitcoin ain't gold" src="https://www.bullionvault.com/gold-news/sites/default/files/btc-mo-aug-18_0.png" style="width: 190px; height: 195px;" title="Money Observer"/></a></p>
+<p><strong><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;"><a href="https://www.moneyobserver.com/bitcoin-it-new-gold" target="_blank">No, Bitcoin isn't "new" gold</a></span></span></strong></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>
+						©BullionVault Ltd 2005-<span class="copyrightYear"></span></p>

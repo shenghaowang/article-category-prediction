@@ -1,0 +1,26 @@
+<p class="name" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+								
+								
+								By <span class="fn" itemprop="name"><a href="/author/Melanie-Pinola/" itemprop="url" rel="author"><span itemprop="name">Melanie Pinola</span></a></span>, 
+								
+								<span class="cn-container">
+</span>
+<span itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization"><span class="publisher" itemprop="name">ITworld</span><meta content="https://idge.staticworld.net/itw/ITworld-logo300x300.png" itemprop="logo"/></span>
+<span class="divider">|</span>
+<span class="pub-date" content="2014-03-14T15:24-0700" itemprop="datePublished">March 14, 2014
+									
+								</span>
+</p>
+<p class="addl-text">Use commas to separate multiple email addresses</p>
+<p class="msg-sent">Your message has been sent.</p>
+<p class="msg-sent">There was an error emailing this page.</p>
+<p>Sometimes when one company raises prices, we consumers benefit. Today's case example is Amazon's $20 increase for Amazon Prime membership (which you can <a href="http://www.itworld.com/consumerization-it/409655/how-extend-your-amazon-prime-membership-another-year-79" target="_blank">still get around</a> if you really want to). Shoprunner, noticing Prime members' distress at this price hike, is offering us unlimited 2-day shipping for free for a year.</p>
+<p>The free 2-day shipping works at major online retailers such as Newegg, Radio Shack, Toys R Us, Timberland, and Tiger Direct--and even the delivery fee from Dominos. Like Prime for Amazon, there's no minimum order size. Even better, return shipping is free (unlike with Amazon Prime).</p>
+<p>To get the free year, however, you'll have to provide proof of your current Prime membership (not yet renewed), and that involves jumping through a few hoops. In your Amazon account, take a screenshot of the printable receipt for your Prime membership andthen email it to DoneWithPrime@ShopRunner.com.</p>
+<p>Even if you decide to stick with Prime, you can still get the free year of ShopRunner, which is normally worth $79. (After your free one year trial, your membership will expire and your credit card <em>won't</em> be charged unless you authorize it.)</p>
+<p><em>Read more of <a href="http://www.itworld.com/blogs/53613">Melanie Pinola’s Tech IT Out blog</a> and follow the latest <a href="http://www.itworld.com/news">IT news</a> at ITworld. Follow Melanie on Twitter at <a href="http://www.itworld.com/consumerization-it/353802/%E2%80%9Dhttp://twitter.com/melaniepinola" target="”new”">@melaniepinola</a>. For the latest IT news, analysis and how-tos, follow ITworld on <a href="http://twitter.com/ITworld" rel="nofollow" target="”new”">Twitter</a> and <a href="http://www.facebook.com/ITworld" rel="nofollow" target="_blank">Facebook</a>.</em></p>
+<p class="bio"><p>Melanie Pinola is a freelance writer covering all things tech-related. A former IT admin and occasional web developer, she is also the author of <a href="http://linkedin.in30minutes.com" target="_blank">LinkedIn in 30 Minutes</a>, a Lifehacker writer, and the Mobile Office Technology expert at About.com.</p>
+<p><em>The opinions expressed in this blog are those of the author and do not necessarily represent those of ITworld, its parent, subsidiary or affiliated companies.</em></p></p>
+<p>Melanie Pinola is a freelance writer covering all things tech-related. A former IT admin and occasional web developer, she is also the author of <a href="http://linkedin.in30minutes.com" target="_blank">LinkedIn in 30 Minutes</a>, a Lifehacker writer, and the Mobile Office Technology expert at About.com.</p>
+<p><em>The opinions expressed in this blog are those of the author and do not necessarily represent those of ITworld, its parent, subsidiary or affiliated companies.</em></p>
+<p><a href="/about/copyright.html">Copyright</a> © 2018 IDG Communications, Inc.</p>

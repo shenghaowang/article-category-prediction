@@ -1,0 +1,26 @@
+<p class="text">
+        We're no longer maintaining this page.
+    </p>
+<p class="text">
+        For the latest business news and markets data, <a href="https://www.cnn.com/business/">please visit CNN
+            Business </a>
+</p>
+<p class="speakable"> Although the company is little-known in the U.S., it is expected to rank <a href="http://money.cnn.com/2013/12/19/investing/ipo-outlook/index.html">among the largest ever</a> initial public offerings. Alibaba is reportedly expected to raise as much as $15 billion. </p>
+<p class="speakable"> That puts it just shy of <span>Facebook</span> <span>(<span class="inlink_chart"><a class="inlink" href="http://money.cnn.com/quote/quote.html?symb=FB&amp;source=story_quote_link">FB</a></span>)</span>, whose <a href="http://money.cnn.com/technology/facebook-ipo/">2012 IPO</a> was the third-largest at <a href="http://money.cnn.com/2012/05/17/technology/facebook-ipo-final-price/">$16 billion</a>. Alibaba, like Facebook, is already profitable. (<i>See correction below.</i><i>)</i> </p>
+<p> Alibaba's <a href="http://money.cnn.com/2013/09/26/news/companies/alibaba-ipo/index.html">long-awaited decision</a> was revealed Sunday after <a href="http://money.cnn.com/2013/10/02/investing/alibaba-hong-kong/index.html">months of negotiations</a> with Hong Kong stock authorities. The company had said a <a href="http://money.cnn.com/2013/10/25/investing/alibaba-ipo/index.html">major sticking point</a> was its proposed governance structure. </p>
+<p> Alibaba's announcement included a reference to that issue: "We respect the viewpoints and policies of Hong Kong and will continue to pay close attention to and support the process of innovation and development of Hong Kong." </p>
+<p> <a href="http://money.cnn.com/2014/03/11/technology/tencent-jd-alibaba/index.html"><span class="inStoryHeading">Related: Tencent takes fight to Alibaba</span></a> </p>
+<p> But the decision for a U.S.-based IPO "will make us a more global company and enhance the company's transparency, as well as allow the company to continue to pursue our long-term vision and ideals. </p>
+<p> Many significant questions about the IPO remain unanswered, including when the offering could be made, who the major banks behind the IPO will be and whether it would list on the New York Stock Exchange or NASDAQ. </p>
+<p> As recently as Friday, Alibaba said it had "no timetable" for an offering and "no underwriters." </p>
+<p> <a href="http://money.cnn.com/2014/02/27/technology/china-taxi-apps/index.html"><span class="inStoryHeading">Related: China cracks down on booming taxi apps</span></a> </p>
+<p> The company is sometimes described as China's Amazon or eBay, and its online marketplace is a mix of both. It operates an Amazon-like online shopping mall, a eBay-like venue for individuals to buy from other people, a business-to-business sales platform and a PayPal-like online payment platform. </p>
+<p> One of its <a href="http://money.cnn.com/2013/10/29/technology/yahoo-alibaba/index.html">largest single investors</a> is U.S.-based <span>Yahoo</span> <span>(<span class="inlink_chart"><a class="inlink" href="http://money.cnn.com/quote/quote.html?symb=YHOO&amp;source=story_quote_link">YHOO</a></span>)</span>, although Alibaba recently bought back a significant portion of Yahoo's stake. </p>
+<p> Weibo, China's <span>Twitter</span> <span>(<span class="inlink_chart"><a class="inlink" href="http://money.cnn.com/quote/quote.html?symb=TWTR&amp;source=story_quote_link">TWTR</a></span>)</span>, also <a href="http://money.cnn.com/2014/03/14/technology/weibo-ipo/">recently announced</a> plans for a U.S. IPO. On Friday, the <a href="http://money.cnn.com/2014/02/25/technology/sina-weibo-ipo/index.html">social media giant</a> said it would list on the New York Stock Exchange and seek to raise $500 million. </p>
+<p> <i>Correction: An earlier version of the story said that Facebook was not profitable at the time of its initial public offering. The social network was profitable in 2011</i><i>.</i> </p>
+<p>
+        Most stock quote data provided by BATS. Market indices are shown in real time, except for the DJIA, which is delayed by two minutes. All times are ET. Disclaimer. Morningstar: © 2018 Morningstar, Inc. All Rights Reserved. Factset: FactSet Research Systems Inc.2018. All rights reserved. Chicago Mercantile Association: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&amp;P Dow Jones Indices LLC and have been licensed for use to S&amp;P Opco, LLC and CNN. Standard &amp; Poor's and S&amp;P are registered trademarks of Standard &amp; Poor's Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices © S&amp;P Dow Jones Indices LLC 2018 and/or its affiliates.
+        </p>
+<p>© <span class="footer-year">2018</span> Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.
+        <br/>
+        CNN Sans™ &amp; © 2016 Cable News Network.</p>

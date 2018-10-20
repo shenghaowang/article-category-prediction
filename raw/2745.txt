@@ -1,0 +1,56 @@
+<p>
+<input id="fieldName" name="cm-name" placeholder="Your Name" type="text">
+</input></p>
+<p>
+<input id="fieldEmail" name="cm-vyklll-vyklll" placeholder="Your Email" required="" type="email">
+</input></p>
+<p>
+<input id="fieldjltdhkd" name="cm-f-jltdhkd" placeholder="Location" type="text"/>
+</p>
+<p class="rob-check">
+        Robot check :
+        <span class="num1">10</span> +
+        <span class="num2">4</span> =
+        <input class="answer" maxlength="2" type="text"/>
+</p>
+<p>
+<input class="btn" style="background: #f15a24;" type="submit" value="Subscribe"/>
+</p>
+<p>The city of Los Angeles will not settle.  On Friday, the city sued the cable company, Time Warner Cable Inc., claiming the franchise owes them almost $10 million in past fees.  </p>
+<p>"Time Warner owes L.A.'s taxpayers millions of dollars for the privilege of having its franchise," said Michael Feuer, the City Attorney in a City Hall news conference following the announcement of the law suit reported <a href="http://www.latimes.com/entertainment/envelope/cotown/la-et-ct-time-warner-cable-lawsuit-20140315,0,6140488.story#axzz2vt5CFbUC">L.A. Times</a>. </p>
+<p>The lawsuit claims that while Time Warner Cable collected more than $500 million a year from its customers, they neglected to pay their obligations to the city to operate the network.  The city claims Time Warner Cable Inc. did not pay f from 2008 through 2011 according to the <a href="http://www.dailynews.com/general-news/20140314/los-angeles-launches-federal-lawsuit-against-time-warner-over-10-million-in-unpaid-franchise-fees">Daily News </a>.  </p>
+<p>However in s statement the cable network company denied the charges that they had not paid the city.  </p>
+<p>This new comes after the announcement made by Time Warner Inc. that it will be increasing customer rates by about 6% a month for everyone not covered in the promotional package.  Time Warner Inc. currently has about 1.5 million customers and the hike in prices will affect about 30% of these people. </p>
+<p>Photo courtesy of <a href="http://commons.wikimedia.org/wiki/File:2011-01-28_Time_Warner_Cable_building_entrance.jpg">Wikimedia Commons </a></p>
+<p class="nocomments">Comments are closed</p>
+<p>Now retrieving an image set.</p>
+<p>Now retrieving the rating.</p>
+<p>Los Angeles isn’t for everyone, but it certainly calls to…</p>
+<p>Karen Firsel helps parents get organized and keeps the family…</p>
+<p>Carlos Vela, 2018 MLS All-Star Captain, talks about being in the…</p>
+<p>Curse you cliffhangers The newest episode of Better Call Saul…</p>
+<p>Where’s Eve? Last Man Standing has been off for a…</p>
+<p>gameplay It’s the closest thing you will find to a…</p>
+<p>
+<input id="fieldName" name="cm-name" placeholder="Your Name" type="text">
+</input></p>
+<p>
+<input id="fieldEmail" name="cm-vyklll-vyklll" placeholder="Your Email" required="" type="email">
+</input></p>
+<p>
+<input id="fieldjltdhkd" name="cm-f-jltdhkd" placeholder="Location" type="text">
+</input></p>
+<p class="rob-check">
+        Robot check :
+        <span class="num1">5</span> +
+        <span class="num2">1</span> =
+        <input class="answer" maxlength="2" type="text"/>
+</p>
+<p>
+<input class="btn" style="background: #f15a24;" type="submit" value="Subscribe"/>
+</p>
+<p>How exciting would it be to go on a cross-country…</p>
+<p>Hollywood, make more movies like this. Growing up isn’t easy.…</p>
+<p>Which leaves us with one burning question: What rating will…</p>
+<p>Please enter an Access Token on the Instagram Feed plugin Settings page.</p>
+<p>© 2017 TheCelebrityCafe.com</p>

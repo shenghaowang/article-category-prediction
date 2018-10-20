@@ -1,0 +1,120 @@
+<p class="bgcolor-business-1"><span class="more float_right"><a href="/business/">View more »</a></span>Latest Business News</p>
+<p class="bgcolor-business-1"><span class="more float_right"></span>Explore Business</p>
+<p class="sub_category_title"><a href="/business/auto/">Auto</a></p>
+<p class="sub_category_title"><a href="/business/autotalk-special/">Autotalk Special</a></p>
+<p class="sub_category_title"><a href="/business/benchmark/">Benchmark</a></p>
+<p class="sub_category_title"><a href="/business/biz-commentary/">Biz Commentary</a></p>
+<p class="sub_category_title"><a href="/business/biz-special/">Biz Special</a></p>
+<p class="sub_category_title"><a href="/business/consumer/">Consumer</a></p>
+<p class="sub_category_title"><a href="/business/economy/">Economy</a></p>
+<p class="sub_category_title"><a href="/business/energy/">Energy</a></p>
+<p class="sub_category_title"><a href="/business/finance/">Finance</a></p>
+<p class="sub_category_title"><a href="/business/finance-special/">Finance Special</a></p>
+<p class="sub_category_title"><a href="/business/it/">IT</a></p>
+<p class="sub_category_title"><a href="/business/manufacturing/">Manufacturing</a></p>
+<p class="sub_category_title"><a href="/business/media/">Media</a></p>
+<p class="sub_category_title"><a href="/business/real-estate/">Real estate</a></p>
+<p class="sub_category_title"><a href="/business/real-estate-special/">Real Estate Special</a></p>
+<p class="sub_category_title"><a href="/business/transport/">Transport</a></p>
+<p class="bgcolor-metro-1"><span class="more float_right"><a href="/metro/">View more »</a></span>Latest Metro News</p>
+<p class="bgcolor-metro-1">Explore Metro</p>
+<p class="sub_category_title"><a href="/metro/education/">Education</a></p>
+<p class="sub_category_title"><a href="/metro/entertainment-and-culture/">Entertainment and culture</a></p>
+<p class="sub_category_title"><a href="/metro/environment/">Environment</a></p>
+<p class="sub_category_title"><a href="/metro/expat-community/">Expat community </a></p>
+<p class="sub_category_title"><a href="/metro/health-and-science/">Health and science</a></p>
+<p class="sub_category_title"><a href="/metro/in-depth/">In-depth</a></p>
+<p class="sub_category_title"><a href="/metro/interactive/">Interactive </a></p>
+<p class="sub_category_title"><a href="/metro/public-services/">Services </a></p>
+<p class="sub_category_title"><a href="/metro/society/">Society </a></p>
+<p class="bgcolor-sport-1"><span class="more float_right"><a href="/sports/">View more »</a></span>Latest Sports News</p>
+<p class="bgcolor-sport-1">Explore Sports</p>
+<p class="sub_category_title"><a href="/sports/american-football/">American football </a></p>
+<p class="sub_category_title"><a href="/sports/athletics/">Athletics </a></p>
+<p class="sub_category_title"><a href="/sports/awards/">Awards </a></p>
+<p class="sub_category_title"><a href="/sports/badminton/">Badminton </a></p>
+<p class="sub_category_title"><a href="/sports/baseball/">Baseball </a></p>
+<p class="sub_category_title"><a href="/sports/basketball/">Basketball </a></p>
+<p class="sub_category_title"><a href="/sports/boxing/">Boxing </a></p>
+<p class="sub_category_title"><a href="/sports/cricket/">Cricket </a></p>
+<p class="sub_category_title"><a href="/sports/cycling/">Cycling </a></p>
+<p class="sub_category_title"><a href="/sports/diving/">Diving </a></p>
+<p class="sub_category_title"><a href="/sports/doping/">Doping </a></p>
+<p class="sub_category_title"><a href="/sports/east-asian-games/">East Asian games </a></p>
+<p class="sub_category_title"><a href="/sports/golf/">Golf </a></p>
+<p class="sub_category_title"><a href="/sports/gymnastics/">Gymnastics </a></p>
+<p class="sub_category_title"><a href="/sports/ice-hockey/">Ice hockey </a></p>
+<p class="sub_category_title"><a href="/sports/motor-racing/">Motor racing</a></p>
+<p class="sub_category_title"><a href="/sports/motorcycling/">Motorcycling</a></p>
+<p class="sub_category_title"><a href="/sports/olympics/">Olympics</a></p>
+<p class="sub_category_title"><a href="/sports/rugby/">Rugby</a></p>
+<p class="sub_category_title"><a href="/sports/sailing/">Sailing </a></p>
+<p class="sub_category_title"><a href="/sports/skating/">Skating </a></p>
+<p class="sub_category_title"><a href="/sports/skiing/">Skiing </a></p>
+<p class="sub_category_title"><a href="/sports/snooker/">Snooker </a></p>
+<p class="sub_category_title"><a href="/sports/soccer/">Soccer </a></p>
+<p class="sub_category_title"><a href="/sports/swimming/">Swimming </a></p>
+<p class="sub_category_title"><a href="/sports/table-tennis/">Table tennis</a></p>
+<p class="sub_category_title"><a href="/sports/tennis/">Tennis </a></p>
+<p class="bgcolor-feature-1"><span class="more float_right"><a href="/feature/">View more »</a></span>Latest Feature News</p>
+<p class="bgcolor-feature-1">Explore Feature</p>
+<p class="sub_category_title"><a href="/feature/animal-planet/">Animal planet</a></p>
+<p class="sub_category_title"><a href="/feature/art-and-culture/">Art and culture</a></p>
+<p class="sub_category_title"><a href="/feature/community/">Community</a></p>
+<p class="sub_category_title"><a href="/feature/district-special/">District special</a></p>
+<p class="sub_category_title"><a href="/feature/education/">Education</a></p>
+<p class="sub_category_title"><a href="/feature/news-feature/">News Feature</a></p>
+<p class="sub_category_title"><a href="/feature/people/">People</a></p>
+<p class="sub_category_title"><a href="/feature/events-and-tv/">Events and TV</a></p>
+<p class="sub_category_title"><a href="/feature/health-and-environment/">Health and environment</a></p>
+<p class="sub_category_title"><a href="/feature/ideal/">iDEAL</a></p>
+<p class="sub_category_title"><a href="/feature/travel/">Travel</a></p>
+<p class="sub_category_title"><a href="/feature/mice/">Mice</a></p>
+<p class="sub_category_title"><a href="/feature/stylehai/">StyleHai</a></p>
+<p class="bgcolor-opinion-1"><span class="more float_right"><a href="/opinion/">View more »</a></span>Latest Opinion News</p>
+<p class="bgcolor-opinion-1">Explore Opinion</p>
+<p class="sub_category_title"><a href="/opinion/shanghai-daily-columnists/">Opinion Columns</a></p>
+<p class="sub_category_title"><a href="/opinion/book-review/">Book review</a></p>
+<p class="sub_category_title"><a href="/opinion/china-knowledge-wharton/">China Knowledge </a></p>
+<p class="sub_category_title"><a href="/opinion/chinese-perspectives/">Chinese Views</a></p>
+<p class="sub_category_title"><a href="/opinion/foreign-perspectives/">Foreign Views</a></p>
+<p class="sub_category_title"><a href="/opinion/global-lens-on-china/">Global Lens on China</a></p>
+<p class="bgcolor-opinion-1"><span class="more float_right"><a href="/opinion/shanghai-daily-columnists/">View more »</a></span>Opinion Columns</p>
+<p class="auxi_info">Opinion deputy editor of Shanghai Daily</p>
+<p> </p>
+<p class="bgcolor-sunday-1"><span class="more float_right"><a href="/vibe/">View more »</a></span>Latest Vibe News</p>
+<p class="bgcolor-sunday-1">Explore Vibe</p>
+<p class="sub_category_title"><a href="/sunday/book/">Book</a></p>
+<p class="sub_category_title"><a href="/sunday/city-scene/">City scene</a></p>
+<p class="sub_category_title"><a href="/sunday/film/">Film</a></p>
+<p class="sub_category_title"><a href="/sunday/home-and-design/">Home and design</a></p>
+<p class="sub_category_title"><a href="/sunday/now-and-then/">Now and then</a></p>
+<p class="sub_category_title"><a href="/sunday/style/">Style</a></p>
+<p class="sub_category_title"><a href="/sunday/technology/">Technology</a></p>
+<p class="histroy_tree">
+<a href="/">Home</a> » <a href="/lastestnews/latest_news.aspx">Latest News</a></p>
+<p>BEIJING, March 13 (Xinhua) -- Growth in China's retail sales slowed to 11.8 percent, or 4.23 trillion yuan (690 billion U.S. dollars), year on year in the first two months of the year, the National Bureau of Statistics (NBS) said on Thursday.</p>
+<p> </p>
+<p> </p>
+<p>The growth rate in December stood at 12.3 percent.</p>
+<p> </p>
+<p> </p>
+<p>Urban consumption in the first two months amounted to 3.65 trillion yuan, up 11.7 percent year on year. Rural residents spent 581.4 billion yuan, up 12.8 percent, the NBS data showed.</p>
+<p> </p>
+<p> </p>
+<p>The catering sector reported 441.4 billion yuan in revenues, up 9.6 percent year on year, while retail sales of consumer goods stood at 3.8 trillion yuan, up 12.1 percent.</p>
+<p> </p>
+<p> </p>
+<p>After being adjusted for inflation, retail sales went up 10.8 percent in the first two months.</p>
+<p>
+         </p>
+<p>
+        Copyright © 1999-<span id="year"></span> Shanghai Daily. All rights reserved.Preferably
+        viewed with Internet Explorer 8 or newer browsers.
+    </p>
+<p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">沪公网安备 31010602000204号</p>
+<p class="error"></p>
+<p style="background: url(/images/share/icon-success.gif) no-repeat left center; padding-left: 30px; height: 24px; line-height: 24px; margin-top: 10px; font-weight: 600; color: #333;">Congratulations! Your email has been sent!</p>
+<p style="margin-top: 20px; padding-left: 30px;">Thanks for sharing. Would you like to sign up for our daily newsletter?</p>
+<p style="font-size: 16px; color: #999;">7x per week</p>
+<p class="btn-no">No thanks.</p>

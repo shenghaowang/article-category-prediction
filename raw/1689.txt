@@ -1,0 +1,47 @@
+<p>Thanks for contacting us. We've received your submission.</p>
+<p class="section-tag">
+<a class="background-color" href="/news/">News</a>
+</p>
+<p class="byline">By <a class="michelle-celarier" href="https://nypost.com/author/michelle-celarier/">Michelle Celarier</a></p>
+<p class="contact-submit">
+<input class="pushbutton-wide" type="submit" value="Submit »"/>
+<input name="contact-form-id" type="hidden" value="widget-text-4"/>
+<input name="action" type="hidden" value="grunion-contact-form"/>
+<input name="contact-form-hash" type="hidden" value="c4b73003bd4b26a16a066823ea46f34274e30536"/>
+</p>
+<p class="byline-date">
+									March 11, 2014 <span class="separator">|</span> 2:09pm
+												</p>
+<p>Steve Cohen’s SAC Capital Advisors has renamed itself Point72 Asset Management.</p>
+<p>The new name, a reference to the Stamford, Conn., firm’s address at 72 Cummings Point Road, was revealed Tuesday in a memo to employees. The change takes effect next month.</p>
+<p>The name change and transfer of employees comes as SAC’s settlement and guilty plea to criminal insider-trading charges goes before a federal judge on April 10, when it may or may not be approved.</p>
+<p>“Our two new long/short trading divisions will do business as Point72 Asset Management and EverPoint Asset Management,” SAC President Tom Conheeney wrote in the memo, a copy of which was obtained by The Post.</p>
+<p>A third SAC operation, its multi-quant business, will be called Cubist Systematic Strategies, a nod to Cohen’s status as a major modern art investor.</p>
+<p>Conheeney said Cohen and senior management decided the firm’s “path forward” as a family office would be easier under “new legal entities and new names.”</p>
+<p>Teams from the soon-to-be-renamed CR Intrinsic, Sigma and SAC — all divisions where insider trading took place — will move to Point72 in Stamford and EverPoint in New York City. Employee transfers are scheduled for April 7. Cohen’s private investments will be managed by Cohen Private Ventures.</p>
+<p>As part of the deal SAC struck with US Attorney Preet Bharara, the firm agreed to return all outside investor money, accepted a probationary period of five years and has to pay for an independent compliance consultant.</p>
+<p>“We have been through a great deal during the past few years,” the memo concluded. “Our new names, combined with the other changes we have announced, are intended to help us move forward.”</p>
+<p class="read-next">
+<a href="https://nypost.com/2014/03/11/donations-credit-card-data-stolen-from-joel-osteens-megachurch/">Read Next</a>
+</p>
+<p class="read-next-link">
+<a class="desktop postid-3472419" href="https://nypost.com/2014/03/11/donations-credit-card-data-stolen-from-joel-osteens-megachurch/">
+				$600K in donations stolen from Osteen's megachurch			</a>
+</p>
+<p class="read-next">
+<a href="https://nypost.com/2014/03/11/donations-credit-card-data-stolen-from-joel-osteens-megachurch/">Read Next</a>
+</p>
+<p class="read-next-link">
+<a class="desktop postid-3472419" href="https://nypost.com/2014/03/11/donations-credit-card-data-stolen-from-joel-osteens-megachurch/">
+				$600K in donations stolen from Osteen's megachurch			</a>
+</p>
+<p id="text-share-popup-title">Share Selection</p>
+<p class="share-count">73,150</p>
+<p class="share-count">65,085</p>
+<p class="share-count">39,348</p>
+<p>Post Digital Network</p>
+<p>
+<span id="copyright">© 2018 NYP Holdings, Inc. All Rights Reserved</span><span class="desktop"> | </span><a href="https://nypost.com/terms/">Terms of Use</a> | <a href="https://nypost.com/privacy/">Privacy</a> <span class="desktop">| <a href="https://nypost.com/privacy/#adchoices">Your Ad Choices</a></span> | <a href="https://nypost.com/sitemap/">Sitemap</a>
+</p>
+<p class="newscorp-slider-description">
+							News Corp. is a network of leading companies in the world of diversified media, news, and information services.						</p>

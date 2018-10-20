@@ -1,0 +1,19 @@
+<p class="link-comments">
+<a href="#comments">
+<span class="ico ico-comment"></span><span class="btn__text">See comments</span>
+</a>
+</p>
+<p class="link-print visible-md visible-lg">
+<button class="btn btn--link btn-print" onclick="if (typeof FireAnalyticsTagEvent === 'function') {FireAnalyticsTagEvent({ on_page_event: 'print_story' });}return false" title="(CTRL+P)">
+<span class="ico ico-print"></span>
+<span class="btn__text">Print</span>
+</button>
+</p>
+<p class="buttons btn--load-more">
+<a class="btn" href="/comments/a1868933p0.html" id="load-comments">
+<span class="btn__text ">
+Show comments
+</span>
+</a>
+</p>
+<p class="copyright"></p>

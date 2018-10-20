@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="Referer-policy" content="unsafe-url">
+
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=https://www.businesslive.co.za">
+    <title>Redirecting...</title>
+
+</head>
+
+<body>
+
+</body>
+
+</html>

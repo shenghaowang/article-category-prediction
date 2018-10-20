@@ -1,0 +1,31 @@
+<p class="date-today">
+<script type="text/javascript">
+var d_names = new Array("Sunday", "Monday", "Tuesday", "Wednesday",
+		"Thursday", "Friday", "Saturday");
+
+var m_names = new Array("January", "February", "March", "April", "May",
+		"June", "July", "August", "September", "October", "November",
+		"December");
+
+var d = new Date();
+var minutes = d.getMinutes();
+if (minutes < 10){minutes = "0"+minutes;}
+document.write('<strong>' + d_names[d.getDay()] + ', ' + d.getDate() + ' ' + m_names[d.getMonth()]
+		+ ' ' + d.getFullYear() + '</strong>');
+document.write(' | <em class="hour">' + d.getHours() + ':' + minutes + '</em>');
+</script>
+</p>
+<p class="cont"><input class="text" id="qt" name="any" type="text"/>
+<button class="button button-search" name="cerca" onclick="document.form-search.submit(); return false;" type="submit"><span>search</span></button>
+</p>
+<p class="meta">17 March, 11:20</p>
+<p>(ANSAmed) - NICOSIA - The north-Korean oil tanker Morning Glory, sighted off Cyprus last week, is being escorted by USA navy vessels as of early Monday morning οn a westerly course as Cna reports. The vessel, which is suspected of transporting stolen quantities of oil from the Sidra port in Libya, was outside the territorial waters of the Republic of  Cyprus during the weekend.<br/>
+<br/>
+A Ministry of Foreign Affairs press release issued here on Monday says the tanker has been since Saturday immobilised in international waters, southeast of Cyprus. Close to midnight on Sunday, the Cypriot authorities were aware of it moving in a westerly course, always within international waters. Republic of Cyprus vessels were deployed  monitoring the tanker's course.<br/>
+<br/>
+The vessel stopped once more 18 nautical miles south of Limassol.<br/>
+<br/>
+According to a briefing the Ministry had in the early hours of Monday, Morning Glory was placed under the control of the US Navy and is being escorted by US Navy vessels on a westerly course.(ANSAmed).</p>
+<p>The information system of <strong>business</strong><br/> <strong>opportunities abroad</strong></p>
+<p class="copy-info">© Copyright 2010 ANSAmed</p>
+<p class="nav-footer"><a href="/ansamed/en/contatti.html">Contacts</a> | <a href="http://www.ansa.it/web/static/disclaimer.html">Disclaimer</a> | <a href="http://www.ansa.it/web/static/privacy.html">Privacy</a> | <a href="http://www.ansa.it/web/static/copyright.html">Copyright</a></p>

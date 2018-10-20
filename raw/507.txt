@@ -1,0 +1,80 @@
+<p><span class="not-logged-in">Please purchase a subscription to continue reading.
+</span></p>
+<p><span class="logged-in">A subscription is required to continue reading.
+</span></p>
+<p class="not-logged-in">
+<strong>Thank you for reading 5 free articles.</strong> You can come back at the end of your 30-day period for another 5 free articles, or you can purchase a subscription and continue to enjoy valuable local news and information. If you are a current 7-day subscriber you are granted an all-access pass to the website and digital newspaper replica. Please click Sign Up to subscribe, or Login if you are already a member.
+</p>
+<p class="logged-in">
+<strong>Thank you for reading 5 free articles.</strong> You can come back at the end of your 30-day period for another 5 free articles, or you can purchase a subscription and continue to enjoy valuable local news and information. If you are a current 7-day subscriber you are granted an all-access pass to the website and digital newspaper replica. Please click below to Get Started.
+</p>
+<p>Please <span class="not-logged-in">log in, or sign up for a new account</span> to continue reading.</p>
+<p><strong>Thank you for Reading.
+</strong> We hope that you continue to enjoy our free content.</p>
+<p>Please purchase a subscription to continue reading.
+</p>
+<p>
+<strong>Thank you for reading 5 free articles.</strong> You can come back at the end of your 30-day period for another 5 free articles, or you can purchase a subscription and continue to enjoy valuable local news and information. If you are a current 7-day subscriber you are granted an all-access pass to the website and digital newspaper replica. Please click Sign Up to subscribe, or Login if you are already a member.
+</p>
+<p>A subscription is required to continue reading.
+</p>
+<p>
+<strong>Thank you for reading 5 free articles.</strong> You can come back at the end of your 30-day period for another 5 free articles, or you can purchase a subscription and continue to enjoy valuable local news and information. If you are a current 7-day subscriber you are granted an all-access pass to the website and digital newspaper replica. Please click below to Get Started.
+</p>
+<p>Your current subscription does not provide access to this content.
+</p>
+<p><strong>Sorry</strong>, this zipcode is not in our deliverable area for this subscription service.</p>
+<p>Re-enter zip code or sign up for digital access.</p>
+<p class="text-right"><a class="alert-link" href="/users//admin/service/purchase/?services=digital">Get digital access</a></p>
+<p>Please confirm you are in our delivery area</p>
+<p>Partly cloudy. High 63F. Winds W at 10 to 15 mph..</p>
+<p>Partly cloudy skies. Low 38F. Winds WNW at 10 to 20 mph.</p>
+<p class="text-center"><small><i class="fas tnt-info-circle"></i> Updated: October 20, 2018 @ 1:03 pm</small></p>
+<p><span class="dateline">PETERSBURG</span> — It’s not hard to find the people who fall in the coverage gap for health insurance.</p>
+<p>Carol Norwood has an aneurysm on her aorta. It’s not big enough to require surgery, and her income as a part-time Walmart employee isn’t large enough to qualify for subsidies to buy health insurance in the new federal marketplace. She has to pay the full cost of care out of her pocket.</p>
+<p>“It’s really hard without insurance,” said Norwood, who showed up at the Appomattox Area Health and Wellness Center for care.</p>
+<p>Across the table, 20-year-old Diamond Stith works at a local funeral home, but her pay is about $400 short of qualifying for insurance on the federal exchange. She was kicked off her mother’s policy when she turned 18, but can’t get back on now because she files her own taxes.</p>
+<p>“I’m kind of stuck honestly. … I’m not making enough to get insurance,” Stith told Secretary of Health and Human Resources Bill Hazel.</p>
+<p>But while Hazel was making a swing through Southside Virginia on Wednesday to promote a plan for using federal funds to close the coverage gap for the working poor, Republican legislators were rallying across the Appomattox River at an insurance agency in Colonial Heights that is paying the price for the transformation of the health insurance market under the Affordable Care Act.</p>
+<p>“However you slice the fuzzy math coming out of the White House, fewer people are covered than were before,” said Frank Lundie, owner of a financial and insurance services business on Boulevard, the city’s version of Main Street.</p>
+<p>Welcome to the lull before the storm, as members of the General Assembly and Gov. Terry McAuliffe’s administration square off in community health centers and political rallies before coming back to Richmond on March 24. In that special session, they will debate whether to extend health coverage to hundreds of thousands of people through a plan embedded in the Senate budget and adamantly opposed by the House of Delegates.</p>
+<p>The standoff already has raised objections among local government officials such as Scott Davis, mayor of Colonial Heights. The Colonial Heights City Council passed a resolution last week urging the governor and Senate to “de-couple” the insurance plan from the state budget, which provides 30 percent of the city’s annual budgets.</p>
+<p>“That’s a big number in any locality,” Davis said.</p>
+<p>So is the cost of insurance for the employees of Commtronics of Virginia, a vendor of two-way radios that pays part of the cost of health insurance for its 28 employees, even though it doesn’t have to under the federal health care law.</p>
+<p>“You can’t keep good employees if you don’t,” said Wes Caudill, a Colonial Heights native who is sales manager at the business.</p>
+<p>Caudill said the cost of insurance premiums has soared under the law, putting a burden on employees who pay for part of their coverage and all of their families’.</p>
+<p>“It’s such a big problem that everybody’s in the middle of it,” he said.</p>
+<p>Boards of supervisors in Hanover County and New Kent County have passed similar resolutions to the one Colonial Heights approved.</p>
+<p>The Chesterfield County Board of Supervisors expects to act on its budget April 9, but it isn’t considering a resolution on the state budget and health insurance issues, said County Administrator James J.L. Stegmaier.</p>
+<p>“We’d prefer to have (a state budget) sooner than later so we’re dealing with some meaningful knowledge of the state budget at the time the board has to adopt the county budget,” Stegmaier said. “Right now, I don’t anticipate that there is a Board of Supervisors resolution on the issue.”</p>
+<p>County Manager John A. Vithoulkas said Henrico County is not likely to consider a resolution on the state budget impasse.</p>
+<p>Standing in front of Lundie’s agency, House Speaker William J. Howell, R-Stafford, and House Majority Leader M. Kirkland Cox, R-Colonial Heights, led a chorus of denunciations of “Obamacare,” as the law often is called because of its principal champion, President Barack Obama.</p>
+<p>“Obamacare is being woven into the budget,” Howell said.</p>
+<p>Hazel’s message on the other side of the Tri-Cities is that the Senate plan would take advantage of taxes that Virginians already are paying to insure people whose care already is subsidized through higher private insurance premiums and public subsidies for indigent care at hospitals across the state.</p>
+<p>“It’s not like we’re raising your taxes — that’s done,” he told two dozen employees and patients at the center, part of Central Virginia Health Services, a federally qualified community health center. “The trick is getting your money back.”</p>
+<p>Cox countered that Virginia gets “more than its fair share” of federal taxes back in federal spending. “The taxes (under the Affordable Care Act) aren’t all going to go to Medicaid expansion,” he said.</p>
+<p>McAuliffe has urged legislative opponents to go home and talk with their constituents, especially the employees of hospitals that stand to gain from expansion but also have the most to lose if it doesn’t happen. That’s why Hazel is meeting with health centers and hospitals around the state, including three hospitals in Southwest Virginia that he said are operating in the red.</p>
+<p>But opponents such as Cox say they are confident their constituents don’t want Medicaid expansion and do want the assembly to do its job in approving a budget.</p>
+<p>In addition to reaching out to government leaders anxious over their budgets, he said he’s going to be talking to chapters of the American Legion, Rotary and Kiwanis clubs, and senior citizen groups. He’s particularly keen on military veterans he described as “furious” over cutbacks in the Tricare insurance program for military members and their families.</p>
+<p>Gaveling out the 2014 legislative session, it seems, only ushered in new venues for the debate.</p>
+<p>House Republicans are promoting a petition — <a href="http://www.passthebudgetterry.com/">www.passthebudgetterry.com</a>. Some House Democrats have launched their own — <a href="http://coverallva.com/">coverallva.com</a>.</p>
+<p>A collection of organizations sponsored a health care rally Saturday on Capitol Square to advocate for expansion of Medicaid. The groups behind it include Virginia New Majority, Virginia Interfaith Center for Public Policy, Virginia Coalition of Latino Americans, Virginia AFL-CIO, SEIU Virginia 512, ProgressVA, Planned Parenthood Advocates of Virginia and AARP Virginia, according to organizers.</p>
+<p>Lawmakers are reaching out to constituents in different ways as well. Several House Democrats are hosting “closing the coverage gap” town halls with Hazel, including Dels. Marcus B. Simon, D-Fairfax, and Patrick A. Hope, D-Arlington.</p>
+<p>Del. Jimmie Massie, R-Henrico, sent a lengthy email to constituents detailing his position on the issue and said last week that a mail piece could follow. He wants the Medicaid Innovation and Reform Commission, on which he serves, to continue its work, and to discuss expansion in a special session — not as part of the state budget.</p>
+<p>Del. John M. O’Bannon III, R-Henrico, and Sen. John Watkins, R-Powhatan, are on opposite sides of the issue as members of the conference committee on the budget. They also differ on what their constituents are telling them.</p>
+<p>Since adjournment on March 8, O’Bannon said he had “talked to some real people in the real world.”</p>
+<p>“I went to the Henrico Business League; I went to my Rotary Club,” he said. “Not a single person has come up to me and said, ‘You really ought to expand Medicaid.’ ”</p>
+<p>“I don’t see any groundswell” of support, he said.</p>
+<p>Watkins, as the principal author of the Senate’s Marketplace Virginia plan, said the reaction has been different in his district. “I probably have more in favor of what I’m doing than are speaking against it,” he said, citing a 2-1 ratio in favor of the plan.</p>
+<p>On Friday, a coalition that includes chambers of commerce and the Virginia Hospital &amp; Healthcare Association launched a radio, online and social media campaign to rally support for a private option plan. The radio ad asks listeners to join in urging state lawmakers to “put Virginia first, reject the politics of Washington and work together to return our tax dollars to help working Virginians.”</p>
+<p>Two members of the McDonnell administration — Matt Cobb, who worked under Hazel, and Janet Polarek Kelly, who worked as secretary of the commonwealth, recently registered as lobbyists for the hospital and health care association. Former Rep. Thelma Drake also recently registered, according to the Virginia Public Access Project.</p>
+<p>“We are working on finding support for a free-market alternative to expansion, namely a private-sector health insurance plan to close the coverage gap,” Kelly said in a statement about her work.</p>
+<p>“We are educating small and large businesses to help craft these options and are encouraging them to share their ideas with legislators.”</p>
+<p>Robin Tyler sees the coverage gap every day at the Appomattox center, where she works as a certified application counselor to help people qualify and shop for insurance on the marketplace. Since October, she has counseled 352 people, but only 136 qualified to apply for subsidies on the marketplace and 100 enrolled in health plans.</p>
+<p>The rest don’t make enough money to qualify, but they also aren’t eligible for benefits under Virginia’s Medicaid program, ranked 48th in the country for benefits per capita.</p>
+<p>“It’s been a shocking ordeal all around the board. … They need to be covered, but they can’t afford it,” Tyler said.</p>
+<p>Kim McNair is a caregiver who makes enough that she would qualify if she didn’t have three children as dependents. They’re on Medicaid, but she is not.</p>
+<p>“I don’t make enough money for insurance because I have three kids to take care of,” McNair told Hazel.</p>
+<p>The center, one of three that Central Virginia Health Services operates in the Tri-Cities area, treated 9,220 patients who made a combined 27,000 visits last year. The center provides medical and dental care, as well as services for behavioral health problems.</p>
+<p>“When we get to the point a patient needs specialty care or hospitalization, we are finished,” said Rod Manifold, the organization’s executive director. “That would be one of the problems that would be solved by closing the coverage gap.”</p>
+<p>Do you approve of Staunton renaming its high school?</p>

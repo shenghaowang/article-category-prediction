@@ -1,0 +1,50 @@
+<p class="global-nav__context-title"></p>
+<p class="form__fieldset-conditions">By subscribing, you agree to SBS’s <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions" rel="noopener" target="_blank">terms of service</a> and <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement" rel="noopener" target="_blank">privacy policy</a> including receiving email updates from SBS.</p>
+<p class="form__fieldset-title">Please select the editions you would like to sign up to</p>
+<p class="form__message-title"><span class="icon icon--tick"></span><strong>Thank you for signing up</strong></p>
+<p class="form__message-body"></p>
+<p class="form__message-title"><span class="icon"></span><strong>Sorry, it looks like an error occurred</strong></p>
+<p class="form__message-body">Please refresh the page and try again.</p>
+<p class="text-abstract__content">Gold futures prises have risen 1.8 per cent after disappointing data on China's economy and continuing concern over Ukraine-Russia tensions.</p>
+<p>Gold futures have climbed to a six-month high as investors seek to protect their wealth from the ripple effects of financial troubles in China and geopolitical tensions in Eastern Europe.</p>
+<p>Gold for April delivery, the most active contract, on Wednesday rose $US23.80, or 1.8 per cent, to settle at $US1,370.50 a troy ounce on the Comex division of the New York Mercantile Exchange. This was the highest close since $US1,386.70 reached on September 9.</p>
+<p>Gold prices have gained 14 per cent this year as instability in emerging markets and worries about US economic growth reinvigorated investor demand for the haven asset. Some traders view gold as safer than stocks or government bonds because it isn't linked to a particular country or government.</p>
+<p>Leaders of the Group of Seven (G7) advanced economies called on Russia to defuse the situation in Ukraine's Crimea region by reducing troop levels and halting annexation efforts. Russian troops have occupied Crimea since late February. Crimea will vote on Sunday whether to secede from Ukraine and join Russia. The G7 said it won't recognise the results of Crimea's referendum.</p>
+<p>"That rhetoric is adding uncertainty and tension into the market, and gold generally does well when there's uncertainty," said Mike Dragosits, a senior commodities strategist with TD Securities.</p>
+<p>Gold also drew investor interest as losses in copper prices mounted on worries about China's financial system. Copper futures have slumped 8.2 per cent since Thursday, after China allowed its first corporate bond default on the mainland market. Copper is a popular form of collateral that backs loans in China's shadow banking system. Investors worry that if other companies default on their debt, large amounts of metal will be released onto the market.</p>
+<p>"There are global concerns of a Chinese slowdown and people are questioning their ability to transition to a domestic(-driven) economy," said Adam Klopfenstein, a senior market strategist with Archer Financial Services LLC, a brokerage in Chicago.</p>
+<p>"When there's fear, people look to get in to gold."</p>
+<p>Another sign of gold's renewed popularity is rising gold holdings in exchange-traded funds that buy and store the metal on investors' behalf. SPDR Gold Shares, the world's largest gold-backed ETF, logged a 7.5-metric-ton gold purchase at the end of business on Monday, the largest such inflow since February 13. SPDR Gold Shares currently holds 812.7 tons of gold, up 1.8 per cent from the start of the year.</p>
+<p>Settlements (ranges include open-outcry and electronic trading):</p>
+<p>London PM Gold Fix: $US1,366.00; previous PM $US1,346.25</p>
+<p>Apr gold $US1,370.50, up $US23.80; Range $US1,345.60-$US1,371.30</p>
+<p>May silver $US21.358, up 54.3 cents; Range $US20.820-$US21.435</p>
+<p>Apr platinum $US1,476.30, up $US11.70; Range $US1,458.30-$US1,481.80</p>
+<p>Jun palladium $US777.15, up 0.65 cents; Range $US772.05-$US783.70</p>
+<p class="connect-sbs__title">Stay up to date with SBS NEWS</p>
+<p class="tab__title">SBS News App</p>
+<p class="tab__description">Download our free app on the App Store or Google Play for the latest headlines and breaking news alerts.</p>
+<p class="tab__footnote">We love feedback: help us improve by rating the app and sharing your suggestions at <a href="mailto:apps@sbs.com.au" title="apps@sbs.com.au">apps@sbs.com.au</a></p>
+<p class="form__fieldset-title">News to your inbox</p>
+<p class="form__fieldset-description">Sign up now for the latest news from Australia and around the world direct to your inbox.</p>
+<p class="form__fieldset-conditions">By subscribing, you agree to SBS’s <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions" rel="noopener" target="_blank">terms of service</a> and <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement" rel="noopener" target="_blank">privacy policy</a> including receiving email updates from SBS.</p>
+<p class="form__fieldset-title">Please select the editions you would like to sign up to</p>
+<p class="form__message-title"><span class="icon icon--tick"></span><strong>Thank you for signing up</strong></p>
+<p class="form__message-body"></p>
+<p class="form__message-title"><span class="icon"></span><strong>Sorry, it looks like an error occurred</strong></p>
+<p class="form__message-body">Please refresh the page and try again.</p>
+<p class="tab__title">SBS News on social</p>
+<p class="tab__description">Follow SBS News to join in the conversation and never miss the latest live updates.</p>
+<p class="tab__title">Latest News podcasts</p>
+<p class="tab__description">Ask <a href="https://www.sbs.com.au/news/sbs-news-bulletins-to-be-available-via-amazon-alexa" onclick="sbs_s.linkTrackVars='None';sbs_s.linkTrackVars='contextData.marketing-module';sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen.alexa';sbs_s.tl(true,'o','Marketing-Module');" title="Amazon Alexa">Amazon Alexa</a> for the latest SBS News or listen to <a href="https://www.sbs.com.au/radio/article/2015/03/07/download-sbs-radios-free-mobile-app" onclick="sbs_s.linkTrackVars='None';sbs_s.linkTrackVars='contextData.marketing-module';sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen.sbsRadio';sbs_s.tl(true,'o','Marketing-Module');" title="SBS Radio">SBS Radio</a>.</p>
+<p class="tab__title">Daily Bulletin</p>
+<p class="tab__description">Watch SBS World News live daily at 6:30pm on TV and <a class="custom_action" href="#" onclick="sbs_s.linkTrackVars='None';sbs_s.linkTrackVars='contextData.marketing-module';sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch.ourApp';sbs_s.tl(true,'o','Marketing-Module');" title="our app">on our app</a>. Catch up on <a href="https://www.sbs.com.au/ondemand/program/sbs-world-news" onclick="sbs_s.linkTrackVars='None';sbs_s.linkTrackVars='contextData.marketing-module';sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch.od';sbs_s.tl(true,'o','Marketing-Module');" title="SBS On Demand">SBS On Demand</a>.</p>
+<p class="headline preview__headline"><a href="/news/morrison-government-loses-majority-as-phelps-stuns-wentworth-with-unprecedented-win">Morrison government loses majority as Phelps stuns Wentworth with unprecedented win</a></p>
+<p class="headline preview__headline"><a href="/news/scott-morrison-rallies-liberals-after-defeat">Scott Morrison rallies Liberals after defeat</a></p>
+<p class="headline preview__headline"><a href="/news/government-to-boycott-saudi-summit-over-khashoggi-killing-payne">Government to boycott Saudi summit over Khashoggi killing: Payne</a></p>
+<p class="headline preview__headline"><a href="/news/massive-downpour-fails-to-dampen-invictus-spirit">Massive downpour fails to dampen Invictus spirit</a></p>
+<p class="headline preview__headline"><a href="/news/us-lottery-prize-climbs-to-a-record-2-2-billion">US lottery prize climbs to a record $2.2 billion</a></p>
+<p class="headline preview__headline"><a href="/news/migrant-caravan-heading-to-us-stopped-by-mexican-riot-police">Migrant caravan heading to US stopped by Mexican riot police</a></p>
+<p class="headline preview__headline"><a href="/news/trump-saudi-explanation-of-journalist-khashoggi-death-credible">Trump: Saudi explanation of journalist Khashoggi death credible</a></p>
+<p class="headline preview__headline"><a href="/news/grief-and-anger-in-india-as-families-mourn-train-deaths">Grief and anger in India as families mourn train deaths</a></p>
+<p class="headline preview__headline"><a href="/news/sale-of-21st-century-marie-antoinette-s-jewels-on-show-before-auction">'Sale of 21st century': Marie Antoinette's jewels on show before auction</a></p>

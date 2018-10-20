@@ -1,0 +1,14 @@
+<p class="notify-txt">Desktop notifications are on   | <a class="turn-off" href="">Turn off</a> </p>
+<p class="headline">Get breaking news alerts from <span class="wp-txt"> The Washington Post </span></p>
+<p class="notify-txt">Turn on desktop notifications?</p>
+<p>The Obama administration announced Monday that more than 5 million people have signed up for new insurance plans under the health-care law, suggesting new momentum as the March 31 deadline for coverage this year approaches.</p>
+<p>About 800,000 people have selected health plans on the state and federal insurance marketplaces this month, officials said in a <a href="http://www.hhs.gov/healthcare/facts/blog/2014/03/marketplace-enrollment-hits-5-million.html" title="www.hhs.gov">blog post</a> — almost as many as signed up during <a href="http://www.washingtonpost.com/national/health-science/pace-of-health-exchange-enrollment-slows-in-february-figures-show/2014/03/11/6eb32e16-a93d-11e3-8d62-419db477a0e6_story.html" title="www.washingtonpost.com">all of February</a>. The figure brings the administration closer to Congressional Budget Office projections that 6 million people would enroll by the end of March.</p>
+<p>Officials had predicted that the pace of enrollments would pick up this month, because March 31 is the last day to sign up for a marketplace plan and avoid a fine. The health law requires most Americans to have health insurance or incur a penalty of $95 or 1 percent of their income this year, whichever is higher.</p>
+<p>Officials have not said how many of those who have enrolled have paid their initial premiums.</p>
+<p>Related stories:</p>
+<p> <a href="http://www.washingtonpost.com/blogs/post-politics/wp/2013/11/07/have-you-used-the-new-health-insurance-exchanges/" title="www.publicinsightnetwork.org">Have you used the new exchanges? Share your story here</a> </p>
+<p> <a href="http://www.washingtonpost.com/politics/obamacare-understanding-the-affordable-care-act/c120bd22-27be-11e3-b3e9-d97fb087acd6_topic.html" title="www.washingtonpost.com">Understanding the Affordable Care Act</a> </p>
+<p> <a href="http://www.washingtonpost.com/blogs/wonkblog/wp/2013/10/17/your-obamacare-questions-answered/" title="www.washingtonpost.com">Your Obamacare questions, answered</a> </p>
+<p> <a href="http://www.washingtonpost.com/blogs/wonkblog/wp/2013/10/24/everything-you-need-to-know-about-obamacares-problems/" title="www.washingtonpost.com">Everything you need to know about the health-care law’s problems</a> </p>
+<p class="series-sell todo"> Sign up for email updates from the "Confronting the Caliphate" series. </p>
+<p class="series-sell complete"> You have signed up for the "Confronting the Caliphate" series. </p>

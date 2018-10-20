@@ -1,0 +1,19 @@
+<p>E-commerce company on path to becoming global giant after ending months of speculation about where it will list</p>
+<p class="byline" data-component="meta-byline" data-link-name="byline">Associated Press</p>
+<p aria-hidden="true" class="content__dateline">
+<time class="content__dateline-wpd js-wpd" data-timestamp="1395026242000" datetime="2014-03-17T03:17:22+0000" itemprop="datePublished">
+Mon 17 Mar 2014 <span class="content__dateline-time">03.17 GMT</span>
+</time>
+<time class="content__dateline-lm js-lm u-h" data-timestamp="1399480166000" datetime="2014-05-07T17:29:26+0100" itemprop="dateModified">
+Last modified on Wed 7 May 2014 <span class="content__dateline-time">17.29 BST</span>
+</time>
+</p>
+<p>Chinese e-commerce giant <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="https://www.theguardian.com/business/alibaba">Alibaba</a> Group plans to go public on a U.S. stock exchange, possibly raising up to $15 billion in the biggest initial public offering since Facebook.</p>
+<p>The announcement on Sunday confirming plans for a US share sale ended months of speculation over where the company would list after talks for an initial public offering in Hong Kong fell apart last year.</p>
+<p>Alibaba is one of the world’s biggest internet companies and says more than $150bn worth of merchandise changes hands on its online platforms each year, more than Amazon and eBay combined.</p>
+<p>The company began as a service to link Chinese suppliers with retailers abroad and has branched out into retail e-commerce. It is little known abroad but has launched two consumer-oriented services in the United States.</p>
+<p>“Alibaba Group has decided to commence the process of an initial public offering in the United States,” the company said in a statement. “This will make us a more global company and enhance the company’s transparency, as well as allow the company to continue to pursue our long-term vision and ideals.”</p>
+<p>It gave no details of the timing or size of the initial public offering or on which exchange it would take place.</p>
+<p>Analysts have estimated that an Alibaba IPO could raise up to $15bn and value the company at more than $100bn. Facebook’s IPO in June last year raised $16bn and at the time valued the company at more than $100bn.</p>
+<p>Alibaba is one of a number of Chinese internet heavyweights planning to cash in with IPOs amid rapid growth. The announcement comes two days after Chinese internet company Sina’s Weibo microblog unit filed plans for a possible share sale in the US. </p>
+<p>Weibo, China’s equivalent of Twitter, indicates it plans to raise $500m. Another Chinese online retailing giant, JD.com, filed in January for a U.S. stock listing.</p>

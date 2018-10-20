@@ -1,0 +1,21 @@
+<p class="temperature">15</p>
+<p>M/CLOUDY</p>
+<p>
+<a href="https://www.japantimes.co.jp/" title="Return to The Japan Times Home Page"><img alt="The Japan Times" src="https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/img/japantimes-logo.png"/>
+</a>
+</p>
+<p class="credit">AP</p>
+<p><span class="dateline">WASHINGTON – </span>Finding a missing Malaysia Airlines plane may depend on whether searchers can narrow down where they need to look using satellite data that is inexact and has never been used for that purpose before, search and rescue experts say.</p>
+<p>Authorities now believe someone on board the Boeing 777 shut down part of the aircraft’s messaging system at about the same time the plane disappeared from civilian radar. But an Inmarsat satellite was able to automatically connect with a portion of the messaging system that remained in operation, similar to a phone call that keeps ringing because no one picks it up. No location data were exchanged, but the satellite continued to identify the plane once an hour for four to five hours after it disappeared from radar screens.</p>
+<p><!-- /4973089/article_1 -->
+<div class="jt_content_ad" id="div-gpt-ad-1499653692894-0">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1499653692894-0'); });
+</script>
+</div></p>
+<p>Based on the hourly connections with the plane, described by a U.S. official as a “handshake,” the satellite knows at what angle to tilt its antenna to be ready to receive a message from the plane should one be sent. Using that antenna angle plus radar data, investigators have been able to draw two vast arcs from northern Thailand to Kazakhstan and Turkmenistan, and from Indonesia to the southern Indian Ocean. The plane is believed to be somewhere along those arcs.</p>
+<p>Air crash investigators have never used this kind of satellite data before to try to find a missing plane, but after pursuing other leads, it is the best clue left.</p>
+<p>
+<a href="https://www.japantimes.co.jp/tag/malaysia/" rel="tag">Malaysia</a>, <a href="https://www.japantimes.co.jp/tag/china/" rel="tag">China</a>, <a href="https://www.japantimes.co.jp/tag/accident/" rel="tag">accident</a>, <a href="https://www.japantimes.co.jp/tag/airlines/" rel="tag">airlines</a>, <a href="https://www.japantimes.co.jp/tag/vietnam/" rel="tag">Vietnam</a>, <a href="https://www.japantimes.co.jp/tag/malaysia-airlines/" rel="tag">Malaysia Airlines</a>, <a href="https://www.japantimes.co.jp/tag/flight-mh370/" rel="tag">Flight MH370</a> </p>
+<p class="pagetop"><a href="#page" id="top_jump" title="Back to top"></a></p>
+<p>The Japan Times LTD. All rights reserved.</p>

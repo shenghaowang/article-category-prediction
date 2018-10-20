@@ -1,0 +1,24 @@
+<p class="post-meta">
+<span class="post-meta-author"><i class="fa fa-user"></i><a href="https://www.govconwire.com/author/anna-forrester/" title="">Anna Forrester </a></span>
+<span class="tie-date"><i class="fa fa-clock-o"></i>March 11, 2014</span>
+<span class="post-cats"><i class="fa fa-folder"></i><a href="https://www.govconwire.com/category/contract_awards/" rel="category tag">Contract Awards</a>, <a href="https://www.govconwire.com/category/news/" rel="category tag">News</a></span>
+<span class="post-views"><i class="fa fa-eye"></i>1,751 Views</span> </p>
+<p><strong><a href="https://www.govconwire.com/wp-content/uploads/2013/04/Digital-Globe.jpg"><img alt="DigitalGlobe" class=" wp-image-53189 alignleft" height="162" sizes="(max-width: 163px) 100vw, 163px" src="https://www.govconwire.com/wp-content/uploads/2013/04/Digital-Globe.jpg" srcset="https://www.govconwire.com/wp-content/uploads/2013/04/Digital-Globe.jpg 272w, https://www.govconwire.com/wp-content/uploads/2013/04/Digital-Globe-150x150.jpg 150w" width="163"/></a><a href="https://www.govconwire.com/?s=DigitalGlobe" target="_blank">DigitalGlobe</a></strong> (NYSE: DGI) has launched a program with its <em>Tomnod</em> crowdsourcing platform to help in the search of the <strong>Malaysia Airlines</strong> Boeing 777 jetliner that went missing on Saturday.</p>
+<p>The <em>FirstLook</em> subscription service works to compate pre- and post-event satellite imagery for emergency management functions,  the company <a href="http://www.digitalglobeblog.com/2014/03/10/missingmalayairjet/" target="_blank">said Monday</a>.</p>
+<p>Two DigitalGlobe satellites have collected images of the search area,  which includes the Gulf of Thailand and the South China Sea.</p>
+<p>Volunteer Tomnod users then analyze the images for clues to the possible location of the missing aircraft.</p>
+<p>Acquired by DigitalGlobe in 2013,  Tomnod has previously helped response and recovery activities in the aftermath of natural and man-made disasters such as Typhoon Haiyan in 2013.</p>
+<p class="post-tag">Tags <a href="https://www.govconwire.com/tag/boeing-777/" rel="tag">Boeing 777</a> <a href="https://www.govconwire.com/tag/crowdsourcing/" rel="tag">crowdsourcing</a> <a href="https://www.govconwire.com/tag/digitalglobe/" rel="tag">digitalglobe</a> <a href="https://www.govconwire.com/tag/featured/" rel="tag">featured</a> <a href="https://www.govconwire.com/tag/firstlook/" rel="tag">FirstLook</a> <a href="https://www.govconwire.com/tag/malaysia-airlines/" rel="tag">Malaysia Airlines</a> <a href="https://www.govconwire.com/tag/satellite-imagery/" rel="tag">satellite imagery</a> <a href="https://www.govconwire.com/tag/tomnod/" rel="tag">Tomnod</a></p>
+<p class="post-meta"><span class="tie-date"><i class="fa fa-clock-o"></i>October 19, 2018</span></p>
+<p class="post-meta"><span class="tie-date"><i class="fa fa-clock-o"></i>October 19, 2018</span></p>
+<p class="post-meta"><span class="tie-date"><i class="fa fa-clock-o"></i>October 19, 2018</span></p>
+<p>CACI International (NYSE: CACI) has landed the prime spot under a potential six-year, $174M multiple-award …</p>
+<p>Pacem Solutions International has completed its acquisition of tactical, operational and training equipment manufacturer Amtec Less Lethal …</p>
+<p>
+<input name="EMAIL" placeholder="Your email address" required="required" type="email"/>
+</p>
+<p>
+<input class="btn btn-default" type="submit" value="Subscribe"/>
+</p>
+<p>The premier source of breaking business news for the government contracting industry, GovCon Wire provides informative, to-the-point stories of the most significant contract awards, top-level executive moves, M&amp;A activities and financial results of the sector’s most notable players.</p>
+<p>GovCon Wire is always on top of the most recent contracting sector activity and is updated in real time as the news breaks.</p>

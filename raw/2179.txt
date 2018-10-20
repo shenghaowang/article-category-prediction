@@ -1,0 +1,59 @@
+<p class="w1"><a href="https://www.belfasttelegraph.co.uk/"><img alt="Belfast Telegraph" height="46" src="https://www.belfasttelegraph.co.uk/img/logo-belfast-b2.png"/></a></p>
+<p> Hi <span class="hi"></span>°C | Lo <span class="low"></span>°C <a class="change" href="#change"> | WEATHER</a> <a class="location" href=""><strong></strong></a></p>
+<p class="w132 cx-a">
+<a href="https://www.belfasttelegraph.co.uk/">Home</a>
+<small>›</small> <a href="https://www.belfasttelegraph.co.uk/news/">News</a>
+<small>›</small> <a href="https://www.belfasttelegraph.co.uk/news/world-news/">World</a>
+</p>
+<p>
+</p>
+<p>
+<time>March 16 2014</time>
+</p>
+<p>
+An unnamed Silicon Valley billionaire has purchased the world's most valuable life insurance policy, worth 201 million US dollars (£120 million).
+</p>
+<p>The man who cobbled the deal together said it took seven months and 19 insurance companies to put together a deal that surpasses a 100 million dollar policy sold to Hollywood mogul David Geffen in 1990.</p>
+<p>"No one company can afford to take a 201 million dollar hit," said Dovi Frances, the financial adviser who represents a "well-known billionaire".</p>
+<p>The Guinness Book of World Records announced the surpassing of Geffen's record on Thursday. Guinness officials spent about three months reviewing records, Mr Frances said.</p>
+<p>"It was worse than any audit you can think of," he said.</p>
+<p>Guinness credits Mr Frances with the record for selling the policy, surpassing UK life insurance salesman Peter Rosengard who helped put together Geffen's policy.</p>
+<p>Mr Frances is president of Santa Barbara-based SG LLC. The firm has represented the billionaire since he responded to a direct mail solicitation in 2010.</p>
+<p>Mr Frances said the tycoon wants to remain anonymous for two reasons: privacy and keeping the news from his benefactors, adding: "He wants his next of kin to keep working hard." </p>
+<p>He said the annual premium is in "the low single digits of millions of dollars". He said the insurance companies benefit from the deal by immediately investing the premium, and their risk is if the billionaire dies too soon.</p>
+<p>Mr Frances would not disclose the billionaire's age.</p>
+<p>Several billionaires have connections to Mr Frances's firm, including Google chairman Eric Schmidt and Palantir Technologies co-founder Joe Lonsdale.</p>
+<p>Mr Frances refused to discuss identity of the policyholder, and Elon Musk, the founder of Paypal, Tesla Motors and other start-ups, declined to tell the San Jose Mercury News whether he was the policyholder.</p>
+<p class="originalSource">
+</p>
+<p>Police in Afghanistan say a suicide bomber blew himself up in front of a polling station in Kabul.</p>
+<p><strong class="cx-a news">By Jill Richards</strong> Donald Trump has been criticised for praising a Republican congressman who body-slammed a journalist.</p>
+<p>A speeding train has crashed into a crowd watching fireworks during a religious festival in northern India, killing at least 60 people and injuring dozens more, police said.</p>
+<p>Two explosions were reported in Kabul hours after parliamentary election polls opened in Afghanistan.</p>
+<p class="error" id="quick_subscribe_error"></p>
+<p class="done" id="quick_subscribe_done"></p>
+<p>Today's news headlines, directly to your inbox.</p>
+<p class="field">
+<input id="f-ecemail" name="ecemail" placeholder="Email address" required="required" type="email"/>
+<button class="bx-a cx-a belfasttelegraph news" type="submit">Sign Up</button>
+</p>
+<p class="flag"><strong class="flag-b bx-a news">Nightlife</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Nightlife</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Entertainment</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a business">Food, Drink and Hospitality</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Brexit</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a ">Sunday Life</strong></p>
+<p class="flag"><strong class="flag-b bx-a entertainment">News</strong></p>
+<p class="flag"><strong class="flag-b bx-a ">Sunday Life</strong></p>
+<p class="flag"><strong class="flag-b bx-a business">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a life">Features</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a life">House and Home</strong></p>
+<p class="flag"><strong class="flag-b bx-a life">Features</strong></p>
+<p class="flag"><strong class="flag-b bx-a life">Food and Drink</strong></p>
+<p class="flag"><strong class="flag-b bx-a archive">Archive</strong></p>
+<p class="flag"><strong class="flag-b bx-a opinion">Opinion</strong></p>
+<p class="copys"><span>© Belfast Telegraph</span> <a href="http://www.inmplc.com/"><img alt="Logo Inm A" height="28" src="/img/logo-inm-b.png" width="96"/></a></p>

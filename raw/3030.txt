@@ -1,0 +1,44 @@
+<p id="bodyHolder_imgCaption">Libya's Prime Minister Ali Zeidan attends an interview with Reuters in Tripoli March 10, 2014.  REUTERS/Ismail Zitouny</p>
+<p id="bodyHolder_divTeaser"></p>
+<p id="bodyHolder_divDetails"></p>
+<p>Your feedback is important to us!</p>
+<p>We invite all our readers to share with us their views and comments about this article.</p>
+<p><u>Disclaimer:</u> Comments submitted by third parties on this site are the sole responsibility of the individual(s) whose content is submitted. The Daily Star accepts no responsibility for the content of comment(s), including, without limitation, any error, omission or inaccuracy therein. Please note that your email address will NOT appear on the site.</p>
+<p>
+<b><u>Alert:</u> If you are facing problems with posting comments, please note that you must verify your email with Disqus prior to posting a comment. follow this link to make sure your account meets the requirements. (<a href="http://bit.ly/vDisqus" target="blank">http://bit.ly/vDisqus</a>)</b>
+</p>
+<p id="bodyHolder_divSummary" style="text-align: left;">A North Korean-flagged tanker, carrying an "illegal" cargo of oil from a rebel-held terminal in eastern Libya, escaped the warships that were escorting it to port on Tuesday, MPs said.<br/><br/>Former rebels calling for autonomy for the eastern Cyrenaica region have been blockading Al-Sidra and other eastern oil export terminals since July.<br/><br/>Several ships have tried to dock at the rebel-held ports to take on oil but the North Korean-flagged Morning Glory, which docked on Saturday, is the first to actually do so. </p>
+<p id="toggle" style="display: none">
+<span>
+<a class="showLink" href="javascript:void(0);" id="toogle-show" onclick="showItems()">...</a>
+<a class="hideLink" href="javascript:void(0);" id="toogle-hide" onclick="showItems()" style="display: none;">
+<i class="fa fa-caret-up"></i>
+</a>
+</span>
+</p>
+<p id="trFooter2">
+</p>
+<p class="title">
+<a href="/PhotoGallery.aspx?id=2154" title="Pictures of the day">Pictures of the day</a>
+<time style="float:right;">Oct. 19, 2018</time>
+</p>
+<p class="title">
+<a href="/PhotoGallery.aspx?id=2153" title="Pictures of the day">Pictures of the day</a>
+<time style="float:right;">Oct. 18, 2018</time>
+</p>
+<p class="title">
+<a href="/PhotoGallery.aspx?id=2152" title="Pictures of the day">Pictures of the day</a>
+<time style="float:right;">Oct. 17, 2018</time>
+</p>
+<p>
+<a href="/TodaysIssue.aspx">Full list of today's paper »</a>
+</p>
+<p>
+<a href="http://www.pressreader.com/lebanon/the-daily-star-lebanon" target="_blank">View our e-paper »</a>
+</p>
+<p>
+<a href="/Subscribe.aspx">Subscribe »</a>
+</p>
+<p>
+            FOLLOW THIS ARTICLE
+        </p>

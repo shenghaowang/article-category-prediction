@@ -1,0 +1,39 @@
+<p class="fL">
+	   By continuing to use this site you consent to the use of cookies on your device as described in our 
+	   <a href="/cookie-policy" target="_blank">Cookie Policy</a> unless you have disabled them. You can change your <a href="/cookie-setting" target="_blank">Cookie Settings</a> at any time but parts of our site will not function correctly without them. 
+	   </p>
+<p class="fL">
+<span>
+<a href="/author/search/keyword/ani" target="_blank">ANI</a> 								  								  | 
+								  								  								  <news:geo_locations>Washington</news:geo_locations> 							  </span>
+<meta content="2014-03-17T09:54:30+05:30" itemprop="datePublished">
+<span content="2014-03-17" itemprop="datePublished">							  Last Updated at March 17, 2014 10:05 IST</span>
+</meta></p>
+<p>China's e-commerce giant Alibaba has reportedly confirmed that it will make its IPO debut in the US to reach the valuation of 130 billion dollars.</p>
+<p>The company said that a US IPO would make it a more global company and enhance the company's transparency.<script type="text/javascript">document.write("<!--");if(isUserBanner=="free"&&(displayConBanner==1))document.write("-->");</script><script>googletag.cmd.push(function(){googletag.defineOutOfPageSlot('/6516239/outofpage_1x1_desktop','div-gpt-ad-1490771277198-0').addService(googletag.pubads());googletag.pubads().enableSyncRendering();googletag.enableServices();});</script>
+<div class="article-middle-banner" id="div-gpt-ad-1490771277198-0">
+<script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1490771277198-0');});</script>
+</div>
+<script>var banHeight=$(".article-middle-banner iframe").height();if(banHeight<=1){$(".article-middle-banner").height(0);$(".article-middle-banner").next().next().remove();}</script><!-- INPAGE_BANNER --><script>displayConBanner=1;</script><p>According to Cnet, Alibaba, which controls nearly 80 percent of China's Internet shopping market, is expected to raise more than 15 billion dollars, which would directly challenge Facebook's record Internet IPO, which raised 16 billion dollars in 2012.</p><p>Alibaba provides marketplace platforms and provides listing and advertising services that allow merchants to sell goods directly to consumers.</p><p>The report said that Alibaba's public debut could be seen as a boon for Yahoo, which still owns 24 percent of the <a class="storyTags" href="/search?type=news&amp;q=china" target="_blank">China </a>e-commerce giant.</p><p>It is not confirmed on which US stock exchange Alibaba would list.</p>
+</p>
+<p>According to Cnet, Alibaba, which controls nearly 80 percent of China's Internet shopping market, is expected to raise more than 15 billion dollars, which would directly challenge Facebook's record Internet IPO, which raised 16 billion dollars in 2012.</p>
+<p>Alibaba provides marketplace platforms and provides listing and advertising services that allow merchants to sell goods directly to consumers.</p>
+<p>The report said that Alibaba's public debut could be seen as a boon for Yahoo, which still owns 24 percent of the <a class="storyTags" href="/search?type=news&amp;q=china" target="_blank">China </a>e-commerce giant.</p>
+<p>It is not confirmed on which US stock exchange Alibaba would list.</p>
+<p>PREVIOUS STORY</p>
+<p>NEXT STORY</p>
+<p>Copyrights © 2018 Business Standard Private Ltd. All rights reserved.</p>
+<p style="padding:10px;"><img alt="Business Standard" src="https://bsmedia.business-standard.com/include/_mod/site/html5/images/business-standard-logo.png" title="Business Standard"/></p>
+<p style="padding:10px;"><span class="fsubs_country_p2"><strong>Upgrade To Premium Services</strong></span></p>
+<p class="fsubs_country_p2"> Business Standard is happy to inform you of the launch of "Business Standard Premium Services"</p>
+<p class="fsubs_country_p2">As a premium subscriber you get an across device unfettered access to a range of services which include:</p>
+<p style="padding:10px;"><img alt="Business Standard" src="https://bsmedia.business-standard.com/include/_mod/site/html5/images/business-standard-logo.png" title="Business Standard"/></p>
+<p><span class="fsubs_country_p2" style="line-height:18px;"><strong>Premium Services </strong></span></p>
+<p><span class="fsubs_country_p2" style="line-height:18px;"><strong>In Partnership with <img alt="Fis Logo" src="https://bsmedia.business-standard.com/include/_mod/site/html5/images/fis-logo-130x58.png" style="vertical-align:bottom;"/></strong></span></p>
+<p class="fsubs_country_p2"><strong>Dear <span id="fis-username-popup">Guest</span>,</strong></p>
+<p class="fsubs_country_p2">Welcome to the premium services of Business Standard brought to you courtesy FIS.<br/>
+         Kindly visit the <span class="chk"><a href="/subscription-cart/manage">Manage my subscription page</a></span> to discover the benefits of this programme.<br/>
+<br/>
+         Enjoy Reading!<br/>
+         Team Business Standard
+      </p>

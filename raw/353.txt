@@ -1,0 +1,24 @@
+<p>ADVERTISEMENT</p>
+<p class="date">
+                Thursday, 13 Mar 2014
+                
+            </p>
+<p class="byline" id="slcontent_0_sleft_0_TopHeadTextByLine"></p>
+<p class="byline" id="slcontent_0_sleft_0_storyBylineContainer">
+</p>
+<p>ADVERTISEMENT</p>
+<p>ADVERTISEMENT</p>
+<p>ADVERTISEMENT</p>
+<p>Content Partner</p>
+<p>Our Radio Stations</p>
+<p></p>
+<p>Video On Demand</p>
+<p>site map <span class="arrow-normal"></span></p>
+<p>subscriptions <span class="arrow-normal"></span> </p>
+<p>other editions <span class="arrow-normal"></span> </p>
+<p>company info <span class="arrow-normal"></span> </p>
+<p>advertising <span class="arrow-normal"></span> </p>
+<p>policies <span class="arrow-normal"></span> </p>
+<p class="active">our network sites <span class="arrow-normal"></span> </p>
+<p class="">social media <span class="arrow-normal"></span> </p>
+<p>Copyright © 1995-<span id="spanCopyright"></span> Star Media Group Berhad (ROC 10894D)</p>

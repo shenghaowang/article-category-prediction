@@ -1,0 +1,73 @@
+<p class="global-nav__context-title"></p>
+<p class="form__fieldset-conditions">By subscribing, you agree to SBS’s <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions" rel="noopener" target="_blank">terms of service</a> and <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement" rel="noopener" target="_blank">privacy policy</a> including receiving email updates from SBS.</p>
+<p class="form__fieldset-title">Please select the editions you would like to sign up to</p>
+<p class="form__message-title"><span class="icon icon--tick"></span><strong>Thank you for signing up</strong></p>
+<p class="form__message-body"></p>
+<p class="form__message-title"><span class="icon"></span><strong>Sorry, it looks like an error occurred</strong></p>
+<p class="form__message-body">Please refresh the page and try again.</p>
+<p class="text-abstract__content">Losses on Asian markets came after healthy gains on most bourses last week and despite jobs growth in the United States.</p>
+<p>Asian markets tumbled following a surprisingly poor batch of economic data out of China, while revised Japanese figures showed 2013 growth was slower than expected.</p>
+<p>The losses came after healthy gains on most bourses last week and despite jobs growth in the United States, while investors are keeping an eye on events in Ukraine as leaders try to find a peaceful resolution to the crisis.</p>
+<p>Tokyo slipped 1.01 per cent, or 153.93 points, to 15,120.14, Sydney fell 0.93 per cent, or 50.8 points, to 5,411.5 and Seoul was 1.03 per cent lower, giving up 20.26 points, to end at 1,954.42.</p>
+<p>Shanghai dived 2.86 per cent, or 58.84 points, to 1,999.07 while Hong Kong sank 1.75 per cent, or 395.56 points, to 22,264.93.</p>
+<p>Beijing said on Saturday it had seen an unexpected trade deficit of $22.98 billion in February.</p>
+<p>The figure compared with a surplus of $14.8 billion in the same month last year, and a median forecast of an $US11.9 billion surplus. Exports fell 18.1 per cent and imports jumped 10.1 per cent.</p>
+<p>"It's hard to ignore a number that looks like that," said Sean Callow, senior currency strategist at Westpac Institutional Bank in Sydney.</p>
+<p>Those figures were followed the next day by news that inflation eased to 2.0 per cent in February, down from 2.5 per cent in January, leading to talk of possible deflation, which could delay much-needed investment and consumer spending.</p>
+<p>While authorities blame the country's holiday season for the weak results, they add to growing worries about the Chinese economy, with the latest surveys on its key manufacturing sector showing weakness.</p>
+<p>The sell-off on Monday is "symptomatic of the mood of the market to be spooked by any poor China numbers and to only take moderate comfort from strong numbers", he told Dow Jones Newswires.</p>
+<p>In Japan the government said Monday that gross domestic product growth was 0.2 per cent in the quarter to December and 1.5 per cent through 2013, slower than first thought.</p>
+<p>Preliminary figures last month showed GDP expanded 0.3 per cent in October-December period and 1.6 per cent over the year.</p>
+<p>While the data still marked Japan's best annual performance in three years, it will put the focus on the central bank as it begins a policy meeting later in the day, with speculation that it will announce a fresh batch of monetary easing measures.</p>
+<p>In currency trade the yen rose after seeing a sell-off for most of last week. In the afternoon the dollar fell to 103.15 yen from 103.24 yen in New York Friday.</p>
+<p>The euro fetched $1.3886 and 143.23 yen, against $1.3874 and 143.31 yen.</p>
+<p>The United States provided a broadly positive lead after official figures showed 175,000 jobs were created in February, rebounding from two disappointing winter-battered months, suggesting economic growth is still on track.</p>
+<p>On Wall Street the S&amp;P 500 edged up 0.05 per cent to its third record in four days and the Dow gained 0.19 per cent but the Nasdaq fell 0.37 per cent.</p>
+<p>In Kuala Lumpur flag-carrier Malaysia Airlines lost 20 per cent at one point after one of its 777 airliners went missing at the weekend with 239 people aboard, en route from Kuala Lumpur to Beijing. However, it clawed back a substantial part of that to sit four per cent lower in late trade.</p>
+<p>The broader market was down 0.50 per cent.</p>
+<p>Oil prices fell. New York's main contract, West Texas Intermediate for April delivery, was down 13 cents at $US102.45 and Brent North Sea crude for April fell 82 cents to $US108.18.</p>
+<p>Gold fetched $US1,339.80 an ounce at 1200 GMT (2300 AEDT) compared with $US1,348.20 late Friday.</p>
+<p>In other markets:</p>
+<p>-- Singapore closed down 0.31 per cent, or 9.63 points, at 3,126.63.</p>
+<p>Oversea-Chinese Banking Corporation eased 0.63 per cent to Sg$9.44 while Singapore Telecommunications also lost 0.28 per cent to Sg$3.61.</p>
+<p>-- Bangkok edged down 0.44 per cent or 6.03 points to close at 1,349.05.</p>
+<p>Coal producer Banpu fell 1.89 per cent or 26.00 points to close at 26.00 baht while telephone operator DTAC rose 1.40 per cent or 1.50 baht to close at 108.50 baht.</p>
+<p>-- Jakarta ended down 0.18 per cent, or 8.64 points, at 4,677.25.</p>
+<p>Palm oil firm Wilmar Cahaya Indonesia fell 6.43 per cent to 1,600 rupiah, while conglomerate Astra International gained 3.93 per cent to 7,275 rupiah.</p>
+<p>-- Kuala Lumpur dipped 0.56 per cent, or 10.20 points, to 1,822.06.</p>
+<p>Malaysia Airlines' stock lost 4.0 per cent to 0.24 ringgit after one of its planes disappeared off Malaysia. Genting Malaysia shed 1.9 per cent to 4.21.</p>
+<p>-- Mumbai rose 0.07 per cent or 15.04 points to end at 21,934.83 points.</p>
+<p>Oberoi Realty rose 10.54 per cent to 211.30 rupees per share and Ramco Cements rose 7.13 per cent to 199.05 rupees per share.</p>
+<p>-- Taipei fell 0.56 per cent, or 48.72 points, to 8,665.24.</p>
+<p>Taiwan Semiconductor Manufacturing Co. shed 1.31 per cent to Tw$113.0 while Fubon Financial Holdings was 1.89 per cent lower at Tw$41.5.</p>
+<p>-- Wellington eased 0.15 per cent, or 7.82 points, to 5,117.84.</p>
+<p>Telecom was down 0.20 per cent at NZ$2.455 and Fletcher Building slipped 0.40 per cent to NZ$9.86.</p>
+<p>-- Manila ended flat, edging up 5.40 points to 6,487.23.</p>
+<p>Philippine Long Distance Telephone gained 0.07 per cent to 2,802.00 pesos and International Container Terminal Services rose 0.70 per cent to 100.30 pesos, while Metro Pacific Investments advanced 2.25 per cent to 4.54 pesos.</p>
+<p class="connect-sbs__title">Stay up to date with SBS NEWS</p>
+<p class="tab__title">SBS News App</p>
+<p class="tab__description">Download our free app on the App Store or Google Play for the latest headlines and breaking news alerts.</p>
+<p class="tab__footnote">We love feedback: help us improve by rating the app and sharing your suggestions at <a href="mailto:apps@sbs.com.au" title="apps@sbs.com.au">apps@sbs.com.au</a></p>
+<p class="form__fieldset-title">News to your inbox</p>
+<p class="form__fieldset-description">Sign up now for the latest news from Australia and around the world direct to your inbox.</p>
+<p class="form__fieldset-conditions">By subscribing, you agree to SBS’s <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions" rel="noopener" target="_blank">terms of service</a> and <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement" rel="noopener" target="_blank">privacy policy</a> including receiving email updates from SBS.</p>
+<p class="form__fieldset-title">Please select the editions you would like to sign up to</p>
+<p class="form__message-title"><span class="icon icon--tick"></span><strong>Thank you for signing up</strong></p>
+<p class="form__message-body"></p>
+<p class="form__message-title"><span class="icon"></span><strong>Sorry, it looks like an error occurred</strong></p>
+<p class="form__message-body">Please refresh the page and try again.</p>
+<p class="tab__title">SBS News on social</p>
+<p class="tab__description">Follow SBS News to join in the conversation and never miss the latest live updates.</p>
+<p class="tab__title">Latest News podcasts</p>
+<p class="tab__description">Ask <a href="https://www.sbs.com.au/news/sbs-news-bulletins-to-be-available-via-amazon-alexa" onclick="sbs_s.linkTrackVars='None';sbs_s.linkTrackVars='contextData.marketing-module';sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen.alexa';sbs_s.tl(true,'o','Marketing-Module');" title="Amazon Alexa">Amazon Alexa</a> for the latest SBS News or listen to <a href="https://www.sbs.com.au/radio/article/2015/03/07/download-sbs-radios-free-mobile-app" onclick="sbs_s.linkTrackVars='None';sbs_s.linkTrackVars='contextData.marketing-module';sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen.sbsRadio';sbs_s.tl(true,'o','Marketing-Module');" title="SBS Radio">SBS Radio</a>.</p>
+<p class="tab__title">Daily Bulletin</p>
+<p class="tab__description">Watch SBS World News live daily at 6:30pm on TV and <a class="custom_action" href="#" onclick="sbs_s.linkTrackVars='None';sbs_s.linkTrackVars='contextData.marketing-module';sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch.ourApp';sbs_s.tl(true,'o','Marketing-Module');" title="our app">on our app</a>. Catch up on <a href="https://www.sbs.com.au/ondemand/program/sbs-world-news" onclick="sbs_s.linkTrackVars='None';sbs_s.linkTrackVars='contextData.marketing-module';sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch.od';sbs_s.tl(true,'o','Marketing-Module');" title="SBS On Demand">SBS On Demand</a>.</p>
+<p class="headline preview__headline"><a href="/news/morrison-government-loses-majority-as-phelps-stuns-wentworth-with-unprecedented-win">Morrison government loses majority as Phelps stuns Wentworth with unprecedented win</a></p>
+<p class="headline preview__headline"><a href="/news/scott-morrison-rallies-liberals-after-defeat">Scott Morrison rallies Liberals after defeat</a></p>
+<p class="headline preview__headline"><a href="/news/government-to-boycott-saudi-summit-over-khashoggi-killing-payne">Government to boycott Saudi summit over Khashoggi killing: Payne</a></p>
+<p class="headline preview__headline"><a href="/news/massive-downpour-fails-to-dampen-invictus-spirit">Massive downpour fails to dampen Invictus spirit</a></p>
+<p class="headline preview__headline"><a href="/news/us-lottery-prize-climbs-to-a-record-2-2-billion">US lottery prize climbs to a record $2.2 billion</a></p>
+<p class="headline preview__headline"><a href="/news/migrant-caravan-heading-to-us-stopped-by-mexican-riot-police">Migrant caravan heading to US stopped by Mexican riot police</a></p>
+<p class="headline preview__headline"><a href="/news/trump-saudi-explanation-of-journalist-khashoggi-death-credible">Trump: Saudi explanation of journalist Khashoggi death credible</a></p>
+<p class="headline preview__headline"><a href="/news/grief-and-anger-in-india-as-families-mourn-train-deaths">Grief and anger in India as families mourn train deaths</a></p>
+<p class="headline preview__headline"><a href="/news/sale-of-21st-century-marie-antoinette-s-jewels-on-show-before-auction">'Sale of 21st century': Marie Antoinette's jewels on show before auction</a></p>

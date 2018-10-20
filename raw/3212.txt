@@ -1,0 +1,15 @@
+<p>A Japanese newspaper is reporting that during the spectacular collapse of the Mt Gox Bitcoin exchange, the operation's servers were also suffering a large-scale DDOS attack.</p>
+<p>The Yomiuri Shimbun's English-language <i>Japan News</i> <a href="http://the-japan-news.com/news/article/0001103726">reports</a> that the attacks in early February reached 150,000 DDOS hits per second, “mostly from servers in the United States and Europe”.</p>
+<p><i>Japan News</i> notes that it doesn't require any special skill to launch a DDOS attack, citing Tetsutaro Uehara, a professor of information security at Ritsumeikan University: “DDoS attacks can be done without high-level hacking techniques.”</p>
+<p>Referring to attacks on Slovenian Bitstamp and Canada's <a href="http://www.theregister.co.uk/2014/03/04/bitcoin_bank_flexcoin_shuts_down_after_hackers_strike/">Flexcoin</a>, Uehara said: “It is possible that copycats turned their eyes on other exchanges after weaknesses in Mt. Gox’s system were found.”</p>
+<p>By February 10, Mt Gox threw its hands up in the air and suspended Bitcoin withdrawals. It later emerged that attackers had found a way to exploit the Mt Gox code to steal 850,000 Bitcoins worth hundreds of millions of dollars.</p>
+<p>Of the stolen Bitcoins, 750,000 belonged to customers and 100,000 were Mt Gox's own holdings.</p>
+<p>Mt Gox is under investigation in the US and Japan. ®</p>
+<p class="wptl btm">
+<span>Sponsored: </span>
+<a href="https://go.theregister.co.uk/tl/1790/-6625/following-bottomlines-journey-to-the-hybrid-cloud?td=wptl1790">Following Bottomline’s journey to the Hybrid Cloud</a>
+</p>
+<p class="foot_desc"><strong>The Register</strong> - Independent news and views for the tech community. Part of Situation Publishing</p>
+<p>Join our daily or weekly newsletters, subscribe to a specific section or set <a href="https://account.theregister.co.uk/alert/?create=1">News alerts</a></p>
+<p>Biting the hand that feeds IT © 1998–2018
+</p>

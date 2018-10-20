@@ -1,0 +1,7 @@
+<p class="link-print visible-md visible-lg">
+<button class="btn btn--link btn-print" onclick="if (typeof FireAnalyticsTagEvent === 'function') {FireAnalyticsTagEvent({ on_page_event: 'print_story' });}return false" title="(CTRL+P)">
+<span class="ico ico-print"></span>
+<span class="btn__text">Print</span>
+</button>
+</p>
+<p class="copyright"></p>

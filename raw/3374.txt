@@ -1,0 +1,172 @@
+<p class="date" style="margin-top:0.95em"><strong>By</strong> <a class="authorLink" href="/authors/graeme-roberts_id110" rel="author">Graeme Roberts</a> <span class="separator">|</span> 12 March 2014</p>
+<p class="tools" style="margin-top: 0.95em">Font size <a class="hoverSwitch" onclick="javascript:increaseFontSize();"><i class="fa fa-plus-square"></i></a> <a class="hoverSwitch" onclick="javascript:decreaseFontSize();"><i class="fa fa-minus-square"></i></a><span class="artTools"><a href="/emailafriend.aspx?id=143853&amp;tp=1"><span style="color: white!important;">Email</span> <i class="fa fa-envelope"></i></a></span><span class="artTools"><a href="/pap.aspx?ID=143853"><span style="color: white!important;">Print</span> <i class="fa fa-print"></i></a></span></p>
+<p style="font-size:0.8em;font-weight:400;font-style:italic;color:#666;margin-top:5px">Cars being recalled to replace ignition switches include versions of the Chevrolet Cobalt, a line no longer made</p>
+<p>The New York-based probe is in its early stages, and the source did not elaborate on the legal theory behind the potential criminal liability, Reuters reported.</p>
+<p>The source said federal investigators are reviewing information about how GM handled reports of problems with ignition switches that first came to light 10 years ago.</p>
+<p>GM declined to comment.</p>
+<p>As <em>just-auto</em> <a href="/news/gm-rallies-defence-suppliers-customers-for-ignition-key-recall_id143847.aspx" target="_blank">reported on Tuesday</a>, the federal probe by the US attorney in Manhattan adds to a growing list of US authorities examining the recall, which GM announced in February. The National Highway Traffic Safety Administration (NHTSA) <a href="/news/nhtsa-to-eye-gm-recall-timeline_id143409.aspx" target="_blank">previously opened an investigation</a> into whether GM reacted fast enough with its recall.</p>
+<p>Reuters reported earlier that a US Senate committee chairman, Michigan Republican Fred Upton, was seeking a hearing on the issue. The House Energy and Commerce Committee also ordered GM and NHTSA to turn over information about GM's ignition switch problems by 25 March. Upton led the 2000 investigation into Firestone tyre failures on Ford vehicles, resulting in the TREAD Act that requires automakers to report complaints of defects to the NHTSA, the news agency noted. That law also makes it a crime to intentionally mislead the agency about defects that lead to serious accidents.</p>
+<p>The report noted the criminal probe of GM opened by Manhattan US Attorney Preet Bharara follows on from an investigation conducted by the same office into Toyota's disclosure in 2009 of driver complaints of unintended acceleration by some of its vehicles.</p>
+<p>Toyota has been engaged in negotiations with Bharara's office to settle that probe, which is also criminal, a source familiar with the investigation had previously told Reuters.</p>
+<p>The US Justice Department can only open a grand jury investigation into such allegations at the request of the Transportation Secretary, according to the law, Reuters noted.</p>
+<p>"We are in communication with the Department of Justice but have not asked Justice to investigate because we are still in the midst of our own investigation regarding the timing of GM's recall," a Transportation Department spokesman told the news agency in a statement.</p>
+<p>The person familiar with the criminal probe declined to discuss with Reuters whether prosecutors were considering liability under the TREAD Act.</p>
+<p>
+<strong>P.S:</strong> If you liked this article, you might enjoy the just-auto newsletter.<br/>
+					Receive our latest content delivered right to your inbox.
+				</p>
+<p>
+<strong>Dave Leggett</strong>,<br/>
+					Managing editor
+				</p>
+<p class="gsstitle" style="line-height: 1.2em!important"><a href="/qube/" style="text-decoration: none;">Auto market intelligence <br/>from just-auto</a></p>
+<p class="gssbody" style="line-height: 1.4em!important">• Auto component fitment forecasts <br/> • OEM &amp; tier 1 profiles &amp; factory finder <br/> • Analysis of 30+ auto technologies &amp; more</p>
+<p><img alt="just-auto Plus only" border="0" class="plustagtooltip" src="/images/plustag.png" style="margin-bottom:-5px;"/>  Company analysis</p>
+<p class="featured">More on the companies featured</p>
+<p class="titlenews"><span>NEWS</span></p>
+<p class="relatedItemTitle"><a href="/news/ford-extends-gt-output-to-meet-exceptional-demand_id185176.aspx">Ford extends GT output to meet "exceptional demand"</a></p>
+<p>Ford said production of its GT supercar would be extended by approximately two years, to meet "overwhelming customer demand".</p>
+<p class="titlenews"><span>NEWS</span></p>
+<p class="relatedItemTitle"><a href="/news/ford-and-mahindra-sign-agreements-on-powertrain-and-connected-cars_id185150.aspx">Ford and Mahindra sign agreements on powertrain and connected cars</a></p>
+<p><img src="//i4.aroq.com/3/2018-03-22-16-50-ford_cropped_70.jpg" style="width:100%;"/></p>
+<p class="titlenews"><span>NEWS</span></p>
+<p class="relatedItemTitle"><a href="/news/ford-europe-sells-119000-vehicles-in-september-2018_id185130.aspx"><img alt="just-auto Plus only" border="0" class="plustagtooltip" src="/images/plustag.png" style="margin-bottom:-5px;"/> Ford Europe sells 119,000 vehicles in September 2018</a></p>
+<p>Ford total vehicle sales reached 119,000 units in its European 20 markets in September
+
+
+	Ford remains the Number-1 commercial vehicle brand in Europe, with commercial vehicle sales hitting a record high of 285,800 units for the first three...</p>
+<p class="titlenews"><span>NEWS</span></p>
+<p class="relatedItemTitle"><a href="/news/ford-warns-that-hard-brexit-is-a-red-line_id185097.aspx">Ford warns that 'Hard Brexit is a red line'</a></p>
+<p><img src="//i4.aroq.com/3/2018-05-25-10-21-foe_stevenarmstrong_04_cropped_70.jpg" style="width:100%;"/></p>
+<p class="titlenews"><span>NEWS</span></p>
+<p class="relatedItemTitle"><a href="/news/ford-selects-wind-river-ota-update-tech_id185121.aspx">Ford selects Wind River OTA update tech</a></p>
+<p>Wind River, a company delivering IoT software for safety-critical domains including automotive, has announced that Ford Motor Company is using Wind River over-the-air (OTA) update technology.</p>
+<p class="titlenews"><span>NEWS</span></p>
+<p class="relatedItemTitle"><a href="/news/ford-launches-new-mid-size-suv-in-china_id185119.aspx">Ford launches new mid-size SUV in China</a></p>
+<p><img src="//i4.aroq.com/3/2018-08-08-10-06-1533710104519_cropped_70.jpg" style="width:100%;"/></p>
+<p class="titlenews"><span>NEWS</span></p>
+<p class="relatedItemTitle"><a href="/news/ford-names-new-na-manufacturing-chief-chief-customer-experience-officer_id185108.aspx">Ford names new NA manufacturing chief, chief customer experience officer</a></p>
+<p><img src="//i4.aroq.com/3/2018-10-16-13-05-elenafordchiefcustomerexperienceofficer_cropped_90.jpg" style="width:100%;"/></p>
+<p class="titlenews"><span>NEWS</span></p>
+<p class="relatedItemTitle"><a href="/news/bill-ford-pulls-out-of-saudi-investor-conference-report_id185092.aspx">Bill Ford pulls out of Saudi investor conference - report</a></p>
+<p>Ford Motor chairman Bill Ford cancelled plans to attend a Saudi investor conference, the automaker said on Sunday.</p>
+<p class="featured">More on the sectors featured</p>
+<p class="titleinsight"><span>INSIGHT</span></p>
+<p class="relatedItemTitle"><a href="/comment/will-somebody-think-of-the-brexit-the-week_id185195.aspx">Will somebody think of the Brexit? - the week</a></p>
+<p><img src="//i4.aroq.com/3/2018-07-25-08-39-p037750563783_cropped_80.jpg" style="width:100%;"/></p>
+<p class="titlenews"><span>NEWS</span></p>
+<p class="relatedItemTitle"><a href="/news/diesel-r134a-costs-clobber-daimler-bottom-line_id185199.aspx">Diesel, R134a, costs clobber Daimler bottom line</a></p>
+<p><img src="//i4.aroq.com/3/2016-02-16-17-21-dieterzetsche_cropped_90.jpg" style="width:100%;"/></p>
+<p class="titlenews"><span>NEWS</span></p>
+<p class="relatedItemTitle"><a href="/news/adient-preliminary-full-year-results-meet-guidance_id185198.aspx">Adient preliminary full year results meet guidance</a></p>
+<p>Tier 1 seating and interiors specialist Adient said it expected full year 2018 revenue of around US$17.4bn, in line with early guidance of approximately $17.5bn.</p>
+<p class="titlenews"><span>NEWS</span></p>
+<p class="relatedItemTitle"><a href="/news/vinfast-selects-siemens-for-plm-software_id185197.aspx">VinFast selects Siemens for PLM software</a></p>
+<p>Emergent Vietnamese carmaker VinFast has selected a suite of tools from Siemens PLM Software to help realise plans for next-generation automotive and transportation design.</p>
+<p><a href="/news/apple-updates-ios-to-add-carplay-functions_id143897.aspx">US: Apple updates iOS to add CarPlay functions<br/><span><i class="fa fa-chevron-left"></i><strong>PREVIOUS</strong></span></a></p>
+<p><a href="/analysis/indias-automotive-sector-pauses-but-for-how-long_id143848.aspx">ANALYSIS: India's automotive sector pauses, but for how long?<br/><span><strong>NEXT </strong><i class="fa fa-chevron-right"></i></span></a></p>
+<p class="newsNo">1</p>
+<p class="newsTitle"><a href="/news/ford-warns-that-hard-brexit-is-a-red-line_id185097.aspx">Ford warns that 'Hard Brexit is a red line'</a></p>
+<p class="newsNo">2</p>
+<p class="newsTitle"><a href="/news/tata-taking-orders-for-jlr-platform-based-harrier-suv_id185093.aspx">Tata taking orders for JLR platform based Harrier</a></p>
+<p class="newsNo">3</p>
+<p class="newsTitle"><a href="/news/porsche-slashes-almost-eur1bn-off-profit-forecast-after-audi-fined-eur800m_id185115.aspx">Porsche slashes almost EUR1bn off profit forecast</a></p>
+<p class="newsNo">4</p>
+<p class="newsTitle"><a href="/news/ford-and-mahindra-sign-agreements-on-powertrain-and-connected-cars_id185150.aspx">Ford and Mahindra sign new co-op agreements</a></p>
+<p class="newsNo">5</p>
+<p class="newsTitle"><a href="/news/aceaclepa-urge-negotiators-to-avert-worst-case-brexit_id185125.aspx">ACEA urges negotiators to avert worst-case Brexit</a></p>
+<p class="newsNo">6</p>
+<p class="newsTitle"><a href="/news/ford-names-new-na-manufacturing-chief-chief-customer-experience-officer_id185108.aspx">Ford names new NA manufacturing chief</a></p>
+<p class="newsNo">1</p>
+<p class="newsTitle"><a href="/analysis/tatas-future-model-strategy_id185149.aspx">Tata's future model strategy</a></p>
+<p class="newsNo">2</p>
+<p class="newsTitle"><a href="/analysis/interior-design-and-technology-ford-mustang_id185072.aspx">Interior design and technology – Ford Mustang</a></p>
+<p class="newsNo">3</p>
+<p class="newsTitle"><a href="/analysis/los-angeles-motor-show-world-premieres-list-mazda3_id185076.aspx">Los Angeles motor show world debuts list - Mazda3</a></p>
+<p class="newsNo">4</p>
+<p class="newsTitle"><a href="/analysis/driving-the-levc-tx-electric-taxi_id185075.aspx">Driving the LEVC TX electric taxi</a></p>
+<p class="newsNo">5</p>
+<p class="newsTitle"><a href="/comment/uk-auto-sector-and-tata-watch-closely-as-jlr-hits-headwinds_id185031.aspx">Jaguar Land Rover hits headwinds - COMMENT</a></p>
+<p class="newsNo">6</p>
+<p class="newsTitle"><a href="/comment/will-somebody-think-of-the-brexit-the-week_id185195.aspx">Will somebody think of the Brexit? - the week</a></p>
+<p>
+<div id="inc_header_inc_TopUserMenuInclude_pnlLoggedOut">
+<!--<span class="hide"><a href="/login.aspx?ref=1">Login</a> | </span> -->
+<!-- Login Starts Here --><span class="hide" id="loginContainer"><a href="#" id="loginButton"><span>Login</span></a> | </span><!-- Login Ends Here -->
+<span class="hide"><a href="/membership.aspx?lk=hjh">Join</a></span>
+</div>
+<span id="mobileSettings"><a href="#" onclick="$('#mobileCustomer').toggleClass('hide'); return false;" style="color: white;"><i class="fa fa-cogs fa-2x"></i></a></span></p>
+<p style="color:#f2f2f2"><label for="email">Email Address</label><br/><input id="email" name="txtLoginName" style="width: 98%; font-size: 1em;" type="text"/></p>
+<p style="color:#f2f2f2"><label for="password">Password</label><br/><input id="password" name="txtPassword" style="width: 98%; font-size: 1em;" type="password"/></p>
+<p><input id="login" name="btnLogin" style="background-color:#39b54a;color:#f2f2f2;border:none;padding:6px;font-size:1.2em" type="submit" value="Login"/></p>
+<p style="margin-bottom: 10px;"><a href="/help/forgotpassword.aspx">Forgot your password?</a>
+<input name="hdLoginReferer" type="hidden" value="/news/feds-eye-gm-ignition-switch-recall-for-criminal-liability-report_id143853.aspx"/></p>
+<p><a href="#" onclick="$('#subNav').toggleClass('hide'); return false;"><i class="fa fa-bars" style="margin-right: 8px;"></i>Menu</a></p>
+<p><a href="/login.aspx?ref=1">Login</a></p>
+<p><a href="/membership.aspx?lk=hjh">Join</a></p>
+<p class="contentTitle" style="margin-bottom:10px; padding-top:5px">Sign-up to the just-auto newsletters and get <br/> <strong>'The Changing World of Car Interiors'</strong> for <strong>FREE</strong>
+<span id="close"><i aria-hidden="true" class="fa fa-lg fa-times-circle"></i></span>
+</p>
+<p class="ouibounce-check-input modInput"><input name="chkDaily" type="checkbox"/> <span class="newsType">Daily Alert:</span> <br/><br/>
+                 Get the daily automotive news as it happens
+              <p class="ouibounce-check-input modInput"><input name="chkWeekly" type="checkbox"/> <span class="newsType">Weekly News Summary:</span> <br/><br/>
+                 Get our weekly best-of roundup
+               <p class="ouibounce-check-input modInput"><input name="chkResearch" type="checkbox"/><span class="newsType">Automotive Research Updates:</span> <br/><br/>
+                 Discover the latest automotive research</p>
+<div class="btnSubmitForm modInput" onclick="document.getElementById('frmExit').submit();" style="margin-top: 1em; cursor: pointer;">
+<a href="#">Sign up today <i aria-hidden="true" class="fa fa-arrow-circle-right"></i></a>
+</div>
+</p></p>
+<p class="ouibounce-check-input modInput"><input name="chkWeekly" type="checkbox"/> <span class="newsType">Weekly News Summary:</span> <br/><br/>
+                 Get our weekly best-of roundup
+               <p class="ouibounce-check-input modInput"><input name="chkResearch" type="checkbox"/><span class="newsType">Automotive Research Updates:</span> <br/><br/>
+                 Discover the latest automotive research</p>
+<div class="btnSubmitForm modInput" onclick="document.getElementById('frmExit').submit();" style="margin-top: 1em; cursor: pointer;">
+<a href="#">Sign up today <i aria-hidden="true" class="fa fa-arrow-circle-right"></i></a>
+</div>
+</p>
+<p class="ouibounce-check-input modInput"><input name="chkResearch" type="checkbox"/><span class="newsType">Automotive Research Updates:</span> <br/><br/>
+                 Discover the latest automotive research</p>
+<p class="ouibounce-footer-input modInput"><input name="chkConfirm" type="checkbox"/>I want to hear about automotive industry webinars and relevant offers</p>
+<p class="termsText">
+                        You are agreeing for just-auto.com to send you newsletters and/or other information about our products and services that are relevant to you by email.<br/>
+                        Clicking above tells us that you're OK with both this and with our <a href="/about/privacy.aspx" target="_blank">privacy policy</a>, <a href="/about/legal.aspx" target="_blank">terms and conditions</a> and <a href="/about/privacy.aspx" target="_blank">cookie policy</a>. <br/>
+                        You can opt out of individual newsletters or contact methods at any time in the <a href="/youraccount/" target="_blank">'Your Account' area.</a><br/>
+                        We'll only keep your data for as long as you choose to receive information from just-auto.<br/>
+</p>
+<p><a href="/"><img alt="just-auto.com footer logo" border="0" height="42" src="/images/sites-v6-logo.png" title="Go to the just-auto.com home page" width="108"/></a>
+<span style="float: right;height:10px">
+<span class="facebook"><a href="https://www.facebook.com/justautocom" style="text-decoration:none"><i class="fa fa-facebook socialicon" style="width:30px;height:30px;font-size:1.4em;padding-top:0.35em;"></i></a></span>
+<span class="twitter"><a href="https://twitter.com/justauto" style="text-decoration:none"><i class="fa fa-twitter socialicon" style="width:30px;height:30px;font-size:1.4em;padding-top:0.35em;"></i></a></span>
+<span class="googleplus"><a href="https://plus.google.com/106697109829606141145/posts" style="text-decoration:none"><i class="fa fa-google-plus socialicon" style="width:30px;height:30px;font-size:1.4em;padding-top:0.35em;"></i></a></span>
+</span>
+</p>
+<p><a href="/market-research/">Buy automotive market research</a></p>
+<p><a href="/market-research/latest-research/">New automotive market research</a></p>
+<p><a href="/market-research/all-sectors.aspx">Automotive sector market research</a></p>
+<p><a href="/market-research/companies.aspx">Automotive companies market research</a></p>
+<p><a href="/market-research/publishers.aspx">Automotive market research publishers</a></p>
+<p><a href="/qube/">Auto market database</a></p>
+<p><a href="/pldb/">Automotive model lifecycle data</a></p>
+<p><a href="/consult/">Automotive consultants</a></p>
+<p><a href="/webinars/">Automotive webinars</a></p>
+<p><a href="/advertise/" style="color:#ffd457">Advertise on just-auto</a></p>
+<p><a href="/membership.aspx">Subscribe to just-auto</a></p>
+<p><a href="/alerts/">RSS feeds</a></p>
+<p><a href="/sitemap.aspx">Site map</a></p>
+<p><a href="/about/">About just-auto</a></p>
+<p><a href="/latestarticles.aspx">Latest Auto News</a></p>
+<p style="color:#f2f2f2">©2018 All content copyright just-auto.com<br/>
+Published by Aroq Ltd. Address &amp; registered office: Aroq House, 17A Harris Business Park, Bromsgrove, Worcs, B60 4DJ, UK. 
+Tel:  Intl +44 (0)1527 573 600. Toll Free from US: 1-866-545-5878. Fax: +44 (0)1527 577423.<br/>
+Registered in England No:  4307068.</p>
+<p style="color:#f2f2f2">Aroq publishes: <a href="https://www.just-auto.com">just-auto.com</a> | <a href="https://www.just-food.com">just-food.com</a> | <a href="https://www.just-drinks.com">just-drinks.com</a> | <a href="https://www.just-style.com">just-style.com</a></p>
+<p class="paywallHeaderText">Get full access<span class="hide"> to all content</span>, <strong><span class="hide">just</span> $1 for 30 days</strong></p>
+<p>just-auto gives its paid members access to the very best automotive market coverage.</p>
+<p class="catfishMobileHidden">And now there’s <span class="just-auto-plus"><strong>just-auto plus</strong></span>, our premium membership that gives you exclusive component forecast data, company profiles and extended news coverage - just for premium members.</p>
+<p>Today I can offer you <strong>30 days access for $1</strong> - and that includes <span class="just-auto-plus"><strong>just-auto plus</strong></span>.</p>
+<p class="paywallSignatureText">David Leggett, editor of just-auto</p>
+<p class="paywallIconsText">
+                            Only on
+                                    <img src="/images/plustag-lg.png"/>
+</p>

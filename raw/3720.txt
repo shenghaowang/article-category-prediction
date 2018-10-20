@@ -1,0 +1,174 @@
+<p class="HeaderMobile-search-inputs">
+<label class="HeaderMobile-search-label" for="mainSearch-mobile">Search</label>
+<input class="HeaderMobile-search-input" data-action="automplete_search_header" id="mainSearch-mobile" name="q" placeholder="search" required="required" type="search"/>
+</p>
+<p>
+<label class="Header-nlForm-label">Free newsletter</label>
+<input class="Header-nlForm-input" name="em" placeholder="Your e-mail address" type="email"/>
+<button action="/subscription/subscriptionview" class="Header-nlForm-submit" data-gtm-action="action_subscriptionbox" data-gtm-action-value="Header_Subscription_Box" data-gtm-category="category_subscriptionbox" data-gtm-category-value="Subscription_box" type="submit">Subscribe
+            </button>
+</p>
+<p>
+<a class="MainNav-link" data-location-id="2907" data-type="news">Headlines</a>
+</p>
+<p class="MainNav-subnavNews-title">
+<a class="MainNav-subLink" data-location-id="2908" data-type="news" href="/Headlines/Ingredients">Ingredients <svg aria-hidden="true" class="Icon Icon--angle"><use xlink:href="/bundles/wrbmgbfront/sprite/icons.svg#angle"></use><g></g></svg></a>
+</p>
+<p class="MainNav-subnavNews-title">
+<a class="MainNav-subLink" data-location-id="2909" data-type="news" href="/Headlines/Drug-Delivery">Drug Delivery <svg aria-hidden="true" class="Icon Icon--angle"><use xlink:href="/bundles/wrbmgbfront/sprite/icons.svg#angle"></use><g></g></svg></a>
+</p>
+<p class="MainNav-subnavNews-title">
+<a class="MainNav-subLink" data-location-id="2910" data-type="news" href="/Headlines/Processing">Processing <svg aria-hidden="true" class="Icon Icon--angle"><use xlink:href="/bundles/wrbmgbfront/sprite/icons.svg#angle"></use><g></g></svg></a>
+</p>
+<p class="MainNav-subnavNews-title">
+<a class="MainNav-subLink" data-location-id="2911" data-type="news" href="/Headlines/Regulatory-Safety">Regulatory &amp; Safety <svg aria-hidden="true" class="Icon Icon--angle"><use xlink:href="/bundles/wrbmgbfront/sprite/icons.svg#angle"></use><g></g></svg></a>
+</p>
+<p class="MainNav-subnavNews-title">
+<a class="MainNav-subLink" data-location-id="2182693" data-type="promotional_feature" href="/Headlines/Promotional-Features">Promotional Features <svg aria-hidden="true" class="Icon Icon--angle"><use xlink:href="/bundles/wrbmgbfront/sprite/icons.svg#angle"></use><g></g></svg></a>
+</p>
+<p class="MainNav-section">Site Archive</p>
+<p class="MainNav-section">Multimedia</p>
+<p>
+<a class="MainNav-link" data-location-id="2912" data-type="news">Hot Topics</a>
+</p>
+<p class="MainNav-subnavNews-title">
+<a class="MainNav-subLink" data-location-id="2913" data-type="news" href="/Hot-Topics/Bioavailability-Challenge">Bioavailability Challenge <svg aria-hidden="true" class="Icon Icon--angle"><use xlink:href="/bundles/wrbmgbfront/sprite/icons.svg#angle"></use><g></g></svg></a>
+</p>
+<p class="MainNav-subnavNews-title">
+<a class="MainNav-subLink" data-location-id="2914" data-type="news" href="/Hot-Topics/Globalisation">Globalisation <svg aria-hidden="true" class="Icon Icon--angle"><use xlink:href="/bundles/wrbmgbfront/sprite/icons.svg#angle"></use><g></g></svg></a>
+</p>
+<p class="MainNav-subnavNews-title">
+<a class="MainNav-subLink" data-location-id="2915" data-type="news" href="/Hot-Topics/Lifecycle-Management">Lifecycle Management <svg aria-hidden="true" class="Icon Icon--angle"><use xlink:href="/bundles/wrbmgbfront/sprite/icons.svg#angle"></use><g></g></svg></a>
+</p>
+<p class="MainNav-subnavNews-title">
+<a class="MainNav-subLink" data-location-id="2916" data-type="news" href="/Hot-Topics/Mergers-and-Acquisitions">Mergers and Acquisitions <svg aria-hidden="true" class="Icon Icon--angle"><use xlink:href="/bundles/wrbmgbfront/sprite/icons.svg#angle"></use><g></g></svg></a>
+</p>
+<p class="MainNav-section">Site Archive</p>
+<p class="MainNav-section">Multimedia</p>
+<p><a class="MainNav-link">Resources</a>
+</p>
+<p class="MainNav-section">Resources</p>
+<p><a class="MainNav-link" data-location-id="2944" data-type="events">Events</a>
+</p>
+<p class="MainNav-subnavNews-title">
+<a class="MainNav-subLink" data-location-id="1306401" data-type="events" href="/Events/All-Events">All Events <svg aria-hidden="true" class="Icon Icon--angle"><use xlink:href="/bundles/wrbmgbfront/sprite/icons.svg#angle"></use><g></g></svg></a>
+</p>
+<p class="MainNav-subnavNews-title">
+<a class="MainNav-subLink" data-location-id="1306402" data-type="events" href="/Events/Online-Events">Online Events <svg aria-hidden="true" class="Icon Icon--angle"><use xlink:href="/bundles/wrbmgbfront/sprite/icons.svg#angle"></use><g></g></svg></a>
+</p>
+<p class="MainNav-subnavNews-title">
+<a class="MainNav-subLink" data-location-id="1306403" data-type="events" href="/Events/Editorial-Webinars">Editorial Webinars <svg aria-hidden="true" class="Icon Icon--angle"><use xlink:href="/bundles/wrbmgbfront/sprite/icons.svg#angle"></use><g></g></svg></a>
+</p>
+<p class="MainNav-subnavNews-title">
+<a class="MainNav-subLink" data-location-id="1306404" data-type="events" href="/Events/Shows-Conferences">Shows &amp; Conferences <svg aria-hidden="true" class="Icon Icon--angle"><use xlink:href="/bundles/wrbmgbfront/sprite/icons.svg#angle"></use><g></g></svg></a>
+</p>
+<p class="MainNav-section">Events</p>
+<p>
+<a class="MainNav-link">Related Sites</a>
+</p>
+<p class="Detail-author">By <span class="ezstring-field">Dan Stanton</span> </p>
+<p class="Detail-date">
+<time datetime="13-Mar-2014">13-Mar-2014</time>
+                    - Last updated on
+                        <time datetime="13-Mar-2014 at 10:15">13-Mar-2014 at 10:15</time> GMT                </p>
+<p class="Detail-tags"><strong>Related tags:</strong>
+<a href="/tag/keyword/Pharma/Import alert">Import alert</a>,             <a href="/tag/keyword/Pharma/Sun pharma">Sun pharma</a>,             <a href="/tag/keyword/Pharma/Pharmaceutical drug">Pharmaceutical drug</a>,             <a href="/tag/keyword/Pharma/Food and drug administration">Food and drug administration</a>,             <a href="/tag/keyword/Pharma/Pharmacology">Pharmacology</a>,             <a href="/tag/keyword/Pharma/Fda">Fda</a>
+</p>
+<p>The facility in Karkhadi, Gujarat produces cephalosporins, a class of β-lactam antibiotics, but in a filing with the Bombay Stock Exchange this morning Sun Pharmaceutical Industries announced the unit had been placed under an import alert by the US Food and Drug Administration (FDA).</p>
+<p><a href="http://www.accessdata.fda.gov/cms_ia/importalert_189.html" target="_self">The alert</a>​ was issued following an inspection when the US agency identified some non-compliance of current Good Manufacturing Practice (cGMP) regulations, and thus drugs made from the facility may be detained without physical examination <em>“until such time as FDA is satisfied that the appearance of a violation has been removed, either by reinspection or submission of appropriate documentation to the responsible FDA Center.”</em>​</p>
+<p>Sun Pharma spokesperson Mira Desai told in-Pharmatechnologist.com the alert <em>“has a negligible impact on company-wide revenues,”</em>​ and would be unlikely to cause any shortages in the US.</p>
+<p>Furthermore, she confirmed the firm has already initiated several corrective steps to address the observations made by the FDA but was unable to provide more details.</p>
+<p>Shares in the firm fell by over 5% following the announcement.</p>
+<p><strong>Import Alert &amp; India</strong>​</p>
+<p>The news sees Sun Pharma join a growing list of high profile Indian drugmakers who have had products headed for the US banned due to GMP violations.</p>
+<p>All four of Ranbaxy’s facilities in India are subject to the alert – the <a href="http://www.in-pharmatechnologist.com/Regulatory-Safety/Daiichi-says-new-API-import-ban-will-affect-Ranbaxy-s-US-ops?nocount" target="_self">API plant in Toansa</a>​ becoming the latest to fall under the ban in January - whilst two of <a href="http://www.in-pharmatechnologist.com/Regulatory-Safety/Wockhardt-s-woes-continue-with-another-US-FDA-import-alert" target="_self">Wockhardt facilities</a>​ fell under the import ban last year.<html><body><aside class="AlertAd-front" id="text-ad1"><script type="text/javascript">
+            googletag.cmd.push(function ()
+            {
+                googletag.display('text-ad1');
+            });
+        </script></aside><!-- /excluded  --></body></html></p>
+<p>The FDA has spoken at length about ensuring quality from Indian suppliers, and Commissioner Margaret Hamburg visited the country last month in part to address this issue. A Statement of Intent was signed pledging cooperation in ensuring compliance between the US and Indian authorities, and the <a href="http://www.in-pharmatechnologist.com/Regulatory-Safety/Wockhardt-s-woes-continue-with-another-US-FDA-import-alert" target="_self">FDA has also said it would up the number of inspectors in the country</a>​.</p>
+<p>This specific Import Alert (66-40) cites 33 facilities in India where product imports are banned from. However, whilst much recent emphasis has been on India, 31 facilities in China are also affected by the ban. The next largest country is Germany, with eight plants banned from exporting their drugs to the US.</p>
+<p>An antibiotic producing facility run by Sun Pharma has been hit with an import alert from the US FDA in the latest blow for Indian drug exporters.</p>
+<p>The facility in Karkhadi, Gujarat is dedicated to producing cephalosporins, a class of β-lactam antibiotics, but in a filing with the Bombay Stock Exchange this morning Sun Pharmaceutical Industries announced the unit had been placed under an import alert by the US Food and Drug Administration (FDA).</p>
+<p><a href="http://www.accessdata.fda.gov/cms_ia/importalert_189.html" target="_self">The alert</a>​ was issued following an inspection of the plant when the agency identified some non-compliance of current Good Manufacturing Practice (cGMP) regulations, and thus drugs made from the facility may be detained without physical examination <em>“until such time as FDA is satisfied that the appearance of a violation has been removed, either by reinspection or submission of appropriate documentation to the responsible FDA Center.”</em>​</p>
+<p>Sun Pharma spokesperson Mira Desai told in-Pharmatechnologist.com the alert <em>“has a negligible impact on company-wide revenues,”</em>​ and would be unlikely to cause any shortages in the US.</p>
+<p>Furthermore, she confirmed the firm has already initiated several corrective steps to address the observations made by the FDA but was unable to provide more details.</p>
+<p>Shares in the firm fell by over 5% following the announcement.</p>
+<p><strong>Import Alert &amp; India</strong>​</p>
+<p>The news sees Sun Pharma join a growing list of high profile Indian drugmakers who have had products headed for the US banned due to GMP violations.</p>
+<p>All four of Ranbaxy’s facilities in India are subject to the alert – the <a href="http://www.in-pharmatechnologist.com/Regulatory-Safety/Daiichi-says-new-API-import-ban-will-affect-Ranbaxy-s-US-ops?nocount" target="_self">API plant in Toansa</a>​ becoming the latest to fall under the ban in January - whilst two of <a href="http://www.in-pharmatechnologist.com/Regulatory-Safety/Wockhardt-s-woes-continue-with-another-US-FDA-import-alert" target="_self">Wockhardt facilities</a>​ fell under the import ban last year.</p>
+<p>The FDA has spoken at length about ensuring quality from Indian suppliers, and Commissioner Margaret Hamburg visited the country last month in part to address this issue. A Statement of Intent was signed pledging cooperation in ensuring compliance between the US and Indian authorities, and the <a href="http://www.in-pharmatechnologist.com/Regulatory-Safety/Wockhardt-s-woes-continue-with-another-US-FDA-import-alert" target="_self">FDA has also said it would up the number of inspectors in the country</a>​.</p>
+<p>This specific Import Alert (66-40) cites 33 facilities in India where product imports are banned from. However, whilst much recent emphasis has been on India, 31 facilities in China are also affected by the ban. The next largest country is Germany, with eight plants banned from exporting their drugs to the US.</p>
+<p class="Detail-copyright">Copyright - Unless otherwise stated all contents of this web site are © 2018 - William Reed Business Media Ltd - All Rights Reserved - Full details for the use of materials on this site can be found in the <a href="https://www.william-reed.com/Terms-and-Conditions">Terms &amp; Conditions</a>
+<p class="Detail-tags"><strong>Related topics:</strong>
+<a href="https://www.in-pharmatechnologist.com/Headlines/Processing">Processing</a>,
+                                                                                                                                            <a href="https://www.in-pharmatechnologist.com/Resources/APIs-active-pharmaceutical-ingredients">APIs (active pharmaceutical ingredients)</a>,
+                                                                                                                                            <a href="https://www.in-pharmatechnologist.com/Resources/QA-QC">QA/QC</a>,
+                                                                                                                                            <a href="https://www.in-pharmatechnologist.com/Resources/Regulations">Regulations</a>
+</p>
+</p>
+<p class="Detail-tags"><strong>Related topics:</strong>
+<a href="https://www.in-pharmatechnologist.com/Headlines/Processing">Processing</a>,
+                                                                                                                                            <a href="https://www.in-pharmatechnologist.com/Resources/APIs-active-pharmaceutical-ingredients">APIs (active pharmaceutical ingredients)</a>,
+                                                                                                                                            <a href="https://www.in-pharmatechnologist.com/Resources/QA-QC">QA/QC</a>,
+                                                                                                                                            <a href="https://www.in-pharmatechnologist.com/Resources/Regulations">Regulations</a>
+</p>
+<p class="Section-footer"><a class="Btn" data-action="load_more_related_news" href="#">Show more</a></p>
+<p class="Teaser-thumb">
+<a class="Teaser-ill" data-widget="ImageCover" href="/Library/Make-the-move-to-PyroMAT-System-the-only-cell-line-based-Monocyte-Activation-Test-for-the-detection-of-pyrogens" style="background-image: url(https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/in-pharmatechnologist.com/library/make-the-move-to-pyromat-system-the-only-cell-line-based-monocyte-activation-test-for-the-detection-of-pyrogens/8593659-1-eng-GB/Make-the-move-to-PyroMAT-System-the-only-cell-line-based-Monocyte-Activation-Test-for-the-detection-of-pyrogens_news_teaser.png);">
+<img alt="Make the move to PyroMAT™ System: the only cell line-based Monocyte Activation Test for the detection of pyrogens" src="https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/in-pharmatechnologist.com/library/make-the-move-to-pyromat-system-the-only-cell-line-based-monocyte-activation-test-for-the-detection-of-pyrogens/8593659-1-eng-GB/Make-the-move-to-PyroMAT-System-the-only-cell-line-based-Monocyte-Activation-Test-for-the-detection-of-pyrogens_news_teaser.png"/>
+</a>
+<span class="Teaser-icon Teaser-icon--red"><svg aria-hidden="true" class="Icon Icon--webinar"><use xlink:href="/bundles/wrbmgbfront/sprite/icons.svg#webinar"></use><g></g></svg></span>
+</p>
+<p class="DateEvent">
+<time class="DateEvent-item" datetime="25 2018-10-01">
+<span class="DateEvent-d">25</span>
+<span class="DateEvent-my">Oct 2018 <span class="DateEvent-w">Thursday</span></span>
+</time>
+</p>
+<p class="Teaser-meta">
+<span class="ezstring-field">Merck KGaA, Darmstadt, Germany</span> |             Webinar        </p>
+<p class="Teaser-intro">
+                    For pharmaceutical companies, patient safety has always been the priority. That’s why pyrogen detection has become a mandatory Quality Control test for...
+            </p>
+<p class="Teaser-cta">
+<a class="Cta" href="https://onlinexperiences.com/Launch/QReg/ShowKey=57341&amp;AffiliateData=website-listing" target="_blank">
+                            Register for free <svg aria-hidden="true" class="Icon Icon--angle"><use xlink:href="/bundles/wrbmgbfront/sprite/icons.svg#angle"></use><g></g></svg>
+</a>
+</p>
+<p class="Teaser-thumb">
+<a class="Teaser-ill" data-widget="ImageCover" href="/Library/Strategies-to-Select-and-Deliver-the-Right-Candidate" style="background-image: url(https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/in-pharmatechnologist.com/library/strategies-to-select-and-deliver-the-right-candidate/7927989-1-eng-GB/Strategies-to-Select-and-Deliver-the-Right-Candidate_news_teaser.png);">
+<img alt="Strategies to Select and Deliver the Right Candidate " src="https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/in-pharmatechnologist.com/library/strategies-to-select-and-deliver-the-right-candidate/7927989-1-eng-GB/Strategies-to-Select-and-Deliver-the-Right-Candidate_news_teaser.png"/>
+</a>
+<span class="Teaser-icon Teaser-icon--red"><svg aria-hidden="true" class="Icon Icon--file-pdf"><use xlink:href="/bundles/wrbmgbfront/sprite/icons.svg#file-pdf"></use><g></g></svg></span>
+</p>
+<p class="Teaser-meta">
+<span class="Teaser-info">Catalent Pharma Solutions | 05-Mar-2018
+                     | Technical / White Paper                </span>
+</p>
+<p class="Teaser-intro">
+                Does your candidate have what it takes to succeed? Do you have the information needed to make the right decisions about your candidate’s path to the clinic?...
+        </p>
+<p class="Teaser-thumb">
+<a class="Teaser-ill" data-widget="ImageCover" href="/Library/TCC-TB-a-new-filler-for-direct-compression" style="background-image: url(https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/in-pharmatechnologist.com/library/tcc-tb-a-new-filler-for-direct-compression/3647048-7-eng-GB/TCC-TB-a-new-filler-for-direct-compression_news_teaser.jpg);">
+<img alt="TCC TB – a new filler for direct compression" src="https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/in-pharmatechnologist.com/library/tcc-tb-a-new-filler-for-direct-compression/3647048-7-eng-GB/TCC-TB-a-new-filler-for-direct-compression_news_teaser.jpg"/>
+</a>
+<span class="Teaser-icon Teaser-icon--red"><svg aria-hidden="true" class="Icon Icon--file-pdf"><use xlink:href="/bundles/wrbmgbfront/sprite/icons.svg#file-pdf"></use><g></g></svg></span>
+</p>
+<p class="Teaser-meta">
+<span class="Teaser-info">Jungbunzlauer | 09-Oct-2017
+                     | Technical / White Paper                </span>
+</p>
+<p class="Teaser-intro">
+                TCC TB is a tricalcium citrate tetrahydrate designed to function as a direct compression excipient. It combines exceptional compression characteristics,...
+        </p>
+<p class="Section-subtitle">Upcoming supplier webinars</p>
+<p><a class="Btn" href="/Headlines/Promotional-Features">More promotional features</a></p>
+<p>
+<label class="Footer-nlForm-label">Free newsletter</label>
+<input class="Footer-nlForm-input" name="em" placeholder="Your e-mail address" type="email"/>
+<button action="/subscription/subscriptionview" class="Footer-nlForm-submit" data-gtm-action="action_subscriptionbox" data-gtm-action-value="Footer_Subscription_Box" data-gtm-category="category_subscriptionbox" data-gtm-category-value="Subscription_box" type="submit">Subscribe
+                </button>
+<span class="Footer-nlForm-info">Sign up to our free newsletter and get the latest news sent direct to your inbox</span>
+</p>

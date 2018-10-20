@@ -1,0 +1,30 @@
+<p>Lost your password? Please enter your username or email address. You will receive a link to create a new password via email.</p>
+<p>
+<label for="user_login">Username or email</label>
+<input autocomplete="off" class="woocommerce-Input woocommerce-Input--text input-text" id="user_login" name="user_login" type="text"/>
+</p>
+<p>
+<input name="wc_reset_password" type="hidden" value="true">
+<button class="btn btn-primary btn-effect" name="wp-submit">
+<span>Reset password</span>
+<span><i class="icon icon-arrow-right"></i></span>
+</button>
+<a class="btn btn-primary btn-effect" href="javascript:;" id="go-back">
+<span>Go back</span>
+<span><i class="icon icon-arrow-left"></i></span>
+</a>
+</input></p>
+<p class="lead" style="text-align: center;"></p>
+<p>The administration is claiming a limited victory by saying the number of those enrolled in ObamaCare <a href="http://www.politico.com/story/2014/03/obamacare-enrollment-104747.html?hp=f2">has now hit 5 million with two weeks to go</a> until the March 31 deadline. If accurate, the number does represent a steep increase over the 4.2 million that were said to have signed up at the beginning of the month. At this rate, administration cheerleaders reason, the goal of 7 million enrolled in the Affordable Care Act may yet be reached at some point in the near future, if not quite on time. This burst of enrollments is seen as a vindication of President Obama’s all-out push to promote the law including such questionable activities as appearing on the “Between Two Ferns” web show where he traded barbs with comedian Zach Galifianakis.</p>
+<p>But before the president and his team start popping the champagne corks to celebrate their achievement and their faux hipness, it’s time once again to point out that the administration’s Potemkin enrollment figures should be read with a truckload of salt. As the <em>New York Times</em> <a href="http://www.nytimes.com/2014/02/14/us/politics/one-in-5-buyers-of-insurance-under-new-law-did-not-pay-premiums-on-time.html?ref=politics">reported last month</a>, as much as 20 percent of all those enrolled had not actually paid their premiums, meaning they were not covered by the program. While Secretary of Health and Human Services Kathleen Sebelius told Congress she had no idea what the numbers of unpaid enrollees were, more states are reporting these figures and, as CNBC reported last week, <a href="http://www.cnbc.com/id/101495242">the results are literally all over the map.</a> While some states report high pay rates, others like Maryland say only 54 percent have paid.</p>
+<p>All this calls in to question not only the effectiveness of the sales job done by the president and celebrity supporters such as Lebron James. It also means that the odds that this system can sustain itself without mandating vast increases in rates for those who do pay are getting slimmer every day.</p>
+<p><span id="more-843139"></span></p>
+<p>For months we’ve been told by the administration that the only problem with ObamaCare was a “glitchy” website that had since been fixed. But what has since become clear is that the effort to convince young and healthy Americans to sign up for insurance that is both expensive and not something they may need is a failure. Though many of those who clearly benefit from the new health law, such as the poor and those with pre-existing conditions, have signed up, the scheme requires large numbers of those who won’t need the coverage as often in order to be economically viable. That problem will be exacerbated by the failure of much larger percentages of customers to pay for their insurance.</p>
+<p>As we’ve noted previously, the non-payment of the premium is not a technicality. Many of those purchasing the insurance may be first-time buyers and not understand that they must pay their bill before coverage starts rather than long after the fact, as they can with a credit card transaction. Or it may be that some enrolled with no intention of paying or thinking that the hype about the glories of ObamaCare they’ve heard in the mainstream media and from the president absolved them of the obligation to pay for it. But either way, the large number of non-payments renders the enrollment figures meaningless and ensures that the rates for those who do pay are going up next year by percentages that will shock them.</p>
+<p>The president claimed that the number of enrollees has already reached the point where the law will work rather than collapse from lack of participation. But even if we accept his premise that falling millions of customers short of the announced goal of seven million is no big deal, the fact that hundreds of thousands of those being counted in the pool of those he’s counting are not covered because of non-payment of premiums makes his assertion a colossal fraud.</p>
+<p>The president may think that a March madness ad blitz during the NCAA basketball tournament may save ObamaCare. But if the past pattern holds, any further surge in enrollment will provide the scheme with a false sense of security. Until we get a full accounting not only of those who signed up on a website but completed the process by paying for the plan they chose, we’ll have no idea how many people truly are enrolled. Seen in that light, the president’s enrollment promises may well turn out to be no different from other pledges he has made about the ACA in the last few years: completely untrue.</p>
+<p class="note">Jonathan S. Tobin is senior online editor of <em>Commentary.</em></p>
+<p class="text-small">Take the Commentary podcast everywhere with you</p>
+<p class="text-small">Limited Time FREE TRIAL</p>
+<p class="bmc-message">Join our newsletter to get updates in your email.</p>
+<p>Input your search keywords and press Enter.</p>

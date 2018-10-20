@@ -1,0 +1,145 @@
+<p class="js_date_long"></p>
+<p><a href="http://seattletimes.com/html/traffic/?from=stnv">Traffic</a></p>
+<p><a href="http://seattletimes.com">Winner of Nine Pulitzer Prizes</a></p>
+<p class="floatleft">Follow us:</p>
+<p class="floatright">
+<a href="http://www.facebook.com/seattletimes" title="Like us on Facebook"><img alt="facebook" src="http://seattletimes.com/art/ui/1024/v_2011/i-facebook-15x15.gif"/></a>
+<a href="http://twitter.com/#!/seattletimes" title="Follow us on Twitter"><img alt="twitter" src="http://seattletimes.com/art/ui/1024/v_2011/i-twitter-15x15.gif"/></a>
+</p>
+<p><a href="http://community.seattletimes.nwsource.com/archive/?from=stnv">Advanced Search</a> | <a href="http://seattletimes.com/flatpages/entertainment/advancedsearch.html?from=stnv">Events &amp; Venues</a> | <a href="http://www.legacy.com/obituaries/seattletimes/?from=stnv">Obituaries</a></p>
+<p><script type="text/javascript">
+				<!--
+				OAS_AD('Top');
+				//-->
+				</script></p>
+<p class="pgtime"><a name="body"></a>Originally published March 11, 2014 at  9:00 PM | Page modified March 11, 2014 at  9:50 PM
+					</p>
+<p class="summary">A new version of Starbucks’ iPhone app means the 5 million mobile payments the coffee giant handles weekly can now include tips for baristas.
+</p>
+<p class="byline">By <a href="http://search.nwsource.com/search?searchtype=cq&amp;sort=date&amp;from=ST&amp;byline=%26Aacute%3Bngel%20Gonz%26aacute%3Blez">Ángel González</a></p>
+<p class="source">Seattle Times business reporter</p>
+<p><img alt="advertising" border="0" height="7" src="http://local.ads.nwsource.com/ads/adv.gif" vspace="1" width="70"/></p>
+<p> Starbucks has unveiled a new iPhone app that will allow customers to tip from their smartphone, a move that flexes the coffee giant’s digital muscle and could help line baristas’ pockets with money from the millions who use mobile devices to pay for their lattes.</p>
+<p>Right now all tipping at Starbucks is done in cash. Customers paying with a credit or debit card or with the Starbucks card cannot leave tips unless they have cash in hand.
+</p>
+<p>The new feature connects Starbucks employees with a rapidly expanding universe of potential tippers: 10 million customers use the Starbucks mobile app, accounting for 12 percent of transactions, double the rate from a year ago. </p>
+<p>“We think it’s going to be great for our baristas,” Chief Digital Officer Adam Brotman said in an interview at Starbucks’ Sodo headquarters. He said customers have been requesting a tipping feature for the app for some time.</p>
+<p>The addition of tipping comes amid a thorough redesign of Starbucks’ iPhone app, an increasingly important tool for the company as it focuses on adapting to consumers’ embrace of smartphones and online commerce.  </p>
+<p>
+Starbucks processes 5 million mobile payments per week. At an analyst conference Tuesday, chief operating officer Troy Alstead said that Starbucks is the largest mobile-payments retailer in the U.S. “and, we think, around the world.” </p>
+<p>Alstead and other executives have hinted that the company might eventually extend that expertise beyond its stores.</p>
+<p>Also key is Starbucks’ 7 million member-strong rewards program, which is highlighted in a streamlined app redesign that gives customers a quick glimpse of how close they are to freebies. <strong></strong>
+</p>
+<p>Starbucks has also added a “shake to pay” feature: to pay, customers shake their phone at the counter. That causes a bar code to show up and the barista scans it. </p>
+<p> Currently customers navigate their way to the bar code by pressing a button.  </p>
+<p>Starbucks Chief Financial Officer Scott Maw said at the analyst conference on Tuesday that the current version of the app is the fastest way to pay. The shake-up feature should help speed transactions further. </p>
+<p>The app will be available on March 19 in the U.S., U.K. and Canada, and an Android version will be available later this year, the company said.</p>
+<p>Starbucks’ tipping feature will give customers the option of tipping 50 cents, $1 or $2 via a push notification sent to their iPhone a few minutes after paying at the register. </p>
+<p>Customers will have a two-hour window to decide about the tip, or to change the amount, said Brotman.</p>
+<p>The feature also somewhat resembles the tipping method devised by Square, a mobile-payments company in which Starbucks has invested and which Brotman called “an inspiration.”</p>
+<p>Tips have been a touchy subject at Starbucks. Last November a U.S. Court of Appeals dismissed a lawsuit filed by Starbucks baristas in New York upset at having to share tips with shift supervisors.</p>
+<p>Starbucks’ old iOS app came under fire in January when a cybersecurity expert found that it stored some user information without encryption. The app was fixed a few days after the discovery.</p>
+<p><em>Ángel González: 206-464-2250 or agonzalez@seattletimes.com. On Twitter: @gonzalezseattle</em></p>
+<p class="vspacing"></p>
+<p class="vspacing"></p>
+<p class="divider"></p>
+<p class="vspacing"></p>
+<p class="verticalline"></p>
+<p>
+                        
+                        The latest business headlines from the Northwest and beyond. Sent daily.
+                        
+                        
+						<a href="http://seattletimes.nwsource.com/email/businesstechnology.html" onclick="window.open('http://seattletimes.nwsource.com/email/businesstechnology.html','popup','width=680,height=620,scrollbars=yes'); return false">(Sample)</a>
+</p>
+<p id="meta_links">
+<span><a href="http://seattletimes.nwsource.com/flatpages/services/newsletters.html">All newsletters</a></span>
+<a class="footerpopup" href="http://www.seattletimescompany.com/notices/notice2.html" target="footerpopup">Privacy statement</a>
+</p>
+<p class="vspacing"></p>
+<p class="vspacing"></p>
+<p><script type="text/javascript">
+						<!--
+						OAS_AD('Top1');
+						//-->
+						</script></p>
+<p class="strong hed1"><a href="http://bit.ly/1voGYAK">Relive the magic</a></p>
+<p>Shop for unique souvenirs highlighting great sports moments in Seattle history.</p>
+<p><img alt="Advertising" class="ui" src="/art/ui/adv.gif"/></p>
+<p><img alt="Advertising" class="ui" src="/art/ui/adv.gif"/></p>
+<p><a href="#" onclick="setDSCookie('ballardfremont', 'now')">Ballard – Fremont</a></p>
+<p><a href="#" onclick="setDSCookie('capitolhill', 'now')">Capitol Hill</a></p>
+<p><a href="#" onclick="setDSCookie('centraldistrictmadisonpark', 'now')">Central District – Madison Park</a></p>
+<p><a href="#" onclick="setDSCookie('downtown', 'now')">Downtown</a></p>
+<p><a href="#" onclick="setDSCookie('eastlakelakeunion', 'now')">Eastlake/Lake Union</a></p>
+<p><a href="#" onclick="setDSCookie('greenlakewallingford', 'now')">Greenlake – Wallingford</a></p>
+<p><a href="#" onclick="setDSCookie('greenwoodphinneyridge', 'now')">Greenwood/Phinney Ridge</a></p>
+<p><a href="#" onclick="setDSCookie('northseattle', 'now')">North Seattle</a></p>
+<p><a href="#" onclick="setDSCookie('queenannemagnolia', 'now')">Queen Anne – Magnolia</a></p>
+<p><a href="#" onclick="setDSCookie('sandpointravenna', 'now')">Ravenna – Sandpoint</a></p>
+<p><a href="#" onclick="setDSCookie('southseattle', 'now')">South Seattle</a></p>
+<p><a href="#" onclick="setDSCookie('universitydistrictmontlake', 'now')">University District/Montlake</a></p>
+<p><a href="#" onclick="setDSCookie('westseattle', 'now')">West Seattle</a></p>
+<p><a href="#" onclick="setDSCookie('bothellkenmore', 'now')">Bothell – Kenmore</a></p>
+<p><a href="#" onclick="setDSCookie('shorelinelakeforestpark', 'now')">Shoreline – Lake Forest Park</a></p>
+<p><a href="#" onclick="setDSCookie('bellevue', 'now')">Bellevue</a></p>
+<p><a href="#" onclick="setDSCookie('factorianewcastle', 'now')">Factoria – Newcastle</a></p>
+<p><a href="#" onclick="setDSCookie('issaquah', 'now')">Issaquah</a></p>
+<p><a href="#" onclick="setDSCookie('kirkland', 'now')">Kirkland</a></p>
+<p><a href="#" onclick="setDSCookie('mercerisland', 'now')">Mercer Island</a></p>
+<p><a href="#" onclick="setDSCookie('redmondsammamish', 'now')">Redmond – Sammamish</a></p>
+<p><a href="#" onclick="setDSCookie('snoqualmienorthbend', 'now')">Snoqualmie – North Bend</a></p>
+<p><a href="#" onclick="setDSCookie('woodinvilleduvall', 'now')">Woodinville – Duvall</a></p>
+<p><a href="#" onclick="setDSCookie('edmonds', 'now')">Edmonds</a></p>
+<p><a href="#" onclick="setDSCookie('everettmukilteo', 'now')">Everett – Mukilteo</a></p>
+<p><a href="#" onclick="setDSCookie('lynnwoodmountlaketerrace', 'now')">Lynnwood – Mountlake Terrace</a></p>
+<p><a href="#" onclick="setDSCookie('marysvillearlingtonstanwood', 'now')">Marysville – Arlington – Stanwood</a></p>
+<p><a href="#" onclick="setDSCookie('othersnohomishcounty', 'now')">Snohomish County (other)</a></p>
+<p><a href="#" onclick="setDSCookie('auburn', 'now')">Auburn</a></p>
+<p><a href="#" onclick="setDSCookie('burienseatacdesmoines', 'now')">Burien – SeaTac – Des Moines</a></p>
+<p><a href="#" onclick="setDSCookie('enumclaw', 'now')">Enumclaw</a></p>
+<p><a href="#" onclick="setDSCookie('federalway', 'now')">Federal Way</a></p>
+<p><a href="#" onclick="setDSCookie('kentcovington', 'now')">Kent – Covington</a></p>
+<p><a href="#" onclick="setDSCookie('renton', 'now')">Renton</a></p>
+<p><a href="#" onclick="setDSCookie('tukwila', 'now')">Tukwila</a></p>
+<p><a href="#" onclick="setDSCookie('vashonisland', 'now')">Vashon</a></p>
+<p><a href="#" onclick="setDSCookie('puyallup', 'now')">Puyallup – Sumner</a></p>
+<p><a href="#" onclick="setDSCookie('tacomalakewood', 'now')">Tacoma – Lakewood</a></p>
+<p><a href="#" onclick="setDSCookie('otherpiercecounty', 'now')">Pierce County (other)</a></p>
+<p><a href="#" onclick="setDSCookie('kitsappeninsula', 'now')">Kitsap Peninsula</a></p>
+<p class="label" style="font-size:12px; margin-bottom:2px; white-space:nowrap;">Special report</p>
+<p style="margin-bottom:2px;"><a href="http://seattletimes.com/seachange?prmid=4749"><img alt="Ocean acidification threatens to scramble marine life on a scale almost too big to fathom." class="pic" height="100" src="/ABPub/2014/09/30/2024665710.jpg" style="border:1px solid #ccc;" title="Ocean acidification threatens to scramble marine life on a scale almost too big to fathom." width="220"/></a></p>
+<p class="strongbodytext">Ocean acidification threatens to scramble marine life on an unfathomable scale</p>
+<p class="vspacing"></p>
+<p class="text"></p>
+<p class="label" style="font-size:12px; margin-bottom:2px; white-space:nowrap;">The Seattle Times Historical Archives</p>
+<p style="margin-bottom:2px;"><a href="http://nl.newsbank.com/nl-search/we/Archives/?p_product=HA-SE&amp;p_theme=histpaper&amp;p_action=keyword&amp;prmid=4750"><img alt="" class="pic" height="100" src="/ABPub/2011/08/01/2015790831.jpg" style="border:1px solid #ccc;" title="" width="220"/></a></p>
+<p class="strongbodytext">Browse our newspaper page archives from 1900-1984</p>
+<p class="vspacing"></p>
+<p class="text"></p>
+<p style="white-space:nowrap;">Explore</p>
+<p>The Architecture of the Pacific Northwest</p>
+<p class="vspacing"></p>
+<p class="text"></p>
+<p>Contact/Help</p>
+<p>Connect</p>
+<p>Advertising</p>
+<p>Company</p>
+<p>Subscriber<br/>Services</p>
+<p class="strongtext floatright"><a href="http://seattletimes.com/PDF/frontpage.pdf"><img alt="PDF of today's Seattle Times front page" class="pic" src="http://seattletimes.com/ABPub/frontpage.gif" width="140"/></a><br/>
+<a href="http://seattletimes.com/PDF/frontpage.pdf">Today's front page (PDF)</a></p>
+<p id="footer-bottom-logo"><a href="http://seattletimes.com/html/home/?from=stnb"><img height="30" src="http://seattletimes.com/art/ui/seattletimeslogo_home.gif" width="207"/></a></p>
+<p id="footer-bottom-p1">The Seattle Times Network: 
+					<a href="http://seattletimes.com/html/home/?from=stnb">seattletimes.com</a> | 
+					<a href="http://jobs.seattletimes.com/?from=stnb">Jobs</a> | 
+					<a href="http://autos.seattletimes.com/?from=stnb">Autos</a> | 
+					<a href="http://homes.seattletimes.com/?from=stnb">Homes</a> | 
+					<a href="http://classifieds.seattletimes.com/?from=stnb">Classifieds</a> | 
+					<a href="http://nwhomes.seattletimes.com/homes/search/advanced/for-rent">Rentals</a> | 
+					<a href="http://personals.nwsource.com/?from=stnb">Personals</a></p>
+<p id="footer-bottom-p3">
+<a class="footerpopup" href="http://company.seattletimes.com/notices/notice3.html?from=stnv4">Copyright ©<span class="js_date_year"></span></a>
+<a href="http://company.seattletimes.com/?from=stnv4">The Seattle Times</a> | 
+					<a href="http://mediakit.seattletimes.com/?from=stnv4">Advertise with us</a> | 
+					<a class="footerpopup" href="http://company.seattletimes.com/notices/notice2.html?from=stnv4">Privacy statement</a> | 
+					<a class="footerpopup" href="http://company.seattletimes.com/notices/notice1.html?from=stnv4">Terms of service</a></p>

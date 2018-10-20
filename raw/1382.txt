@@ -1,0 +1,128 @@
+<p>Thanks for contacting us. We've received your submission.</p>
+<p class="section-tag">
+<a class="background-color" href="/business/">Business</a>
+</p>
+<p class="byline">By <a class="michelle-celarier" href="https://nypost.com/author/michelle-celarier/">Michelle Celarier</a></p>
+<p class="contact-submit">
+<input class="pushbutton-wide" type="submit" value="Submit »"/>
+<input name="contact-form-id" type="hidden" value="widget-text-4"/>
+<input name="action" type="hidden" value="grunion-contact-form"/>
+<input name="contact-form-hash" type="hidden" value="c4b73003bd4b26a16a066823ea46f34274e30536"/>
+</p>
+<p class="byline-date">
+									March 11, 2014 <span class="separator">|</span> 10:07pm
+												</p>
+<p>Hedge fund activist Bill Ackman fired off his latest salvo against Herbalife Tuesday, saying the company breaks Chinese pyramid-scheme law by disguising forbidden multilevel recruitment rewards as “consultation” fees.</p>
+<p>The 2 ¹/₂ hour presentation came a day after a scathing front-page article in The New York Times attacked Ackman’s efforts in lobbying for an investigation of Herbalife by regulators. He spent about 10 minutes at the start of the conference call/webcast rebutting it.</p>
+<p>The article, he said, “is not my favorite,” but in his characteristic positive spin, added “No regulator in the world is not aware of the issues around Herbalife” as a result.</p>
+<p>China is Herbalife’s fastest growing market and became controversial earlier this year when Chinese news reports of pyramid activity at other multilevel marketing companies caused Herbalife’s shares to plummet. They fell 1.16 percent after Ackman’s findings were revealed Tuesday, to close at $65.39.</p>
+<p>Ackman’s China presentation showed Herbalife’s compensation plan in China mirrors that of the US, but consulting fees are used to get around its more stringent pyramid laws prohibiting payment for recruitment.</p>
+<p>Chinese distributors told Ackman’s investigators that while Herbalife calls the compensation an hourly consulting fee, the amount isn’t determined by hours worked.</p>
+<p>“Hourly consulting pay is spot on in violation of the law because it’s keyed to the number of people and sales of people below you,” said Ackman. Herbalife is in violation of both civil and criminal laws in China, his attorney David Klafter alleged.</p>
+<p style="margin:12px auto 6px;font-family:Helvetica, Arial, Sans-serif;font-style:normal;font-variant:normal;font-weight:normal;font-size:14px;line-height:normal;font-size-adjust:none;font-stretch:normal;display:block;"><a href="http://www.scribd.com/doc/212025822/Herbalife-in-China" style="text-decoration:underline;" title="View Herbalife in China on Scribd">Herbalife in China</a></p>
+<p><a name="25ff8d550be043106c86142ec8589e5f-56757169-54652679"></a> <form action="//wpcomwidgets.com/?wpcom_origin=https%3A%2F%2Fthenypost.wordpress.com" id="wpcom-iframe-form-091fa5e34ac03240d0447b6284bf4ebf-5bcb6bf9a6ad3" method="post" style="display: none" target="wpcom-iframe-091fa5e34ac03240d0447b6284bf4ebf-5bcb6bf9a6ad3">
+<input name="width" type="hidden" value="100%"/>
+<input name="height" type="hidden" value="600"/>
+<input name="frameborder" type="hidden" value="0"/>
+<input name="style" type="hidden" value=""/>
+<input name="class" type="hidden" value=""/>
+<input name="scrolling" type="hidden" value="no"/>
+<input name="webkitallowfullscreen" type="hidden" value=""/>
+<input name="mozallowfullscreen" type="hidden" value=""/>
+<input name="allowfullscreen" type="hidden" value=""/>
+<input name="resize" type="hidden" value="0"/>
+<input name="replace_attributes" type="hidden" value="1"/>
+<input name="fallback" type="hidden" value='&lt;p class="protected-embed-fallback"&gt;This embed is invalid&lt;/p&gt;'/>
+<input name="_data" type="hidden" value="PGlmcmFtZSBpZD0iZG9jXzE0NzY0IiBzcmM9Ii8vd3d3LnNjcmliZC5jb20vZW1iZWRzLzIxMjAyNTgyMi9jb250ZW50P3N0YXJ0X3BhZ2U9MSZhbXA7dmlld19tb2RlPXNjcm9sbCZhbXA7c2hvd19yZWNvbW1lbmRhdGlvbnM9dHJ1ZSIgaGVpZ2h0PSI2MDAiIHdpZHRoPSIxMDAlIiBmcmFtZWJvcmRlcj0iMCIgc2Nyb2xsaW5nPSJubyIgZGF0YS1hdXRvLWhlaWdodD0iZmFsc2UiIGRhdGEtYXNwZWN0LXJhdGlvPSJ1bmRlZmluZWQiIGNsYXNzPSIiIGFsbG93ZnVsbHNjcmVlbj0iIiByZXNpemU9IjAiIHJlcGxhY2VfYXR0cmlidXRlcz0iMSI+PC9pZnJhbWU+,16c0f3e704c7cf2f98186eb4ee1891f3afdf4e3c"/>
+<input name="_tag" type="hidden" value="protected-iframe"/>
+<input name="_hash" type="hidden" value="091fa5e34ac03240d0447b6284bf4ebf"/>
+</form>
+<iframe allowfullscreen="" class="wpcom-protected-iframe " frameborder="0" height="600" id="wpcom-iframe-091fa5e34ac03240d0447b6284bf4ebf-5bcb6bf9a6ad3" mozallowfullscreen="" name="wpcom-iframe-091fa5e34ac03240d0447b6284bf4ebf-5bcb6bf9a6ad3" scrolling="no" webkitallowfullscreen="" width="100%"></iframe>
+<script type="text/javascript">
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-091fa5e34ac03240d0447b6284bf4ebf-5bcb6bf9a6ad3');
+				var iframe = document.getElementById('wpcom-iframe-091fa5e34ac03240d0447b6284bf4ebf-5bcb6bf9a6ad3');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-091fa5e34ac03240d0447b6284bf4ebf-5bcb6bf9a6ad3'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'readystatechange', function(){ 
+if (document.readyState === 'complete') { 
+func.apply(); 
+} 
+},  false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		</script>
+</p>
+<p>Thirteen-hundred people dialed into the webcast/call.</p>
+<p>Ackman also showed internal Herbalife documents he has received from one of several company employees who’ve gained whistleblower status and are cooperating with US regulators. They reveal that Herbalife uses the same type of recruiting awards in China as in the US — with an additional China bonus. US financial statements call them “sales employee expenses” for China.</p>
+<p>“They’re trying to hide the fact that the China royalty expenses move in lock step with the rest of the world,” Ackman said.</p>
+<p>The Los Angeles-based company said it follows local laws in China.</p>
+<p>Ackman fielded almost 100 questions during the presentation and promised more evidence: a documentary on victims, another webcast on nutrition clubs and one on Herbalife’s Venezuela operations.</p>
+<p class="read-next">
+<a href="https://nypost.com/2014/03/11/tesla-cars-hit-by-new-jersey-ban/">Read Next</a>
+</p>
+<p class="read-next-link">
+<a class="desktop postid-3476233" href="https://nypost.com/2014/03/11/tesla-cars-hit-by-new-jersey-ban/">
+				Tesla cars hit by New Jersey ban			</a>
+</p>
+<p class="read-next">
+<a href="https://nypost.com/2014/03/11/tesla-cars-hit-by-new-jersey-ban/">Read Next</a>
+</p>
+<p class="read-next-link">
+<a class="desktop postid-3476233" href="https://nypost.com/2014/03/11/tesla-cars-hit-by-new-jersey-ban/">
+				Tesla cars hit by New Jersey ban			</a>
+</p>
+<p id="text-share-popup-title">Share Selection</p>
+<p class="share-count">29,429</p>
+<p class="share-count">1,892</p>
+<p class="share-count">1,559</p>
+<p>Post Digital Network</p>
+<p>
+<span id="copyright">© 2018 NYP Holdings, Inc. All Rights Reserved</span><span class="desktop"> | </span><a href="https://nypost.com/terms/">Terms of Use</a> | <a href="https://nypost.com/privacy/">Privacy</a> <span class="desktop">| <a href="https://nypost.com/privacy/#adchoices">Your Ad Choices</a></span> | <a href="https://nypost.com/sitemap/">Sitemap</a>
+</p>
+<p class="newscorp-slider-description">
+							News Corp. is a network of leading companies in the world of diversified media, news, and information services.						</p>

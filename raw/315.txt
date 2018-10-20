@@ -1,0 +1,20 @@
+<p><a class="scmp_button_comment" href="#comments" title="Comments"><span class="icon scmp-icon-comment"></span></a></p>
+<p>Yuan</p>
+<p>Wider trading band is a step towards a freer financial market but may fuel outflow risks</p>
+<p><a class="scmp_button_comment" href="#comments" title="Comments">Comments: <span class="icon scmp-icon-comment"> </span></a></p>
+<p><a class="scmp_button_comment" href="#comments" title="Comments"><span class="icon scmp-icon-comment"></span></a></p>
+<p>Beijing's relaxation of controls on trading of the yuan has been greeted as a welcome step towards a freer financial market, but economists have warned it could fuel capital outflow risks and result in massive losses for holders of yuan structured products in the near term.</p>
+<p>The People's Bank of China announced on Saturday night that it would allow the onshore yuan spot rate to float 2 per cent either side of its daily reference fixing - a doubling of the previous 1 per cent trading band.</p>
+<p>The onshore spot rate fell 0.48 per cent yesterday to an 11-month low of 6.1805 against the US dollar. The offshore reaction was milder, with the yuan closing 0.22 per cent lower at 6.1677.</p>
+<p><a class="colorbox colorbox-insert-image" href="https://www.scmp.com/sites/default/files/2014/03/17/140bbe1830e18c087b084d3f4fbbe67f.jpg" rel="gallery-all" style="font-size: 0.875em; line-height: 1.28571429em;"><img alt="" class="caption image-236w" data-original="https://www.scmp.com/sites/default/files/styles/236w/public/2014/03/17/140bbe1830e18c087b084d3f4fbbe67f.jpg?itok=Nh3GcTez" style="float: left;" typeof="foaf:Image"/></a>A widening of the yuan's trading band had long been expected, but the timing still took the market by surprise.</p>
+<p>Allowing more volatility of the yuan does not mean the currency is going to trade at the extremes of the band right away - its largest one-day move against the dollar last year was just 0.21 per cent - but economists say it could trigger the rapid unwinding of hot money flows into the mainland amid softer economic data and mounting credit risks, with more than 500 billion yuan (HK$631.6 billion) of trust products due to mature in the second quarter.</p>
+<p>"While we maintain our longer-term view of further [yuan] appreciation, the potential shorter-term risk of capital outflow, [given the softening economic backdrop] must be acknowledged," said Geoffrey Kendrick, head of Asian currency and rates strategy at Morgan Stanley.</p>
+<p>The one-month implied volatility of the offshore yuan surged as much as 36 per cent yesterday.</p>
+<p>At least two major banks lowered their expectations for yuan appreciation yesterday. Standard Chartered said the yuan was now likely to breach the level of six against the dollar in the fourth quarter, instead of the second. Bank of America Merrill Lynch said it now expected the yuan to end the year at six per dollar, against an earlier forecast of 6.10.</p>
+<p>A more volatile yuan means investors who placed bets on one-way appreciation by holding structured products could be forced to liquidate and suffer losses.</p>
+<p>For example, the outstanding value of the most popular yuan structured product, target redemption forwards, is estimated at more than US$300 billion.</p>
+<p>JP Morgan said the loss point of most of these products was set at 6.15 to 6.20, meaning investors had already started losing money.</p>
+<p>Despite the short-term turmoil, economists and traders said there was no reason to worry about the yuan's long-term appreciation.</p>
+<p>"This does not mean the medium-term [yuan] appreciation story is over - simply that it no longer can be viewed as a low-volatility, low-risk 'one-way bet'," Standard Chartered said.</p>
+<p class="blurb" style="">You are signed up. We think you'd also like</p>
+<p>business-article-page</p>

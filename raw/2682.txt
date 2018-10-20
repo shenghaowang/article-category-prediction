@@ -1,0 +1,30 @@
+<p class="speakable"> The five-year-old digital currency is increasingly being adopted by brick-and mortar businesses, including dentists, pet boutiques -- even a small honey business in Utah. </p>
+<p class="speakable"> In 2012, about 1,000 businesses used BitPay, the largest processor of Bitcoin payments. Today, more than 26,000 businesses worldwide use BitPay, said Tony Gallippi, its cofounder and CEO. </p>
+<p> The majority of those firms are small businesses -- about half are in the U.S. and the rest are international. And while a majority are online sellers, Gallippi said 20% are merchants with storefronts. </p>
+<p> Most prominent in tech hubs like San Francisco, New York and Atlanta, the shops range from bakeries and wine stores to car dealers and mattress sellers. </p>
+<p> BitPay estimates that there are currently about 5 million active digital wallets, or Bitcoin accounts, worldwide. But the currency has had its fair share of negative headlines lately for the volatile price, underground drug market busts, high-profile hacks and calls for regulation. </p>
+<p> "There's no government agency that's backing Bitcoin," said Jeffery Born, a finance professor at Northeastern University. </p>
+<p> <a href="http://money.cnn.com/infographic/technology/what-is-bitcoin/"><span class="inStoryHeading">Related: What is Bitcoin</span></a> </p>
+<p> But these risks aren't deterring small businesses from embracing the virtual currency. </p>
+<p> Craig Huntzinger started Bees Brothers in 2008 as a booth at a farmer's market in Cache Valley, Utah. Over the years, he added a line of honey-flavored caramels and launched an online store. In January 2012, Huntzinger started accepting Bitcoin<strong> </strong>for online purchases, which he promoted on a Bitcoin forum.<strong> </strong> </p>
+<p> "Initially I was fascinated by this idea of decentralized money and wanted to support it," said Huntzinger. Then he started to appreciate some of its other benefits. </p>
+<p> "It's fast and it makes it easy to sell to anybody in the world," he said. </p>
+<p> It also cuts down on processing fees. Credit cards usually charge 2% to 3% in fees; BitPay and similar processors charge between 0% and 1%. </p>
+<p> Today, about 50% of Bees Brothers transactions -- both wholesale and retail -- are done with Bitcoins. Initially, they came largely from Seattle, New York, L.A. and San Francisco. Now, he said the orders are all over the world. </p>
+<p> <a href="http://money.cnn.com/2014/03/07/technology/bitcoin-denial/"><span class="inStoryHeading">Related: Alleged Bitcoin creator denies he's the one</span></a> </p>
+<p> Nashville's My Second Home, a high-end pet boarding and grooming business, began accepting Bitcoin in January. Chris Starko, its marketing director, said they felt it would give the business a competitive edge. </p>
+<p> "We want to be seen as a progressive company versus our competitors," he said. "The [Bitcoin payment] process takes only a minute, allowing our customers to quickly pick up their pets and make their way home." </p>
+<p> If it takes off, he said it could account for up to 20% of future payments. "We've had many customers tell us they appreciate it." </p>
+<p> <a href="http://money.cnn.com/gallery/smallbusiness/2013/11/21/dangerous-cyberattacks/"><span class="inStoryHeading">Related: 6 most dangerous cyberattacks</span></a> </p>
+<p> Bitcoin's marketing potential is a big reason small businesses are trying it out, said Born. "It's a way to attract new customers." </p>
+<p> It's why Dr. Max Kerr, a dentist, started accepting Bitcoin three months ago at his practice outside Austin. Kerr believes it's a novel way to "put the business on the map," especially with Austin's young, tech-savvy population. </p>
+<p> His uses BitPay to process Bitcoin transactions, which offers three options. Users can have Bitcoin payments converted into cash and deposited into their bank account, they can keep the funds as Bitcoins, or they can or opt for a combination of the two. </p>
+<p> If merchants want to keep payments in Bitcoin, which Gallippi said less than 10% do,<strong> </strong>they need to open a digital wallet through a Bitcoin exchange. </p>
+<p> More than half of BitPay's merchants convert the Bitcoins immediately into cash. That's what Kerr opts for, since it's a way for him to mitigate the risk. </p>
+<p> "In 15 seconds, I'll get an email confirming the deposit," he said. "I just think of it as a cash transaction." </p>
+<p>
+        Most stock quote data provided by BATS. Market indices are shown in real time, except for the DJIA, which is delayed by two minutes. All times are ET. Disclaimer. Morningstar: © 2018 Morningstar, Inc. All Rights Reserved. Factset: FactSet Research Systems Inc.2018. All rights reserved. Chicago Mercantile Association: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&amp;P Dow Jones Indices LLC and have been licensed for use to S&amp;P Opco, LLC and CNN. Standard &amp; Poor's and S&amp;P are registered trademarks of Standard &amp; Poor's Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices © S&amp;P Dow Jones Indices LLC 2018 and/or its affiliates.
+        </p>
+<p>© <span class="footer-year">2018</span> Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.
+        <br/>
+        CNN Sans™ &amp; © 2016 Cable News Network.</p>

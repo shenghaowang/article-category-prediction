@@ -1,0 +1,24 @@
+<p class="weather-nav-location-name"></p>
+<p class="weather-nav-settings-header">Settings</p>
+<p class="ui-btn header-nav-dropdown-dark-btn weather-nav-location-cancel-btn">Cancel</p>
+<p class="ui-btn header-nav-dropdown-light-btn weather-nav-location-set-btn">Set</p>
+<p class="site-nav-firefly-dropdown-text header-light">Hi <span class="site-nav-firefly-user-display-name"></span></p>
+<p class="site-nav-firefly-dropdown-text header-light">Already a subscriber?</p>
+<p class="site-nav-firefly-dropdown-text header-light">Subscribe to USA TODAY</p>
+<p class="site-nav-firefly-dropdown-text header-light">Already a print edition subscriber, but don't have a login?</p>
+<p class="site-nav-firefly-dropdown-text header-light">Manage your account settings.</p>
+<p class="site-nav-firefly-dropdown-text header-light"><a class="ff" data-user-account="firefly" href="https://help.usatoday.com" target="_blank">Support</a></p>
+<p class="site-nav-firefly-dropdown-text header-light"><a class="ff-logout-btn userAuth-redirect" data-ht="HeaderUserAuthLogout" href="https://user.usatoday.com/USAT-GUP/user/logout/?return-url=https%3A//www.usatoday.com/story/money/business/2014/03/14/university-michigan-consumer-sentiment-march/6411685/">Log Out</a></p>
+<p class="partner-scroll-message">Get the news</p>
+<p class="util-bar-flyout-subtitle util-bar-flyout-subtitle-share">Let friends in your social network know what you are reading about</p>
+<p class="util-bar-share-summary-description">The University of Michigan's consumer sentiment index fell to 79.9 in March, its lowest level since November.</p>
+<p class="share-email-success-pane-description">A link has been sent to your friend's email address.</p>
+<p class="util-bar-success-description util-bar-success-description-facebook">A link has been posted to your Facebook feed. </p>
+<p class="util-bar-flyout-subtitle util-bar-flyout-subtitle-comments">To find out more about Facebook commenting please read the <a href="http://static.usatoday.com/conversation-guidelines/">Conversation Guidelines and FAQs</a></p>
+<p class="image-credit-wrap"><span class="js-caption-wrapper"><span class="cutline js-caption">A pedestrian passes by sale signs on a store front window in Chicago.</span><meta content="" itemprop="copyrightHolder"/><span class="credit">(Photo: Kiichiro Sato AP)</span></span></p>
+<p class="speakable-p-1 p-text">In a possible sign of how consumers' mood has soured over a long, bitter winter, the University of Michigan said its consumer sentiment index fell this month to its lowest level since November.</p>
+<p class="speakable-p-2 p-text">The index reading was 79.9, down from 81.6 in February and 82.5 in December. Its most recent high was 85.1 in July.</p>
+<p class="p-text">The weaker level, combined with the surprise 0.1% drop in producer prices for February also reported Friday morning, may both be at least partly weather related, said Michael Englund, of Action Economics.</p>
+<p class="p-text">Consumer sentiment "faces headwinds from economic disruptions related to harsh winter weather, Obamacare, and lingering concerns after last year's mortgage rate spike and government shutdown," Englund said in an analysis after the report.</p>
+<p class="p-text">He predicted the final reading later this month will show a smaller decline.</p>
+<p class="p-text p-text-last" id="article-body-p-last">Weather has slowed the economy, holding back construction, manufacturing, business hiring and other activity, but economists are uncertain how much effect it has had. Many say it may take a couple months before a clear picture of the economy's real health emerges.</p>

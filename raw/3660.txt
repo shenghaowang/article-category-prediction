@@ -1,0 +1,26 @@
+<p class="notification notification--tertiary">
+        For full functionality of this site it is necessary to enable JavaScript.
+        Here are the <a href="http://www.enable-javascript.com/" target="_blank">
+        instructions how to enable JavaScript in your web browser</a>.
+    </p>
+<p>The head of the world’s biggest bond fund, Pimco’s 
+ <person commonname="Bill Gross" fullname="Bill Gross" occupation="CEO Pimco" title="(null)" whoswhoid="(null)">
+  Bill Gross
+ </person> has promised to loosen the reins of control over his portfolio managers just weeks after details of a heated feud between him and his former executive were brought to light.</p>
+<p>Last month, <i>The Wall Street Journal</i> published details of an open-office argument between Mr Gross, who co-founded Pimco in 1971 and Mohamed El-Erian, Pimco’s chief executive, who was quoted saying “I’m tired of cleaning up your s---", in reference to conduct by Mr Gross he felt was hurting Pimco.</p>
+<p>It has since been revealed <a href="http://www.ft.com/intl/cms/s/0/45361502-a92a-11e3-bf0c-00144feab7de.html?siteedition=intl">in a <i>Financial Times</i> report</a> Morningstar analyst Eric Jacobson, who recently met with Mr Gross, said the 69-year-old seems “very contemplative about mistakes he may have made in shaping that atmosphere in the past".</p>
+<p>He added Mr Gross “has speculated there may have been a lot more silence in the room when he and Mohamed [El-Erian] were dominating the [investment] committee, because members of the group were anxious about taking positions that might upset one of them or the other," the <i>Times</i> reported.</p>
+<p>Research house Morningstar, whose recommendations are widely followed by retail investors, has expressed concern over management turmoil at the $US1.9 trillion ($2.2 trillion) bond firm.</p>
+<p>Institutional clients and investment consultants have also added Pimco to their “watch lists" of potentially troubled managers since the sudden resignation of Mr El-Erian, Mr Gross’s co-chief investment officer and heir apparent, in January.</p>
+<p>The disagreements with Mr El-Erian came at the same time as the performance of Mr Gross’s flagship Total Return Fund fell behind rivals last June after speculation intensified about the US Federal Reserve tapering its massive bond buying program.</p>
+<p class="article__source">
+<cite>
+<em>
+                        The Australian Financial Review</em>
+</cite>
+</p>
+<p>The Australian Financial Review</p>
+<p>www.afr.com</p>
+<p>Get unlimited access to Australia's best business news and market insights, including our award-winning app.</p>
+<p class="prompt__cta-footnote">Already a subscriber? <a class="bind-hagrid-login" href="#" title="">Log in</a>
+</p>

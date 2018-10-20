@@ -1,0 +1,39 @@
+<p class="global-nav__context-title"></p>
+<p class="form__fieldset-conditions">By subscribing, you agree to SBS’s <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions" rel="noopener" target="_blank">terms of service</a> and <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement" rel="noopener" target="_blank">privacy policy</a> including receiving email updates from SBS.</p>
+<p class="form__fieldset-title">Please select the editions you would like to sign up to</p>
+<p class="form__message-title"><span class="icon icon--tick"></span><strong>Thank you for signing up</strong></p>
+<p class="form__message-body"></p>
+<p class="form__message-title"><span class="icon"></span><strong>Sorry, it looks like an error occurred</strong></p>
+<p class="form__message-body">Please refresh the page and try again.</p>
+<p class="text-abstract__content">Internet giant Yahoo benefits from its stake in Alibaba Group with its shares gaining four per cent on news of the China company's IPO plans.</p>
+<p>Yahoo is benefiting once again from its stake in China's hottest internet company, Alibaba Group.</p>
+<p>Investors latched on to Yahoo on Monday in anticipation of a huge windfall from Alibaba's initial public offering of stock later this year. Yahoo's stock gained $US1.51, or four per cent, to close at $US39.11.</p>
+<p>Alibaba ignited the excitement about its forthcoming IPO by announcing plans to list its stock on a US exchange.</p>
+<p>Yahoo Inc is expected to sell about half its 24 per cent stake in Alibaba as part of an IPO that analysts believe could raise $US15 billion ($A16.78 billion). That means Yahoo is likely to collect several billion dollars from AIibaba's IPO. That money could then be used to pay a special dividend to shareholders or buy back more of its stock.</p>
+<p class="connect-sbs__title">Stay up to date with SBS NEWS</p>
+<p class="tab__title">SBS News App</p>
+<p class="tab__description">Download our free app on the App Store or Google Play for the latest headlines and breaking news alerts.</p>
+<p class="tab__footnote">We love feedback: help us improve by rating the app and sharing your suggestions at <a href="mailto:apps@sbs.com.au" title="apps@sbs.com.au">apps@sbs.com.au</a></p>
+<p class="form__fieldset-title">News to your inbox</p>
+<p class="form__fieldset-description">Sign up now for the latest news from Australia and around the world direct to your inbox.</p>
+<p class="form__fieldset-conditions">By subscribing, you agree to SBS’s <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions" rel="noopener" target="_blank">terms of service</a> and <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement" rel="noopener" target="_blank">privacy policy</a> including receiving email updates from SBS.</p>
+<p class="form__fieldset-title">Please select the editions you would like to sign up to</p>
+<p class="form__message-title"><span class="icon icon--tick"></span><strong>Thank you for signing up</strong></p>
+<p class="form__message-body"></p>
+<p class="form__message-title"><span class="icon"></span><strong>Sorry, it looks like an error occurred</strong></p>
+<p class="form__message-body">Please refresh the page and try again.</p>
+<p class="tab__title">SBS News on social</p>
+<p class="tab__description">Follow SBS News to join in the conversation and never miss the latest live updates.</p>
+<p class="tab__title">Latest News podcasts</p>
+<p class="tab__description">Ask <a href="https://www.sbs.com.au/news/sbs-news-bulletins-to-be-available-via-amazon-alexa" onclick="sbs_s.linkTrackVars='None';sbs_s.linkTrackVars='contextData.marketing-module';sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen.alexa';sbs_s.tl(true,'o','Marketing-Module');" title="Amazon Alexa">Amazon Alexa</a> for the latest SBS News or listen to <a href="https://www.sbs.com.au/radio/article/2015/03/07/download-sbs-radios-free-mobile-app" onclick="sbs_s.linkTrackVars='None';sbs_s.linkTrackVars='contextData.marketing-module';sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen.sbsRadio';sbs_s.tl(true,'o','Marketing-Module');" title="SBS Radio">SBS Radio</a>.</p>
+<p class="tab__title">Daily Bulletin</p>
+<p class="tab__description">Watch SBS World News live daily at 6:30pm on TV and <a class="custom_action" href="#" onclick="sbs_s.linkTrackVars='None';sbs_s.linkTrackVars='contextData.marketing-module';sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch.ourApp';sbs_s.tl(true,'o','Marketing-Module');" title="our app">on our app</a>. Catch up on <a href="https://www.sbs.com.au/ondemand/program/sbs-world-news" onclick="sbs_s.linkTrackVars='None';sbs_s.linkTrackVars='contextData.marketing-module';sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch.od';sbs_s.tl(true,'o','Marketing-Module');" title="SBS On Demand">SBS On Demand</a>.</p>
+<p class="headline preview__headline"><a href="/news/morrison-government-loses-majority-as-phelps-stuns-wentworth-with-unprecedented-win">Morrison government loses majority as Phelps stuns Wentworth with unprecedented win</a></p>
+<p class="headline preview__headline"><a href="/news/scott-morrison-rallies-liberals-after-defeat">Scott Morrison rallies Liberals after defeat</a></p>
+<p class="headline preview__headline"><a href="/news/government-to-boycott-saudi-summit-over-khashoggi-killing-payne">Government to boycott Saudi summit over Khashoggi killing: Payne</a></p>
+<p class="headline preview__headline"><a href="/news/massive-downpour-fails-to-dampen-invictus-spirit">Massive downpour fails to dampen Invictus spirit</a></p>
+<p class="headline preview__headline"><a href="/news/us-lottery-prize-climbs-to-a-record-2-2-billion">US lottery prize climbs to a record $2.2 billion</a></p>
+<p class="headline preview__headline"><a href="/news/migrant-caravan-heading-to-us-stopped-by-mexican-riot-police">Migrant caravan heading to US stopped by Mexican riot police</a></p>
+<p class="headline preview__headline"><a href="/news/trump-saudi-explanation-of-journalist-khashoggi-death-credible">Trump: Saudi explanation of journalist Khashoggi death credible</a></p>
+<p class="headline preview__headline"><a href="/news/grief-and-anger-in-india-as-families-mourn-train-deaths">Grief and anger in India as families mourn train deaths</a></p>
+<p class="headline preview__headline"><a href="/news/sale-of-21st-century-marie-antoinette-s-jewels-on-show-before-auction">'Sale of 21st century': Marie Antoinette's jewels on show before auction</a></p>

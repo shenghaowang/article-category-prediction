@@ -1,0 +1,3 @@
+<p class="edition-picker__radio-button-label">Set edition preference:</p>
+<p class="edition-picker__radio-button-label">Set edition preference:</p>
+<p class="edition-picker__radio-button-label">Set edition preference:</p>

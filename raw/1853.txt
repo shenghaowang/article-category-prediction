@@ -1,0 +1,42 @@
+<p>Thanks for contacting us. We've received your submission.</p>
+<p class="section-tag">
+<a class="background-color" href="/news/">News</a>
+</p>
+<p class="byline">By Associated Press</p>
+<p class="contact-submit">
+<input class="pushbutton-wide" type="submit" value="Submit »"/>
+<input name="contact-form-id" type="hidden" value="widget-text-4"/>
+<input name="action" type="hidden" value="grunion-contact-form"/>
+<input name="contact-form-hash" type="hidden" value="c4b73003bd4b26a16a066823ea46f34274e30536"/>
+</p>
+<p class="byline-date">
+									March 11, 2014 <span class="separator">|</span> 10:24am
+												</p>
+<p>LONGMONT, Colo. — A Longmont-based earth-imagery company is asking computer users to scan and tag images of more than 1,200 square miles of ocean for any visible evidence that could help locate the Malaysia Airlines 777 aircraft that went missing this weekend.</p>
+<p><a href="http://www.denverpost.com/business/ci_25315311/digitalglobe-launches-crowdsource-search-missing-malaysian-plane">The Denver Post reports</a> that DigitalGlobe has directed two of its satellites to snap photos of areas in the Gulf of Thailand, where investigators suspect the plane may have crashed. The company is asking the public to report any evidence of a crash.</p>
+<p>Flight MH370, with 239 people on board, lost communication while on its way to Beijing from Kuala Lumpur. The missing plane continues to perplex investigators.</p>
+<p>Within the first hour Monday, <a href="http://www.tomnod.com/nod/challenge/malaysiaairsar2014">the company map</a> had 60,000 page views. The findings are available to authorities.</p>
+<p class="read-next">
+<a href="https://nypost.com/2014/03/11/crimea-moves-step-closer-to-becoming-independent-state/">Read Next</a>
+</p>
+<p class="read-next-link">
+<a class="desktop postid-3468143" href="https://nypost.com/2014/03/11/crimea-moves-step-closer-to-becoming-independent-state/">
+				Crimea moves step closer to becoming independent state			</a>
+</p>
+<p class="read-next">
+<a href="https://nypost.com/2014/03/11/crimea-moves-step-closer-to-becoming-independent-state/">Read Next</a>
+</p>
+<p class="read-next-link">
+<a class="desktop postid-3468143" href="https://nypost.com/2014/03/11/crimea-moves-step-closer-to-becoming-independent-state/">
+				Crimea moves step closer to becoming independent state			</a>
+</p>
+<p id="text-share-popup-title">Share Selection</p>
+<p class="share-count">73,150</p>
+<p class="share-count">65,085</p>
+<p class="share-count">39,348</p>
+<p>Post Digital Network</p>
+<p>
+<span id="copyright">© 2018 NYP Holdings, Inc. All Rights Reserved</span><span class="desktop"> | </span><a href="https://nypost.com/terms/">Terms of Use</a> | <a href="https://nypost.com/privacy/">Privacy</a> <span class="desktop">| <a href="https://nypost.com/privacy/#adchoices">Your Ad Choices</a></span> | <a href="https://nypost.com/sitemap/">Sitemap</a>
+</p>
+<p class="newscorp-slider-description">
+							News Corp. is a network of leading companies in the world of diversified media, news, and information services.						</p>

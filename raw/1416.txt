@@ -1,0 +1,43 @@
+<p class="addl-text">Use commas to separate multiple email addresses</p>
+<p class="msg-sent">Your message has been sent.</p>
+<p class="msg-sent">There was an error emailing this page.</p>
+<p class="name" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="/author/Lucian-Constantin/" rel="author" title="Lucian Constantin"><img alt="Lucian Constantin" class="bylineImage imgId100258922 " itemprop="image" src="https://images.techhive.com/images/article/2014/04/lucian_constantin-100258922-byline.jpg" width="34"/></a>
+<span class="by">By </span><span class="fn" itemprop="name"><a href="/author/Lucian-Constantin/" itemprop="url" rel="author"><span itemprop="name">Lucian Constantin</span></a></span>
+</p>
+<p class="dateline">
+						
+							Romania Correspondent, 
+								
+									
+								
+
+
+
+
+
+
+
+
+
+
+
+
+<span itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization"><span class="publisher" itemprop="name"><a href="http://www.idgnews.net/" rel="nofollow" target="_blank">IDG News Service</a></span><meta content="https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png" itemprop="logo"/></span> <span class="divider break">|</span>
+<span class="break-date" content="2014-03-17T10:36-0700" itemprop="datePublished">Mar 17, 2014
+								
+							</span>
+</p>
+<p>An archive containing transaction records from Mt. Gox that was released on the Internet last week by the hackers who <a href="http://www.pcworld.com/article/2106200/mt-gox-ceos-blog-goes-blank-after-alleged-hack.html" target="_blank">compromised the blog of Mt. Gox CEO Mark Karpeles</a> also contains bitcoin-stealing malware for Windows and Mac.</p>
+<p>Security researchers from antivirus firm Kaspersky Lab analyzed the 620MB file called MtGox2014Leak.zip and concluded that in addition to various Mt. Gox-related documents and data, it contains malicious binary files.</p>
+<p><strong>[ Learn how to secure your systems with the <a href="http://www.infoworld.com/browser-security-deep-dive?idglg=?ifwelg_fssr">Web Browser Deep Dive PDF special report</a> and <a href="http://www.infoworld.com/newsletters/subscribe?showlist=infoworld_sec_rpt&amp;source=ifwelg_fssr">Security Central newsletter</a>, both from InfoWorld. ]</strong></p>
+<p>The files masquerade as Windows and Mac versions of a custom, back-office application for accessing the transaction database of Mt. Gox, a large bitcoin exchange that filed for bankruptcy in Japan in late February after claiming it had lost about 850,000 bitcoins to cyber  thieves.</p>
+<p>However, they are actually malware programs designed to search and steal Bitcoin wallet files from computers, Kaspersky security researcher Sergey Lozhkin said Friday in a <a href="http://www.securelist.com/en/blog/8196/Analysis_of_Malware_from_the_MtGox_leak_archive" rel="nofollow" target="_blank">blog post</a>.</p>
+<p>Both the Windows and Mac binaries are written in LiveCode, a programming language for developing cross-platform applications.</p>
+<p>When executed, they display a graphical interface for what appears to be a Mt. Gox database access tool. However, in the background they launch a process -- TibanneSocket.exe on Windows -- that searches for bitcoin.conf and wallet.dat files on the user's computer, according to Lozhkin. "The latter is a critical data file for a Bitcoin crypto-currency user: if it is kept unencrypted and is stolen, cyber criminals will gain access to all bitcoins the user has in his possession for that specific account."</p>
+<p>The malware, which Kaspersky has named Trojan.Win32.CoinStealer.i (the Windows version) and Trojan.OSX.Coinstealer.a (the Mac version), uploads the stolen Bitcoin wallet files to a remote server that used to be located in Bulgaria, but is now offline.</p>
+<p>"It seems that the whole leak was invented to infect computers with Bitcoin-stealer malware that takes advantage of people's keen interest in the Mt. Gox topic," Lozhkin said.</p>
+<p>"Malware creators often using social engineering tricks and hot discussion topics to spread malware, and this is great example of an attack on a focused target audience," he said.</p>
+<p>Users who downloaded the archive and executed any of the binary files inside should probably scan their computers with an anti-malware program and should take immediate steps to secure their bitcoins. According to <a href="https://www.virustotal.com/en/file/7703156e32c58fcec4736224e60c8dd45058dd204027c5b43d10d6718a622115/analysis/" rel="nofollow" target="_blank">a scan report Monday on the VirusTotal service</a>, 27 of 47 anti-virus engine detect the Windows binary file as malicious or suspicious.</p>
+<p class="bio">Lucian Constantin is an IDG News Service correspondent. He writes about information security, privacy, and data protection.</p>
+<p><a href="/about/copyright.html">Copyright</a> © 2018 IDG Communications, Inc.</p>

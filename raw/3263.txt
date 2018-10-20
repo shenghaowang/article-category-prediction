@@ -1,0 +1,113 @@
+<p class="widget-title widgettitle">Share This Article</p>
+<p class="widget-title widgettitle">Email this Article</p>
+<p class="entry-meta">By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/rmcclay/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Rebecca McClay</span></a></span>, <span class="author-attribution">Money Morning</span> <span class="sep">•</span> <time class="entry-time" datetime="2014-03-12T16:13:52+00:00" itemprop="datePublished">March 12, 2014</time> </p>
+<p>Start the conversation</p>
+<p class="comment-reply-title" id="reply-title">Leave a Reply <small><a href="/2014/03/12/stock-market-today-dow-jones-industrial-average-falls-stocks-soar/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Click here to cancel reply.</a></small></p>
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>
+<p class="comment-form-comment"><label for="comment">Comment</label> <textarea aria-required="true" cols="45" id="comment" maxlength="65525" name="comment" required="required" rows="8"></textarea></p>
+<p class="mm-signup-comment-checkbox"><label><input checked="checked" class="mm-signup" id="mm-signup" name="mm-signup" type="checkbox" value="1"/> Sign me up for the <em>Money Morning</em> newsletter</label></p>
+<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input aria-required="true" id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input aria-describedby="email-notes" aria-required="true" id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" maxlength="200" name="url" size="30" type="url" value=""/></p>
+<p class="cptch_block"><br/><span class="cptch_wrap">
+<label class="cptch_label" for="cptch_input">
+<span class="cptch_span">9</span>
+<span class="cptch_span"> − </span>
+<span class="cptch_span"><input aria-required="true" autocomplete="off" class="cptch_input " id="cptch_input_56" maxlength="2" name="cptch_number" required="required" size="2" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;" type="text" value=""/></span>
+<span class="cptch_span"> = </span>
+<span class="cptch_span">seven</span>
+<input name="cptch_result" type="hidden" value="Pq0="/>
+<input name="cptch_time" type="hidden" value="1540059163"/>
+<input type="hidden" value="Version: 4.2.2"/>
+</label><span class="cptch_reload_button_wrap hide-if-no-js">
+<noscript>
+<style type="text/css">
+							.hide-if-no-js {
+								display: none !important;
+							}
+						</style>
+</noscript>
+<span class="cptch_reload_button dashicons dashicons-update"></span>
+</span></span></p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Submit &gt;"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="125085"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="6f3ab028ee"/></p>
+<p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="226"/></p>
+<p>
+  U.S.  stocks closed mixed today, with the Dow Jones Industrial Average incurring  losses, while the S&amp;P 500 and the tech-heavy Nasdaq noted modest gains.</p>
+<p>
+<a href="http://www.moneymorning.com/tag/dow-jones-industrial-average" target="_blank"><strong>The  Dow Jones Industrial Average</strong></a><strong> </strong>closed down 0.07% or 11 points,  to 16,340; <a href="https://www.google.com/finance?q=INDEXSP%3A.INX&amp;ei=k5jmUsmxO6GK6gHj5QE" rel="nofollow" target="_blank">the S&amp;P 500</a> closed up 0.03%, or 0.5 points,  at 1,868 points; and <a href="https://www.google.com/finance?q=INDEXNASDAQ%3A.IXIC&amp;sq=nasdaq&amp;sp=1&amp;ei=vJjmUoD2LMyy6wHR8AE" rel="nofollow" target="_blank">the Nasdaq</a> closed up 0.5%, or 16 points, at  4,323 points.</p>
+<p>
+  Energy  futures fell today, with crude oil, heating oil, and natural gas futures  significantly off. Light, sweet crude oil for April delivery is down 2.1% at $97.91  per barrel today; heating oil is down 1.4% at $2.92 per gallon; and natural gas  is down 1.7% at $4.52 per million BTUs.</p>
+<p>
+  Meanwhile,  metals futures rose, with gold trading up 1.5% at $1,367.50 per ounce, platinum  trading up 0.7% at $1,475.30 per troy ounce, and silver rising 2.2% at $21.28  per ounce.</p>
+<p>  Facebook  Inc. (Nasdaq: <a href="https://moneymorning.com/stocks/fb/" target="_blank">FB</a>) shares traded up about 1% today  as the company claimed headlines for two separate stories. </p>
+<p>
+  First,  Facebook's Chief Operating Officer Sheryl Sandberg is rumored to be the  possible next head of The Walt Disney Co. (NYSE: <a href="https://moneymorning.com/stocks/dis/" target="_blank">DIS</a>), according to coverage that  started with the New York Post. Sandberg is on Disney's board of directors.  However, other reports are skeptical of the speculation, which is unattributed.</p>
+<p>
+  Second,  Facebook's headquarters in Menlo Park, Calif., were on lock down yesterday  until late in the evening due to a "possible threat."</p>
+<p>
+<span style="color:red"> Note:</span><strong> </strong><strong><em>The Fed's 2014 taper means volatility ahead. So we've  outlined how to find profits in a volatile market – like triple-digit gains in  just days – </em></strong><a href="https://moneymorning.com/active-premiums/market-crash-insurance/?src=organic" target="_blank"><strong><em>if you start with this strategy…</em></strong></a> </p>
+<p>  Several  stocks bucked today's down market on positive news, including SolarCity Corp. (Nasdaq: <a href="https://moneymorning.com/stocks/scty/" target="_blank">SCTY</a>) and BG Medicine Inc. (Nasdaq: <a href="https://moneymorning.com/stocks/bgmd/" target="_blank">BGMD</a>). </p>
+<p>
+  BG  Medicine shares were up as much as 20% today after the life sciences company  said late Tuesday that it received approval to continue listing on Nasdaq after  proving compliance.</p>
+<p>
+  BG Medicine  likely also received a boost after La Jolla Pharmaceutical welcomed positive  results from a phase 2 clinical trial on chronic kidney disease. The study met  primary endpoints using BG Medicine's BGM Galectin-3 test.</p>
+<p>
+  And  Solar City Corp. (Nasdaq: <a href="https://moneymorning.com/stocks/scty/" target="_blank">SCTY</a>) shares rose more than 5% after  the solar company partnered with Best Buy Inc. (NYSE: <a href="https://moneymorning.com/stocks/bby/" target="_blank">BBY</a>) to launch solar-panel  consulting and sales locations in about 60 of Best Buy's store.</p>
+<p>  Herbalife  Ltd. (NYSE: <a href="https://moneymorning.com/stocks/hlf/" target="_blank">HLF</a>) and Express Inc. (NYSE: <a href="https://moneymorning.com/stocks/expr/" target="_blank">EXPR</a>) were among the stocks incurring  losses on top of the overall stock market slump.</p>
+<p>
+  Herbalife  shares plunged about 9% after trading was halted as it said it received a Civil  Investigative Demand from the Federal Trade Commission after volatile trading.  The nutrition company said it will cooperate in the probe and said it is in  compliance with FTC regulations.</p>
+<p>
+  And, Express  shares plummeted more than 12%, marking a 52-week low of $15.51 in today's  session on its fourth-quarter results, with both earnings and revenue falling  below the Street view.</p>
+<p>
+  Express  reported $0.57 per share in earnings and $715.9 million in revenue versus the  Street view of $0.59 per share and $722 million in revenue.</p>
+<p>
+<strong>This stock has a huge profit  opportunity ahead of it, and you're going to want to buy shares now… </strong><a href="https://moneymorning.com/2014/03/12/buy-shares-google/" target="_blank"><strong>before Google does.</strong></a><strong> </strong></p>
+<p><a class="scroll-to-comments" href="#respond">Join the conversation. Click here to jump to comments…</a></p>
+<p>Tags: <a href="https://moneymorning.com/tag/dow-jones-industrial-average/" rel="tag">Dow Jones Industrial Average</a>, <a href="https://moneymorning.com/tag/earnings/" rel="tag">earnings</a>, <a href="https://moneymorning.com/tag/earnings-calendar/" rel="tag">earnings calendar</a>, <a href="https://moneymorning.com/tag/earnings-reports/" rel="tag">earnings reports</a>, <a href="https://moneymorning.com/tag/facebook-stock/" rel="tag">Facebook Stock</a>, <a href="https://moneymorning.com/tag/nasdaq-fb/" rel="tag">Nasdaq: FB</a>, <a href="https://moneymorning.com/tag/sp-500/" rel="tag">S&amp;P 500</a>, <a href="https://moneymorning.com/tag/stock-market-news/" rel="tag">stock market news</a>, <a href="https://moneymorning.com/tag/stock-market-news-today/" rel="tag">stock market news today</a>, <a href="https://moneymorning.com/tag/stock-market-today/" rel="tag">Stock Market Today</a>, <a href="https://moneymorning.com/tag/todays-earnings/" rel="tag">today's earnings</a>, <a href="https://moneymorning.com/tag/todays-market-news/" rel="tag">today’s market news</a>, <a href="https://moneymorning.com/tag/todays-stock-market-news/" rel="tag">Today’s stock market news</a></p>
+<p class="comment-reply-title" id="reply-title">Leave a Reply <small><a href="/2014/03/12/stock-market-today-dow-jones-industrial-average-falls-stocks-soar/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Click here to cancel reply.</a></small></p>
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>
+<p class="comment-form-comment"><label for="comment">Comment</label> <textarea aria-required="true" cols="45" id="comment" maxlength="65525" name="comment" required="required" rows="8"></textarea></p>
+<p class="mm-signup-comment-checkbox"><label><input checked="checked" class="mm-signup" id="mm-signup" name="mm-signup" type="checkbox" value="1"/> Sign me up for the <em>Money Morning</em> newsletter</label></p>
+<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input aria-required="true" id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input aria-describedby="email-notes" aria-required="true" id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" maxlength="200" name="url" size="30" type="url" value=""/></p>
+<p class="cptch_block"><br/><span class="cptch_wrap">
+<label class="cptch_label" for="cptch_input">
+<span class="cptch_span">two</span>
+<span class="cptch_span"> + </span>
+<span class="cptch_span"><input aria-required="true" autocomplete="off" class="cptch_input " id="cptch_input_18" maxlength="2" name="cptch_number" required="required" size="2" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;" type="text" value=""/></span>
+<span class="cptch_span"> = </span>
+<span class="cptch_span">nine</span>
+<input name="cptch_result" type="hidden" value="dKg="/>
+<input name="cptch_time" type="hidden" value="1540059163"/>
+<input type="hidden" value="Version: 4.2.2"/>
+</label><span class="cptch_reload_button_wrap hide-if-no-js">
+<noscript>
+<style type="text/css">
+							.hide-if-no-js {
+								display: none !important;
+							}
+						</style>
+</noscript>
+<span class="cptch_reload_button dashicons dashicons-update"></span>
+</span></span></p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Submit &gt;"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="125085"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="6f3ab028ee"/></p>
+<p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="122"/></p>
+<p>
+					Choose from the topics below to receive our<wbr/>
+					money-making recommendations in real time.
+				</p>
+<p class="fpw-entry-meta"><time class="entry-time" datetime="2018-10-19T15:44:38+00:00" itemprop="datePublished">October 19, 2018</time> • By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/tom-gentile/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Tom Gentile</span></a></span> <span class="entry-comments-link"><a href="https://moneymorning.com/investing/use-options-to-profit-from-these-10-worst-performing-stocks/#respond">Leave a Comment</a></span></p>
+<p class="fpw-entry-meta"><time class="entry-time" datetime="2018-10-19T15:32:42+00:00" itemprop="datePublished">October 19, 2018</time> • By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/mmstaffreports/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Money Morning Staff Reports</span></a></span> <span class="entry-comments-link"><a href="https://moneymorning.com/2018/10/19/3-must-watch-penny-stocks-in-october-2018/#respond">Leave a Comment</a></span></p>
+<p class="fpw-entry-meta"><time class="entry-time" datetime="2018-10-19T15:09:53+00:00" itemprop="datePublished">October 19, 2018</time> • By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/mmnewsteam/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Money Morning News Team</span></a></span> <span class="entry-comments-link"><a href="https://moneymorning.com/2018/10/19/the-best-defense-stock-to-buy-in-october/#respond">Leave a Comment</a></span></p>
+<p class="widget-title">Trending Posts</p>
+<p class="disclaimer">By submitting your email address you will receive a free subscription to VQScore and occasional special offers from Money Map Press and our affiliates. You can unsubscribe at anytime and we encourage you to read more about our <a href="/privacy/" target="_blank">privacy policy</a>.</p>
+<p>Money Morning gives you access to a team of ten market experts with more than 250 years of combined investing experience – for free. Our experts – who have appeared on FOXBusiness, CNBC, NPR, and BloombergTV – deliver daily investing tips and stock picks, provide analysis with actions to take, and answer your biggest market questions. Our goal is to help our millions of e-newsletter subscribers and Moneymorning.com visitors become smarter, more confident investors. </p>
+<p>© 2018 Money Morning All Rights Reserved. Protected by copyright of the United States and international treaties. Any reproduction, copying, or redistribution (electronic or otherwise, including the world wide web), of content from this webpage, in whole or in part, is strictly prohibited without the express written permission of Money Morning. </p>
+<p>Address: 1125 N Charles Street | Baltimore, MD, 21201 | USA | Phone: 888.384.8339 | <a href="https://moneymorning.com/legal-disclaimers/">Disclaimer</a> | <a href="https://moneymorning.com/sitemap/">Sitemap</a> | <a href="https://moneymorning.com/privacy/">Privacy Policy</a> | <a href="https://moneymorning.com/whitelist/">Whitelist Us</a></p>

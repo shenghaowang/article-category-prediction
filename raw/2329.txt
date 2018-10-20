@@ -1,0 +1,13 @@
+<p><img alt="France" src="../../../../../assets/comms_update/images/flags/fr.png" title="France"/><span><a href="../../../../../lists/country/france">France</a></span></p>
+<p>French mobile operator Bouygues Telecom has submitted a revised offer for Vivendi’s telecoms unit <span class="caps">SFR</span>. According to a company press release, Bouygues Telecom proposes to lift its initial offer by EUR1 billion (USD1.39 billion); under the terms set out by the updated bid, Bouygues Telecom is tabling a bid of EUR11.3 billion in cash (an increase of EUR800 million), as well as a 43% interest in the enlarged, newly established entity. The new offer values Bouygues’ larger rival <span class="caps">SFR</span> at EUR15.5 billion (pre-synergies) and at nearly EUR20 billion after taking in all synergies. Further, Bouygues pledges to facilitate an initial public offering (<span class="caps">IPO</span>) as soon as the merger is completed, giving an immediate opportunity for Vivendi to monetise its interest.</p>
+<p>As previously reported by TeleGeography’s CommsUpdate, last week Vivendi received two bids for France’s second largest mobile provider in terms of subscribers, from domestic broadband operator Numericable, majority owned by Luxembourg-based investment fund Altice Group, and Bouygues; both suitors initially valued <span class="caps">SFR</span> at around EUR19 billion–EUR20 billion. Earlier this week, Vivendi asked all interested parties to submit their final offers before its board of directors meeting, scheduled for 14 March 2014; however, Patrick Drahi, <span class="caps">CEO</span> of Altice Group, reportedly said that he will not raise his bid for <span class="caps">SFR</span>. Numericable and its parent offered a bid which consists of EUR11 billion in cash (comprising EUR8 billion in debt and EUR3 million via a capital increase) and 32% of the newly merged entity.</p>
+<p></p>
+<p></p>
+<p><div class="mc-field-group"><br/>
+<label for="mce-EMAIL">Email Address </label><br/>
+<input class="required email" id="mce-EMAIL" name="EMAIL" type="email" value=""/></div></p>
+<p>Have feedback, corrections, or story ideas? Send them to <a href="mailto:editors@commsupdate.com">editors@commsupdate.com</a>.</p>
+<p>Filter CommsUpdate by the following categories or use the search.</p>
+<p>Visit our <a href="/products/commsupdate/help/">help page</a> information on performing advanced searches, including how to restrict the results by country or company.</p>
+<p>CommsUpdate is an outstanding advertising venue for companies seeking to reach:</p>
+<p><a href="/advertise/">Learn more about advertising on CommsUpdate.</a></p>

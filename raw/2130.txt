@@ -1,0 +1,31 @@
+<p>Who’s “Goxing” who now? Vitriolic hackers hijacked Mt. Gox CEO Mark Karpeles’s personal blog, Tumblr and Reddit accounts yesterday, hurling accusations that head of the defunct exchange is sitting on the missing $500 million-plus bitcoins he says cyber attackers stole.</p>
+<p>The anonymous hackers leaked data allegedly proving that customer bitcoins are not lost after all and that some 951,116 BTC might still exist and Karpeles is still in control of them.</p>
+<p>Meanwhile, <a href="http://www.coindesk.com/mt-gox-hackers-claim-release-transaction-details-ceos-personal-data/" style="text-decoration:none;">CoinDesk warns</a> that the leaked .exe and .app files “are bitcoin wallet-stealing trojans.” The issuer of the CoinDesk Bitcoin Price Index strongly cautions against opening the files and advises anyone who already has to “transfer your bitcoins to another wallet immediately.”</p>
+<p><strong>Related: <a href="https://www.entrepreneur.com/article/231920">6 Bitcoin Basics for Beginners</a></strong></p>
+<p>Mt. Gox has not yet officially commented on the hacker attacks, but a spam warning titled “scam alert notification” appeared on its <a href="https://www.mtgox.com/" style="text-decoration:none;">website</a> last night.</p>
+<p>The 700-plus MB data dump “evidence,” which consists of a large zip file called “MtGox2014Leak.zip,” was posted on Karpeles’ now offline <a href="http://www.magicaltux.net" style="text-decoration:none;">MagicalTux.net</a> blog and microblogging accounts.</p>
+<p>Not long after the leak, which might have come from disgruntled former Mt. Gox employees, individuals claiming to be Mt. Gox customers took to <a href="https://twitter.com/Falkvinge/status/442717570089877504" style="text-decoration:none;">Twitter</a> to say that they opened the zip file and were able to confirm their own account balances based on their user Mt. Gox IDs issued in their initial Mt. Gox registration email.</p>
+<p>Someone also posted an Excel spreadsheet mirror of based on the leaked data with accounts and balances stripped of identifying user information. Although the mirror spreadsheet appears to no longer be available from the source, several <a href="http://www.coindesk.com/mt-gox-hackers-claim-release-transaction-details-ceos-personal-data/" style="text-decoration:none;">screenshots of it</a> are making the rounds on various news sites, blogs and social media platforms. One leaked document appears to have exposed two of Karpeles’ residential street addresses.</p>
+<p><strong>Related: <a href="https://www.entrepreneur.com/article/231973">50 Insane Facts About Bitcoin (Infographic)</a></strong></p>
+<p>The Bitcoin community continues to debate the validity of the allegedly stolen files.</p>
+<p> </p>
+<p><a href="https://twitter.com/arthurcosti">@arthurcosti</a> Found my own balance. It agrees with other data for the account (withdrawal limit, last login). <a href="https://twitter.com/CharlieShrem">@CharlieShrem</a> <a href="https://twitter.com/RNPJHP">@RNPJHP</a></p>
+<p> </p>
+<p><script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script></p>
+<p>Mt. Gox, the world’s first and once largest Bitcoin trading post shocked investors when it abruptly shut down last month and went silent for a week before claiming that cyber attackers had ripped it off of more than $500 million worth of bitcoins (approximately 850,000 BTC). The troubled Tokyo-based exchange <a href="https://www.entrepreneur.com/article/231861" style="text-decoration:none;">filed for bankruptcy</a> last week, leaving thousands of frustrated customers without access to their bitcoins.  </p>
+<p>The original profanity-laden (not safe for work) hacker post read:  </p>
+<p class="flink" style="margin-bottom: 0 !important;">For all commercial enquiries related to Entrepreneur Asia Pacific, please contact <a class="ga-click" data-ga-action="click" data-ga-category="navigation.footer" data-ga-label="commercial-email" href="mailto:sales@entrepreneurapj.com" target="_blank">sales@entrepreneurapj.com</a></p>
+<p class="flink">For all editorial enquiries related to Entrepreneur Asia Pacific, please contact <a class="ga-click" data-ga-action="click" data-ga-category="navigation.footer" data-ga-label="editorial-email" href="mailto:editor@entrepreneurapj.com" target="_blank">editor@entrepreneurapj.com</a></p>
+<p class="flink">For all contributor enquiries related to Entrepreneur Asia Pacific, please contact <a class="ga-click" data-ga-action="click" data-ga-category="navigation.footer" data-ga-label="contributor-email" href="mailto:contributor@entrepreneurapj.com" target="_blank">contributor@entrepreneurapj.com</a></p>
+<p>
+<input id="userterms" name="userterms" required="" type="checkbox"/>
+<label for="userterms">I agree to the Green Entrepreneur <a class="ga-click" data-ga-action="click" data-ga-category="login-modal" data-ga-label="privacy" href="/privacy-policy" target="_blank">Privacy Policy</a> and <a class="ga-click" data-ga-action="click" data-ga-category="login-modal" data-ga-label="terms" href="/terms-of-service" target="_blank">Terms of Use</a>.</label>
+</p>
+<p class="grey-text text-lighten-1">There are no Videos in your queue.</p>
+<p class="grey-text text-lighten-1" style="margin-bottom: 2rem;">Click on the <span class="white-text"><i class="icon-plus"></i>Add to</span> next to any video to save to your queue.</p>
+<p class="grey-text text-lighten-1">There are no Articles in your queue.</p>
+<p class="grey-text text-lighten-1" style="margin-bottom: 2rem;">Click on the <span class="white-text"><i class="icon-plus"></i>Add to</span> next to any article to save to your queue.</p>
+<p class="grey-text text-lighten-1">There are no Podcasts in your queue.</p>
+<p class="grey-text text-lighten-1" style="margin-bottom: 2rem;">Click on the <span class="white-text"><i class="icon-plus"></i>Add to</span> next to any podcast episode to save to your queue.</p>
+<p class="grey-text text-lighten-1">You're not following any authors.</p>
+<p class="grey-text text-lighten-1" style="margin-bottom: 2rem;">Click the <span class="white-text">Follow</span> button on any author page to keep up with the latest content from your favorite authors.</p>

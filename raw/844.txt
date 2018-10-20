@@ -1,0 +1,28 @@
+<p class="date-today">
+<script type="text/javascript">
+var d_names = new Array("Sunday", "Monday", "Tuesday", "Wednesday",
+		"Thursday", "Friday", "Saturday");
+
+var m_names = new Array("January", "February", "March", "April", "May",
+		"June", "July", "August", "September", "October", "November",
+		"December");
+
+var d = new Date();
+var minutes = d.getMinutes();
+if (minutes < 10){minutes = "0"+minutes;}
+document.write('<strong>' + d_names[d.getDay()] + ', ' + d.getDate() + ' ' + m_names[d.getMonth()]
+		+ ' ' + d.getFullYear() + '</strong>');
+document.write(' | <em class="hour">' + d.getHours() + ':' + minutes + '</em>');
+</script>
+</p>
+<p class="cont"><input class="text" id="qt" name="any" type="text"/>
+<button class="button button-search" name="cerca" onclick="document.form-search.submit(); return false;" type="submit"><span>search</span></button>
+</p>
+<p class="meta">11 March, 15:13</p>
+<p>(ANSAmed) - TRIPOLI - A tanker flying a North Korean flag, docked illegally at the Libyan port of Sidra with a load of crude oil for export on behalf of a separatist group, eluded the Tripoli escort keeping it under check and took off, said a member of Libya's General National Congress (GNC).<br/>
+The same parliamentary source said the North Korean oil tanker Morning Glory is now in international waters. The tanker distanced itself after illegally loading crude on behalf of a separatist group from eastern Libya.<br/>
+The event, however, continues to remain shrouded in confusion. Libyan authorities last night declared that they took control of the ship after a brief armed clash with rebels who control the port, while the 33-year-old leader of the separatist group, Ibrahiml Jadran, immediately denied the government's declarations. Jadran, who appeared last night on television aboard a ship - said to be the Morning Glory - showed himself determined to export the oil independently of Tripoli and on behalf of Cirenaica, while respecting international obligations.<br/>
+He also responded to recent declarations by the American ambassador to Tripoli, Deborah Jones, according to whom only Libya's national oil company has the right to sell the country's oil.        "These declarations are illegal. We exercise our rights and we will continue to sell crude," the young leader thundered. (ANSAmed).</p>
+<p>The information system of <strong>business</strong><br/> <strong>opportunities abroad</strong></p>
+<p class="copy-info">© Copyright 2010 ANSAmed</p>
+<p class="nav-footer"><a href="/ansamed/en/contatti.html">Contacts</a> | <a href="http://www.ansa.it/web/static/disclaimer.html">Disclaimer</a> | <a href="http://www.ansa.it/web/static/privacy.html">Privacy</a> | <a href="http://www.ansa.it/web/static/copyright.html">Copyright</a></p>

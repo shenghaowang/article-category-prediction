@@ -1,0 +1,3 @@
+<p>© 2015 Kansas Health Institute. All rights reserved.</p>
+<p class="footer-copyright">© 2018 Kansas Health Institute. All rights reserved.
+        </p>

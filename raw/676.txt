@@ -1,0 +1,18 @@
+<p class="weather-nav-location-name"></p>
+<p class="weather-nav-settings-header">Settings</p>
+<p class="ui-btn header-nav-dropdown-dark-btn weather-nav-location-cancel-btn">Cancel</p>
+<p class="ui-btn header-nav-dropdown-light-btn weather-nav-location-set-btn">Set</p>
+<p class="partner-scroll-message">Get the news</p>
+<p class="util-bar-flyout-subtitle util-bar-flyout-subtitle-share">Let friends in your social network know what you are reading about</p>
+<p class="util-bar-share-summary-description">Cheaper energy kept U.S. consumer prices in check last month, despite a big rise in the cost of food.</p>
+<p class="share-email-success-pane-description">A link has been sent to your friend's email address.</p>
+<p class="util-bar-success-description util-bar-success-description-facebook">A link has been posted to your Facebook feed. </p>
+<p class="util-bar-flyout-subtitle util-bar-flyout-subtitle-comments">To find out more about Facebook commenting please read the <a href="http://static.azcentral.com/conversation-guidelines/">Conversation Guidelines and FAQs</a></p>
+<p class="image-credit-wrap"><span class="js-caption-wrapper"><span class="cutline js-caption">Reggie Thomas fuels his motorcycle at a COSTCO gas station in Omaha, Neb. Cheaper energy kept U.S. consumer prices in check last month, despite a big rise in the cost of food, the latest sign that inflation is tame.Still, consumers took a hit at the grocery store as food costs rose 0.4 percent, the most in nearly 2 Â½ years.</span><meta content="" itemprop="copyrightHolder"/><span class="credit">(Photo: AP Photo/Nati Harnik)</span></span></p>
+<p class="speakable-p-1 p-text"><span class="character dateline">WASHINGTON  – </span></p>
+<p class="speakable-p-2 p-text">Cheaper energy kept U.S. consumer prices in check last month, despite a big rise in the cost of food, the latest sign that inflation is tame.</p>
+<p class="p-text">The Labor Department says the consumer price index rose 0.1 percent in February, matching January's increase. In the past 12 months, prices have risen just 1.1 percent, down from 1.6 percent in January and the smallest in five months.</p>
+<p class="p-text">Excluding the volatile food and energy categories, core prices rose 0.1 percent last month and 1.6 percent in the past year.</p>
+<p class="p-text">Energy prices fell 0.5 percent because gas and electricity costs fell. Clothes and used cars were also cheaper last month.</p>
+<p class="p-text p-text-last" id="article-body-p-last">Still, consumers took a hit at the grocery store as food costs rose 0.4 percent, the most in nearly 2 ½ years.</p>
+<p><em>Copyright 2014 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</em></p>

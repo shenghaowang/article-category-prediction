@@ -1,0 +1,166 @@
+<p style="height:20px; border-bottom:2px dotted; border-color:white;"><a class="geo_listing" href="europa-ueberblick.html">Europa</a></p>
+<p><a class="geo_listing" href="albania-overview.html">Albania</a></p>
+<p><a class="geo_listing" href="andorra-overview.html">Andorra</a></p>
+<p><a class="geo_listing" href="armenia-overview.html">Armenia</a></p>
+<p><a class="geo_listing" href="austria-overview.html">Austria</a></p>
+<p><a class="geo_listing" href="azerbaijan-overview.html">Azerbaijan</a></p>
+<p><a class="geo_listing" href="belarus-overview.html">Belarus</a></p>
+<p><a class="geo_listing" href="belgium-overview.html">Belgium</a></p>
+<p><a class="geo_listing" href="bosnia-herzegovina-overview.html">Bosnia-Herzegovina</a></p>
+<p><a class="geo_listing" href="bulgaria-overview.html">Bulgaria</a></p>
+<p><a class="geo_listing" href="croatia-overview.html">Croatia</a></p>
+<p><a class="geo_listing" href="cyprus-overview.html">Cyprus</a></p>
+<p><a class="geo_listing" href="czech-republic-overview.html">Czech Republic</a></p>
+<p><a class="geo_listing" href="denmark-overview.html">Denmark</a></p>
+<p><a class="geo_listing" href="estonia-overview.html">Estonia</a></p>
+<p><a class="geo_listing" href="finland-overview.html">Finland</a></p>
+<p><a class="geo_listing" href="france-overview.html">France</a></p>
+<p><a class="geo_listing" href="georgia-overview.html">Georgia</a></p>
+<p><a class="geo_listing" href="germany-overview.html">Germany</a></p>
+<p><a class="geo_listing" href="great-britain-overview.html">Great Britain</a></p>
+<p><a class="geo_listing" href="greece-overview.html">Greece</a></p>
+<p><a class="geo_listing" href="hungary-overview.html">Hungary</a></p>
+<p><a class="geo_listing" href="iceland-overview.html">Iceland</a></p>
+<p><a class="geo_listing" href="ireland-overview.html">Ireland</a></p>
+<p><a class="geo_listing" href="israel-overview.html">Israel</a></p>
+<p><a class="geo_listing" href="italy-overview.html">Italy</a></p>
+<p><a class="geo_listing" href="kosovo-overview.html">Kosovo</a></p>
+<p><a class="geo_listing" href="latvia-overview.html">Latvia</a></p>
+<p><a class="geo_listing" href="liechtenstein-overview.html">Liechtenstein</a></p>
+<p><a class="geo_listing" href="lithuania-overview.html">Lithuania</a></p>
+<p><a class="geo_listing" href="luxembourg-overview.html">Luxembourg</a></p>
+<p><a class="geo_listing" href="macedonia-overview.html">Macedonia</a></p>
+<p><a class="geo_listing" href="malta-overview.html">Malta</a></p>
+<p><a class="geo_listing" href="moldavia-overview.html">Moldavia</a></p>
+<p><a class="geo_listing" href="monaco-overview.html">Monaco</a></p>
+<p><a class="geo_listing" href="montenegro-overview.html">Montenegro</a></p>
+<p><a class="geo_listing" href="netherlands-overview.html">Netherlands</a></p>
+<p><a class="geo_listing" href="norway-overview.html">Norway</a></p>
+<p><a class="geo_listing" href="poland-overview.html">Poland</a></p>
+<p><a class="geo_listing" href="portugal-overview.html">Portugal</a></p>
+<p><a class="geo_listing" href="romania-overview.html">Romania</a></p>
+<p><a class="geo_listing" href="russia-overview.html">Russia</a></p>
+<p><a class="geo_listing" href="san-marino-overview.html">San Marino</a></p>
+<p><a class="geo_listing" href="serbia-overview.html">Serbia</a></p>
+<p><a class="geo_listing" href="slovakia-overview.html">Slovakia</a></p>
+<p><a class="geo_listing" href="slovenia-overview.html">Slovenia</a></p>
+<p><a class="geo_listing" href="spain-overview.html">Spain</a></p>
+<p><a class="geo_listing" href="sweden-overview.html">Sweden</a></p>
+<p><a class="geo_listing" href="switzerland-overview.html">Switzerland</a></p>
+<p><a class="geo_listing" href="turkey-overview.html">Turkey</a></p>
+<p><a class="geo_listing" href="ukraine-overview.html">Ukraine</a></p>
+<p><a class="geo_listing" href="vatican-city-overview.html">Vatican City</a></p>
+<p><a class="black" href="/article.php?wpf_eol_langu=5">русский</a></p>
+<p><a class="black" href="/article.php?wpf_eol_langu=4">Český</a></p>
+<p><a class="black" href="/article.php?wpf_eol_langu=1">Deutsch</a></p>
+<p><a class="black" href="/article.php?wpf_eol_langu=2">English</a></p>
+<p><a class="black" href="/article.php?wpf_eol_langu=6">Espanol</a></p>
+<p><a class="black" href="home.php?wpf_eol_union=1&amp;wpf_eol_area=1">EUROPE</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=35&amp;wpf_eol_area=2">Albania</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=44&amp;wpf_eol_area=2">Andorra</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=42&amp;wpf_eol_area=2">Armenia</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=7&amp;wpf_eol_area=2">Austria</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=43&amp;wpf_eol_area=2">Azerbaijan</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=24&amp;wpf_eol_area=2">Belarus</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=3&amp;wpf_eol_area=2">Belgium</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=30&amp;wpf_eol_area=2">Bosnia-Herzegovina</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=38&amp;wpf_eol_area=2">Bulgaria</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=29&amp;wpf_eol_area=2">Croatia</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=50&amp;wpf_eol_area=2">Cyprus</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=8&amp;wpf_eol_area=2">Czech Republic</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=10&amp;wpf_eol_area=2">Denmark</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=21&amp;wpf_eol_area=2">Estonia</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=19&amp;wpf_eol_area=2">Finland</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=5&amp;wpf_eol_area=2">France</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=41&amp;wpf_eol_area=2">Georgia</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=1&amp;wpf_eol_area=2">Germany</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=14&amp;wpf_eol_area=2">Great Britain</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=37&amp;wpf_eol_area=2">Greece</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=27&amp;wpf_eol_area=2">Hungary</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=16&amp;wpf_eol_area=2">Iceland</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=15&amp;wpf_eol_area=2">Ireland</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=49&amp;wpf_eol_area=2">Israel</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=13&amp;wpf_eol_area=2">Italy</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=34&amp;wpf_eol_area=2">Kosovo</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=22&amp;wpf_eol_area=2">Latvia</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=46&amp;wpf_eol_area=2">Liechtenstein</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=23&amp;wpf_eol_area=2">Lithuania</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=4&amp;wpf_eol_area=2">Luxembourg</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=36&amp;wpf_eol_area=2">Macedonia</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=45&amp;wpf_eol_area=2">Malta</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=40&amp;wpf_eol_area=2">Moldavia</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=48&amp;wpf_eol_area=2">Monaco</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=33&amp;wpf_eol_area=2">Montenegro</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=2&amp;wpf_eol_area=2">Netherlands</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=17&amp;wpf_eol_area=2">Norway</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=9&amp;wpf_eol_area=2">Poland</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=12&amp;wpf_eol_area=2">Portugal</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=31&amp;wpf_eol_area=2">Romania</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=20&amp;wpf_eol_area=2">Russia</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=52&amp;wpf_eol_area=2">San Marino</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=32&amp;wpf_eol_area=2">Serbia</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=26&amp;wpf_eol_area=2">Slovakia</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=28&amp;wpf_eol_area=2">Slovenia</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=11&amp;wpf_eol_area=2">Spain</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=18&amp;wpf_eol_area=2">Sweden</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=6&amp;wpf_eol_area=2">Switzerland</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=39&amp;wpf_eol_area=2">Turkey</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=25&amp;wpf_eol_area=2">Ukraine</a></p>
+<p><a class="black" href="ressort_portal.php?wpf_eol_country=47&amp;wpf_eol_area=2">Vatican City</a></p>
+<p><a class="black" href="tour_the-golden-road_25.html?wpf_eol_tourarticle=65">The Golden Road</a></p>
+<p style="font-size:9pt">12 / 19 °C <br/><img src="images/wetter_icons/d_2_b.png"/><br/>
+<br/>
+</p>
+<p style="height:20px; border-bottom:2px dotted; border-color:white;"><a class="geo_listing" href="europa-ueberblick.html">Europa</a></p>
+<p><a class="geo_listing" href="albania-overview.html">Albania</a></p>
+<p><a class="geo_listing" href="andorra-overview.html">Andorra</a></p>
+<p><a class="geo_listing" href="armenia-overview.html">Armenia</a></p>
+<p><a class="geo_listing" href="austria-overview.html">Austria</a></p>
+<p><a class="geo_listing" href="azerbaijan-overview.html">Azerbaijan</a></p>
+<p><a class="geo_listing" href="belarus-overview.html">Belarus</a></p>
+<p><a class="geo_listing" href="belgium-overview.html">Belgium</a></p>
+<p><a class="geo_listing" href="bosnia-herzegovina-overview.html">Bosnia-Herzegovina</a></p>
+<p><a class="geo_listing" href="bulgaria-overview.html">Bulgaria</a></p>
+<p><a class="geo_listing" href="croatia-overview.html">Croatia</a></p>
+<p><a class="geo_listing" href="cyprus-overview.html">Cyprus</a></p>
+<p><a class="geo_listing" href="czech-republic-overview.html">Czech Republic</a></p>
+<p><a class="geo_listing" href="denmark-overview.html">Denmark</a></p>
+<p><a class="geo_listing" href="estonia-overview.html">Estonia</a></p>
+<p><a class="geo_listing" href="finland-overview.html">Finland</a></p>
+<p><a class="geo_listing" href="france-overview.html">France</a></p>
+<p><a class="geo_listing" href="georgia-overview.html">Georgia</a></p>
+<p><a class="geo_listing" href="germany-overview.html">Germany</a></p>
+<p><a class="geo_listing" href="great-britain-overview.html">Great Britain</a></p>
+<p><a class="geo_listing" href="greece-overview.html">Greece</a></p>
+<p><a class="geo_listing" href="hungary-overview.html">Hungary</a></p>
+<p><a class="geo_listing" href="iceland-overview.html">Iceland</a></p>
+<p><a class="geo_listing" href="ireland-overview.html">Ireland</a></p>
+<p><a class="geo_listing" href="israel-overview.html">Israel</a></p>
+<p><a class="geo_listing" href="italy-overview.html">Italy</a></p>
+<p><a class="geo_listing" href="kosovo-overview.html">Kosovo</a></p>
+<p><a class="geo_listing" href="latvia-overview.html">Latvia</a></p>
+<p><a class="geo_listing" href="liechtenstein-overview.html">Liechtenstein</a></p>
+<p><a class="geo_listing" href="lithuania-overview.html">Lithuania</a></p>
+<p><a class="geo_listing" href="luxembourg-overview.html">Luxembourg</a></p>
+<p><a class="geo_listing" href="macedonia-overview.html">Macedonia</a></p>
+<p><a class="geo_listing" href="malta-overview.html">Malta</a></p>
+<p><a class="geo_listing" href="moldavia-overview.html">Moldavia</a></p>
+<p><a class="geo_listing" href="monaco-overview.html">Monaco</a></p>
+<p><a class="geo_listing" href="montenegro-overview.html">Montenegro</a></p>
+<p><a class="geo_listing" href="netherlands-overview.html">Netherlands</a></p>
+<p><a class="geo_listing" href="norway-overview.html">Norway</a></p>
+<p><a class="geo_listing" href="poland-overview.html">Poland</a></p>
+<p><a class="geo_listing" href="portugal-overview.html">Portugal</a></p>
+<p><a class="geo_listing" href="romania-overview.html">Romania</a></p>
+<p><a class="geo_listing" href="russia-overview.html">Russia</a></p>
+<p><a class="geo_listing" href="san-marino-overview.html">San Marino</a></p>
+<p><a class="geo_listing" href="serbia-overview.html">Serbia</a></p>
+<p><a class="geo_listing" href="slovakia-overview.html">Slovakia</a></p>
+<p><a class="geo_listing" href="slovenia-overview.html">Slovenia</a></p>
+<p><a class="geo_listing" href="spain-overview.html">Spain</a></p>
+<p><a class="geo_listing" href="sweden-overview.html">Sweden</a></p>
+<p><a class="geo_listing" href="switzerland-overview.html">Switzerland</a></p>
+<p><a class="geo_listing" href="turkey-overview.html">Turkey</a></p>
+<p><a class="geo_listing" href="ukraine-overview.html">Ukraine</a></p>
+<p><a class="geo_listing" href="vatican-city-overview.html">Vatican City</a></p>
+<p><a class="geo_listing" href="tour_the-golden-road_25.html?wpf_eol_tourarticle=65">The Golden Road</a></p>

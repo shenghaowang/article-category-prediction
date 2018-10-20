@@ -1,0 +1,26 @@
+<p>
+	Seeing the words “Congressional investigation” paired with the name of your company is never a good thing. Such was the case for <strong>General Motors</strong> (NYSE: <a class="ticker" href="/stock/gm#NYSE">GM</a>) late Monday, when the company found itself the target of a government committee poised to investigate GM <a href="http://www.nbcnews.com/business/autos/gm-knew-defect-2004-feds-probe-recall-n40271">admissions it knew</a> in 2004 about a deadly problem with the ignition switch in certain GM vehicles, but failed to issue a recall until 10 years later.</p>
+<p>
+	Despite 250 complaints from drivers about the faulty ignition switch, neither the carmaker nor regulatory authorities acted on those complaints until February of this year when General Motors <a href="http://www-odi.nhtsa.dot.gov/owners/SearchResults?searchType=ID&amp;targetCategory=R&amp;searchCriteria.nhtsa_ids=14V047000">issued a recall</a>. The deaths of 13 drivers have been linked to the faulty ignition.</p>
+<p>
+	Because of this, Michigan congressional representative Fred Upton (R) <a href="http://time.com/20961/congress-investigates-gms-recall-of-1-6-million-vehicles/">announced</a> Monday that the House Energy and Commerce Committee would launch an investigation designed to gather “detailed information” from both General Motors and the National Highway Traffic Safety Administration (NHTSA).</p>
+<p>
+<em><span>Related: </span><a href="http://www.benzinga.com/news/14/02/4350430/gm-financial-expanding-into-prime-loans" style="font-size:13px;line-height:20px;"><u>GM</u> Financial Expanding Into Prime Loans</a></em></p>
+<p>
+<span>The investigation, which Upton said would take place in coming weeks, would seek to determine whether General Motors or federal regulators failed to follow regulations designed to protect the public.</span></p>
+<p>
+<a href="http://online.wsj.com/news/articles/SB10001424052702304020104579431141203677528?mg=reno64-wsj&amp;url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304020104579431141203677528.html">The Wall Street Journal</a> reported that Upton said, "Did the company or regulators miss something that could have flagged these problems sooner? If the answer is yes, we must learn how and why this happened, and then determine whether this system of reporting and analyzing complaints that Congress created to save lives is being implemented and working as the law intended."</p>
+<p>
+	Upton is no stranger to auto safety legislation having served as lead sponsor of the <a href="https://www.govtrack.us/congress/bills/106/hr5164#overview">Transportation Recall Enhancement, Accountability,and Documentation</a> (TREAD) Act in 2000. The TREAD Act came in response to a series of accidents involving <strong>Ford</strong> (NYSE: <a class="ticker" href="/stock/f#NYSE">F</a>) sport-utility vehicles and requires automakers to quickly report fatal accidents related to safety defects</p>
+<p>
+	General Motors said Monday it had hired Chicago lawyer, Anton Valukas, to lead the company’s internal investigation into the recall. Clearly, GM had an eye on being as proactive as possible <a href="http://www.benzinga.com/news/14/03/4378658/general-motors-nhtsa-under-scrutiny-amidst-recall">under the circumstances</a>.</p>
+<p>
+	Meanwhile, although GM released a <a href="http://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0CCoQFjAA&amp;url=http%3A%2F%2Fmedia.cmgdigital.com%2Fshared%2Fnews%2Fdocuments%2F2014%2F03%2F07%2Ftimeline.PDF&amp;ei=flwgU8vnHuj22QXmsoGIDw&amp;usg=AFQjCNF0vfuGJBj38fw44z_MEp0aEbud9w&amp;sig2=mmTkir_Mr-5zFF_K5-Mlcw&amp;bvm=bv.62788935,d.b2I&amp;cad=rja">chronology</a> describing how the ignition switch problem was discovered that information does not reveal who was responsible for the fact the recall didn’t occur until a decade after the defect was first reported.</p>
+<p>
+	The NHTSA has also not explained why that agency didn’t initiate action after officials pointed out the problem in 2007.</p>
+<p>
+	GM <a href="http://www.dailyfinance.com/2014/03/11/house-probe-gm-ignition-switch-recall/">was scheduled</a> to file a second chronology this week detailing why it expanded the initial recall on Feb. 25, doubling the number of vehicles affected.</p>
+<p>
+<em>At the time of this writing, </em><a href="https://plus.google.com/103366711655734156822?rel=author"><em>Jim Probasco</em></a><em> had no position in any mentioned securities.</em></p>
+<p class="article-taxonomy-bottom"><strong>Posted-In:</strong> <a href="/topic/accountability">Accountability</a> <a href="/topic/and-documentation-act">and Documentation Act</a> <a href="/topic/anton-valukas">Anton Valukas</a> <a href="/topic/chicago">Chicago</a> <a href="/topic/congress">Congress</a><a href="/news">News</a> <a href="/news/events">Events</a> <a href="/media">Media</a> <a href="/best-of-benzinga">Best of Benzinga</a></p>
+<p class="copyright"><i>© 2018 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.</i></p>

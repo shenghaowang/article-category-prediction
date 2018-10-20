@@ -1,0 +1,35 @@
+<p> </p>
+<p> </p>
+<p>"Even before announcing its plans for Time Warner Cable, Comcast had donated to almost every member of Congress who has a hand in regulating it," <a href="http://www.politico.com/story/2014/03/comcast-cash-spread-wide-on-capitol-hill-104469.html" target="_blank">reports Politico here.<br/></a><br>"Money from Comcast’s political action committee has flowed to all but three members of the Senate Judiciary Committee," including its antitrust subcommittee leaders, Sens. Amy Klobuchar (D-Minn.) and Mike Lee (R-Utah).</br></p>
+<p>"The cable giant has donated in some way to 32 of the 39 members of the House Judiciary Committee, which is planning a hearing of its own. And Comcast has canvassed the two congressional panels that chiefly regulate cable, broadband and other telecom issues, donating to practically every lawmaker there — including Rep. Greg Walden (R-Ore.) and Sen. Jay Rockefeller (D-W.Va.)."</p>
+<p>A Comcast spokeswoman told Politico that many of these reps represent districts where Comcast provides cable, Internet and phone service, and "it is important for our customers, our employees and our shareholders that we participate in the political process...</p>
+<p>"The company spent more than $3.5 million during 2011 and 2012 on a slew of Democratic and Republican candidates, and it has shelled out just under $2 million already in the 2014 cycle, according to federal records. That’s in addition to millions of dollars of lobbying — and big donations to charitable causes and groups — that Comcast has committed to Washington annually.</p>
+<p>"The company similarly donated to lawmakers and lobbied aggressively on Capitol Hill before winning the government’s permission in 2011 to buy NBCUniversal. A stable of congressional allies at the time wrote letters and publicly defended the NBC acquisition...</p>
+<p>"Fifteen of the 18 lawmakers who sit on the Senate Judiciary Committee, which will hold its hearing on March 26, have taken home some form of a Comcast check. Sens. Durbin (D-Ill.), Chris Coons (D-Del.), Lindsey Graham (R-S.C.) and John Cornyn (R-Texas) all are running for reelection this year — and each has Comcast cash to show for it.</p>
+<p>"So do [Sens. Ted] Cruz (R-Texas) and Sen. Chuck Schumer (D-N.Y.), as well as the leaders of the Senate’s top antitrust panel, Klobuchar and Lee. Each of those members received Comcast donations this election cycle to their leadership PACs...</p>
+<p>"Schumer... secured a commitment from Comcast on the very day of its merger announcement that it would not kill Time Warner Cable jobs in New York. After it was later revealed Schumer’s brother helped orchestrate the deal, the senator pledged he’d recuse himself from the matter...</p>
+<p>"The House Judiciary Committee is readying another hearing on Comcast — and many of its members also are familiar with the company’s financial support. Chairman Bob Goodlatte (R-Va.), for example, has received $15,000 this cycle from Comcast, some for his leadership PAC and the rest for his personal campaign.</p>
+<p>"The House Energy and Commerce Committee and its Senate counterpart so far haven’t scheduled their own reviews of the new Comcast-Time Warner Cable deal. But both panels do regulate Comcast by way of their broad jurisdiction over Internet, cable and telephone issues... The company has given to 50 of 54 of the House committee’s Democrats and Republicans, donating either to their reelection campaigns or their leadership PACs, according to a POLITICO analysis of campaign finance data from Jan. 1, 2013 to Jan. 31, 2014. And Comcast has donated in some way to 20 of 24 lawmakers on the Senate Commerce, Science and Transportation Committee."</p>
+<p>
+<div class="inline-container rel space--btm">
+<input class="white nl__input font--m bg--slate-light-2" id="fieldEmail" name="cm-qhhtdu-qhhtdu" placeholder="your@email.com" required="" type="email"/>
+<input class="nl__submit br--none font--ml bg--slate-dark-2" type="submit" value="Sign Up"/>
+</div>
+</p>
+<p>
+<ul>
+<li><label for="#nlSignup-Morning"><input checked="checked" class="form-inputs nl-check" data-nl-name="morning" id="nlSignup-Morning" name="cm-ol-qjiurr" type="checkbox"> Morning newsletter</input></label></li>
+<li><label for="#nlSignup-Phillies"><input class="form-inputs nl-check" data-nl-name="extrainnings" id="nlSignup-Phillies" name="cm-ol-zltnr" type="checkbox"> Extra Innings</input></label></li>
+<li><label for="#nlSignup-Eagles"><input class="form-inputs nl-check" data-nl-name="earlybirds" id="nlSignup-Eagles" name="cm-ol-qykdjr" type="checkbox"> Early Birds</input></label></li>
+<li><label for="#nlSignup-Food"><input class="form-inputs nl-check" data-nl-name="letseat" id="nlSignup-Food" name="cm-ol-xljhrk" type="checkbox"> Let's Eat</input></label></li>
+</ul>
+</p>
+<p>
+<a class="sign-up main-form dib" href="//www.philly.com/philly/newsletters">
+<span class="td--on">
+<b>Show all</b>
+<span class="dib tl__arrow invisible">▾</span>
+</span>
+</a>
+</p>
+<p class="copyright clear center"><a href="//www.philly.com/philly/about/copyright/">© Copyright </a><span class="light">2018 Philadelphia Media Network (Digital), LLC</span> <a class="space-half--left" href="//www.philly.com/philly/about/terms_of_use/">Terms of Use &amp; Privacy Policy</a></p>

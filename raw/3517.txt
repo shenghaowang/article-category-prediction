@@ -1,0 +1,9 @@
+<p data-page="1">Could YOU help solve the mystery of Malaysia Airlines Flight 370?</p>
+<p>Netizens are being called on to analyze high-res satellite images of the ocean's surface in a bid to spot any sign of the missing Beijing-bound airliner.</p>
+<p>Colorado firm DigitalGlobe has trained its cameras from five satellites on the area in the Gulf of Thailand and South China Sea where the craft, carrying 239 passengers, was last heard from.</p>
+<p>It has uploaded the snaps <a href="http://www.tomnod.com/nod/challenge/malaysiaairsar2014?source=abc">to the Tomnod website</a> - and wants crowdsourcers to scan the pictures, where each pixel equals half a meter, and tag anything that looks suspicious.</p>
+<p>Algorithms will then determine which areas have the most tags, and in-house experts will follow up on any interesting leads.</p>
+<p>"For people who aren't able to drive a boat through the Pacific Ocean [...], this is a way they can help out," <a href="http://abcnews.go.com/blogs/headlines/2014/03/crowdsourcing-the-search-for-malaysia-flight-370/">DigitalGlobe senior manager Luke Barrington told ABC News</a>.</p>
+<p>And once locations have been identified, he added: "We may not be 100% sure, but if this is where I had to go pick a location looking for needles in this big haystack, this is where I'd start."</p>
+<p>It's not the first time Longmont-based DigitalGlobe has been involved with crowdsourcing campaigns during disasters, <a href="http://abcnews.go.com/blogs/headlines/2014/03/crowdsourcing-the-search-for-malaysia-flight-370/">ABC News has noted</a>.</p>
+<p>Last Nov., users chronicles the devastation caused by Typhoon Haiyan in Southeast Asia.</p>

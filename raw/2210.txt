@@ -1,0 +1,59 @@
+<p class="speakable-paragraph"><a data-ga-track="InternalLink:http://www.forbes.com/profile/carl-icahn/" href="http://www.forbes.com/profile/carl-icahn/" target="_self">Carl Icahn's</a> assault on 
+ <fbs-quotecard article-quote-card="" closing-price="31.55" current-price="28.74" exchange="NASDAQ" link="/companies/ebay/" name="Ebay" natural-id="fred/company/1387" ticker="EBAY" type="organization">
+<a data-ga-track="InternalLink:/companies/ebay/" href="/companies/ebay/" target="_self">Ebay</a>
+</fbs-quotecard> began with the idea that the company's payments business PayPal would be more valuable as a standalone company. It quickly devolved into a war of words with board member <a data-ga-track="InternalLink:http://www.forbes.com/profile/marc-andreessen/" href="http://www.forbes.com/profile/marc-andreessen/" target="_self">Marc Andreessen</a> and Monday morning it took another turn as the billionaire investor put Ebay CEO John Donahoe squarely in his crosshairs.</p>
+<p>Criticizing the same Skype transaction he has <a data-ga-track="InternalLink:http://www.forbes.com/sites/stevenbertoni/2014/02/24/carl-icahn-attacks-ebay-marc-andreessen-and-scott-cook-in-shareholder-letter/" href="http://www.forbes.com/sites/stevenbertoni/2014/02/24/carl-icahn-attacks-ebay-marc-andreessen-and-scott-cook-in-shareholder-letter/" target="_self">taken Andreessen to task over</a>, Icahn says Donahoe's "inexcusable incompetence" cost EBay shareholders more than $4 billion.</p>
+<p>(A quick refresher: EBay sold a stake in Skype to an investor group led by Silver Lake that also included Andreessen's venture capital firm. Less than two years later, following the resolution of some intellectual property concerns, 
+ <fbs-quotecard article-quote-card="" closing-price="108.411" current-price="108.5338" exchange="NASDAQ" link="/companies/microsoft/" name="Microsoft" natural-id="fred/company/2854" ticker="MSFT" type="organization">
+<a data-ga-track="InternalLink:/companies/microsoft/" href="/companies/microsoft/" target="_self">Microsoft</a>
+</fbs-quotecard> bought Skype for $8.5 billion.)</p>
+<p>Icahn's <a data-ga-track="ExternalLink:http://www.shareholderssquaretable.com/we-believe-based-on-evidence-we-have-newly-uncovered-that-donahoes-inexcusable-incompetence-cost-ebay-stockholders-over-4-billion/" href="http://www.shareholderssquaretable.com/we-believe-based-on-evidence-we-have-newly-uncovered-that-donahoes-inexcusable-incompetence-cost-ebay-stockholders-over-4-billion/" rel="nofollow noopener noreferrer" target="_blank">latest barrage</a> reiterates his charge that shareholders got fleeced in a deal that helped line the pockets of a board member for stepping in as middleman. From Monday's letter:</p>
+<p>
+</p>
+<p>I believe that all stockholders must consider whether Donahoe is either incompetent or negligent or, perhaps even worse, was simply taking the easy path of bowing to the wishes of a respected and powerful board member. At any rate, this failure cost eBay stockholders over $4 billion.</p>
+<p>via <a data-ga-track="ExternalLink:http://www.shareholderssquaretable.com/we-believe-based-on-evidence-we-have-newly-uncovered-that-donahoes-inexcusable-incompetence-cost-ebay-stockholders-over-4-billion/" href="http://www.shareholderssquaretable.com/we-believe-based-on-evidence-we-have-newly-uncovered-that-donahoes-inexcusable-incompetence-cost-ebay-stockholders-over-4-billion/" rel="nofollow noopener noreferrer" target="_blank">Icahn Letter.</a></p>
+<p>The letter, which came after Ebay rejected Icahn's proposed board slate Monday, also calls out Donahoe for trailing industry peers. From the start of January until January 10, 2014 -- when Icahn disclosed his investment -- Ebay shares have returned 2% to considerably better returns from 
+ <fbs-quotecard article-quote-card="" closing-price="1769.8201" current-price="1763.5583" exchange="NASDAQ" link="/companies/amazon/" name="Amazon.com" natural-id="fred/company/196" ticker="AMZN" type="organization">
+<a data-ga-track="InternalLink:/companies/amazon/" href="/companies/amazon/" target="_self">Amazon.com</a>
+</fbs-quotecard> (+60%), 
+ <fbs-quotecard article-quote-card="" closing-price="139.29" current-price="140.08" exchange="NYSE" link="/companies/visa/" name="Visa" natural-id="fred/company/6238" ticker="V" type="organization">
+<a data-ga-track="InternalLink:/companies/visa/" href="/companies/visa/" target="_self">Visa</a>
+</fbs-quotecard> (+48%) and 
+ <fbs-quotecard article-quote-card="" closing-price="203.62" current-price="203.06" exchange="NYSE" link="/companies/mastercard/" name="MasterCard" natural-id="fred/company/2756" ticker="MA" type="organization">
+<a data-ga-track="InternalLink:/companies/mastercard/" href="/companies/mastercard/" target="_self">MasterCard</a>
+</fbs-quotecard> (+73%), the billionaire notes.</p>
+<p>In a response, Ebay touted the 460% increase in its stock since Donahoe's first analyst day five years ago, beating the Nasdaq and overall stock market.</p>
+<p>"John’s track record of success at eBay, driving the company’s turnaround and growth, is well documented," the statement continues. "Yet in pursuit of his own profit motives, Carl Icahn has made another unsubstantiated attack on John. Just like his previous ones, this attack is false and misleading and has already been utterly discredited by the facts."</p>
+<p>Icahn, nodding to the original thrust of his case for buying into Ebay, touched on PayPal in Monday's letter, arguing that an independent payments company could be acquired at a rich premium instead of withering within its current corporate structure (a view that has been shared by PayPal co-founder <a data-ga-track="InternalLink:http://www.forbes.com/profile/elon-musk/" href="http://www.forbes.com/profile/elon-musk/" target="_self">Elon Musk</a>, he notes).</p>
+<p>"I believe that if it is left as a division of eBay, PayPal may well go the way of other former technology greats such as Blackberry, 
+ <fbs-quotecard article-quote-card="" closing-price="0.0" current-price="0.0" exchange="null" link="/companies/dell/" name="Dell" natural-id="fred/company/1260" ticker="null" type="organization">
+<a data-ga-track="InternalLink:/companies/dell/" href="/companies/dell/" target="_self">Dell</a>
+</fbs-quotecard>, Eastman Kodak, Polaroid, 
+ <fbs-quotecard article-quote-card="" closing-price="0.0" current-price="0.0" exchange="Osaka" link="/companies/nintendo/" name="Nintendo" natural-id="fred/company/3088" ticker="null" type="organization">
+<a data-ga-track="InternalLink:/companies/nintendo/" href="/companies/nintendo/" target="_self">Nintendo</a>
+</fbs-quotecard>, 
+ <fbs-quotecard article-quote-card="" closing-price="26.71" current-price="26.87" exchange="NYSE" link="/companies/xerox/" name="Xerox" natural-id="fred/company/4777" ticker="XRX" type="organization">
+<a data-ga-track="InternalLink:/companies/xerox/" href="/companies/xerox/" target="_self">Xerox</a>
+</fbs-quotecard>, 
+ <fbs-quotecard article-quote-card="" closing-price="0.0" current-price="0.0" exchange="Tokyo" link="/companies/sony/" name="Sony" natural-id="fred/company/4017" ticker="null" type="organization">
+<a data-ga-track="InternalLink:/companies/sony/" href="/companies/sony/" target="_self">Sony</a>
+</fbs-quotecard>, Palm, and 
+ <fbs-quotecard article-quote-card="" closing-price="0.0" current-price="0.0" exchange="NYSE" link="/companies/aol/" name="AOL" natural-id="fred/company/6272" ticker="AOL" type="organization">
+<a data-ga-track="InternalLink:/companies/aol/" href="/companies/aol/" target="_self">AOL</a>
+</fbs-quotecard> – the same way that 
+ <fbs-quotecard article-quote-card="" closing-price="0.0" current-price="0.0" exchange="null" link="/companies/motorola-mobility/" name="Motorola Mobility" natural-id="fred/company/80282" ticker="null" type="organization">
+<a data-ga-track="InternalLink:/companies/motorola-mobility/" href="/companies/motorola-mobility/" target="_self">Motorola Mobility</a>
+</fbs-quotecard> may have gone had we not been able to convince Motorola’s board to bring in a new CEO and separate the companies – ultimately resulting in a sale to 
+ <fbs-quotecard article-quote-card="" closing-price="1087.895" current-price="1095.8926" exchange="NASDAQ" link="/companies/google/" name="Google" natural-id="fred/company/1821" ticker="GOOG" type="organization">
+<a data-ga-track="InternalLink:/companies/google/" href="/companies/google/" target="_self">Google</a>
+</fbs-quotecard>," says Icahn.</p>
+<p>PayPal is facing a battle against some of the biggest companies in the world, Icahn argues, among them Google, 
+ <fbs-quotecard article-quote-card="" closing-price="216.08" current-price="219.25" exchange="NASDAQ" link="/companies/apple/" name="Apple" natural-id="fred/company/280" ticker="AAPL" type="organization">
+<a data-ga-track="InternalLink:/companies/apple/" href="/companies/apple/" target="_self">Apple</a>
+</fbs-quotecard> and Visa, and the billionaire doesn't think Donahoe is the right guy to lead that charge.</p>
+<p>"To win a war, you need to have great generals that have proven their competence and loyalty," he writes.  "Unfortunately, it is obvious to us that this is lacking at eBay and PayPal.  PayPal must be separated NOW so that great management can be attracted – management that can make the right decision and know when to sell at the right time, not the worst time."</p>
+<p>In an acknowledgement that to date his case for a PayPal spinoff has largely been the rote argument made in most cases for corporate breakups, Icahn promised to share a case study on why such a move makes sense.</p>
+<p>Two things remain clear: Icahn won't get his way without a fight and Ebay's management and board are going to give him one.</p>
+<p>Shares of Ebay were down 1.6% to $58.08 Monday morning.</p>
+<p><a class="twitter-follow-button" data-ga-track="ExternalLink:https://twitter.com/SchaeferStreet" href="https://twitter.com/SchaeferStreet" rel="nofollow noopener noreferrer" target="_blank">Follow @SchaeferStreet</a></p>
+<p _ngcontent-c15="" class="author-description" innerhtml="I started covering markets at Forbes in the summer of 2007. Right around then a pair of Bear Stearns hedge funds imploded in the first tremors of the financial crisis, but I swear the recession wasn't my fault. Armed with only a basic knowledge of Wall Street at the start, a...">I started covering markets at Forbes in the summer of 2007. Right around then a pair of Bear Stearns hedge funds imploded in the first tremors of the financial crisis, but I swear the recession wasn't my fault. Armed with only a basic knowledge of Wall Street at the start, a...</p>

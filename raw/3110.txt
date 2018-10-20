@@ -1,0 +1,73 @@
+<p>
+<img src="https://www.pressherald.com/wp-content/themes/mainetoday/assets/images/pph-icon.png" style="vertical-align:middle;"/>
+<span></span>
+<span>
+<a href="https://www.pressherald.com/login">Sign in</a> or <a href="https://myaccount.pressherald.com/order/?ref=paywall-stub">Subscribe</a> </span>
+<span class="expand-extra-messaging extra-closed">See Offers</span>
+<span class="close-slidedown">
+<img src="https://www.pressherald.com/wp-content/themes/mainetoday/assets/images/close-icon.png" style="vertical-align:middle;"/>
+</span>
+</p>
+<p></p>
+<p class="article-excerpt" itemprop="description">
+The company cites declining traffic in mall food courts where it does much of its business. </p>
+<p><strong>NEW YORK</strong> — Sbarro has filed for Chapter 11 bankruptcy reorganization for the second time in just three years as the pizza chain struggles to turn its business around amid a drop in traffic at shopping mall food courts.</p>
+<p>The bankruptcy filing on Monday comes after the company shuttered 155 of its U.S. locations last month. The Melville, N.Y., company still has about 800 locations globally, half of those in North America.</p>
+<p>The pizza chain isn’t alone in hurting from the decline in traffic at shopping malls. Earlier this year, the owner of Hot Dot on a Stick also filed for bankruptcy protection, citing the negative impact from the trend.</p>
+<p>There is one Sbarro location in Maine, at the Kennebunk Travel Plaza at Mile 25 on Interstate 95. There previously were locations at both the Maine Mall and Bangor Mall, but both have shuttered.</p>
+<p>Sbarro is working to balance out its portfolio of mall-based stores with a new concept called “Pizza Cucinova” that lets people build their own pizzas, company spokesman Jonathan Dedmon said in an email. There are two locations of the new restaurant in Columbus, Ohio, and a third planned for Cincinnati in the summer, Dedmon said.</p>
+<p>Sbarro is also trying to update its image for serving re-heated pizza at a time when people are increasingly reaching for foods they feel are fresh and wholesome. Dedmon said the chain has been “emphasizing freshness and quality” of its pizza.</p>
+<p>Sbarro first filed for bankruptcy protection in April 2011 and emerged a few months later, saying that it significantly cut its debt and received a capital infusion. A new CEO then led a push to revitalize the chain’s image by touting new recipes and ovens. But the efforts apparently didn’t take hold.</p>
+<p>The company says its latest strategy of store closings and balance sheet restructuring will slash debt by more than 80 percent and improve its profitability. It said its filing is designed to “allow for a quick exit from bankruptcy” as it executes a broader plan developed by the new management team.</p>
+<p>
+<a href="/feedback-form/">
+Send questions/comments to the editors. </a>
+</p>
+<p></p>
+<p>Here at <strong>MaineToday Media</strong> we value our readers and are committed to growing our community by encouraging you to add to the discussion. </p>
+<p>To ensure conscientious dialogue we have implemented a strict no-bullying policy. To participate, you must follow our <a href="/terms-use/" target="_blank">Terms of Use</a>. <a href="/feedback/" target="_blank">Click here</a> to flag and report a comment that violates our terms of use.</p>
+<p>
+</p>
+<p>
+<script>
+			
+			var mediaContent = "media\\:content,content";
+			
+      (function() {
+         var now = new Date();
+         var cookieName = new RegExp('MSPAN_Paywall_views_' + now.getMonth());
+         window.MSPAN = {
+              Paywall: {
+                  totalViews: function() {
+                      var cookies = document.cookie.split('; ');
+                      var val = 0;
+                      if (!cookieName.test(document.cookie)) {
+                          return 0;
+                      }
+                      for (var i = 0; i < cookies.length; i++) {
+                          if (cookieName.test(cookies[i])) {
+                              val = parseInt(cookies[i].split('=')[1]);
+                          }
+                      }
+                      return val;
+                  }
+              }
+          };
+      }());
+    </script>
+</p>
+<p>
+<script>
+         (function(){
+            "use strict";
+            if(/logout/.test(window.location.search)){
+               var date = new Date();
+               var cookieString = "MSPAN_Paywall_user=0; domain=."+document.location.host.replace(/^\w+\./, '')+"; path=/; expires=" + date.toGMTString();
+               var cookieString2 = "MSPAN_Paywall_user=0; domain="+document.location.host+"; path=/; expires=" + date.toGMTString();
+               date.setHours(date.getHours() - 1);
+               document.cookie = cookieString;
+               document.cookie = cookieString2;
+            }
+         }());
+    </script>
+</p>

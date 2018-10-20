@@ -1,0 +1,8 @@
+<p>
+							Choose the plan that's right for you.<br/>
+							Digital access or digital and print delivery.
+						</p>
+<p id="footer-copyrightInfo">© Copyright 2006-2018 <a href="http://www.gatehousemedia.com/about-us/" target="_blank">GateHouse Media, LLC.</a> All rights reserved  •  GateHouse Api</p>
+<p>Original content available for non-commercial use under a Creative Commons license, except where noted.
+							<br>Tuscaloosa News  ~ 315 28th Avenue, Tuscaloosa, AL 35401 ~ <a href="http://www.gatehousemedia.com/privacy-policy/" target="_blank">Privacy Policy</a> ~ <a href="http://www.gatehousemedia.com/terms_of_use/" target="_blank">Terms Of Service</a></br></p>
+<p><span>Choose the plan that’s right for you. Digital access or digital and print delivery.</span></p>

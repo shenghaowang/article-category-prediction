@@ -1,0 +1,57 @@
+<p class="font24 text-black text-bold" id="loc-title">Please Tell Us Your City</p>
+<p class="font14 text-grey margin-top5" id="loc-sub-content">Knowing your city will help us provide relevant content to you.</p>
+<p class="margin-bottom30 font25 text-black">Log in to CarWale</p>
+<p class="font14 margin-bottom20">Or Login with</p>
+<p class="margin-bottom30 font25 text-black">Sign up to CarWale</p>
+<p class="font16 text-white padding-left10"></p>
+<p class="text-bold margin-bottom5 font14 sponsored-nav">Car Tyres</p>
+<p class="text-bold margin-bottom5 font14 sponsored-nav">All About Electric</p>
+<p class="text-bold margin-bottom5 font14 sponsored-nav">Great Indian Hatchback</p>
+<p>Toyota Kirloskar Motors has declared a lockout at its Bidadi manufacturing facility with effect from March 16 due to labour related issues. The company has issued a press release in this regard which says that the management and union had been discussing the charter of demands for the period FY13-14 for the past 10 months. As a bipartite agreement was not reached, the labour department of the Government of Karnataka conducted seven tripartite meetings in order to reach a settlement. The conciliation efforts of the Labour Department have not yet resulted in an agreement.</p>
+<p>The official statement furthers says, “In the meantime, under the instigation of the union, certain sections of the employees have resorted to deliberate stoppages of the production line, abuse and threatening of supervisors thereby continuously disrupting business for the past 25 days. All these unlawful activities have been detailed in the lock-out notice. With this background, the company is left with no other option but to declare a lockout of the premises to ensure the safety of its workers and management personnel.” However, the workers union has not issued any statement regarding the charter of demands or the lockout.</p>
+<p>The Japanese automaker currently manufactuers the Innova MPV, Fortuner SUV, Corolla Altis as well as the Etios and Liva at the plant outside Bengaluru. It locally assembles the Camary and imports the Landcrusier Prado, Prius Hybrid and LC 200 for the Indian market.  </p>
+<p>Toyota is the second major Japanese automaker to declare a lockout of its plant in the last two years. Maruti Suzuki has faced a similar scenario in 2012 but on a much more violent scale and it is probable that Toyota does not want to see such an incident at its plant. Workers at Maruti Suzuki’s Manesar plant rioted on the evening of August 17 after talks with management over various issues failed. The riots saw 96 people injured and one death resulting in the plant being locked out for a month.  </p>
+<p style="font-size:14px;"><strong><span>New Toyota Innova Crysta</span></strong></p>
+<p><p>Auto Expo 2016 Updates: The All New Toyota Inno ...</p><div class="video-social-icons"><div><span class="news-sprite v-fb-like-icon"></span> 1586 Likes
+								</div><div class="v-comment"></div><div class="v-views"><span class="news-sprite v-views-icon"></span> 890115 Views
+
+								</div></div></p>
+<p>Auto Expo 2016 Updates: The All New Toyota Inno ...</p>
+<p style="font-size:14px;"><strong><span>CarWale Off Road Day 2017 Top SUV Comparison</span></strong></p>
+<p><p>Welcome to the CarWale Off-Road Day 2017. To ce ...</p><div class="video-social-icons"><div><span class="news-sprite v-fb-like-icon"></span> 10456 Likes
+								</div><div class="v-comment"></div><div class="v-views"><span class="news-sprite v-views-icon"></span> 2269270 Views
+
+								</div></div></p>
+<p>Welcome to the CarWale Off-Road Day 2017. To ce ...</p>
+<p class="font12">23 October 2018</p>
+<p class="font12">July 2019</p>
+<p class="font12">December 2018</p>
+<p class="font12">19 November 2018</p>
+<p class="font12">21 November 2018</p>
+<p class="font12">₹ <span>5.38 - 8.50L</span></p>
+<p class="font12"><span class="margin-right10" title="Over All Rating 3.69">
+<img src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/half.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/0.png"/>
+</span><span class="font11">222  Reviews</span></p>
+<p class="font12">₹ <span>5.60 - 9.45L</span></p>
+<p class="font12"><span class="margin-right10" title="Over All Rating 3.51">
+<img src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/half.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/0.png"/>
+</span><span class="font11">98  Reviews</span></p>
+<p class="font12">₹ <span>4.69 - 7.76L</span></p>
+<p class="font12"><span class="margin-right10" title="Over All Rating 3.52">
+<img src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/half.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/0.png"/>
+</span><span class="font11">48  Reviews</span></p>
+<p class="font12">₹ <span>2.67 - 4.64L</span></p>
+<p class="font12"><span class="margin-right10" title="Over All Rating 2.83">
+<img src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/half.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/0.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/0.png"/>
+</span><span class="font11">178  Reviews</span></p>
+<p class="font12">₹ <span>7.95 - 12.79L</span></p>
+<p class="font12"><span class="margin-right10" title="Over All Rating 3.2">
+<img src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/1.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/half.png"/><img src="https://imgd.aeplcdn.com/0x0/images/ratings/0.png"/>
+</span><span class="font11">40  Reviews</span></p>
+<p class="text-medium-grey font14 margin-top5 margin-left60">ask the experts</p>
+<p class="font18 text-white margin-top50 margin-bottom10">Join us on</p>
+<p class="font18 text-white margin-bottom20">Company</p>
+<p class="font18 text-white margin-bottom20">Support</p>
+<p class="font18 text-white margin-bottom30">Download Mobile App</p>
+<p class="font20 margin-bottom10 text-capitalize text-black">Select your city to avail offers</p>
+<p class="text-light-grey margin-bottom15">Currently available only in</p>

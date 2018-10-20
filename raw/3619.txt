@@ -1,0 +1,38 @@
+<p class="temperature">15</p>
+<p>M/CLOUDY</p>
+<p>
+<a href="https://www.japantimes.co.jp/" title="Return to The Japan Times Home Page"><img alt="The Japan Times" src="https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/img/japantimes-logo.png"/>
+</a>
+</p>
+<p class="credit">AP</p>
+<p><span class="dateline">NEW YORK – </span>The disappearance of Malaysia Airlines Flight MH370 has exposed wide gaps in how the world’s airlines — and their regulators — operate. But experts warn this isn’t likely to be one of those defining moments that lead to fundamental changes.</p>
+<p>For financial and technological reasons, and because of issues tied to national sovereignty, the status quo is expected to prevail in the way passports are checked, aircraft are tracked at sea and searches are coordinated.</p>
+<p><!-- /4973089/article_1 -->
+<div class="jt_content_ad" id="div-gpt-ad-1499653692894-0">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1499653692894-0'); });
+</script>
+</div></p>
+<p>In an age of constant connectedness, it is almost inconceivable to lose a large airplane for more than a week or to be in the dark about what happened on board around the time it went missing.</p>
+<p>The reality is that large portions of the globe don’t have radar coverage. Over oceans, pilots fill in those gaps by radioing air traffic controllers at routine intervals with position updates. And while planes record sounds in the cockpit as well as speed, altitude, fuel flow and the positions of flaps, that information isn’t shared with anyone on the ground. Crash investigators only get access to the data on the recorders after combing through the wreckage, if they can find it.</p>
+<p>Numerous experts have said it is time to update tracking abilities and use satellite links to provide real-time feeds on the operation of planes and conversations within the cockpit.</p>
+<p>However, transmitting data by satellite from all 80,000 daily flights worldwide wouldn’t be cheap. Airlines made an average of $4.13 in profits per passenger last year and $2.05 in 2012, according to International Air Transport Association, the industry’s trade group. Any additional costs would eat into those slim profits. Some experts say planes don’t crash frequently enough to justify the cost.</p>
+<p>If such information were to be streamed live, there would be major concerns about privacy says Robert Clifford, a personal injury lawyer in Chicago who has been involved in several aviation lawsuits. “Once it’s broadcast, the data from a plane would essentially be considered public access material — something that aircraft manufacturers, pilot unions, operators and even accident investigators don’t want.”</p>
+<p>There is also a question of who would receive and control that data. There are concerns that an airline, plane maker or government worried about its reputation could meddle with the information.</p>
+<p>“You can’t assume that there would not be strong economic interests to tamper with information,” said James E. Hall, former chairman of the U.S. National Transportation Safety Board.</p>
+<p>A compromise solution is to create deployable black boxes — data recorders similar to the voice and data recorders currently in planes. During a catastrophic event, they would break away from the tail, have their own homing devices and ideally be found quickly. But given the confusion over the Malaysia Airlines jet’s flight path, it is unclear if these boxes could help.</p>
+<p>Then there is the search. The Malaysian government has been widely criticized for how long the search has taken and for its release of contradictory information. So why aren’t American investigators, who have a long history of dealing with plane crashes, taking charge?</p>
+<p>NTSB investigators and experts from Boeing are on the scene providing technical assistance. So are U.S. military ships and planes. But politics and customs dictate that everybody takes a back seat to the local government.</p>
+<p>The practice dates to a 1944 convention on international civil aviation in Chicago. Many of today’s rules of the sky were formed at that meeting, including one that puts the country where a crash occurs in charge of the search and investigation. If the airplane is registered in another country, that government is entitled to appoint observers to be present at the inquiry.</p>
+<p>Hall says it is time for the International Civil Aviation Organization — part of the United Nations — to set up an international team of investigation professionals. “We can’t permit a situation to continue where we don’t have competent, independent people in charge of an investigation,” he said.</p>
+<p>However, Kenneth J. Button, director of the Center for Transportation, Policy, Operations and Logistics at George Mason University, notes that even U.S. investigators have made mistakes in past disasters. Further, he can’t imagine countries such as the U.S. ceding the investigatory powers they currently have to some international group.</p>
+<p>Flight MH370’s disappearance also uncovered another lapse: passenger passports were not checked against Interpol’s database of 40 million stolen or lost travel documents. Most countries don’t run passports through the international policy agency’s computer system.</p>
+<p>“It is not extremely unusual,” said Rafi Ron, a former chief of security at Tel Aviv’s airport and now head of New Age Security Solutions. To run the checks, countries would have to update software and link computer systems. “We’ve left a substantial loophole. There is only one thing behind it: cost.”</p>
+<p class="enlarge">
+<img alt="search icon" src="https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/img/search.png"/>
+					Click to enlarge
+				</p>
+<p>
+<a href="https://www.japantimes.co.jp/tag/malaysia/" rel="tag">Malaysia</a>, <a href="https://www.japantimes.co.jp/tag/china/" rel="tag">China</a>, <a href="https://www.japantimes.co.jp/tag/accident/" rel="tag">accident</a>, <a href="https://www.japantimes.co.jp/tag/airlines/" rel="tag">airlines</a>, <a href="https://www.japantimes.co.jp/tag/vietnam/" rel="tag">Vietnam</a>, <a href="https://www.japantimes.co.jp/tag/flight-mh370/" rel="tag">Flight MH370</a> </p>
+<p class="pagetop"><a href="#page" id="top_jump" title="Back to top"></a></p>
+<p>The Japan Times LTD. All rights reserved.</p>

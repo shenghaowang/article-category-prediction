@@ -1,0 +1,31 @@
+<p><span class="fecha">October, 2018</span><label>|</label><span class="hora"> 4:56 AM</span></p>
+<p></p>
+<p>
+				  					  		By  <label>|</label> <span></span>
+</p>
+<p>
+<a href="http://www.thebull.com.au/about_us/about+us.html"><img src="img/News.gif"/></a>
+<span class="puntos"></span>
+<span class="rojo">TheBull's free daily and weekly newsletters</span>
+</p>
+<p><span><a href="http://www.thebull.com.au/about_us/about+us.html"><strong>Click here</strong> to receive TheBull's free weekly newsletters on stocks, trading, investing and more</a>.</span></p>
+<p class="premium_home_title"><a href="http://www.thebull.com.au/about_us/about+us.html" title="18 Share Tips - 15 October 2018">18 Share Tips - 15 October 2018</a></p>
+<p class="premium_home_title"><a href="http://www.thebull.com.au/about_us/about+us.html" title="Macpac dresses up Super Retail Group">Macpac dresses up Super Retail Group</a></p>
+<p class="premium_home_title"><a href="http://www.thebull.com.au/about_us/about+us.html" title="The Graphene Promise - Disruptor or Disrupted">The Graphene Promise - Disruptor or Disrupted</a></p>
+<p class="premium_home_title"><a href="http://www.thebull.com.au/about_us/about+us.html" title="Brexit and surrounding politics">Brexit and surrounding politics</a></p>
+<p class="Tit1"><a class="Link " href="articles_list_authors.php?JournalistId=" title="More">All Articles</a>MORE BY THIS AUTHOR</p>
+<p class="Texto_Lat">
+<strong></strong><br>
+<span class="Tit">No Articles.</span><br clear="all"/>
+</br></p>
+<p class="gris">RESOURCES &amp; OFFERS</p>
+<p class="Texto"><a class="cont_Off" href="https://ad.doubleclick.net/ddm/clk/291445722;118608782;m" title="DEMO ACCOUNT">Practise crafting your CFD trading strategies. Open a $20k demo account and test-drive our award-winning trading platform. </a></p>
+<p class="Texto"><a class="cont_Off" href="https://wlgaincapital.adsrv.eacdn.com/C.ashx?btag=a_1530b_110c_&amp;affid=1462&amp;siteid=1530&amp;adid=110&amp;c=" title="CityIndex">Rebates scheme, Refer A Friend and a regular New Trader Bonus offer.</a></p>
+<p class="Texto"><a class="cont_Off" href="https://www.avatrade.com/lp/invest-v2?tag=83091&amp;tag2=~profile_TheBull~banner_15915" title="AvaTrade">30% BONUS ON FIRST DEPOSIT</a></p>
+<p class="Texto"><a class="cont_Off" href="https://www.plus500.com/Trading/Forex.aspx?id=119204&amp;tags=theBull&amp;pl=2" title="Plus500">Europe`s #1 CFD Trading Platform (by number of new traders in 2017). Trade the world`s most popular markets</a></p>
+<p class="Texto"><a class="cont_Off" href="https://serv.markets.com/promoRedirect?key=ej0xNDc1NTA0OSZsPTEzNTI0NjgyJnA9NDY4MTQ%3D" title="markets.com">FREE $10,000 DEMO ACCOUNT</a></p>
+<p class="Texto"><a class="cont_Off" href="https://www.commsec.com.au/brand?cid=BN_Bull17_The-Bull-ENewsletter-Static-Tracking-1x1_Tracking%20Pixel_41950815" title="Trade with CommSec">Make every second count with Australia\'s leading online broker.
+</a></p>
+<p class="Texto"><a class="cont_Off" href="https://trk.pepperstonepartners.com/aff_c?offer_id=201&amp;aff_id=17254&amp;source=thebull.com.au" title="Pepperstone">Earn up to 20,000 Qantas Points1 when you trade Forex with Pepperstone
+</a></p>
+<p>© Copyright TheBull.com.au. All rights reserved.</p>

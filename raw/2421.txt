@@ -1,0 +1,73 @@
+<p class="signUpButt"><a class="mb" href="https://www.travelmole.com/register.php" rel="width:530,height:900" title="Sign Up">SIGN UP</a></p>
+<p class="login"> <a href="https://www.travelmole.com/index-Logout.php" title="Login"> LOGIN </a> </p>
+<p class="twitter"><a href="https://www.twitter.com/TravelMole">Twitter</a></p>
+<p class="rss"><a href="https://www.travelmole.com/feeds.php">RSS</a></p>
+<p class="facebook"><a href="https://www.facebook.com/Travelmole">Facebook</a></p>
+<p class="linkedin"><a href="https://www.linkedin.com/groups/TravelMole-Media-Group-3092909">Linkedin</a></p>
+<p>Saturday 20th October 2018 </p>
+<p>Government believes other airlines will fill void</p>
+<p>23-year-old accused of spraying 'Scouser Lee' on gate</p>
+<p>Several sailings offered</p>
+<p>CEO sounds alarm over 'worrying downward trend'</p>
+<p>Association wants Hammond to halve APD</p>
+<p>Union insists members have NOT yet signed agreement</p>
+<p>Celebrity artists get onboard</p>
+<p>Staff 'staged' shot, claims airline</p>
+<p class="link"><a href="http://www.travelmole.tv" target="_blank">View more videos at TravelMole.TV</a></p>
+<p>Long haul alliance formed</p>
+<p>Dubai carrier joins 'Better Connected' programme</p>
+<p>Role will cover luxury and 'upper upscale' brands</p>
+<p>Luxury brand to make market debut</p>
+<p>Blog: Graham McKenzie is charmed by Ann Arbor</p>
+<p>Former UK director for Dubai Tourism to promote lesser known emirate</p>
+<p>Frequent fliers can earn loyalty points and car rental perks</p>
+<p>Amber Road Travel and LycaFly adopt new mobile app</p>
+<p>Initiative aimed at MICE customers</p>
+<p>Packages on sale next month</p>
+<p>Specialist sports division wins contract</p>
+<p>He will share tips with clients</p>
+<p>Co-operative Travel reports 8% jump in homeworking sales</p>
+<p>Event will celebrate the centenary of the first British women to get the vote</p>
+<p>Cruise and escorted tour operator looks to grow retail presence</p>
+<p>First one sold out within weeks</p>
+<p>Foodie hotel to open next year</p>
+<p>All-inclusive hotel will open on Kos Island</p>
+<p>Judges praised originality of campaign</p>
+<p>[Sponsored News] Welcome to the world of Stuba!</p>
+<p>No more plastic straws by end of March 2019</p>
+<p>Country house and luxury accommodation, fun Italian cookery class, superb fresh local dining, wine tastings, fascinating visits - will warm your heart!</p>
+<p>Hotel of the Week:  Handlery Union Square Hotel, San Francisco</p>
+<p>What to see, what to skip</p>
+<p>Theme park celebrates 10 years of Thomas Land</p>
+<p>Hotel of the Week: Temptation Cancun Resort</p>
+<p>Traveltek's senior vice president, Cressida Sergeant, hints that Traveltek is eyeing growth in Central Europe and amongst airline partners.</p>
+<p>Traveltek promotes cruise opportunities at ITB Asia</p>
+<p>An insight into the latest trends in travel websites!</p>
+<p>Thank you for your vote</p>
+<p style="font-family:Arial, Helvetica, sans-serif; color:#fff; font-size:8pt"><strong>Move scroll bar (above) left to right for more videos!</strong></p>
+<p><a href="https://www.travelmole.com/news_feature.php?news_id=2034188&amp;c=setreg®ion=2">Wow, it's a game changer!</a><p><p><a href="http://admin.travelmole.com/ad_redirect.php?ad_id=20174"><img alt="" src="http://admin.travelmole.com/images/stories/2009/images/Stuba_logo_120x.png" style="width: 120px; height: 36px; margin: 3px;"/></a></p><p><strong>Welcome to the world of Stuba!</strong><br/>
+<br/>
+Stuba is the unified brand following the merger of getabed and roomsXML.  Stuba.com is a brand new website, showcasing the very best product and technology  from the combined business</p></p></p>
+<p><p><a href="http://admin.travelmole.com/ad_redirect.php?ad_id=20174"><img alt="" src="http://admin.travelmole.com/images/stories/2009/images/Stuba_logo_120x.png" style="width: 120px; height: 36px; margin: 3px;"/></a></p><p><strong>Welcome to the world of Stuba!</strong><br/>
+<br/>
+Stuba is the unified brand following the merger of getabed and roomsXML.  Stuba.com is a brand new website, showcasing the very best product and technology  from the combined business</p></p>
+<p><a href="http://admin.travelmole.com/ad_redirect.php?ad_id=20174"><img alt="" src="http://admin.travelmole.com/images/stories/2009/images/Stuba_logo_120x.png" style="width: 120px; height: 36px; margin: 3px;"/></a></p>
+<p><strong>Welcome to the world of Stuba!</strong><br/>
+<br/>
+Stuba is the unified brand following the merger of getabed and roomsXML.  Stuba.com is a brand new website, showcasing the very best product and technology  from the combined business</p>
+<p></p>
+<p>
+<!-- ad_footer_300x100_a -->
+<script type="text/javascript">
+GA_googleFillSlot("ad_footer_300x100_a");
+</script>
+</p>
+<p>
+<!-- ad_footer_300x100_b -->
+<script type="text/javascript">
+GA_googleFillSlot("ad_footer_300x100_b");
+</script>
+</p>
+<p>You can book now your advertisement for via our<a href="https://www.travelmole.com/advertise.php"> online
+            booking service</a> or<a href="https://www.travelmole.com/advertise.php"> find out more</a>. </p>
+<p class="right"><a href="http://www.isd-sign.com" target="_blank">Web design by isd-sign</a> </p>

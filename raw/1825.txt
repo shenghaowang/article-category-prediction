@@ -1,0 +1,1 @@
+<p class="onair__show-description js-showTime">6a.m. - 8a.m.</p>

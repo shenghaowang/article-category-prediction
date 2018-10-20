@@ -1,0 +1,10 @@
+<p>
+                Our apologies. You’ve searched for something we cannot find.
+            </p>
+<p>
+                Some older articles might not yet have been migrated to this version of our website.
+            </p>
+<p>
+                If it’s urgent, please contact us at <a href="mailto:feedback@timeslive.co.za" target="_top">feedback@timeslive.co.za</a>
+                and we will try to find it for you.
+            </p>

@@ -1,0 +1,53 @@
+<p>
+                            TNW uses cookies to personalize content and ads to
+                            make our site easier for you to use.
+                            We do also share that information with third parties for
+                            advertising &amp; analytics.
+                        </p>
+<p>
+            by <a class="post-authorName" data-event-action="Author - Kaylene Hong" data-event-category="Article" data-event-label="Profile" data-event-non-interaction="true" href="https://thenextweb.com/author/kaylene/">Kaylene Hong</a>
+            — <time class="timeago" datetime="2014-03-16T18:45:03+00:00"></time>
+                        in <a class="post-section" data-event-action="Category" data-event-category="Article" data-event-label="Asia" data-event-non-interaction="true" href="https://thenextweb.com/asia/">Asia</a>
+</p>
+<p>After <a href="https://thenextweb.com/asia/2013/05/31/alibaba-ipo-explained-expect-multiple-public-offerings-from-chinas-e-commerce-giant/#!z0ugj">months of speculation</a>, Chinese e-commerce juggernaut Alibaba<a class="idc-hasIcon" data-index="" href="https://index.co/company/alibaba" rel="noopener" target="_blank"></a> has finally confirmed that it has started the process of filing for an IPO in the US. In a statement sent to TNW, an Alibaba spokesperson explains that this will pave the way for the company to have a more global vision in the future:</p>
+<p>Alibaba Group has decided to commence the process of an initial public offering in the United States.  This will make us a more global company and enhance the company’s transparency, as well as allow the company to continue to pursue our long-term vision and ideals.</p>
+<p>Should circumstances permit in the future, we will be constructive toward extending our public status in the China capital market in order to share our growth with the people of China.</p>
+<p>However, Alibaba’s decision to list in the US only comes after the company <a href="http://www.alizila.com/alibaba-offers-alternative-view-good-corporate-governance" rel="nofollow noopener" target="_blank">encountered issues</a> with regulations in Hong Kong. Addressing that, the Alibaba spokesperson says:<span style="line-height: 1.5em;"> “We respect the viewpoints and policies of Hong Kong and will continue to pay close attention to and support the process of innovation and development of Hong Kong.”</span></p>
+<p>Those sweet cool gadgets?</p>
+<p>Alibaba is China’s largest retail platform for businesses and consumers — and according to analysts surveyed by Reuters<a class="idc-hasIcon" data-index="" href="https://index.co/company/Reuters" rel="noopener" target="_blank"></a>, it is <a href="http://in.reuters.com/article/2013/10/16/yahoo-alibaba-idINDEE99E0EJ20131016" rel="nofollow noopener" target="_blank">expected to file a $15 billion IPO</a> that values the company at more than $100 billion.</p>
+<p>Alibaba’s move comes as ‘China’s Twitter’ Sina Weibo also <a href="http://blogs.wsj.com/digits/2014/03/14/chinas-weibo-files-for-ipo/" rel="nofollow noopener" target="_blank">filed for an IPO in the US</a> over the weekend to raise up to $500 million, following <a href="https://thenextweb.com/asia/2014/02/24/chinas-twitter-sina-weibo-is-reportedly-planning-a-new-york-public-listing/#!z0HGq">reports</a> that it would do so.</p>
+<p>Sina Weibo revealed in its <a href="http://www.sec.gov/Archives/edgar/data/1595761/000119312514100237/d652805df1.htm" rel="nofollow noopener" target="_blank">filing</a> that as of December, it had 129.1 million monthly active users. For comparison, Twitter has about 241 million monthly active users.</p>
+<p>Alibaba is also invested in Sina Weibo — after all, it forked out <a href="https://thenextweb.com/asia/2013/04/29/sina-confirms-alibaba-has-invested-586m-in-weibo-taking-the-chinese-e-commerce-giants-ownership-to-18/">$586 million</a> for an 18 percent stake in the service last year.</p>
+<p>Transactions on Alibaba’s e-commerce platforms have already <a data-ls-seen="1" href="https://thenextweb.com/asia/2012/09/10/alibaba-moving-beyond-ecommerce-bid-beat-android/">topped those</a> of Amazon<a class="idc-hasIcon" data-index="" href="https://index.co/company/amazon" rel="noopener" target="_blank"></a> and eBay<a class="idc-hasIcon" data-index="" href="https://index.co/company/eBay" rel="noopener" target="_blank"></a> combined, and company CEO Jonathan Lu <a href="https://thenextweb.com/asia/2013/10/14/chinas-alibaba-aims-to-overtake-walmart-in-2016-as-worlds-biggest-retail-firm/#!z0yeq">mentioned last year</a> that it was aiming to nearly triple the volume of transactions on its marketplace platforms to about CNY3 trillion ($490 billion) by 2016,  surpassing Walmart<a class="idc-hasIcon" data-index="" href="https://index.co/company/Walmart" rel="noopener" target="_blank"></a> as the world’s biggest retail firm.</p>
+<p>A listing in the US would no doubt help Alibaba accelerate its global growth plans. Alibaba <a href="https://thenextweb.com/us/2014/02/11/chinas-alibaba-is-preparing-to-dip-its-toes-in-the-us-e-commerce-market-for-the-first-time/#!z0z67">revealed last month</a> that it was launching an online shopping site in the US through its subsidiaries <a href="http://www.vendio.com/" rel="nofollow noopener" target="_blank">Vendio</a> and <a href="http://www.auctiva.com/%E2%80%8E" rel="nofollow noopener" target="_blank">Auctiva</a>. Before that, the company <a data-ls-seen="1" href="https://thenextweb.com/asia/2013/10/10/alibaba-pushes-us-leads-206-million-investment-shoprunner/">led a $206 million investment round</a> in US e-commerce logistics firm Shoprunner last year, and subsequently made a subtle but significant play for Western companies after it launched <a data-ls-seen="1" href="https://thenextweb.com/asia/2013/10/15/alibaba-makes-a-play-for-western-brands-with-english-site-explaining-its-tmall-b2c-service/">an English language microsite</a> for <a data-ls-seen="1" href="http://www.tmall.com/" rel="nofollow noopener" target="_blank">Tmall</a>, its B2C shopping site for brands.</p>
+<p>Alibaba’s IPO filing also comes at a time when the company has been taking steps to branch out into other services as it seeks to strengthen its ecosystem of diverse offerings, in order to capture the attention of users and keep them within its ecosystem, which could ultimately lead to more e-commerce opportunities.</p>
+<p>In particular, Alibaba is extremely keen to make its presence felt in mobile — CEO Jonathan Lu already <a href="https://thenextweb.com/asia/2013/07/09/alibaba-ceo-anticipates-more-big-investments-as-chinas-e-commerce-giant-focuses-on-mobile/">pledged last year</a> to continue its string of big investments as it maintains focus on improving its services for mobile, and the company has been upping efforts to <a href="https://thenextweb.com/apps/2014/01/02/chinas-alibaba-is-paying-users-to-sign-friends-up-to-its-chat-app/">promote its chat app</a>, <a href="https://thenextweb.com/mobile/2013/10/31/chinas-alibaba-offers-free-data-woo-mobile-shoppers/#!rGHXo">wooing mobile shoppers</a> with free data and even <a href="https://thenextweb.com/asia/2013/11/20/alibaba-gives-free-smartphones-to-retailers-in-china-to-help-accelerate-the-m-commerce-revolution/#!rGHXM">giving free smartphones</a> to retailers in China. Most recently, it <a href="https://thenextweb.com/asia/2014/01/27/chinas-alibaba-launches-mobile-games-on-its-taobao-shopping-app-and-laiwang-chat-app/#!zor9F">launched mobile games</a> on its Taobao shopping app and Laiwang chat app.</p>
+<p><em>Headline image via <a href="http://www.gettyimages.com/detail/news-photo/chinese-workers-walk-out-from-the-alibaba-head-office-news-photo/144932566" rel="nofollow noopener" target="_blank">AFP/Getty Images</a></em></p>
+<p class="post-article-read-next">
+<b>Read next:</b>
+<a class="gtm-article-read-next" data-event-action="Next post" data-event-category="Article" data-event-label="" data-event-non-interaction="true" href="https://thenextweb.com/asia/2014/03/16/chinas-xiaomi-brings-its-android-based-miui-firmware-to-the-wifi-only-nexus-7-tablet/">
+        China's Xiaomi brings its Android-based MIUI firmware to the WiFi-only Nexus 7 tablet    </a>
+</p>
+<p class="u-fontSize-s">Stay tuned with our weekly recap of what’s hot &amp; cool by our CEO <a href="/author/boris">Boris</a>.</p>
+<p class="u-color-light u-fontSize-s">
+        Join over 260,000 subscribers!
+    </p>
+<p class="lead u-m-1_5 u-text-center">
+                Sit back and let the hottest tech news come to you by the magic of electronic mail.
+            </p>
+<p class="u-color-light u-fontSize-xs u-m-1 u-text-center">
+                Prefer to get the news as it happens? Follow us on social media.
+            </p>
+<p class="modalStayTuned-channels-followers">
+<b>1.76M</b> followers
+                        </p>
+<p class="modalStayTuned-channels-followers">
+<b>1M</b> likes
+                        </p>
+<p class="lead u-m-1_5 u-text-center">
+                Got two minutes to spare? We'd love to know a bit more about our readers.<br/><br/>
+<a class="button u-w-xs-25" href="#">Start!</a>
+</p>
+<p class="u-color-light u-fontSize-xs u-m-1 u-text-center">
+                All data collected in the survey is anonymous.
+            </p>

@@ -1,0 +1,151 @@
+<p class="js_date_long"></p>
+<p><a href="http://seattletimes.com/html/traffic/?from=stnv">Traffic</a></p>
+<p><a href="http://seattletimes.com">Winner of Nine Pulitzer Prizes</a></p>
+<p class="floatleft">Follow us:</p>
+<p class="floatright">
+<a href="http://www.facebook.com/seattletimes" title="Like us on Facebook"><img alt="facebook" src="http://seattletimes.com/art/ui/1024/v_2011/i-facebook-15x15.gif"/></a>
+<a href="http://twitter.com/#!/seattletimes" title="Follow us on Twitter"><img alt="twitter" src="http://seattletimes.com/art/ui/1024/v_2011/i-twitter-15x15.gif"/></a>
+</p>
+<p><a href="http://community.seattletimes.nwsource.com/archive/?from=stnv">Advanced Search</a> | <a href="http://seattletimes.com/flatpages/entertainment/advancedsearch.html?from=stnv">Events &amp; Venues</a> | <a href="http://www.legacy.com/obituaries/seattletimes/?from=stnv">Obituaries</a></p>
+<p><script type="text/javascript">
+				<!--
+				OAS_AD('Top');
+				//-->
+				</script></p>
+<p class="pgtime"><a name="body"></a>Originally published Saturday, March  8, 2014 at  8:00 PM
+					</p>
+<p class="summary">Many funds have more than doubled in the last five years, but that’s due in part to the calendar creeping closer to the anniversary of the March 9, 2009, bottom for the market.</p>
+<p class="byline">By <a href="http://search.nwsource.com/search?searchtype=cq&amp;sort=date&amp;from=ST&amp;byline=STAN%20CHOE">STAN CHOE</a></p>
+<p class="source">The Associated Press</p>
+<p><img alt="advertising" border="0" height="7" src="http://local.ads.nwsource.com/ads/adv.gif" vspace="1" width="70"/></p>
+<p> Fabulous can have a flip side.</p>
+<p>It’s something investors should remember as mutual funds’ five-year return figures grow more eye-popping by the day. Many funds have more than doubled over that time, but that’s due in part to the calendar creeping closer to the five-year anniversary of the March 9, 2009, bottom for the market. </p>
+<p>That means the darkest days of the financial crisis are no longer counted in five-year returns, leaving only the recovery that sent the Standard &amp; Poor’s 500 index to a record high.</p>
+<p>The anniversary is a key milestone because many potential investors scrutinize a fund’s five-year record when deciding whether to buy a fund. It’s important, though, to put those stellar performance numbers in context and to temper expectations.</p>
+<p>Market conditions are stacked against both stock and bond mutual funds having such strong returns over the next five years, analysts say. Plus, some of the funds with the best five-year returns led the pack because they focused on the riskiest investments. Many conservative managers, meanwhile, got left behind in the bull market.</p>
+<p>To see how big the numbers are, check the performance of the largest mutual fund by assets. Vanguard’s Total Stock Market Index fund (VTSMX) has a five-year annualized return of 23.2 percent, according to Morningstar. At the end of 2012, its five-year annualized return was only 2.2 percent.</p>
+<p>Investors already have some experience with this effect. Something similar happened with funds’ three-year returns in early 2012.</p>
+<p>A fund’s three- and five-year returns are typically the numbers that average investors find most important, says David Mertens, a principal at Jensen Investment Management. Its mutual funds include Jensen Quality Growth (JENSX), which has Morningstar’s gold-medal analyst rating.</p>
+<p>Mertens would prefer that investors give greater weight to a fund’s returns over 10 years or even longer. But “people tend to buy what’s just happened,” he says. “People buy yesterday’s story.”</p>
+<p>Before you invest, here are some key considerations to put that story in perspective:</p>
+<p>
+<strong>• A repeat performance is doubtful </strong>
+</p>
+<p>Stocks are unlikely to rise as dramatically, in part because they don’t look as cheap as they did in 2009. One popular way to measure whether a stock is expensive is to divide the price of a stock by its earnings per share over the last 12 months. </p>
+<p>Robert Shiller, a professor at Yale University and one of the winners of the Nobel Prize in economics last year, takes it a step further. He thinks it’s misleading to look at just one year because earnings can surge or drop in an economic cycle. To smooth out distortions, he looks at the S&amp;P 500’s level versus its average earnings per share over the prior 10 years, adjusting for inflation.</p>
+<p>By that measure, the S&amp;P 500 in March 2009 was at its cheapest level in 23 years. Now, it’s nearly twice that level and back above its average since World War II. That suggests future gains for stocks won’t come from a further rise in price-earnings ratios as much as from growth in earnings.</p>
+<p>This year, analysts forecast earnings per share for S&amp;P 500 companies to rise 7.9 percent.</p>
+<p>For bond funds, strategists are more pessimistic given expectations that interest rates will rise from their relatively low levels. Five years ago, the yield on the 10-year Treasury note was 3 percent and on its way down. Falling interest rates help bond mutual funds because they push up prices for existing bonds.</p>
+<p>Now, the 10-year Treasury’s yield is below 2.7 percent, but strategists say it’s on its way up. Many bond mutual funds in 2013 had their first down year in more than a decade amid rising interest rates.</p>
+<p>
+<strong>• The last five years have rewarded risk </strong>
+</p>
+<p>The top-performing stock fund over the last five years has been the Direxion Monthly NASDAQ-100 Bull 2x fund (DXQLX), which has a 60.7 percent annualized return. But it’s not what most people would consider a core investment. The fund is meant more for short-term traders than long-term investors.</p>
+<p>It uses leverage in its attempt to double the monthly results of the Nasdaq 100 index, before fees and expenses. While that supercharges gains when the market is strong, it also accelerates losses during downturns. The fund lost 82.8 percent in 2008.</p>
+<p>The reward for risk taking can also be seen among target-date mutual funds, which many savers depend on for their retirement accounts. These funds own mostly stocks when an investor’s retirement date is far off and automatically migrate toward bonds as the date nears. But some have less in stocks than others, even if they’re targeted at the same year of retirement.</p>
+<p>The Wells Fargo Advantage Dow Jones Target 2025 fund, for example, is more conservative. That’s why it’s in the bottom 3 percent of its peer group for five-year returns. But in 2008, its greater emphasis on bonds helped to cushion the stock market’s losses, and it was in the category’s top 7 percent.</p>
+<p>The good news is that investors don’t have to look back too far to see how a fund manager performed in a variety of markets, says David Lafferty, chief market strategist for Natixis Global Asset Management. It has $867.2 billion in assets under management.</p>
+<p>Since the late ’90s, stocks have undergone three bull markets (the dot-com boom, the housing bubble and the most recent recovery for stocks) and two bear markets (the dot-com bust and the financial crisis).</p>
+<p class="vspacing"></p>
+<p class="vspacing"></p>
+<p class="divider"></p>
+<p class="vspacing"></p>
+<p class="verticalline"></p>
+<p>
+                        
+                        The latest business headlines from the Northwest and beyond. Sent daily.
+                        
+                        
+						<a href="http://seattletimes.nwsource.com/email/businesstechnology.html" onclick="window.open('http://seattletimes.nwsource.com/email/businesstechnology.html','popup','width=680,height=620,scrollbars=yes'); return false">(Sample)</a>
+</p>
+<p id="meta_links">
+<span><a href="http://seattletimes.nwsource.com/flatpages/services/newsletters.html">All newsletters</a></span>
+<a class="footerpopup" href="http://www.seattletimescompany.com/notices/notice2.html" target="footerpopup">Privacy statement</a>
+</p>
+<p class="vspacing"></p>
+<p class="vspacing"></p>
+<p><script type="text/javascript">
+						<!--
+						OAS_AD('Top1');
+						//-->
+						</script></p>
+<p class="strong hed1"><a href="http://bit.ly/1voGYAK">Relive the magic</a></p>
+<p>Shop for unique souvenirs highlighting great sports moments in Seattle history.</p>
+<p><img alt="Advertising" class="ui" src="/art/ui/adv.gif"/></p>
+<p><img alt="Advertising" class="ui" src="/art/ui/adv.gif"/></p>
+<p><a href="#" onclick="setDSCookie('ballardfremont', 'now')">Ballard – Fremont</a></p>
+<p><a href="#" onclick="setDSCookie('capitolhill', 'now')">Capitol Hill</a></p>
+<p><a href="#" onclick="setDSCookie('centraldistrictmadisonpark', 'now')">Central District – Madison Park</a></p>
+<p><a href="#" onclick="setDSCookie('downtown', 'now')">Downtown</a></p>
+<p><a href="#" onclick="setDSCookie('eastlakelakeunion', 'now')">Eastlake/Lake Union</a></p>
+<p><a href="#" onclick="setDSCookie('greenlakewallingford', 'now')">Greenlake – Wallingford</a></p>
+<p><a href="#" onclick="setDSCookie('greenwoodphinneyridge', 'now')">Greenwood/Phinney Ridge</a></p>
+<p><a href="#" onclick="setDSCookie('northseattle', 'now')">North Seattle</a></p>
+<p><a href="#" onclick="setDSCookie('queenannemagnolia', 'now')">Queen Anne – Magnolia</a></p>
+<p><a href="#" onclick="setDSCookie('sandpointravenna', 'now')">Ravenna – Sandpoint</a></p>
+<p><a href="#" onclick="setDSCookie('southseattle', 'now')">South Seattle</a></p>
+<p><a href="#" onclick="setDSCookie('universitydistrictmontlake', 'now')">University District/Montlake</a></p>
+<p><a href="#" onclick="setDSCookie('westseattle', 'now')">West Seattle</a></p>
+<p><a href="#" onclick="setDSCookie('bothellkenmore', 'now')">Bothell – Kenmore</a></p>
+<p><a href="#" onclick="setDSCookie('shorelinelakeforestpark', 'now')">Shoreline – Lake Forest Park</a></p>
+<p><a href="#" onclick="setDSCookie('bellevue', 'now')">Bellevue</a></p>
+<p><a href="#" onclick="setDSCookie('factorianewcastle', 'now')">Factoria – Newcastle</a></p>
+<p><a href="#" onclick="setDSCookie('issaquah', 'now')">Issaquah</a></p>
+<p><a href="#" onclick="setDSCookie('kirkland', 'now')">Kirkland</a></p>
+<p><a href="#" onclick="setDSCookie('mercerisland', 'now')">Mercer Island</a></p>
+<p><a href="#" onclick="setDSCookie('redmondsammamish', 'now')">Redmond – Sammamish</a></p>
+<p><a href="#" onclick="setDSCookie('snoqualmienorthbend', 'now')">Snoqualmie – North Bend</a></p>
+<p><a href="#" onclick="setDSCookie('woodinvilleduvall', 'now')">Woodinville – Duvall</a></p>
+<p><a href="#" onclick="setDSCookie('edmonds', 'now')">Edmonds</a></p>
+<p><a href="#" onclick="setDSCookie('everettmukilteo', 'now')">Everett – Mukilteo</a></p>
+<p><a href="#" onclick="setDSCookie('lynnwoodmountlaketerrace', 'now')">Lynnwood – Mountlake Terrace</a></p>
+<p><a href="#" onclick="setDSCookie('marysvillearlingtonstanwood', 'now')">Marysville – Arlington – Stanwood</a></p>
+<p><a href="#" onclick="setDSCookie('othersnohomishcounty', 'now')">Snohomish County (other)</a></p>
+<p><a href="#" onclick="setDSCookie('auburn', 'now')">Auburn</a></p>
+<p><a href="#" onclick="setDSCookie('burienseatacdesmoines', 'now')">Burien – SeaTac – Des Moines</a></p>
+<p><a href="#" onclick="setDSCookie('enumclaw', 'now')">Enumclaw</a></p>
+<p><a href="#" onclick="setDSCookie('federalway', 'now')">Federal Way</a></p>
+<p><a href="#" onclick="setDSCookie('kentcovington', 'now')">Kent – Covington</a></p>
+<p><a href="#" onclick="setDSCookie('renton', 'now')">Renton</a></p>
+<p><a href="#" onclick="setDSCookie('tukwila', 'now')">Tukwila</a></p>
+<p><a href="#" onclick="setDSCookie('vashonisland', 'now')">Vashon</a></p>
+<p><a href="#" onclick="setDSCookie('puyallup', 'now')">Puyallup – Sumner</a></p>
+<p><a href="#" onclick="setDSCookie('tacomalakewood', 'now')">Tacoma – Lakewood</a></p>
+<p><a href="#" onclick="setDSCookie('otherpiercecounty', 'now')">Pierce County (other)</a></p>
+<p><a href="#" onclick="setDSCookie('kitsappeninsula', 'now')">Kitsap Peninsula</a></p>
+<p class="label" style="font-size:12px; margin-bottom:2px; white-space:nowrap;">Special report</p>
+<p style="margin-bottom:2px;"><a href="http://seattletimes.com/seachange?prmid=4749"><img alt="Ocean acidification threatens to scramble marine life on a scale almost too big to fathom." class="pic" height="100" src="/ABPub/2014/09/30/2024665710.jpg" style="border:1px solid #ccc;" title="Ocean acidification threatens to scramble marine life on a scale almost too big to fathom." width="220"/></a></p>
+<p class="strongbodytext">Ocean acidification threatens to scramble marine life on an unfathomable scale</p>
+<p class="vspacing"></p>
+<p class="text"></p>
+<p class="label" style="font-size:12px; margin-bottom:2px; white-space:nowrap;">The Seattle Times Historical Archives</p>
+<p style="margin-bottom:2px;"><a href="http://nl.newsbank.com/nl-search/we/Archives/?p_product=HA-SE&amp;p_theme=histpaper&amp;p_action=keyword&amp;prmid=4750"><img alt="" class="pic" height="100" src="/ABPub/2011/08/01/2015790831.jpg" style="border:1px solid #ccc;" title="" width="220"/></a></p>
+<p class="strongbodytext">Browse our newspaper page archives from 1900-1984</p>
+<p class="vspacing"></p>
+<p class="text"></p>
+<p style="white-space:nowrap;">Explore</p>
+<p>The Architecture of the Pacific Northwest</p>
+<p class="vspacing"></p>
+<p class="text"></p>
+<p>Contact/Help</p>
+<p>Connect</p>
+<p>Advertising</p>
+<p>Company</p>
+<p>Subscriber<br/>Services</p>
+<p class="strongtext floatright"><a href="http://seattletimes.com/PDF/frontpage.pdf"><img alt="PDF of today's Seattle Times front page" class="pic" src="http://seattletimes.com/ABPub/frontpage.gif" width="140"/></a><br/>
+<a href="http://seattletimes.com/PDF/frontpage.pdf">Today's front page (PDF)</a></p>
+<p id="footer-bottom-logo"><a href="http://seattletimes.com/html/home/?from=stnb"><img height="30" src="http://seattletimes.com/art/ui/seattletimeslogo_home.gif" width="207"/></a></p>
+<p id="footer-bottom-p1">The Seattle Times Network: 
+					<a href="http://seattletimes.com/html/home/?from=stnb">seattletimes.com</a> | 
+					<a href="http://jobs.seattletimes.com/?from=stnb">Jobs</a> | 
+					<a href="http://autos.seattletimes.com/?from=stnb">Autos</a> | 
+					<a href="http://homes.seattletimes.com/?from=stnb">Homes</a> | 
+					<a href="http://classifieds.seattletimes.com/?from=stnb">Classifieds</a> | 
+					<a href="http://nwhomes.seattletimes.com/homes/search/advanced/for-rent">Rentals</a> | 
+					<a href="http://personals.nwsource.com/?from=stnb">Personals</a></p>
+<p id="footer-bottom-p3">
+<a class="footerpopup" href="http://company.seattletimes.com/notices/notice3.html?from=stnv4">Copyright ©<span class="js_date_year"></span></a>
+<a href="http://company.seattletimes.com/?from=stnv4">The Seattle Times</a> | 
+					<a href="http://mediakit.seattletimes.com/?from=stnv4">Advertise with us</a> | 
+					<a class="footerpopup" href="http://company.seattletimes.com/notices/notice2.html?from=stnv4">Privacy statement</a> | 
+					<a class="footerpopup" href="http://company.seattletimes.com/notices/notice1.html?from=stnv4">Terms of service</a></p>

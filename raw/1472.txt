@@ -1,0 +1,73 @@
+<p>Please <span class="not-logged-in">log in, or sign up for a new account and</span> purchase a subscription to continue reading.</p>
+<p>Please <span class="not-logged-in">log in, or sign up for a new account</span> to continue reading.</p>
+<p><strong>Thank you for Reading!
+</strong> We hope that you continue to enjoy our free content.</p>
+<p>Please log in, or sign up for a new account and purchase a subscription to continue reading.
+</p>
+<p>Please purchase a subscription to continue reading.
+</p>
+<p>Your current subscription does not provide access to this content.
+</p>
+<p>Print subscribers are entitled to <strong>FREE</strong> unlimited web access.</p>
+<p><strong>Sorry</strong>, this zipcode is not in our deliverable area for this subscription service.</p>
+<p>Re-enter zip code or sign up for digital access.</p>
+<p class="text-right"><a class="alert-link" href="/users//admin/service/purchase/?services=digital">Get digital access</a></p>
+<p>Please confirm you are in our delivery area</p>
+<p>Windy with showers developing this afternoon. Morning high of 51F with temps falling to near 40. Winds WNW at 20 to 30 mph. Chance of rain 60%. Winds could occasionally gust over 40 mph..</p>
+<p>Considerable cloudiness with occasional rain showers. Snow may mix in. Low 33F. NNW winds at 15 to 25 mph, decreasing to 5 to 10 mph. Chance of rain 40%.</p>
+<p class="text-center"><small><i class="fas tnt-info-circle"></i> Updated: October 20, 2018 @ 4:06 am</small></p>
+<p class="tnt-summary">MICHIGAN CITY – Two La Porte County deputies were hospitalized and a local man is behind bars after allegedly attacking them at the Michigan City courthouse on Friday morning. </p>
+<p>We're always interested in hearing about news in our community. Let us know what's going on!</p>
+<p class="tnt-summary">DEAR AMY: Seven years ago my father was arrested for having sex with a 16-year-old girl. </p>
+<p>We're always interested in hearing about news in our community. Let us know what's going on!</p>
+<p class="tnt-summary">SOUTH BEND — New Prairie scored eight touchdowns as a team on Friday night in their Class 4A Sectional 18 opening-round matchup with South Bend Washington. Six of them came from junior quarterback Chase Ketterer alone in three different fashions in a 56-7 drubbing of the Panthers at School Field. </p>
+<p>We're always interested in hearing about news in our community. Let us know what's going on!</p>
+<p><span class="Bodycopy">The Affordable Care Act, also known as Obamacare, evokes strong opinions. These opinions more often than not are based on political persuasion, lack of information or deliberate misinformation.</span></p>
+<p><span class="Bodycopy">If you happen to be someone who hates this law no matter what the reality is, please do not waste your time and read no further.</span></p>
+<p><span class="Bodycopy">On the other hand, if you are a rational person with an open mind who wants to learn how this works and how to sign up and how to help yourself or others in your family who may need health insurance, please keep reading.</span></p>
+<p><span class="Bodycopy">If you already have private employer-sponsored health insurance, Medicare or Medicaid, you do not have to do anything. This constitutes 80 percent of the population.</span></p>
+<p><span class="Bodycopy">If you are currently uninsured or are worrying about becoming uninsured because you may lose your job; if your insurance is linked to your spouse’s job and insurance and there is a risk your spouse may lose his/her job; or if your spouse is retiring before you turn 65 and become eligible for Medicare, please pay attention to what is going on and learn about the marketplace insurance.</span></p>
+<p><span class="Bodycopy">If you are currently buying insurance in the individual market which is not related to your job, you should also pay attention to what is going on.</span></p>
+<p><span class="Bodycopy">The open enrollment for the marketplace insurance also known as Obamacare ends on March 31. Please follow these three steps to enroll:</span></p>
+<p><span class="Bodycopy">n Before you take the step of signing up for health insurance, please log on to <a href="http://KFF.org">KFF.org</a> (Kaiser Family Foundation) and go to the Interactive Subsidy Calculator and put in your information. In less than two minutes you will know approximately how much your health insurance will cost and based on your income, how much of that premium you will have to pay and how much of the premium the government will pay for you to get private health insurance. If you like what you see and want to proceed further, go to Step 2.</span></p>
+<p><span class="Bodycopy">n Ask your doctor and/or your hospital in your community which marketplace insurance they are participating in and accepting and write it down. In each plan there are four levels, Platinum (90/10) Gold (80/20) Silver (70/30) and Bronze (60/40). Choose a level of plan that suits your budget. Most people tell me that the Silver Plan is the most cost-effective.</span></p>
+<p><span class="Bodycopy">n Signing Up: There are three options to sign up:</span></p>
+<p><span class="Bodycopy">n Navigator: A navigator is a person who helps you sign up by meeting with you personally. There are several navigators available in La Porte County.</span></p>
+<p><span class="Bodycopy">Zebada Triplet at St. Anthony Memorial Hospital at 877-1617.</span></p>
+<p><span class="Bodycopy">IU Health LaPorte Hospital at 855-400-2045.</span></p>
+<p><span class="Bodycopy">Franciscan Physician’s Network at 873-2968.</span></p>
+<p><span class="Bodycopy">Healthy Communities of LaPorte County at 219-809-9094 (Donnicka Hurt and Nakia Bonds).</span></p>
+<p><span class="Bodycopy">Health Link at 872-6200 (Laura Lamb).</span></p>
+<p><span class="Bodycopy">n You can call a toll free number: 1-800-318-2596. When you call this number the person on the line will help you sign up.</span></p>
+<p><span class="Bodycopy">Please have your income from your W-2 form, whichever marketplace insurance plan you chose based on the plan your doctor and hospital is accepting, and also the level of plan, i.e., the Silver Plan being the most cost effective. Once you have this information ready, it takes about 10-15 minutes to complete the call. Two weeks later you will receive a premium notice and once the premium is paid, you will receive your insurance cards approximately two weeks later.</span></p>
+<p><span class="Bodycopy">n Log on to <a href="http://Healthcare.gov">Healthcare.gov</a> web site. This is for individuals who have good computer skills.</span></p>
+<p><span class="Bodycopy">Your health is your most precious asset. Please help yourself, your family and your community by preserving and promoting your health.</span></p>
+<p><span class="Bodycopy">I see some talking heads on television stations who are spreading misinformation. They do not care whether you are able to take care of your health or not.</span></p>
+<p><span class="Bodycopy">Please do not rely on such misinformation and ignorance to make important health care decisions for yourself and your family.</span></p>
+<p><span class="Bodycopy">You owe that to yourself.</span></p>
+<p><span class="Endnotes">Dr. Vidya S. Kora currently serves as La Porte County Commissioner.</span></p>
+<p>Your comment has been submitted.</p>
+<p></p>
+<p>Reported</p>
+<p>There was a problem reporting this.</p>
+<p>Do it, or they will come for your property.</p>
+<p>Having no metrics and statistics presented is typical of the Democratic mind set.The number of people forced off their existing insurance, the average increase in cost and theactual figures for improved services is needed.Since the minimal metrics of QOL improvement are NOT provided by the Democrats, some one else WILL provide the facts.The current fact of this article is the illusion of a better life created by Democrats without the facts to back it up. This is the only fact I need come election time.</p>
+<p>Or is it this three step process:1) Sell your all your stuff to pay your new "affordable premiums"2) Work five jobs (if you can find one)3) Get on the Obama Free Ride and get all your stuff free</p>
+<p class="comment-login">
+<a class="btn btn-primary btn-block" href="https://www.heraldargus.com/users/login/?referer_url=https%3A%2F%2Fwww.heraldargus.com%2Fnews%2Fopinion%2Fguest_editorials%2Fthree-step-process-to-sign-up-for-health-insurance%2Farticle_9a6ae100-9a7f-5cda-8e8f-b855cf14bb07.html">Log In</a>
+</p>
+<p class="comment-rules"><strong>Keep it Clean.</strong> Please avoid obscene, vulgar, lewd,
+racist or sexually-oriented language.<br/>
+<strong>PLEASE TURN OFF YOUR CAPS LOCK.</strong><br/>
+<strong>Don't Threaten.</strong> Threats of harming another
+person will not be tolerated.<br/>
+<strong>Be Truthful.</strong> Don't knowingly lie about anyone
+or anything.<br/>
+<strong>Be Nice.</strong> No racism, sexism or any sort of -ism
+that is degrading to another person.<br/>
+<strong>Be Proactive.</strong> Use the 'Report' link on
+each comment to let us know of abusive posts.<br/>
+<strong>Share with Us.</strong> We'd love to hear eyewitness
+accounts, the history behind an article.
+</p>
+<p class="no-results text-muted">Sorry, there are no recent results for popular videos.</p>

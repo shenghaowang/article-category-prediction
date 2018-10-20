@@ -1,0 +1,58 @@
+<p><html>
+<head></head>
+<body>
+<p style="text-align: justify;">Mercedes Benz, the luxury car maker of Germany on 13 March 2014 announced that it had commenced assembling the S-Class sedan in India at Chakan near Pune. This action has helped the company to slash the price of the car by 18 lakh rupees and this reduction has been done to enhance the position of the company in India.</p>
+<p><a href="http://shop.jagranjosh.com/current-affairs-february-2014-ebook.html" rel="nofollow" target="_blank"><img alt="image" class="lazy img-responsive" data-original="http://www.jagranjosh.com/imported/images/E/Articles/Feb468x60.jpg" src="http://www.jagranjosh.com/imported/images/E/Articles/Feb468x60.jpg" style="float:left;margin right:10px;"/></a><br/>The company will roll out locally produced top-end model S 500 from its Pune manufacturing facility. Car rolled out from the Pune facility will be priced 1.39 crore rupees (ex-showroom, Delhi)<br/><br/>Earlier, Mercedes in January 2014 launched the S-Class luxury sedan in India at price of 1.57 crore rupees (ex-showroom, Delhi), which was fully imported. <br/><br/><strong>Locally produced cars of Mercedes-Benz in India </strong><br/>• S-Class<br/>• E-Class<br/>• C-Class<br/>• GL-Class <br/>• M-Class<br/><br/>Mercedes imports cars that include A-Class, CLS-Class, SLK-Class, luxury tourer B-Class and other to the country.</p>
+</body>
+</html></p>
+<p style="text-align: justify;">Mercedes Benz, the luxury car maker of Germany on 13 March 2014 announced that it had commenced assembling the S-Class sedan in India at Chakan near Pune. This action has helped the company to slash the price of the car by 18 lakh rupees and this reduction has been done to enhance the position of the company in India.</p>
+<p><a href="http://shop.jagranjosh.com/current-affairs-february-2014-ebook.html" rel="nofollow" target="_blank"><img alt="image" class="lazy img-responsive" data-original="http://www.jagranjosh.com/imported/images/E/Articles/Feb468x60.jpg" src="http://www.jagranjosh.com/imported/images/E/Articles/Feb468x60.jpg" style="float:left;margin right:10px;"/></a><br/>The company will roll out locally produced top-end model S 500 from its Pune manufacturing facility. Car rolled out from the Pune facility will be priced 1.39 crore rupees (ex-showroom, Delhi)<br/><br/>Earlier, Mercedes in January 2014 launched the S-Class luxury sedan in India at price of 1.57 crore rupees (ex-showroom, Delhi), which was fully imported. <br/><br/><strong>Locally produced cars of Mercedes-Benz in India </strong><br/>• S-Class<br/>• E-Class<br/>• C-Class<br/>• GL-Class <br/>• M-Class<br/><br/>Mercedes imports cars that include A-Class, CLS-Class, SLK-Class, luxury tourer B-Class and other to the country.</p>
+<p>
+<strong>DISCLAIMER: </strong>JPL and its affiliates shall have no liability for any views, thoughts and comments expressed on this article.<br/>
+<br/>
+</p>
+<p>
+<span><a href="/current-affairs/alibaba-founder-jack-ma-to-step-down-in-2019-company-ceo-named-his-successor-1536574289-1?ref=rel_stories_art" title="Alibaba founder Jack Ma to step down in 2019, company CEO named his successor">Alibaba founder Jack Ma to step down in 2019, company CEO named his successor</a></span>
+</p>
+<p>
+<span><a href="/current-affairs/hrd-ministry-launches-third-edition-of-smart-india-hackathon-1535626193-1?ref=rel_stories_art" title="HRD Ministry launches third edition of ‘Smart India Hackathon’">HRD Ministry launches third edition of ‘Smart India Hackathon’</a></span>
+</p>
+<p>
+<span><a href="/current-affairs/niti-aayog-launches-pitch-to-move-for-startups-1534249465-1?ref=rel_stories_art" title="NITI Aayog launches ‘Pitch to MOVE’ for startups">NITI Aayog launches ‘Pitch to MOVE’ for startups</a></span>
+</p>
+<p>
+<span><a href="/current-affairs/indra-nooyi-to-step-down-as-pepsico-ceo-after-12-years-1533628055-1?ref=rel_stories_art" title="Indra Nooyi to step down as Pepsico CEO">Indra Nooyi to step down as Pepsico CEO</a></span>
+</p>
+<p>
+<span><a href="/current-affairs/government-constitutes-10member-committee-to-review-offences-under-companies-act-2013-1531735676-1?ref=rel_stories_art" title="Government constitutes 10-member committee to review offences under Companies Act, 2013">Government constitutes 10-member committee to review offences under Companies Act, 2013</a></span>
+</p>
+<p>
+<span><a href="/current-affairs/bsnl-launches-indias-first-internet-telephony-service-wings-1531455510-1?ref=rel_stories_art" title="BSNL launches India’s first internet telephony service ‘Wings’">BSNL launches India’s first internet telephony service ‘Wings’</a></span>
+</p>
+<p>UNDP released Human Development Report 2014 </p>
+<p>72nd Golden Globe Awards presented in California</p>
+<p>R. Koteeswaran took charge as new CMD of Indian Overseas Bank</p>
+<p>World's smallest goanna lizard species discovered in Australia </p>
+<p class="clear"></p>
+<p class="clear"></p>
+<p class="clear"></p>
+<p class="clear"></p>
+<p class="clear"></p>
+<p class="clear"></p>
+<p class="clear"></p>
+<p class="clear"></p>
+<p class="clear"></p>
+<p class="clear"></p>
+<p class="pls_specify" id="prateek">
+								Please specify<br/>
+<input id="hidden_lang" name="hidden_lang" type="text"/>
+</p>
+<p class="Mob_veryfytext">
+									A verifcation code has been sent to <br/> your mobile number
+									<label id="usermobile"></label>
+</p>
+<p class="Mob_veryfycod">Please enter the verification code
+									below</p>
+<p align="center" class="mT10">
+<input class="Mob_veryfy_btn" id="validateOTP" type="button" value="Submit"/>
+</p>

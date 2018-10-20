@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-MY" dir="ltr">
+
+<head>
+ <!-- data-info:v:20181012_12371444;a:2699e1db-e1e6-4220-9a3b-819c0ce3e0b8;cn:1;az:{did:31698b0d0d144cf79ad26d9e51691b83, rid: 1, sn: easia-prod-entertainment, dt: 2018-10-19T22:24:02.0000553Z, bt: 2018-10-13T00:13:44.3555680Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:gray;PageName:homePage;m:en-my;cb:;l:en-my;mu:en-my;ud:{cid:,vk:news,n:,l:en-my,ck:};xd:AAlU6s;ovc:f;al:;fxd:f;xdpub:2018-05-12 00:40:36Z;xdmap:2018-10-20 16:02:33Z;axd:;f:;userOptOut:false;userOptOutOptions: -->
+ 
+ 
+ 
+
+ <title>Top news stories local and from around the world | MSN News Malaysia</title>
+ <meta name="description" content="MSN Malaysia News brings you the best berita and news in local, national, global news covering politicis, crime, policy, events, unrest and more from the world&#39;s top and Malaysia&#39;s best media outlets."/>
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-entertainment-eas-s-msn-com.akamaized.net/en-my/news/_sc/css/b443689a-/direction=ltr.locales=en-my.themes=gray.dpi=resolution1x/42-b8ee35-71ecad1c/d1-5b3154-68ddb2ab/2a-1f1669-16c6af35/9b-ba6b1f-f94d3276/ab-52fe22-a648eab2/86-b413d7-63b61fa3?ver=20181012_12371444&amp;csopd=20180917154214&amp;csopdb=20181017191154" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function h(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n==it?a=!0:n==rt&&(v=!0);l(n,i,r,!1,!1)}function l(n,t,i,r,f,e){var s,y;if(!n||!c[n]){var h=ot(n,t),o=h.dependencyNotFound,l=h.resolved;if(o){typeof u[o]=="undefined"&&(u[o]=[]);u[o].push(e||{i:n,d:t,f:i,r:r,s:f});return}s=typeof i=="function";y=v&&a&&s&&!f;y?et(n,i,l,r):ft(s,n,i,l,r)}}function ft(n,t,i,r,u){var f;f=n?i.apply(null,r):i;d(t,f,u)}function et(n,t,i,r){setTimeout(function(){var u=t.apply(null,i);d(n,u,r)},1)}function d(t,i,r){r&&(i={});t&&(i?(c[t]=i,f.push(t),g()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function g(){var t,s,h,i,o,c,r,n;if(e)e&&(e=2);else{t=[];do{for(e=1,h=f.length,i=0;i<h;i++)o=f[i],c=u[o]||[],t=t.concat(c),delete u[o];for(f=[],s=t.length,r=0;r<s;r++)n=t[r],l(n.i,n.d,n.f,n.r,n.s,n);t=[]}while(e>1);e=0}}function ot(n,t){for(var e,i=[],r,o=t?t.length:0,u=0;u<o;u++){var f=t[u],s=c[f],h=typeof s!="undefined";if(!h){if(e=st(n,f),e){i.push(e);continue}r||(r=f);break}i.push(s)}return o===i.length?{resolved:i}:{dependencyNotFound:r}}function st(i,r){var f=k.exec(r),e,u;if(f){if(e=f[1],u=n[e],u!==t)return u;s||(s=setTimeout(nt,w))}}function nt(){var i,r,e,o,h;s=0;i=!1;for(r in u)e=k.exec(r),e&&(o=e[1],h=n[o],h!==t?f.push(r):i=!0);i&&!s&&(s=setTimeout(nt,w));f.length&&g()}function ht(n,t,i){if((typeof n!="object"||n&&n.splice)&&(i=t,t=n,n={}),t&&t.splice||(i=t,t=[]),ct(n.js),i){var r,u=n.synchronous||!1;l(r,t,i,!0,u)}}function ct(n){if(typeof n=="string")tt(n);else if(n)for(var t=0;t<n.length;t++)tt(n[t])}function tt(n){if(!b[n]){b[n]=1;var i=o.getElementsByTagName("script")[0],t=o.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function lt(n){return ut?n?i.now():Math.round(i.now()):new Date-y}var it=n._jsLoaderAsyncCanary||"c.dom",rt="c.pageReveal",a=!1,v=typeof n._jsLoaderRevealMode=="undefined"?!0:n._jsLoaderRevealMode,i=n.performance,ut=i&&typeof i.now=="function",r=" ----- ",y=((i||{}).timing||{}).navigationStart||+new Date,o=n.document,p=null;try{p=n.localStorage}catch(at){}var c={date:Date,document:o,image:n.Image,localStorage:p,location:o&&o.location,navigator:navigator,pageStart:y,pageTime:lt,screen:n.screen,window:n},u={},f=[],e,w=50,s,b={},k=/^window\.(.+)$/;h.amd={jQuery:1};h.is=function(n){return typeof c[n]!="undefined"};n.define=h;n.require=ht;h.showUserMarks=function(){var n=["Mark Name"+r+"Start time in ms"];return i.getEntriesByType("mark").forEach(function(t){n.push(t.name+r+t.startTime+"ms")}),n.join("\n")};h.showUserMeasures=function(){var n=["Measure name"+r+"Start time in ms"+r+"Duration in ms"];return i.getEntriesByType("measure").forEach(function(t){n.push(t.name+r+t.startTime+"ms"+r+t.duration+"ms")}),n.join("\n")}})(window);define("navigation",["escape","location","document"],function(n,t,i){function u(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function f(n){var t=i.createElement("a");return t.href=n,{protocol:t.protocol,host:t.host,hostName:t.hostname,port:t.port,path:t.pathname,hash:t.hash,query:t.search,origin:t.origin}}function e(n){return f(n).hostName}var r={getUrl:function(n){return r.filter?r.filter(n):n},navigate:function(n,i){r.filter&&(n=r.filter(n));i?t.replace(n):t.href=n},getHostName:e,parseUrl:f,isLocal:function(n){var i=e(n);return!i||t.hostname==i},getParams:u,getParamsFromUrl:function(n,t,i){var r=n.split("?")[1];return u(r,t,i)},mergeQueryStringParams:function(t,i){var e,f,o,r;if(i){if(e=t.split("?"),e[1]){f=u(e[1],!1,!0);for(r in i)f[r]=i[r]}else f=i;t=e[0];o="?";for(r in f)t+=f[r]?o+n.urlPart(r)+"="+n.urlPart(f[r]):o+n.urlPart(r),o="&"}return t},filter:null};return r});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//static-entertainment-eas-s-msn-com.akamaized.net/en-my/news/_h/4c59fa2c/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ 
+ <style>.homepage.tmx.pc.chrome .skyline .one-col{width:32.4rem}@media screen and (max-width:78.99em) and (min-width:58.875em){.homepage.tmx.pc.chrome .skyline .three-col{width:62.4rem}}@media screen and (min-width:79em){.homepage.tmx.pc.chrome .skyline .three-col{width:94.8rem}}.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}.settings.start.tmx.pc .globalsettings .social.twitter{display:none}</style>
+</head>
+
+<body class="homepage hp gray">
+             <div>
+                <img src="//sg.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+            </div>
+
+
+
+<div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-my">Home</a>
+</li>
+ <li  class="current">
+<a href="/en-my/news">News</a>
+</li>
+ <li >
+<a href="/en-my/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-my/news/berita">Berita</a>
+</li>
+ <li >
+<a href="/en-my/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-my/entertainment/hiburan">Hiburan &amp; Trend</a>
+</li>
+
+ <li class="more">
+<a href="#nav">More ></a>
+<ul>
+ <li >
+<a href="/en-my/money">Money</a>
+</li>
+ <li >
+<a href="/en-my/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-my/sport">Sport</a>
+</li>
+ <li >
+<a href="/en-my/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-my/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-my/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-my/video">Video</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/en-my" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" src="//static-entertainment-eas-s-msn-com.akamaized.net/sc/82/c22c7d.gif" />
+</a>
+ <a class="vertical" href="/en-my/news" tabindex="2">news</a>
+
+
+
+</div>
+<div id="header-links">
+
+<a class="navigation" href="#nav">
+<img  alt="go to navigation" width="27" height="20" src="//static-entertainment-eas-s-msn-com.akamaized.net/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="http://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRNWSR" />
+ <input type="hidden" name="mkt" value="en-my" />
+  <input type="hidden" name="httpsmsn" value="1">
+   <input type="hidden" name="refig" value="2699e1dbe1e642209a3b819c0ce3e0b8">
+<input type="submit" class="text" value="web search" title="web search"/>
+ </div>
+</form>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ You are using an older browser version. Please use a <a href="http://support2.microsoft.com/kb/2999871/en-gb">supported version</a> for the best MSN experience.
+</div>
+
+
+
+</div>
+<div id="maincontent">
+ 
+<div id="main"  data-region="main">
+ 
+
+ <div class="normalsection first">
+ <h2 id="newshub.national-headingtext"><a href="/en-my/news/national" >National</a></h2>
+<ul>
+<li class="first">
+             <a href="/en-my/news/national/pretty-airasia-stewardess-steals-the-hearts-of-thousands/ar-BBOyc81" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBOyc7Z.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=456&amp;y=332" title="http://www.thestar.com.my/~/media/online/2018/10/18/13/13/air-asia-pi1-(1).ashx/?crop=1&amp;w=0&amp;h=0 - Provided by Star Media Group Berhad" width="300" />
+Pretty AirAsia stewardess steals the hearts of thousands            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/national/zahid-hamidi-to-face-45-charges/ar-BBOzSuv" >
+
+Zahid at court to face 45 charges            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/national/men-who-assaulted-petronas-employee-nabbed-in-kl-tapah/ar-BBOyKnb" >
+
+Men who assaulted Petronas employee nabbed in KL, Tapah            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/national/does-the-revised-11th-malaysia-plan-address-pakatan%e2%80%99s-manifesto/ar-BBOzVV2" >
+
+Does the revised 11th Malaysia Plan address Pakatan’s manifesto?            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/national/200-attend-solidarity-rally-for-zahid-in-putrajaya/ar-BBOyCK4" >
+
+200 attend solidarity rally for Zahid in Putrajaya            </a>
+
+</li>
+ </ul>
+</div>
+ <div class="normalsection">
+ <h2 id="newshub.world-headingtext"><a href="/en-my/news/world" >World</a></h2>
+<ul>
+<li class="first">
+             <a href="/en-my/news/world/flight-mh370-hunter-travels-to-cambodia-where-he-spotted-plane-on-google-maps-in-bid-to-solve-mystery/ar-BBOAxJh" >
+<img alt="MH370 mysteriously vanished in March 2014" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBLed1l.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="MH370 mysteriously vanished in March 2014 - AFP" width="300" />
+Flight MH370 hunter travels to &#39;where plane was spotted on Google Maps&#39;            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/other/what-north-korea-is-spending-a-fortune-on-may-shock-you/ss-BBOAfuK" >
+
+What North Korea is spending a fortune on may shock you            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/world/putin-russia-would-use-nuclear-arms-if-under-attack/ar-BBOAB19" >
+
+Putin&#39;s nuke warning to rivals            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/world/ivanka-trump-lied-about-trump-projects-globally-report/ar-BBOAJZP" >
+
+Ivanka lied about Trump projects globally            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/world/brit-canadian-caught-for-tagging-historic-chiang-mai-gate-face-10-years-in-thai-prison/ar-BBOAKvP" >
+
+Brit, Canadian caught for spray painting historic Chiang Mai gate            </a>
+
+</li>
+ </ul>
+</div>
+ <div class="normalsection">
+ <h2 id="newshub.sports-headingtext"><a href="/en-my/news/sport" >Sport</a></h2>
+<ul>
+<li class="first">
+             <a href="/en-my/news/national/malaysia-continues-unbeaten-run-in-asian-champions-trophy/ar-BBOCS42" >
+<img alt="Malaysia defeated hosts Oman 3-1 in the 2018 Asian Champions Trophy Hockey Tournament. - File pic NSTP/Fathil Asri." height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBOCKTx.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=428&amp;y=145" title="Malaysia defeated hosts Oman 3-1 in the 2018 Asian Champions Trophy Hockey Tournament. - File pic NS... - Provided by Media Prima" width="300" />
+Malaysia continues unbeaten run in Asian Champions Trophy            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/other/va-va-voom-ranking-9-of-thierry-henrys-greatest-premier-league-goals-for-arsenal/ss-BBOzZdG" >
+
+Ranking 9 of Thierry Henry&#39;s greatest premier league goals for Arsenal            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/national/malaysia-struggle-to-beat-oman-in-muscat/ar-BBOCyZf" >
+
+Malaysia struggle to beat Oman in Muscat            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/other/thai-cave-survivors-train-with-galaxy-ibrahimovic/ar-BBOD0ba" >
+
+Thai cave survivors train with Galaxy, Ibrahimovic            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/national/mad-president-hits-out-at-rival-body/ar-BBOCEDG" >
+
+MAD president hits out at rival body            </a>
+
+</li>
+ </ul>
+</div>
+ <div class="normalsection">
+ <h2 id="newshub.business-headingtext"><a href="/en-my/news/money" >Money</a></h2>
+<ul>
+<li class="first">
+             <a href="/en-my/news/other/how-felda-and-fgv-wasted-billions-in-five-years/ar-BBOCP4V" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBOCR8j.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="http://assets.theedgemarkets.com/TEM_Weekly1237_Highlight.jpg - Provided by The Edge Communications Sdn Mhd" width="300" />
+How FELDA and FGV wasted billions in five years            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/other/the-most-genius-way-to-invest-has-nothing-to-do-with-stock-markets/ss-BBOzWnV" >
+
+This genius way to invest has nothing to do with stock markets            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/national/malaysia-purchased-spyware-from-israeli-companies-says-report/ar-BBOBsSo" >
+
+Malaysia purchased spyware from Israeli companies, says report            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/national/nasir-ahmad-replaces-nazir-razak-as-cimb-group-chairman/ar-BBOB2oV" >
+
+Nasir Ahmad replaces Nazir Razak as CIMB Group chairman            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/other/malaysian-market-expected-to-trade-cautiously-next-week/ar-BBOCRZV" >
+
+Malaysian market expected to trade cautiously next week            </a>
+
+</li>
+ </ul>
+</div>
+ <div class="normalsection">
+ <h2 id="newshub.scienceandtechnology-headingtext"><a href="/en-my/news/techandscience" >Tech &amp; Science</a></h2>
+<ul>
+<li class="first">
+             <a href="/en-my/news/techandscience/if-you-whisper-so-will-alexa/ar-BBOD0Od" >
+<img alt="Not only can Alexa hear your whispers now, but she can whisper back." height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBOBupU.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1304&amp;y=1179" title="Not only can Alexa hear your whispers now, but she can whisper back. - Provided by AFPRelaxNews" width="300" />
+If you whisper, so will Alexa            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/techandscience/the-pixel-3-removes-the-ability-to-unlock-your-phone-with-your-voice/ar-BBOD6Al" >
+
+Pixel 3 removes the ability to unlock your phone with your voice            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/techandscience/samsung-may-add-in-screen-camera-and-fingerprint-sensor-to-future-phones/ar-BBOD9zY" >
+
+Samsung may add in-screen camera and fingerprint sensor to future phones            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/techandscience/scientific-breakthroughs-from-the-year-you-were-born/ss-BBOD2lR" >
+
+Scientific breakthroughs from the year you were born            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/techandscience/chrome%e2%80%99s-latest-update-brings-picture-in-picture-support-to-windows-and-macos/ar-BBODegF" >
+
+Chrome’s latest update brings picture-in-picture support to Windows, macOS            </a>
+
+</li>
+ </ul>
+</div>
+ <div class="normalsection">
+ <h2 id="newshub.entertainment-headingtext"><a href="/en-my/news/entertainment" >Entertainment</a></h2>
+<ul>
+<li class="first">
+             <a href="/en-my/news/other/priyanka-chopra-speaks-out-on-meghan-markles-pregnancy-im-really-excited-for-her/ar-BBOCT8h" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBOzH4g.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1373&amp;y=658" title="Priyanka Chopra Jokes She Needs to &#39;Catch Up&#39; to BFF Meghan Markle After Pregnancy Announcement - Jon Kopaloff/FilmMagic (2)" width="300" />
+Priyanka Chopra speaks out on Meghan Markle&#39;s pregnancy            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/other/maggie-chiang-has-divorce-agreement-in-hand/ss-BBOxvst" >
+
+Maggie Chiang has divorce agreement in hand            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/other/priyanka-chopra-on-having-a-baby-with-nick-jonas-%e2%80%98i-need-to-catch-up%e2%80%99/ar-BBOCS3r" >
+
+Priyanka wants to have a baby with fiance Jonas            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/other/david-beckham-says-his-marriage-to-victoria-beckham-is-hard-work/ar-BBOCeEi" >
+
+David Beckham Says His Marriage to Victoria Beckham Is &#39;Hard Work&#39;            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/other/avril-lavigne-had-accepted-that-i-was-dying-at-the-height-of-her-lyme-disease-battle/ar-BBOCYqQ" >
+
+Avril had &#39;accepted she was dying&#39;            </a>
+
+</li>
+ </ul>
+</div>
+ <div class="normalsection">
+ <h2 id="newshub.photos-headingtext">Photos</h2>
+<ul>
+<li class="first">
+             <a href="/en-my/news/other/the-hotels-with-the-most-insane-views-in-the-world/ss-BBwnbo4" >
+<img alt="You booked your flight, now all you need to do is find a hotel. But how do you go about it? Do you search for a hotel with great dining, fitness centers, indoor pools or spa services? What if you could have all of the things you are looking for, plus an incredible view? You wouldn’t turn that down!The hotels on this list are located all over the world – from Paris to Costa Rica and New York City. So depending on your travel destination, you may find a hotel on this list.Enjoy spectacular skyline views from rooftops and watch the sunrise over historical landscapes. These are the hotels with the most insane views in the world." height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBvdX4z.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=196&amp;y=281" title="You booked your flight, now all you need to do is find a hotel. But how do you go about it? Do you s... - Facebook/Explora Travel" width="300" />
+The hotels with the most insanely amazing views in the world            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/other/celebrities-at-london-fashion-week-spring-summer-2017/ss-BBwh8LK" >
+
+Celebrities at London Fashion Week Spring/Summer 2017            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/us/explosion-rocks-new-york-city-latest-updates/ss-BBwicWX" >
+
+Explosion rocks New York City            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/photos/pictures-of-the-week-sept-16-2016/ss-BBwaQG4" >
+
+Best pictures from this week            </a>
+
+</li>
+ <li>
+             <a href="/en-my/news/photos/prince-harry-through-the-years/ss-AAiOGXV" >
+
+Prince Harry: From childhood to the present            </a>
+
+</li>
+ </ul>
+</div>
+
+ 
+</div>
+<div id="aside"  data-region="aside">
+ 
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li >
+<a href="/en-my">Home</a>
+</li>
+ <li  class="current">
+<a href="/en-my/news">News</a>
+</li>
+ <li >
+<a href="/en-my/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-my/news/berita">Berita</a>
+</li>
+ <li >
+<a href="/en-my/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-my/entertainment/hiburan">Hiburan &amp; Trend</a>
+</li>
+ <li >
+<a href="/en-my/money">Money</a>
+</li>
+ <li >
+<a href="/en-my/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-my/sport">Sport</a>
+</li>
+ <li >
+<a href="/en-my/health">Health &amp; Fitness</a>
+</li>
+ <li >
+<a href="/en-my/foodanddrink">Food &amp; Drink</a>
+</li>
+ <li >
+<a href="/en-my/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-my/video">Video</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/en-my/">&#169; 2018 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy &amp; Cookies</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">Terms of use</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=286759">About our Ads</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Feedback</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=512703">Help</a>
+ <a href="/en-my/msn-worldwide">MSN Worldwide</a>
+</div>
+</div>
+  <div>
+ <img src="//c.msn.com/c.gif?udc=true&amp;rid=2699e1dbe1e642209a3b819c0ce3e0b8&amp;rnd=636756481554802430&amp;rf=&amp;tp=http%253A%252F%252Fwww.msn.com%252Fen-my%252Fnews%252F&amp;di=1216&amp;lng=en-my&amp;activityId=2699e1dbe1e642209a3b819c0ce3e0b8&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;st.dpt=&amp;st.sdpt=&amp;subcvs=news&amp;pg.n=homepage&amp;pg.t=verthp&amp;pg.c=&amp;pg.p=prime&amp;anoncknm=&amp;issso=0&amp;aadState=0" alt="image beacon" width="1" height="1" /><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=3000001&amp;cs_ucfr=1&amp;rn=636756481554802430&amp;c7=http%253A%252F%252Fwww.msn.com%252Fen-my%252Fnews%252F&amp;c8=&amp;c9=" alt="image beacon" width="1" height="1" /><img src="//otf.msn.com/c.gif?js=0&amp;evt=impr&amp;di=1216&amp;pi=&amp;ps=&amp;su=http%253A%252F%252Fwww.msn.com%252Fen-my%252Fnews%252F&amp;mkt=en-my&amp;pp=False&amp;cv.partner=-&amp;cv.publcat=-&amp;st.dpt=&amp;st.sdpt=&amp;dv.Title1=&amp;cts=636756481554802430&amp;rf=&amp;rid=2699e1dbe1e642209a3b819c0ce3e0b8&amp;cvs=Browser&amp;subcvs=news&amp;cv.entityId=&amp;cv.entitySrc=&amp;provid=&amp;ar=0&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;cv.parentId=&amp;isCorePV=&amp;pgIdx=&amp;pgTot=&amp;activityId=2699e1dbe1e642209a3b819c0ce3e0b8&amp;pm=&amp;pg.n=homepage&amp;pg.t=verthp&amp;pg.c=&amp;pg.p=prime&amp;anoncknm=&amp;issso=0&amp;ex=&amp;aadState=0" alt="image beacon" width="1" height="1" />
+</div>
+
+ 
+     <script>
+        require(["headData", "pageInstance", "mediator", "c.deferred"], function (headData, pageInstance, mediator)
+        {
+        var url = '//www.bizographics.com/collect/?fmt=gif&pid=7850';
+        if (headData && headData.clientSettings && headData.clientSettings.static_page)
+        {
+            mediator.pub(pageInstance.eventName);
+            var rid = pageInstance.getActivityId();
+            url = url.replace(/([?&]rid=)[^&#]*/i, "$1" + rid);
+            }
+        new Image().src = url.replace(/&amp;/g, '&');
+    });
+    </script>
+    <noscript>
+        <div>
+            <img data-src="//www.bizographics.com/collect/?fmt=gif&amp;pid=7850&amp;ts=noscript" width="1" height="1" alt="" />
+        </div>
+    </noscript>
+
+ 
+</body>
+ <!--MSNAvailToken--></html>

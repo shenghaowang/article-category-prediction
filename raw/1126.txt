@@ -1,0 +1,372 @@
+<p class="timestamp" id="published-timestamp">Published: <span>Mar 11, 2014 4:37 p.m. ET</span></p>
+<p>By</p>
+<p>NEW YORK (MarketWatch) — U.S. stocks ended Tuesday’s choppy session lower, as investors appeared to take a pause in a day light on economic data releases. Energy and materials stocks led broad-based losses on the benchmark S&amp;P 500. </p>
+<p>Urban Outfitters slumped after disappointing earnings, while Macy’s and J.C. Penney rallied after an upgrade from analysts.</p>
+<p>The S&amp;P 500 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote down bgQuote" data-bgformat="" data-channel="/quotes/zigman/3870025/realtime"><a class="qt-chip trackable" data-fancyid="IndexSPX" data-track-mod="MW_story_quote" href="/investing/index/spx">SPX, <span class="bgPercentChange">-0.04%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   ended the day 9.55 points, or 0.5%, lower at 1,867.62, retreating from a record closing level reached on Friday.</p>
+<p>The Dow Jones Industrial Average 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote up bgQuote" data-bgformat="" data-channel="/quotes/zigman/627449/realtime"><a class="qt-chip trackable" data-fancyid="IndexDJIA" data-track-mod="MW_story_quote" href="/investing/index/djia">DJIA, <span class="bgPercentChange">+0.26%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   closed 67.43 points, or 0.4%, lower at 16,351.25.</p>
+<p>The Nasdaq Composite 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote down bgQuote" data-bgformat="" data-channel="/quotes/zigman/12633936/realtime"><a class="qt-chip trackable" data-fancyid="XNASIndexCOMP" data-track-mod="MW_story_quote" href="/investing/index/comp">COMP, <span class="bgPercentChange">-0.48%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   fell for the fourth consecutive day, ending down 27.26 points, or 0.6%, at 4,307.19.</p>
+<p> <a class="icon " href="http://blogs.marketwatch.com/thetell/2014/03/11/stock-market-live-blog-s-urban-slumps-while-macys-jumps/?link=instory" target="_new">Read the recap of our live stock market coverage.</a> </p>
+<p>“Markets are confused right now, after getting conflicting set of data. On the one hand, job openings indicated demand for workers and improvement in labor markets, on the other, wholesale inventories rose, as businesses overshot and could not sell goods sooner,” said Kim Caughey Forrest, portfolio manager and senior equity analyst at  Fort Pitt Capital.</p>
+<p>With little economic news to consider this week, investors look ahead to the FOMC meeting next week and pay close attention to events in Ukraine. <a class="icon none" href="/story/following-that-jobs-report-what-now-for-markets-2014-03-07">Read also: Stock investors look past jobs to Yellen, Ukraine</a></p>
+<p>Tuesday’s economic data were deemed mostly secondary and provided little direction to stocks in early trade. </p>
+<p> <a class="icon none" href="/story/january-job-openings-rise-to-397-million-2014-03-11">Job openings rose in January</a> in line with expectations. There were 3.97 million openings compared with 3.91 million in December. The so-called Jolts survey is one of the pieces of labor market data that Federal Reserve Chairwoman Janet Yellen has said she pays attention to.</p>
+<p> <a class="icon none" href="/story/us-wholesale-inventories-rise-06-in-january-2014-03-11">U.S. wholesale inventories</a> rose in January while wholesale sales fell, the Commerce Department reported Tuesday.</p>
+<p> <a class="icon none" href="/story/feb-small-business-sentiment-slumps-nfib-2014-03-11">Small-business sentiment,</a> released before the market open, slumped in February. According to the National Federation of Independent Business, its small-business index dropped by more than expected, on concerns over sales, the economy and employment driving the downturn. </p>
+<p>Among individual stocks, retailers were in the spotlight. Shares of American Eagle Outfitters Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote up bgQuote" data-bgformat="" data-channel="/quotes/zigman/183513/composite"><a class="qt-chip trackable" data-fancyid="XNYSStockAEO" data-track-mod="MW_story_quote" href="/investing/stock/aeo">AEO, <span class="bgPercentChange">+0.29%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   tumbled 7.8% after fourth-quarter profit and outlook disappointed.</p>
+<p>Shares of Urban Outfitters Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote down bgQuote" data-bgformat="" data-channel="/quotes/zigman/55244/composite"><a class="qt-chip trackable" data-fancyid="XNASStockURBN" data-track-mod="MW_story_quote" href="/investing/stock/urbn">URBN, <span class="bgPercentChange">-1.98%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   fell 4.3% after the company reported results on Monday that revealed a drop in fourth-quarter same-store sales late Monday.</p>
+<p>Shares of Dick’s Sporting Goods Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote down bgQuote" data-bgformat="" data-channel="/quotes/zigman/310940/composite"><a class="qt-chip trackable" data-fancyid="XNYSStockDKS" data-track-mod="MW_story_quote" href="/investing/stock/dks">DKS, <span class="bgPercentChange">-2.03%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                    rose 4.3% after the company posted results that largely met forecasts.</p>
+<p>Shares of Macy’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote down bgQuote" data-bgformat="" data-channel="/quotes/zigman/467976/composite"><a class="qt-chip trackable" data-fancyid="XNYSStockM" data-track-mod="MW_story_quote" href="/investing/stock/m">M, <span class="bgPercentChange">-0.22%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                    and J.C. Penney rose after upgrades from analysts.</p>
+<p>J.C. Penney Co. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote up bgQuote" data-bgformat="" data-channel="/quotes/zigman/237947/composite"><a class="qt-chip trackable" data-fancyid="XNYSStockJCP" data-track-mod="MW_story_quote" href="/investing/stock/jcp">JCP, <span class="bgPercentChange">+2.01%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   shares rose sharply initially, but gained petered out and closed 2.9% higher after the retailer was upgraded to buy from neutral by Citigroup. Analyst Oliver Chen expects that the company’s “going back to basics” strategy will spur positive comparable sales in line with the retailer’s outlook. </p>
+<p>Macy’s rose 1.4% after analysts at Wells Fargo raised the stock to outperform from market-perform. </p>
+<p>Shares of La Jolla Pharma Co. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote down bgQuote" data-bgformat="" data-channel="/quotes/zigman/28624755/composite"><a class="qt-chip trackable" data-fancyid="XNASStockLJPC" data-track-mod="MW_story_quote" href="/investing/stock/ljpc">LJPC, <span class="bgPercentChange">-4.89%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   soared 65%, tracking a rally late Monday after the microcap biotech said its study for a chronic kidney disease treatment showed a statistically significant improvement. </p>
+<p>Fuel Tech Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote unchanged bgQuote" data-bgformat="" data-channel="/quotes/zigman/103319/composite"><a class="qt-chip trackable" data-fancyid="XNASStockFTEK" data-track-mod="MW_story_quote" href="/investing/stock/ftek">FTEK, <span class="bgPercentChange">+0.00%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   shares sank 17% after the air-pollution-control technology company’s results fell short of Wall Street expectations late Monday. </p>
+<p>Shares in Jos. A. Bank Clothiers, Inc and Men’s Wearhouse, Inc rallied after the two companies agreed a merger. Jos. A. Bank gained 3.9%, Men’s Wearhouse added 4.7%.</p>
+<p>In other markets, <a class="icon " href="http://blogs.marketwatch.com/thetell/2014/03/10/asia-markets-live-blog-japan-today-china-tomorrow/?link=instory" target="_new">Asia stocks</a> managed flat-to-positive closes after Monday’s mauling, with the China Shanghai Composite Index 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote up bgQuote" data-bgformat="" data-channel="/quotes/zigman/72940633/delayed"><a class="qt-chip trackable" data-fancyid="XSHGIndexSHCOMP" data-track-mod="MW_story_quote" href="/investing/index/shcomp?countrycode=cn">SHCOMP, <span class="bgPercentChange">+2.58%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   closing up 0.1%. European stocks 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                                    <span class="quote down bgQuote" data-bgformat="" data-channel="/quotes/zigman/2380150/delayed"><a class="qt-chip trackable" data-fancyid="XSTXIndexSXXP" data-track-mod="MW_story_quote" href="/investing/index/sxxp?countrycode=xx">SXXP, <span class="bgPercentChange">-0.12%</span></a></span>
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+                                   closed slightly higher. </p>
+<p>Commodity prices were volatile today. Oil prices, which perked up earlier, settled at the lowest level in a month, dropping below $100 a barrel. Gold prices, settled slightly higher. Benchmark Treasury yields also ticked lower, after being higher in the morning.</p>
+<p> <a class="icon none" href="/story/the-top-5-advisers-since-october-2007-top-2014-03-11">Celebrating bulls lose sight of bearish picture</a> </p>
+<p> <a class="icon none" href="/story/five-reasons-why-stocks-will-fall-2014-03-11">Five reasons why stocks will fall</a> </p>
+<p> <a class="icon none" href="/story/could-we-be-heading-for-deflation-2014-03-11">Are you ready for deflation?</a> </p>
+<p><em>Providing critical information for the U.S. trading day. Subscribe to MarketWatch's free Need to Know newsletter. <a href="/newsletter">Sign up here.</a></em></p>
+<p>Join the conversation</p>
+<p class="copyright">Copyright © 2018 MarketWatch, Inc.  All rights reserved.</p>
+<p class="text text--terms">
+                By using this site you agree to the <a href="//www.marketwatch.com/support/disclaimer.asp">Terms of Service</a>,
+                <a href="https://www.dowjones.com/privacy-policy/" target="_blank">Privacy Policy</a>, and
+                <a href="https://www.dowjones.com/cookies-policy/" target="_blank">Cookie Policy</a>.
+            </p>

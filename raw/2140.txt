@@ -1,0 +1,51 @@
+<p>Log in using your social <br/>network account</p>
+<p>Log in directly with <br/>The Independent</p>
+<p>Try Independent Minds <br/>free for 14 days</p>
+<p class="welcome"><template amp-access-template="" type="amp-mustache">Hi {{fullName}}</template></p>
+<p>Bank has suspended a member of staff  amid internal forex rigging probe</p>
+<p>Mark Carney has pledged a “root and branch” review of the Bank of England’s intelligence-gathering capabilities - including the creation of a new deputy governor position - after the central bank was sucked into the foreign exchange fixing scandal.</p>
+<p>The Bank last week suspended a member of staff for failing to follow internal procedures relating to “records management and escalation” over allegations of fixing.</p>
+<p>Despite minutes published last week suggesting market manipulation as early as 2006, the Bank insisted it was only made aware of the most serious allegations of price manipulation and collusion in the £3 trillion a day market last October.</p>
+<p>Markets director Paul Fisher told the Treasury Select Commitee "it isn’t our job to go hunting" for market wrongdoing.</p>
+<p>More than 20 foreign exchange traders have so far been suspended or fired over the allegations of collusion between dealers over client orders and manipulating the “fixes” of currency rates. Mr Carney said the scandal was “as serious as Libor, if not more so”.</p>
+<p><script language="JavaScript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js" type="text/javascript"></script><object class="BrightcoveExperience" id="myExperience3325641914001"> <param name="bgcolor" value="#FFFFFF"/>
+<param name="width" value="460"/>
+<param name="height" value="301"/>
+<param name="playerID" value="753144093001"/>
+<param name="playerKey" value="AQ~~,AAAAkVf4sTE~,ZHihQoc0Mak3KW61gTbGinrWzI69us3-"/>
+<param name="isVid" value="true"/>
+<param name="isUI" value="true"/>
+<param name="dynamicStreaming" value="true"/>
+<param name="@videoPlayer" value="3325641914001"/></object><script type="text/javascript">
+brightcove.createExperiences();
+</script></p>
+<p>He said: “There appear to be “individuals who have lost sight of what a market is - and that’s unacceptable.”</p>
+<p>“They decided to cheat to make their lives easier. That is fundamentally against the principles of free markets and should be prosecuted to the fullest extent of the law,” he added.</p>
+<p>Mr Carney, who will unveil the Bank’s new strategic plan next week, said: “In the markets area we’re going to create a new position, a deputy governor position responsible for markets and banking, we have a £400 billion-plus balance sheet of which you’re aware, and a series of issues that need to be addressed and we will benefit from senior-most executive responsibility there.</p>
+<p>"One of the first tasks of that individual is that he or she will conduct a root-and-branch review of how we conduct market intelligence.”</p>
+<p>The Bank’s internal review of the allegations began in October through law firm Travers Smith, which has to date examined around 15,000 emails, 21,000 chat room records and more than 40 hours of telephone call recordings. Travers Smith is now looking for evidence of collusion and manipulation among Bank of England staff, but has found none so far.</p>
+<p>Mr Fisher insisted that references to manipulation in 2006 and 2008 were effectively distinct from current allegation - traders “ complaining about their lot” as hedge funds active in the market made it more difficult for them to deliver currencies for their clients for the 4pm fix.</p>
+<p>“I have never come across myself at any of these meetings or discussions specific allegations of people rigging the market, until we heard this news that started to come through last year,” Fisher said.</p>
+<p>You can find our Community Guidelines in full <a href="https://www.independent.co.uk/service/community-guidelines-9487166.html">here.</a></p>
+<p>You can find our Community Guidelines in full <a href="https://www.independent.co.uk/service/community-guidelines-9487166.html">here.</a></p>
+<p>Enter your email to follow new comments on this article.</p>
+<p>Are you sure you want to submit this vote?</p>
+<p>Are you sure you want to mark this comment as inappropriate?</p>
+<p>Want to discuss real-world problems, be involved in the most engaging discussions and hear from the journalists? Try Independent Minds free for 14 days. </p>
+<p>Are you sure you want to mark this comment as inappropriate?</p>
+<p>Are you sure you want to delete this comment?</p>
+<p>Anyone can post in open comments. Please continue to respect all commenters and create constructive debates.</p>
+<p>Want to discuss real-world problems, be involved in the most engaging discussions and hear from the journalists? Try Independent Minds free for 14 days. </p>
+<p>Independent Minds Comments can be posted by members of our membership scheme, Independent Minds.
+          It allows our most engaged readers to debate the big issues, share their own experiences, discuss
+          real-world solutions, and more. Our journalists will try to respond by joining the threads when
+          they can to create a true meeting of independent minds. The most insightful comments on all subjects
+          will be published daily in dedicated articles. You can also choose to be emailed when someone replies
+          to your comment.
+        </p>
+<p>
+          The existing Open Comments threads will continue to exist for those who do not subscribe to
+          Independent Minds. Due to the sheer scale of this comment community, we are not able to give each post
+          the same level of attention, but we have preserved this area in the interests of open debate. Please
+          continue to respect all commenters and create constructive debates.
+        </p>

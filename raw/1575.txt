@@ -1,0 +1,48 @@
+<p>In the retirement planning space, there are two realities.</p>
+<p>The first consists of spreadsheets, calculators and frightening rules of thumb to guide workers and retirees in their saving and spending decisions.</p>
+<p>The other reality exists in the space where Mom and Pop Retiree actually live. That is the true reality, the one you’ll probably be living in yourself when you leave your last job.</p>
+<p>It is little examined, despite the heavy volume of regularly published reports on <span class="itxtrst itxtrstspan itxtnowrap" id="itxthook0p"><span class="itxtrst itxtrstspan itxtnowrap itxtnewhookspan" id="itxthook0w">retirement </span></span>expectations and projections.</p>
+<p>Yet we know a few things about the way real people actually retire. Typically, they haven’t saved 25 times their annual spending, as is often recommended. Nor do they switch from<span class="mandelbrot_refrag">stocks</span> to <span class="mandelbrot_refrag">bonds</span> on the day they retire, which incidentally is probably before they reach the Social Security Administration’s “full retirement age” of 66.</p>
+<p>They don’t carefully calculate their monthly spending plans based on their Excel spreadsheets (unless they are engineers). They don’t change their personalities when they retire. They typically enjoy retirement life and enjoy participating in the same kinds of activities that gave them pleasure before they retired.</p>
+<p>Workers should <span class="itxtrst itxtrstspan itxtnowrap" id="itxthook1p"><span class="itxtrst itxtrstspan itxtnowrap itxtnewhookspan" id="itxthook1w">plan</span></span> and prepare for retirement. But they’re more likely to succeed if they plan for what actually lies ahead. Here are a few things we know to be true about retirement now.</p>
+<p>– Reality: You’ll spend less than you think. But only after you spend more than you think.</p>
+<p>Much is made of the idea that you need to plan on spending 80 percent to 100 percent of the amount you spend in your final years of work. But that isn’t even close to true. Most people spend a lot in their first year or two of retirement when they take long deferred trips, fix up the house, invest in hobbies and the like.</p>
+<p>But over time, retiree spending drops substantially. Households headed by people over the age of 75 spend just 72 percent of what households headed by people between the ages of 65 and 74 do, and they spend just 63 percent of what households headed by people 55-64 do, according to an analysis of U.S. Department of Labor figures by J.P. Morgan Asset Management. The firm recently did a wide-ranging review of retirement practices. Household spending actually peaks in households led by 48 year olds; their spending is almost cut in half by the time they are over 75.</p>
+<p>– Reality: You won’t work until you are 70. Now, workers are regularly told that they will benefit greatly if they work until they are 70, and hold off until that age before collecting Social Security benefits. That’s true – but not very realistic.</p>
+<p>In fact, fewer than 2 percent of retirees make it to 70 before they start drawing on Social Security, JPMorgan found. The average retirement age is 61, according to a recent Gallup survey. Many people who intend to work until they are 70 find themselves pushed out of jobs or having to retire for health reasons far earlier than they expect. Given this reality, it’s smart for early retirees to get professional help figuring out whether they are better off drawing down savings and deferring Social Security benefits or starting those benefits earlier and protecting their savings.</p>
+<p>– Reality: Your spending won’t be stable and you may not want your income to be. Retirees spend much of their money in chunks. They buy a car one year, take a trip in another, reach into their savings to help grandchildren go to college. Sometimes they have lean years, where they stay home and concentrate on their gardens and reading. As their health falters, they spend large sums of money in short amounts of time paying for care.</p>
+<p>Retirees also don’t inflate their spending on an annual basis to match the Consumer Price Index, investment firm T. Rowe Price has found. They tend to hold savings withdrawals somewhat stable from one year to the next. And they do allow their spending to be somewhat responsive to market returns, cinching those belts tighter after losing years and spending a little more freely after experiencing high returns.</p>
+<p>That means that a proper retirement nest egg allows for that variability – it keeps some money liquid and doesn’t tie up too much in annuity products that pay out the same amount of money month in and month out.</p>
+<p>JP Morgan Asset Management’s chief findings were in this area. It found that the so-called 4 percent rule of thumb for retirement withdrawals may not be the best way to calculate them. Retirees willing to adjust their withdrawals annually based on market returns, and willing to forego annual inflation adjustments can actually start their retirements withdrawing 5 percent or more of assets in their first year of retirement, depending on their age.</p>
+<p>– You probably won’t run out of money. Most retirees don’t spend blithely at a pre-conceived rate until their larders are empty and the money’s all gone. They constrain their spending more gradually to match their resources. Those people who do literally run out of money tend to be older, sicker people who depend upon Medicaid funding to pay for costly nursing home care.</p>
+<p>– Reality: You’ll have fun. It doesn’t take huge amounts of money to build a successful retirement, and in fact, happiness doesn’t always build along with individual retirement account balances. In the JP Morgan Asset management research, the amount of increased satisfaction that a retiree gets seems to flatten once their spending tops $40,000 a year. Some 68 percent of retirees in a 2011 Consumer Reports survey said they were “highly satisfied” with their retirement lives. Reality: The best things in life are free.</p>
+<p>The world just can’t get enough chocolate.</p>
+<p>
+<form action="https://www.moneyweb.co.za/wp-login.php" id="loginform-custom" method="post" name="loginform-custom">
+<p class="login-username">
+<label for="user_login">Username</label>
+<input class="input" id="user_login" name="log" size="20" type="text" value="">
+</input></p>
+<p class="login-password">
+<label for="user_pass">Password</label>
+<input class="input" id="user_pass" name="pwd" size="20" type="password" value="">
+</input></p>
+<p class="login-remember"><label><input id="rememberme" name="rememberme" type="checkbox" value="forever"> Remember Me</input></label></p>
+<p class="login-submit">
+<input class="button button-primary" id="wp-submit" name="wp-submit" type="submit" value="Sign In">
+<input name="redirect_to" type="hidden" value="https://www.moneyweb.co.za/archive/getting-real-about-retirement/"/>
+</input></p>
+</form><div class="forgot-password-link"><a href="https://www.moneyweb.co.za/moneyweb-insider/my-account/lost-password/" title="Forgot password">Forgot password</a></div></p>
+<p class="login-username">
+<label for="user_login">Username</label>
+<input class="input" id="user_login" name="log" size="20" type="text" value="">
+</input></p>
+<p class="login-password">
+<label for="user_pass">Password</label>
+<input class="input" id="user_pass" name="pwd" size="20" type="password" value="">
+</input></p>
+<p class="login-remember"><label><input id="rememberme" name="rememberme" type="checkbox" value="forever"> Remember Me</input></label></p>
+<p class="login-submit">
+<input class="button button-primary" id="wp-submit" name="wp-submit" type="submit" value="Sign In">
+<input name="redirect_to" type="hidden" value="https://www.moneyweb.co.za/archive/getting-real-about-retirement/"/>
+</input></p>

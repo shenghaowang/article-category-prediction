@@ -1,0 +1,209 @@
+<p class="alert__message">
+                    We use cookies, and by continuing to use this site or clicking "Agree" you agree to their use. Full details are in our <a href="/terms-and-policies/cookies/">Cookie Policy</a>. 
+
+<div class="consent1-cookie__buttons" data-expiry="7200">
+<button class="cta-btn blue alert__close" data-value="1" style="display:inline-block!important">Agree</button>
+</div>
+<style>
+.alert-section[data-cookie-alert=cookieAlert] .alert__message {
+        /*padding: 15px 60px 15px 0!important;*/
+        padding: 5px 20px 5px 0!important
+}
+.alert-section[data-cookie-alert=cookieAlert] button.alert__close {
+     position: inherit!important;
+    display: none!important;
+    text-transform: uppercase!important;
+    line-height: 15px!important;
+    letter-spacing: .01em!important;
+    text-decoration: none!important;
+    height: auto!important;
+    width: auto!important;
+    font-family: "Open Sans",helvetica,arial,sans-serif;
+    font-weight: 600!important;
+}
+.alert-section[data-cookie-alert=cookieAlert] .alert__close:after, .icon-close:after {
+	display: none!important
+}
+.consent1-cookie__buttons {
+	/* margin: 15px 0 0 */
+}
+.consent1-cookie__buttons .cta-btn {
+	border: 0;
+	padding: 6px 25px;
+	font-size: 1.1rem;
+	/* width: auto; */
+	margin: 0;
+}
+[data-cookie-alert=consentCookieAlert] .alert__message {
+	margin: 0;
+	font-size: 1.3rem;
+}
+[data-cookie-alert=cookieAlert] .wrapper>p {
+	/* margin: 0 */
+}
+[data-cookie-alert=cookieAlert] .alert__close {
+	display: none
+}
+
+@media screen and (min-width:768px) {
+	.consent1-cookie__buttons {
+	   white-space: nowrap;
+	}
+	
+	
+	[data-cookie-alert=cookieAlert] .wrapper {
+		display: table;
+		table-layout: fixed;
+                padding: 5px 10px 5px 0;
+	}
+	
+	[data-cookie-alert=cookieAlert] .alert__message, [data-cookie-alert=cookieAlert] .consent1-cookie__buttons {
+		display: table-cell;
+		vertical-align: middle;
+	}
+
+
+
+}
+
+@media only screen and (max-width: 600px) {
+	.consent1-cookie__buttons {
+		margin: 10px 0px;
+	}
+	
+	.consent1-cookie__buttons button {
+		width: 100%;
+		min-width: 100%;
+	}
+	
+	.alert__message {
+		padding: 5px 0px 0px 0px!important;
+	}
+
+}
+/* Cookie Banner Fixed */
+.alert-section[data-cookie-alert="consentCookieAlert"] {
+	/* position: fixed; */
+	/* z-index: 100000; */
+	/* width: 100%; */
+}
+[data-cookie-alert="cookieAlert"]+header#header {
+	/* padding-top: 60px; */
+}
+
+/* Android jump issue */
+.smartbanner.smartbanner-ios {
+    /* position: fixed!important;*/
+}
+
+/* When nav is open change chookie banner position */
+.nav-menu-open .alert-section[data-cookie-alert="consentCookieAlert"] {
+    /* position: absolute!important; */
+}
+
+/*  Mobile */
+@media (min-width: 320px) and (max-width: 480px) {
+	[data-cookie-alert="cookieAlert"]+header#header {
+		/* padding-top: 95px; */
+	}
+	html.smartbanner-show body.touch.n__fixed section.alert-section {
+		/* margin-top: -80px; */
+	}
+}
+
+/*  Tablet & iPhone plus */
+@media (min-width: 414px) and (max-width: 767px) {
+	section.section-wrapper.alert-section {
+		/* padding: 10px 0; */
+	}
+}
+</style>
+</p>
+<p class="primary-nav__sub-item-headline">Indices Trading</p>
+<p class="primary-nav__sub-item-headline">Share trading</p>
+<p class="primary-nav__sub-item-headline">Forex trading</p>
+<p class="primary-nav__sub-item-headline">Trade Cryptocurrencies</p>
+<p>Take advantage of Cryptocurrency volatility without owning it.</p>
+<p class="primary-nav__sub-item-headline">Other Trading Markets</p>
+<p class="primary-nav__sub-item-headline">Trading Platforms and Tools</p>
+<p class="primary-nav__sub-item-headline">News &amp; Analysis</p>
+<p class="primary-nav__sub-item-headline">Education</p>
+<p class="research-article__subtitle">
+<a class="research-article__author" data-value="e8f170ff-5759-44aa-8ed9-cab80d9e563c" href="/market-analysis/?authors=e8f170ff-5759-44aa-8ed9-cab80d9e563c">City Index</a> <span class="research-article__date">
+                        March 10, 2014 1:15 PM
+                    </span>
+</p>
+<p>Disappointing economic data released by both China and Japan has contributed to a fall in Asian stock markets during trading today (March 10th).</p>
+<p>The new week has got off to a bad start as a result of the figures, which led to Japan revising down its 2013 growth estimates. China also revealed in a new set of economic data that its exports have dropped by 18.1 per cent, in a move that surprised analysts.</p>
+<p>This led to drops for all the major Asian indexes over the course of the session, with the Hong Kong's Hang Seng index and the Shanghai Composite each down by more than 1.6 per cent. The Nikkei, the main <a href="http://www.cityindex.co.uk/range-of-markets/">stock market</a> in Japan, was also down for the day and ended the session over one per cent down, reports BBC News. The Nikkei had hit a five-week high last week.</p>
+<p><strong>Economic targets</strong></p>
+<p>China's finance minister Lou Jiwei stated that it would be acceptable if the country slightly missed its targets for economic growth. The nation is aiming to grow its economy by 7.5 per cent this year to ease fears from investors of a slowdown in the country's growth.</p>
+<p>"Whether GDP growth is to the left or to the right of 7.5 per cent, that is not very important," said Mr Lou, according to a report by international news agency Reuters.</p>
+<p>Also included in the newly released economic data for China was that the country reported a slowdown in inflation, with a drop to two per cent in February from 2.5 per cent in January shown in the figures. This was noted by the Asian nation to be the slowest rate in 13 months.</p>
+<p>Japan has reported its largest deficit since 1985 and the country also revised its 2013 economic growth from one per cent to 0.7 per cent, indicating that the nation is yet to put the impact of the Fukushima nuclear disaster behind it.</p>
+<p>The clear-up operation at Fukushima is ongoing and the Japanese government has had to pay large sums to make the site safe in the wake of the nuclear accident.</p>
+<p>Learn about the Asian markets and CFD trading at City Index</p>
+<p style='font-size: 12px; line-height: 18px; margin: 1em 0px; color: #666666; font-family: "Open Sans", Arial, Helvetica, sans-serif;'>From time to time, GAIN Capital Limited’s (“we”, “our”) website may contain links to other sites and/or resources provided by third parties. These links and/or resources are provided for your information only and we have no control over the contents of those materials, and in no way endorse their content. Any analysis, opinion, commentary or research-based material on our website is for information and educational purposes only and is not, in any circumstances, intended to be an offer, recommendation or solicitation to buy or sell. You should always seek independent advice as to your suitability to speculate in any related markets and your ability to assume the associated risks, if you are at all unsure. No representation or warranty is made, express or implied, that the materials on our website are complete or accurate. We are not under any obligation to update any such material.</p>
+<p style='font-size: 12px; line-height: 18px; margin: 1em 0px; color: #666666; font-family: "Open Sans", Arial, Helvetica, sans-serif;'>As such, we (and/or our associated companies) will not be responsible or liable for any loss or damage incurred by you or any third party arising out of, or in connection with, any use of the information on our website (other than with regards to any duty or liability that we are unable to limit or exclude by law or under the applicable regulatory system) and any such liability is hereby expressly disclaimed.</p>
+<p></p>
+<p class="help-links__heading">Contact Us</p>
+<p class="group-links__heading">Popular FAQs</p>
+<p class="group-links__heading">Trading with us</p>
+<p class="group-links__heading">Services &amp; Platforms</p>
+<p class="group-links__heading">Markets</p>
+<p class="site-disclaimer">CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage.<strong> 76% of retail investor accounts lose money when trading CFDs with this provider. </strong>You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.</p>
+<p class="site-disclaimer"><strong>Spread Betting, CFD Trading and Forex Trading are leveraged products. and your capital is at risk. They may not be suitable for everyone. Please ensure you fully understand the risks involved by reading our <a href="/terms-and-policies/risk-warning/" target="blank">full risk warning</a>.</strong><strong><br/>
+</strong></p>
+<p>* Spread Betting and CFD Trading are exempt from UK stamp duty. Spread betting is also exempt from UK Capital Gains Tax. However, tax laws are subject to change and depend on individual circumstances. Please seek independent advice if necessary.</p>
+<p>† 1 point spreads available on the UK 100, Germany 30, France 40 and Australia 200 during market hours on daily funded trades &amp; daily future spread bets and CFDs (excluding futures).</p>
+<p>‡ Voted Best Spread Betting Platform 2017 by ADVFN &amp; Best Spread Betting Provider at the Shares Awards 2017.</p>
+<p>Voted best CFD Provider, best Mobile application, and best Cryptocurrency Trading Platform at the Online Personal Wealth Awards 2018</p>
+<p>Ψ We have won “Best MT4 Broker” at the UK Forex Awards 2017.</p>
+<p>City Index is a trading name of GAIN Capital UK Limited. Head and Registered Office: Park House, 16 Finsbury Circus, London, EC2M 7EB. GAIN Capital UK Ltd is a company registered in England and Wales, number: 1761813. Authorised and Regulated by the Financial Conduct Authority. FCA Register Number: 113942. VAT number: 524837435.</p>
+<p>City Index and City Trading are trademarks of GAIN Capital UK Ltd.</p>
+<p>The information on this website is not targeted at the general public of any particular country. It is not intended for distribution to residents in any country where such distribution or use would contravene any local law or regulatory requirement.</p>
+<p>© 2018 City Index</p>
+<p class="alert__message">
+<span class="hide-mobile">CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. </span><strong>76% of retail investor accounts lose money when trading CFDs with this provider.</strong> You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money.
+
+<style type="text/css">
+
+.alert-section.alert--risk-warning {
+    padding: 0px 0 6px 0;
+    font-size: 10px;
+}
+
+.alert-section.bottom-fixed .alert__message {
+    font-size: 15px;
+    width: 100%;
+    margin: 0px;
+    line-height: 17px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5px;
+}
+
+.alert-section.alert--risk-warning .wrapper {
+        padding: 0px;
+    max-width: 100%;
+    width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+  .hide-mobile {
+    visibility: hidden;
+    display: none;
+  }
+  .alert-section.bottom-fixed .alert__message {
+    font-size: 13px;
+    line-height: 14px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+.alert-section.bottom-fixed {
+    background: #272828;
+}
+}
+
+</style>
+</p>

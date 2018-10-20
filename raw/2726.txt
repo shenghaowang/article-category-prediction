@@ -1,0 +1,26 @@
+<p class="weather-nav-location-name"></p>
+<p class="weather-nav-settings-header">Settings</p>
+<p class="ui-btn header-nav-dropdown-dark-btn weather-nav-location-cancel-btn">Cancel</p>
+<p class="ui-btn header-nav-dropdown-light-btn weather-nav-location-set-btn">Set</p>
+<p class="site-nav-firefly-dropdown-text header-light">Hi <span class="site-nav-firefly-user-display-name"></span></p>
+<p class="site-nav-firefly-dropdown-text header-light">Already a subscriber?</p>
+<p class="site-nav-firefly-dropdown-text header-light">Subscribe to USA TODAY</p>
+<p class="site-nav-firefly-dropdown-text header-light">Already a print edition subscriber, but don't have a login?</p>
+<p class="site-nav-firefly-dropdown-text header-light">Manage your account settings.</p>
+<p class="site-nav-firefly-dropdown-text header-light"><a class="ff" data-user-account="firefly" href="https://help.usatoday.com" target="_blank">Support</a></p>
+<p class="site-nav-firefly-dropdown-text header-light"><a class="ff-logout-btn userAuth-redirect" data-ht="HeaderUserAuthLogout" href="https://user.usatoday.com/USAT-GUP/user/logout/?return-url=https%3A//www.usatoday.com/story/tech/gaming/2014/03/12/king-ipo-shares/6320029/">Log Out</a></p>
+<p class="partner-scroll-message">Get the news</p>
+<p class="util-bar-flyout-subtitle util-bar-flyout-subtitle-share">Let friends in your social network know what you are reading about</p>
+<p class="util-bar-share-summary-description">The maker of the hit mobile game Candy Crush Saga says it plans to offer more than 22 million shares for its initial public offering priced between $21-$24 per share. King says it will offer more than 15</p>
+<p class="share-email-success-pane-description">A link has been sent to your friend's email address.</p>
+<p class="util-bar-success-description util-bar-success-description-facebook">A link has been posted to your Facebook feed. </p>
+<p class="util-bar-flyout-subtitle util-bar-flyout-subtitle-comments">To find out more about Facebook commenting please read the <a href="http://static.usatoday.com/conversation-guidelines/">Conversation Guidelines and FAQs</a></p>
+<p class="image-credit-wrap"><span class="js-caption-wrapper"><span class="cutline js-caption">Candy Crush, no. 1 downloaded Apple app of the year.</span><meta content="" itemprop="copyrightHolder"/><span class="credit">(Photo: King)</span></span></p>
+<p class="speakable-p-1 p-text">The maker of the hit mobile game <i>Candy Crush Saga</i> says it plans to offer more than 22 million shares for its initial public offering priced between $21-$24 per share.</p>
+<p class="speakable-p-2 p-text">King says it will offer more than 15 million shares, while shareholders will add an extra 6.7 million, according to an amendment to its F-1 filed with the Securities and Exchange Commission on Wednesday.</p>
+<p class="p-text">King believes it could raise nearly $613 million in an initial public offering.</p>
+<p class="p-text">Last month, King attracted 144 million daily active users who played their games 1.4 billion times per day. Candy Crush Saga comprises the overwhelming majority of those figures, with 97 million daily active users and just over 1 billion plays in February.</p>
+<p class="p-text">But that one game has become a huge driver of King's revenue. According to financial information in its IPO filing, the company raked in $568 million in profit off $1.9 billion in total revenue last year. In 2012, the year <i>Candy Crush Saga</i> was introduced, King generated $164 million in revenue and $7.8 million in profit.</p>
+<p class="p-text">Shares of King will trade on the New York Stock Exchange under the ticker symbol KING.</p>
+<p class="p-text"><i>Contributing: Associated Press</i></p>
+<p class="p-text p-text-last" id="article-body-p-last"><i>Follow Brett Molina on Twitter: <a data-track-label="inline|intext|n/a" href="http://twitter.com/bam923" title="http://twitter.com/bam923">@bam923</a>.</i></p>

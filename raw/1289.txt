@@ -1,0 +1,57 @@
+<p class="entry-meta"><time class="entry-time" datetime="2014-03-13T04:55:29-04:00" itemprop="datePublished">March 13, 2014</time> by <a class="author url fn" href="https://www.thedomains.com/author/raymondhackney/" rel="author" title="Posts by Raymond Hackney">Raymond Hackney</a> <span class="entry-comments-link"><a href="https://www.thedomains.com/2014/03/13/king-com-seeks-up-to-a-7-6-billion-valuation/#comments">1 Comment</a></span> </p>
+<p>King.com the maker of Candy Crush Saga could be looking at as much as a $7.6 billion valuation in their I.P.O. The Wall Street Journal reported today that the valuation would put King in the big leagues with a valuation rivaling the top video game companies on the market.</p>
+<p>Of course King.com has had some negative publicity lately with their attempts to trademark Candy and Saga. Smaller game makers and gamers alike have expressed their displeasure with the company.</p>
+<p>From the Wall Street Journal:</p>
+<p>King Digital Entertainment PLC, maker of the wildly popular “Candy Crush Saga” game, is targeting a market value of $7.6 billion for its initial public offering set for later this month, a price that would put it in the same league as the world’s leading videogame makers.</p>
+<p>The Anglo-Swedish company is planning to offer 22.2 million shares, including 6.7 million shares from top executives and pre-IPO investors, at a price range of between $21 and $24 a share, according to a regulatory filing. That would raise as much as $533 million in proceeds.</p>
+<p>One thing King has in its favor over both Zynga and its older rivals, Mr. Baggini said, was that it is already heavily focused on developing games for iPhones and Android devices, for which it has three games among the top five highest-grossing in terms of revenue in the U.S., according to AppAnnie, which tracks app downloads. “That makes it much easier to get global reach and huge size quickly for new games,” Mr. Baggini said.</p>
+<p>Read the full story <a href="http://online.wsj.com/news/articles/SB10001424052702303730804579434732351511254?mg=reno64-wsj&amp;url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702303730804579434732351511254.html" target="_blank">here</a></p>
+<p class="entry-meta"><span class="entry-categories">Filed Under: <a href="https://www.thedomains.com/category/games/" rel="category tag">Games</a>, <a href="https://www.thedomains.com/category/mobile/" rel="category tag">Mobile</a></span> </p>
+<p>Raymond is a writer, domain trader and consultant based in Pennsylvania. Raymond is the founder of 3Character.com and TLDInvestors.com.</p>
+<p class="comment-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+<img alt="" class="avatar avatar-48 photo" height="48" src="https://secure.gravatar.com/avatar/8e9b43906f2e3fc44e3ff03c1be346e7?s=48&amp;d=wavatar&amp;r=g" srcset="https://secure.gravatar.com/avatar/8e9b43906f2e3fc44e3ff03c1be346e7?s=96&amp;d=wavatar&amp;r=g 2x" width="48"><span itemprop="name">DrDomainer</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time" datetime="2014-03-13T08:32:43-04:00" itemprop="datePublished"><a class="comment-time-link" href="https://www.thedomains.com/2014/03/13/king-com-seeks-up-to-a-7-6-billion-valuation/#comment-135911" itemprop="url">March 13, 2014 at 8:32 am</a></time></p>
+<p>Looks like Queen.com has just gone<br/>
+up in value.</p>
+<p>TheDomains.com welcomes reader comments. Please follow these simple rules:</p>
+<p>We reserve the right to remove comments if we deem it necessary.</p>
+<p class="comment-form-comment"><label for="comment">Comment</label> <textarea cols="45" id="comment" maxlength="65525" name="comment" required="required" rows="8"></textarea></p>
+<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input aria-describedby="email-notes" id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" maxlength="200" name="url" size="30" type="url" value=""/></p>
+<p class="comment-subscription-form"><input id="subscribe_comments" name="subscribe_comments" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" type="checkbox" value="subscribe"/> <label class="subscribe-label" for="subscribe_comments" id="subscribe-label">Notify me of follow-up comments by email.</label></p>
+<p class="comment-subscription-form"><input id="subscribe_blog" name="subscribe_blog" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" type="checkbox" value="subscribe"/> <label class="subscribe-label" for="subscribe_blog" id="subscribe-blog-label">Notify me of new posts by email.</label></p>
+<p class="comment-form-subscriptions"><label for="subscribe-reloaded"><select id="subscribe-reloaded" name="subscribe-reloaded">
+<option value="none">Don't subscribe</option>
+<option value="yes">All</option>
+<option selected="selected" value="replies">Replies to my comments</option>
+</select> Notify me of followup comments via e-mail. You can also <a href="https://www.thedomains.com/comment-subscriptions/?srp=55323&amp;srk=37355b0606da9c9c598cf5b9fb79d0d4&amp;sra=s&amp;srsrc=f">subscribe</a> without commenting.</label></p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Submit Comment"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="55323"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="5d0555b2af"/></p>
+<p class="antispam-group antispam-group-q" style="clear: both;">
+<label>Current ye@r <span class="required">*</span></label>
+<input class="antispam-control antispam-control-a" name="antspm-a" type="hidden" value="2018"/>
+<input autocomplete="off" class="antispam-control antispam-control-q" name="antspm-q" type="text" value="5.2"/>
+</p>
+<p class="antispam-group antispam-group-e" style="display: none;">
+<label>Leave this field empty</label>
+<input autocomplete="off" class="antispam-control antispam-control-e" name="antspm-e-email-url-website" type="text" value=""/>
+</p>
+<p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="13"/></p>
+<p> <script>
+		(function($) { 
+			$("#dfPNwv1").load("https://www.thedomains.com/wp-admin/admin-ajax.php?action=dfads_ajax_load_ads&groups=203&limit=1&orderby=random&order=ASC&container_id=&container_html=none&container_class=&ad_html=div&ad_class=&callback_function=&return_javascript=0&_block_id=dfPNwv1" );			
+		})( jQuery );
+		</script><br/>
+<noscript></noscript></p>
+<p></p>
+<p style="display: none;"><input id="poll_152_nonce" name="wp-polls-nonce" type="hidden" value="98b0d3bbca"/></p>
+<p style="display: none;"><input name="poll_id" type="hidden" value="152"/></p>
+<p class="wp-polls-q">How Many .Web Domains Will Be Registered 1 Year After Launch</p>
+<p style="text-align: center;"><input class="Buttons" name="vote" onclick="poll_vote(152);" onkeypress="poll_result(152);" type="button" value="   Vote   "/></p>
+<p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(152); return false;" onkeypress="poll_result(152); return false;" title="View Results Of This Poll">View Results</a></p>
+<p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+<p><iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fthedomains.co&amp;width=300&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;border_color=%23989898&amp;stream=false&amp;header=false&amp;appId=169811523084034" style="border:none; overflow:hidden; width:100%; height:258px;"></iframe></p>
+<p>Copyright ©2015 <a href="http://www.thedomains.com">TheDomains.com</a> — Published by <a href="http://www.wwmi.com" target="_blank">Worldwide Media, Inc.</a> — Site by <a href="http://www.nutsandboltsmedia.com/" rel="nofollow" target="_blank">Nuts and Bolts Media</a></p>

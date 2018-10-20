@@ -1,0 +1,43 @@
+<p class="c-text-resizer__preview-text">The subject who is truly loyal to the Chief Magistrate will neither advise nor submit to arbitrary measures.</p>
+<p class="c-article-media__caption">A fault with the ignition switch in certain vehicles can cause the engine to turn off.</p>
+<p class="c-article-media__credit">AP Video</p>
+<p class="c-article-body__text">The General Motors Co. recall involving a faulty ignition switch that is being blamed for 12 deaths in the United States has spread to Canada.</p>
+<p class="c-article-body__text">General Motors of Canada Ltd. began sending out letters this week to about 235,000 owners of Pontiac, Saturn and Chevrolet vehicles that are the subject of a recall in the United States as well as a Department of Justice investigation and probes by two U.S. congressional committees and U.S. safety regulators.</p>
+<p class="c-article-body__text">The problem is that the ignition switch may move out of the "run" position, causing a partial electrical failure, turning off the engine and rendering the air bags useless if the vehicle is involved in a crash, GM Canada said in a memorandum to dealers. The risk increases if the key ring is carrying more than the car key.</p>
+<p class="c-ad__message">Story continues below advertisement</p>
+<p class="c-article-body__text">Until the vehicles are repaired, "customers should be advised that it is <em>very</em> important that they remove all the items from their key rings, leaving only the vehicle key," the memo said in boldfaced type.</p>
+<p class="c-article-body__text">The recall, which now involves 1.6 million vehicles worldwide, threatens to derail the auto maker's recovery from bankruptcy protection in 2009 and damage the reputation it has gained since then for vastly improving the quality of its vehicles.</p>
+<p class="c-article-body__text">GM has acknowledged that it knew about the problem a decade ago and new chief executive officer Mary Barra has promised a thorough internal review so the situation will not repeated.</p>
+<p class="c-article-body__text">GM Canada joined its parent company Wednesday in offering owners of the recalled vehicles a $500 rebate toward the purchase of a new 2013, 2014 or 2015 Chevrolet, GMC, Buick or Cadillac model. Customers worried about driving their vehicles before they are fixed will be offered loaners.</p>
+<p class="c-article-body__text">The vehicles affected in Canada are: 2005-2007 Chevrolet Cobalts; 2006-2007 Chevrolet HHR and Pontiac Solstice models; 2005-2006 Pontiac Pursuits; 2007 Pontiac G5 and Saturn Sky cars; and 2003-2007 Saturn Ions.</p>
+<p class="c-article-body__text">The $500 cash rebate will not be used as a marketing tool, the memo to dealers said.</p>
+<p class="c-article-body__text">"This allowance is not a sales tool; it is to be used to help customers in need of assistance."</p>
+<p class="c-ad__message">Story continues below advertisement</p>
+<p class="c-ad__message">Story continues below advertisement</p>
+<p class="c-article-body__text">The company said it expects to have replacement parts for repairs to vehicles by April 7.</p>
+<p class="c-article-body__text">The recall has hurt GM's share price, but any product liability should be restricted to pre-bankruptcy GM, Barclays Bank PLC analyst Brian Johnson said in a note to clients.</p>
+<p class="c-article-body__text">GM's trip through Chapter 11 bankruptcy protection limited any liability from lawsuits and other actions that were filed before the 2009 bankruptcy filing.</p>
+<p class="c-article-body__text">It is possible, Mr. Johnson noted, that regulators could issue fines and customers could file lawsuits against "new" GM.</p>
+<p class="c-article-body__text">"The timing of when GM learned of fatalities related to the faulty ignition switches could potentially determine if GM will be held criminally liable," he wrote. The cost of the recall could reach $100-million (U.S.), he said.</p>
+<p class="c-article-body__text">Transport Canada said Wednesday that it is still assessing questions asked about the recall.</p>
+<p class="c-ad__message">Story continues below advertisement</p>
+<p class="c-article-body__text"><span class="tagline_credit" style="display:none">With files from Associated Press</span></p>
+<p>Welcome to The Globe and Mail’s comment community. This is a space where subscribers can engage with each other and Globe staff. Non-subscribers can read and sort comments but will not be able to engage with them in any way. <a href="https://subscribe.theglobeandmail.com/#/digital?cmpid=subscribe-to-comment">Click here to subscribe</a>.</p>
+<p>If you would like to write a letter to the editor, please forward it to <a href="mailto:letters@globeandmail.com" rel="noopener" target="_blank">letters@globeandmail.com</a>. Readers can also interact with The Globe on <a href="https://www.facebook.com/theglobeandmail" rel="noopener" target="_blank">Facebook</a> and <a href="https://twitter.com/globeandmail" rel="noopener" target="_blank">Twitter </a>.</p>
+<p>Welcome to The Globe and Mail’s comment community. This is a space where subscribers can engage with each other and Globe staff. Non-subscribers can read and sort comments but will not be able to engage with them in any way. <a href="https://subscribe.theglobeandmail.com/#/digital?cmpid=subscribe-to-comment">Click here to subscribe</a>.</p>
+<p>If you would like to write a letter to the editor, please forward it to <a href="mailto:letters@globeandmail.com" rel="noopener" target="_blank">letters@globeandmail.com</a>. Readers can also interact with The Globe on <a href="https://www.facebook.com/theglobeandmail" rel="noopener" target="_blank">Facebook</a> and <a href="https://twitter.com/globeandmail" rel="noopener" target="_blank">Twitter </a>.</p>
+<p>Welcome to The Globe and Mail’s comment community. This is a space where subscribers can engage with each other and Globe staff.</p>
+<p>We aim to create a safe and valuable space for discussion and debate. That means:</p>
+<p>Comments that violate our community guidelines will be removed. Commenters who repeatedly violate community guidelines may be suspended, causing them to temporarily lose their ability to engage with comments.</p>
+<p><a href="https://www.theglobeandmail.com/help/community-guidelines/article4229672/">Read our community guidelines here</a></p>
+<p id="js-c-comments-message"><strong>Discussion loading ...</strong></p>
+<p>Read <a href="/opinion/letters/">most recent letters to the editor</a>.</p>
+<p class="o-card__text-under-button">Complimentary to subscribers</p>
+<p class="o-card__text-under-button">Complimentary to subscribers</p>
+<p class="o-card__text-under-button">Complimentary to subscribers</p>
+<p class="o-card__text-under-button">Complimentary to subscribers</p>
+<p class="o-card__text-under-button">Complimentary to subscribers</p>
+<p class="o-card__text-under-button">Complimentary to subscribers</p>
+<p class="c-footer-text__copyright">© Copyright 2018 The Globe and Mail Inc. All rights reserved.</p>
+<p>351 King Street East, Suite 1600, Toronto, <abbr title="Ontario">ON</abbr> Canada, M5A 0N1</p>
+<p class="c-footer-text__publisher">Phillip Crawley, Publisher</p>

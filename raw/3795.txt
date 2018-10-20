@@ -1,0 +1,27 @@
+<p class="site-description site-tagline">Daily Tech and Gadget News</p>
+<p class="meta cat rad tranz ribbon">
+<a href="https://www.dailygadgetry.com/category/companies" rel="category tag">Companies</a> </p>
+<p class="meta author tranz">
+<img alt="" class="avatar avatar-22 photo" height="22" src="https://secure.gravatar.com/avatar/9ed90e42013c3707c620fab7e2f31085?s=22&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9ed90e42013c3707c620fab7e2f31085?s=44&amp;d=mm&amp;r=g 2x" width="22"/><span>Written by: <a href="https://www.dailygadgetry.com/author/cindy-mccauley" rel="author" title="Posts by Cindy McCauley">Cindy McCauley</a></span> </p>
+<p class="meta date tranz post-date"> 
+        March 15, 2014    </p>
+<p><a href="https://www.dailygadgetry.com/wp-content/uploads/2014/03/twc.jpg"><img alt="twc" class="alignnone size-full wp-image-3279" height="365" src="https://www.dailygadgetry.com/wp-content/uploads/2014/03/twc.jpg" width="648"/></a></p>
+<p><strong>The city of Los Angeles is suing Time Warner Cable for unpaid cable network fees. </strong></p>
+<p>Los Angeles filed the lawsuit on Friday claiming that TWC was cheating on its franchise fees to the city.</p>
+<p>According to the report, TWC owes a total of $9.7 million for franchise fees and public, education and governmental channel fees from 2008 to 2011.</p>
+<p>The report also stated that TWC had received $500 million  year from using the city of Los Angeles’ cable system and that the company “blatantly refused to live up to its obligations to the city.”</p>
+<p>Los Angeles typically charges cable companies 5% of their revenue instead of charging them rent in order to use the cities wires and cable boxes.</p>
+<p>TWC continues to deny the allegations made by the city.</p>
+<p> </p>
+<p> </p>
+<p class="modified small cntr" itemprop="dateModified">Last modified: March 15, 2014</p>
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>
+<p class="comment-form-comment"><label for="comment">Comment</label> <textarea cols="45" id="comment" maxlength="65525" name="comment" required="required" rows="8"></textarea></p>
+<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input aria-describedby="email-notes" id="email" maxlength="100" name="email" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" maxlength="200" name="url" size="30" type="text" value=""/></p>
+<p class="comment-subscription-form"><input id="subscribe_comments" name="subscribe_comments" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" type="checkbox" value="subscribe"/> <label class="subscribe-label" for="subscribe_comments" id="subscribe-label">Notify me of follow-up comments by email.</label></p>
+<p class="comment-subscription-form"><input id="subscribe_blog" name="subscribe_blog" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" type="checkbox" value="subscribe"/> <label class="subscribe-label" for="subscribe_blog" id="subscribe-blog-label">Notify me of new posts by email.</label></p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Post Comment"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="3278"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>

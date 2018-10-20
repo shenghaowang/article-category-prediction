@@ -1,0 +1,62 @@
+<p class="author-section byline-plain">By
+
+<a class="author" href="/home/search.html?s=&amp;authornamef=Victoria+Woollaston" rel="nofollow">Victoria Woollaston</a>
+</p>
+<p class="byline-section"><span class="article-timestamp article-timestamp-published">
+<span class="article-timestamp-label">Published:</span>
+  17:52 BST, 12 March 2014
+</span>
+ | <span class="article-timestamp article-timestamp-updated">
+<span class="article-timestamp-label">Updated:</span>
+  12:24 BST, 13 March 2014
+</span>
+</p>
+<p class="count-number">          71</p>
+<p class="count-text">View <br/> comments</p>
+<p><font style="font-size:1.2em;">Next time someone criticises you for playing too much Candy Crush, you can tell them you’re actually solving a complex mathematical problem. </font></p>
+<p><font style="font-size:1.2em;">Australian researcher Toby Walsh wanted to test whether the game was what’s called NP-hard - or difficult to solve without a computer. </font></p>
+<p><font style="font-size:1.2em;">To test this theory, he constructed a theoretical board of candies and was able to turn it into a logical math puzzle - meaning the strategy could be classified alongside other complex problems, confirming it is NP. <br/></font></p>
+<p><font style="font-size:1.2em;"><b>Scroll down for video</b><br/></font></p>
+<p class="imageCaption">Australian Toby Walsh wanted to test whether Candy Crush was NP-complete, or difficult to solve without a computer. To test this theory, he constructed a theoretical board of candies and turned it into a logic puzzle. The high number of possible outcomes he uncovered proves the games complexity</p>
+<p> </p>
+<p> </p>
+<p><font style="font-size:1.2em;">Put simply, if a starting board of 
+candies has two instances where a row of three can be made, the player 
+has to decide which row to complete first. </font></p>
+<p><font style="font-size:1.2em;">Once they have selected this row, it sets off a chain reaction and directly influences which candies fall where as the game continues. </font></p>
+<p><font style="font-size:1.2em;">Once
+ the game is solved, the player would need to start again, but this time 
+choose the other row option, to determine which route scored the highest 
+points. </font></p>
+<p><font style="font-size:1.2em;">To make an 
+informed, mathematical decision about which row to choose, however, 
+requires knowing what candies will appear once the row has been 
+completed. </font></p>
+<p><font style="font-size:1.2em;">Each time candies fall, they create a number of new row options, increasing the number of possible outcomes. </font></p>
+<p><font style="font-size:1.2em;">To
+ check the best score, the player would have to go back over each 
+possible outcome, and the rows that follow - producing a puzzle that 
+can’t be solved manually.</font> <br/></p>
+<p><font style="font-size:1.2em;">Candy Crush Saga is a hugely popular game in which players move different coloured candies around a board to create lines of three in a row. </font></p>
+<p><font style="font-size:1.2em;">Once a line of three matching candies is completed, they disappear and candies drop from the top of the screen to fill the gaps. </font></p>
+<p><font style="font-size:1.2em;">Early rounds involve making a number of swaps in a set timeframe, or to achieve a minimum score. </font></p>
+<p><font style="font-size:1.2em;">Due to the large number of variables, Toby Walsh from NICTA and University of New South Wales, wanted to see whether the game was a P math problem, or an NP problem. </font></p>
+<p><font style="font-size:1.2em;">P problems are puzzles that are easy to solve, while NP problems are much more difficult and can only be solved by a computer because of the large amount of data produced. </font></p>
+<p><font style="font-size:1.2em;">To <a href="http://arxiv.org/abs/1403.1911" rel="nofollow" style="font-weight:bold;" target="_blank">test this theory</a>, Walsh constructed a theoretical board of candies, in which the size of the board was unrestricted. </font></p>
+<p><font style="font-size:1.2em;">He then tested whether it was possible to create a sequence of swaps (k) that obtained a specific score (s).</font>  </p>
+<p class="imageCaption">If a board of candies has two instances where a row of three can be made, the player has to decide which row to complete first. This sets off a chain reaction and directly influences future moves. Once the game is solved, the player must start again numerous times to try all the possible swap options</p>
+<p> </p>
+<p><font style="font-size:1.2em;">This turned the game into a mathematical problem. In the process of trying to solve this formula, Walsh concluded the variables and possible outcomes for each level were so high only a computer would be able to process the information – making the puzzle not only NP, but NP-complete. </font></p>
+<p><font style="font-size:1.2em;">NP-complete puzzles have solutions that can be applied to all other NP problems, but finding that one solution is difficult. </font></p>
+<p><font style="font-size:1.2em;">For example, if Walsh found the solution to the Candy Crush problem, in theory, this same solution could be applied to other puzzles with large number of variables and outcomes. </font></p>
+<p><font style="font-size:1.2em;">The same strategy was also used to prove games including Super Mario Brothers and Zelda are also NP-hard.</font></p>
+<p><font style="font-size:1.2em;">'Part of its addictiveness may be that Candy Crush is a computationally hard puzzle to solve,' concluded Walsh. </font></p>
+<p> </p>
+<p class="article linkro-darkred">
+<a href="/news/article-6297681/Thousands-anti-Brexit-campaigners-march-London.html">
+<img alt="" height="115" src="https://i.dailymail.co.uk/1s/2018/10/20/13/5228452-0-image-m-95_1540037573474.jpg" width="154"/>
+      Remainers - including Sadiq Khan - march in Britain's 'biggest protest since the Iraq War' - call for a 'People's Vote' on Brexit
+    </a>
+</p>
+<p>Published by Associated Newspapers Ltd</p>
+<p>Part of the Daily Mail, The Mail on Sunday &amp; Metro Media Group</p>

@@ -1,0 +1,37 @@
+<p class="byline__author" id="byline__author">
+    
+        
+            By <a href="http://connect.nj.com/user/stacyannj/posts.html" id="byline__authorLink" title="Visit Stacy Jones/The Star-Ledger's Author Page">Stacy Jones/The Star-Ledger</a></p>
+<p class="byline__authorEmail" id="byline__authorEmail"><a href="mailto:stacy_jones@starledger.com" id="byline__authorEmailLink" title="Email Stacy Jones/The Star-Ledger">stacy_jones@starledger.com</a></p>
+<p>King Digital Entertainment, maker of the wildly popular Candy Crush Saga, has been busy gearing up for its initial public offering later this month.</p>
+<p>That's left analysts wondering: Can a company that makes almost 75 percent of its revenue from a single, popular mobile game survive in stock market?</p>
+<p>The folks at King hope so.</p>
+<p>When the Dublin-based company goes public later this month, it expects to price its shares to be between $21 and $24 each, giving it a valuation of up to $7.6 billion.</p>
+<p>"I think the bankers have priced the deal in a way so that initial investors can realize a first-day pop in the stock," Josef Schuster, a Chicago-based research and investment firm, told <a href="http://www.reuters.com/article/2014/03/12/us-king-ipo-idUSBREA2B0KP20140312?feedType=RSS&amp;feedName=technologyNews">Reuters</a>.</p>
+<p>Now that Twitter and Facebook have experienced success as public companies, it's removed some of the reservations investors had about tech companies having more hype than lasting value.</p>
+<p>CB Insights put out an <a href="http://www.cbinsights.com/tech-ipo-pipeline">IPO watch report</a>, saying it expects to see travel website Airbnb, cloud storage services Box and Dropbox, wearable camera maker GoPro, cab hailing app Uber and others mull going public in 2014.</p>
+<p>While King prepares for its IPO, there's also been a lots of talk about Zynga. The San Francisco-based game company, best known for Farmville, made an initial public offering in late 2011.</p>
+<p>Zynga's stock price (<a href="https://www.google.com/finance?chdnp=1&amp;chdd=1&amp;chds=1&amp;chdv=1&amp;chvs=maximized&amp;chdeh=0&amp;chfdeh=0&amp;chdet=1394659748818&amp;chddm=218178&amp;chls=IntervalBasedLine&amp;q=NASDAQ:ZNGA&amp;ntsp=0&amp;ei=NMQgU6D9NLCbsgeHGA">ZNGA</a>) started at $10, climbed above $14 in March 2012 and has fallen steadily ever since. In the past year, the price has hovered between $2.50 and $5.89 per share.</p>
+<p>Investors took Zynga's very public stumble out of the gate as a sign that tech companies that rely too heavily on one revenue stream leave themselves vulnerable to a constantly changing tide of consumer interests. That's why King, which has 180 other mobile games in its catalog in addition to Candy Crush, has drawn some criticism.</p>
+<p>Even before King started gearing up for an IPO, analysts were <a href="http://news.cnet.com/8301-1023_3-57576461-93/crushing-competition-candy-crush-creator-crowns-itself-king/">comparing Candy Crush's success</a> to that of Farmville's.</p>
+<p>
+            Use of and/or registration on any portion of this site constitutes acceptance of our
+            <a href="https://www.nj.com/user-agreement/">User Agreement</a> (updated 5/25/18) and
+            <a href="https://www.nj.com/privacy-policy/">Privacy Policy and Cookie Statement</a> (updated 5/25/18).
+        </p>
+<p>
+            © 2018  Advance Local Media LLC. All rights reserved (<a href="https://www.njadvancemedia.com/us/">About Us</a>).<br/>
+            The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the 
+            prior written permission of Advance Local.
+        </p>
+<p>
+<a href="https://www.nj.com/communityrules">Community Rules</a>
+            apply to all content you upload or otherwise submit to this site.
+        </p>
+<p>
+<a href="/privacy-policy/#california_top">Your California Privacy Rights</a>
+</p>
+<p>
+<a href="https://www.nj.com/privacy-policy/#oba_top">
+<img alt="" src="//static.advance.net/static/common/img/ad_choices_arrow_transparent.png"/> Ad Choices</a>
+</p>

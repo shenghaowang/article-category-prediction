@@ -1,0 +1,51 @@
+<p class="global-nav__context-title"></p>
+<p class="form__fieldset-conditions">By subscribing, you agree to SBS’s <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions" rel="noopener" target="_blank">terms of service</a> and <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement" rel="noopener" target="_blank">privacy policy</a> including receiving email updates from SBS.</p>
+<p class="form__fieldset-title">Please select the editions you would like to sign up to</p>
+<p class="form__message-title"><span class="icon icon--tick"></span><strong>Thank you for signing up</strong></p>
+<p class="form__message-body"></p>
+<p class="form__message-title"><span class="icon"></span><strong>Sorry, it looks like an error occurred</strong></p>
+<p class="form__message-body">Please refresh the page and try again.</p>
+<p class="text-abstract__content">At the closing bell, the Dow Jones Industrial Average was down 11.40 points (0.07 per cent) at 16,339.95.</p>
+<p>US stocks finished mixed as cautious investors kept an eye on the Ukraine crisis and awaited more information on the direction of the economy.</p>
+<p>The Dow Jones Industrial Average lost 11.17 points (0.07 per cent) at 16,340.08.</p>
+<p>The broad-based S&amp;P 500 added 0.57 (0.03 per cent) at 1,868.20, while the tech-rich Nasdaq Composite Index rose 16.14 (0.37 per cent) to 4,323.33.</p>
+<p>"Investors are cautious... as global economic and geopolitical concerns cast a shadow on Wall Street," said a market note from Wells Fargo Advisors.</p>
+<p>"Specifically, uncertainty over upcoming Chinese economic data and tensions between Russia and the Ukraine are weighing on stocks."</p>
+<p>"The two headlines stories driving the market are China and perhaps still some thought about what is going on in Ukraine," said David Levy of Kenjol Capital Management, echoing the concern about whether China is still slowing down.</p>
+<p>But Levy noted that US markets still appear to have a firm floor in them, after the S&amp;P 500 hit a fresh record last week.</p>
+<p>"Lately any time we have the slightest pullback, we can't seem to pull the string together for multiple down days. It continues to show the strength of the market," he said.</p>
+<p>Nutrition product company Herbalife sank 7.4 per cent as the Federal Trade Commission launched a probe into its business operations. Its rival Nu Skin got a lift from the news, gaining 6.5 per cent.</p>
+<p>Shares in EPL Oil and Gas jumped 28.8 per cent after Energy XXI said it will buy the company for $2.3 billion, a deal that will create a larger independent specialising in offshore production in the Gulf of Mexico. Energy XXI shares were down 7.8 per cent.</p>
+<p>Men's Wearhouse shares lost 2.4 per cent on poor quarterly results announced a day after the company revealed a $US1.8 billion ($A2.01 billion) deal to buy rival Jos. A. Bank.</p>
+<p>The company blamed a $US30.4 million quarterly loss on extreme winter weather for depressing shopping traffic and heavy promotions from competitors.</p>
+<p>Fashion retailer Express sank 10.2 per cent on earnings of 57 cents per share that missed expectations by two cents. Sales also underperformed. Chief executive Michael Weiss called the results "disappointing."</p>
+<p>FarmVille creator Zynga got a 2.5 per cent boost from the prospective $US7.6 billion valuation for rival King Digital Entertainment, maker of Candy Crush, in IPO documents it filed Wednesday.</p>
+<p>Reports that the US Justice Department would investigate General Motors's slow decision to recall 1.6 million cars despite 10 years of complaints over dangerous ignition problems sent the stock falling 0.9 per cent, after Tuesday's 5.2 per cent tumble.</p>
+<p>Bond prices rose. The yield on the 10-year US Treasury fell to 2.73 per cent from 2.77 per cent, while the 30-year declined to 3.67 per cent from 3.71 per cent. Bond prices and yields move inversely.</p>
+<p class="connect-sbs__title">Stay up to date with SBS NEWS</p>
+<p class="tab__title">SBS News App</p>
+<p class="tab__description">Download our free app on the App Store or Google Play for the latest headlines and breaking news alerts.</p>
+<p class="tab__footnote">We love feedback: help us improve by rating the app and sharing your suggestions at <a href="mailto:apps@sbs.com.au" title="apps@sbs.com.au">apps@sbs.com.au</a></p>
+<p class="form__fieldset-title">News to your inbox</p>
+<p class="form__fieldset-description">Sign up now for the latest news from Australia and around the world direct to your inbox.</p>
+<p class="form__fieldset-conditions">By subscribing, you agree to SBS’s <a href="//www.sbs.com.au/aboutus/corporate/view/id/114/h/Terms-and-Conditions" rel="noopener" target="_blank">terms of service</a> and <a href="//www.sbs.com.au/aboutus/corporate/view/id/113/h/SBS-Privacy-Statement" rel="noopener" target="_blank">privacy policy</a> including receiving email updates from SBS.</p>
+<p class="form__fieldset-title">Please select the editions you would like to sign up to</p>
+<p class="form__message-title"><span class="icon icon--tick"></span><strong>Thank you for signing up</strong></p>
+<p class="form__message-body"></p>
+<p class="form__message-title"><span class="icon"></span><strong>Sorry, it looks like an error occurred</strong></p>
+<p class="form__message-body">Please refresh the page and try again.</p>
+<p class="tab__title">SBS News on social</p>
+<p class="tab__description">Follow SBS News to join in the conversation and never miss the latest live updates.</p>
+<p class="tab__title">Latest News podcasts</p>
+<p class="tab__description">Ask <a href="https://www.sbs.com.au/news/sbs-news-bulletins-to-be-available-via-amazon-alexa" onclick="sbs_s.linkTrackVars='None';sbs_s.linkTrackVars='contextData.marketing-module';sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen.alexa';sbs_s.tl(true,'o','Marketing-Module');" title="Amazon Alexa">Amazon Alexa</a> for the latest SBS News or listen to <a href="https://www.sbs.com.au/radio/article/2015/03/07/download-sbs-radios-free-mobile-app" onclick="sbs_s.linkTrackVars='None';sbs_s.linkTrackVars='contextData.marketing-module';sbs_s.contextData['marketing-module'] = 'marketing-module.news.listen.sbsRadio';sbs_s.tl(true,'o','Marketing-Module');" title="SBS Radio">SBS Radio</a>.</p>
+<p class="tab__title">Daily Bulletin</p>
+<p class="tab__description">Watch SBS World News live daily at 6:30pm on TV and <a class="custom_action" href="#" onclick="sbs_s.linkTrackVars='None';sbs_s.linkTrackVars='contextData.marketing-module';sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch.ourApp';sbs_s.tl(true,'o','Marketing-Module');" title="our app">on our app</a>. Catch up on <a href="https://www.sbs.com.au/ondemand/program/sbs-world-news" onclick="sbs_s.linkTrackVars='None';sbs_s.linkTrackVars='contextData.marketing-module';sbs_s.contextData['marketing-module'] = 'marketing-module.news.watch.od';sbs_s.tl(true,'o','Marketing-Module');" title="SBS On Demand">SBS On Demand</a>.</p>
+<p class="headline preview__headline"><a href="/news/morrison-government-loses-majority-as-phelps-stuns-wentworth-with-unprecedented-win">Morrison government loses majority as Phelps stuns Wentworth with unprecedented win</a></p>
+<p class="headline preview__headline"><a href="/news/scott-morrison-rallies-liberals-after-defeat">Scott Morrison rallies Liberals after defeat</a></p>
+<p class="headline preview__headline"><a href="/news/government-to-boycott-saudi-summit-over-khashoggi-killing-payne">Government to boycott Saudi summit over Khashoggi killing: Payne</a></p>
+<p class="headline preview__headline"><a href="/news/massive-downpour-fails-to-dampen-invictus-spirit">Massive downpour fails to dampen Invictus spirit</a></p>
+<p class="headline preview__headline"><a href="/news/us-lottery-prize-climbs-to-a-record-2-2-billion">US lottery prize climbs to a record $2.2 billion</a></p>
+<p class="headline preview__headline"><a href="/news/migrant-caravan-heading-to-us-stopped-by-mexican-riot-police">Migrant caravan heading to US stopped by Mexican riot police</a></p>
+<p class="headline preview__headline"><a href="/news/trump-saudi-explanation-of-journalist-khashoggi-death-credible">Trump: Saudi explanation of journalist Khashoggi death credible</a></p>
+<p class="headline preview__headline"><a href="/news/grief-and-anger-in-india-as-families-mourn-train-deaths">Grief and anger in India as families mourn train deaths</a></p>
+<p class="headline preview__headline"><a href="/news/sale-of-21st-century-marie-antoinette-s-jewels-on-show-before-auction">'Sale of 21st century': Marie Antoinette's jewels on show before auction</a></p>

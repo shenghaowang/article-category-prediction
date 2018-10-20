@@ -1,0 +1,10 @@
+<p class="storyParagraph">
+<span class="source">
+                                            (Newser)
+                                        </span>–
+                                        Hackers say the <a href="http://www.newser.com/story/183074/mt-gox-goes-bankrupt.html">now-bankrupt</a> Bitcoin exchange Mt. Gox has been less than honest about money lost in a <a href="http://www.newser.com/story/182855/key-bitcoin-exchange-implodes-basically-vanishes.html">major security lapse</a>. Yesterday, they hacked into CEO Mark Karpeles' blog and Reddit account, announcing that the company had kept currency it claimed was stolen, <a href="http://www.forbes.com/sites/andygreenberg/2014/03/09/hackers-hit-mt-gox-exchanges-ceo-claim-to-publish-evidence-of-fraud/">Forbes</a> reports. They said they'd hacked Mt. Gox's servers, and posted a file full of data suggesting the exchange had a balance of 951,116 bitcoins. Hackers say that points to fraud after the company claimed it lost 750,000 of users' bitcoins.
+                                    </p>
+<p class="storyParagraph">
+                                        The authenticity of the document isn't entirely clear, though some Reddit posters noted that personal account information revealed in the file appeared accurate, <a href="http://news.cnet.com/8301-1023_3-57620092-93/mt-gox-ceos-blog-hacked-alleged-bitcoin-balances-posted/">CNET</a> notes. Still, it's possible that the balance shows money that was already lost in the security breach, reflecting bad accounting rather than theft, the <a href="http://www.theverge.com/2014/3/10/5489582/mt-gox-hackers-say-exchange-still-has-customers-bitcoins">Verge</a> reports. Meanwhile, a bitcoin forum user said he or she was trying to sell 20 gigabytes of stolen information from Mt. Gox—a database that holds user details, including passport scans. "Selling it one or two times to make up personal loses (sic) from gox closure," the user said. The price: 100 bitcoins, or some $63,000, Forbes notes.
+                                        <span id="StoryTextBot" style="display:none;"> </span>
+</p>

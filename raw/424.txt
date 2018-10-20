@@ -1,0 +1,43 @@
+<p>Thanks for contacting us. We've received your submission.</p>
+<p class="section-tag">
+<a class="background-color" href="/business/">Business</a>
+</p>
+<p class="byline">By Associated Press</p>
+<p class="contact-submit">
+<input class="pushbutton-wide" type="submit" value="Submit »"/>
+<input name="contact-form-id" type="hidden" value="widget-text-4"/>
+<input name="action" type="hidden" value="grunion-contact-form"/>
+<input name="contact-form-hash" type="hidden" value="c4b73003bd4b26a16a066823ea46f34274e30536"/>
+</p>
+<p class="byline-date">
+									March 10, 2014 <span class="separator">|</span> 1:04pm
+												</p>
+<p>Sbarro said Monday it is filing for Chapter 11 reorganization, the struggling pizza chain’s second trip through bankruptcy court in less than three years.</p>
+<p>The filing comes after the company shuttered 155 of its US locations last month. Sbarro had cited declining traffic in the mall food courts where it does much of its business for the closures. The company did not immediately provide details on whether any marketing or in-store changes were planned to help update its image and boost sales.</p>
+<p>It says it still has more than 800 locations worldwide.</p>
+<p>Sbarro also filed for bankruptcy protection in April 2011 and emerged a few months later, saying it significantly cut its debt and received a capital infusion. A new CEO then led a push to revitalize the chain’s image by touting new recipes and ovens. But the efforts apparently didn’t take hold.</p>
+<p>Sbarro, based in Melville, NY, says its strategy of store closings and balance-sheet restructuring will improve its profitability and reduce outstanding debt by more than 80 percent. It said its filing is designed to “allow for a quick exit from bankruptcy” as it executes a broader plan developed by the new management team.</p>
+<p class="read-next">
+<a href="https://nypost.com/2014/03/10/mcdonalds-sales-down-1-4-in-us/">Read Next</a>
+</p>
+<p class="read-next-link">
+<a class="desktop postid-3443672" href="https://nypost.com/2014/03/10/mcdonalds-sales-down-1-4-in-us/">
+				McDonald's sales down 1.4% in US			</a>
+</p>
+<p class="read-next">
+<a href="https://nypost.com/2014/03/10/mcdonalds-sales-down-1-4-in-us/">Read Next</a>
+</p>
+<p class="read-next-link">
+<a class="desktop postid-3443672" href="https://nypost.com/2014/03/10/mcdonalds-sales-down-1-4-in-us/">
+				McDonald's sales down 1.4% in US			</a>
+</p>
+<p id="text-share-popup-title">Share Selection</p>
+<p class="share-count">29,429</p>
+<p class="share-count">1,892</p>
+<p class="share-count">1,559</p>
+<p>Post Digital Network</p>
+<p>
+<span id="copyright">© 2018 NYP Holdings, Inc. All Rights Reserved</span><span class="desktop"> | </span><a href="https://nypost.com/terms/">Terms of Use</a> | <a href="https://nypost.com/privacy/">Privacy</a> <span class="desktop">| <a href="https://nypost.com/privacy/#adchoices">Your Ad Choices</a></span> | <a href="https://nypost.com/sitemap/">Sitemap</a>
+</p>
+<p class="newscorp-slider-description">
+							News Corp. is a network of leading companies in the world of diversified media, news, and information services.						</p>

@@ -1,0 +1,270 @@
+<p>We live blogged the  U.S. stock market\’s action on Monday. You can read a wrap of pre-market actions <a href='\"http://www.marketwatch.com/column/indications?dist=beforebell\"' target='\"_blank\"'>here</a> and get a compact rundown of the stock market in <a href='\"http://www.marketwatch.com/column/market%20snapshot\"' target='\"_blank\"'>Market Snapshot.</a></p>
+<p>Good morning.</p>
+<p>Stocks are mostly lower in the early going, with the S&amp;P 500 pulling back from <a href="http://www.marketwatch.com/story/us-stocks-mostly-rise-nasdaq-slips-into-red-2014-03-07">Friday’s record close</a>.</p>
+<p>Reports of <a href="http://www.marketwatch.com/story/chinese-trade-data-weakens-asian-shares-2014-03-10">weaker-than-expected Chinese exports</a> are getting much of the blame. <a href="http://www.marketwatch.com/story/chinese-trade-data-weakens-asian-shares-2014-03-10">Equities in Asia closed sharply lower today</a>.</p>
+<p>SPX -4 points</p>
+<p>Dow -50 points</p>
+<p>Nasdaq -6 points</p>
+<p>Boeing <span class="quotePeekContainer"> <span class="quotepeekbase bgQuote neutral" id="quoteeb28d7ef234301a3371720ea0d790df1a9c4363a"> <a href="http://marketwatch.com/investing/stock/BA"> <span class="bgChannel">/quotes/zigman/220026/delayed</span> <span class="bgRealtimeChannel">/quotes/nls/ba</span> <span class="symbol">BA</span> </a> </span> </span> is helping push the Dow lower.</p>
+<p>It’s the worst-performing Dow component so far today, last down about 2%.  There’s been more trouble for the aircraft maker’s 787 — news of <a href="http://www.marketwatch.com/story/boeing-to-inspect-787-dreamliner-wings-for-cracks-2014-03-07">cracks in the wings of some planes</a>.</p>
+<p>Photo credit: Getty Images</p>
+<p>Another Dow component with news today is McDonald’s<span class="quotePeekContainer"> <span class="quotepeekbase bgQuote neutral" id="quote283957109cfcd0914c8ff8165fb477717d8d36c6"> <a href="http://marketwatch.com/investing/stock/MCD"> <span class="bgChannel">/quotes/zigman/233369/delayed</span> <span class="bgRealtimeChannel">/quotes/nls/mcd</span> <span class="symbol">MCD</span> </a> </span> </span>, which reported a <a href="http://www.marketwatch.com/story/mcdonalds-feb-global-same-store-sales-drop-03-2014-03-10">global drop in monthly same-store sales</a>.</p>
+<p>U.S. sales were down 1.4%. Dow Jones Market Talk emphasized the domestic decline follows drops in December and January, and these performances are “concerning of course since the US remains far and away MCD’s biggest market.”</p>
+<p>Shares in McDonald’s were last down 0.3% — not a big drop, but still a drop.</p>
+<p>Photo credit: Bloomberg</p>
+<p>The S&amp;P 500 has picked itself up off its session low, but it’s still in negative territory. The benchmark index was last down 0.1%.</p>
+<p>The Dow fell out of the gate and has basically moved sideways. The blue-chip index was down 0.3% at last check.</p>
+<p>The Nasdaq has been dancing around the break-even mark, at times showing small gains, at times showing small losses. The tech-heavy index was last up 0.1%.</p>
+<p>While the S&amp;P 500 eked out another record close on Friday, Colin Cieszynski doesn’t sound impressed.</p>
+<p>The senior analyst at CMC Markets apparently would have preferred a finish above 1,880.</p>
+<p>He writes in a note today:</p>
+<p>“SPX500 failed to hold a new high Friday above 1,880 and continues to roll over today. A negative RSI divergence suggests uptrend weakening. Initial support appears in the 1,850 to 1,855 previous resistance zone followed by 1,830.”</p>
+<p>In his note this morning, CMC’s Cieszynski also has an interesting take on McDonald’s<span class="quotePeekContainer"> <span class="quotepeekbase bgQuote neutral" id="quote283957109cfcd0914c8ff8165fb477717d8d36c6"> <a href="http://marketwatch.com/investing/stock/MCD"> <span class="bgChannel">/quotes/zigman/233369/delayed</span> <span class="bgRealtimeChannel">/quotes/nls/mcd</span> <span class="symbol">MCD</span> </a> </span> </span> same-store sales falling 0.3% for February.</p>
+<p>The news “can be seen as a potentially positive indicator for the global economy,” he writes.</p>
+<p>“Just as more people tend to eat at McDonalds in recessions, the same people may elect to eat at more expensive restaurants when they have more money or feel more secure about the economy,” the analyst says.</p>
+<p>And for more about McDonald’s, check out what MarketWatch’s Catey Hill has to say about how the fast-food giant could become more like its old friend Chipotle<span class="quotePeekContainer"> <span class="quotepeekbase bgQuote neutral" id="quote73f8f26bcaec2e51f7f941a06ae022971fc97035"> <a href="http://marketwatch.com/investing/stock/CMG"> <span class="bgChannel">/quotes/zigman/395806/delayed</span> <span class="bgRealtimeChannel">/quotes/nls/cmg</span> <span class="symbol">CMG</span> </a> </span> </span> — namely by <a href="http://www.marketwatch.com/story/mcdonalds-may-soon-be-more-like-chipotle-2014-03-10">getting involved in the customization trend</a>.</p>
+<p>Photo credit: Bloomberg</p>
+<p>The bananas industry — that’s the latest sector with M&amp;A news, joining cable, pharma, jewelry.</p>
+<p>Overall, the merger activity could show the mood in corporate boardrooms is optimistic. They’re making deals there rather than hunkering down.</p>
+<p>Chiquita<span class="quotePeekContainer"> <span class="quotepeekbase bgQuote neutral" id="quote20f2a4b34f7202b7bd82af2c499fee1548f5ad3d"> <a href="http://marketwatch.com/investing/stock/CQB"> <span class="bgChannel">/quotes/zigman/300672/delayed</span> <span class="bgRealtimeChannel">/quotes/nls/cqb</span> <span class="symbol">CQB</span> </a> </span> </span> is merging with Ireland-based fruit company Fyffes in an all-stock transaction worth $1 billion, the <a href="http://www.marketwatch.com/story/fyffes-chiquita-agree-to-107-billion-merger-2014-03-10">two companies said Monday</a>.</p>
+<p>Chiquita was last up 13%.</p>
+<p>Photo credit: Associated Press</p>
+<p>Stocks are at fresh session lows, really retreating after last week’s gains.</p>
+<p>Weaker-than-expected data from China did not help this morning, after the official report showed a surprise drop in exports last month. Some analysts says data might be distorted by the celebration of Lunar New Year, however. </p>
+<p>Ongoing tension between Ukraine and Russia is also weighing on risky assets – as gold and Treasurys are gaining, while oil and equity markets are falling.</p>
+<p>SPX 
+  <style>
+  .bgChannel, .bgRealtimeChannel, .bgRevision {
+      display: none;
+  }
+  </style>
+<span class="quotePeekContainer">
+<span class="quotepeekbase bgQuote neutral" id="quotef44f5058edb6836c97ba622917b22f50229a0ed1">
+<a href="http://marketwatch.com/investing/stock/SPX">
+<span class="bgChannel">/quotes/zigman/3870025/realtime</span>
+<span class="bgRealtimeChannel"></span>
+<span class="symbol">SPX</span>
+<span class="data bgPercentChange symbol"></span>
+</a>
+</span>
+</span> -0.38%</p>
+<p>DJIA 
+  <style>
+  .bgChannel, .bgRealtimeChannel, .bgRevision {
+      display: none;
+  }
+  </style>
+<span class="quotePeekContainer">
+<span class="quotepeekbase bgQuote neutral" id="quote95958b7e8155da9070098ac9ee5ff3f1e9c6018e">
+<a href="http://marketwatch.com/investing/stock/DJIA">
+<span class="bgChannel">/quotes/zigman/627449/realtime</span>
+<span class="bgRealtimeChannel"></span>
+<span class="symbol">DJIA</span>
+<span class="data bgPercentChange symbol"></span>
+</a>
+</span>
+</span> -0.50%</p>
+<p>COMP 
+  <style>
+  .bgChannel, .bgRealtimeChannel, .bgRevision {
+      display: none;
+  }
+  </style>
+<span class="quotePeekContainer">
+<span class="quotepeekbase bgQuote neutral" id="quote6bc76e01cf14112525bb07266d3956e14f074f5f">
+<a href="http://marketwatch.com/investing/stock/COMP">
+<span class="bgChannel">/quotes/zigman/12633936/realtime</span>
+<span class="bgRealtimeChannel"></span>
+<span class="symbol">COMP</span>
+<span class="data bgPercentChange symbol"></span>
+</a>
+</span>
+</span> -0.42%</p>
+<p>Today’s broad-based losses in the S&amp;P 500 are led by industrials and telecoms sectors. Cliffs Natural Resources 
+  <style>
+  .bgChannel, .bgRealtimeChannel, .bgRevision {
+      display: none;
+  }
+  </style>
+<span class="quotePeekContainer">
+<span class="quotepeekbase bgQuote neutral" id="quotedf0d2b6b2145603bd1fbe9e6464e44f77471f3b4">
+<a href="http://marketwatch.com/investing/stock/CLF">
+<span class="bgChannel">/quotes/zigman/527698/delayed</span>
+<span class="bgRealtimeChannel">/quotes/nls/clf</span>
+<span class="symbol">CLF</span>
+<span class="data bgPercentChange symbol"></span>
+</a>
+</span>
+</span>  and Peabody Energy btu
+  <style>
+  .bgChannel, .bgRealtimeChannel, .bgRevision {
+      display: none;
+  }
+  </style>
+<span class="quotePeekContainer">
+<span class="quotepeekbase bgQuote neutral" id="quoteafc4fed492ff191681c4ef79569c6238eadfffb0">
+<a href="http://marketwatch.com/investing/stock/BTU">
+<span class="bgChannel">/quotes/zigman/282895/delayed</span>
+<span class="bgRealtimeChannel">/quotes/nls/btu</span>
+<span class="symbol">BTU</span>
+<span class="data bgPercentChange symbol"></span>
+</a>
+</span>
+</span> are selling off the most.</p>
+<p>Almost all 30 Dow components are also trading lower, with Boeing 
+  <style>
+  .bgChannel, .bgRealtimeChannel, .bgRevision {
+      display: none;
+  }
+  </style>
+<span class="quotePeekContainer">
+<span class="quotepeekbase bgQuote neutral" id="quoteeb28d7ef234301a3371720ea0d790df1a9c4363a">
+<a href="http://marketwatch.com/investing/stock/BA">
+<span class="bgChannel">/quotes/zigman/220026/delayed</span>
+<span class="bgRealtimeChannel">/quotes/nls/ba</span>
+<span class="symbol">BA</span>
+<span class="data bgPercentChange symbol"></span>
+</a>
+</span>
+</span> hit the worst. </p>
+<p>A bright spot amid general gloom is the stock of Plug Power Inc, up 14% at last check. That gain is on top of a 77%  gain last week.  You can read more in this <a href="http://www.marketwatch.com/story/plug-power-shares-up-12-extend-77-weekly-rise-2014-03-10">short news story.</a></p>
+<p>The ongoing war of words between activist investor Carl Icahn and eBay Inc. got more personal on Monday as both sides wasted little time climbing back into the ring after the weekend, <a href="http://www.marketwatch.com/story/ebay-and-icahn-keep-trading-punches-2014-03-10">writes MarketWatch’s Rex Crum</a>.</p>
+<p>Shares in eBay fell 1.1% on Monday, but they are up 6.5% year-to-date.</p>
+<p>As the S&amp;P 500 index notched up another record high last Friday, margin debt levels hit new highs, prompting analysts to warn investors.</p>
+<p>MarketWatch’s Wallace Witkowski writes about high <a href="http://www.marketwatch.com/story/stock-caution-urged-as-margin-debt-levels-hit-new-highs-2014-03-09">margin debt levels and P/E valuations.</a></p>
+<p>Another story on valuations is in this <a href="http://blogs.marketwatch.com/thetell/2014/03/10/stock-markets-frothy-valuations-are-still-far-from-tech-boom-extremes/">Tell post by William Watts</a>. </p>
+<p>So with the bull market <a href="http://www.marketwatch.com/story/what-this-stock-bull-market-needs-to-live-a-6th-year-2014-03-06">celebrating its five-year anniversary</a> and the S&amp;P 500 back at record levels, just how pricey are stocks?</p>
+<p>It depends how you look at it. Using Thursday’s S&amp;P 500 close at 1,877.03 and a forward 12-month earnings-per-share estimate of $121.86, the forward 12-month price/earnings, or P/E, ratio for the index stood at 15.4, according to data provider FactSet.</p>
+<p> John De Clue, chief investment officer at U.S. Bank Wealth Management,  told MarketWatch that the rise in the S&amp;P 500 over the past few weeks was due to multiple expansion. </p>
+<p>As wireless operators move further away from contract pricing, research finds their sales are still rising. MarketWatch Radio Network’s Andrew O’Day reports.</p>
+<p>Icahnopoly, anyone? </p>
+<p>Great gift from my daughter. She says a 2nd addition coming soon. Hope <a href="https://twitter.com/search?q=%24EBAY&amp;src=ctag">$EBAY</a> is on it. <a href="http://t.co/IyBOXif3Zg">pic.twitter.com/IyBOXif3Zg</a></p>
+<p>— Carl Icahn (@Carl_C_Icahn) <a href="https://twitter.com/Carl_C_Icahn/statuses/442873576304025600">March 10, 2014</a></p>
+<p><script charset="utf-8" src="//platform.twitter.com/widgets.js" type="text/javascript"></script></p>
+<p> </p>
+<p>MarketWatch’s Barbara Kollmeyer describes <a href="http://blogs.marketwatch.com/thetell/2014/03/10/icahnopoly-where-apple-is-boardwalk-and-no-one-goes-to-jail/">the game in her Tell post</a>:</p>
+<p>Serious Monopoly players can be found over at <a href="http://marvingardens.forumotion.com/t7-different-strategies-for-winning-at-monopoly">Marvins Gardens.forumotion.com</a> exchanging winning strategies. But when it comes to Icahnopoly, perhaps this is the only tip potential players really need:</p>
+<p>“Show no mercy, if a player is down, eliminate him from the game. Luck plays too big a role in Monopoly to risk a comeback.”</p>
+<p> </p>
+<p>Stocks are off their session lows, but still firmly in negative territory. </p>
+<p>SPX 
+  <style>
+  .bgChannel, .bgRealtimeChannel, .bgRevision {
+      display: none;
+  }
+  </style>
+<span class="quotePeekContainer">
+<span class="quotepeekbase bgQuote neutral" id="quotef44f5058edb6836c97ba622917b22f50229a0ed1">
+<a href="http://marketwatch.com/investing/stock/SPX">
+<span class="bgChannel">/quotes/zigman/3870025/realtime</span>
+<span class="bgRealtimeChannel"></span>
+<span class="symbol">SPX</span>
+<span class="data bgPercentChange symbol"></span>
+</a>
+</span>
+</span> -0.35%</p>
+<p>DJIA 
+  <style>
+  .bgChannel, .bgRealtimeChannel, .bgRevision {
+      display: none;
+  }
+  </style>
+<span class="quotePeekContainer">
+<span class="quotepeekbase bgQuote neutral" id="quote95958b7e8155da9070098ac9ee5ff3f1e9c6018e">
+<a href="http://marketwatch.com/investing/stock/DJIA">
+<span class="bgChannel">/quotes/zigman/627449/realtime</span>
+<span class="bgRealtimeChannel"></span>
+<span class="symbol">DJIA</span>
+<span class="data bgPercentChange symbol"></span>
+</a>
+</span>
+</span> -0.49%</p>
+<p>COMP 
+  <style>
+  .bgChannel, .bgRealtimeChannel, .bgRevision {
+      display: none;
+  }
+  </style>
+<span class="quotePeekContainer">
+<span class="quotepeekbase bgQuote neutral" id="quote6bc76e01cf14112525bb07266d3956e14f074f5f">
+<a href="http://marketwatch.com/investing/stock/COMP">
+<span class="bgChannel">/quotes/zigman/12633936/realtime</span>
+<span class="bgRealtimeChannel"></span>
+<span class="symbol">COMP</span>
+<span class="data bgPercentChange symbol"></span>
+</a>
+</span>
+</span> -0.32%</p>
+<p>News that China’s <a href="http://www.marketwatch.com/story/china-exports-drop-unexpectedly-create-deficit-2014-03-08" target="_blank">exports fell</a> 18.1% in February, when economists had expected a growth, weighed on resources companies in the S&amp;P 500. Among the notable losers suffering from China headwind are:</p>
+<p>Cliffs Natural Resources Inc.<span class="quotePeekContainer"> <span class="quotepeekbase bgQuote neutral" id="quotedf0d2b6b2145603bd1fbe9e6464e44f77471f3b4"> <a href="http://marketwatch.com/investing/stock/CLF"> <span class="bgChannel">/quotes/zigman/527698/delayed</span> <span class="bgRealtimeChannel">/quotes/nls/clf</span> <span class="symbol">CLF</span> </a> </span> </span> down 4.5%.</p>
+<p>Alcoa Inc.<span class="quotePeekContainer"> <span class="quotepeekbase bgQuote neutral" id="quote801c34269f74ed383fc97de33604b8a905adb635"> <a href="http://marketwatch.com/investing/stock/AA"> <span class="bgChannel">/quotes/zigman/246295/delayed</span> <span class="bgRealtimeChannel">/quotes/nls/aa</span> <span class="symbol">AA</span> </a> </span> </span> off 2.5%.</p>
+<p>Freeport-McMoRan Copper &amp; Gold Inc.<span class="quotePeekContainer"> <span class="quotepeekbase bgQuote neutral" id="quotef0fd6311b44943207ede5c14a487a30f2c138f89"> <a href="http://marketwatch.com/investing/stock/FCX"> <span class="bgChannel">/quotes/zigman/154700/delayed</span> <span class="bgRealtimeChannel">/quotes/nls/fcx</span> <span class="symbol">FCX</span> </a> </span> </span> down 3%.</p>
+<p>Peabody Energy Corp.<span class="quotePeekContainer"> <span class="quotepeekbase bgQuote neutral" id="quoteafc4fed492ff191681c4ef79569c6238eadfffb0"> <a href="http://marketwatch.com/investing/stock/BTU"> <span class="bgChannel">/quotes/zigman/282895/delayed</span> <span class="bgRealtimeChannel">/quotes/nls/btu</span> <span class="symbol">BTU</span> </a> </span> </span> down 3.7%.</p>
+<p>The well-known hedge fund manager Seth Klarman warns about bubbles, pointing to Netflix, Tesla, bitcoin and more, writes <a href="http://blogs.marketwatch.com/thetell/2014/03/10/seth-klarman-warns-about-bubbles-pointing-to-netflix-tesla-bitcoin-and-more/">MarketWatch’s Victor Reklaitis</a>.</p>
+<p>An excerpt from his letter to clients points out a few stocks:</p>
+<p>A sceptic would have to be blind not to see bubbles inflating in junk bond issuance, credit quality, and yields, not to mention the nosebleed stock market valuations of fashionable companies like Netflix and Tesla Motors.</p>
+<p>Both Netflix Inc<span class="quotePeekContainer"> <span class="quotepeekbase bgQuote neutral" id="quotea50b8ee70fd678d60be79b20e129aac864bc0329"> <a href="http://marketwatch.com/investing/stock/NFLX"> <span class="bgChannel">/quotes/zigman/87598/delayed</span> <span class="bgRealtimeChannel">/quotes/nls/nflx</span> <span class="symbol">NFLX</span> </a> </span> </span> and Tesla Motors<span class="quotePeekContainer"> <span class="quotepeekbase bgQuote neutral" id="quoteebccc602be8e45574e2f88a0cbab785479a079ce"> <a href="http://marketwatch.com/investing/stock/TSLA"> <span class="bgChannel">/quotes/zigman/118681/delayed</span> <span class="bgRealtimeChannel">/quotes/nls/tsla</span> <span class="symbol">TSLA</span> </a> </span> </span> fell 3% on Monday.</p>
+<p>Herbalife Ltd<span class="quotePeekContainer"> <span class="quotepeekbase bgQuote neutral" id="quoteb8e17ceccd54881f525b522981644e94fa385b80"> <a href="http://marketwatch.com/investing/stock/HLF"> <span class="bgChannel">/quotes/zigman/361145/delayed</span> <span class="bgRealtimeChannel">/quotes/nls/hlf</span> <span class="symbol">HLF</span> </a> </span> </span>, the nutrition supplement company accused of being a Ponzi scheme by hedge fund manager Bill Ackman, may be forgiven if it indulges in a bit of a <em>Schadenfreude</em>. </p>
+<p>The New York Times, in an in-depth report published Monday, detailed what it describes as an <a href="http://www.nytimes.com/2014/03/10/business/staking-1-billion-that-herbalife-will-fail-then-ackman-lobbying-to-bring-it-down.html?link=mktw" target="_blank">extraordinary effort by Ackman to lobby</a> the officialdom to bring down Herbalife.</p>
+<p>Herbalife moved quickly to capitalize on the NYT’s expose, releasing a statement that in essence is an “I told you so.”</p>
+<p>Ackman’s unprecedented campaign to destroy Herbalife has now been exposed for what it is: a cynical, self-serving attempt to manipulate the market by buying his way into an investigation to cover his own reckless $1 billion dollar bet.</p>
+<p>Shares of Herbalife rose 1.4% as of mid-day Monday.</p>
+<p>From <a href="http://www.marketwatch.com/radio">MarketWatch Radio Network</a>: Disappointing economic news from China and worries about Ukraine are weighing on stocks to start the week. But it’s just a pause, according to portfolio manager George Young of the Villere Balanced Fund.</p>
+<p>A quick market update – stocks are firmly in red. </p>
+<p>SPX -0.32%</p>
+<p>DJIA -0.45</p>
+<p>COMP -0.37%</p>
+<p>In other markets today:</p>
+<p><a href="http://www.marketwatch.com/story/treasury-prices-inch-lower-ahead-of-debt-supply-2014-03-10">Treasury prices</a> swung higher, but traded in an narrow range ahead of debt supply.</p>
+<p><a href="http://www.marketwatch.com/story/gold-dips-coming-off-last-weeks-data-binge-2014-03-10">Gold prices</a> settled 0.2% higher at $1,341.50 per troy ounce.</p>
+<p><a href="http://www.marketwatch.com/story/oil-futures-drop-1-after-china-data-2014-03-10">Oil futures</a> drop more than 1% as downbeat data from China cut into prospects for energy demand.</p>
+<p>The bitcoin exchange Mt. Gox filed for Chapter 15 bankruptcy in the U.S. on Sunday in an attempt to seek relief from pending litigation in the U.S, including the class-action lawsuit. The exchange filed for bankruptcy in Japan on Feb. 28. and disclosed it had lost  thousands of bitcoins belonging to customers. An emergency hearing is scheduled for Monday in Texas on Mt. Gox’s filing. Read <a href="http://blogs.marketwatch.com/thetell/2014/03/10/mt-gox-files-for-chapter-15-bankruptcy-in-the-u-s/">more</a>.  </p>
+<p>Meanwhile, a linguistic analysis requested by Forbes suggested that Dorian Prentice Satoshi Nakamoto, who was identified as the creator of bitcoin by Newsweek, is <a href="http://blogs.marketwatch.com/thetell/2014/03/10/bitcoin-creator-unlikely-to-be-man-newsweek-identified-forbes-linguistic-analysis-finds/">likely not the correct person</a>. </p>
+<p>Alexion Pharmaceuticals 
+  <style>
+  .bgChannel, .bgRealtimeChannel, .bgRevision {
+      display: none;
+  }
+  </style>
+<span class="quotePeekContainer">
+<span class="quotepeekbase bgQuote neutral" id="quote42b2e3ca4de0db8a37c7172504dc3dec3d6f71a5">
+<a href="http://marketwatch.com/investing/stock/ALXN">
+<span class="bgChannel">/quotes/zigman/59581/delayed</span>
+<span class="bgRealtimeChannel">/quotes/nls/alxn</span>
+<span class="symbol">ALXN</span>
+<span class="data bgPercentChange symbol"></span>
+</a>
+</span>
+</span> is the top gainer on the S&amp;P 500 today. The stock rose 6.7% after the biopharmaceutical company boosted its 2014 adjusted earnings outlook. </p>
+<p>It also announced a <a data-ls-seen="1" href="http://blogs.marketwatch.com/health-exchange/2014/03/10/alexion-bucks-tide-gains-on-deal-with-france-for-blood-disorder-treatment/">reimbursement deal with the French government</a> on its blood disorder medication that will result in additional sales of $88 million.</p>
+<p>The stock has gained nearly 35% since the start of the year and nearly doubled in the past 12 months.</p>
+<p>The S&amp;P 500 has already cruised past Deutsche Bank’s year-end forecast of 1,850 and may have further to go, writes top strategist David Bianco in a Monday note. But the firm now expects the next 5%-plus move by stocks to be down, he says.</p>
+<p>In part, that’s because Deutsche Bank is worried by high price-to-earnings ratio, a continuing trend of earnings forecast downgrades and a lack of “higher quality” drivers for earnings per share and the price/equity ratio. Bianco would prefer to see EPS and P/E driven by increased capital expenditure and export growth as opposed to share buybacks. Read more <a href="http://blogs.marketwatch.com/thetell/2014/03/10/next-5-move-in-market-likely-to-be-down-deutsche-banks-bianco/">here</a>.</p>
+<p>The bull market’s fifth anniversary prompted many strategist reassess market conditions and valuations.</p>
+<p>Brad McMillan, chief investment officer at Commonwealth Financial, in a research note, writes that margin debt is in elevated territory and and the conditions may be appropriate for a correction.</p>
+<p>Margin debt is important for several reasons. First, available and cheap financing allows investors to buy more, which, in a virtuous circle, can lead to more demand and higher prices. If, however, prices start to decline, the debt still has to be repaid. So investors sell to raise cash, which pushes prices down, and so on. Debt raises the possibility of a downward spiral, and can make a spiral more severe when it happens.</p>
+<p>The other reason margin debt is important is it reflects investors’ attitude toward risk. By taking on more debt, investors are showing they expect stocks to rise and do not believe risks are that high—which lasts until the market turns. Just as with debt, the change in sentiment can drive prices down even faster than they rose.</p>
+<p>I will write next week about indicators that can actually show when to worry about the market in the short term, but the level of margin debt is not one of them. It is, however, an indicator you should keep an eye on in the medium and longer term.</p>
+<p>This year it is supposed to be all about U.S. economic growth, but investors and economists had to adjust their expectations after weak readings from pretty much all government reports in the past few months.</p>
+<p>The White House’s economic team expects the economy to improve and the main reason behind it is household deleveraging. Read more in this <a href="http://blogs.marketwatch.com/capitolreport/2014/03/10/the-chart-that-explains-why-the-white-house-expects-the-economy-to-accelerate/">Tell post by Steve Goldstein.</a></p>
+<p>With about 15 minutes to go before the closing bell, the main indexes are on track for losses of 0.1% to 0.3%.</p>
+<p>SPX -0.1%</p>
+<p>Dow -0.3%</p>
+<p>Nasdaq -0.2%</p>
+<p>Investors shouldn’t try to time the stock market with moves in and out, but they also shouldn’t hold all equities and ought to be prepared for a big drop at any time, Vanguard Group founder Jack Bogle said in a CNBC interview on Monday afternoon.</p>
+<p>Read more <a href="http://www.marketwatch.com/story/vanguards-bogle-backs-buy-and-hold-again-2014-03-10?link=MW_home_latest_news">here</a>.</p>
+<p>Photo credit: Bloomberg</p>
+<p>All three main indexes end lower, but not by much…</p>
+<p>S&amp;P 500 down less than 0.1%</p>
+<p>Dow -0.2%</p>
+<p>Nasdaq also down less than 0.1%</p>
+<p>In case you missed it, a worse-than-expected Chinese exports number got most of the blame Monday when it came to explanations for the selling.</p>
+<p>MarketWatch’s Sue Chang explains why this news is important with the adjacent chart.</p>
+<p>Read more <a href="http://blogs.marketwatch.com/thetell/2014/03/10/why-chinas-economy-is-in-trouble-in-one-chart/">here</a>.</p>
+<p>In after-hours action, Urban Outfitters<span class="quotePeekContainer"> <span class="quotepeekbase bgQuote neutral" id="quote9d6727a13d61fe8432967323453cb18739b0f4f4"> <a href="http://marketwatch.com/investing/stock/URBN"> <span class="bgChannel">/quotes/zigman/55244/delayed</span> <span class="bgRealtimeChannel">/quotes/nls/urbn</span> <span class="symbol">URBN</span> </a> </span> </span> was last down after its quarterly earnings report.</p>
+<p>MarketWatch’s After Hours column will be out shortly <a href="http://www.marketwatch.com/column/after-hours">here</a> with details on that retailer’s report and other late action.</p>
+<p>That’s all for this live blog. Thanks for checking it out. Follow today’s live bloggers on Twitter at <a href="https://twitter.com/wmwatts">@wlwatts</a> <a href="https://twitter.com/saumvaish">@saumvaish</a> <a href="https://twitter.com/AnoraJourno">@AnoraJourno</a> <a href="https://twitter.com/vicrek">@vicrek</a> and <a href="https://twitter.com/SueChangMW">@SueChangMW</a></p>
+<p>Photo credit: Urban Outfitters</p>
+<p> </p>
+<p>The Tell is MarketWatch’s fast and engaging look at trends and themes in the day’s markets. Drawing on our reporters, analysts and commentators around the world, as well as selecting the best of the rest online, The Tell is all about the pulse of the markets through news, insight and strategic information to help you make the best investing decisions. Got a tip? Tell us at <a href="mailto:TheTell@MarketWatch.com">TheTell@MarketWatch.com</a></p>
+<p>Follow The Tell on Twitter <a href="http://twitter.com/#!/thetellblog">@thetellblog</a></p>

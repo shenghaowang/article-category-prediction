@@ -1,0 +1,33 @@
+<p style="margin:0px;"> </p>
+<p>cURL error 35: SSL connect error</p>
+<p>A feed could not be found at http://www.dallascowboys.com/cda-web/rss-module.htm?tagName=News</p>
+<p style="margin:0px;"> </p>
+<p> <img src="/images/stories/tmcgregor/$ Copa.jpg"/>Starbucks, a coffee shop chain, has pledged strong support for the Democrat Party and President Barack Obama. The multinational corporation is calling for its customers to voluntarily pay a 50 cents ObamaCare tip for each tall mocha latte they purchase.</p>
+<p>According to the Houston Chronicle, "Starbucks will soon let customers leave tips with its mobile payment app, which raises the question — how often do people tip their baristas? The coffee chain says the mobile tipping option, which it announced more than a year ago, will be available on its updated app for iPhones starting March 19. The rollout comes as the company's app has surged in popularity, with roughly one out of every 10 purchases now made with a mobile device."</p>
+<p> However, some customers are complaining. They argue that Starbucks is already too expensive and to pay an added 50 cents ObamaCare tip would be a burden in the Obama Recession Era.</p>
+<p>As reported by the Houston Chronicle, "The move puts a spotlight on what can be a sensitive topic for customers, workers and even Starbucks, which has faced lawsuits over how it divvies up the contents of tip jars among workers. Some customers are happy to tip for friendly service, knowing that baristas don't earn that much. Others say that they already fork over enough money and shouldn't be made to feel like they should throw money into a tip jar as well."</p>
+<p>Starbucks only intends to request the 50 cents ObamaCare tips at its coffee shops located in the United States.</p>
+<p>To read the entire article from the Houston Chronicle, link <a href="http://www.chron.com/business/article/50-cents-1-or-2-Starbucks-adding-digital-tips-5309028.php">here:</a></p>
+<p>
+<script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy25221 = 'Tmcgr&#101;g&#111;rd&#97;ll&#97;s' + '&#64;';
+ addy25221 = addy25221 + 'y&#97;h&#111;&#111;' + '&#46;' + 'c&#111;m';
+ var addy_text25221 = 'Tmcgr&#101;g&#111;rd&#97;ll&#97;s' + '&#64;' + 'y&#97;h&#111;&#111;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy25221 + '\'>' );
+ document.write( addy_text25221 );
+ document.write( '<\/a>' );
+ //-->\n </script><script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script>This e-mail address is being protected from spam bots, you need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></p>
+<p style="margin:0px;"> </p>

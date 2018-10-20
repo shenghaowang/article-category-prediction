@@ -1,0 +1,11 @@
+<p class="timestamp" id="published-timestamp">Published: <span>Mar 18, 2014 8:30 a.m. ET</span></p>
+<p>By</p>
+<p>WASHINGTON (MarketWatch) - U.S. consumer prices rose a seasonally adjusted 0.1% in February because of higher food and housing costs, the Labor Department said Tuesday. Food prices jumped 0.4% in February - the biggest increase since September 2011 - but they are only up 1.4% over the past year. Energy prices fell 0.5% as lower gasoline costs offset increases in fuel oil and natural gas. The core CPI, which excludes volatile food and energy costs, also rose 0.1%, driven by another increase in housing expenses. Economists surveyed by MarketWatch had expected the overall CPI and core rate to both increase by 0.1%. Consumer prices have risen an unadjusted 1.1% over the past 12 months or by 1.6% on a core basis. Real or inflation-adjusted hourly wages, meanwhile, climbed 0.3% in February to $10.34 . Real wages have risen 1.1% over the past 12 months.</p>
+<p class="figure__summary">Consumer prices in the U.S. rose slightly in February because of higher food and housing costs, but overall inflation remained quiet, according to the latest government figures. The consumer price index increased by a seasonally adjusted 0.1% last month</p>
+<p><em>Have breaking news sent to your inbox. Subscribe to MarketWatch's free Bulletin emails. <a href="/newsletter">Sign up here.</a></em></p>
+<p class="copyright">Copyright © 2018 MarketWatch, Inc.  All rights reserved.</p>
+<p class="text text--terms">
+                By using this site you agree to the <a href="//www.marketwatch.com/support/disclaimer.asp">Terms of Service</a>,
+                <a href="https://www.dowjones.com/privacy-policy/" target="_blank">Privacy Policy</a>, and
+                <a href="https://www.dowjones.com/cookies-policy/" target="_blank">Cookie Policy</a>.
+            </p>

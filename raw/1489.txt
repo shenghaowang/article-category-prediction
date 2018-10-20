@@ -1,0 +1,43 @@
+<p>Assumenda ab reiciendis reiciendis quis. Velit vel beatae tempore assumenda hic voluptatem possimus voluptate. Sint molestiae et molestias aut enim quia.</p>
+<p>Autem perspiciatis molestiae cum. Officia repellat in quis reprehenderit quo ad fuga. Expedita laboriosam aperiam officia similique facere. Voluptas praesentium est omnis libero voluptatem magnam.</p>
+<p>Suspendisse in rutrum tellus. Nulla nisi libero, mattis id diam in, iaculis placerat purus. Integer posuere risus cursus tristique tempus. Ut odio tellus, ullamcorper at sagittis et, tempor ut leo. Quisque ultrices dolor at ultrices facilisis.</p>
+<p>In viverra mollis justo, sed fermentum odio. Mauris ut facilisis risus. Integer et rutrum ex. Suspendisse potenti. Sed maximus nulla non molestie volutpat. Nunc convallis urna facilisis felis maximus accumsan. Cras tempor nisi ut eleifend pretium.</p>
+<p>Mauris porttitor in ex sit amet dictum. Donec aliquet commodo faucibus. Pellentesque commodo elit mauris, ac sagittis erat interdum vitae. Aliquam massa tortor, venenatis in lacus vitae, tempus euismod ipsum. Proin vitae augue pharetra, gravida est sed, dapibus ipsum. Aliquam euismod ipsum ante, ac sodales velit iaculis quis.</p>
+<p>Nesciunt vel quo est ipsum. Vero sunt odit recusandae tempora impedit.</p>
+<p>Sunt sed consequatur quia quae placeat. Eum ea dignissimos sit quis. Autem nulla et est non doloribus soluta ut quos. Voluptatum autem veniam debitis consequuntur.</p>
+<p>Occaecati tempora dolores eaque et aut repellat doloremque ipsam. Impedit excepturi maxime delectus dolores cum ipsa. Ea quod in dicta distinctio eum qui eligendi. Omnis rerum laborum delectus similique assumenda aspernatur esse.</p>
+<p><div class="inline-post clearfix"><div class="see-also byline">See also</div><div class="block-wrap block-wrap-23 block-css-53829 block-wrap-classic elements-design-1 block-ani block-skin-0 tipi-box block-wrap-thumbnail ppl-s-2 ppl-l-3 clearfix" data-id="53829" id="block-wrap-53829"><div class="tipi-row-inner-style clearfix"><div class="tipi-row-inner-box contents"><div class="block block-23 clearfix meta-overlay-0"><article class="tipi-xs-12 clearfix with-fi ani-base tipi-xs-typo split-1 split-design-1 loop-0 preview-thumbnail preview-23 elements-design-1 post-13 post type-post status-publish format-standard has-post-thumbnail category-life"><div class="preview-mini-wrap clearfix"><div class="mask"><a class="mask-img" href="https://www.newsledge.com/the-new-quirks/"><img alt="" class="attachment-zeen-100-66 size-zeen-100-66 wp-post-image" height="66" sizes="(max-width: 100px) 100vw, 100px" src="https://www.newsledge.com/wp-content/uploads/2018/06/zeen-placeholder-100x66.png" srcset="https://www.newsledge.com/wp-content/uploads/2018/06/zeen-placeholder-100x66.png 100w, https://www.newsledge.com/wp-content/uploads/2018/06/zeen-placeholder-800x533.png 800w, https://www.newsledge.com/wp-content/uploads/2018/06/zeen-placeholder-770x513.png 770w, https://www.newsledge.com/wp-content/uploads/2018/06/zeen-placeholder-1160x773.png 1160w, https://www.newsledge.com/wp-content/uploads/2018/06/zeen-placeholder-500x333.png 500w, https://www.newsledge.com/wp-content/uploads/2018/06/zeen-placeholder-370x247.png 370w, https://www.newsledge.com/wp-content/uploads/2018/06/zeen-placeholder-1155x770.png 1155w, https://www.newsledge.com/wp-content/uploads/2018/06/zeen-placeholder-293x195.png 293w, https://www.newsledge.com/wp-content/uploads/2018/06/zeen-placeholder-1400x933.png 1400w, https://www.newsledge.com/wp-content/uploads/2018/06/zeen-placeholder.png 1600w" width="100"/></a></div><div class="meta"><div class="title-wrap"><h3 class="title"><span id="the-new-quirks"><a href="https://www.newsledge.com/the-new-quirks/">The New Quirks</a></span></h3></div><div class="byline byline-3 byline-cats-design-3"><span class="byline-part author"><a class="url fn n" href="https://www.newsledge.com/author/newsledge_admin/">Administrator</a></span><span class="byline-part separator">·</span><div class="byline-part cats"><a class="cat cat-with-line" href="https://www.newsledge.com/lifestyle/style/life/" style="border-bottom-color:#dd9933">Life</a></div><span class="byline-part separator">·</span><span class="byline-part date"><time class="entry-date published dateCreated" datetime="2018-01-25T13:52:05-06:00">January 25, 2018</time></span></div></div></div></article></div></div></div></div></div></p>
+<p>Accusamus veniam aut molestias aperiam delectus. Culpa harum deleniti provident sit exercitationem asperiores ea et. Tenetur ex non cumque nulla. Aperiam qui culpa aspernatur quisquam et eos.</p>
+<p>Ullam harum officia consequatur quisquam. Id occaecati sunt ad enim exercitationem vero omnis dolores. Mollitia sit veritatis et eos dignissimos fugit ut. Sed distinctio enim aperiam tempore sunt.</p>
+<p>Atque est repellendus dolore voluptate at quis iure. Et et consequatur et eaque ut. Velit at qui ullam amet impedit. Numquam vel et est beatae sed quasi odio. Et temporibus molestiae maxime ab nemo. Magni qui laudantium necessitatibus corporis ullam est quia. Odit voluptatem doloribus nihil eveniet cum.
+									</p>
+<p align="left">
+<input name="EMAIL" placeholder="Enter Your E-mail Address" required="" type="email"/>
+</p>
+<p class="zeen-checkbox">
+<label>
+<input name="AGREE_TO_TERMS" required="" type="checkbox" value="1"/>
+<span class="zeen-i"></span>
+</label>
+<a href="https://www.newsledge.com/privacy-policy/" target="_blank">I have read and agree to the terms and conditions</a>
+</p>
+<p align="left">
+<input name="EMAIL" placeholder="Enter Your E-mail Address" required="" type="email">
+</input></p>
+<p class="zeen-checkbox">
+<label>
+<input name="AGREE_TO_TERMS" required="" type="checkbox" value="1"/>
+<span class="zeen-i"></span>
+</label>
+<a href="https://www.newsledge.com/privacy-policy/" target="_blank">I have read and agree to the terms and conditions</a>
+</p>
+<p align="left">
+<input name="EMAIL" placeholder="Enter Your E-mail Address" required="" type="email"/>
+</p>
+<p class="zeen-checkbox">
+<label>
+<input name="AGREE_TO_TERMS" required="" type="checkbox" value="1"/>
+<span class="zeen-i"></span>
+</label>
+<a href="https://www.newsledge.com/privacy-policy/" target="_blank">I have read and agree to the terms and conditions</a>
+</p>

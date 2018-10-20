@@ -1,0 +1,42 @@
+<p>Update March 12, 11 a.m.: Yesterday DigitalGlobe saw an “unprecedented level of web traffic and interest in supporting the search,” and Tomnod said their new satellite “images (were) captured around 10:30am local time.”</p>
+<p>Malaysian authorities expanded the search area for Flight 370 to the Straight of Malacca, one of the “most heavily traveled waterways in the entire world,” a U.S. Navy 7th Fleet spokesman said yesterday.</p>
+<p>—</p>
+<p>At least 250 tons of evidence from Malasyia Flight 370 should be out there somewhere. Two hundred and 39 people, parts of the plane, suitcases, seat cushions that are supposed to float — it just seems that something, even the smallest shred of evidence, must be out there waiting to be spotted.</p>
+<p>At least, that’s the thinking behind the <a href="http://www.digitalglobe.com/" target="_blank">DigitalGlobe</a> effort; the aerial imaging company has fixed their orbiting satellite cameras on the Gulf of Thailand and surrounding regions where the missing Boeing 777 was last tracked.</p>
+<p>The Colorado-based company says crowdsourcing the search is the best solution to finding clues. By making their high-resolution images available to the public, potentially hundreds of thousands of eyes can inspect the search areas and help to look for yet-unspotted traces of the flight.</p>
+<p>“For people who aren’t able to drive a boat through the Pacific Ocean to get to the Malaysian peninsula, or who can’t fly airplanes to look there, this is a way that they can contribute and try to help out,” Luke Barrington, senior manager of Geospatial Big Data for DigitalGlobe, told <a href="http://abcnews.go.com/blogs/headlines/2014/03/crowdsourcing-the-search-for-malaysia-flight-370/" target="_blank">ABC News</a>.</p>
+<p>The images being gathered will be made available for free to the public on a website called <a href="http://www.tomnod.com/nod/challenge/malaysiaairsar2014" target="_blank">Tomnod</a>. Anyone can click on the link and begin searching the images, tagging anything that looks suspicious. Each pixel on a computer screen represents half a meter on the ocean’s surface, Barrington said.</p>
+<p>According to ABC, DigitalGlobe will use a computer algorithm to determine whether users start tagging certain regions more than others. In-house satellite imaging experts will follow up on leads, Barrington said.</p>
+<p>“We’ll say, ‘Here are our top ten suspicious or interesting locations,’” Barrington said. “Is it really an aircraft wing that’s been chopped in half or is this some other debris floating on the ocean? We may not be 100 percent sure, but if this is where I had to go pick a location to go looking for needles in this big haystack, this is where I’d start.”</p>
+<p>DigitalGlobe has used this technique to assess damage after other natural or manmade disasters, including the tornado that leveled the Plaza Elementary School in Moore, Okla., and the devastating damage to Seaside Heights, N.J. after Superstorm Sandy.</p>
+<p>“In many cases the areas are so large or the things are are looking for are so hard to find that without the help of hundreds of thousands of people online we’d never be able to find them,” Barrington said.</p>
+<p><object bgcolor="#FFFFFF" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="394" id="flashObj" width="600"><param name="flashVars" value="videoId=3330378663001&amp;linkBaseURL=http%3A%2F%2Fti.me%2F1kLnGV6&amp;playerID=1917933886001&amp;playerKey=AQ~~,AAAAABGEUMg~,hNlIXLTZFZn-NQOazMchMDWH0SI1hX7f&amp;domain=embed&amp;dynamicStreaming=true"/><param name="base" value="http://admin.brightcove.com"/><param name="seamlesstabbing" value="false"/><param name="allowFullScreen" value="true"/><param name="swLiveConnect" value="true"/><param name="allowScriptAccess" value="always"/><param name="src" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&amp;isUI=1"/><param name="flashvars" value="videoId=3330378663001&amp;linkBaseURL=http%3A%2F%2Fti.me%2F1kLnGV6&amp;playerID=1917933886001&amp;playerKey=AQ~~,AAAAABGEUMg~,hNlIXLTZFZn-NQOazMchMDWH0SI1hX7f&amp;domain=embed&amp;dynamicStreaming=true"/><param name="allowfullscreen" value="true"/><param name="allowscriptaccess" value="always"/><param name="swliveconnect" value="true"/><param name="pluginspage" value="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"/><embed allowfullscreen="true" allowscriptaccess="always" base="http://admin.brightcove.com" bgcolor="#FFFFFF" flashvars="videoId=3330378663001&amp;linkBaseURL=http%3A%2F%2Fti.me%2F1kLnGV6&amp;playerID=1917933886001&amp;playerKey=AQ~~,AAAAABGEUMg~,hNlIXLTZFZn-NQOazMchMDWH0SI1hX7f&amp;domain=embed&amp;dynamicStreaming=true" height="394" id="flashObj" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" seamlesstabbing="false" src="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&amp;isUI=1" swliveconnect="true" type="application/x-shockwave-flash" width="600"/></object></p>
+<p>(H/T: <a href="http://abcnews.go.com/blogs/headlines/2014/03/crowdsourcing-the-search-for-malaysia-flight-370/" target="_blank">ABC News</a>)</p>
+<p>—</p>
+<p><em><strong style="line-height: 1.5em;">Follow Elizabeth Kreft (<a href="https://twitter.com/elizabethakreft" target="_blank">@elizabethakreft</a>) on Twitter</strong></em></p>
+<p><script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-e',
+    container: 'taboola-below-article-thumbnails',
+    placement: 'Below Article Thumbnails',
+    target_type: 'video'
+  });
+</script></p>
+<p><script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({
+    mode: 'thumbnails-f',
+    container: 'taboola-mobile-below-article-thumbnails',
+    placement: 'Mobile Below Article Thumbnails',
+    target_type: 'mix'
+  });
+</script></p>
+<p class="bigger">Approved posts to MyVoice will be live on the site within a few hours. MyVoice is for posting intelligent, engaging, entertaining and thought-provoking commentary and stories, so following these guidelines will help get your post prioritized and noticed.</p>
+<p class="bigger">Moderators assign strikes for violations of our comment policy. Strikes will disappear automatically in 24 hours, provided you have no further violations. However, if you earn three strikes within 24 hours, your account will be temporary suspended.</p>
+<p class="bigger">Please email <a href="mailto:moderation@theblaze.com">moderation@theblaze.com</a> to let us know you would like it removed.</p>
+<p class="bigger">If you notice something is not working as expected, please email us at <a href="mailto:moderation@theblaze.com">moderation@theblaze.com</a>.</p>
+<p class="bigger">You can report offending posts by clicking on the little flag icon below every post. This will automatically inform our moderators. If you spot a troublemaker, you can also email us at <a href="mailto:moderation@theblaze.com">moderation@theblaze.com</a>.</p>
+<p>Speak your mind. Please be respectful of our rules and community. No spam, abuse, obscenities, off-topic comments, racial or ethnic slurs, threats, hate, comments that incite violence or excessive use of flagging permitted.</p>
+<p class="mb10">Please be respectful of our community and spread some love. Any of the following may result in a permanent ban:</p>
+<p class="small">For more information, please see our <a href="/terms" target="_blank">Terms of Use.</a> Now, go have fun and speak your mind!</p>

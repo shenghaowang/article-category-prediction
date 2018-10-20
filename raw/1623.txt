@@ -1,0 +1,40 @@
+<p class="byline__author" id="byline__author">
+    
+        
+            By <a href="http://connect.syracuse.com/staff/jmulder/posts.html" id="byline__authorLink" title="Visit James T. Mulder's Author Page">James T. Mulder</a></p>
+<p class="byline__authorEmail" id="byline__authorEmail"><a href="mailto:jmulder@syracuse.com" id="byline__authorEmailLink" title="Email James T. Mulder">jmulder@syracuse.com</a>,</p>
+<p class="byline__authorAffiliation" id="byline__authorAffiliation">syracuse.com</p>
+<p>Syracuse, N.Y. -- Obamacare has injected a big dose of competition into New York's individual health insurance market, according to a <a href="http://kff.org/health-reform/issue-brief/sizing-up-exchange-market-competition/">report </a>released today by the Kaiser Family Foundation.</p>
+<p>The analysis by the health policy group provides a first glimpse at the shifts in the competitive landscape in New York and six other states that have released insurer-specific enrollment data.</p>
+<p>The analysis shows New York's individual insurance market today is significantly more competitive today than it was in 2012 before the state created a health insurance exchange as part of Obamacare. It gauged competitiveness by looking at the market share of the largest insurer, the number of insurers with at least 5 percent market shares and how evenly market share is distributed across insurers.<br/>
+<br/>
+New York's exchange market is the most competitive of the seven states analyzed.</p>
+<p><br/>
+Sixteen companies are offering individual health insurance policies through the exchange. Seven of them have market shares greater than 5 percent. Of the 16 companies participating in the exchange, 11 offered individual coverage in the state before Obamacare.</p>
+<p>Wellpoint, which includes Empire BlueCross BlueShield, is New York's biggest player in the individual insurance market. It controlled 28 percent of the market in 2012. Its market share is now 18 percent.</p>
+<p>Excellus BlueCross BlueShield, the dominant insurer in Central New York, controlled 15 percent of the state's individual market in 2012. Its market share has declined to 6 percent.</p>
+<p>UnitedHealth had a 20 percent market share in 2012. Its market share has dwindled to 2 percent, because its prices are relatively high compared to competitors, according to the report.</p>
+<p>Health Republic, a new insurer started by the Freelancers Union that offers some of the lowest rates in the state, has captured 16 percent of the market.</p>
+<p>Several smaller insurers have picked up market share. MVP Health Care, for example, has seen its market share grow to 10 percent, up from 2 percent before the advent of the health insurance exchange.  </p>
+<p><em>You can contact health writer James T. Mulder at jmulder@syracuse.com or (315) 470-2245. Follow him on Twitter @JamesTMulder</em></p>
+<p>
+            Use of and/or registration on any portion of this site constitutes acceptance of our
+            <a href="http://www.syracuse.com/user-agreement/s">User Agreement</a> (updated 5/25/18) and
+            <a href="https://www.syracuse.com/privacy-policy/">Privacy Policy and Cookie Statement</a> (updated 5/25/18).
+        </p>
+<p>
+            © 2018  Advance Local Media LLC. All rights reserved (<a href="https://www.syracuse.com/aboutus/">About Us</a>).<br/>
+            The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the 
+            prior written permission of Advance Local.
+        </p>
+<p>
+<a href="https://www.syracuse.com/communityrules">Community Rules</a>
+            apply to all content you upload or otherwise submit to this site.
+        </p>
+<p>
+<a href="/privacy-policy/#california_top">Your California Privacy Rights</a>
+</p>
+<p>
+<a href="https://www.syracuse.com/privacy-policy/#oba_top">
+<img alt="" src="//static.advance.net/static/common/img/ad_choices_arrow_transparent.png"/> Ad Choices</a>
+</p>

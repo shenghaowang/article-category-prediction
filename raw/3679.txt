@@ -1,0 +1,22 @@
+<p class="text">See new home builder inventory in Las Vegas</p>
+<p class="text-center"><a class="link" href="https://www.reviewjournal.com/homes/">HOMES</a></p>
+<p class="text">Explore life stories, offer condolences &amp; send flowers.</p>
+<p class="text-center"><a class="link" href="http://obits.reviewjournal.com/obituaries/lvrj/" target="_blank">OBITUARIES</a></p>
+<p class="text">Buy, Sell or just browse to see what's for sale</p>
+<p class="text-center"><a class="link" href="http://classifieds.reviewjournal.com/" target="_blank">CLASSIFIEDS</a></p>
+<p class="text">Your best source of local jobs and career training</p>
+<p class="text-center"><a class="link" href="https://jobs.reviewjournal.com/">JOBS</a></p>
+<p class="text">Read the latest auto and dealer news</p>
+<p class="text-center"><a class="link" href="https://www.reviewjournal.com/autos/">AUTOS</a></p>
+<p class="text">See new home builder inventory in Las Vegas</p>
+<p class="link">HOMES</p>
+<p class="text">Explore life stories, offer condolences &amp; send flowers.</p>
+<p class="link">OBITUARIES</p>
+<p class="text">Buy, Sell or just browse to see what's for sale</p>
+<p class="link">CLASSIFIEDS</p>
+<p class="text">Your best source of local jobs and career training</p>
+<p class="link">JOBS</p>
+<p class="text">Read the latest auto and dealer news</p>
+<p class="link">AUTOS</p>
+<p>Copyright © 2018 <a href="https://www.reviewjournal.com/">Las Vegas Review-Journal, Inc.</a> | <a href="https://www.reviewjournal.com/privacy">Privacy policy</a></p>
+<p>Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit&amp;utm_term=www.reviewjournal.com" rel="generator" target="_blank">WordPress.com VIP</a></p>

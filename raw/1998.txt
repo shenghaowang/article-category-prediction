@@ -1,0 +1,22 @@
+<p class="author">Reuters</p>
+<p class="stuff">
+<time>Monday, March 17, 2014 16:06</time>
+<a class="sendmail" href="javascript:void(0);"><i class="sprite spr-article-envelope"></i>Email</a>
+<a class="sendprint" href="javascript:void(0);"><i class="sprite spr-article-print"></i>Print</a>
+</p>
+<p style="margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px;"><span style="font-size: 10px; color: #666666;">Chinese banknotes are seen at a vendor's cash box at a market in Beijing February 14, 2014. Photo: Reuters</span></p>
+<p class="thumbnail"><a href="/world/britains-libya-intervention-flawed-expm-cameron-to-blame-lawmakers-66000.html" title="Britain's Libya intervention flawed, ex-PM Cameron to blame: lawmakers"><img alt="British soldiers stand guard during the visit of defence secretary Liam Fox at Misrata airport 200km (124.2 miles) east of Tripoli in this file October 8, 2011 photo. " height="113" src="http://static.thanhniennews.com/Uploaded/thevinh/2016_09_14/libya_QJGE.jpeg?width=200&amp;height=113&amp;crop=auto&amp;scale=both" width="200"/></a></p>
+<p class="thumbnail"><a href="/world/record-new-us-military-aid-deal-for-israel-to-be-signed-in-days-sources-66001.html" title="Record new U.S. military aid deal for Israel to be signed in days: sources"><img alt="U.S. President Barack Obama meets with Israeli Prime Minister Benjamin Netanyahu in the Oval office of the White House in Washington November 9, 2015." height="53" src="http://static.thanhniennews.com/Uploaded/thevinh/2016_09_14/israel_XGLO.jpeg?width=89&amp;height=53&amp;crop=auto&amp;scale=both" width="89"/></a></p>
+<p class="thumbnail"><a href="/world/china-issues-highest-typhoon-alert-as-meranti-makes-landfall-66007.html" title="China issues highest typhoon alert as Meranti makes landfall"><img alt="Monster waves off the coast of Fuqing in China's Fujian Province on Sept. 14. Photographer: Xinhua/Wei Peiquan via Getty Images" height="53" src="http://static.thanhniennews.com/Uploaded/thevinh/2016_09_15/torm1_IBLF.jpg?width=89&amp;height=53&amp;crop=auto&amp;scale=both" width="89"/></a></p>
+<p> <a href="https://www.facebook.com/NewsVietnam" rel="nofollow" target="_blank"><i class="sprite spr-facebook"></i></a> <span><i class="sprite spr-line"></i></span> <a href="https://twitter.com/News_Vietnam" rel="nofollow" target="_blank"><i class="sprite spr-twitter"></i></a> <span><i class="sprite spr-line"></i></span> <a href="https://plus.google.com/118352907537293448047/posts" rel="nofollow" target="_blank"><i class="sprite spr-glus"></i></a> <span><i class="sprite spr-line"></i></span> <a href="https://www.youtube.com/user/Vietweek" rel="nofollow" target="_blank"><i class="sprite spr-youtube"></i></a> <span><i class="sprite spr-line"></i></span> <a href="/rss.html" target="_blank"><i class="sprite spr-rss"></i></a> </p>
+<p class="see-more"><a href="/world/hot.html">More</a></p>
+<p class="see-more"><a href="/world/photo.html">More</a></p>
+<p class="see-more"><a href="/world/video.html">More</a></p>
+<p>
+<a href="/about/thank-you-readers-contributors-and-friends-65987.html" title="Thank you readers, contributors and friends!">Thank you readers, contributors and friends!</a><a href="/about/thanh-nien-newspaper-conferred-with-1stclass-labor-order-57515.html" title="Thanh Nien Newspaper conferred with 1st-class Labor Order">Thanh Nien Newspaper conferred with 1st-class Labor Order</a><a href="/about/advertise-with-us-27722.html" title="Advertise with us">Advertise with us</a>
+</p>
+<p class="powerby">
+<span>Powered by</span>
+<a href="http://www.baomoi.com/" target="_blank">
+<img alt="epi" height="43" src="http://static.thanhniennews.com/App_Themes/Images/epi-logo.jpg" width="60"/></a>
+</p>

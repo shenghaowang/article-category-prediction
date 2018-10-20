@@ -1,0 +1,42 @@
+<p class="e-fieldset-hint"></p>
+<p class="e-fieldset-hint"></p>
+<p class="e-welcome-text">Get the news you need
+to know on the go.</p>
+<p class="e-note m-top" js-note=""></p>
+<p class="e-note m-middle" js-note=""></p>
+<p class="e-copyright">
+      © 2018 <a class="e-corp-site-link" href="//dailyvoice.com">Cantata Media</a>
+</p>
+<p>
+ FAIRFIELD COUNTY, Conn. - A Metro-North worker was killed early Monday after being struck by a train on the Harlem Line in New York City, according to a report in the New York Daily News.
+</p>
+<p>
+ The worker was working on the elevated tracks along Park Avenue at East 106th Street when he was struck, the paper reported.
+</p>
+<p>
+ The National Transportation Safety Board has opened an investigation into the accident, with a team of three investigators en route to New York City, it announced via Twitter.
+</p>
+<p>
+ The Hudson Line train departed Grand Central Terminal at 12:47 a.m. en route to Poughkeepsie, the paper reported.
+</p>
+<p>
+ “I send my condolences to the friends, family, and colleagues of the Metro North worker killed early this morning as he repaired a track in East Harlem," said U.S. Rep. Jim Himes, D-Conn. "The safety problems at Metro North are a matter of life and death, for both passengers and employees, and the culture that allows these frequent mistakes cannot continue.  I spent my morning meeting with commuters at the train station. They are frustrated and worried. I am eager to see Metro North’s new leadership bring the change necessary to make this essential transportation system safe and reliable.”
+</p>
+<p>
+ Read the full story
+ <a href="http://www.nydailynews.com/new-york/metro-north-worker-dead-struck-train-harlem-article-1.1716425" target="_blank">
+  here
+ </a>
+ at the New York Daily News website.
+</p>
+<p class="m-cordova-hide"><a class="e-email-signup" js-detail-sign-up="">Click here</a> to sign up for Daily Voice's free daily emails and news alerts.</p>
+<p class="e-welcome-text">Welcome to</p>
+<p class="e-get-news">Get the news you need
+  to know on the go.</p>
+<p class="e-note" js-note=""></p>
+<p class="e-welcome-text">Welcome to</p>
+<p class="e-footnote m-no-town" js-drawer-footnote="">
+          Hi! You've read our articles so we know you like our reporting.
+          To keep reading please join our mailing list.
+        </p>
+<p class="e-fieldset-hint"></p>

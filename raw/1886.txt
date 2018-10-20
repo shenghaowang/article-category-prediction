@@ -1,0 +1,49 @@
+<p>
+	Following the market opening Tuesday, the Dow traded up 0.41 percent to 16,314.29 while the NASDAQ surged 0.51 percent to 4,301.92. The S&amp;P also rose, gaining 0.40 percent to 1,866.23.</p>
+<p>
+<b>Leading and Lagging Sectors</b><br/>
+	In trading on Tuesday, healthcare shares were relative leaders, up on the day by about 0.67 percent. Among the leading sector stocks, gains came from Flamel Technologies SA (NASDAQ: <a class="ticker" href="/stock/flml#NASDAQ">FLML</a>), Pernix Therapeutics Holdings (NASDAQ: <a class="ticker" href="/stock/ptx#NASDAQ">PTX</a>) and Thoratec (NASDAQ: <a class="ticker" href="/stock/thor#NASDAQ">THOR</a>). Basic materials sector was the leading decliner in the US market today. Top decliners in the sector included James Hardie Industries plc (NYSE: <a class="ticker" href="/stock/jhx#NYSE">JHX</a>), off 3.2 percent, and McEwen Mining (NYSE: <a class="ticker" href="/stock/mux#NYSE">MUX</a>), down around 3 percent.</p>
+<p>
+<b>Top Headline</b><br/>
+	Hertz Global Holdings (NYSE: <a class="ticker" href="/stock/htz#NYSE">HTZ</a>) reported <a href="http://www.benzinga.com/news/earnings/14/03/4398289/update-hertz-global-posts-downbeat-q4-earnings-plans-to-spin-off-equipme"> downbeat fourth-quarter earnings </a> and announced its plans to spin off its equipment rental business into a separate company. Hertz posted a quarterly loss of $600,000, or $0.00 per share, versus a year-ago loss of $36.8 million, or $0.09 per share. Excluding special items, it earned $0.26 per share. Its revenue surged 10% to $2.56 billion versus $2.32 billion. However, analysts were projecting earnings of $0.32 per share on revenue of $2.61 billion. Hertz expects 2014 earnings of $1.70 to $2 per share, on revenue of $11.4 billion to $11.7 billion. However, analysts expected earnings of $2.07 per share on revenue of $11.6 billion.</p>
+<p>
+<b>Equities Trading UP</b><br/>
+	FutureFuel (NYSE: <a class="ticker" href="/stock/ff#NYSE">FF</a>) shares shot up 19.36 percent to $20.96 after the company reported a rise in its fourth-quarter earnings. FutureFuel posted its quarterly profit of $0.61 per share, versus a year-ago profit of $0.15 per share.</p>
+<p>
+	Shares of Yandex NV (NASDAQ: <a class="ticker" href="/stock/yndx#NASDAQ">YNDX</a>) got a boost, shooting up 4.95 percent to $31.50 after the company reported that it has purchased Israeli startup KitLocate.</p>
+<p>
+	FactSet Research Systems (NYSE: <a class="ticker" href="/stock/fds#NYSE">FDS</a>) was also up, gaining 8.20 percent to $113.11 after the company reported quarterly results. FactSet Research reported its Q2 earnings of $1.22 per share, versus analysts' estimates of $1.20 per share.</p>
+<p>
+<b>Equities Trading DOWN</b><br/>
+	Shares of GameStop (NYSE: <a class="ticker" href="/stock/gme#NYSE">GME</a>) were down 4.65 percent to $37.90 as Walmart (NYSE: <a class="ticker" href="/stock/wmt#NYSE">WMT</a>) announced its <a href="http://www.benzinga.com/news/14/03/4397770/walmart-to-accept-video-game-trade-ins"> plans to begin accepting </a> video game trade-ins.</p>
+<p>
+	YY (NASDAQ: <a class="ticker" href="/stock/yy#NASDAQ">YY</a>) shares tumbled 2.18 percent to $79.71 after the company announced a <a href="http://www.benzinga.com/news/14/03/4396399/yy-inc-announces-proposed-offering-of-us-400m-convertible-senior-notes"> proposed offering </a> of $400 million convertible senior notes.</p>
+<p>
+	Shutterfly (NASDAQ: <a class="ticker" href="/stock/sfly#NASDAQ">SFLY</a>) was down, falling 5.91 percent to $47.45 after Cowen &amp; Company downgraded the stock from Outperform to Underperform and cut the price target from $57.00 to $39.00.</p>
+<p>
+<b>Commodities</b><br/>
+	In commodity news, <a href="http://www.benzinga.com/news/14/03/4397574/bargain-hunters-boost-brent-prices"> oil traded up 0.23 percent </a> to $98.31, while gold traded down 1.52 percent to $1,352.10.</p>
+<p>
+	Silver traded down 2.70 percent Tuesday to $20.70, while copper fell 0.17 percent to $2.95.</p>
+<p>
+<b>Eurozone</b><br/>
+	European shares <a href="http://www.benzinga.com/news/14/03/4397584/euro-holds-on-ahead-of-fed-meeting"> were higher </a> today.</p>
+<p>
+	The Spanish Ibex Index rose 0.83 percent, while Italy's FTSE MIB Index surged 1.46 percent.</p>
+<p>
+	Meanwhile, the German DAX jumped 0.75 percent and the French CAC 40 climbed 0.98 percent while U.K. shares rose 0.34 percent.</p>
+<p>
+<b>Economics</b><br/>
+	The ICSC-Goldman same-store sales index gained 0.7% in the week ended Saturday versus the earlier week.</p>
+<p>
+	Construction on new houses declined 0.2% to an annual rate of 907,000 in February, versus a revised 909,000 in January. However, economists were projecting starts to reach to 908,000.</p>
+<p>
+	US consumer prices climbed 0.1% in February, while the core CPI increased 0.1%. However, economists were projecting the overall CPI and core index to both rise by 0.1%.</p>
+<p>
+	The Johnson Redbook Retail Sales Index fell 0.5% in the first two weeks of March versus February.</p>
+<p>
+	The Federal Open Market Committee begins its 2-day policy meeting today.</p>
+<p>
+	The Treasury is set to auction 4-week bills.</p>
+<p class="article-taxonomy-bottom"><strong>Posted-In:</strong> <a href="/news/earnings">Earnings</a> <a href="/news">News</a> <a href="/news/guidance">Guidance</a> <a href="/markets/eurozone">Eurozone</a> <a href="/markets/futures">Futures</a> <a href="/markets/forex">Forex</a> <a href="/news/global">Global</a> <a href="/news/econ-s">Econ #s</a></p>
+<p class="copyright"><i>© 2018 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.</i></p>

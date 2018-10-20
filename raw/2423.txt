@@ -1,0 +1,254 @@
+<p align="center"> <b><font color="#328828" face="Arial" size="6">Finfacts 
+Business News Centre</font></b></p>
+<p align="center"><b>
+<font color="#FF9933" face="Arial" size="2">RSS FEED</font></b></p>
+<p align="center">
+<a href="http://www.finfacts.ie/irelandbusinessnews/rss.xml" target="_blank">
+<img border="0" height="14" src="http://www.finfacts.ie/images/xml.gif" width="36"/></a><br align="center"/>
+<a href="http://www.finfacts.ie/rssireland.htm" style="font-family: Arial">
+<font color="#000000" size="2">How to use our RSS feed</font></a><p align="center"><a href="http://www.twitter.com/Finfacts"><img alt="Follow Finfacts on Twitter" src="http://twitter-badges.s3.amazonaws.com/twitter-a.png"/></a>
+</p></p>
+<p align="center"><a href="http://www.twitter.com/Finfacts"><img alt="Follow Finfacts on Twitter" src="http://twitter-badges.s3.amazonaws.com/twitter-a.png"/></a>
+</p>
+<p align="left"><b><font color="#008000" face="Arial" size="1">See Search Box 
+lower down this column for searches of Finfacts news pages. Where there may be 
+the odd special character missing from an older page, it's a problem that 
+developed when Interactive Tools upgraded to a new content management system. </font></b></p>
+<p align="center"><b>
+<font color="#328828" face="Arial" size="2">Welcome</font><font face="Arial" size="2"> </font></b>
+</p>
+<p align="left"><b><font color="#008000" face="Arial" size="1">
+Finfacts is Ireland's leading business information site and 
+you are in its business news section.
+</font>
+</b>
+</p>
+<p align="center"><b>
+<font color="#328828" face="Arial" size="2">Links</font></b></p>
+<p align="left"><font face="Tunga" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/></font><a href="http://www.finfacts.ie/"><font face="Arial" size="1">Finfacts Homepage</font></a></p>
+<p align="left"><font face="Tunga" size="1">
+<img height="9" src="/img/green_arrow_small.png" width="11"/></font><font face="Arial" size="1"><a href="http://www.finfacts.ie/irishshareprices.htm" target="_blank">Irish 
+Share Prices</a></font></p>
+<p align="left"><font face="Tunga" size="1">
+<img height="9" src="/img/green_arrow_small.png" width="11"/></font><font face="Arial" size="1"><a href="http://www.finfacts.ie/Private/dbn/dbn.htm" target="_blank">Euribor 
+Daily Rates</a></font></p>
+<p align="left"><font face="Tunga" size="1">
+<img height="9" src="/img/green_arrow_small.png" width="11"/></font><font face="Arial" size="1"><a href="http://www.finfacts.ie/irecon.htm" target="_blank">Irish 
+Economy</a></font></p>
+<p align="left"><font face="Tunga" size="1">
+<img height="9" src="/img/green_arrow_small.png" width="11"/></font><font face="Arial" size="1"><a href="http://www.finfacts.ie/biz10/globalworldincomepercapita.htm" target="_blank">Global 
+Income Per Capita</a></font></p>
+<p align="left"><font face="Tunga" size="1">
+<img height="9" src="/img/green_arrow_small.png" width="11"/></font><font face="Arial" size="1"><a href="http://www.finfacts.ie/costofliving.htm" target="_blank">Global 
+Cost of Living</a></font></p>
+<p align="left"><font face="Tunga" size="1">
+<img height="9" src="/img/green_arrow_small.png" width="11"/></font><font face="Arial" size="1"><a href="http://www.finfacts.ie/fincentre/taxfacts.htm
+" target="_blank">Irish Tax - Income/Corporate</a></font></p>
+<p align="left"><b>
+<font color="#CCCCCC" face="Arial" size="2">Global News</font></b></p>
+<p align="left"><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/></font><a href="http://www.finfacts.ie/busbloomberg.htm" target="_blank"><font face="Arial" size="1">Bloomberg News</font></a></p>
+<p align="left"><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/></font><a href="http://www.finfacts.ie/Private/dbn/cnnrep.htm" target="_blank"><font face="Arial" size="1">CNN Money</font></a></p>
+<p align="left"><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/></font><a href="http://www.finfacts.ie/Private/dbn/cnetnews.htm" target="_blank"><font face="Arial" size="1">Cnet Tech News</font></a></p>
+<p align="left"><b>
+<font color="#CCCCCC" face="Arial" size="2">Newspapers</font></b></p>
+<p><font face="Tunga" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/></font><font face="Arial" size="1"><a href="http://www.finfacts.ie/news/indo.htm" target="_blank">Irish 
+Independent</a></font></p>
+<p><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/><a href="http://www.finfacts.ie/news/irelandbusinessnews.htm" target="_blank">Irish 
+Times</a></font></p>
+<p><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/><a href="http://www.finfacts.ie/news/examiner.htm" target="_blank">Irish 
+Examiner</a></font></p>
+<p><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/><a href="http://www.finfacts.ie/news/finhome.htm" target="_blank">New 
+York Times</a></font></p>
+<p><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/><a href="http://www.finfacts.ie/ft.htm" target="_blank">Financial 
+Times</a></font></p>
+<p><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/><a href="http://www.finfacts.ie/Private/cib/tech3.htm" target="_blank">Technology 
+News</a></font></p>
+<p> </p>
+<p><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/><a href="mailto:finfacts@finfacts.ie">Feedback</a></font></p>
+<p> </p>
+<p>
+<span style="font-family: Arial; font-size: 10pt;">Recovery is under way in the world’s advanced economies, underpinned by 
+supportive financial conditions and reduced drag from budgetary tightening, but 
+activity in the major emerging markets is mixed, according to the 
+<a href="http://www.oecd.org/eco/outlook/economicoutlook.htm" target="_blank">OECD’s 
+latest Interim Economic Assessment</a>.</span></p>
+<p>
+<span style="font-family: Arial; font-size: 10pt;">The Paris-based think-tank for 34 mainly developed 
+country governments says taht the recovery is advancing well in the United States and the United Kingdom, but 
+proceeding more unevenly in Japan and still lagging behind in the Eurozone. A 
+series of one-off factors – severe winter weather in North America and 
+anticipation of an April 1<sup>st </sup>rise in Japanese 
+consumption tax – have led to an uneven pace of growth. </span></p>
+<p>
+<span style="font-family: Arial; font-size: 10pt;">Some major emerging economies continue growing at a fast pace, including China, 
+but others have lost momentum. Tighter financial conditions are compounding the 
+growth slowdown in emerging economies.</span></p>
+<p>
+<span style="font-family: Arial; font-size: 10pt;">The OECD projects that the US will grow at an annualised rate of 3.1% in 
+the second quarter of 2014, after first quarter activity was affected adversely 
+by exceptionally cold weather. Extreme weather also impacted Canada, which is 
+expected to experience similarly uneven growth in the first quarter, followed by 
+a bounce back in the second quarter that should push the growth rate up to 2.4%.  </span></p>
+<p>
+<span style="font-family: Arial; font-size: 10pt;">In Japan, planned fiscal consolidation is projected to cut into near-term 
+growth. Implementation of a higher consumption tax rate is expected to result in 
+a surge in activity in the current quarter, as consumers bring forward 
+purchases, pushing growth up to an annualised rate of 4.8%. This will be 
+counterbalanced by a contraction of activity in the second quarter before a more 
+normal pattern of recovery gets back on track.</span></p>
+<p>
+<span style="font-family: Arial; font-size: 10pt;">The UK is projected to grow at annualised rates above 3% in the first and 
+second quarters, but <span style="font-weight: bold;">the Eurozone’s growth rate - while improving - still lags 
+that of other advanced economies</span>.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">Wide disparities are still seen in Europe, where the three largest economies 
+(Germany, France and Italy) will grow at a combined weighted average of 1.9% rate in the first quarter and a 1.4% pace in the second. Germany 
+is forecast to grow by about 3.7% annualised in the first quarter and 2.5% in the second quarter, while the French economy’s annualised growth rate 
+will hover around 1% and Italy’s will remain below 1% for each of 
+the first two quarters. </span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">The OECD says short-term indicators signal that activity is regaining strength, and  
+exports are expected to be the main source of growth in the years ahead, 
+notwithstanding the expiry of some drug patents. High debts continue to 
+constrain households’ and firms’ spending, although the housing market 
+is showing the first signs of stabilisation. Inflationary pressures are 
+expected to remain weak.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">The think-tank says rising non-performing loans are weakening banks and SMEs 
+continue to experience difficulties in accessing credit. Lending conditions 
+remain among the tightest in Europe. The strategy set out by the Central 
+Bank of Ireland, including quarterly quantitative targets for dealing with 
+mortgage arrears, should be fully implemented to foster on-going balance 
+sheet adjustments and improve credit supply.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">The export-led recovery is expected to gather strength in 2014 and 
+2015 in line with the projected pick-up in Europe. Domestic demand will 
+gradually recover as the labour market improves.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">GDP is expected to rose 1.9% in 2014 and 2.2% in 2015.</span></p>
+<p>
+<font color="#328828" face="Arial" size="2"><b>Related Articles</b></font>
+<br/>
+<!DOCTYPE doctype html>
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Related Articles</title>
+<base target="_parent"/>
+<link href="/artman/styles.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028978.shtml">Japan's trade deficit widens and GDP falls despite 33% yen devaluation</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028977.shtml">Spain's strong recovery to slow in the next few years</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028969.shtml">Euro Area GDP grows at weak 0.3% in Q2 2015</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028968.shtml">German GDP up 0.4% in Q2 2015; France's GDP stagnates</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028959.shtml">Stable growth momentum in OECD area but slowing expected in China</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028946.shtml">Fact and Fiction: Time to review Ireland's economic statistics?</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028941.shtml">US economy grew at weak pace in Q2 2015 - Worst expansion since 1945</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028940.shtml">Irish Economy: Fall in GNP in Q1 2015; GDP rises</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028939.shtml">Irish Economy 2015: Central Bank lauds strong recovery; Time to start paying down debt</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028882.shtml">Developing countries facing “structural slowdown” likely to last for years</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028880.shtml">Irish Economy 2015: ESRI slams return to boom-time pro-cyclical fiscal policy</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028869.shtml">Ireland: Fiscal Council warns of dodgy forecasts, no plan; OECD warns of new property bubble</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028868.shtml">US and world economies slowing in 2015 — OECD</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028865.shtml">No simple measure of economic progress in Ireland: GDP &amp; GNP defective</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028864.shtml">German 2015 GDP forecast cut; Jobless level at 24-year low</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028859.shtml">US economy stumbles again in 2015</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028850.shtml">ESRI says data volatility hinders Irish economic forecasting; Tax avoidance taboo cause</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028849.shtml">Ireland at 16 in international competitiveness ranking; US, Singapore and Hong Kong on top</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028845.shtml">GDP growth in OECD area slowed to 0.3% in the first quarter of 2015</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028840.shtml">Fed minutes raise doubts about fragility of US recovery</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028832.shtml">Eurozone grows faster than US and UK in Q1 2015</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028830.shtml">German GDP at slower pace, France faster in Q1 2015</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028829.shtml">Asia accounts for 40% of global output, two-thirds of global growth</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028814.shtml">Global growth slows and manufacturing dips to 21-month low</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028807.shtml">US economic growth plunged in Q1 2015</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028788.shtml">Nine of world's 20 fastest growing economies in Africa</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028786.shtml">China's growth in 2015 at slowest since early 2009</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028783.shtml">Global growth prospects uneven across major economies says IMF</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028781.shtml">Ireland: Spring Statement - Ibec seeks income tax cuts; higher public spending</a></span><br/>
+</div>
+<div style="padding-bottom: 7px;">
+<span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1028777.shtml">Emerging markets growth lowest since 2009; Global growth at 30-year average</a></span><br/>
+</div>
+</body>
+</html>
+</p>
+<p align="left"><b>
+<font color="#328828" face="Arial" size="2">Bookmark 
+with:
+</font></b></p>
+<p align="right"><b>
+<font color="#328828" face="Arial" size="2">
+<a href="http://www.finfacts.ie/socialbookmarks.htm" target="_blank">
+<font color="#328828">What are these?</font></a>
+</font></b></p>
+<p class="article_text">© Copyright 2011 by Finfacts.com<br/><br/>
+<a href="#top">Top of Page</a><br/><br/>
+</p>
+<p align="center">
+<style>
+.finbeta1 { width: 120px; height: 400px; }
+</style>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- FinBeta1 -->
+<ins class="adsbygoogle finbeta1" data-ad-client="ca-pub-2037308292460912" data-ad-slot="9556076162" style="display:inline-block"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</p>
+<p>
+</p>

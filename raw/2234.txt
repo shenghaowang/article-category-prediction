@@ -1,0 +1,23 @@
+<p>
+</p>
+<p><span class="img-caption">
+						Mark Karpeles (L), chief executive of Mt. Gox, attends a news conference at the Tokyo District Court in Tokyo Feb. 28, 2014. (REUTERS)</span>
+<span class="img-author">
+<span itemprop="creator">REUTERS</span> </span>
+</p>
+<p><p>Mt. Gox, a leading bitcoin exchange that late last month filed for bankruptcy protection, updated its website on Tuesday to allow customers to log in and verify their wallet, or account, balance.</p><p>The website, which went blank just over three weeks ago,  had previously posted occasional updates on Mt. Gox’s civil rehabilitation process – a legal procedure that may allow Mt. Gox to rebuild and pay back some of its creditors – as well as a warning that some spam or phishing emails purporting to be from the exchange were in circulation.</p><p>Mt. Gox filed for bankruptcy protection in Japan on Feb. 28, saying it may have lost 850,000 bitcoins – worth around $520 million US at current prices – to hackers. It has since gone through a similar process in the United States.</p><p>A spokesperson reached via a helpline for Mt. Gox creditors confirmed that Mt. Gox set up the log-in, based on the last available data from the exchange’s servers before they shut down.</p><p> </p><p>Leaked information from various hacking attacks on Mt. Gox servers and CEO Mark Karpeles’ personal blog and Reddit account have been released in recent weeks, and one file purporting to be the company’s internal database contained malware that could steal bitcoins once downloaded.</p><p>Besides the log-in option, the Mt. Gox homepage carried a statement in English and Japanese saying: "Please be aware that confirming the balance on this site does not constitute a filing of rehabilitation claims under the civil rehabilitation procedure and note that the balance amounts shown on this site should also not be considered an acknowledgment by Mt. Gox of the amount of any rehabilitation claims of users."</p><p> </p></p>
+<p>Mt. Gox, a leading bitcoin exchange that late last month filed for bankruptcy protection, updated its website on Tuesday to allow customers to log in and verify their wallet, or account, balance.</p>
+<p>The website, which went blank just over three weeks ago,  had previously posted occasional updates on Mt. Gox’s civil rehabilitation process – a legal procedure that may allow Mt. Gox to rebuild and pay back some of its creditors – as well as a warning that some spam or phishing emails purporting to be from the exchange were in circulation.</p>
+<p>Mt. Gox filed for bankruptcy protection in Japan on Feb. 28, saying it may have lost 850,000 bitcoins – worth around $520 million US at current prices – to hackers. It has since gone through a similar process in the United States.</p>
+<p>A spokesperson reached via a helpline for Mt. Gox creditors confirmed that Mt. Gox set up the log-in, based on the last available data from the exchange’s servers before they shut down.</p>
+<p> </p>
+<p>Leaked information from various hacking attacks on Mt. Gox servers and CEO Mark Karpeles’ personal blog and Reddit account have been released in recent weeks, and one file purporting to be the company’s internal database contained malware that could steal bitcoins once downloaded.</p>
+<p>Besides the log-in option, the Mt. Gox homepage carried a statement in English and Japanese saying: "Please be aware that confirming the balance on this site does not constitute a filing of rehabilitation claims under the civil rehabilitation procedure and note that the balance amounts shown on this site should also not be considered an acknowledgment by Mt. Gox of the amount of any rehabilitation claims of users."</p>
+<p> </p>
+<p><span id="pm_weather_temp"></span></p>
+<p><span id="pm_weather_real"></span></p>
+<p><a href="http://www.londongoldbuyer.com"><img alt="" class="alignnone size-full wp-image-337361" height="110" src="https://postmedialfpress.files.wordpress.com/2018/03/weather_sponsor.jpg?quality=70" width="300"/></a></p>
+<p>365 Bloor St East, Toronto, ON, M4W3L4, www.postmedia.com</p>
+<p class="copy">© <span itemprop="copyrightYear">2018</span> <span itemid=" https://www.postmedia.com" itemprop="copyrightHolder provider sourceOrganization" itemscope="" itemtype="https://schema.org/Organization"><span itemprop="name">Postmedia Network Inc.</span></span> All rights reserved.</p>
+<p class="restrictions">Unauthorized distribution, transmission or republication strictly prohibited.</p>
+<p>Powered by <a class="powered-by-wpcom" href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit&amp;utm_term=lfpress.com" rel="generator nofollow">WordPress.com VIP</a></p>

@@ -1,0 +1,197 @@
+<p><h4> </h4><p>Clear evidence has surfaced revealing the complicity of the National Highway Traffic Safety Administration (NHTSA) in the prolonged cover-up of a defect in General Motors vehicles tied to at least 13 fatalities. The deaths related to frontal crashes in which airbags did not deploy.</p><p>In February GM issued a recall of 1.6 million vehicles worldwide due to a problem with the ignition system of certain models, which can shift unexpectedly out of the “run” position causing the engine to cut off while driving. The recall involves the 2005–2007 Chevrolet Cobalt, the 2003–2007 Saturn Ion and four other models. The company could face civil as well as criminal penalties for failing to respond to the problem in a timely manner.</p><p>On Monday the House Energy and Commerce Committee announced it would hold hearings on the protracted delay by GM in announcing the recall. For its part, GM has shifted into full damage control mode, appointing a high-profile attorney to lead an internal investigation of the matter.</p><p> According to a March 8 report in the <em>New York Times</em>, the NHTSA received more than 260 complaints over the last 11 years about the safety defect, but refused to carry out an investigation. The complaints involved the cars’ engines suddenly cutting off, sometimes at high speeds, seriously impairing steering and braking. The defect can also lead to the failure of the air bag to deploy in the event of a crash.</p><p>In one case, a woman in New Jersey informed the NHTSA and GM in June 2005 that her daughter’s 2005 Cobalt shut down completely three times while in operation, including in traffic. Both the mother and daughter brought the matter to the attention of the dealer, who merely suggested removing extra keys from the keychain. When the problem continued they terminated the lease at a cost of thousands of dollars.</p><p>While GM has only publicly admitted to 31 crashes linked to the defect, a review of NHTSA records shows there were at least 78 deaths and 1,581 injuries since 2003 involving the now recalled cars. How many were linked to the defect is not known at this time.</p><p>According to a timeline released by GM management, the automaker was aware of the problem in 2004, but rejected a fix proposed by engineers. By the end of 2007 GM knew of at least 10 frontal crashes in which airbags did not deploy, but still refused to issue a recall order.</p><p>Documents from a lawsuit show that in 2005 GM issued a technical service bulletin for the Cobalt for engine stalling as a result of the key moving in the ignition. The suit was filed by the parents of a 29-year-old Georgia woman, Brooke Melton, who died in a March 2010 crash while driving her 2005 Cobalt. The ignition switch had shifted out of the “on” position at the time of the crash. Melton’s death is not included in GM’s count of 13 people killed in frontal crashes where airbags failed to deploy.</p><p>The case also forced GM to turn over documents showing that it bought back at least 13 Cobalts from customers who complained about engines stalling or power loss as early as the spring of 2005. During a deposition related to the case, attorneys for the Melton family also learned that GM set up a team headed by a high-ranking company executive in 2011 to investigate the ignition problem.</p><p>The defect has led to an undisclosed number of lawsuits against GM. Those seeking to sue GM for the deaths of family members are being told that the automaker is not liable for claims arising from incidents or accidents prior to July 2009 when it emerged from bankruptcy.</p><p>The NHTSA, the government agency that is supposed to serve as a watchdog over the auto manufacturers, was well aware of the problem by 2007. Crashes involving Cobalts triggered three Special Crash Investigations seeking to determine why new “smart” airbags were not deploying.</p><p>One investigation looked at a fatal crash in Wisconsin involving a 2005 Cobalt in which the airbag did not inflate. The report noted that the ignition switch was not in the “on” position at the time of the crash. The NHTSA also noted that it had at least six complaints on record where the engine suddenly shut off on the Cobalt.</p><p> Center for Auto Safety Executive Director Clarence Ditlow spoke to the <em>World Socialist Web Site</em> about the GM recall. “The first responsibility is General Motors. But it is a broader problem,” he said. “The NHTSA knew about it. There was an accident in Maryland that identified the problem. They had a meeting about it, but there are no records. When you have the auto industry and NHTSA work behind closed doors you get dirty deals like this. The NHTSA identified the defect in 2007, but failed to act.”</p><p>He indicated that the 13 deaths related to the defect were likely only the tip of the iceberg. “Thirteen is what GM admits to, but it doesn’t include the Melton death.”</p><p>Ditlow compared the present crisis to the recall of the Ford Pinto in the 1970s whose gas tank could easily rupture, causing a fire. “I would rank it with the Pinto—it is one of the worst defects ever and you have such a clear cover-up.”</p><p>The cover-up of the defect with the Cobalt also recalls the 2000 recall involving the failure of Firestone tires on the Ford Explorer sports utility vehicle. Both companies were well aware of the problem, which was eventually tied to more than 200 deaths, but failed to take any action for years. For its part the NHTSA had been alerted to the fact that the tires were separating from their treads by insurance researchers, but also failed to act.</p><p>In the wake of that recall Congress enacted legislation requiring automakers to more promptly report accidents related to safety defects. But with the Cobalt, GM simply ignored the law, abetted by government regulators.</p><p>The revelations in the latest recall point to the systematic dismantling of serious oversight of safety throughout US industry. It follows decades in which safety regulations covering everything from automobiles to food and medicine have been gutted in the name of “free market” principles and government oversight agencies staffed with frontmen for big business.</p><p>A case in point is David Strickland, the former head of the NHTSA, who resigned in late 2013 to take a job with a law firm that deals in auto regulation. The company, Venable LLP, gained notoriety for its role in fighting the moratorium on offshore drilling following the BP Deepwater Horizon disaster. Strickland has been assigned to work on the firm’s regulatory group, which represents automakers on a number of issues, including matters before the NHTSA.</p>
+<div class="campaign" style="margin:20px 0 0 0;">
+<!-- <a href="https://www.wsws.org/donate/?pk_campaign=appeal&pk_kwd=article" style="display:block; margin-bottom:15px;" target="_blank"><img src="/en/media/photos/legacy/frontpage/201802appeal490.png" width="490" style="width:490px; float:none; margin:0;"></a> -->
+<style>
+  #content .campaign > .censorship {
+    background: #d8f0f8;
+    padding: 30px;
+  }
+  #content .campaign > .censorship > h3,
+  #content .campaign > .censorship > h4,
+  #content .campaign > .censorship > p {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  #content .campaign > .censorship > h3 {
+    font-size: 22px;
+    font-weight: bold;
+    color: #000;
+    background: none;
+    padding: 0;
+    margin: 0;
+  }
+  #content .campaign > .censorship > h4 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    margin: 4px 0 0 0;
+  }
+  #content .campaign > .censorship > p {
+	font-size: 17px;
+    margin: 20px 0 0 0;
+  }
+  #content .campaign > .censorship > ul {
+    margin: 20px 0 0 0;
+    list-style-type: none;
+  }
+  #content .campaign > .censorship > ul > li {
+    display: inline-block;
+    width: 24%;
+  }
+  #content .campaign > .censorship > ul > li > a {
+    color: #000;
+  }
+  #content .campaign > .censorship > ul > li > a:hover {
+    color: #cc0000;
+  }
+  #content .campaign > .censorship > ul > li > a > span {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  #content .campaign > .censorship > ul > li > a > .circle {
+    width: 24px;
+    height: 24px;
+    background: #000;
+    border-radius: 24px;
+    padding: 0;
+    margin: 0 5px 0 0;
+  }
+  #content .campaign > .censorship > ul > li > a > .circle > .icon {
+    position: relative;
+    top: 4px;
+    left: 4px;
+  }
+</style>
+<div class="censorship">
+<h3>Fight Google's censorship!</h3>
+<p>Google is blocking the <em>World Socialist Web Site</em> from search results.</p>
+<p>To fight this blacklisting:</p>
+<h4>Share this article with friends and coworkers</h4>
+<ul>
+<li>
+<a class="facebook" href="https://facebook.com/" rel="nofollow" target="_blank">
+<span class="circle">
+<svg class="icon" height="16" viewbox="0 0 1792 1792" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M1343 12v264h-157q-86 0-116 36t-30 108v189h293l-39 296h-254v759h-306v-759h-255v-296h255v-218q0-186 104-288.5t277-102.5q147 0 228 12z" fill="#fff"></path></svg>
+</span>
+<span>Facebook</span>
+</a>
+</li>
+<li>
+<a class="twitter" href="https://twitter.com/" rel="nofollow" target="_blank">
+<span class="circle">
+<svg class="icon" height="16" viewbox="0 0 1792 1792" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M1684 408q-67 98-162 167 1 14 1 42 0 130-38 259.5t-115.5 248.5-184.5 210.5-258 146-323 54.5q-271 0-496-145 35 4 78 4 225 0 401-138-105-2-188-64.5t-114-159.5q33 5 61 5 43 0 85-11-112-23-185.5-111.5t-73.5-205.5v-4q68 38 146 41-66-44-105-115t-39-154q0-88 44-163 121 149 294.5 238.5t371.5 99.5q-8-38-8-74 0-134 94.5-228.5t228.5-94.5q140 0 236 102 109-21 205-78-37 115-142 178 93-10 186-50z" fill="#fff"></path></svg>
+</span>
+<span>Twitter</span>
+</a>
+</li>
+<li>
+<a class="email" href="" rel="nofollow" target="_blank">
+<span class="circle">
+<svg class="icon" height="12" style="top:6px; left:6px;" viewbox="0 0 1792 1792" width="12" xmlns="http://www.w3.org/2000/svg"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z" fill="#fff"></path></svg>
+</span>
+<span>E-Mail</span>
+</a>
+</li>
+<li>
+<a class="reddit" href="https://reddit.com/" rel="nofollow" target="_blank">
+<span class="circle">
+<svg class="icon" height="16" viewbox="0 0 1792 1792" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M1792 846q0 58-29.5 105.5t-79.5 72.5q12 46 12 96 0 155-106.5 287t-290.5 208.5-400 76.5-399.5-76.5-290-208.5-106.5-287q0-47 11-94-51-25-82-73.5t-31-106.5q0-82 58-140.5t141-58.5q85 0 145 63 218-152 515-162l116-521q3-13 15-21t26-5l369 81q18-37 54-59.5t79-22.5q62 0 106 43.5t44 105.5-44 106-106 44-105.5-43.5-43.5-105.5l-334-74-104 472q300 9 519 160 58-61 143-61 83 0 141 58.5t58 140.5zm-1374 199q0 62 43.5 106t105.5 44 106-44 44-106-44-105.5-106-43.5q-61 0-105 44t-44 105zm810 355q11-11 11-26t-11-26q-10-10-25-10t-26 10q-41 42-121 62t-160 20-160-20-121-62q-11-10-26-10t-25 10q-11 10-11 25.5t11 26.5q43 43 118.5 68t122.5 29.5 91 4.5 91-4.5 122.5-29.5 118.5-68zm-3-205q62 0 105.5-44t43.5-106q0-61-44-105t-105-44q-62 0-106 43.5t-44 105.5 44 106 106 44z" fill="#fff"></path></svg>
+</span>
+<span>Reddit</span>
+</a>
+</li>
+</ul>
+</div>
+<script type="text/javascript">
+  function callCampaignFunctions() {
+    if ($('#article-tools').length > 0) {
+      $('#article-tools').remove();
+    }
+    $('#content > .campaign > .censorship > ul > li > a.facebook').attr('href',function(){
+      var url = $(this).attr('href');
+      url += 'sharer.php?u='+encodeURIComponent(location.href);
+      url += '&amp;t='+encodeURIComponent(document.title);
+      return url;
+    });
+    $('#content > .campaign > .censorship > ul > li > a.twitter').attr('href',function(){
+      var url = $(this).attr('href');
+      url += 'home?status='+encodeURIComponent(document.title)
+      url += ': '+encodeURIComponent(location.href);
+      return url;
+  	});
+    $('#content > .campaign > .censorship > ul > li > a.reddit').attr('href',function(){
+      var url = $(this).attr('href');
+      url += 'submit?url='+encodeURIComponent(location.href);
+      url += '&amp;title='+encodeURIComponent(document.title);
+      return url;
+    });
+    $('#content > .campaign > .censorship > ul > li > a.email').attr('href',function(){
+      var sendlink = '';
+      if ($('#tools').length > 0) {
+	    sendlink = $('#tools > ul > li > ul > li > a.share-email').attr('href');
+	    return sendlink;
+      }
+    });
+  };
+</script>
+</div>
+<p> </p>
+<div id="commenting-rules">
+<p style="font-size:1.2em; text-align: right;"><a href="/en/special/commenting.html">Commenting Discussion Rules »</a></p>
+</div>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+	var disqus_config = function () {
+		this.language = 'en';
+	};
+	var disqus_shortname = 'wsws';
+	var disqus_identifier = '36664aed-ad63-4081-b8d2-736503e0b74D';
+	var disqus_title = 'US highway safety agency abetted GM cover-up of defect linked to fatal crashes';
+	var disqus_url = 'http://www.wsws.org/en/articles/2014/03/12/genm-m12.html';
+	(function() {
+		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	})();
+  </script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<!-- <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a> -->
+</p>
+<p>Clear evidence has surfaced revealing the complicity of the National Highway Traffic Safety Administration (NHTSA) in the prolonged cover-up of a defect in General Motors vehicles tied to at least 13 fatalities. The deaths related to frontal crashes in which airbags did not deploy.</p>
+<p>In February GM issued a recall of 1.6 million vehicles worldwide due to a problem with the ignition system of certain models, which can shift unexpectedly out of the “run” position causing the engine to cut off while driving. The recall involves the 2005–2007 Chevrolet Cobalt, the 2003–2007 Saturn Ion and four other models. The company could face civil as well as criminal penalties for failing to respond to the problem in a timely manner.</p>
+<p>On Monday the House Energy and Commerce Committee announced it would hold hearings on the protracted delay by GM in announcing the recall. For its part, GM has shifted into full damage control mode, appointing a high-profile attorney to lead an internal investigation of the matter.</p>
+<p> According to a March 8 report in the <em>New York Times</em>, the NHTSA received more than 260 complaints over the last 11 years about the safety defect, but refused to carry out an investigation. The complaints involved the cars’ engines suddenly cutting off, sometimes at high speeds, seriously impairing steering and braking. The defect can also lead to the failure of the air bag to deploy in the event of a crash.</p>
+<p>In one case, a woman in New Jersey informed the NHTSA and GM in June 2005 that her daughter’s 2005 Cobalt shut down completely three times while in operation, including in traffic. Both the mother and daughter brought the matter to the attention of the dealer, who merely suggested removing extra keys from the keychain. When the problem continued they terminated the lease at a cost of thousands of dollars.</p>
+<p>While GM has only publicly admitted to 31 crashes linked to the defect, a review of NHTSA records shows there were at least 78 deaths and 1,581 injuries since 2003 involving the now recalled cars. How many were linked to the defect is not known at this time.</p>
+<p>According to a timeline released by GM management, the automaker was aware of the problem in 2004, but rejected a fix proposed by engineers. By the end of 2007 GM knew of at least 10 frontal crashes in which airbags did not deploy, but still refused to issue a recall order.</p>
+<p>Documents from a lawsuit show that in 2005 GM issued a technical service bulletin for the Cobalt for engine stalling as a result of the key moving in the ignition. The suit was filed by the parents of a 29-year-old Georgia woman, Brooke Melton, who died in a March 2010 crash while driving her 2005 Cobalt. The ignition switch had shifted out of the “on” position at the time of the crash. Melton’s death is not included in GM’s count of 13 people killed in frontal crashes where airbags failed to deploy.</p>
+<p>The case also forced GM to turn over documents showing that it bought back at least 13 Cobalts from customers who complained about engines stalling or power loss as early as the spring of 2005. During a deposition related to the case, attorneys for the Melton family also learned that GM set up a team headed by a high-ranking company executive in 2011 to investigate the ignition problem.</p>
+<p>The defect has led to an undisclosed number of lawsuits against GM. Those seeking to sue GM for the deaths of family members are being told that the automaker is not liable for claims arising from incidents or accidents prior to July 2009 when it emerged from bankruptcy.</p>
+<p>The NHTSA, the government agency that is supposed to serve as a watchdog over the auto manufacturers, was well aware of the problem by 2007. Crashes involving Cobalts triggered three Special Crash Investigations seeking to determine why new “smart” airbags were not deploying.</p>
+<p>One investigation looked at a fatal crash in Wisconsin involving a 2005 Cobalt in which the airbag did not inflate. The report noted that the ignition switch was not in the “on” position at the time of the crash. The NHTSA also noted that it had at least six complaints on record where the engine suddenly shut off on the Cobalt.</p>
+<p> Center for Auto Safety Executive Director Clarence Ditlow spoke to the <em>World Socialist Web Site</em> about the GM recall. “The first responsibility is General Motors. But it is a broader problem,” he said. “The NHTSA knew about it. There was an accident in Maryland that identified the problem. They had a meeting about it, but there are no records. When you have the auto industry and NHTSA work behind closed doors you get dirty deals like this. The NHTSA identified the defect in 2007, but failed to act.”</p>
+<p>He indicated that the 13 deaths related to the defect were likely only the tip of the iceberg. “Thirteen is what GM admits to, but it doesn’t include the Melton death.”</p>
+<p>Ditlow compared the present crisis to the recall of the Ford Pinto in the 1970s whose gas tank could easily rupture, causing a fire. “I would rank it with the Pinto—it is one of the worst defects ever and you have such a clear cover-up.”</p>
+<p>The cover-up of the defect with the Cobalt also recalls the 2000 recall involving the failure of Firestone tires on the Ford Explorer sports utility vehicle. Both companies were well aware of the problem, which was eventually tied to more than 200 deaths, but failed to take any action for years. For its part the NHTSA had been alerted to the fact that the tires were separating from their treads by insurance researchers, but also failed to act.</p>
+<p>In the wake of that recall Congress enacted legislation requiring automakers to more promptly report accidents related to safety defects. But with the Cobalt, GM simply ignored the law, abetted by government regulators.</p>
+<p>The revelations in the latest recall point to the systematic dismantling of serious oversight of safety throughout US industry. It follows decades in which safety regulations covering everything from automobiles to food and medicine have been gutted in the name of “free market” principles and government oversight agencies staffed with frontmen for big business.</p>
+<p>A case in point is David Strickland, the former head of the NHTSA, who resigned in late 2013 to take a job with a law firm that deals in auto regulation. The company, Venable LLP, gained notoriety for its role in fighting the moratorium on offshore drilling following the BP Deepwater Horizon disaster. Strickland has been assigned to work on the firm’s regulatory group, which represents automakers on a number of issues, including matters before the NHTSA.</p>
+<p>Google is blocking the <em>World Socialist Web Site</em> from search results.</p>
+<p>To fight this blacklisting:</p>
+<p> </p>
+<p style="font-size:1.2em; text-align: right;"><a href="/en/special/commenting.html">Commenting Discussion Rules »</a></p>
+<p style="text-align:right;"><a href="/en/">more articles »</a></p>
+<p style="text-align:right;"><a href="/en/topics/businessCategory/corporate_corruption/">more articles »</a></p>
+<p style="text-align:right;"><a href="/en/topics/country/united-states/">more articles »</a></p>
+<p class="right">
+<a href="/en/special/about.html">About the WSWS</a> |
+    
+    
+    <a href="/en/special/contact.html">Contact Us</a> |
+    
+    
+    
+      <a href="/en/special/privacy.html">Privacy Statement</a> |
+    
+    <a href="#">Top of page</a>
+</p>
+<p>Copyright © 1998-2018 <i>World Socialist Web Site</i> - All rights reserved</p>

@@ -1,0 +1,52 @@
+<p>
+<input id="fieldName" name="cm-name" placeholder="Your Name" type="text">
+</input></p>
+<p>
+<input id="fieldEmail" name="cm-vyklll-vyklll" placeholder="Your Email" required="" type="email">
+</input></p>
+<p>
+<input id="fieldjltdhkd" name="cm-f-jltdhkd" placeholder="Location" type="text"/>
+</p>
+<p class="rob-check">
+        Robot check :
+        <span class="num1">2</span> +
+        <span class="num2">8</span> =
+        <input class="answer" maxlength="2" type="text"/>
+</p>
+<p>
+<input class="btn" style="background: #f15a24;" type="submit" value="Subscribe"/>
+</p>
+<p>An anonymous billionaire in Silicon Valley recently purchased the world’s most valuable life insurance policy worth $201million.  The policy was sold by Santa Barbara based company S.G., an advising firm that specializes in complex financial situations.</p>
+<p>According to <a href="http://www.cnbc.com/id/101495273"> cnbc</a> SG's president and founder, Dovi Frances has confirmed that the policy is split between 19 different companies.  The amount was too high that no single company could afford a hit that big.</p>
+<p>The deal took seven months to construct  and surpasses the previous largest life insurance policy worth $100 million taken out by David Geffen in 1990. According to the<a href="http://www.boston.com/news/nation/2014/03/15/silicon-valley-billionaire-buys-record-life-policy/Dd9RtwlimYbbgbpirjCJYN/story.html"> AssociatedPress</a> the Guinness Book of World Records announced Thursday that the $201 million policy holds the new world record after three months of reviewing.  </p>
+<p>The billionaire chose to remain anonymous for privacy reasons and not even his age has been disclosed.  However Frances did disclose one reason the billionaire gave for taking out such a large policy.  He bought it to help his heirs avoid paying a 45 percent inheritance tax when he dies.</p>
+<p class="nocomments">Comments are closed</p>
+<p>Los Angeles isn’t for everyone, but it certainly calls to…</p>
+<p>Karen Firsel helps parents get organized and keeps the family…</p>
+<p>Carlos Vela, 2018 MLS All-Star Captain, talks about being in the…</p>
+<p>Curse you cliffhangers The newest episode of Better Call Saul…</p>
+<p>Where’s Eve? Last Man Standing has been off for a…</p>
+<p>gameplay It’s the closest thing you will find to a…</p>
+<p>
+<input id="fieldName" name="cm-name" placeholder="Your Name" type="text">
+</input></p>
+<p>
+<input id="fieldEmail" name="cm-vyklll-vyklll" placeholder="Your Email" required="" type="email">
+</input></p>
+<p>
+<input id="fieldjltdhkd" name="cm-f-jltdhkd" placeholder="Location" type="text">
+</input></p>
+<p class="rob-check">
+        Robot check :
+        <span class="num1">9</span> +
+        <span class="num2">10</span> =
+        <input class="answer" maxlength="2" type="text"/>
+</p>
+<p>
+<input class="btn" style="background: #f15a24;" type="submit" value="Subscribe"/>
+</p>
+<p>How exciting would it be to go on a cross-country…</p>
+<p>Hollywood, make more movies like this. Growing up isn’t easy.…</p>
+<p>Which leaves us with one burning question: What rating will…</p>
+<p>Please enter an Access Token on the Instagram Feed plugin Settings page.</p>
+<p>© 2017 TheCelebrityCafe.com</p>

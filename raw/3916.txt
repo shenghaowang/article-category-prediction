@@ -1,0 +1,43 @@
+<p style="font-size:12px;font-style:italic;color:#6A6A6A;line-height:110%;padding-top:10px;">You must have an Automotive News<br/>subscription to view the digital edition</p>
+<p><a href="/section/subscribe" style="font-size:14px;color:#6A6A6A;font-weight:600;"><u>Click here to subscribe</u></a></p>
+<p class="shares-number">0</p>
+<p class="shares-text">Shares</p>
+<p><span class="date">UPDATED: 3/11/14 10:35 pm ET - revises death total</span></p>
+<p>WASHINGTON -- The U.S. Justice Department has started a preliminary investigation into how General Motors handled the recall of 1.6 million vehicles with faulty ignition switches linked to at least 12 deaths.</p>
+<p>The inquiry is focusing on whether GM might have violated criminal or civil laws by failing to notify regulators in a timely fashion about the switch failures, said a person familiar with the probe, who asked not to be named and isn’t authorized to discuss investigations.</p>
+<p>Lawyers in the U.S. Attorney’s office in the Southern District of New York are leading the investigation.</p>
+<p>Meanwhile, GM has lowered the number of deaths linked to one of the models  covered by the recall to four from five.</p>
+<p>In a letter to the National Highway Traffic Safety Administration posted Tuesday evening on the agency's Web site, GM said that a front-seat passenger killed in a Saturn Ion crash had been counted twice because two reports about the accident had been filed.​ That reduces the number of deaths tied to the defective switches to 12 from 13, a GM spokesman said.</p>
+<p>The criminal probe of GM opened by Manhattan U.S. Attorney Preet Bharara follows an investigation conducted by the same office into Toyota Motor Corp.'s disclosure in 2009 of driver complaints of unintended acceleration in some of its vehicles.</p>
+<p>Toyota has been engaged in negotiations with Bharara's office to settle that probe, which is also criminal, a source familiar with the investigation previously told Reuters.</p>
+<p>Emily Pierce, a Justice Department spokeswoman, declined to comment on the GM investigation. GM also declined to comment on the department's probe.</p>
+<p>The inquiry comes as House and Senate committees and the National Highway Traffic Safety Administration are also investigating GM’s actions leading up to the recall.</p>
+<p>While the immediate financial impact of the recall is “insignificant,” some hard-to-quantify risk to GM's reputation is emerging, Joseph Spak, an RBC Capital Markets  analyst, said in a note to investors on Tuesday.</p>
+<p>"Obviously, the longer this stays in the headlines the worse it could be for GM," he said.</p>
+<p>“Remember while this was old (pre-bankruptcy) GM, the consumer won’t differentiate,” Spak said. “It does appear that GM employees have known about the risk for a while, so it does seem there is a failure to act somewhere along the way.”</p>
+<p>GM shares tumbled 5.2 percent to close at $35.18 in New York trading on Tuesday, its worst one-day drop at the close since March 2012.</p>
+<p><strong>House committee letters</strong></p>
+<p>As part of a Congressional probe, a House committee sent a <strong><a href="http://energycommerce.house.gov/sites/republicans.energycommerce.house.gov/files/letters/20140311GM.pdf" target="_blank">letter to GM, addressed to CEO Mary Barra,</a></strong> and another letter to <strong><a href="http://energycommerce.house.gov/sites/republicans.energycommerce.house.gov/files/letters/20140311NHTSA.pdf" target="_blank">the National Highway Traffic Safety Administration, </a></strong>on Monday, requesting extensive records tied to the recall.</p>
+<p>The letters, signed by Republican and Democratic leaders of the Energy and Commerce Committee, called for all records of consumer complaints, field reports and reports of death, injury or property damage.</p>
+<p>The committee also said it wanted “a detailed timeline of interactions and communications between GM and NHTSA related to stalls, air bags and/or ignition switches in the GM vehicles subject to recall.”</p>
+<p>The letters gave the agency and the company until March 25 to reply.</p>
+<p>The initial recall on Feb. 13 covered 778,562 Chevrolet Cobalts and Pontiac G5s. It was expanded less than two weeks later to more than 800,000 additional vehicles. Those include 2003-2007 Ions, 2006-2007 Chevrolet HHRs, 2006-2007 Pontiac Solstices and 2006-2007 Saturn Skys. Other models affected are the 2005-06 Pontiac Pursuit sold in Canada and the 2007 Opel GT sold in Europe.</p>
+<p><strong>27-page order</strong></p>
+<p>NHTSA, whose decision not to investigate the switch failures years ago is also under scrutiny by Congress, is focusing on what steps the automaker took to investigate and rectify engineering concerns and consumer complaints dating back to at least 2004.</p>
+<p>GM has until April 3 to answer questions posed by the regulator in a 27-page order issued last week. The recall is emerging as the first major test for Barra, who was promoted to CEO two weeks before the company decided Jan. 31 to implement the recall.</p>
+<p>Heavy key rings or jarring can cause the ignition switches to slip out of position, cutting off power and deactivating air bags, GM says. The automaker has linked the defect to at least 23 crashes, including 12 deaths.</p>
+<p>GM has recommended that owners use only the ignition key with nothing else on the key ring.</p>
+<p>NHTSA could fine GM as much as $35 million, which would be the most ever by the U.S. government, if it finds the automaker didn’t pursue a recall when it knew the cars were defective.</p>
+<p>The supplier of the ignition switch, Delphi Automotive Plc, said in a statement on Tuesday that the part had not been provided to any other automaker. Delphi is a former auto parts unit of GM.</p>
+<p><em>Bloomberg and Reuters contributed to this report.</em></p>
+<p class="left-padding">
+<a href="/section/contact01"><i><strong>Contact Automotive News</strong></i></a>
+</p>
+<p>Have an opinion about this story? <a href="/section/submit04?title=Justice-Dept.-exploring-GM's-handling-of-fatal-switch-recall&amp;profile=5885" target="float"><strong>Click here to submit a Letter to the Editor</strong></a>, and we may publish it in print.</p>
+<p style="font-size:18px;"><span style="font-family:Franklin Gothic Light,Franklin Gothic,ITC Franklin Gothic,Arial,sans-serif;font-size:22px;color:#fa1109;">ATTENTION COMMENTERS:</span> <i>Automotive News</i> has monitored a significant increase in the number of personal attacks and abusive comments on our site. We encourage our readers to voice their opinions and argue their points. We expect disagreement. We do not expect our readers to turn on each other. We will be aggressively deleting all comments that personally attack another poster, or an article author, even if the comment is otherwise a well-argued observation. If we see repeated behavior, we will ban the commenter. Please help us maintain a civil level of discourse.</p>
+<p>Get 24/7 access to in-depth, authoritative coverage of the auto industry from a global team of reporters and editors covering the news that's vital to your business.</p>
+<p>Sign up today to get the best of <em>Automotive News</em> delivered straight to your email inbox, free of charge. Choose your news – we'll deliver.</p>
+<p>
+                Entire contents © Crain Communications, Inc.
+            </p>
+<p>Use of editorial content without permission is strictly prohibited. All Rights Reserved.</p>

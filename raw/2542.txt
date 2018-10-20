@@ -1,0 +1,9 @@
+<p> </p>
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>
+<p class="respond-textarea"><textarea aria-required="true" cols="58" id="comment" name="comment" rows="10" tabindex="4"></textarea></p>
+<p class="comment-form-author"><input aria-required="true" class="ninzio-placeholder" data-placeholder="Name *" name="author" size="30" tabindex="1" type="text" value="Name *"/></p>
+<p class="comment-form-email"><input aria-required="true" class="ninzio-placeholder" data-placeholder="E-Mail *" name="email" size="30" tabindex="2" type="text" value="E-Mail *"/></p>
+<p class="comment-form-url"><input class="ninzio-placeholder" data-placeholder="Website" name="url" size="30" tabindex="3" type="text" value="Website"/></p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Submit comment"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="9046"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>

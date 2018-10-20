@@ -1,0 +1,70 @@
+<p class="separator">|</p>
+<p><img src="/polopoly_fs/3.378!/icons/sky/XL/1.png"/></p>
+<p class="city">Abu Dhabi</p>
+<p class="location">UAE<i aria-hidden="true" class="fa fa-map-marker"></i>
+</p>
+<p class="date">
+                                Sunday Oct 21, 2018
+                            </p>
+<p class="temp">35°</p>
+<p class="high-low">H:35 °</p>
+<p class="high-low">L:26 °</p>
+<p>H:35 °</p>
+<p>L:26 °</p>
+<p>H:34 °</p>
+<p>L:26 °</p>
+<p>H:32 °</p>
+<p>L:27 °</p>
+<p>H:32 °</p>
+<p>L:28 °</p>
+<p>H:31 °</p>
+<p>L:27 °</p>
+<p>H:31 °</p>
+<p>L:25 °</p>
+<p class="city">Abu Dhabi</p>
+<p class="location">
+                            EMU <i aria-hidden="true" class="fa fa-map-marker"></i>
+</p>
+<p class="date">Sunday Oct 21,2018</p>
+<p class="date-text">Abu Dhabi, UAE<span class="separtor"></span>Saturday 20 October 2018</p>
+<p class="location-date visible-xs visible-sm">Abu Dhabi, UAE<span class="separtor"></span>Saturday 20 October 2018</p>
+<p class="published-date">March 11, 2014</p>
+<p class="last-updated">Updated: March 11, 2014 04:00 AM</p>
+<p></p>
+<p>Libya’s navy impounded a tanker that was seeking to export crude from a rebel-held port, according to the national oil company, as the government battles to reassert control over its main source of revenue.</p>
+<p>The tanker was taken from Es Sider, Libya’s biggest export terminal, to a port under government control, said Mohamed Elharari, a spokesman for National Oil. The destination is Qasr Ahmed port in Misrata in western Libya, the official Lana news agency said.</p>
+<p>Libya’s inability to restore oil exports from its eastern terminals was among the reasons cited by Citigroup when it raised its 2014 forecast for Brent crude to US$103 a barrel from $93 a barrel on February 25. The country is pumping about 275,000 barrels per day (bpd) compared with 1.4 million bpd last July.</p>
+<p>Brent futures trading on the London-based ICE Futures Europe exchange fell 0.9 per cent to $107.97 a barrel.</p>
+<p>The self-declared authorities in eastern Libya are demanding that Barqa, the local name for the region that usually produces more than half of the country’s oil, receives 15 per cent of national crude revenue. </p>
+<p>Mr Elharari identified the ship yesterday as the North Korea-flagged Morning Glory, with a capacity of 350,000 barrels. It changed name from the Gulf Glory on February 27 and also started flying the Asian country’s flag on that date too, having previously flown the flag of Liberia, he said. There is another tanker with the name Morning Glory that is unrelated to the one off Libya’s coast.</p>
+<p>The registered owner of the Gulf Glory is Sea Pride Shipping in Sharjah in the UAE, according to a European Commission database.</p>
+<p>“Sea Pride Shipping can confirm it is the registered owner of the vessel Gulf Glory but is currently in dispute with the vessels operators,” Sea Pride said. “Sea Pride Shipping currently has no operational control over the vessel, including where she operates and what cargo she may be carrying.”</p>
+<p>The ship’s cargo would be valued at about $38 million at the current price for Brent crude, the benchmark for Es Sider grade. The crude loaded on the tanker belongs to Waha Oil, a joint venture between the national oil companies Marathon Oil, Hess and ConocoPhillips, according to the state-owned company.</p>
+<p></p>
+<p></p>
+<p>business@thenational.ae</p>
+<p></p>
+<p>Follow us on Twitter <a href="https://twitter.com/Ind_Insights">@Ind_Insights</a></p>
+<p class="news-heading-h4">Jamal Khashoggi obituary</p>
+<p class="news-heading-h4">Afghanistan Sikh, Hindu community brave danger to vote</p>
+<p class="news-heading-h4">Banksy posts video saying incomplete shredding a malfunction   </p>
+<p class="news-heading-h4">A closer look at the business of being a fashion model </p>
+<p class="news-heading-h4">One small step for machines. One giant leap for mankind</p>
+<p class="news-heading-h4 two-lines">Apple to launch iPad, lower-cost MacBook on October 30</p>
+<p class="news-heading-h4 two-lines">How to live frugally in the UAE and still feel fulfilled</p>
+<p class="news-heading-h4 two-lines">Uber's Middle East rival Careem secures $200m in funding </p>
+<p class="news-heading-h4 two-lines">'Can my landlord have me jailed for bouncing a cheque?'</p>
+<p class="article-headline">View the paper as it appeared in print</p>
+<p class="article-headline">Download the e-reader</p>
+<p class="news-heading-h4">Insurgent attacks mar Afghan parliamentary elections</p>
+<p class="news-heading-h4">Man City enjoy reunion with Hart after thrashing Burnley</p>
+<p class="news-heading-h4">Iran gets February deadline to fix terror financing</p>
+<p class="news-heading-h4">Mata takes his chance as Man United make a point at Chelsea</p>
+<p class="news-heading-h4">WATCH: Countdown for Expo 2020 Dubai is on </p>
+<p class="news-heading-h4">WATCH: Sightline with Tim Marshall on Trump's Asean snub</p>
+<p class="news-heading-h4">UN Syria envoy to step down next month</p>
+<p class="news-heading-h4">Out of this world: celebrating the Year of Zayed from space</p>
+<p class="news-heading-h4">UAE-owned tanker the Royal Grace released by Somali pirates</p>
+<p class="news-heading-h4">Gulf Navigation sells two tankers for $98 million</p>
+<p class="news-heading-h4">Limitless plans wellness resort on 'tropical Siberia'</p>
+<p class="news-heading-h4">Government to fund extra 3,000 students</p>

@@ -1,0 +1,47 @@
+<p class="menu-switch"><a href="javascript:void(0);" title="Click here to get all Bangkok Post links and content">MENU</a></p>
+<p class="img-wrap">
+<img alt="Today's Bangkok Post newspaper" class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" width="124"/>
+</p>
+<p><img alt="Today's Bangkok Post newspaper" class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" width="124"/></p>
+<p class="levelNavigaton">
+<a href="/most-recent">
+        Most Recent
+        </a> &gt;
+		        <a href="/most-recent"><span></span></a>
+</p>
+<p class="sort">
+</p>
+<p class="preParagraph">WASHINGTON - US Navy Seals have boarded and taken control of a North Korea-flagged tanker that had loaded crude oil at a port held by rebels in eastern Libya, the Pentagon said Monday.</p>
+<p>Navy SEALs (Sea, Air and Land) practice Over The Beach evolutions during a training exercise 25 May 2004 at an undisclosed location</p>
+<p>No one was hurt "when US forces, at the request of both the Libyan and Cypriot governments, boarded and took control of the commercial tanker Morning Glory, a stateless vessel seized earlier this month by three armed Libyans," Pentagon Press Secretary Rear Admiral John Kirby said in a statement.</p>
+<p><a href="/news/sports/1561570/chelsea-draw-with-last-gasp-goal">Chelsea draw with last-gasp goal</a></p>
+<p><a href="/news/general/1561566/thai-to-pilots-dont-talk-about-zurich">THAI pilots told to keep mum about Zurich delay</a></p>
+<p><a href="/news/general/1561558/lone-armed-man-robs-store-of-cash-baby-diapers">Lone armed man robs store of cash, baby diapers</a></p>
+<p><a href="/news/world/1561554/australian-coalition-loses-majority">Australian coalition loses majority</a></p>
+<p><a href="/news/politics/1561550/prayut-belgium-trip-a-success">Prayut: Belgium trip a success</a></p>
+<p><a href="/news/general/1561546/songkhla-hunt-for-one-crocodile-nets-two"><span class="icon-vdo">video</span>Songkhla hunt for one crocodile nets two</a></p>
+<p><a href="/news/sports/1561542/ariya-chasing-shanghai-leaders">Ariya chasing Shanghai co-leaders</a></p>
+<p><a href="/news/general/1561534/blame-game-in-amritsar">Indian railway dodges blame for Amritsar horror</a></p>
+<p>Readers are urged not to submit comments that may cause legal dispute including slanderous, vulgar or violent language, incorrectly spelt names, discuss moderation action, quotes with no source or anything deemed critical of the monarchy. More information in our <a href="/policy" title="Terms of use">terms of use</a>.</p>
+<p>Please use our <a href="/forum" title="Forum">forum</a> for more candid, lengthy, conversational and open discussion between one another.</p>
+<p class="more" id="more_comment"><a href="javascript:void(0);" onclick="commentObject(commentObject.getComment());" title="Click here to view more comments">Click here to view more comments</a></p>
+<p class="hd">Thank you for sharing your comment</p>
+<p>Please be aware that all comments will be looked at by the web moderating team and we reserve the right to approve or reject comments at our discretion.</p>
+<p class="hd">What's your comment?</p>
+<p><input checked="" type="checkbox"/><label>I acknowledge the <a href="/policy/" target="_blank">rule &amp; regulations</a></label></p>
+<p><input type="checkbox"/><label>Tick here to also post this comment on your facebook wall</label></p>
+<p>Please log in or sign up for an account to share your valuable thoughts to the world.</p>
+<p class="g-btn"><a href="https://member.bangkokpost.com/login.php?serviceID=10006&amp;ref=https://www.bangkokpost.com/most-recent/400313/us-seals-capture-rogue-libya-oil-ship">Log in</a></p>
+<p class="g-btn"><a href="https://member.bangkokpost.com/register.php?serviceID=10006">Sign up</a></p>
+<p class="img-wrap"><img alt="Today's Bangkok Post newspaper" class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" width="124"/></p>
+<p><img alt="Today's Bangkok Post newspaper" class="newspaper_image" src="/ads/newspaper_direct/enewspaper.jpg" width="124"/></p>
+<p class="logoBKPgroup"><a href="https://www.bangkokpost.co.th" title="BANGKOK POST GROUP"><img alt="BANGKOK POST GROUP" height="28" src="/common/img/logo/postgroup-logo_blue.svg" width="170"/></a></p>
+<p class="footer_policy">
+<a href="/policy" title="">Terms of use</a> |
+				<a href="/republishingpolicy" title="">Republishing permission</a> |
+				<a href="/faq" title="">Help</a> |
+				<a href="/mediainfo/solution" title="">Online advertising</a> |
+				<a href="https://www.bangkokpost.co.th/post_contact" title="">Contact us</a> |
+				<a href="/send-suggestions" title="">Tell us what you think</a> |
+				<a href="/partner" title="">Partnership</a>
+</p>

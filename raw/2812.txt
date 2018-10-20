@@ -1,0 +1,87 @@
+<p>Common shares of Fannie Mae and Freddie Mac <a href="http://www.marketwatch.com/story/fannie-freddie-shares-plunge-more-than-30-2014-03-11?dist=countdown" target="_blank">plunged Tuesday</a>, starting to sharply drop several hours after U.S. lawmakers disclosed a <a href="http://www.marketwatch.com/story/bill-to-wind-down-fannie-freddie-to-be-released-2014-03-11" target="_blank">blueprint for legislation</a>  that would eliminate the federally controlled mortgage buyers and reform the U.S. housing-finance system.</p>
+<p>Fannie’s 
+  <style>
+  .bgChannel, .bgRealtimeChannel, .bgRevision {
+      display: none;
+  }
+  </style>
+<span class="quotePeekContainer">
+<span class="quotepeekbase bgQuote neutral" id="quoteba6f7e5e404852913a6a841bea4403c1bf4e85dc">
+<a href="http://marketwatch.com/investing/stock/FNMA">
+<span class="bgChannel">/quotes/zigman/226360/delayed</span>
+<span class="bgRealtimeChannel">/quotes/nls/fnma</span>
+<span class="symbol">FNMA</span>
+<span class="data bgPercentChange symbol"></span>
+</a>
+</span>
+</span>common shares closed down about 31%, while Freddie’s 
+  <style>
+  .bgChannel, .bgRealtimeChannel, .bgRevision {
+      display: none;
+  }
+  </style>
+<span class="quotePeekContainer">
+<span class="quotepeekbase bgQuote neutral" id="quoteb612cf68fef5493840b0ebe85cdb571ef543f832">
+<a href="http://marketwatch.com/investing/stock/FMCC">
+<span class="bgChannel">/quotes/zigman/226335/delayed</span>
+<span class="bgRealtimeChannel">/quotes/nls/fmcc</span>
+<span class="symbol">FMCC</span>
+<span class="data bgPercentChange symbol"></span>
+</a>
+</span>
+</span>were down about 27%.</p>
+<p><a href="http://www.marketwatch.com/investing/stock/FNMA" title="">FNMA</a></p>
+<p>Your browser does not support iframes.</p>
+<p>The sudden plunge was a bit of a head scratcher for analysts, who said that the legislation’s elements were largely expected. Indeed, leading U.S. lawmakers have made it clear for some time that housing-finance-reform proposals would focus on mortgage-market stability, rather than getting cash to investors.</p>
+<p>“Even if the shares had dropped immediately I would have been surprised because I thought the elements of the [proposal] were so well telegraphed,” said Brian Gardner, an analyst at Keefe, Bruyette &amp; Woods. “There was broad consensus that the bill would call for the unwinding of Fannie and Freddie, and I think that’s the news generally driving the sell off.”</p>
+<p>Details released Tuesday show that the upcoming bill will use a prior congressional proposal as its base text, and that the two plans are quite similar.</p>
+<p>“We continue to project that in a liquidation scenario there would be no value for [Fannie and Freddie] equity holders after the companies’ debt is extinguished and the Treasury preferred shares are repaid,” according to a research note from Edwin Groshans at Height Analytics.</p>
+<p>The government-sponsored enterprises have been in conservatorship for more than five years. The once-flailing firms, which started receiving federal bailout funds in 2008, returned to profit in the last two years, thanks to a rebounding housing market.</p>
+<p>Because of a 2012 amendment to the government’s bailout agreement, Fannie and Freddie send all of their profits to the U.S. Treasury Department. Including an upcoming payment to Treasury, both firms will have sent more to the government than was provided in bailout funds, and are on track to <a href="http://www.marketwatch.com/story/taxpayers-on-track-to-net-179b-from-gses-2014-03-10" target="_blank">make taxpayers a </a>profit.</p>
+<p>Rather than expecting any legislation-related payout, many investors have pinned their hopes to <a href="http://www.marketwatch.com/story/political-legal-hopes-buoy-fannie-freddie-rally-2014-02-14" target="_blank">lawsuits against the government </a>for amending its bailout agreement in 2012.</p>
+<p>Analysts said Tuesday that the chances for the bill to make it to the Senate floor this year are low because U.S. lawmakers are turning their attention to election season.</p>
+<p>“Broader Democratic sponsorship might be required for it to pass. The House, however, would not likely support this bill even if it were to pass the Senate given that the House Financial Services Committee holds a very different view of how GSE reform should proceed,” Bank of America Merrill Lynch analysts wrote in a research note.</p>
+<p>The political calculus facing U.S. lawmakers when it comes to voting on GSE reform is unappealing. Congress won’t want to make sweeping changes to the U.S. mortgage market or tackle the political hot buttons of Fannie and Freddie as they gear up to face voters. Also, many won’t want to vote for any measure that enriches Fannie and Freddie shareholders.</p>
+<p>“It’s just political suicide,” Gardner said.</p>
+<p>Despite being unable to build capital, Fannie and Freddie have seen their stocks skyrocket over the past year. Common shares for each firm have increased more than 1,200% in the last 12 months. The most heavily traded preferred shares for Fannie 
+  <style>
+  .bgChannel, .bgRealtimeChannel, .bgRevision {
+      display: none;
+  }
+  </style>
+<span class="quotePeekContainer">
+<span class="quotepeekbase bgQuote neutral" id="quotedfed71b64e5c971b902336d4a2eec21c630491a8">
+<a href="http://marketwatch.com/investing/stock/FNMAS">
+<span class="bgChannel">/quotes/zigman/494289/delayed</span>
+<span class="bgRealtimeChannel">/quotes/nls/fnmas</span>
+<span class="symbol">FNMAS</span>
+<span class="data bgPercentChange symbol"></span>
+</a>
+</span>
+</span>and Freddie fmckj
+  <style>
+  .bgChannel, .bgRealtimeChannel, .bgRevision {
+      display: none;
+  }
+  </style>
+<span class="quotePeekContainer">
+<span class="quotepeekbase bgQuote neutral" id="quote0c4faeeea5ab5d507d06f06537d7d6e1197a9b1a">
+<a href="http://marketwatch.com/investing/stock/FMCKJ">
+<span class="bgChannel">/quotes/zigman/492416/delayed</span>
+<span class="bgRealtimeChannel">/quotes/nls/fmckj</span>
+<span class="symbol">FMCKJ</span>
+<span class="data bgPercentChange symbol"></span>
+</a>
+</span>
+</span>have also jumped, rising more than 500% over the past year.</p>
+<p>–Ruth Mantell</p>
+<p>Follow Ruth on Twitter <a href="https://twitter.com/RuthMantell" target="_blank">@RuthMantell</a><br/>
+Follow the Capitol Report blog on Twitter <a href="https://twitter.com/capitolreport" target="_blank">@CapitolReport</a></p>
+<p>Check out these Capitol Report posts:<br/>
+<a href="http://blogs.marketwatch.com/capitolreport/2014/03/11/mortgage-credit-increasingly-available-gauge-shows/" target="_blank">Mortgage credit increasingly available, gauge shows</a><br/>
+<a href="http://blogs.marketwatch.com/capitolreport/2014/03/11/workers-are-losing-confidence-in-the-economy/" target="_blank">Workers are losing confidence in the economy</a></p>
+<p>
+Capitol Report is a round-up of news and analysis provided by MarketWatch reporters, editors and commentators based in our Washington, D.C bureau and throughout the U.S.
+</p>
+<p>Follow us on Twitter: <a class="twitter-follow-button" href="https://twitter.com/capitolreport">Follow @capitolreport</a><br/>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>

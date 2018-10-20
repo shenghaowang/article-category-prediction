@@ -1,0 +1,27 @@
+<p>
+                  Financial trends and news by <a href="/news/contributors/steven-loeb">Steven Loeb</a><br/>
+<span id="article_publication_date">March 12, 2014</span>
+<br/>
+                  Short URL: <a href="http://vator.tv/n/3599" target="_blank">http://vator.tv/n/3599</a>
+</p>
+<p><img alt="" height="409" src="http://vni.s3.amazonaws.com/140312085821171.png" style="display: block; margin-left: auto; margin-right: auto;" width="570"/></p>
+<p>When King, the Irish gaming company behind the monster hit Candy Crush Saga, goes public in the next month or so, it will be a test to see just how willing investors are in putting money into a company that, in all likelihood, has already peaked. </p>
+<p>I have a hard time imagining that they will, but perhaps King has a secret strategy up its sleeve that we do not know about. </p>
+<p>The company released <span>an </span><a href="http://www.sec.gov/Archives/edgar/data/1580732/000119312514094529/d564433df1a.htm" target="_blank">updated F-1 filing F-1</a> filing <span>with the Securities and Exchange Commission on Wednesday that priced its shares at between <span>$21 to $24. The company is offering a total of 22.2 million shares, 15.5 million of which are being offerd by King, with the other 6.6 million are being sold by shareholders.</span></span></p>
+<p><span>That means that the company could net up to $532.8 million on the high end, higher than it's initial $500 million goal from its <a href="/news/2014-02-18-candy-crush-maker-files-for-ipo-sees-93m-daily-usershttp://vator.tv/news/2014-02-18-candy-crush-maker-files-for-ipo-sees-93m-daily-users">initial F-1 filing in February</a>. </span>King expects to be valued at $7.6 billion, or four times last year's sales.</p>
+<p>This is all happening while King is seeing extremely high financial growth, but slowing usage, which could portend problems for the gaming studio as it tries to please investors. </p>
+<p>In 2013, the company took home a profit of $568 million on $1.88 billion in revenue. That’s up from a profit of $7.8 million on revenue of $164 million in 2012. In 2011, it posted a loss of $1.3 million on $64 million in revenue.</p>
+<p>Going from $164 million to $1.88 billion in one year is some pretty head spinning growth, so its no wonder that the company wants to strike while that iron is hot. The question is, though: can that be turned into long-term viability. Some of the heat has come off of Candy Crush Saga as of late.</p>
+<p>In December 2013, King Digital saw its first quarterly decline in revenue and profit since March 2012. The company generated $159 million in profit on $602 million in revenue in the December 2013 quarter, which is down from $230 million in profit on $621 million in revenue in September 2013. And the company admits in its filing that the decline in revenue was due exclusively to a decline in Candy Crush gross bookings.</p>
+<p>The problem is that so much of King's growth was reliant on Candy Crush, and the company has not yet proven that it is more than a one hit wonder.</p>
+<p>Candy Crush Saga has 93 million daily active users, which is triple that of all of King Digital’s other games combined. Its next most popular game, Pet Rescue Saga, has 15 million daily active users, and just 129 million daily game plays, compared to Candy Crush’s 1.085 billion daily game plays.</p>
+<p>In all, Candy Crush accounts for a full 78% of King Digital’s gross bookings.</p>
+<p>(Image source: <a href="http://blog.games.com/2013/04/18/candy-crush-saga-walkthrough-cheats-tips/">blog.games.com</a>)</p>
+<p style="font-size:14px;font-weight:bold;padding:5px 0 0 0;margin:0"><a class="black" href="/news/2014-02-18-candy-crush-maker-files-for-ipo-sees-93m-daily-users">Candy Crush maker files for IPO despite declining usage</a></p>
+<p style="font-size:13px"><a class="black" href="/news/2014-02-18-candy-crush-maker-files-for-ipo-sees-93m-daily-users">Is an IPO a good idea for a company that generates 78% of revenue from one game?</a></p>
+<p>Financial trends and news by Faith Merino<br/>
+</p>
+<p style="font-size:14px;font-weight:bold;padding:5px 0 0 0;margin:0"><a class="black" href="/news/2013-11-15-ipo-candidate-king-unveils-candy-crushs-500m-downloads">IPO candidate King unveils Candy Crush's 500M downloads</a></p>
+<p style="font-size:13px"><a class="black" href="/news/2013-11-15-ipo-candidate-king-unveils-candy-crushs-500m-downloads">While King is an established studio, one mega-hit may not be enough to get public investors excited</a></p>
+<p>Technology trends and news by Steven Loeb<br/>
+</p>

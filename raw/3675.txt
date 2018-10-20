@@ -1,0 +1,12 @@
+<p class="c-audio__text-listen">Listen to story</p>
+<p style="order:0;">Last year, Americans used public transportation to take 10.7 billion trips. <a href="http://www.apta.com/resources/statistics/Documents/2013-q4-ridership-APTA.pdf">According to the American Public Transportation Association</a>, ridership hasn’t been that high since 1956.</p>
+<p style="order:1;">“It’s truly a fundamental shift in how people are moving about their communities,” says Michael Melaniphy, the group’s president and CEO, noting the growth started several years ago.</p>
+<p style="order:2;">“Initially, when fuel prices spiked, it drove people to transit, and once they came, they decided it was good, and they stayed.”</p>
+<p style="order:3;">There is a correlation, Melaniphy says, between high ridership and the health of the U.S. economy. Sixty percent of trips taken on public transit are work commutes.</p>
+<p style="order:4;">However, Michael Moss, who directs the Rudin Center for Transportation Policy and Management at New York University, argues the other 40 percent is also important: </p>
+<p style="order:5;">“Mass transit today is not just a peak-hour activity,” he says. As public transportation becomes more popular, and as cities spend more money on expanding it, transit systems are opening earlier and closing later.</p>
+<p style="order:6;">“There was a time when you said, ‘I want to live near a good school district,’” Moss says. “Today, people want to live near a good transit connection.”</p>
+<p style="order:7;">Moss is referring to young people especially, who are ever less likely to own cars.</p>
+<p style="order:8;"><strong><a href="http://www.marketplace.org/shows/marketplace-morning-report/marketplace-morning-report-monday-march-10-2014">Featured in: Marketplace Morning Report for Monday, March 10, 2014</a></strong></p>
+<p></p>
+<p class="o-newsletter-appeal__description">Sign up to get KPCC's Short List newsletter.</p>

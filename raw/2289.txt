@@ -1,0 +1,33 @@
+<p>Fixed-rate mortgages have been preferred the past few years following the housing bust because of their stability and certainty. However, adjustable-rate mortgages, with their low introductory interest rate, have been rebounding recently in loan the market.</p>
+<p>In the past year, rate for the 30-year fixed mortgages climbed from about 3.4 percent in February 2013 to about 4.1 percent in February 2014. This upward trend will continue and likely reach 5 percent before the end of 2014, says Erin Lantz, director of the Zillow Mortgage Marketplace.</p>
+<p>On the other hand, 5/1 ARMs still show near historical low introductory rates, around 2.75 percent in February 2014, which seems more appealing to homebuyers.</p>
+<p>Particularly, for buyers plan to move or sell their houses within few years, hybrid ARMs could be financially advantageous, since they provide extended initial period with a fixed-rate from three to ten years, says Len Kiefer, deputy chief economist at Freddie Mac.</p>
+<p>According to Freddie Mac’s ARM Annual Survey, in January 2014 the interest-rate savings for a 5/1 hybrid ARM with a 30-year term compared to the 30-year fixed-rate mortgage amounted to about 1.36 percentage points. On a $250,000 loan, this results in $194 in principal and interest savings during the first five years of the ARM loan versus a fixed-rate mortgage.</p>
+<p>However, homebuyers should be wary of possible risk that interest rate can go up after fixed-rate period ends.</p>
+<p>Interest rates will increase as Federal Reserve System begin to taper its quantitative easing as the economy continues to show signs of improvement, says Kiefer.</p>
+<p>Moreover, if home prices drop unexpectedly, a buyer could wind up getting negative equity, lose its selling point and be stuck in a mortgage with a rate that adjusts higher, as experienced during housing bust, says Lantz.</p>
+<p>As always, buy a house that you can comfortably afford. If a buyer qualifies for an ARM, consider one with longer fixed periods, such as 7/1 or 10/1 ARMs, which can give a leeway in case that circumstances change.</p>
+<p>© CTW Features</p>
+<p>
+<div class="inline-container rel space--btm">
+<input class="white nl__input font--m bg--slate-light-2" id="fieldEmail" name="cm-qhhtdu-qhhtdu" placeholder="your@email.com" required="" type="email"/>
+<input class="nl__submit br--none font--ml bg--slate-dark-2" type="submit" value="Sign Up"/>
+</div>
+</p>
+<p>
+<ul>
+<li><label for="#nlSignup-Morning"><input checked="checked" class="form-inputs nl-check" data-nl-name="morning" id="nlSignup-Morning" name="cm-ol-qjiurr" type="checkbox"> Morning newsletter</input></label></li>
+<li><label for="#nlSignup-Phillies"><input class="form-inputs nl-check" data-nl-name="extrainnings" id="nlSignup-Phillies" name="cm-ol-zltnr" type="checkbox"> Extra Innings</input></label></li>
+<li><label for="#nlSignup-Eagles"><input class="form-inputs nl-check" data-nl-name="earlybirds" id="nlSignup-Eagles" name="cm-ol-qykdjr" type="checkbox"> Early Birds</input></label></li>
+<li><label for="#nlSignup-Food"><input class="form-inputs nl-check" data-nl-name="letseat" id="nlSignup-Food" name="cm-ol-xljhrk" type="checkbox"> Let's Eat</input></label></li>
+</ul>
+</p>
+<p>
+<a class="sign-up main-form dib" href="//www.philly.com/philly/newsletters">
+<span class="td--on">
+<b>Show all</b>
+<span class="dib tl__arrow invisible">▾</span>
+</span>
+</a>
+</p>
+<p class="copyright clear center"><a href="//www.philly.com/philly/about/copyright/">© Copyright </a><span class="light">2018 Philadelphia Media Network (Digital), LLC</span> <a class="space-half--left" href="//www.philly.com/philly/about/terms_of_use/">Terms of Use &amp; Privacy Policy</a></p>

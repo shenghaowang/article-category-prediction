@@ -1,0 +1,35 @@
+<p>Your privacy is important to us. We have updated our privacy policy to better explain how we use data on this site. <a href="/privacy/">Read it here</a></p>
+<p>KUALA LUMPUR, Malaysia — An oil slick on the sea. A purported wrong turn to the west seen on military radar. Questionable satellite photos. Passengers boarding with stolen passports.</p>
+<p>After six days, what seemed like potential clues to the disappearance of Malaysia Airlines Flight MH370 have all led nowhere.</p>
+<p>“This situation is unprecedented. MH370 went completely silent over the open ocean,” said acting Transport Minister Hishammuddin Hussein. “This is a crisis situation. It is a very complex operation, and it is not obviously easy. We are devoting all our energies to the task at hand.”</p>
+<p>On Thursday, Malaysian authorities expanded their search westward toward India, saying the aircraft with 239 people aboard may have flown for several hours after its last contact with the ground shortly after takeoff early Saturday from Kuala Lumpur for Beijing.</p>
+<p>The U.S. Navy 7th Fleet said it is moving one of its ships, the USS Kidd, into the Strait of Malacca, west of Malaysia.</p>
+<p>The international search is methodically sweeping the ocean on both sides of Malaysia. The total area being covered is about 35,800 square miles (92,600 square kilometers) — about the size of Portugal.</p>
+<p>One part of the hunt is in the South China Sea, where the aircraft was seen on civilian radar flying northeast before vanishing without any indication of technical problems. A similar-sized search is also being conducted in the Strait of Malacca because of military radar sightings that might indicate the plane turned in that direction after its last contact, passing over the Malay Peninsula.</p>
+<p>The jet had enough fuel to reach deep into the Indian Ocean.</p>
+<p>“Because of new information, we may be part of an effort to open a new search area in the Indian Ocean,” White House spokesman Jay Carney said, declining to offer additional details about that information or the new area.</p>
+<p>In the latest disappointment, search planes failed to find any debris from the Boeing 777 after they were sent Thursday to an area of the South China Sea off the southern tip of Vietnam where satellite images published on a Chinese government website reportedly showed three suspected floating objects.</p>
+<p>“There is nothing. We went there. There is nothing,” Hishammuddin said.</p>
+<p>Compounding the frustration, he later said the Chinese Embassy had notified the government the images were released by mistake and did not show any debris from the missing flight.</p>
+<p>The Wall Street Journal quoted U.S. investigators as saying they suspected the plane stayed in the air for about four hours after its last confirmed contact, citing engine data automatically transmitted to the ground as part of a routine maintenance program. The newspaper later corrected the account to say the information came from the plane’s satellite communication link, not the engines.</p>
+<p>A U.S. official on Thursday said the plane was sending signals to a satellite for four hours after the aircraft went missing, an indication that it was still flying.</p>
+<p>The official said the plane wasn’t transmitting data to the satellite, but sending out a signal to establish contact. Boeing offers a satellite service that can receive a stream of data during flight on how the aircraft is functioning.</p>
+<p>The official, who spoke on condition of anonymity because he wasn’t authorized to speak publicly, said Malaysia Airlines didn’t subscribe to that service, but the system was automatically pinging the satellite anyway.</p>
+<p>Asked if it were possible that the plane kept flying for several hours, Hishammuddin said: “Of course. We can’t rule anything out. This is why we have extended the search. We are expanding our search into the Andaman Sea.” The sea is northwest of the Malay Peninsula.</p>
+<p>He said Malaysia was asking for radar data from India and other neighboring countries to see if they can trace it flying northwest. India says its navy, air force and coast guard will search for the plane in the south Andaman Sea.</p>
+<p>More than two-thirds of those on Flight MH370 were from China, which has shown impatience with the absence of any results. Chinese Premier Li Keqiang said Thursday in Beijing he would like to see better coordination among countries in the search.</p>
+<p>The passengers’ “families and friends are burning with anxiety. The Chinese government and Chinese people are all deeply concerned about their safety,” he said at the close of the annual session of the country’s legislature. “As long as there is a glimmer of hope, we will not stop searching for the plane.”</p>
+<p>He said China had eight ships and 10 satellites searching for the plane.</p>
+<p>Malaysia has been criticized for its handling of the search, in part because it took several days to fully explain why it couldn’t say whether the plane had turned back. Officials say they are not hiding anything and are searching areas where the plane is most likely to be, while trying to establish its actual location.</p>
+<p>Besides the Chinese satellite photos and the so-far fruitless search based on the possible sighting on military radar, there have been other developments in the aviation mystery that have failed to lead to finding the plane or the cause of its disappearance:</p>
+<p>• Oil slicks seen Saturday were found to have nothing to do with the jetliner.</p>
+<p>• A yellow object spotted by a search plane turned out to be ordinary sea trash.</p>
+<p>• Officials initially said four or five passengers checked in for the flight but did not board, fueling speculation about terrorism. Officials later said some people with reservations never checked in and were simply replaced by standby passengers, and no baggage was removed.</p>
+<p>• Officials said two men, later identified as Iranians, boarded the plane with stolen passports. It was later reported that they were unlikely to be linked to terrorist groups.</p>
+<p>Investigators have not ruled out any possible cause for the plane’s disappearance.</p>
+<p>Experts say a massive failure knocking out electrical systems, while unlikely, could explain why the transponders were not working. Another possibility is that the pilot, or a passenger, likely one with some technical knowledge, switched off the transponders in the hope of flying undetected.</p>
+<p>“There is no real precedent for a situation like this. The plane just vanished,” Hishammuddin said.</p>
+<p>Experts say that if the plane crashed into the ocean, some debris should be floating even if most of the jet is submerged. Past experience shows that finding the wreckage can take weeks or even longer, especially if the location of the plane is in doubt.</p>
+<p></p>
+<p :newslist="" b="" count="6" days="30" fields="ExternalURL" objectclass="16" profile="" s="" useobjects="1">
+</p>

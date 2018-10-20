@@ -1,0 +1,17 @@
+<p>Follow us: </p>
+<p class="text">
+        We're no longer maintaining this page.
+    </p>
+<p class="text">
+        For the latest business news and markets data, <a href="https://www.cnn.com/business/">please visit CNN
+            Business </a>
+</p>
+<p class="speakable"> State officials say the numbers came in as expected. </p>
+<p class="speakable"> On Jan. 1, Colorado became the first state to permit the sale of <a href="http://www.cnn.com/2013/12/28/us/10-things-colorado-recreational-marijuana/">recreational marijuana</a> to anyone age 21 or older. Cannabis purchases are limited to one ounce. It's the first place in the world where marijuana will be regulated from seed to sale. </p>
+<p> <a href="http://money.cnn.com/2014/03/08/news/companies/medical-marijuana-ad/"><span class="inStoryHeading">Related: How a marijuana ad went up in smoke</span></a> </p>
+<p> Colorado places a 15% excise tax, a 10% special sales tax and a 2.9% sales tax on recreational marijuana, in addition to application and license fees. It imposes just a 2.9% sales tax, as well as application on license fees, on medical marijuana, which was legalized by voters in Colorado in <a href="http://www.cnn.com/2009/US/12/14/colorado.medical.marijuana/">2000</a>. </p>
+<p> When combined with taxes and fees from medicinal marijuana, the state brought in a total of $3.5 million in January from pot sales. </p>
+<p> The state also taxes alcohol, which brought in about $5.1 million in taxes in December, the most recent data available from the Colorado Department of Revenue. </p>
+<p> A big chunk of the funds collected from marijuana taxes will be funneled to programs <a href="http://money.cnn.com/2014/02/20/news/economy/marijuana-taxes-colorado/">aimed at keeping kids way from pot</a>. The governor has requested funds for the prevention of youth marijuana, for treatment of substance use, regulatory oversight, and law enforcement and public safety. </p>
+<p class="fe31535c">Most stock quote data provided by BATS. Market indices are shown in real time, except for the DJIA, which is delayed by two minutes. All times are ET. Disclaimer. Morningstar: © <!-- -->2018<!-- --> Morningstar, Inc. All Rights Reserved. Factset: FactSet Research Systems Inc.<!-- -->2018<!-- -->. All rights reserved. Chicago Mercantile Association: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&amp;P Dow Jones Indices LLC and have been licensed for use to S&amp;P Opco, LLC and CNN. Standard &amp; Poor's and S&amp;P are registered trademarks of Standard &amp; Poor's Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices © S&amp;P Dow Jones Indices LLC<!-- --> <!-- -->2018<!-- --> and/or its affiliates.</p>
+<p class="fe31535c" id="cnnmoney_footer_terms">© <!-- -->2018<!-- --> Cable News Network. A WarnerMedia Company. All Rights Reserved.<a href="//www.cnn.com/terms/" rel="noopener noreferrer" target="_blank">Terms</a> <!-- -->under which this service is provided to you.<a href="//www.cnn.com/privacy/" rel="noopener noreferrer" target="_blank"> <!-- -->Privacy Policy.</a> <a id="trusteLink"></a></p>

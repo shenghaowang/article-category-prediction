@@ -1,0 +1,17 @@
+<p class="navbar-text navbar-left"><a href="/">Kaiser Health News <i aria-hidden="true" class="fa fa-home"></i></a></p>
+<p class="navbar-text navbar-right"><a href="/contact-us/">Connect With Us <i aria-hidden="true" class="fa fa-envelope"></i></a></p>
+<p class="feedback">
+<a class="btn-feedback" href="/contact-us/">We want to hear from you: Contact Us</a>
+</p>
+<p class="headline" href="https://khn.org/news/as-billions-in-tax-dollars-flow-to-private-medicaid-plans-whos-minding-the-store/">
+										As Billions In Tax Dollars Flow To Private Medicaid Plans, Who’s Minding The Store?									</p>
+<p class="headline" href="https://khn.org/news/breeze-october-19-health-care-must-reads-of-the-week-from-brianna-labuskes/">
+										Must-Reads Of The Week From Brianna Labuskes									</p>
+<p class="headline" href="https://khn.org/news/facebook-live-what-about-those-sky-high-air-ambulance-costs/">
+										Facebook Live: What About Those Sky-High Air Ambulance Costs?									</p>
+<p class="headline" href="https://khn.org/news/childrens-hospitals-again-cry-for-help-from-voters-but-are-they-really-hurting/">
+										Children’s Hospitals Again Cry For Help From Voters. But Are They Really Hurting?									</p>
+<p class="footer-copyright">
+				© 2018 <a href="http://kff.org/" target="_blank">Kaiser Family Foundation</a>. All rights reserved.			</p>
+<p class="footer-vip-powered">
+				Powered by <a class="powered-by-wpcom" href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit&amp;utm_term=khn.org" rel="generator nofollow">WordPress.com VIP</a> </p>

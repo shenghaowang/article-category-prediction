@@ -1,0 +1,27 @@
+<p>Give Now <span id="givearrow"></span></p>
+<p><a href="https://www.indiana.edu/~radiotv/support/?refer=radio"><img alt="wfiu logo" src="/wp-content/themes/ipm/images/radio.png"/><br/>WFIU Public Radio</a></p>
+<p><a href="https://www.indiana.edu/~radiotv/support/?refer=tv"><img alt="wtiu logo" src="/wp-content/themes/ipm/images/tv.png"/><br/>WTIU Public Television</a></p>
+<p id="support-text">Choose which station to support!</p>
+<p><a href="https://www.indiana.edu/~radiotv/support/?refer=radio"><img alt="wfiu logo" src="/wp-content/themes/ipm/images/radio.png"/><br/>WFIU Public Radio</a></p>
+<p><a href="https://www.indiana.edu/~radiotv/support/?refer=tv"><img alt="wtiu logo" src="/wp-content/themes/ipm/images/tv.png"/><br/>WTIU Public Television</a></p>
+<p id="support-text">Choose which station to support!</p>
+<p class="wp-caption-text">In 2013 IndyGo ridership hit its highest level since 1992.</p>
+<p>As the legislature debates whether to let Central Indiana voters decide whether to expand public transit, a new report shows there is more demand for seats on buses and trains.</p>
+<p>The number of rides taken on public transportation systems in the United States last year was the highest it has been since the 1950s, according to a <a href="http://www.apta.com/mediacenter/pressreleases/2014/Pages/140310_Ridership.aspx" onclick="javascript:pageTracker._trackPageview('/outgoing/www.apta.com/mediacenter/pressreleases/2014/Pages/140310_Ridership.aspx');" target="_blank">report from the American Public Transportation Association</a> released today.</p>
+<p>While Indiana has less public transportation than some other states, it is in line with the upward trend.</p>
+<p>The new report shows ridership in Bloomington increased 1.6 percent and 2.7 percent in Indianapolis in 2013.</p>
+<p>IndyGo reported more than 10.2 million dixed route trips taken on its buses, its highest number since 1991.</p>
+<p>President and CEO of the American Public Transportation Association Michael Melaniphy says the report’s findings reveal a fundamental change in people’s lifestyles.</p>
+<p>“2008 was a high watermark when fuel was over four dollars here and five dollars on the West Coast,” he says. “People were flocking to transit, they came, they found out they liked it and they stayed. Now fuel is well under four dollars and they’re continuing to stay. It’s also driven by growth and the economy. As people go back to work they’re riding transit more. About 50 percent of all trips are on transit.”</p>
+<p>According to the Indiana Department of Transportation’s 2012 Public Transit Report, one percent of people over 16 used public transportation to get to work in Indiana, compared to the national average of 5.2 percent. A new proposed bill to expand mass transit in Central Indiana, however, could help to increase these rates.</p>
+<p>Vice President of Government Relations for the Greater Indianapolis Chamber of Commerce Mark Fisher supports the bill and says the new report attests to public transportation’s long-term viability.</p>
+<p>“People are choosing different lifestyles than they were even 10 or 15 years ago where it was a continuous push out to suburbs. Transit provides a very cost-effective option for them to be able to move around their community,” Fisher says.</p>
+<p>If the proposed bill passes, funding would come from fares as well as business and local income taxes.</p>
+<p><em>Network Indiana contributed to this report.</em></p>
+<p>Want to contact your legislators about an issue that matters to you? <a href="https://www.govtrack.us/congress/members/IN">Find out how to contact your senators and member of Congress here</a>.</p>
+<p style="margin-bottom: 20px;"><strong>What is RSS?</strong> RSS makes it possible to subscribe to a website's updates instead of visiting it by delivering new posts to your RSS reader automatically. Choose to receive some or all of the updates from Indiana Public Media News:</p>
+<p class="bottom-note clear" style="padding-left:4px; margin-top:10px;"><a href="https://indianapublicmedia.org/news/category/transportation/">Transportation Archives »</a>
+</p>
+<p><strong>Indiana Public Media</strong> is the home of <a href="/radio/">WFIU Public Radio</a> &amp; <a href="http://wtiu.indiana.edu/">WTIU Public Television</a>, including your favorite programming from NPR and PBS. <a href="/about/">Learn More »</a></p>
+<p><a href="//www.iu.edu/copyright/index.html" rel="nofollow">© 2018</a>, The Trustees of <a href="//www.indiana.edu" rel="nofollow">Indiana University</a> <span style="color:#999;">•</span> <a href="//www.iu.edu/copyright/index.html#complaints" rel="nofollow">Copyright Complaints</a></p>
+<p>1229 East Seventh Street, Bloomington, Indiana 47405</p>

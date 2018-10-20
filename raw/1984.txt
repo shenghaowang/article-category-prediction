@@ -1,0 +1,15 @@
+<p class="site-title" itemprop="headline"><a href="https://www.geeky-gadgets.com/">Geeky Gadgets</a></p>
+<p class="site-description" itemprop="description">Gadgets and Technology News</p>
+<p><!-- /1041236/Top728x90 --></p>
+<p class="entry-meta"><time class="entry-time" datetime="2014-03-10T15:07:49+00:00" itemprop="datePublished">3:07 pm</time> <time class="entry-time" datetime="2014-03-10T15:07:49+00:00" itemprop="datePublished">March 10, 2014</time> By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://www.geeky-gadgets.com/author/fatgadget/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Roland Hutchinson</span></a></span></p>
+<p><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- GG Top --> <ins class="adsbygoogle" data-ad-client="ca-pub-7158083370081382" data-ad-slot="5493556457" style="display:inline-block;width:336px;height:280px"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});</script> </p>
+<p><a href="https://www.geeky-gadgets.com/hackers-accuse-mt-gox-bitcoin-of-fraud-after-hack-10-03-2014/">Mt. Gox</a> recently filed for bankruptcy after the company said that they had been hacked and over $400 million worth of Bitcoins had been stolen.</p>
+<p>We heard a report earlier today that MT. Gox was hacked recently, and the hackers who carrier out the attack obtained data from Mt. Gox.</p>
+<p><img alt="bitcoin" class="aligncenter size-full wp-image-169498" height="533" sizes="(max-width: 700px) 100vw, 700px" src="https://www.geeky-gadgets.com/wp-content/uploads/2014/03/bitcoin.jpg" srcset="https://www.geeky-gadgets.com/wp-content/uploads/2014/03/bitcoin.jpg 700w, https://www.geeky-gadgets.com/wp-content/uploads/2014/03/bitcoin-300x228.jpg 300w" width="700"/><span id="more-169496"></span></p>
+<p>The hackers alleged that Mt. Gox are still in possession of the Bitcoins that the company previously reported as stolen, Mt. Gox has neither confirmed of denied this.</p>
+<p>Now ZDNet has discovered that Mt. Gox has also filed for bankruptcy in the US, the company previously filed for bankruptcy in Japan.</p>
+<p>According to the ZDNet report, the company filed chapter 15 bankruptcy in the US yesterday, this is the second country that the company has made this filing in.</p>
+<p>From what has been revealed so far, it looks like there may be a little more to the story of Mt. Gox than originally thought, as soon as we get some more information on exactly what happened, we will let you guys know.</p>
+<p>Source <a href="http://www.zdnet.com/mt-gox-files-for-bankruptcy-in-u-s-7000027136/">ZDNet</a></p>
+<p></p>
+<p><div class="bottomad"><div align="center"><!-- /1041236/Bottom728x90 --><div id="div-gpt-ad-1366207458134-0" style="height:90px; width:728px;"> <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1508183197795-0'); });</script></div></div></div><br/>Copyright 2007 - 2018 Geeky Gadgets</p>

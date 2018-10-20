@@ -1,0 +1,137 @@
+<p class="widget-title widgettitle">Share This Article</p>
+<p class="widget-title widgettitle">Email this Article</p>
+<p class="entry-meta">By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/gbaldwin3/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Garrett Baldwin</span></a></span>, <span class="author-title"> Economist</span>, <span class="author-attribution">Money Morning</span> <span class="sep">•</span> <time class="entry-time" datetime="2014-03-10T07:55:42+00:00" itemprop="datePublished">March 10, 2014</time> </p>
+<p>Start the conversation</p>
+<p class="comment-reply-title" id="reply-title">Leave a Reply <small><a href="/2014/03/10/todays-stock-market-news-earnings-calendar-15/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Click here to cancel reply.</a></small></p>
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>
+<p class="comment-form-comment"><label for="comment">Comment</label> <textarea aria-required="true" cols="45" id="comment" maxlength="65525" name="comment" required="required" rows="8"></textarea></p>
+<p class="mm-signup-comment-checkbox"><label><input checked="checked" class="mm-signup" id="mm-signup" name="mm-signup" type="checkbox" value="1"/> Sign me up for the <em>Money Morning</em> newsletter</label></p>
+<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input aria-required="true" id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input aria-describedby="email-notes" aria-required="true" id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" maxlength="200" name="url" size="30" type="url" value=""/></p>
+<p class="cptch_block"><br/><span class="cptch_wrap">
+<label class="cptch_label" for="cptch_input">
+<span class="cptch_span">5</span>
+<span class="cptch_span"> + </span>
+<span class="cptch_span">three</span>
+<span class="cptch_span"> = </span>
+<span class="cptch_span"><input aria-required="true" autocomplete="off" class="cptch_input " id="cptch_input_26" maxlength="2" name="cptch_number" required="required" size="2" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;" type="text" value=""/></span>
+<input name="cptch_result" type="hidden" value="mgw="/>
+<input name="cptch_time" type="hidden" value="1540058815"/>
+<input type="hidden" value="Version: 4.2.2"/>
+</label><span class="cptch_reload_button_wrap hide-if-no-js">
+<noscript>
+<style type="text/css">
+							.hide-if-no-js {
+								display: none !important;
+							}
+						</style>
+</noscript>
+<span class="cptch_reload_button dashicons dashicons-update"></span>
+</span></span></p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Submit &gt;"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="124716"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="f2b8edece7"/></p>
+<p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="143"/></p>
+<p><strong><em>Today's stock  market news, March 10, 2014: </em></strong>The <a href="http://www.moneymorning.com/tag/dow-jones-industrial-average" target="_blank">Dow Jones  Industrial Average</a> gained 0.19% on Friday to close at 16,452.72. The Nasdaq  lost 0.37%, closing at 4,336.22. The S&amp;P 500 remained flat, finishing at 1,878.04.</p>
+<p><a href="https://moneymorning.com/tag/gold-prices/" target="_blank">Gold prices</a> fell 0.86% to $1,340.50 an ounce. <a href="https://moneymorning.com/tag/silver-prices/" target="_blank">Silver prices</a> slumped by  3.05% to close at $20.92 an ounce. West Texas Intermediate gained 1.00%,  trading at $102.58 a barrel. </p>
+<p>What time is it? Remember, daylights savings time happened on Sunday  morning, springing clocks forward by an hour. Be sure to set those car clocks  and microwaves.</p>
+<p>Now here's the news to watch today:</p>
+<p><div class="charts" style="padding:8px;width:250px;border:1px solid #ADADAD;margin-right:8px;float:right"><script>
+            var mmscTicker = '';
+        </script><script>var chartSize = 'small';</script><script>
+        mmscTicker = 'DJIA';
+        </script><div class="mmsc-wrapper">
+<div class="mmsc-fundamentals">
+<div class="mmsc-fundamentals-left">
+<div>
+<span></span>
+</div>
+<div>
+<span></span>
+</div>
+<div>
+<span></span>
+<span></span>
+<span></span>
+</div>
+</div>
+<div class="mmsc-fundamentals-right">
+<div>
+<span></span>
+<span></span>
+</div>
+<div>
+<span></span>
+<span></span>
+</div>
+<div>
+<span></span>
+<span></span>
+</div>
+<div>
+<span></span>
+<span></span>
+</div>
+</div>
+</div>
+<div class="mmsc-time-frame">
+<span class="1d"></span>
+<span class="1m"></span>
+<span class="3m"></span>
+<span class="1y"></span>
+<span class="5y"></span>
+</div>
+<div class="mmsc-stock-chart">
+</div>
+</div></div>
+</p>
+<p><strong style="color:red">Note:</strong> <strong><em>The Fed's 2014 taper means volatility ahead. So we've  outlined how to find profits in a volatile market – like triple-digit gains in  just days – <a href="https://moneymorning.com/active-premiums/market-crash-insurance/?src=organic" target="_blank">if you start with this strategy…</a></em></strong> </p>
+<p><strong>We're seeing bullish developments that point to huge gains in  the burgeoning uranium market. <a href="https://moneymorning.com/2014/03/10/play-surging-uranium-bull/" target="_blank">Here's how  to play that surging bull market…</a></strong></p>
+<p><a class="scroll-to-comments" href="#respond">Join the conversation. Click here to jump to comments…</a></p>
+<p>Tags: <a href="https://moneymorning.com/tag/dow-jones-industrial-average/" rel="tag">Dow Jones Industrial Average</a>, <a href="https://moneymorning.com/tag/earnings/" rel="tag">earnings</a>, <a href="https://moneymorning.com/tag/earnings-calendar/" rel="tag">earnings calendar</a>, <a href="https://moneymorning.com/tag/earnings-reports/" rel="tag">earnings reports</a>, <a href="https://moneymorning.com/tag/investing-in-2014/" rel="tag">investing in 2014</a>, <a href="https://moneymorning.com/tag/investing-in-the-stock-market/" rel="tag">Investing in the stock market</a>, <a href="https://moneymorning.com/tag/investing-today/" rel="tag">Investing Today</a>, <a href="https://moneymorning.com/tag/market-crash/" rel="tag">market crash</a>, <a href="https://moneymorning.com/tag/market-news/" rel="tag">market news</a>, <a href="https://moneymorning.com/tag/market-news-2014/" rel="tag">market news 2014</a>, <a href="https://moneymorning.com/tag/pre-market-trading/" rel="tag">pre-market trading</a>, <a href="https://moneymorning.com/tag/pre-market-trading-report/" rel="tag">pre-market trading report</a>, <a href="https://moneymorning.com/tag/sp-500/" rel="tag">S&amp;P 500</a>, <a href="https://moneymorning.com/tag/stock-market-2014/" rel="tag">stock market 2014</a>, <a href="https://moneymorning.com/tag/stock-market-crash/" rel="tag">stock market crash</a>, <a href="https://moneymorning.com/tag/stock-market-crash-today/" rel="tag">stock market crash today</a>, <a href="https://moneymorning.com/tag/stock-market-news/" rel="tag">stock market news</a>, <a href="https://moneymorning.com/tag/stock-market-news-2014/" rel="tag">stock market news 2014</a>, <a href="https://moneymorning.com/tag/stock-market-news-today/" rel="tag">stock market news today</a>, <a href="https://moneymorning.com/tag/stock-market-now/" rel="tag">stock market now</a>, <a href="https://moneymorning.com/tag/stock-market-today/" rel="tag">Stock Market Today</a>, <a href="https://moneymorning.com/tag/stock-market-trend/" rel="tag">stock market trend</a>, <a href="https://moneymorning.com/tag/stock-market-trends-2014/" rel="tag">stock market trends 2014</a>, <a href="https://moneymorning.com/tag/stock-market-trends-this-week/" rel="tag">stock market trends this week</a>, <a href="https://moneymorning.com/tag/stock-news/" rel="tag">stock news</a>, <a href="https://moneymorning.com/tag/stock-news-2014/" rel="tag">stock news 2014</a>, <a href="https://moneymorning.com/tag/stocks/" rel="tag">Stocks</a>, <a href="https://moneymorning.com/tag/stocks-2014/" rel="tag">stocks 2014</a>, <a href="https://moneymorning.com/tag/stocks-to-buy/" rel="tag">Stocks to Buy</a>, <a href="https://moneymorning.com/tag/todays-earnings/" rel="tag">today's earnings</a>, <a href="https://moneymorning.com/tag/todays-stock-market/" rel="tag">Todays Stock Market</a>, <a href="https://moneymorning.com/tag/todays-market-news/" rel="tag">today’s market news</a>, <a href="https://moneymorning.com/tag/todays-stock-market-news/" rel="tag">Today’s stock market news</a>, <a href="https://moneymorning.com/tag/u-s-economy/" rel="tag">U.S. Economy</a>, <a href="https://moneymorning.com/tag/inside-wall-street/" rel="tag">Wall Street</a></p>
+<p class="comment-reply-title" id="reply-title">Leave a Reply <small><a href="/2014/03/10/todays-stock-market-news-earnings-calendar-15/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Click here to cancel reply.</a></small></p>
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>
+<p class="comment-form-comment"><label for="comment">Comment</label> <textarea aria-required="true" cols="45" id="comment" maxlength="65525" name="comment" required="required" rows="8"></textarea></p>
+<p class="mm-signup-comment-checkbox"><label><input checked="checked" class="mm-signup" id="mm-signup" name="mm-signup" type="checkbox" value="1"/> Sign me up for the <em>Money Morning</em> newsletter</label></p>
+<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input aria-required="true" id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input aria-describedby="email-notes" aria-required="true" id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" maxlength="200" name="url" size="30" type="url" value=""/></p>
+<p class="cptch_block"><br/><span class="cptch_wrap">
+<label class="cptch_label" for="cptch_input">
+<span class="cptch_span">7</span>
+<span class="cptch_span"> + </span>
+<span class="cptch_span">8</span>
+<span class="cptch_span"> = </span>
+<span class="cptch_span"><input aria-required="true" autocomplete="off" class="cptch_input " id="cptch_input_75" maxlength="2" name="cptch_number" required="required" size="2" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;" type="text" value=""/></span>
+<input name="cptch_result" type="hidden" value="lQXu"/>
+<input name="cptch_time" type="hidden" value="1540058815"/>
+<input type="hidden" value="Version: 4.2.2"/>
+</label><span class="cptch_reload_button_wrap hide-if-no-js">
+<noscript>
+<style type="text/css">
+							.hide-if-no-js {
+								display: none !important;
+							}
+						</style>
+</noscript>
+<span class="cptch_reload_button dashicons dashicons-update"></span>
+</span></span></p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Submit &gt;"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="124716"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="f2b8edece7"/></p>
+<p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="134"/></p>
+<p>
+					Choose from the topics below to receive our<wbr/>
+					money-making recommendations in real time.
+				</p>
+<p class="fpw-entry-meta"><time class="entry-time" datetime="2018-10-19T15:44:38+00:00" itemprop="datePublished">October 19, 2018</time> • By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/tom-gentile/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Tom Gentile</span></a></span> <span class="entry-comments-link"><a href="https://moneymorning.com/investing/use-options-to-profit-from-these-10-worst-performing-stocks/#respond">Leave a Comment</a></span></p>
+<p class="fpw-entry-meta"><time class="entry-time" datetime="2018-10-19T15:32:42+00:00" itemprop="datePublished">October 19, 2018</time> • By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/mmstaffreports/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Money Morning Staff Reports</span></a></span> <span class="entry-comments-link"><a href="https://moneymorning.com/2018/10/19/3-must-watch-penny-stocks-in-october-2018/#respond">Leave a Comment</a></span></p>
+<p class="fpw-entry-meta"><time class="entry-time" datetime="2018-10-19T15:09:53+00:00" itemprop="datePublished">October 19, 2018</time> • By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/mmnewsteam/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Money Morning News Team</span></a></span> <span class="entry-comments-link"><a href="https://moneymorning.com/2018/10/19/the-best-defense-stock-to-buy-in-october/#respond">Leave a Comment</a></span></p>
+<p class="widget-title">Trending Posts</p>
+<p class="disclaimer">By submitting your email address you will receive a free subscription to VQScore and occasional special offers from Money Map Press and our affiliates. You can unsubscribe at anytime and we encourage you to read more about our <a href="/privacy/" target="_blank">privacy policy</a>.</p>
+<p>Money Morning gives you access to a team of ten market experts with more than 250 years of combined investing experience – for free. Our experts – who have appeared on FOXBusiness, CNBC, NPR, and BloombergTV – deliver daily investing tips and stock picks, provide analysis with actions to take, and answer your biggest market questions. Our goal is to help our millions of e-newsletter subscribers and Moneymorning.com visitors become smarter, more confident investors. </p>
+<p>© 2018 Money Morning All Rights Reserved. Protected by copyright of the United States and international treaties. Any reproduction, copying, or redistribution (electronic or otherwise, including the world wide web), of content from this webpage, in whole or in part, is strictly prohibited without the express written permission of Money Morning. </p>
+<p>Address: 1125 N Charles Street | Baltimore, MD, 21201 | USA | Phone: 888.384.8339 | <a href="https://moneymorning.com/legal-disclaimers/">Disclaimer</a> | <a href="https://moneymorning.com/sitemap/">Sitemap</a> | <a href="https://moneymorning.com/privacy/">Privacy Policy</a> | <a href="https://moneymorning.com/whitelist/">Whitelist Us</a></p>

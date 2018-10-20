@@ -1,0 +1,38 @@
+<p>Deep-sea exploration is dangerous business. Immense pressures of up to 16,000 pounds per square inch can crush even the hardiest subs. The un-manned sub, Nereus, found this out on Saturday as it explored depths as deep as 6 miles.</p>
+<p>Seven hours into a nine-hour dive researches lost contact with Nereus. The sub is designed to automatically surface upon losing contact. Crew members aboard the research ship Thomson were unable to retrieve the sub and soon noticed debris from Nereus on the surface.</p>
+<p>Researchers now believe the un-manned sub was destroyed during an implosion under massive pressures.</p>
+<p>“Extreme exploration of this kind is never without risk, and the unfortunate loss of Nereus only underscores the difficulty of working at such immense depths and pressures,” WHOI Director of Research Larry Madin said in a statement.</p>
+<p>The Nereus has been in service since 2008 when it was built by the Deep Submergence Lab at the Woods Hole Oceanographic Institution (WHOI). The vehicle, valued at $8 million, was designed to dive the deepest parts of the ocean. </p>
+<p>It looks like it met its match in the Kermadec Trench northeast of New Zealand.</p>
+<p>Despite Nereus’ demise, exploration of the ocean floor will continue. Other un-manned subs have plenty to look through. Space is often called the final frontier, but we have only scratched the surface of the ocean sea floor. Estimates put 90% of the sea floor uncharted.
+									</p>
+<p align="left">
+<input name="EMAIL" placeholder="Enter Your E-mail Address" required="" type="email"/>
+</p>
+<p class="zeen-checkbox">
+<label>
+<input name="AGREE_TO_TERMS" required="" type="checkbox" value="1"/>
+<span class="zeen-i"></span>
+</label>
+<a href="https://www.newsledge.com/privacy-policy/" target="_blank">I have read and agree to the terms and conditions</a>
+</p>
+<p align="left">
+<input name="EMAIL" placeholder="Enter Your E-mail Address" required="" type="email">
+</input></p>
+<p class="zeen-checkbox">
+<label>
+<input name="AGREE_TO_TERMS" required="" type="checkbox" value="1"/>
+<span class="zeen-i"></span>
+</label>
+<a href="https://www.newsledge.com/privacy-policy/" target="_blank">I have read and agree to the terms and conditions</a>
+</p>
+<p align="left">
+<input name="EMAIL" placeholder="Enter Your E-mail Address" required="" type="email"/>
+</p>
+<p class="zeen-checkbox">
+<label>
+<input name="AGREE_TO_TERMS" required="" type="checkbox" value="1"/>
+<span class="zeen-i"></span>
+</label>
+<a href="https://www.newsledge.com/privacy-policy/" target="_blank">I have read and agree to the terms and conditions</a>
+</p>

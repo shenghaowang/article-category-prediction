@@ -1,0 +1,58 @@
+<p class="advsearch">
+				Try our <strong><a data-no-turbolink="" href="/advanced_search">Advanced Search</a></strong> for more refined results
+			</p>
+<p>Make sure you don't miss any Law360 breaking news.</p>
+<p class="byline" style="width:100%">
+<span>
+    By <strong><a href='/search/articles?q=reporter:"Igor Kossov"' id="reporter-popover">Igor Kossov</a></strong>
+</span>
+</p>
+<p class="already-subscribed-copy">Already a subscriber? <a href="/account/login?return_url=https%3A%2F%2Fwww.law360.com%2Farticles%2F516126%2Fus-jumps-into-latest-fannie-freddie-tax-liability-case" style="text-decoration: underline">Click here to login</a></p>
+<p>
+<a href="/subscribe?article_sidebar=1">Subscribers Only</a>
+</p>
+<p>
+<a href="/subscribe?article_sidebar=1">Subscribers Only</a>
+</p>
+<p>Appellate - 6th Circuit</p>
+<p>4950  Constitutional - State Statute</p>
+<p>December  8, 2013</p>
+<p class="copyright" style="text-align:center;">© 2018, Portfolio Media, Inc. <a href="/about" title="About Law360">About</a> | <a href="/about/contact" title="Contact Us">Contact Us</a> | <a href="http://jobs.law360.com/">Legal Jobs</a> | <a href="/careers" title="Careers at Law360">Careers at Law360</a> | <a href="/terms" title="Terms of Use">Terms</a> | <a href="/privacy_policy" target="_blank" title="Privacy Policy">Privacy Policy</a> | <a href="https://www.lexisnexis.com/global/privacy/privacy-cookies/default.aspx" target="_blank">Cookie Policy</a> | <a href="http://blogs.law360.com/" target="_new" title="Law360 Blog Updates">Law360 Updates</a> | <a href="/faq" title="FAQ Help">Help</a> | <a href="https://advance.lexis.com/" target="_blank" title="Lexis Advance">Lexis Advance</a>
+<br/>
+<span class="sitelinks">
+<label><strong>Beta Tools:</strong> </label> <a href="/advanced_search/dockets" title="Track docs">Track docs</a> | <a href="/advanced_search/attorneys" title="Track attorneys">Track attorneys</a> | <a href="/advanced_search/judges" title="Track judges">Track judges</a></span>
+</p>
+<p style="text-align:center;padding-bottom:5px;"><a href="/site_index" title="Site Map">Visit Our Site Map</a></p>
+<p class="instruction">Enter your details below and select your area(s) of interest to stay ahead of the curve and receive Law360's daily newsletters</p>
+<p></p>
+<p></p>
+<p></p>
+<p>
+<label for="user_email">Email <span class="req">(Professional email required)</span></label>
+<input alt="Email" class="input email" id="user_email" name="user[email]" size="30" tabindex="1" type="email" value=""/>
+</p>
+<p>
+<label for="user_fn">First Name</label>
+<input alt="First Name" class="input required" id="user_fn" name="user[first_name]" size="30" tabindex="2" type="text" value=""/>
+</p>
+<p>
+<label for="user_ln">Last Name</label>
+<input alt="Last Name" class="input required" id="user_ln" name="user[last_name]" size="30" tabindex="3" type="text" value=""/>
+</p>
+<p style="display:none;">
+<span style="display:block;padding:5px;color:#000;background-color:#fff;border-radius:3px;"><strong>PLEASE NOTE:</strong> A verification email will be sent to your address before you can access your trial.</span>
+</p>
+<p>
+<label for="user_password">Password <span class="req">(at least 6 characters required)</span></label>
+<input alt="Password" class="input password" id="user_password" name="user[password]" size="30" tabindex="4" type="password" value=""/>
+</p>
+<p>
+<label for="confirm_password">Confirm Password</label>
+<input alt="Confirm Password" class="input confirm" id="confirm_password" name="confirm[password]" size="30" tabindex="5" type="password" value=""/>
+</p>
+<p class="privacy">We take your privacy seriously. As detailed in our <a href="/privacy_policy" target="_blank">Privacy Policy</a> we will use your personal information to administer your account and provide the products and services that you have requested from us.</p>
+<p></p>
+<p></p>
+<p></p>
+<p class="privacy">We take your privacy seriously. As detailed in our <a href="/privacy_policy" target="_blank">Privacy Policy</a> we will use your personal information to administer your account and provide the products and services that you have requested from us.</p>
+<p></p>

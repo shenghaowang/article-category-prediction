@@ -1,0 +1,35 @@
+<p>Log in using your social <br/>network account</p>
+<p>Log in directly with <br/>The Independent</p>
+<p>Try Independent Minds <br/>free for 14 days</p>
+<p class="welcome"><template amp-access-template="" type="amp-mustache">Hi {{fullName}}</template></p>
+<p> </p>
+<p>Households across the country were today invited to “celebrate” when the Bank of England finally hikes interest rates after five years at 0.5 per cent.</p>
+<p align="left">Outgoing deputy governor Charlie Bean told a business audience that there were “clear signs” the economy was on the mend and that the Monetary Policy Committee was “doing its utmost to ensure that the recovery is not nipped in the bud”.</p>
+<p align="left">He added: “When the time does come for us to start raising the Bank Rate, we should celebrate that as a welcome sign that the economy is finally well on the road back to normality.”</p>
+<p align="left">Bean hailed signs of a recovery in business investment but added that the UK’s export recovery had been “somewhat disappointing” and flagged up a 10 per cent rise in the value of the pound over the past year as contributing to that. “Any further appreciation of sterling … would not be particularly helpful,” he added.</p>
+<p align="left">While a rate rise will be good news for savers, rising mortgage payments will hit millions of homeowners on floating-rate deals when rates finally go up.</p>
+<p align="left">Financial markets believe borrowing costs will begin to rise in the spring of next year although Bean urged against “getting too hung up on the precise date” of the first rate hike.</p>
+<p align="left">The deputy Governor said the past five years had been “tough for both businesses and households”, but they would have been tougher still without the MPC’s emergency liquidity action.</p>
+<p>You can find our Community Guidelines in full <a href="https://www.independent.co.uk/service/community-guidelines-9487166.html">here.</a></p>
+<p>You can find our Community Guidelines in full <a href="https://www.independent.co.uk/service/community-guidelines-9487166.html">here.</a></p>
+<p>Enter your email to follow new comments on this article.</p>
+<p>Are you sure you want to submit this vote?</p>
+<p>Are you sure you want to mark this comment as inappropriate?</p>
+<p>Want to discuss real-world problems, be involved in the most engaging discussions and hear from the journalists? Try Independent Minds free for 14 days. </p>
+<p>Are you sure you want to mark this comment as inappropriate?</p>
+<p>Are you sure you want to delete this comment?</p>
+<p>Anyone can post in open comments. Please continue to respect all commenters and create constructive debates.</p>
+<p>Want to discuss real-world problems, be involved in the most engaging discussions and hear from the journalists? Try Independent Minds free for 14 days. </p>
+<p>Independent Minds Comments can be posted by members of our membership scheme, Independent Minds.
+          It allows our most engaged readers to debate the big issues, share their own experiences, discuss
+          real-world solutions, and more. Our journalists will try to respond by joining the threads when
+          they can to create a true meeting of independent minds. The most insightful comments on all subjects
+          will be published daily in dedicated articles. You can also choose to be emailed when someone replies
+          to your comment.
+        </p>
+<p>
+          The existing Open Comments threads will continue to exist for those who do not subscribe to
+          Independent Minds. Due to the sheer scale of this comment community, we are not able to give each post
+          the same level of attention, but we have preserved this area in the interests of open debate. Please
+          continue to respect all commenters and create constructive debates.
+        </p>

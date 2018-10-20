@@ -1,0 +1,69 @@
+<p class="separator">|</p>
+<p><img src="/polopoly_fs/3.378!/icons/sky/XL/1.png"/></p>
+<p class="city">Abu Dhabi</p>
+<p class="location">UAE<i aria-hidden="true" class="fa fa-map-marker"></i>
+</p>
+<p class="date">
+                                Sunday Oct 21, 2018
+                            </p>
+<p class="temp">35°</p>
+<p class="high-low">H:35 °</p>
+<p class="high-low">L:26 °</p>
+<p>H:35 °</p>
+<p>L:26 °</p>
+<p>H:34 °</p>
+<p>L:26 °</p>
+<p>H:32 °</p>
+<p>L:27 °</p>
+<p>H:32 °</p>
+<p>L:28 °</p>
+<p>H:31 °</p>
+<p>L:27 °</p>
+<p>H:31 °</p>
+<p>L:25 °</p>
+<p class="city">Abu Dhabi</p>
+<p class="location">
+                            EMU <i aria-hidden="true" class="fa fa-map-marker"></i>
+</p>
+<p class="date">Sunday Oct 21,2018</p>
+<p class="date-text">Abu Dhabi, UAE<span class="separtor"></span>Saturday 20 October 2018</p>
+<p class="location-date visible-xs visible-sm">Abu Dhabi, UAE<span class="separtor"></span>Saturday 20 October 2018</p>
+<p class="published-date">March 10, 2014</p>
+<p class="last-updated">Updated: March 10, 2014 04:00 AM</p>
+<p></p>
+<p>Pictures of tanks rolling into Ukraine, continued uncertainty about the strength of the United States economic recovery and turmoil in the emerging market currencies can mean only one thing – the price of gold will increase. </p>
+<p>Last year gold lost 29 per cent of its value. It ended the year at US$1,205.62, but in each of the last three quarters of 2013 it bounced back from below $1,200. The interesting fact is not that it failed to maintain a price below $1,200 – it was who was buying into the precious metal. </p>
+<p>Professional investors were still exiting the market, so it could only be private buyers, including a large number of Middle East investors. This was confirmed by data released by the World Gold Council. It reported that many of the institutional 400-ounce delivery bars had to be broken into smaller units, as most of the demand was coming from individuals.</p>
+<p>The events at the start of the year have proved to be very good news for these private investors. The current tensions in Ukraine are a reminder that gold is always the last safe haven investment. As the West’s barrage of verbal threats was met with Russia’s actions, investors and traders alike have focused on a gold price heading back towards $1,400. Last month, a gold call option on the US Comex exchange, with a right to buy at $1,400 an ounce, traded an average of 427 contracts a day. Last Tuesday, in one day the same option traded 4,547 lots. </p>
+<p>At the start of January, based on the increasing bullish investor sentiment, our published forecast for gold prices in the first quarter highlighted the potential for a move to $1,400. We see no sign of any change to this bullish forecast and in fact we have revised this to $1,438, equal to a recovery of 50 per cent of all the losses last year. If prices reach this level, the market will record the largest quarterly improvement since 2007.</p>
+<p>The dramatic events in the Crimea contrasted with slowly building doubts over the recovery in the US. Many commentators had hoped that poor economic figures in January were down to the weather, but this may not be the case. We could be faced with the US economy slowing in reaction to the tapering of the fiscal quantitative easing programme.</p>
+<p>Perhaps the most important development has been the return of one the key pillars of bullish gold sentiment. Gold’s price rise this year caught the professional investment community off -guard, but there are now signs it has stopped selling. Last month the world’s largest gold-backed exchange-traded fund, SPDR Gold, reported its first monthly inflow of metal in more than a year. It received more than 10.5 tonnes as investors slowly returned to buying. </p>
+<p>The US Commodity Futures Trading Commission said hedge funds raised their bullish positions on gold futures contracts by 17 per cent in the week ended February 11. US Securities and Exchange Commission filings also revealed that the billionaire George Soros bought a large number of shares in the world’s biggest gold miner.</p>
+<p>Underpinned by strong private investor sentiment, global turmoil, economic developments and the return of professional traders, all the metal now needs is strong physical demand this year. </p>
+<p>The WGC reports that gold demand in India rose 13 per cent last year and China’s demand is rising so fast it needs to build more storage facilities. Hong Kong is to build a 1,500-tonne depository and open a new physical bullion trading exchange in the mainland later this year.</p>
+<p>It is not often that professional investors have to take their lead from private buyers, but this is the case with gold at the moment. Internationally and regionally, private buyers of gold should be very pleased with their investments.</p>
+<p><span class="Web Italic">Max Knudsen is the chief market strategist at ADS Securities</span></p>
+<p>Follow us on Twitter <a href="https://twitter.com/ind_insights">@Ind_Insights</a></p>
+<p class="news-heading-h4">Jamal Khashoggi obituary</p>
+<p class="news-heading-h4">Afghanistan Sikh, Hindu community brave danger to vote</p>
+<p class="news-heading-h4">Banksy posts video saying incomplete shredding a malfunction   </p>
+<p class="news-heading-h4">A closer look at the business of being a fashion model </p>
+<p class="news-heading-h4">One small step for machines. One giant leap for mankind</p>
+<p class="news-heading-h4 two-lines">Apple to launch iPad, lower-cost MacBook on October 30</p>
+<p class="news-heading-h4 two-lines">How to live frugally in the UAE and still feel fulfilled</p>
+<p class="news-heading-h4 two-lines">Uber's Middle East rival Careem secures $200m in funding </p>
+<p class="news-heading-h4 two-lines">'Can my landlord have me jailed for bouncing a cheque?'</p>
+<p class="article-headline">View the paper as it appeared in print</p>
+<p class="article-headline">Download the e-reader</p>
+<p class="news-heading-h4">Insurgent attacks mar Afghan parliamentary elections</p>
+<p class="news-heading-h4">Man City enjoy reunion with Hart after thrashing Burnley</p>
+<p class="news-heading-h4">Iran gets February deadline to fix terror financing</p>
+<p class="news-heading-h4">Mata takes his chance as Man United make a point at Chelsea</p>
+<p class="news-heading-h4">WATCH: Countdown for Expo 2020 Dubai is on </p>
+<p class="news-heading-h4">WATCH: Sightline with Tim Marshall on Trump's Asean snub</p>
+<p class="news-heading-h4">UN Syria envoy to step down next month</p>
+<p class="news-heading-h4">Out of this world: celebrating the Year of Zayed from space</p>
+<p class="news-heading-h4">Gold's timeless appeal</p>
+<p class="news-heading-h4">Gold looks good, but is it?</p>
+<p class="news-heading-h4">Gold-buying tourists keep precious metal shining in Dubai</p>
+<p class="news-heading-h4">In pictures: All that glitters is gold for Russia’s Krastsvetmet</p>

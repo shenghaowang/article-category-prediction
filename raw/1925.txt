@@ -1,0 +1,25 @@
+<p>
+<img alt="*" height="1" src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=9248945&amp;ns_site=newsmax&amp;name=nmx.finance.article.a_week_after_mt_gox_collapse_japan_struggles_to_understand_bitcoin_556606&amp;category=finance&amp;page_type=article&amp;content_type=article&amp;content_title=a_week_after_mt_gox_collapse_japan_struggles_to_understand_bitcoin&amp;content_id=556606&amp;content_source=reuters" width="1"/>
+</p>
+<p style="margin-top: 5px;">
+<span class="artPgByline"><span itemprop="author" style="display:none">REUTERS</span></span>
+<span class="artPgDate">Friday, 07 March 2014 07:20 AM</span>
+<div style="clear: both;"></div>
+</p>
+<p>In its first detailed response to the bankruptcy of the Tokyo-based company, once the world's biggest bitcoin exchange, the government issued a statement assessing how bitcoin is covered - or more often, not covered - by existing law.</p>
+<p>The issue took on new prominence in Japan on Feb. 28, when Mt. Gox sought Chapter 11-style bankruptcy protection, saying it had lost bitcoins and cash worth some half a billion dollars due to hacker attacks.</p>
+<p>Bitcoin is not a currency, but could be taxable under some circumstances, the statement says. Although the government understands that bitcoin is not issued or backed by any government or central bank, "we have not grasped the situation in its entirety."</p>
+<p>The authorities are monitoring the Mt. Gox bankruptcy process and, if necessary, will consider a response, said Chief Cabinet Secretary Yoshihide Suga.</p>
+<p>Fewer than 1 percent of Mt. Gox's 127,000 creditors are Japanese, the company has said. Yet across the government, officials are wrestling with how to handle bitcoin.</p>
+<p>"It's not money," said Finance Minister Taro Aso. "Does the Financial Services Agency have jurisdiction? The Finance Ministry? The Consumer Affairs Agency? The Ministry of Economy, Trade and Industry?" he asked at a regular news conference. "Opinions are divided."</p>
+<p>The government statement, citing 18 sections of 11 laws and regulations, says bitcoin is not a currency or an asset within the purview of professional trading or asset management, while trading the virtual currency is not a banking or financial-instrument transaction.</p>
+<p>But, generally speaking, bitcoin could be taxable if it meets certain conditions of income, corporate or consumption tax laws, the statement says. This leaves open the possibility that bitcoin could be treated as a commodity like gold, although the statement does not specify this.</p>
+<p>Regarding money laundering, certain transactions - whether with bitcoin or not - require people to identify themselves, it notes.</p>
+<p>The 6-page document is the government's official response to questions posed by Tsutomu Okubo, a member of the opposition Democratic Party of Japan and former managing director at Morgan Stanley.</p>
+<p> </p>
+<p class="articleCopyright">
+                    © 2018 Thomson/Reuters.  All rights reserved.
+                </p>
+<p class="title">Newsmax Comment Policy</p>
+<p>Keep discussions on topic, avoid personal attacks and threats of any kind.  Links will not be permitted. </p>
+<p>Newsmax, Moneynews, Newsmax Health, and Independent. American. are registered trademarks of Newsmax Media, Inc. Newsmax TV, and Newsmax World are trademarks of Newsmax Media, Inc.</p>

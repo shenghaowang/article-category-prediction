@@ -1,0 +1,41 @@
+<p><strong>Username</strong><input id="username" name="username" tabindex="4" title="username" type="text"/></p>
+<p><strong>Password</strong><input id="password" name="password" tabindex="5" title="password" type="password" value=""/></p>
+<p class="remember"><input tabindex="7" type="submit" value="Sign in"/><input checked="checked" id="remember" name="remember_me" tabindex="6" type="checkbox" value="1"/><label for="remember">Remember me</label></p>
+<p class="forgot"><a class="modal_45_45 cboxElement" href="/password-reset/?modal=1" id="resend_password_link" onclick="ga('send', 'event', 'topmenu', 'click', 'password_reset', 1);">Forgot your password?</a></p>
+<p>
+                            Subscribe to <a href="/subscribe/None/" style="text-decoration:underline;">None</a> today to gain access to the daily newsletter, every None article we publish, exclusive data, first-look research and daily insights from Joe Mandese, Editor in Chief.
+                        </p>
+<p>If you're already a paid subscriber, please sign-in.</p>
+<p><label for="id-username">Username</label>  
+                                    <input id="id-username" name="username" tabindex="1" title="username" type="text"/></p>
+<p><label for="id-password">Password</label>  
+                                    <input id="id-password" name="password" tabindex="2" title="password" type="password"><span style="padding:8px 0;">  <a href="/password-reset/" style="text-decoration:underline;">Forgot?</a></span></input></p>
+<p class="p1"><img height="188" src="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2014/03/11/dicks-sportinh-goods-188-2_2.jpg" style="float: left; padding-right: 12px; padding-bottom: 7px;" width="300">Reporting sales and earnings ahead of expectations, Dick’s Sporting Goods says its omnichannel strategy is paying off. And with its new “Sports Matter”
+campaign, announced last week at SXSW, the Pittsburgh-based retailer is shifting its brand advertising dollars into the broader support of kids’ athletics, addressing the funding crisis facing
+its core audience.</img></p>
+<p class="p1">“We’ve been working on this crowdfunding campaign for about a year,” Ryan Eckel, VP-brand marketing, tells <i>Marketing Daily</i>, “and
+while we inherently knew that massive benefits come from sports, it’s been really powerful to quantify them.” For example, he says, 95% of Fortune 500 CEOs played a high school sport, and
+kids who do so are four times as likely to go on to college. “But opportunities are disappearing fast,” he says, with 60% of kids participating in team sports now having to pay in order to
+play. And by 2020, an estimated 27% of high schools will not offer athletics.</p>
+<p>advertisement</p>
+<p>advertisement</p>
+<p class="p1">While he declined to give the dollar amount of the marketing effort, he says the company is moving its
+brand budget into the “Sports Matter” TV <a href="http://www.youtube.com/watch?v=TFGFd7NUgfk&amp;list=PLHLL_rZ931zZxKGy6Gmfw9kyEztfV6F8u">ads</a>, created by Anomaly. The goal is to help
+threatened teams raise $2 million, which will then be matched by a $2 million grant from Dick’s Sporting Goods Foundation.</p>
+<p class="p1">So far, he says the response has strong, “and
+we can see activity increase whenever a spot runs.”</p>
+<p class="p1">In order to participate, teams must serve kids in grades K through 12, be affiliated with a school, nonprofit or league,
+and have been eliminated, at risk of elimination or never able to form because of lack of funds. “We wanted to focus on the sharpest outcome, the extreme outcome, when entire teams
+disappear,” he says. “With that clear an identity, we thought the campaign would get more traction.”</p>
+<p class="p1">The crowdfunding element is important. “If we just write
+these teams a check and then go away, that’s not a sustainable solution,” he says. Once the funding has been awarded, he adds, teams will work with Up2Us, an online organization that
+coaches parents on how to build effective extracurricular organizations.</p>
+<p class="p1">Jon Gruden, a former NFL coach and now an ESPN analyst, is an ambassador for the program.</p>
+<p class="p1">Another part of the effort, Eckel says, is a partnership with Tribeca Digital Studios and director Judd Ehrlich, filming “We Could be King,” a documentary that follows the
+merger of two rival Philadelphia high schools forced to merge football teams. That film is set to premiere next month at the Tribeca Film Festival, and will also air on ESPN2.</p>
+<p class="p1">Separately, the company says its net sales rose nearly 8% in the fourth quarter, to $1.9 billion. On a same-store basis, sales increased 7.3%, and net income climbed to $138.6 million.
+Sales “exceeded our expectations," says Edward W. Stack, chairman and CEO, in its release. "As we look to 2014, we believe our robust and growing omni-channel network and exciting
+merchandising opportunities will support double-digit growth in earnings."</p>
+<p><img src="https://s3.amazonaws.com/media.mediapost.com/images/events/contributor/online/emily_randall_14122.jpg" style="float: left; border-radius: 50%; max-width:25%;  border: 1px solid #036CA5;"/><div style="margin-top: 15px; padding-left: 80px;">Emily Randall - Chick-fil-A, Interactive Digital Media</div></p>
+<p><img src="https://s3.amazonaws.com/media.mediapost.com/images/events/contributor/online/anne_schultheis_14125.png" style="float: left; border-radius: 50%; max-width:25%;  border: 1px solid #036CA5;"/><div style="margin-top: 15px; padding-left: 80px;">Anne Schultheis - Kahala Brands, Loyalty Marketing Manager</div></p>
+<p>advertisement</p>

@@ -1,0 +1,56 @@
+<p id="bodyHolder_imgCaption">File - The new headquarters of the European Central Bank (ECB), building at right, is under construction on the water front of the River Main,in Frankfurt, Germany, Monday, Feb. 24, 2014. (AP Photo/Michael Probst)</p>
+<p id="bodyHolder_divTeaser"></p>
+<p id="bodyHolder_divDetails"></p>
+<p>
+<a href="http://www.dailystar.com.lb/Business/International/2018/Sep-14/463331-ecb-on-course-to-curb-stimulus-as-growth-risks-rise.ashx?utm_source=Magnet%26utm_medium=Related%20Articles%20widget%26utm_campaign=Magnet%20tools" onmousedown="__magnetQ.push(['event', 'AP_RA_CLK', '42e13b3b-5851-4652-9b83-791e1adec4ea', 'local', '463331']);" title="ECB on course to curb stimulus as growth risks rise">ECB on course to curb stimulus as growth risks rise<span id="bodyHolder_rptRelArticles2_aSpan_0"></span></a>
+</p>
+<p>
+<a href="http://www.dailystar.com.lb/Business/International/2018/Sep-13/463261-european-central-bank-to-take-next-step-in-tapering-stimulus.ashx?utm_source=Magnet%26utm_medium=Related%20Articles%20widget%26utm_campaign=Magnet%20tools" onmousedown="__magnetQ.push(['event', 'AP_RA_CLK', '42e13b3b-5851-4652-9b83-791e1adec4ea', 'local', '463261']);" title="European Central Bank to take next step in tapering stimulus">European Central Bank to take next step in tapering stimulus<span id="bodyHolder_rptRelArticles2_aSpan_1"></span></a>
+</p>
+<p>
+<a href="http://www.dailystar.com.lb/Business/International/2018/Sep-08/462755-europe-remains-on-economic-crutches.ashx?utm_source=Magnet%26utm_medium=Related%20Articles%20widget%26utm_campaign=Magnet%20tools" onmousedown="__magnetQ.push(['event', 'AP_RA_CLK', '42e13b3b-5851-4652-9b83-791e1adec4ea', 'local', '462755']);" title="Europe remains on economic crutches">Europe remains on economic crutches<span id="bodyHolder_rptRelArticles2_aSpan_2"></span></a>
+</p>
+<p>Your feedback is important to us!</p>
+<p>We invite all our readers to share with us their views and comments about this article.</p>
+<p><u>Disclaimer:</u> Comments submitted by third parties on this site are the sole responsibility of the individual(s) whose content is submitted. The Daily Star accepts no responsibility for the content of comment(s), including, without limitation, any error, omission or inaccuracy therein. Please note that your email address will NOT appear on the site.</p>
+<p>
+<b><u>Alert:</u> If you are facing problems with posting comments, please note that you must verify your email with Disqus prior to posting a comment. follow this link to make sure your account meets the requirements. (<a href="http://bit.ly/vDisqus" target="blank">http://bit.ly/vDisqus</a>)</b>
+</p>
+<p id="bodyHolder_divSummary" style="text-align: left;">The European Central Bank appears to be increasingly on the defensive, stepping up efforts this week to counter criticism of complacency after it held interest rates steady again this month.<br/><br/>A whole range of top ECB officials – from President Mario Draghi to chief economist Peter Praet and the newest executive board member Sabine Lautenschlaeger – have felt compelled to defend the decision not to ease monetary conditions any further, despite an alarmingly low level of inflation.<br/><br/>Draghi also insisted that the ECB had been preparing "additional nonstandard monetary policy measures" and would take "decisive action" if needed.<br/><br/>RBS economist Richard Barwell also felt the ECB's hands were tied.</p>
+<p id="toggle" style="display: none">
+<span>
+<a class="showLink" href="javascript:void(0);" id="toogle-show" onclick="showItems()">...</a>
+<a class="hideLink" href="javascript:void(0);" id="toogle-hide" onclick="showItems()" style="display: none;">
+<i class="fa fa-caret-up"></i>
+</a>
+</span>
+</p>
+<p id="trFooter2">
+</p>
+<p onmouseover="ShowImageRelated2('img_author2_0')"><a href="http://www.dailystar.com.lb/Business/International/2018/Sep-14/463331-ecb-on-course-to-curb-stimulus-as-growth-risks-rise.ashx?utm_source=Magnet%26utm_medium=Related%20Articles%20widget%26utm_campaign=Magnet%20tools">ECB on course to curb stimulus as growth risks rise<span id="bodyHolder_rptRelArticles_aSpan_0"></span></a></p>
+<p onmouseover="ShowImageRelated2('img_author2_1')"><a href="http://www.dailystar.com.lb/Business/International/2018/Sep-13/463261-european-central-bank-to-take-next-step-in-tapering-stimulus.ashx?utm_source=Magnet%26utm_medium=Related%20Articles%20widget%26utm_campaign=Magnet%20tools">European Central Bank to take next step in tapering stimulus<span id="bodyHolder_rptRelArticles_aSpan_1"></span></a></p>
+<p onmouseover="ShowImageRelated2('img_author2_2')"><a href="http://www.dailystar.com.lb/Business/International/2018/Sep-08/462755-europe-remains-on-economic-crutches.ashx?utm_source=Magnet%26utm_medium=Related%20Articles%20widget%26utm_campaign=Magnet%20tools">Europe remains on economic crutches<span id="bodyHolder_rptRelArticles_aSpan_2"></span></a></p>
+<p class="title">
+<a href="/PhotoGallery.aspx?id=2154" title="Pictures of the day">Pictures of the day</a>
+<time style="float:right;">Oct. 19, 2018</time>
+</p>
+<p class="title">
+<a href="/PhotoGallery.aspx?id=2153" title="Pictures of the day">Pictures of the day</a>
+<time style="float:right;">Oct. 18, 2018</time>
+</p>
+<p class="title">
+<a href="/PhotoGallery.aspx?id=2152" title="Pictures of the day">Pictures of the day</a>
+<time style="float:right;">Oct. 17, 2018</time>
+</p>
+<p>
+<a href="/TodaysIssue.aspx">Full list of today's paper »</a>
+</p>
+<p>
+<a href="http://www.pressreader.com/lebanon/the-daily-star-lebanon" target="_blank">View our e-paper »</a>
+</p>
+<p>
+<a href="/Subscribe.aspx">Subscribe »</a>
+</p>
+<p>
+            FOLLOW THIS ARTICLE
+        </p>

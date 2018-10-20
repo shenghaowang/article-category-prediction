@@ -1,0 +1,55 @@
+<p class="posted mb20">Mar 11, 2014 11:33 AM EDT | By <a href="/reporters/dina-exil">Dina Exil</a></p>
+<p>After marijuana sales became legal on Jan. 1, Colorado State has reportedly raked in about $2 million off taxes from just recreational users in the first month. </p>
+<p><a href="http://abclocal.go.com/ktrk/story?section=news/national_world&amp;id=9461627" rel="nofollow" target="_blank">According to the Associated Press</a>, the state Department of Revenue officials reported Monday that the tax total indicates $14.02 million worth of recreational pot was sold and the state collected about $2.01 million in taxes.</p>
+<p>Despite purchases being limited to only one ounce for those 21 and older, state officials said the numbers came in as expected. Recreational marijuana has a 15 percent excise tax and 2.9 percent sales tax in the state. When combined with taxes and fees from marijuana sells, the state brought in a total of $3.5 million in January from pot sales.</p>
+<p>The AP reported that the first "$40 million of the excise tax must go to school construction," some of the tax money is being spent on campaigns and treatment programs, an effort to convince kids to avoid smoking pot. The remaining cash will be "spent by state lawmakers."</p>
+<p>Colorado legalized pot in 2012 and voters approved the pot taxes last year. Colorado became the first state to permit the selling of non-medicinal pot. </p>
+<p>The Rocky Mountain state has about 160 state-licensed recreational marijuana stores. Only 24 stores were ready to <a href="http://amzn.to/2hmNVVO" rel="nofollow" target="_blank">sell</a> by the start of the year, due to licensing issues. Several places have become creative with the selling of marijuana, baking it to pastries and treats.</p>
+<p>
+<!-- article_center_middle11_computer start-->
+<div class="adunit_rectangle" id="adunit_article_center_middle11_computer">
+<!-- Place in head part widget:fwrn002 -->
+<script type="text/javascript">
+
+	var sbElementInterval = setInterval(function(){sbElementCheck()}, 50);
+
+	function sbElementCheck() {
+
+		var targetedElement = document.getElementById('ingageunit');
+		if(targetedElement) {
+			clearInterval(sbElementInterval);
+			(function(d) {
+				var js, s = d.getElementsByTagName('script')[0];
+				js = d.createElement('script');
+				js.async = true;
+				js.onload = function(e) {
+					SbInGageWidget.init({
+						partnerId : 5241,
+						widgetId : 'fwrn002',
+						cmsPath : 'http://cms.springboardplatform.com'
+					});
+				}
+				js.src = "http://www.springboardplatform.com/storage/js/ingage/apingage.min.js";
+				s.parentNode.insertBefore(js, s);
+			})(window.document);
+		}
+	}
+</script>
+<!-- Place in head part -->
+<!-- Place in body part -->
+<div id="ingageunit"></div>
+<!-- Place in body part -->
+</div>
+<!-- article_center_middle11_computer end -->
+</p>
+<p>SHARE YOUR THOUGHTS</p>
+<p class="nw_comment" id="info" style="display:none;">You have already subscribed. Thank you.</p>
+<p class="mb15">Throwing out food: Attitudes to food waste in Russia</p>
+<p class="mb15">5 Foods That Will Help  Detoxing From Alcohol</p>
+<p class="mb15"></p>
+<p class="mb15">Disease-resistant apples perform better than old favorites</p>
+<p class="mb15">New tool could help maintain quality during cheese production</p>
+<p class="mb15"></p>
+<p class="fcoment" id="frepword" style="display:none;"><span class="arr"></span>You have already subscribed. Thank you.</p>
+<p>© Copyright 2018 FOOD WORLD NEWS All rights reserved. Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy. </p>
+<p><img alt="Clicky" height="1" src="//in.getclicky.com/66601515ns.gif" width="1"/></p>

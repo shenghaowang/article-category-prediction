@@ -1,0 +1,149 @@
+<p><div class="tdc-row" id="td_uid_1_5bcb6e856f9c7"><div class="vc_row td_uid_2_5bcb6e856f9cc_rand wpb_row td-pb-row">
+<style scoped="">
+
+/* custom css */
+.td_uid_2_5bcb6e856f9cc_rand {
+                    min-height: 0;
+                }
+</style><div class="vc_column td_uid_3_5bcb6e856fab0_rand wpb_column vc_column_container tdc-column td-pb-span12"><div class="wpb_wrapper"><div class="td_block_wrap td_block_trending_now td_uid_4_5bcb6e856fb53_rand td-pb-border-top td_block_template_1" data-td-block-uid="td_uid_4_5bcb6e856fb53"><script>var block_td_uid_4_5bcb6e856fb53 = new tdBlock();
+block_td_uid_4_5bcb6e856fb53.id = "td_uid_4_5bcb6e856fb53";
+block_td_uid_4_5bcb6e856fb53.atts = '{"0":"","navigation":"","style":"","separator":"","post_ids":"","category_id":"","category_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","sort":"","limit":"5","offset":"","el_class":"","header_text_color":"","header_color":"","articles_color":"","next_prev_color":"","next_prev_border_color":"","f_title_font_header":"","f_title_font_title":"Block title","f_title_font_settings":"","f_title_font_family":"","f_title_font_size":"","f_title_font_line_height":"","f_title_font_style":"","f_title_font_weight":"","f_title_font_transform":"","f_title_font_spacing":"","f_title_":"","f_article_font_title":"Articles title","f_article_font_settings":"","f_article_font_family":"","f_article_font_size":"","f_article_font_line_height":"","f_article_font_style":"","f_article_font_weight":"","f_article_font_transform":"","f_article_font_spacing":"","f_article_":"","css":"","tdc_css":"","block_template_id":"","td_column_number":3,"ajax_pagination_infinite_stop":"","td_ajax_preloading":"","td_ajax_filter_type":"","td_filter_default_txt":"","td_ajax_filter_ids":"","color_preset":"","ajax_pagination":"","border_top":"","class":"td_uid_4_5bcb6e856fb53_rand","tdc_css_class":"td_uid_4_5bcb6e856fb53_rand","tdc_css_class_style":"td_uid_4_5bcb6e856fb53_rand_style"}';
+block_td_uid_4_5bcb6e856fb53.td_column_number = "3";
+block_td_uid_4_5bcb6e856fb53.block_type = "td_block_trending_now";
+block_td_uid_4_5bcb6e856fb53.post_count = "5";
+block_td_uid_4_5bcb6e856fb53.found_posts = "178316";
+block_td_uid_4_5bcb6e856fb53.header_color = "";
+block_td_uid_4_5bcb6e856fb53.ajax_pagination_infinite_stop = "";
+block_td_uid_4_5bcb6e856fb53.max_num_pages = "35664";
+tdBlocksArray.push(block_td_uid_4_5bcb6e856fb53);
+</script><div class="td_block_inner" id="td_uid_4_5bcb6e856fb53">
+<div class="td-block-row"><div class="td-trending-now-wrapper" data-start="" id="td_uid_4_5bcb6e856fb53"><div class="td-trending-now-title">Trending Now</div><div class="td-trending-now-display-area">
+<div class="td_module_trending_now td-trending-now-post-0 td-trending-now-post">
+<h3 class="entry-title td-module-title"><a href="https://chinapost.nownews.com/20181021-444421" rel="bookmark" title="Warren ancestry highlights how tribes decide membership">Warren ancestry highlights how tribes decide membership</a></h3>
+</div>
+<div class="td_module_trending_now td-trending-now-post-1 td-trending-now-post">
+<h3 class="entry-title td-module-title"><a href="https://chinapost.nownews.com/20181021-444419" rel="bookmark" title="The Latest: Alaska governor seeks to boost Begich's odds">The Latest: Alaska governor seeks to boost Begich's odds</a></h3>
+</div>
+<div class="td_module_trending_now td-trending-now-post-2 td-trending-now-post">
+<h3 class="entry-title td-module-title"><a href="https://chinapost.nownews.com/20181021-444417" rel="bookmark" title="Even without Neymar, French leader PSG routs Amiens 5-0">Even without Neymar, French leader PSG routs Amiens 5-0</a></h3>
+</div>
+<div class="td_module_trending_now td-trending-now-post-3 td-trending-now-post">
+<h3 class="entry-title td-module-title"><a href="https://chinapost.nownews.com/20181021-444415" rel="bookmark" title="Newcastle drops to last in EPL after losing to Brighton 1-0">Newcastle drops to last in EPL after losing to Brighton 1-0</a></h3>
+</div>
+<div class="td_module_trending_now td-trending-now-post-4 td-trending-now-post">
+<h3 class="entry-title td-module-title"><a href="https://chinapost.nownews.com/20181021-444413" rel="bookmark" title="Gulbis beats Isner to reach Stockholm Open final">Gulbis beats Isner to reach Stockholm Open final</a></h3>
+</div>
+</div><div class="td-next-prev-wrap"><a class="td_ajax-prev-pagex td-trending-now-nav-left" data-block-id="td_uid_4_5bcb6e856fb53" data-control-start="" data-moving="left" href="#"><i class="td-icon-menu-left"></i></a><a class="td_ajax-next-pagex td-trending-now-nav-right" data-block-id="td_uid_4_5bcb6e856fb53" data-control-start="" data-moving="right" href="#"><i class="td-icon-menu-right"></i></a></div></div></div><!--./row-fluid--></div></div> <!-- ./block --></div></div></div></div><div class="tdc-row stretch_row_content td-stretch-content" id="td_uid_3_5bcb6e8597c4c"><div class="vc_row td_uid_5_5bcb6e8597c52_rand wpb_row td-pb-row">
+<style scoped="">
+
+/* custom css */
+.td_uid_5_5bcb6e8597c52_rand {
+                    min-height: 0;
+                }
+</style><div class="vc_column td_uid_6_5bcb6e8597d5d_rand wpb_column vc_column_container tdc-column td-pb-span12"><div class="wpb_wrapper"><div class="td_block_wrap td_block_big_grid_fl_3 td_uid_7_5bcb6e8597e27_rand td-grid-style-1 td-hover-1 td-big-grids-fl td-big-grids-margin td-pb-border-top cp-top-1 td_block_template_1" data-td-block-uid="td_uid_7_5bcb6e8597e27"><div class="td_block_inner" id="td_uid_7_5bcb6e8597e27"><div class="td-big-grid-wrapper td-posts-3">
+<div class="td_module_mx20 td_module_wrap td-animation-stack td-big-grid-post-0 td-big-grid-post td-mx-19">
+<div class="td-module-image">
+<div class="td-module-thumb"><a class="td-image-wrap" href="https://chinapost.nownews.com/20181019-443565" rel="bookmark" title="Pope Francis declines invitation to visit Taiwan"><span class="entry-thumb td-thumb-css" style="background-image: url(https://storage.googleapis.com/chinapost-images/images/2018/10/02290135-1539939435-6047ef7b4d05a3d64368d6e60f9700db-696x464.jpg)"></span></a></div> </div>
+<div class="td-meta-info-container">
+<div class="td-meta-align">
+<div class="td-big-grid-meta">
+<h3 class="entry-title td-module-title"><a href="https://chinapost.nownews.com/20181019-443565" rel="bookmark" title="Pope Francis declines invitation to visit Taiwan">Pope Francis declines invitation to visit Taiwan</a></h3> </div>
+<div class="td-module-meta-info">
+<span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-10-19T16:59:47+00:00">October 19, 2018</time></span> </div>
+</div>
+</div>
+</div>
+<div class="td_module_mx20 td_module_wrap td-animation-stack td-big-grid-post-1 td-big-grid-post td-mx-19">
+<div class="td-module-image">
+<div class="td-module-thumb"><a class="td-image-wrap" href="https://chinapost.nownews.com/20181019-443555" rel="bookmark" title="Heavier fine to be imposed for smuggling meat from overseas: COA"><span class="entry-thumb td-thumb-css" style="background-image: url(https://storage.googleapis.com/chinapost-images/images/2018/10/680d8a43-1539927121-16475938249f858df0bee59bf302eda9-696x392.jpg)"></span></a></div> </div>
+<div class="td-meta-info-container">
+<div class="td-meta-align">
+<div class="td-big-grid-meta">
+<h3 class="entry-title td-module-title"><a href="https://chinapost.nownews.com/20181019-443555" rel="bookmark" title="Heavier fine to be imposed for smuggling meat from overseas: COA">Heavier fine to be imposed for smuggling meat from overseas: COA</a></h3> </div>
+<div class="td-module-meta-info">
+<span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-10-19T13:33:20+00:00">October 19, 2018</time></span> </div>
+</div>
+</div>
+</div>
+<div class="td_module_mx20 td_module_wrap td-animation-stack td-big-grid-post-2 td-big-grid-post td-mx-19">
+<div class="td-module-image">
+<div class="td-module-thumb"><a class="td-image-wrap" href="https://chinapost.nownews.com/20181019-443552" rel="bookmark" title="Cool, wet weather forecast for northern Taiwan into weekend"><span class="entry-thumb td-thumb-css" style="background-image: url(https://storage.googleapis.com/chinapost-images/images/2018/10/4c5b0a2c-1539926659-6adf248ae44ad415e2ae3948c75c875d-696x429.jpg)"></span></a></div> </div>
+<div class="td-meta-info-container">
+<div class="td-meta-align">
+<div class="td-big-grid-meta">
+<h3 class="entry-title td-module-title"><a href="https://chinapost.nownews.com/20181019-443552" rel="bookmark" title="Cool, wet weather forecast for northern Taiwan into weekend">Cool, wet weather forecast for northern Taiwan into weekend</a></h3> </div>
+<div class="td-module-meta-info">
+<span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-10-19T13:25:01+00:00">October 19, 2018</time></span> </div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div></div></div></div> <!-- ./block --></div></div></div></div><div class="tdc-row stretch_row_content td-stretch-content" id="td_uid_5_5bcb6e85b6860"><div class="vc_row td_uid_8_5bcb6e85b6866_rand wpb_row td-pb-row">
+<style scoped="">
+
+/* custom css */
+.td_uid_8_5bcb6e85b6866_rand {
+                    min-height: 0;
+                }
+</style><div class="vc_column td_uid_9_5bcb6e85b6967_rand wpb_column vc_column_container tdc-column td-pb-span12"><div class="wpb_wrapper"><div class="td_block_wrap td_block_big_grid_fl_5 td_uid_10_5bcb6e85b6a2f_rand td-grid-style-1 td-hover-1 td-big-grids-fl td-big-grids-scroll td-big-grids-margin td-pb-border-top cp-top-2 td_block_template_1" data-td-block-uid="td_uid_10_5bcb6e85b6a2f"><div class="td_block_inner" id="td_uid_10_5bcb6e85b6a2f"><div class="td-big-grid-wrapper td-posts-5">
+<div class="td_module_mx21 td_module_wrap td-animation-stack td-big-grid-post-0 td-big-grid-post td-mx-17">
+<div class="td-module-image">
+<div class="td-module-thumb"><a class="td-image-wrap" href="https://chinapost.nownews.com/20181020-444211" rel="bookmark" title="Tarasova-Morozov win Skate America pairs short program"><span class="entry-thumb td-thumb-css" style="background-image: url(https://storage.googleapis.com/chinapost-images/images/2018/10/393b779c-1540008029-fdb5fc364bb5bc12ef6236f15a01f584-534x462.jpg)"></span></a></div> </div>
+<div class="td-meta-info-container">
+<div class="td-meta-align">
+<div class="td-big-grid-meta">
+<h3 class="entry-title td-module-title"><a href="https://chinapost.nownews.com/20181020-444211" rel="bookmark" title="Tarasova-Morozov win Skate America pairs short program">Tarasova-Morozov win Skate America pairs short program</a></h3> </div>
+<div class="td-module-meta-info">
+<span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-10-20T12:00:12+00:00">October 20, 2018</time></span> </div>
+</div>
+</div>
+</div>
+<div class="td-big-grid-scroll">
+<div class="td_module_mx21 td_module_wrap td-animation-stack td-big-grid-post-1 td-big-grid-post td-mx-17">
+<div class="td-module-image">
+<div class="td-module-thumb"><a class="td-image-wrap" href="https://chinapost.nownews.com/20181020-444152" rel="bookmark" title="Democratic Sen. Warren, GOP challenger clash in debate"><span class="entry-thumb td-thumb-css" style="background-image: url(https://storage.googleapis.com/chinapost-images/images/2018/10/885e2b2e-1539999982-412eed8bff6ca854a3a27383a9149bb5-534x462.jpg)"></span></a></div> </div>
+<div class="td-meta-info-container">
+<div class="td-meta-align">
+<div class="td-big-grid-meta">
+<h3 class="entry-title td-module-title"><a href="https://chinapost.nownews.com/20181020-444152" rel="bookmark" title="Democratic Sen. Warren, GOP challenger clash in debate">Democratic Sen. Warren, GOP challenger clash in debate</a></h3> </div>
+<div class="td-module-meta-info">
+<span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-10-20T09:46:10+00:00">October 20, 2018</time></span> </div>
+</div>
+</div>
+</div>
+<div class="td_module_mx21 td_module_wrap td-animation-stack td-big-grid-post-2 td-big-grid-post td-mx-17">
+<div class="td-module-image">
+<div class="td-module-thumb"><a class="td-image-wrap" href="https://chinapost.nownews.com/20181020-444281" rel="bookmark" title="Osaka set for showdown against Stephens at WTA Finals"><span class="entry-thumb td-thumb-css" style="background-image: url(https://storage.googleapis.com/chinapost-images/images/2018/10/510be38f-1540021533-4d04ee43097311d2fb501ecc199c63c3-534x462.jpg)"></span></a></div> </div>
+<div class="td-meta-info-container">
+<div class="td-meta-align">
+<div class="td-big-grid-meta">
+<h3 class="entry-title td-module-title"><a href="https://chinapost.nownews.com/20181020-444281" rel="bookmark" title="Osaka set for showdown against Stephens at WTA Finals">Osaka set for showdown against Stephens at WTA Finals</a></h3> </div>
+<div class="td-module-meta-info">
+<span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-10-20T15:45:14+00:00">October 20, 2018</time></span> </div>
+</div>
+</div>
+</div>
+<div class="td_module_mx21 td_module_wrap td-animation-stack td-big-grid-post-3 td-big-grid-post td-mx-17">
+<div class="td-module-image">
+<div class="td-module-thumb"><a class="td-image-wrap" href="https://chinapost.nownews.com/20181020-443909" rel="bookmark" title="Britney Spears returns to Vegas with new residency in 2019"><span class="entry-thumb td-thumb-css" style="background-image: url(https://storage.googleapis.com/chinapost-images/images/2018/10/7c38a874-1539971516-d801738d1160740b9e4ff207f0993c31-534x462.jpg)"></span></a></div> </div>
+<div class="td-meta-info-container">
+<div class="td-meta-align">
+<div class="td-big-grid-meta">
+<h3 class="entry-title td-module-title"><a href="https://chinapost.nownews.com/20181020-443909" rel="bookmark" title="Britney Spears returns to Vegas with new residency in 2019">Britney Spears returns to Vegas with new residency in 2019</a></h3> </div>
+<div class="td-module-meta-info">
+<span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-10-20T01:51:40+00:00">October 20, 2018</time></span> </div>
+</div>
+</div>
+</div>
+<div class="td_module_mx21 td_module_wrap td-animation-stack td-big-grid-post-4 td-big-grid-post td-mx-17">
+<div class="td-module-image">
+<div class="td-module-thumb"><a class="td-image-wrap" href="https://chinapost.nownews.com/20181020-444018" rel="bookmark" title="Buffalo Catholic Diocese acknowledges federal inquiry"><span class="entry-thumb td-thumb-css" style="background-image: url(https://storage.googleapis.com/chinapost-images/images/2018/10/6fff9597-1539982138-2f92ea7e9f357105a61c561c53ab381f-534x462.jpg)"></span></a></div> </div>
+<div class="td-meta-info-container">
+<div class="td-meta-align">
+<div class="td-big-grid-meta">
+<h3 class="entry-title td-module-title"><a href="https://chinapost.nownews.com/20181020-444018" rel="bookmark" title="Buffalo Catholic Diocese acknowledges federal inquiry">Buffalo Catholic Diocese acknowledges federal inquiry</a></h3> </div>
+<div class="td-module-meta-info">
+<span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-10-20T04:48:41+00:00">October 20, 2018</time></span> </div>
+</div>
+</div>
+</div>
+</div><div class="clearfix"></div></div></div></div> <!-- ./block --></div></div></div></div></p>

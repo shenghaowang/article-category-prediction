@@ -1,0 +1,58 @@
+<p class="login-form__register-text">
+                Receive daily email alerts, subscriber notes &amp; personalize your experience.
+            </p>
+<p>Already have an account?</p>
+<p class="required-note"><span>*</span>Required</p>
+<p style="color: #ccc;font-style: italic;font-size:14px;">We generated a verification code for you</p>
+<p>Access latest agriculture news and analysis, conferences and events.</p>
+<p>Access latest coal news and analysis, conferences and events.</p>
+<p>Access latest power news and analysis, conferences and events.</p>
+<p>Access latest metal news and analysis, conferences and events.</p>
+<p>Access latest gas news and analysis, conferences and events.</p>
+<p>Access latest metal news and analysis, conferences and events.</p>
+<p>Access latest oil news and analysis, conferences and events.</p>
+<p>Access latest petrochemicals news and analysis, conferences and events.</p>
+<p>Access latest shipping news and analysis, conferences and events.</p>
+<p>
+                            Your registration is complete and your account is active. An email confirming your password has been sent. If you have any questions or concerns please contact <a class="contentlink" data-gtm-action="Registration" data-gtm-category="Registration/Login" data-gtm-label="Step 3_Support" href="mailto:support@platts.com">support@platts.com</a> or <a class="contentlink" data-gtm-action="Registration" data-gtm-category="Registration/Login" data-gtm-label="Step 3_Click Here" href="https://www.platts.com/contact">click here</a>
+</p>
+<p>Please Note: Platts Market Center subscribers can only reset passwords via the <a class="link" href="https://pmc.platts.com/Public/ForgotPassword.aspx">Platts Market Center</a></p>
+<p>Enter your Email ID below and we will send you an email with your password.</p>
+<p id="successMsg" style="display:none;">
+</p>
+<p>
+                If you are a premium subscriber, we are unable to send you your password for security reasons. Please contact the <a class="link" href="mailto:support@platts.com">Client Services team</a>.
+            </p>
+<p>
+                IF you are a Platts Market Center subscriber, to reset your password go to the�<a class="link" href="https://pmc.platts.com/Public/ForgotPassword.aspx">Platts Market Center</a> to reset your password.
+            </p>
+<p>Oil tanker carrying crude from Libya's Es Sider slips escort: report</p>
+<p>Interview: Jeff Currie, Goldman Sachs</p>
+<p>Platts Dirty Tankerwire</p>
+<p>Aluminum Symposium</p>
+<p>Factbox: Record-low Rhine levels bring widespread disruption across energy and commodities</p>
+<p>Confusion continues to surround the fate of an oil tanker that loaded a cargo of crude from the Libyan port of Es Sider, with the latest reports indicating the vessel had managed to escape the navy convoy that was accompanying it to a government-held port in western Libya.</p>
+<p>
+    Receive daily email alerts, subscriber notes &amp; personalize your experience.
+  </p>
+<p>The Libyan government said late Monday the Morning Glory, which is carrying a cargo of Es Sider crude loaded by rebels who are in control of the port in eastern Libya, had come under the navy's control.</p>
+<p>At a late press conference in Tripoli, Libya's culture minister Amin al-Habib said the vessel was being escorted to a western port and was set to arrive "within hours."</p>
+<p>However, early Tuesday, French news agency AFP quoted a member of the General National Congress, the country's highest political authority, as saying the vessel had slipped its escort.</p>
+<p>
+<br/>"The oil tanker took advantage of poor weather conditions to head for the open sea. The ships that were surrounding it were not in a position to follow it," the lawmaker said, according to AFP.</p>
+<p>Abdelkader Houili, a member of the GNC's energy committee, told Al-Nabaa television that Libyan government ships had been forced to sail close to the coast because of the weather.</p>
+<p>"The tanker then took advantage of the gap to head for the open sea," he said.</p>
+<p>A second GNC member confirmed the vessel's escape, and the official LANA news agency quoted a third lawmaker as saying the Morning Glory had slipped its escort.</p>
+<p>Platts was unable to confirm the status of the Morning Glory early Tuesday.</p>
+<p>The North Korea-flagged vessel on Monday completed loading a cargo of up to 350,000 barrels of Es Sider crude, but the Libyan navy surrounded the tanker before bringing it under its control.</p>
+<p>Tripoli had also threatened to bomb the tanker if it set sail.</p>
+<p>The government and state-owned oil company NOC have stressed that rebels in eastern Libya have no legal right to sell oil.</p>
+<p>Tripoli has also formed a new armed force that will be charged with liberating three eastern Libyan ports -- Es Sider, Ras Lanuf and Marsa al-Hariga -- that have been occupied by rebels since July last year.</p>
+<p>--Stuart Elliott, <a href="mailto:stuart.elliott@platts.com">stuart.elliott@platts.com</a><br/>--Edited by Jonathan Dart, <a href="mailto:jonathan.dart@platts.com">jonathan.dart@platts.com</a></p>
+<p></p>
+<p>
+                            To continue reading you must login or register with us.
+                        </p>
+<p>
+                            It’s free and easy to do. Please use the button below and we will bring you back here when complete.
+                        </p>

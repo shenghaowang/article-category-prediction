@@ -1,0 +1,22 @@
+<p>You currently have:</p>
+<p>Go to the Subscriptions Centre to manage your:</p>
+<p>Log out of your CBC account.</p>
+<p><strong>Categories:</strong>
+<a href="http://www.cbc.ca/newsblogs/yourcommunity/community/">Community</a>, <a href="http://www.cbc.ca/newsblogs/yourcommunity/features/">Features</a>, <a href="http://www.cbc.ca/newsblogs/yourcommunity/world/">World</a>
+</p>
+<p><strong>Tags:</strong>
+<a href="http://www.cbc.ca/cgi-bin/MT4/mt-search.cgi?blog_id=245&amp;tag=Advertising&amp;limit=20">Advertising</a>, <a href="http://www.cbc.ca/cgi-bin/MT4/mt-search.cgi?blog_id=245&amp;tag=Colorado&amp;limit=20">Colorado</a>, <a href="http://www.cbc.ca/cgi-bin/MT4/mt-search.cgi?blog_id=245&amp;tag=Driving&amp;limit=20">Driving</a>, <a href="http://www.cbc.ca/cgi-bin/MT4/mt-search.cgi?blog_id=245&amp;tag=DUI&amp;limit=20">DUI</a>, <a href="http://www.cbc.ca/cgi-bin/MT4/mt-search.cgi?blog_id=245&amp;tag=Marijuana&amp;limit=20">Marijuana</a>
+</p>
+<p>The document has moved <a href="http://www.cbc.ca/cmlink/eptleg-community?format=np-lineuproll-module-3">here</a>.</p>
+<p>To encourage thoughtful and respectful conversations, first and last names will appear with each submission to CBC/Radio-Canada's online communities (except in children and youth-oriented communities). Pseudonyms will no longer be permitted.</p>
+<p>By submitting a comment, you accept that CBC has the right to reproduce and publish that comment in whole or in part, in any manner CBC chooses. Please note that CBC does not endorse the opinions expressed in comments. Comments on this story are moderated according to our <a href="https://www.cbc.ca/aboutcbc/discover/submissions.html">Submission Guidelines</a>. Comments are welcome while open. We reserve the right to close comments at any time.</p>
+<p class="policy" style="text-align: right;"><a class="policy" href="/aboutcbc/discover/submissions.html">Submission Policy</a></p>
+<p>
+<cite>Note: The CBC does not necessarily endorse any of the views posted. By submitting your comments, you acknowledge that CBC has the right to reproduce, broadcast and publicize those comments or any part thereof in any manner whatsoever. Please note that comments are moderated and published according to our <a href="/aboutcbc/discover/submissions.html">submission guidelines</a>.</cite>
+</p>
+<p><strong>CBC News Community team, from left to right: Andrew Yates, Lauren O'Neil,  John Bowman</strong></p>
+<p>If you're part of the CBC News community, you're likely to meet one of us: we're the folks working to produce and promote your stories. <a href="http://www.cbc.ca/newsblogs/yourcommunity/2011/02/meet-the-community-team.html">Read more about us</a>. 
+</p>
+<p class="cbc"><a href="http://www.cbc.radio-canada.ca/">CBC</a></p>
+<p class="rc"><a href="http://www.cbc.radio-canada.ca/">Radio-Canada</a></p>
+<p>©2018 CBC/Radio-Canada. All rights reserved</p>

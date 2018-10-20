@@ -1,0 +1,57 @@
+<p class="posted mb20">Mar 15, 2014 08:57 AM EDT | By <a href="/reporters/dina-exil">Dina Exil</a></p>
+<p>First Sbarro Pizza file for bankruptcy, and now Quiznos.</p>
+<p><a href="http://abcnews.go.com/Business/wireStory/quiznos-files-chapter-11-bankruptcy-protection-22915649" rel="nofollow" target="_blank">The Associated Press reported</a> that the sandwich chain filed for a Chapter 11 bankruptcy protection on Friday. The chain is reportedly struggling with hundreds of millions of dollars of debt, declining sales and thousands of store closures.</p>
+<p>The Denver-based chain, known for its concept of toasted sandwiches, is looking to slice its debt by more than $400 million, the company said in a statement Friday. Executives at the restaurant chain have listed liabilities of between $500 million and $1 billion in its bankruptcy petition.</p>
+<p>The company has secured $15 million from its senior lenders to keep the business operating during the process.</p>
+<p>"The plan is intended to increase the Company's flexibility as it executes operational enhancements designed to strengthen performance, revitalize the Quiznos brand and reinforce its promise as a fresh, high-quality and great-tasting alternative to traditional fast food offerings," <a href="http://www.foxbusiness.com/investing/2014/03/14/toasted-quiznos-files-for-ch-11-bankruptcy-protection/" rel="nofollow" target="_blank">the company said in a press release obtained by Fox Business</a>.</p>
+<p>All but seven of its nearly 2,100 restaurants in the United States and 30 other countries are independently owned and operated by franchisees. According to the company's statement, they will not be affected by the bankruptcy.</p>
+<p>
+<!-- article_center_middle11_computer start-->
+<div class="adunit_rectangle" id="adunit_article_center_middle11_computer">
+<!-- Place in head part widget:fwrn002 -->
+<script type="text/javascript">
+
+	var sbElementInterval = setInterval(function(){sbElementCheck()}, 50);
+
+	function sbElementCheck() {
+
+		var targetedElement = document.getElementById('ingageunit');
+		if(targetedElement) {
+			clearInterval(sbElementInterval);
+			(function(d) {
+				var js, s = d.getElementsByTagName('script')[0];
+				js = d.createElement('script');
+				js.async = true;
+				js.onload = function(e) {
+					SbInGageWidget.init({
+						partnerId : 5241,
+						widgetId : 'fwrn002',
+						cmsPath : 'http://cms.springboardplatform.com'
+					});
+				}
+				js.src = "http://www.springboardplatform.com/storage/js/ingage/apingage.min.js";
+				s.parentNode.insertBefore(js, s);
+			})(window.document);
+		}
+	}
+</script>
+<!-- Place in head part -->
+<!-- Place in body part -->
+<div id="ingageunit"></div>
+<!-- Place in body part -->
+</div>
+<!-- article_center_middle11_computer end -->
+</p>
+<p>The company has faced increased competition from rival Subway, which has more than 41,000 franchised locations in about 100 countries. Quiznos also faces competition from newer entrants such as Potbelly, whose low-priced menus have appealed to consumers in a tough economy.</p>
+<p>Quiznos bankruptcy protection comes five days after the <a href="http://www.foodworldnews.com/articles/5382/20140311/sbarro-struggling-pizza-chain-files-bankruptcy-protection-again.htm">Sbarro pizza chain did the same</a>, claiming that low foot traffic in malls has led to decreasing pizza sales. It is the second time in three years Sbarro pizza has had to file for bankruptcy, following a trip through bankruptcy proceedings in April 2011 and in November 2011.</p>
+<p>SHARE YOUR THOUGHTS</p>
+<p class="nw_comment" id="info" style="display:none;">You have already subscribed. Thank you.</p>
+<p class="mb15">Throwing out food: Attitudes to food waste in Russia</p>
+<p class="mb15">5 Foods That Will Help  Detoxing From Alcohol</p>
+<p class="mb15"></p>
+<p class="mb15">Disease-resistant apples perform better than old favorites</p>
+<p class="mb15">New tool could help maintain quality during cheese production</p>
+<p class="mb15"></p>
+<p class="fcoment" id="frepword" style="display:none;"><span class="arr"></span>You have already subscribed. Thank you.</p>
+<p>© Copyright 2018 FOOD WORLD NEWS All rights reserved. Use of this Web site constitutes acceptance of our Terms and Conditions of Use and Privacy Policy. </p>
+<p><img alt="Clicky" height="1" src="//in.getclicky.com/66601515ns.gif" width="1"/></p>

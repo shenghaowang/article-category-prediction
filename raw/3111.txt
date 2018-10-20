@@ -1,0 +1,10 @@
+<p class="timestamp" id="published-timestamp">Published: <span>Mar 10, 2014 8:14 a.m. ET</span></p>
+<p>By</p>
+<p>NEW YORK (MarketWatch) -- The bitcoin exchange Mt. Gox filed for Chapter 15 in the U.S. on Sunday, a chapter of the bankruptcy code that is designed to facilitate dealing with insolvency cases with parties in more than one country. Mt. Gox, which is based in Tokyo, filed for bankruptcy in Japan on Feb. 28. Meanwhile, the blog of Mt. Gox Chief Executive Mark Karpeles has been <a class="icon " href="http://techcrunch.com/2014/03/09/mt-gox-hack-allegedly-reveals-bitcoin-balances-customer-account-totals/" target="_new">reportedly hacked</a>, with the hackers posting an alleged balance sheet of the exchange's accounts. </p>
+<p><em>Have breaking news sent to your inbox. Subscribe to MarketWatch's free Bulletin emails. <a href="/newsletter">Sign up here.</a></em></p>
+<p class="copyright">Copyright © 2018 MarketWatch, Inc.  All rights reserved.</p>
+<p class="text text--terms">
+                By using this site you agree to the <a href="//www.marketwatch.com/support/disclaimer.asp">Terms of Service</a>,
+                <a href="https://www.dowjones.com/privacy-policy/" target="_blank">Privacy Policy</a>, and
+                <a href="https://www.dowjones.com/cookies-policy/" target="_blank">Cookie Policy</a>.
+            </p>

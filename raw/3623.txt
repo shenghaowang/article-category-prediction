@@ -1,0 +1,80 @@
+<p><span style="font-style: normal; font-weight: normal; color: #212121; font-family: Calibri, sans-serif; font-size: small;"><span style="font-size: 14.67px;">Our website uses </span></span><span style="color: #000000; font-style: normal; font-weight: normal; font-family: Calibri, sans-serif; font-size: small;"><span id="0.6623617829956865" style="font-size: 14.67px;">cookies</span></span><span style="font-style: normal; font-weight: normal; color: #212121; font-family: Calibri, sans-serif; font-size: small;"><span style="font-size: 14.67px;"> to improve your user experience. If you continue browsing, we assume that you consent to our use of </span></span><span style="font-style: normal; font-weight: normal; color: #212121; font-family: Calibri, sans-serif; font-size: small;"><span id="0.9045148247215682" style="font-size: 14.67px;">cookies</span></span><span style="font-style: normal; font-weight: normal; color: #212121; font-family: Calibri, sans-serif; font-size: small;"><span style="font-size: 14.67px;">. More information can be found in our <a href="https://www.centaurmedia.com/cookies" rel="noopener" target="_blank">Cookies Policy</a> and <a href="https://www.centaurmedia.com/privacy" rel="noopener" target="_blank">Privacy Policy</a>.</span></span></p>
+<p>The Treasury has approved a major shake-up of the Bank of England senior leadership as governor Mark Carney makes his mark on the organisation.</p>
+<p>Chancellor George Osborne has unveiled two new Bank of England deputy governors and a chairman of the court.</p>
+<p>Ex-Whitbread and Bunzl chairman Anthony Habgood will replace Sir David Lees as chairman of court from 1 July.</p>
+<p>On the same day ex-Goldman Sachs banker Ben Broadbent will step up from external monetary policy committee member to replace Charlie Bean as deputy governor for monetary policy.</p>
+<p>International Monetary Fund deputy managing director Nemat Shafik will also take up the newly created post of deputy governor for markets and banking from 1 August.</p>
+<p>Shafik will become only the second ever female deputy governor and the only woman to sit on the monetary policy committee when she replaces executive director of markets Paul Fisher.</p>
+<p>She will be responsible for the design and execution of an eventual exit from quantitative easing by the MPC. The new position will also oversee a range of role including a review of the Bank’s market intelligence functions and monetary framework. </p>
+<p>Shafik will represent the Bank at international bodies such as the G7 and IMF. Shafik will also sit on the Financial Policy Committee, the Bank’s Court of Directors and the board of the Prudential Regulation Authority.</p>
+<p>The Treasury says the appointment is a central plank of a package of structural and other changes to be announced by Carney as part of the Bank’s strategic plan.</p>
+<p>Treasury select committe chairman Andrew Tyrie has hit out at the “Byzantine” structure of Bank of England governance and Carney is believed to be shocked at what he found when he took up the job last July.</p>
+<p>Osborne says: “I am delighted to announce the appointment of three such highly qualified and experienced people to join the Bank’s already excellent executive team.</p>
+<p>“Their impressive experience of business, economics and international finance will strengthen and diversify the Bank’s top team and enable them to continue to face Britain’s ongoing economic challenges from a position of strength.</p>
+<p>Carney says: “With a diverse combination of skills and experience, these appointments result in a well-rounded senior management team at the Bank – one that will set the direction for an ambitious agenda of transformation for the institution and enable it to meet the challenges and opportunities it faces in maintaining monetary and financial stability.”</p>
+<p class="description">News and expert analysis straight to your inbox</p>
+<p>Advice giant St James’s Place will block access to its investment platform for 10 days while it migrates services to a new provider. SJP tells Money Marketing that the work will affect online service ability for clients between 19 October and 29 October. A spokesman says: “SJP will carry out essential maintenance to our systems as part […]</p>
+<p>This summer saw the S&amp;P 500 rule headlines for enjoying the longest-running bull market in history. Yet, as per the old adage, what goes up inevitably comes down, and it is the job of advisers to manage clients’ portfolios accordingly – either directly or via the third-party investment services they use. A crude assumption might […]</p>
+<p>There is currently no minimum qualification level, but the majority of advisers think this needs to change The role of the paraplanner is a relatively new one and its definition and responsibilities can differ hugely between firms. According to the Chartered Institute for Securities and Investment, the role can be broken down into four key […]</p>
+<p class="must-log-in">You must be <a class="toggle-login" href="#header-login">logged in</a> to post a comment.</p>
+<p class="box-description"><span style="color: #fffff; font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: normal;"><strong style="font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal;">Providing trusted insight for professional advisers</strong><span style="font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal;">.  Since 1985 Money Marketing has helped promote and analyse the financial adviser community in the UK and continues to be the trusted industry brand for independent insight and advice</span>.</span></p>
+<p class="login-username">
+<label for="user_login">Email</label>
+<input class="input" id="user_login" name="log" placeholder="Email" size="20" type="text" value=""/>
+</p>
+<p class="login-password">
+<label for="user_pass">Password</label>
+<input class="input" id="user_pass" name="pwd" placeholder="Password" size="20" type="password" value=""/>
+</p>
+<p class="login-remember"><label><input checked="checked" id="rememberme" name="rememberme" type="checkbox" value="forever"/> Keep me logged in</label></p>
+<p class="lost-password">
+<a href="https://www.moneymarketing.co.uk/carney-shakes-up-bank-of-england-leadership/?action=lostpassword" title="Password Recovery">Forgot your password?</a>
+</p>
+<p class="login-submit">
+<input class="button button-primary" id="wp-submit" name="wp-submit" type="submit" value="Sign in"/>
+<input name="redirect_to" type="hidden" value="https://www.moneymarketing.co.uk/carney-shakes-up-bank-of-england-leadership/"/>
+</p>
+<p style="font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal;"><strong style="font-size: 16px;">News &amp; analysis delivered directly to your inbox</strong><br/>
+Register today to receive our range of news alerts including daily and weekly briefings</p>
+<p style="font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal;"><a href="https://www.moneymarketing.co.uk/events/" rel="noopener" style="font-size: 16px;" target="_blank"><b>Money Marketing Events</b></a><br/>
+Be the first to hear about our industry leading conferences, awards, roundtables and more.</p>
+<p style="font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal;"><b>Research and insight</b><br/>
+Take part in and see the results of Money Marketing's flagship investigations into industry trends.</p>
+<p style="font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal;"><strong style="font-size: 16px;">Have your say</strong><br/>
+Only registered users can post comments. As the voice of the adviser community, our content generates robust debate. Sign up today and make your voice heard.</p>
+<p class="help-description"><p style="font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal;"><span style="color: #000000; font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal; font-weight: 400; text-align: center;">Contact us on +44 (0)20 7292 3712</span></p>
+<p style="font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal;"><span style="color: #000000; font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal; font-weight: 400; text-align: center;">L</span><span style="color: #000000; font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal; font-weight: 400; text-align: center;">ines are open Monday to Friday 9:00am -5.00pm</span></p>
+<p style="font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal;"><span style="color: #000000; font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal; font-weight: 400; text-align: center;">Email: </span><a href="mailto:customerservices@moneymarketing.co.uk" style="text-decoration-line: none; color: #e4003b; font-weight: bold; font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal; text-align: center;">customerservices@moneymarketing.com</a></p>
+</p>
+<p style="font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal;"><span style="color: #000000; font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal; font-weight: 400; text-align: center;">Contact us on +44 (0)20 7292 3712</span></p>
+<p style="font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal;"><span style="color: #000000; font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal; font-weight: 400; text-align: center;">L</span><span style="color: #000000; font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal; font-weight: 400; text-align: center;">ines are open Monday to Friday 9:00am -5.00pm</span></p>
+<p style="font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal;"><span style="color: #000000; font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal; font-weight: 400; text-align: center;">Email: </span><a href="mailto:customerservices@moneymarketing.co.uk" style="text-decoration-line: none; color: #e4003b; font-weight: bold; font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal; text-align: center;">customerservices@moneymarketing.com</a></p>
+<p class="copyright">© 2018. All rights reserved.</p>
+<p class="colophon">built by <a href="http://interconnectit.com">interconnect<span>/</span><strong>it</strong></a></p>
+<p>Centaur Communications Ltd (a member of the Centaur Media plc group)</p>
+<p>Wells Point, 79 Wells Street, London W1T 3QN. Registered in England No: 1595235</p>
+<p class="login-username">
+<label for="user_login_1">Email</label>
+<input class="input" id="user_login_1" name="log" placeholder="Email" size="20" type="text" value=""/>
+</p>
+<p class="login-password">
+<label for="user_pass_1">Password</label>
+<input class="input" id="user_pass_1" name="pwd" placeholder="Password" size="20" type="password" value=""/>
+</p>
+<p class="login-remember"><label><input checked="checked" id="rememberme_1" name="rememberme" type="checkbox" value="forever"/> Keep me logged in</label></p>
+<p class="lost-password">
+<a href="https://www.moneymarketing.co.uk/dashboard/?redirect_to=https%3A%2F%2Fwww.moneymarketing.co.uk%2Fcarney-shakes-up-bank-of-england-leadership%2F&amp;action=lostpassword" title="Password Recovery">Forgot your password?</a>
+</p>
+<p class="login-submit">
+<input class="button button-primary" id="wp-submit_1" name="wp-submit" type="submit" value="Sign in"/>
+<input name="redirect_to" type="hidden" value="https://www.moneymarketing.co.uk/carney-shakes-up-bank-of-england-leadership/"/>
+<input name="fail_to" type="hidden" value="https://www.moneymarketing.co.uk/dashboard/"/>
+</p>
+<p style="font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal;"><strong style="font-size: 16px;">News &amp; analysis delivered directly to your inbox</strong><br/>
+Register today to receive our range of news alerts including daily and weekly briefings</p>
+<p style="font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal;"><a href="https://www.moneymarketing.co.uk/events/" rel="noopener" style="font-size: 16px;" target="_blank"><b>Money Marketing Events</b></a><br/>
+Be the first to hear about our industry leading conferences, awards, roundtables and more.</p>
+<p style="font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal;"><b>Research and insight</b><br/>
+Take part in and see the results of Money Marketing's flagship investigations into industry trends.</p>
+<p style="font-family: museo-sans, 'Trebuchet MS', sans-serif; font-size: 16px; font-style: normal;"><strong style="font-size: 16px;">Have your say</strong><br/>
+Only registered users can post comments. As the voice of the adviser community, our content generates robust debate. Sign up today and make your voice heard.</p>

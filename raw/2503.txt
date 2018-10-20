@@ -1,0 +1,24 @@
+<p>CNET también está disponible en español.</p>
+<p>Don't show this again</p>
+<p class="article-dek col-8">It seems that a large, logical brain isn't enough to crush it at Candy Crush. Its mathematical difficulty level is very high.</p>
+<p class="speakableTextP1">I confess that I occasionally laugh at my mathematician friends. (They laugh at me all the time.)</p>
+<p class="speakableTextP2">What stirs me is the stimulus/response mechanism that urges them to reduce everything to math. It doesn't matte whether it's global warming or intercontinental warring, they can find a mathematical answer.</p>
+<p>I know it's not (always) their fault, but when they start to discuss who ate what at dinner, in order to split the check, my teeth begin to talk among themselves.</p>
+<p>I am secretly overjoyed, therefore, that mathematicians have declared that something mundane is quite difficult for them.<!--pagebreak-->
+</p>
+<p><a data-component="externalLink" href="http://www.newscientist.com/article/dn25204-addictive-candy-crush-video-game-is-officially-hard.html?utm_source=NSNS&amp;utm_medium=SOC&amp;utm_campaign=twitter&amp;cmpid=SOC%7CNSNS%7C2012-GLOBAL-twitter#.UyDeqHlbT0t" rel="noopener" target="_blank">A random reading of New Scientist </a>offers that Candy Crush has been officially declared NP-hard. </p>
+<p>No, not NPR'd. NP-hard. 
+</p>
+<p>This doesn't stand for "No Point, but hard." Although it should. Instead, it's a mathematical term that describes the number of times a mathematician must furrow her brow, while drinking several gallons of scotch in order to solve a problem.</p>
+<p>Should you have so far failed to play Candy Crush -- you're invited to my house for dinner and a Lava Vine grenache as a gesture of respect -- it's a game where bright pieces of candy move around and you're supposed to line them up. Or something like that.</p>
+<p>This didn't deter <a data-component="externalLink" href="http://www.cse.unsw.edu.au/~tw/" rel="noopener" target="_blank">Toby Walsh</a>, adjunct professor at the Department of Computer Science and Engineering at Australia's University of New South Wales (among other things), to analyze this game and designate it a certification.</p>
+<p>Please don't force me to take you through all his methodology. I am very results-oriented. I can tell you that he manipulated the little pieces of candy to simulate the famous Boolean satisfiability problem.</p>
+<p>This attempts to see whether successive logical statements are in line with each other or not.</p>
+<p>Some people call this a first date.</p>
+<p>Walsh's conclusion is that Candy Crush is <a data-component="externalLink" href="http://en.wikipedia.org/wiki/List_of_NP-complete_problems" rel="noopener" target="_blank">NP-complete</a>, a strain of NP-hard. Another example of an NP-complete problem is the <a data-component="externalLink" href="http://en.wikipedia.org/wiki/Traveling_salesman_problem" rel="noopener" target="_blank">Traveling Salesman Problem</a>, one which finds the shortest route to send a salesman on his way.</p>
+<p>Any Candy Crush player who suddenly wants to show off their intelligence to their non-Crushing friends should consider first that this game isn't the only one that's deemed NP-hard. 
+</p>
+<p><a data-component="externalLink" href="http://www.newscientist.com/article/mg21328565.100-mario-is-hard-and-thats-mathematically-official.html#.UyDjfHlbT0s" rel="noopener" target="_blank">Super Mario</a> is alongside it, as is Legend of Zelda.</p>
+<p>Still, the next time you're being given a hard time by a mathematician for your mental ineptitude, you can try to get him to beat you at Candy Crush.</p>
+<p>It'll be inane, but you might enjoy it. For at least 30 minutes.</p>
+<p class="policy">Be respectful, keep it clean and stay on topic. We delete comments that violate <a href="https://www.cnet.com/community-guidelines/" target="_blank">our policy</a>, which we encourage you to read. Discussion threads can be closed at any time at our discretion.</p>

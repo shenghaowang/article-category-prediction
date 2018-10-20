@@ -1,0 +1,40 @@
+<p class="flex-grow mt4 mb0-nm mb2 f12" data-v-ed4062fc=""><span class="uppercase sserif fw-bold text-charcoal" data-v-ed4062fc="">
+          March 10, 2014 AT 9:10 PM </span><span class="uppercase sserif text-charcoal fw-bold pl1 pl1-tb pl1-dk" data-v-ed4062fc="">
+          By
+          <span data-v-ed4062fc="">
+            Jeff Jablansky<!-- --></span></span><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --></p>
+<p class="inline-block sserif-2 f12 text-nubel text-left pl3 mb0"><span class="fw-bold sserif block f24 text-black text-left pr3">0</span>shares
+      </p>
+<p class="mb2" data-v-b8b3e86c=""> $32,390</p>
+<p>Another round of recallsâthis time, thoughtfully reported to the National Highway Traffic Safety Administration <a href="https://www.caranddriver.com/news/gm-knew-about-ignition-issues-10-years-before-issuing-recall/">before a decade went by</a>âcomes today from Chrysler, regarding anti-lock brakes on the Jeep Grand Cherokee and the Dodge Durango. The affected vehicles involved in this callback are more than 25,000 sport-utilities produced in the 2012 and 2013 model years, of which nearly 19,000 are located in the United States.<!--more--></p>
+<p>According to a statement from the <i>conglomerato </i>in Auburn Hills, âcertain aggressive braking maneuversâ were made more vulnerable by restriction in the flow of brake fluid to the anti-lock brake system. While Chrysler states that neither brake function was lost nor was it out of compliance with regulation, the pedal feel under such circumstances âwas not consistent with customer expectations.â</p>
+<p>The manufacturer assures that neither death nor injury has yet resulted in these vehicles, which were fitted with the brandsâ Ready Alert Braking.Â Ready Alert Braking is an active-braking system that functions by priming the brakes for optimal response during sudden stops.</p>
+<p>Service dates for the affected sport-utes, which comprise a single-digit percentage of total SUVs sold by both brands in those model years, will be announced soon. This announcement differs from Jeepâs <a href="https://www.caranddriver.com/news/after-initial-dispute-chrysler-and-nhtsa-agree-to-non-recall-inspections-of-1-56-million-jeeps/">erstwhile campaign</a> to recall and repair 1.56 million 1993â1998 Grand Cherokees and 2002â2007 Liberty sport-utes.</p>
+<p></p>
+<p class="mb2" data-v-b8b3e86c=""> $32,390</p>
+<p class="inline-block sserif-2 f12 text-nubel text-left pl3 mb0"><span class="fw-bold sserif block f24 text-black text-left pr3">0</span>shares
+      </p>
+<p class="mb2" data-v-b8b3e86c=""> $32,390</p>
+<p>We'll help you get your car's trade-in value in under a minute.</p>
+<p class="icon fb mb0">Facebook</p>
+<p class="icon tw mb0">Twitter</p>
+<p class="icon ig mb0">Instagram</p>
+<p class="icon you mb0">YouTube</p>
+<p class="fw-bold mb3 f12 lh12 text-gainsboro text-hover-white">
+<a class="gtm-link gtm-section-name" href="/list-reviews">REVIEWS</a>
+</p>
+<p class="fw-bold mb3 f12 lh12 text-gainsboro text-hover-white">
+<a class="gtm-link gtm-section-name" href="/list-news">NEWS</a>
+</p>
+<p class="fw-bold mb3 f12 lh12 text-gainsboro text-hover-white">
+<a class="gtm-link gtm-section-name" href="/list-features">FEATURES</a>
+</p>
+<p class="fw-bold mb3 f12 lh12 text-gainsboro text-hover-white">
+<a class="gtm-link gtm-section-name" href="/list-reviews">BUYER'S GUIDE</a>
+</p>
+<p class="fw-bold mb3 f12 lh12 text-gainsboro text-hover-white">
+<span>ABOUT CAR AND DRIVER</span>
+</p>
+<p class="fw-bold mb3 f12 lh12 text-gainsboro text-hover-white">
+<span>FOLLOW US</span>
+</p>

@@ -1,0 +1,3 @@
+<p class="sd-news-author">by Associated Press</p>
+<p class="sd-news-date" data-date="1394434800000"></p>
+<p></p>

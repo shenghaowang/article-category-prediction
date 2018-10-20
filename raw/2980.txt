@@ -1,0 +1,49 @@
+<p>Accessibility links</p>
+<p>
+		Saturday 20 October 2018</p>
+<p class="bylineBody">
+							By <a href="https://www.telegraph.co.uk/journalists/rhiannon-williams/" rel="author" title="Rhiannon Williams">
+											Rhiannon Williams</a></p>
+<p class="publishedDate">11:23AM GMT 18 Mar 2014</p>
+<p> Bitcoin exchange<a href="https://www.mtgox.com/?back"> <strong>MtGox</strong></a> is now displaying a login screen for users to check their balances, instead of the legal notices it has displayed for the past few weeks. </p>
+<p> Late last month the Tokyo-based service filed for bankruptcy protection, according to Japanese media reports. A lawyer representing the company made a statement at the Tokyo District Court on February 28 and claimed that the company had outstanding debts of ¥6.5 billion. </p>
+<p> Rumours also circulated that 744,000 bitcoin, <strong><a href="https://www.telegraph.co.uk/technology/news/10662749/MtGox-and-Bitcoin-where-has-251m-gone.html">the equivalent of £251 million</a></strong>, had been stolen. The amount equates to six per cent of all the coins in circulation. </p>
+<p> The website provided a way for customers to exchange US dollars for bitcoins, a digital cryptocurrency that has soared in price over recent years but remains largely unregulated. </p>
+<p> It remains unclear when users will be able to access their bitcoins. </p>
+<p>
+<a href="/technology/news/10682405/Bitcoin-creator-and-64-year-old-train-collector-deny-claims-that-they-are-one-and-the-same.html">Bitcoin creator and 64-year-old train collector deny claims that they are one and the same</a>
+</p>
+<p>
+<a href="/finance/currency/10659768/mtgox-down.html">Bitcoin under threat as exchange goes offline</a>
+</p>
+<p>
+<a href="/finance/10679596/Police-investigate-death-of-bitcoin-exchange-chief.html">Police investigate death of bitcoin exchange chief</a>
+</p>
+<p>
+<a href="/finance/currency/10676782/Japan-to-regulate-bitcoin.html">Japan to regulate bitcoin</a>
+</p>
+<p>
+<a href="/technology/news/10667207/Bitcoin-exchange-MtGox-files-for-bankruptcy-protection.html">MtGox files for bankruptcy protection</a>
+</p>
+<p>
+<a href="/technology/news/10687220/Bitcoin-community-donates-16400-to-model-train-enthusiast-wrongly-identified-as-reclusive-creator.html">Bitcoin community donates £16,400 to man wrongly identified as reclusive creator</a>
+</p>
+<p> A message on the site read: “This balance confirmation service is provided on this site only for the convenience of all users. Please be aware that confirming the balance on this site does not constitute a filing of rehabilitation claims under the civil rehabilitation procedure and note that the balance amounts shown on this site should also not be considered an acknowledgement by MtGox Co., Ltd. of the amount of any rehabilitation claims of users.” </p>
+<p> In the days leading up to MtGox's collapse, the exchange was reportedly <strong><a href="https://www.telegraph.co.uk/finance/currency/10686698/Bitcoin-exchange-MtGox-faced-150000-hack-attacks-every-second.html">attacked 150,000 times per second</a></strong> by hackers issuing distributed denial-of-service (DDoS) attacks. </p>
+<p> MtGox was founded in 2010 by programmer Jed McCaleb, who sold the company to Tibanne Co. in March 2011. It became the world’s largest marketplace for bitcoins, handling an estimated 80 per cent of all transactions of the digital currency. </p>
+<p> Earlier this month more than 400 people signalled that they would join a class action lawsuit against MtGox, according to British law firm Selachii. </p>
+<p> It is the latest effort to try to reclaim some of the hundreds of thousands of lost bitcoins from the exchange. </p>
+<p>In Technology News</p>
+<p>
+<span>Read more from Telegraph Technology</span>
+</p>
+<p>
+<a href="https://www.telegraph.co.uk/video"><span>Top Technology Videos»</span></a>
+</p>
+<p><a href="#top">Back to top</a></p>
+<p>© Copyright of Telegraph Media Group Limited 2018</p>
+<p><a href="https://www.telegraph.co.uk/termsandconditions" target="_parent">Terms and Conditions</a> </p>
+<p><a href="/archive/2018-10-20.html" target="_parent">Today's News</a></p>
+<p><a href="https://www.telegraph.co.uk/archive/" target="_parent">Archive</a></p>
+<p><a href="https://www.telegraph.co.uk/topics/about-us/style-book/" target="_parent">Style Book</a></p>
+<p class="last"><a href="/news/weather/4142730/Weather-forecast.html" target="_parent">Weather Forecast</a></p>

@@ -1,0 +1,35 @@
+<p class="showmore">
+<a>More results... <span></span></a>
+</p>
+<p>By Pete Bakel </p>
+<p><img alt="housing_recovery_house_in_hand" class="alignleft size-full wp-image-86923" height="176" src="http://rismedia.com/wp-content/uploads/2014/03/housing_recovery_house_in_hand.jpg" width="264"/>Americans’ outlook on housing and the economy has fluctuated somewhat during the past few months, but the trend for most indicators remains positive overall, according to Fannie Mae’s February 2014 National Housing Survey results.</p>
+<p>Notably, respondents’ home price expectations climbed significantly in February—with 50 percent saying home prices will go up in the next year—following a measurable downturn in January, while the share of those who believe it is a good time to buy a home ticked up by 3 percentage points.</p>
+<p>At the same time, those who believe that it would be easy to get a mortgage dropped 7 percentage points from January’s all-time survey high of 52 percent. Additionally, the share of respondents who say the economy is on the wrong track increased 3 percentage points to 57 percent in February, following a four-month decline. Despite a decrease in optimism across some of the indicators last month, consumer attitudes remain in generally positive ranges.</p>
+<p>“Similar to the noisy economic and housing data published over the past few months, we’ve seen a corresponding increase in volatility in our survey results, particularly for home price expectations and perceptions about the ease of getting a mortgage,” says Doug Duncan, senior vice president and chief economist at Fannie Mae. “Weather may have played a role, as suggested by a 6 percentage point jump over the past two months in the share of consumers who say their household expenses are significantly higher than a year ago. This response would be consistent with higher home heating costs. Despite the volatile month-to-month changes, we believe that the housing recovery is continuing, but is not yet robust.”</p>
+<p><strong>Homeownership Views</strong></p>
+<p>According to the survey, the average 12-month home price change expectation increased from last month, to 3.2 percent.</p>
+<p>The share of people who say home prices will go up in the next 12 months increased 7 percentage points to 50 percent, while the share who says home prices will stay the same decreased by seven percentage points to 38 percent.</p>
+<p>The share of respondents who say mortgage rates will go up in the next 12 months increased by 1 percentage point, to 56 percent.</p>
+<p>Those who say it is a good time to buy a house increased from last month, up 3 percentage points to 68 percent.</p>
+<p>The average 12-month rental price change expectation increased from last month to 4.3 percent.</p>
+<p>Results show that 51 percent of those surveyed says home rental prices will go up in the next 12 months, an increase of 3 percentage points from last month.</p>
+<p>Forty-five percent of respondents thought it would be easy for them to get a home mortgage today, a 7 percentage point decrease from last month.</p>
+<p>The share who says they would buy if they were going to move fell 4 percentage points to 66 percent, and those who say they would rent increased to 30 percent.</p>
+<p><strong>The Economy and Household Finances</strong></p>
+<p>The share of respondents who say the economy is on the right track decreased 4 percentage points from last month to 35 percent.</p>
+<p id="footer-info">
+<div id="et-footer-nav">
+<div class="container">
+<ul class="bottom-nav" id="menu-footer"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-172" id="menu-item-172"><a href="https://rismedia.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-175" id="menu-item-175"><a href="https://rismedia.com/team/">Team</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-173" id="menu-item-173"><a href="https://rismedia.com/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137039" id="menu-item-137039"><a href="https://rismedia.com/email-whitelist-instructions/">Email Whitelist</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174" id="menu-item-174"><a href="https://rismedia.com/media-kit/">Media Kit</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116194" id="menu-item-116194"><a href="/power-broker-survey-results-2018/">2018 Power Broker Report</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-123963" id="menu-item-123963"><a href="http://rismedia.com/product/real-estate-magazine-one-year-recurring-subscription-12-issues/">Our Magazine</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176" id="menu-item-176"><a href="https://rismedia.com/terms/">Terms &amp; Policies</a></li>
+</ul> </div>
+<div class="footer_bottom_logo" style="float:right;"><img src="/wp-content/uploads/2016/03/logo-rismedia.png">
+<div style="font-size:12px;font-family:'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, sans-serif;">© 2018  RISMedia. All Rights Reserved.</div></img></div>
+</div> <!-- #et-footer-nav -->
+</p>

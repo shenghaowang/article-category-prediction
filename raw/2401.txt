@@ -1,0 +1,65 @@
+<p class="mh-meta entry-meta">
+<span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="https://wallstreetpit.com/date/2014/03/">March 12, 2014</a></span>
+<span class="entry-meta-author author vcard"><i class="fa fa-user"></i><a class="fn" href="https://wallstreetpit.com/author/editor/">WSP</a></span>
+</p>
+<p><img alt="" border="0" height="370" src="//wallstreetpit.com/wp-content/uploads/news/herbalife.jpg" usemap="#herbalife_Map" width="640"/></p>
+<p>CNBC <a class="external" href="http://www.cnbc.com/id/101464747" rel="nofollow" target="_blank">reports</a> that The Federal Trade Commission [FTC] has opened a formal investigation into Herbalife Ltd. (<span style="color: #0270df;">HLF</span>) following more than a year of scrutiny over its business practices. Shares of the company, which sells vitamins, shakes and other supplements, nosedived as much as 15% after being briefly halted.</p>
+<p>After reiterating its willingness to fully cooperate with the FTC, Herbalife said it “welcomes the inquiry given the tremendous amount of misinformation in the marketplace.”</p>
+<p>On Wednesday, hedge fund manager Bill Ackman, who has called the company a “massive pyramid scheme” and has placed a $1.16 billion short bet against it, stepped up his battle against Herbalife by accusing it of operating illegally in China.</p>
+<p>“We are confident that Herbalife is in compliance with all applicable laws and regulations. Herbalife is a financially strong and successful company, having created meaningful value for shareholders, significant opportunities for distributors and positively impacted the lives and health of its consumers for over 34 years,” the company said in a <a class="external" href="http://ir.herbalife.com/releasedetail.cfm?ReleaseID=832283" rel="nofollow" target="_blank">statement</a>.</p>
+<p>Herbalife’s shares have recovered slightly in midday trading and are currently down $5.82, or 8.90%, at $59.67. HLF hit an intraday low of $54.59, or 17%, at one point after the FTC news hit the wires. Today’s range: $54.59 – $69.41.</p>
+<p class="comment-notes">Your email address will not be published.</p>
+<p class="comment-form-comment"><label for="comment">Comment</label><br/><textarea aria-required="true" cols="45" id="comment" name="comment" rows="5"></textarea></p>
+<p class="comment-form-author"><label for="author">Name </label><span class="required">*</span><br/><input aria-required="true" id="author" name="author" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email </label><span class="required">*</span><br/><input aria-required="true" id="email" name="email" size="30" type="text" value=""/></p>
+<p class="comment-form-url"><label for="url">Website</label><br/><input id="url" name="url" size="30" type="text" value=""/></p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Post Comment"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="102975"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="3ce3c43a9e"/></p>
+<p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="129"/></p>
+<p class="mh-custom-posts-small-title">
+<a href="https://wallstreetpit.com/114987-quantum-algorithm-encodes-life-first-time-ever/" title="Quantum Algorithm Encodes Life Itself For the First Time Ever">
+										Quantum Algorithm Encodes Life Itself For the First Time Ever									</a>
+</p>
+<p class="mh-custom-posts-small-title">
+<a href="https://wallstreetpit.com/114985-squares-sq-stock-price-plunge-tech-sell-off/" title="Square’s (SQ) Stock Price Plunge Has Nothing to Do With the Broader Tech Sell-Off">
+										Square’s (SQ) Stock Price Plunge Has Nothing to Do With the Broader Tech Sell-Off									</a>
+</p>
+<p class="mh-custom-posts-small-title">
+<a href="https://wallstreetpit.com/114982-yield-curve-forecasting/" title="What is the Yield Curve Forecasting?">
+										What is the Yield Curve Forecasting?									</a>
+</p>
+<p class="mh-custom-posts-small-title">
+<a href="https://wallstreetpit.com/114980-logic-vanishes-elon-musk/" title="Logic Vanishes In The Musk">
+										Logic Vanishes In The Musk									</a>
+</p>
+<p class="mh-custom-posts-small-title">
+<a href="https://wallstreetpit.com/114975-tesla-tsla-stock-soars-musks-surprise-sec-settlement/" title="Tesla (TSLA) Stock Soars After Musk’s Surprise SEC Settlement">
+										Tesla (TSLA) Stock Soars After Musk’s Surprise SEC Settlement									</a>
+</p>
+<p class="mh-custom-posts-small-title">
+<a href="https://wallstreetpit.com/114703-now-thou-dow/" title="How Now, Thou Dow?">
+										How Now, Thou Dow?									</a>
+</p>
+<p class="mh-custom-posts-small-title">
+<a href="https://wallstreetpit.com/114444-pentagon-video-suggests-not-alone-universe/" title="Pentagon Video Suggests We May Not Be Alone In The Universe">
+										Pentagon Video Suggests We May Not Be Alone In The Universe									</a>
+</p>
+<p class="mh-custom-posts-small-title">
+<a href="https://wallstreetpit.com/113921-bitcoin-debate-future-money-speculative-hype/" title="The Bitcoin Debate: Future of Money or Speculative Hype?">
+										The Bitcoin Debate: Future of Money or Speculative Hype?									</a>
+</p>
+<p class="mh-custom-posts-small-title">
+<a href="https://wallstreetpit.com/113884-tale-two-americas-high-costs-poor-rich-land/" title="A Tale of Two Americas: The High Costs of Being Poor in a Rich Land">
+										A Tale of Two Americas: The High Costs of Being Poor in a Rich Land									</a>
+</p>
+<p class="mh-custom-posts-small-title">
+<a href="https://wallstreetpit.com/113364-earths-carbon-dioxide-breaking-dangerous-records/" title="Earth’s Carbon Dioxide Breaking Dangerous Records">
+										Earth’s Carbon Dioxide Breaking Dangerous Records									</a>
+</p>
+<p class="mh-custom-posts-small-title">
+<a href="https://wallstreetpit.com/113226-era-smartphones-ending/" title="The Era Of Smartphones Is Ending">
+										The Era Of Smartphones Is Ending									</a>
+</p>
+<p class="mh-copyright">Copyright © 2018 <a href="//wallstreetpit.com">Wall Street Pit</a>  |  <a href="mailto:contact@wallstreetpit.com">Contact Us</a>  |  <a href="mailto:sales@wallstreetpit.com">Advertise</a>  |  <a href="//wallstreetpit.com/terms-of-use" rel="nofollow">Terms of Use</a>  |  <a href="//wallstreetpit.com/privacy-policy" rel="nofollow">Privacy Policy</a></p>

@@ -1,0 +1,59 @@
+<p>All day the drone / sUAS community was in full speculation mode over the leaked US Army memo saying all DJI products were grounded over cyber vulnerability concerns. Most outlets jumped on the news without bothering to confirm the memo was real.</p>
+<p><em>DAMO-AV</em><br/>
+<em>MEMORANDUM FOR RECORD</em><br/>
+<em>2 August 2017</em><br/>
+<em>SUBJECT: Discontinue Use of Dajiang Innovation (DJI) Corporation Unmanned Aircraft Systems</em><br/>
+<em>1. References:</em><br/>
+<em>a. Army Research Laboratory (ARL) report, “DJI </em>UAS<em> Technology Threat and User Vulnerabilities,” dated 25 May 2017 (Classified).</em><br/>
+<em>b. Navy memorandum, “Operational Risks with Regards to DJI Family of Products,” dated 24 May 2017.</em><br/>
+<em>2. Background: DJI Unmanned Aircraft Systems (</em>UAS<em>) products are the most widely used non-program of record commercial off-the-shelf </em>UAS<em> employed by the Army. The Army Aviation Engineering Directorate has issued over 300 separate Airworthiness Releases for DJI products in support of multiple organizations with a variety of mission sets. Due to increased awareness of cyber vulnerabilities associated with DJI products, it is directed that the U.S. Army halt the use of all DJI products. This guidance applies to all DJI </em>UAS<em> and any system that employs DJI electrical components or software including, but not limited to, flight computers, cameras, radios, batteries, speed controllers, GPS units, handheld control stations, or devices with DJI software applications installed.</em><br/>
+<em>3. Direction: Cease all use, uninstall all DJI applications, remove all batteries/storage media from devices, and secure equipment for follow on direction.</em><br/>
+<em>4. Point of Contact: Headquarters, Department of the Army G-3/5/7 Aviation Directorate, 703-693-3552</em><br/>
+<em>JOSEPH ANDERSON</em><br/>
+<em>Lieutenant General, GS</em><br/>
+<em>Deputy Chief of Staff, G-3/5/7</em></p>
+<p>All it took was a quick phone call to the Pentagon, and the rampant speculation falls apart into a CYA statement by an Army spokesperson:</p>
+<p><em>We can confirm that guidance was issued; however, we are currently reviewing the guidance and cannot comment further at this time.</em></p>
+<p>If you’re wondering what the hell that even says, it’s a basic the left hand didn’t know what the right hand was doing.</p>
+<p>DJI’s Adam Lisberg on today’s events was the company was just as confused as the rest of us.</p>
+<p><em>People, businesses, and governments around the world rely on DJI’s products and technology for a variety of uses including sensitive and mission critical operations. The Department of the Army memo even reports that they have “issued over 300 separate Airworthiness Releases for DJI products in support of multiple organizations with a variety of mission sets.”</em></p>
+<p><em>We are surprised and disappointed to read reports of the U.S. Army’s unprompted restriction on DJI drones as we were not consulted during their decision. We are happy to work directly with any organization, including the U.S. Army, which has concerns about our management of cyber issues.</em></p>
+<p><em>We’ll be reaching out to the U.S. Army to confirm the memo and to understand what is specifically meant by ‘cyber vulnerabilities.’</em></p>
+<p><em>Until then, we ask everyone to refrain from undue speculation.</em></p>
+<p><div class="inline-post clearfix"><div class="see-also byline">See also</div><div class="block-wrap block-wrap-23 block-css-84426 block-wrap-classic elements-design-1 block-ani block-skin-0 tipi-box block-wrap-thumbnail ppl-s-2 ppl-l-3 clearfix" data-id="84426" id="block-wrap-84426"><div class="tipi-row-inner-style clearfix"><div class="tipi-row-inner-box contents"><div class="block block-23 clearfix meta-overlay-0"><article class="tipi-xs-12 clearfix with-fi ani-base tipi-xs-typo split-1 split-design-1 loop-0 preview-thumbnail preview-23 elements-design-1 post-19443 post type-post status-publish format-standard has-post-thumbnail category-science-technology tag-bitcoin tag-coinbase tag-digital-currency tag-visa"><div class="preview-mini-wrap clearfix"><div class="mask"><a class="mask-img" href="https://www.newsledge.com/coinbase-bitcoin-debit-card/"><img alt="Coinbase debuts first bitcoin debit card" class="attachment-zeen-100-66 size-zeen-100-66 wp-post-image" height="66" sizes="(max-width: 100px) 100vw, 100px" src="https://www.newsledge.com/wp-content/uploads/2015/11/coinbase-bitcoin-debit-card-100x66.jpg" srcset="https://www.newsledge.com/wp-content/uploads/2015/11/coinbase-bitcoin-debit-card-100x66.jpg 100w, https://www.newsledge.com/wp-content/uploads/2015/11/coinbase-bitcoin-debit-card-370x247.jpg 370w, https://www.newsledge.com/wp-content/uploads/2015/11/coinbase-bitcoin-debit-card-770x513.jpg 770w, https://www.newsledge.com/wp-content/uploads/2015/11/coinbase-bitcoin-debit-card-900x600.jpg 900w, https://www.newsledge.com/wp-content/uploads/2015/11/coinbase-bitcoin-debit-card-912x600.jpg 912w" width="100"/></a></div><div class="meta"><div class="title-wrap"><h3 class="title"><span id="coinbase-gives-bitcoin-what-it-desperately-needs"><a href="https://www.newsledge.com/coinbase-bitcoin-debit-card/">Coinbase Gives Bitcoin What it Desperately Needs</a></span></h3></div><div class="byline byline-3 byline-cats-design-3"><span class="byline-part author"><a class="url fn n" href="https://www.newsledge.com/author/marcus-chavers/">Marcus Chavers</a></span><span class="byline-part separator">·</span><div class="byline-part cats"><a class="cat cat-with-line" href="https://www.newsledge.com/science-technology/" style="border-bottom-color:#dd9933">Sci + Tech</a></div><span class="byline-part separator">·</span><span class="byline-part date"><time class="entry-date published dateCreated" datetime="2015-11-20T14:07:30-06:00">November 20, 2015</time></span></div></div></div></article></div></div></div></div></div></p>
+<p>Yeah, it’s the Internet. Refrain from speculation? Say what?</p>
+<p>Two paths here. The first is say there is a vulnerability of the DJI equipment. It would be a DOD-wide directive from the office of the Secretary of Defense, not the US Army.</p>
+<p>The second path is this memo was written and accidentally released. It was never meant for public consumption. The Pentagon and DJI would work together to harden the systems for any classified or mission critical missions the products would be involved in.</p>
+<p>It’s another lesson of asking basic questions. Don’t accept something as fact when a simple two-minute phone call gets you a confirmation and a whole lot of CYA. You can literally google the US Army’s Pentagon Public Affairs Office. Adding ‘Reportedly’ to headlines should not release outlets from basic reporting. If a two-man operation in Alabama can get answers, why can’t a VC-backed outlet get the same info?</p>
+<p>We will update this article as more information becomes available.
+									</p>
+<p align="left">
+<input name="EMAIL" placeholder="Enter Your E-mail Address" required="" type="email"/>
+</p>
+<p class="zeen-checkbox">
+<label>
+<input name="AGREE_TO_TERMS" required="" type="checkbox" value="1"/>
+<span class="zeen-i"></span>
+</label>
+<a href="https://www.newsledge.com/privacy-policy/" target="_blank">I have read and agree to the terms and conditions</a>
+</p>
+<p align="left">
+<input name="EMAIL" placeholder="Enter Your E-mail Address" required="" type="email">
+</input></p>
+<p class="zeen-checkbox">
+<label>
+<input name="AGREE_TO_TERMS" required="" type="checkbox" value="1"/>
+<span class="zeen-i"></span>
+</label>
+<a href="https://www.newsledge.com/privacy-policy/" target="_blank">I have read and agree to the terms and conditions</a>
+</p>
+<p align="left">
+<input name="EMAIL" placeholder="Enter Your E-mail Address" required="" type="email"/>
+</p>
+<p class="zeen-checkbox">
+<label>
+<input name="AGREE_TO_TERMS" required="" type="checkbox" value="1"/>
+<span class="zeen-i"></span>
+</label>
+<a href="https://www.newsledge.com/privacy-policy/" target="_blank">I have read and agree to the terms and conditions</a>
+</p>

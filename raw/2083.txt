@@ -1,0 +1,7 @@
+<p class="title">
+                The Pope's Agenda</p>
+<p class="footer-column__title">Pope's Activities</p>
+<p class="footer-column__title">Our Faith</p>
+<p class="footer-column__title">Useful Information</p>
+<p class="footer-column__title">Other sites</p>
+<p class="footer-column__title">Our channels</p>

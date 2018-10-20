@@ -1,0 +1,24 @@
+<p class="prof__menu__greeting--name hide-for-anonymous">Hi, <span class="prof__menu--name">Guest</span>!</p>
+<p class="prof__menu__text hide-for-logged-in">Save cars. Access them anywhere.
+                    <a class="prof__menu__button js_continue" data-linkname="headerpro-sign-up" href="/profile/secure/signup/" target="_self">Sign Up</a></p>
+<p class="prof__menu__text--small hide-for-logged-in">Already have an account?
+                    <a class="prof__menu__link js_continue" data-linkname="headerpro-sign-in" href="/profile/secure/login/" target="_self">Log In</a>
+</p>
+<p>By <strong class="article-byline__author ">Kelsey Mays</strong></p>
+<p class="article-byline__date" itemprop="datePublished">March 12, 2014</p>
+<p> <div>
+<figure itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+<img alt="MMS ID 61300 (created by CM Utility)" class="body-image" itemprop="url" src="https://www.cstatic-images.com/stock/1170x1170/45/-2083833236-1425510620745."/>
+<noscript>
+                        &lt;meta itemprop="width" content="1170"&gt;
+                        &lt;meta itemprop="height" content="1170"&gt;
+                </noscript>
+<figcaption class="image__caption">
+</figcaption>
+</figure>
+</div>
+</p>
+<p>GM's ignition-switch recall has landed the largest U.S. automaker in the sight of federal investigators. USA Today reports the U.S. attorney's office in New York has launched a criminal probe into the recall, which is now responsible for 31 crashes and 12 deaths because of airbags that fail to deploy when the ignition switch is jarred into the Off or Accessory positions leading up to a crash. GM has recalled 1.37 million cars in the U.S. — a slew of mid-2000s compact cars, which you can click below to see — but court documents from 2013 showed the automaker knew about the issue as early as 2004.</p>
+<p><a href="/news/gm-ignition-recall/" target="_self" title="More on the GM Ignition-Switch Recall"><strong>More on the GM Ignition-Switch Recall</strong></a></p>
+<p>The National Highway Traffic Safety Administration and a congressional committee have already opened separate probes. Our friends at USA Today have the whole story, which you can read <a href="http://www.usatoday.com/story/money/cars/2014/03/11/gm-justice-department-recall-probe-investigation/6299749/" target="_self" title="here">here</a>.</p>
+<p><em>Manufacturer image</em></p>

@@ -1,0 +1,90 @@
+<p class="widget-title widgettitle">Share This Article</p>
+<p class="widget-title widgettitle">Email this Article</p>
+<p class="entry-meta">By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/tclarke/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Tara Clarke</span></a></span>, <span class="author-title"> Associate Editor</span>, <span class="author-attribution">Money Morning</span><span class="sep"> • </span><a href="http://twitter.com/TaraKateClarke" target="_blank"><span class="author-twitter">@TaraKateClarke</span></a> <span class="sep">•</span> <time class="entry-time" datetime="2014-03-12T16:02:36+00:00" itemprop="datePublished">March 12, 2014</time> </p>
+<p>Start the conversation</p>
+<p class="comment-reply-title" id="reply-title">Leave a Reply <small><a href="/2014/03/12/king-ipo-still-bad-bet-investors/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Click here to cancel reply.</a></small></p>
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>
+<p class="comment-form-comment"><label for="comment">Comment</label> <textarea aria-required="true" cols="45" id="comment" maxlength="65525" name="comment" required="required" rows="8"></textarea></p>
+<p class="mm-signup-comment-checkbox"><label><input checked="checked" class="mm-signup" id="mm-signup" name="mm-signup" type="checkbox" value="1"/> Sign me up for the <em>Money Morning</em> newsletter</label></p>
+<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input aria-required="true" id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input aria-describedby="email-notes" aria-required="true" id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" maxlength="200" name="url" size="30" type="url" value=""/></p>
+<p class="cptch_block"><br/><span class="cptch_wrap">
+<label class="cptch_label" for="cptch_input">
+<span class="cptch_span"><input aria-required="true" autocomplete="off" class="cptch_input " id="cptch_input_21" maxlength="2" name="cptch_number" required="required" size="2" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;" type="text" value=""/></span>
+<span class="cptch_span"> − </span>
+<span class="cptch_span">six</span>
+<span class="cptch_span"> = </span>
+<span class="cptch_span">zero</span>
+<input name="cptch_result" type="hidden" value="Kkc="/>
+<input name="cptch_time" type="hidden" value="1540059376"/>
+<input type="hidden" value="Version: 4.2.2"/>
+</label><span class="cptch_reload_button_wrap hide-if-no-js">
+<noscript>
+<style type="text/css">
+							.hide-if-no-js {
+								display: none !important;
+							}
+						</style>
+</noscript>
+<span class="cptch_reload_button dashicons dashicons-update"></span>
+</span></span></p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Submit &gt;"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="125065"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="9ebd3e212e"/></p>
+<p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="37"/></p>
+<p><a href="https://moneymorning.com/2014/02/18/king-ipo-tastes-bad-investors/" target="_blank"><em>King IPO</em></a><em><strong>:</strong></em> King  Digital Entertainment PLC said today (Wednesday) it expects a market value of as  much as $7.6 billion in its initial public offering.</p>
+<p><img align="left" alt="King IPO" src="http://cdn.moneymorning.com/files/2014/03/20140312_king-ipo.jpg" style="padding:5px;" title="King IPO" width="300"/></p>
+<p>On Feb. 18, the maker of several hit social Internet games, including tour  de force "<a href="https://moneymorning.com/tag/candy-crush-saga/" target="_blank">Candy Crush  Saga</a>," filed for a U.S. initial public offering (<a href="https://moneymorning.com/tag/ipo-2014/" target="_blank">IPO</a>). The  stock will be listed on the New York Stock Exchange under the symbol  "KING," with J.P. Morgan Chase &amp; Co. (NYSE: <a href="https://moneymorning.com/stocks/jpm/" target="_blank">JPM</a>), <a href="https://moneymorning.com/tag/credit" target="_blank">Credit</a> Suisse Group AG (NYSE: <a href="https://moneymorning.com/stocks/cs/" target="_blank">CS</a>), and Bank of America Merrill Lynch (NYSE: <a href="https://moneymorning.com/stocks/bac/" target="_blank">BAC</a>) serving as lead underwriters.</p>
+<p>Today,  King said its IPO of 22.2 million shares will likely be priced between $21 and  $24 per share. </p>
+<p>The  company itself will sell 15.5 million shares in the offering, while  stockholders, such as Apax Ventures, will sell 6.7 million shares. According to  the IPO filing, entities related to Apax will own  44.2% of the company following the offering. Founder and Chief Executive  Officer Riccardo Zacconi will maintain a 9.5% stake.</p>
+<p>The  King IPO's official pricing is set for later this month, on March 25. All in  all, it's projected to raise as much as $532.8 million – a smidge over the $500  million figure King had disclosed in the February filing.</p>
+<p>Here are some impressive updated numbers on King's inner workings leading up  to a March 26 market debut:  </p>
+<p>Even with such strong  usage numbers, there's one reason for investors to steer clear:<a id="continueReading" name="continueReading"></a><script>if (location.search.indexOf("continueReading=1") >= 0) {  jQuery(window).load(function() {    jQuery(window).scrollTop(jQuery("#continueReading").offset().top - 35);  });}</script></p>
+<p><a class="scroll-to-comments" href="#respond">Join the conversation. Click here to jump to comments…</a></p>
+<p>Tags: <a href="https://moneymorning.com/tag/best-ipos-2014/" rel="tag">Best IPOs 2014</a>, <a href="https://moneymorning.com/tag/candy-crush-ipo/" rel="tag">Candy Crush IPO</a>, <a href="https://moneymorning.com/tag/candy-crush-saga-ipo/" rel="tag">Candy Crush Saga IPO</a>, <a href="https://moneymorning.com/tag/candy-crush-stock/" rel="tag">Candy crush stock</a>, <a href="https://moneymorning.com/tag/hot-ipos/" rel="tag">hot ipos</a>, <a href="https://moneymorning.com/tag/initial-public-offering/" rel="tag">Initial Public Offering</a>, <a href="https://moneymorning.com/tag/investing-in-ipos/" rel="tag">investing in ipos</a>, <a href="https://moneymorning.com/tag/ipo-calendar/" rel="tag">IPO calendar</a>, <a href="https://moneymorning.com/tag/ipo-calendar-2014/" rel="tag">IPO Calendar 2014</a>, <a href="https://moneymorning.com/tag/ipo-dates/" rel="tag">IPO Dates</a>, <a href="https://moneymorning.com/tag/ipo-dow-jones/" rel="tag">ipo dow jones</a>, <a href="https://moneymorning.com/tag/ipo-investing/" rel="tag">IPO investing</a>, <a href="https://moneymorning.com/tag/ipo-list/" rel="tag">IPO List</a>, <a href="https://moneymorning.com/tag/ipo-market/" rel="tag">ipo market</a>, <a href="https://moneymorning.com/tag/ipo-market-2014/" rel="tag">IPO market 2014</a>, <a href="https://moneymorning.com/tag/ipo-news/" rel="tag">IPO news</a>, <a href="https://moneymorning.com/tag/ipo-stock-options/" rel="tag">IPO Stock Options</a>, <a href="https://moneymorning.com/tag/ipos/" rel="tag">IPOs</a>, <a href="https://moneymorning.com/tag/ipos-2014/" rel="tag">ipos 2014</a>, <a href="https://moneymorning.com/tag/ipos-this-week/" rel="tag">ipos this week</a>, <a href="https://moneymorning.com/tag/ipos-to-watch/" rel="tag">IPOs to watch</a>, <a href="https://moneymorning.com/tag/ipos-to-watch-2014/" rel="tag">IPOs to watch 2014</a>, <a href="https://moneymorning.com/tag/king-ipo/" rel="tag">King IPO</a>, <a href="https://moneymorning.com/tag/king-ipo-date/" rel="tag">King IPO date</a>, <a href="https://moneymorning.com/tag/king-ipo-price/" rel="tag">King IPO price</a>, <a href="https://moneymorning.com/tag/king-stock/" rel="tag">King stock</a>, <a href="https://moneymorning.com/tag/list-of-ipos/" rel="tag">List of IPOs</a>, <a href="https://moneymorning.com/tag/nasdaq-ipo/" rel="tag">nasdaq IPO</a>, <a href="https://moneymorning.com/tag/nasdaq-ipo-filings/" rel="tag">nasdaq ipo filings</a>, <a href="https://moneymorning.com/tag/new-ipo-nasdaq/" rel="tag">new ipo nasdaq</a>, <a href="https://moneymorning.com/tag/new-tech-ipos/" rel="tag">new tech ipos</a>, <a href="https://moneymorning.com/tag/pre-ipo-stock-options/" rel="tag">pre ipo stock options</a>, <a href="https://moneymorning.com/tag/social-media-ipos/" rel="tag">social media IPOs</a>, <a href="https://moneymorning.com/tag/this-weeks-ipos/" rel="tag">This week’s IPOs</a>, <a href="https://moneymorning.com/tag/upcoming-ipos/" rel="tag">upcoming ipos</a>, <a href="https://moneymorning.com/tag/upcoming-ipos-2014/" rel="tag">upcoming ipos 2014</a>, <a href="https://moneymorning.com/tag/what-is-an-ipo-stock/" rel="tag">what is an ipo stock</a></p>
+<p class="comment-reply-title" id="reply-title">Leave a Reply <small><a href="/2014/03/12/king-ipo-still-bad-bet-investors/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Click here to cancel reply.</a></small></p>
+<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>
+<p class="comment-form-comment"><label for="comment">Comment</label> <textarea aria-required="true" cols="45" id="comment" maxlength="65525" name="comment" required="required" rows="8"></textarea></p>
+<p class="mm-signup-comment-checkbox"><label><input checked="checked" class="mm-signup" id="mm-signup" name="mm-signup" type="checkbox" value="1"/> Sign me up for the <em>Money Morning</em> newsletter</label></p>
+<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input aria-required="true" id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input aria-describedby="email-notes" aria-required="true" id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" maxlength="200" name="url" size="30" type="url" value=""/></p>
+<p class="cptch_block"><br/><span class="cptch_wrap">
+<label class="cptch_label" for="cptch_input">
+<span class="cptch_span">three</span>
+<span class="cptch_span"> − </span>
+<span class="cptch_span"><input aria-required="true" autocomplete="off" class="cptch_input " id="cptch_input_13" maxlength="2" name="cptch_number" required="required" size="2" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;" type="text" value=""/></span>
+<span class="cptch_span"> = </span>
+<span class="cptch_span">2</span>
+<input name="cptch_result" type="hidden" value="3kA="/>
+<input name="cptch_time" type="hidden" value="1540059376"/>
+<input type="hidden" value="Version: 4.2.2"/>
+</label><span class="cptch_reload_button_wrap hide-if-no-js">
+<noscript>
+<style type="text/css">
+							.hide-if-no-js {
+								display: none !important;
+							}
+						</style>
+</noscript>
+<span class="cptch_reload_button dashicons dashicons-update"></span>
+</span></span></p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Submit &gt;"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="125065"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="9ebd3e212e"/></p>
+<p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="72"/></p>
+<p>
+					Choose from the topics below to receive our<wbr/>
+					money-making recommendations in real time.
+				</p>
+<p class="fpw-entry-meta"><time class="entry-time" datetime="2018-10-19T15:44:38+00:00" itemprop="datePublished">October 19, 2018</time> • By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/tom-gentile/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Tom Gentile</span></a></span> <span class="entry-comments-link"><a href="https://moneymorning.com/investing/use-options-to-profit-from-these-10-worst-performing-stocks/#respond">Leave a Comment</a></span></p>
+<p class="fpw-entry-meta"><time class="entry-time" datetime="2018-10-19T15:32:42+00:00" itemprop="datePublished">October 19, 2018</time> • By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/mmstaffreports/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Money Morning Staff Reports</span></a></span> <span class="entry-comments-link"><a href="https://moneymorning.com/2018/10/19/3-must-watch-penny-stocks-in-october-2018/#respond">Leave a Comment</a></span></p>
+<p class="fpw-entry-meta"><time class="entry-time" datetime="2018-10-19T15:09:53+00:00" itemprop="datePublished">October 19, 2018</time> • By <span class="entry-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="entry-author-link" href="https://moneymorning.com/author/mmnewsteam/" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Money Morning News Team</span></a></span> <span class="entry-comments-link"><a href="https://moneymorning.com/2018/10/19/the-best-defense-stock-to-buy-in-october/#respond">Leave a Comment</a></span></p>
+<p class="widget-title">Trending Posts</p>
+<p class="disclaimer">By submitting your email address you will receive a free subscription to VQScore and occasional special offers from Money Map Press and our affiliates. You can unsubscribe at anytime and we encourage you to read more about our <a href="/privacy/" target="_blank">privacy policy</a>.</p>
+<p>Money Morning gives you access to a team of ten market experts with more than 250 years of combined investing experience – for free. Our experts – who have appeared on FOXBusiness, CNBC, NPR, and BloombergTV – deliver daily investing tips and stock picks, provide analysis with actions to take, and answer your biggest market questions. Our goal is to help our millions of e-newsletter subscribers and Moneymorning.com visitors become smarter, more confident investors. </p>
+<p>© 2018 Money Morning All Rights Reserved. Protected by copyright of the United States and international treaties. Any reproduction, copying, or redistribution (electronic or otherwise, including the world wide web), of content from this webpage, in whole or in part, is strictly prohibited without the express written permission of Money Morning. </p>
+<p>Address: 1125 N Charles Street | Baltimore, MD, 21201 | USA | Phone: 888.384.8339 | <a href="https://moneymorning.com/legal-disclaimers/">Disclaimer</a> | <a href="https://moneymorning.com/sitemap/">Sitemap</a> | <a href="https://moneymorning.com/privacy/">Privacy Policy</a> | <a href="https://moneymorning.com/whitelist/">Whitelist Us</a></p>

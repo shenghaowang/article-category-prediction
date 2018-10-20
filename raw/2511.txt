@@ -1,0 +1,118 @@
+<p class="summary" itemprop="description alternativeHeadline">A little relief has been offered to Mt Gox to users who can check what their wallets hold - they just won't be able to make withdrawals from them.  </p>
+<p class="meta">
+                                   By <a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "byline-author", "pageType": "article"}' data-vanity-rewritten="true" href="/meet-the-team/eu/liam-tung/" itemprop="author" rel="author">Liam Tung</a>
+            
+                    
+        
+                                        |            <time datetime="2014-03-18 12:58:06">March 18, 2014 -- 12:58 GMT (20:58 GMT+08:00)</time>
+                
+                                                                                            | Topic: <a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "byline-topic", "pageType": "article"}' href="/topic/security/">Security</a>
+</p>
+<p>Shuttered bitcoin exchange MtGox, which is currently <span class="link" section="shortcodeLink">
+<a href="/article/mt-gox-files-for-bankruptcy-in-u-s/">seeking bankruptcy shelter</a>
+</span>, on Tuesday offered a modicum of relief to users by allowing them to check their balances. The rub is they can't do much more than that.</p>
+<p class="title">
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "pinbox", "pageType": "article"}' href="https://www.zdnet.com/article/yahoo-ad-malware-spawned-european-bitcoin-mining-network/">
+                        Yahoo ad malware spawned European Bitcoin mining network
+                    </a>
+</p>
+<p class="dek">Cash hungry cybercriminals may have established a European network of Bitcoin miners through Yahoo's ad network.</p>
+<p class="read-more">
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "pinbox", "pageType": "article"}' href="https://www.zdnet.com/article/yahoo-ad-malware-spawned-european-bitcoin-mining-network/">Read More</a>
+</p>
+<p>Anyone unlucky enough to have a Bitcoin wallet at MtGox can now log in to see their account, if only to confirm what could be available to them should the company manage to sort its affairs out.</p>
+<p>"Please be aware that confirming the balance on this site does not constitute a filing of rehabilitation claims under the civil rehabilitation procedure and note that the balance amounts shown on this site should also not be considered an acknowledgement by MtGox Co, Ltd of the amount of any rehabilitation claims of users," <a href="https://www.mtgox.com/" rel="noopener noreferrer" target="_blank">MtGox says on its website</a>.</p>
+<p>"Rehabilitation claims under a civil rehabilitation procedure become confirmed from a filing which is followed by an investigation procedure. The method for filing claims will be published on this site as soon as we will be in situation to announce it."</p>
+<p>The reference to rehabilitation claims comes from a <a href="https://www.mtgox.com/img/pdf/20140228-announcement_eng.pdf" rel="noopener noreferrer" target="_blank">Japanese court order it gained on February 28</a>, which prevented it from paying out creditors.</p>
+<p>The bankruptcy claim there <span class="link" section="shortcodeLink">
+<a href="/article/mt-gox-files-for-bankruptcy-in-u-s/">and in the US</a>
+</span> came just weeks after the emergence of <span class="link" section="shortcodeLink">
+<a href="/article/bitcoin-under-mutated-transaction-dos-attacks-but-funds-safe/">denial of service attacks on bitcoin wallets</a>
+</span> that exploited a "transaction malleability issue" to tamper with confirmation details that are used in an exchange between bitcoin wallets.</p>
+<p>In early February both MtGox and its main rival, Bitstamp, temporarily suspended withdrawals due to attacks linked to the bug. The Bitcoin Foundation said that the problem affecting wallets could result in bitcoins being tied up in unconfirmed transactions, but not in stolen bitcoin.</p>
+<p>Tuesday was the first time MtGox users have had any form of access to their wallets <span class="link" section="shortcodeLink">
+<a href="/article/the-mt-gox-bitcoin-debacle-bankruptcy-filed-customer-bitcoin-lost/">since its closure on 25 February</a>
+</span>, a day after it <span class="link" section="shortcodeLink">
+<a href="/article/mt-gox-resigns-from-bitcoin-foundation-wipes-twitter-feed-clean/">resigned</a>
+</span> from its position on the Bitcoin Foundation board.</p>
+<p>MtGox users had already been prevented from initiating withdrawals for several weeks before the company revealed in its bankruptcy filing that some 850,000 bitcoins under its management had vanished due to a software bug "in the bitcoin system".</p>
+<p>The Bitcoin Foundation has insisted the issues Mt Gox was experiencing were <a href="https://bitcoinfoundation.org/blog/?p=418" rel="noopener noreferrer" target="_blank">due to its implementation of the bitcoin wallet</a>, as opposed a bug in bitcoin itself.</p>
+<p class="topicName">Security</p>
+<p><a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "more-from-author", "pageType": "article"}' href="/article/google-warns-apple-missing-bugs-in-your-security-bulletins-are-disincentive-to-patch/">Google warns Apple: Missing bugs in your security bulletins are 'disincentive to patch'</a></p>
+<p class="topicName">Mobility</p>
+<p><a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "more-from-author", "pageType": "article"}' href="/article/iphone-owners-you-can-now-use-google-maps-to-share-your-live-route-location-eta/">iPhone owners: You can now use Google Maps to share your live route location, ETA</a></p>
+<p class="topicName">Security</p>
+<p><a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "more-from-author", "pageType": "article"}' href="/article/windows-10-will-banish-spectre-slowdowns-with-googles-retpoline-patch/">Windows 10 will banish Spectre slowdowns with Google's Retpoline patch</a></p>
+<p class="topicName">Innovation</p>
+<p><a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "more-from-author", "pageType": "article"}' href="/article/raspberry-pis-new-tv-add-on-is-out-but-theres-a-catch-for-us-users/">Raspberry Pi's new TV add-on is out: But there's a catch for US users</a></p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/vendors-confirm-products-affected-by-libssh-bug-as-poc-code-pops-up-on-github/">Vendors confirm products affected by libssh bug as PoC code pops up on GitHub</a>
+</p>
+<p class="dek">
+								
+																	Red Hat and F5 Networks acknowledge that some products are vulnerable to the libssh authentication bug.
+															</p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/audio-recording-is-now-disabled-by-default-in-openbsd/">Audio recording is now disabled by default in OpenBSD</a>
+</p>
+<p class="dek">
+								
+																	OpenBSD 6.4 also ships with Meltdown, Spectre v2, SpectreRSB, L1FT, and Lazy FPU mitigations.
+															</p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/tim-cook-calls-for-bloomberg-to-retract-controversial-chip-story/">Tim Cook calls for Bloomberg to retract controversial chip story</a>
+</p>
+<p class="dek">
+								
+																	Apple's chief executive is hoping Bloomberg will "do the right thing" and formally retract its Chinese spy chip story.
+															</p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/kaspersky-says-it-detected-infections-with-darkpulsar-alleged-nsa-malware/">Kaspersky says it detected infections with DarkPulsar, alleged NSA malware</a>
+</p>
+<p class="dek">
+								
+																	Victims located in Russia, Iran, and Egypt; related to nuclear energy, telecommunications, IT, aerospace, and R&amp;D.
+															</p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/password-and-credit-card-stealing-azorult-malware-adds-new-tricks/">Password and credit card-stealing Azorult malware adds new tricks</a>
+</p>
+<p class="dek">
+								
+																	Malware can now steal more types of cryptocurrecny and comes with other updates, likely in response to a free version being leaked online.
+															</p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/google-warns-apple-missing-bugs-in-your-security-bulletins-are-disincentive-to-patch/">Google warns Apple: Missing bugs in your security bulletins are 'disincentive to patch'</a>
+</p>
+<p class="dek">
+								
+																	Google's Project Zero has again called Apple out for silently patching flaws.
+															</p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/presidential-race-in-brazil-marred-by-whatsapp-scandal/">Presidential race in Brazil marred by WhatsApp scandal</a>
+</p>
+<p class="dek">
+								
+																	Frontrunner Jair Bolsonaro is involved in accusations over illegal campaigning tactics using the messaging service.
+															</p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/windows-10-will-banish-spectre-slowdowns-with-googles-retpoline-patch/">Windows 10 will banish Spectre slowdowns with Google's Retpoline patch</a>
+</p>
+<p class="dek">
+								
+																	​Google's Retpoline fix for the Spectre Variant 2 flaw helps minimize performance hit on Windows 10 machines.
+															</p>
+<p>
+<a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "related-stories", "pageType": "article"}' href="/article/dji-websites-get-the-app-on-google-play-directs-users-elsewhere/">DJI website's 'Get the app on Google Play' directs users elsewhere</a>
+</p>
+<p class="dek">
+								
+																	Opinion: At best it's an oversight, at worst it's placing user security and privacy at serious risk.
+															</p>
+<p class="copyright">© 2018 CBS Interactive. All rights reserved.
+                    <a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "footer_TOS", "pageType": "article"}' href="http://legalterms.cbsinteractive.com/privacy" rel="nofollow noopener noreferrer" target="_blank">Privacy Policy</a> |
+                    <a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "footer_TOS", "pageType": "article"}' href="http://legalterms.cbsinteractive.com/cookies" rel="nofollow noopener noreferrer" target="_blank">Cookies</a> |
+                    <a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "footer_TOS", "pageType": "article"}' href="http://legalterms.cbsinteractive.com/adchoice" rel="nofollow noopener noreferrer" target="_blank">Ad Choice</a> |
+                    <a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "footer_TOS", "pageType": "article"}' data-vanity-rewritten="true" href="/advertise/" rel="nofollow" target="_blank">Advertise</a> |
+                    <a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "footer_TOS", "pageType": "article"}' href="http://legalterms.cbsinteractive.com/terms-of-use" rel="nofollow noopener noreferrer" target="_blank">Terms of Use</a> |
+                    <a data-omniture-track="moduleClick" data-omniture-track-data='{"moduleInfo": "footer_TOS", "pageType": "article"}' href="http://legalterms.cbsinteractive.com/eula" rel="nofollow noopener noreferrer" target="_blank">Mobile User Agreement</a>
+</p>

@@ -1,0 +1,17 @@
+<p class="number">1</p>
+<p class="number">2</p>
+<p data-cs-tracking='{"rte_ref_pn":"push", "rte_ref_pt":"button", "rte_ref_pp":"0", "rte_ref_hl":"no","rte_ref_sp":"1"}' data-trackevent-action="pushpop" data-trackevent-label="later" id="push_no">Maybe later</p>
+<p>European car sales rose 7.6% in February, as a gradual economic recovery in Portugal, Spain and Italy boosted demand for mass market brands, industry data showed today.</p>
+<p>New passenger car registrations in the European Union and European Free Trade Association trading block rose for the sixth consecutive month to 894,730 vehicles in February from 831,371 in the same month last year.</p>
+<p>This is according to data from the Association of European Carmakers (ACEA).</p>
+<p>Europe's car industry endured a six-year slump, with car sales falling to their lowest level in two decades as austerity-hit consumers cut back on expensive purchases, but the market has recently returned to growth.</p>
+<p></p>
+<p>While registrations in top car market Germany underperformed the regional trend with a 4.3% increase and fell by 1.4% in Europe's second-biggest car market France, sales grew in double digits in some states most hit by the crisis.</p>
+<p>Sales in Spain, Portugal and Ireland grew by 17.8%, 40.2% and 20.6%, respectively, showing that a fragile recovery in the region was gaining momentum.</p>
+<p>In Italy, the region's fourth-biggest market which is recovering from its longest recession in 70 years, sales grew 8.6%.</p>
+<p>Sales at Renault Group jumped 11.5%, boosted mainly by a 33.6% surge in registrations of its no-frills Dacia brand. Ford sales were up 11.3%, Toyota Group, the world's biggest-selling car maker, posted a 14% increase, while General Motors saw sales go up 12.3%, boosted by a 15.6% increase in registrations of its Opel and Vauxhall branded vehicles.</p>
+<p>Germany's Volkswagen group, Europe's biggest carmaker by volume, posted a 7.2% rise, helped by a 21.5% at its value brand Skoda, a 15.7% jump in Seat sales and an 11.8% gain at its premium brand Audi. VW's performance was weighed down by a 0.8% decline in sales at its namesake brand.</p>
+<p>French carmaker PSA lost some market share in February. Its overall sales grew 3.5%, supported by an increase in registrations of its Peugeot brand, but sales of Citroen branded cars were roughly flat year-on-year.</p>
+<p>RTÉ.ie is the website of Raidió Teilifís Éireann, Ireland's National Public Service Broadcaster.<br> RTÉ is not responsible for the content of external internet sites. Images courtesy of Inpho.ie and Getty Images</br></p>
+<p>© RTÉ 2018</p>
+<p>RTÉ uses cookies in accordance with our <a href="https://www.rte.ie/cookies/" target="_blank">Cookie Policy</a></p>

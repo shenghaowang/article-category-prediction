@@ -1,0 +1,44 @@
+<p class="blog-post__byline">
+<time class="publish-date js-publish-date" data-pubdate-value="2014031412" datetime="2014-03-14T12:44:04">March 14, 2014</time>
+<span class="authors">
+12:44pm PT
+by
+<span class="js-authors-list">
+Eriq Gardner </span>
+</span>
+</p>
+<p>The peace between Los Angeles and Time Warner Cable has lasted exactly six months.</p>
+<p>On Friday, city attorney <strong>Mike Feuer</strong> announced the filing of a lawsuit that claims the cable company owes nearly $10 million in franchise and public, educational and government ("PEG") access fees from 2008 through 2011.</p>
+<p>The dispute is hardly new.</p>
+<p>Two years ago, a similar lawsuit was filed. As <a href="https://www.hollywoodreporter.com/thr-esq/time-warner-sued-los-angeles-unpaid-bills-359112" target="_blank">we wrote back then</a>, the controversy erupted after the enactment of the Digital Infrastructure and Video Competition Act of 2006 where incumbent cable operators transitioned from locally issued cable franchises to video service provider franchises issued by the state of California. The following year, Los Angeles updated its code to require each state-franchised video service provider within its borders pay a franchise fee of up to five percent of gross revenue plus a one percent PEG fee.</p>
+<p><a href="https://www.hollywoodreporter.com/news/disneys-anne-sweeney-exit-5-687652" target="_blank"><strong>STORY: 5 Possible In-House Replacements for Disney's Anne Sweeney</strong></a></p>
+<p>At the time of the 2012 lawsuit, there was talk that TWC was taking the position of not being required to pay the PEG fee under "grandfathered" obligations. Against that contention, Los Angeles demanded $700,000 in money allegedly owed.</p>
+<p>Fast forward to last September.</p>
+<p>The two sides reached a settlement with each other. <a href="http://www.scribd.com/doc/212495971/La-Twc-Settlement" target="_blank">Here it is</a>. The parties attempted to put the dispute behind them, citing among other things, money that "could be put to better use" than litigation and a respective "desire to improve their overall relations."</p>
+<p>(Clarification: The LA City's Attorney's Office writes to us to let us know that the County, not the City, of Los Angeles, was responsible for the 2012 lawsuit.)</p>
+<p>Further, the settlement obligated TWC to carry the "County Channel," devoted to public-minded programming. As for money owed, LA kept a $143,046 payment already made by TWC but it doesn't appear there was any more money changing hands. LA released TWC from claims except for claims not known or suspected at the time of the agreement.</p>
+<p>Now comes the <a href="http://www.scribd.com/doc/212495994/lacityp-027826" target="_blank">new lawsuit</a>.</p>
+<p>The city of LA is now painting TWC, which Comcast is attempting to acquire, as a company which "has derived billions of dollars from its cable television franchise in the City of Los Angeles, yet stubbornly continues to flout its statutory obligations to compensate the City of Los Angeles fully for this privilege."</p>
+<p>Despite the statutory changes shifting the system from local to a state-wide cable franchising, LA is insisting that TWC be "required to pay a franchise fee in lieu of rent for its use of the public right-of-way, that is, the privilege of placing its network of cable wires and boxes under the City's streets, on the City's telephone poles, in the City's neighborhoods."</p>
+<p>LA says after acquiring the cable services of the bankrupt Adelphia, TWC now controls over more than 90 percent of the area's cable television market, which the city says has "been accompanied by allegations of unexpected rate hikes and sever disruption in the continuity and quality of service, among other wrongful consumer practices."</p>
+<p>The complaint adds, "To justify its actions in refusing to pay its franchise fee obligations, Time Warner contended -- incredibly and for the first time -- that it had never been obligated to provide much of the non-monetary support for the public access studios that the company operated up to and including 2008... Perhaps not by coincidence, TWC's precipitous and wrongful withholding of the franchise fee occurred less than eight weeks before the end of Los Angeles' 2010-2011 fiscal year, exacerbating the City's well-publicized fiscal crisis, and further reducing the City's ability to pay for its already diminished core services."</p>
+<p>TWC says it is "disappointed" the city has chosen to bring the lawsuit and believes it "is without merit."</p>
+<p><em>E-mail: Eriq.Gardner@THR.com<br/>
+Twitter: @<a href="https://twitter.com/eriqgardner" target="_blank">eriqgardner</a></em></p>
+<p class="blog-post-author-name">
+Eriq Gardner </p>
+<p class="copyright date">
+© 2018 The Hollywood Reporter
+<br/>
+All rights reserved.
+</p>
+<p class="station-identification">
+The Hollywood Reporter, LLC is a subsidiary of Prometheus Global Media, LLC.
+</p>
+<p class="copyright terms">
+<a href="/legal/terms">Terms of Use</a> |
+<a href="/legal/privacy">Privacy</a> |
+<a href="/sitemap">Sitemap</a> |
+<a href="/legal/about-our-ads">About Our Ads</a>
+</p>
+<p>Our affiliate publications</p>

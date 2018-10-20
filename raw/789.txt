@@ -1,0 +1,3 @@
+<p class="comment-dialog">Refrain from posting comments that are obscene, defamatory or inflammatory, and do not indulge in personal attacks, name calling or inciting hatred against any community. <strong>Help us delete comments</strong> that do not follow these guidelines <strong>by marking them offensive</strong>. Let's work together to keep the conversation civil.</p>
+<p class="clear hide" data-plugin="user-isloggedin"></p>
+<p>Copyright © 2018 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: <a href="#">Times Syndication Service</a></p>

@@ -1,0 +1,30 @@
+<p class="prof__menu__greeting--name hide-for-anonymous">Hi, <span class="prof__menu--name">Guest</span>!</p>
+<p class="prof__menu__text hide-for-logged-in">Save cars. Access them anywhere.
+                    <a class="prof__menu__button js_continue" data-linkname="headerpro-sign-up" href="/profile/secure/signup/" target="_self">Sign Up</a></p>
+<p class="prof__menu__text--small hide-for-logged-in">Already have an account?
+                    <a class="prof__menu__link js_continue" data-linkname="headerpro-sign-in" href="/profile/secure/login/" target="_self">Log In</a>
+</p>
+<p>By <strong class="article-byline__author ">Kelsey Mays</strong></p>
+<p class="article-byline__date" itemprop="datePublished">March 12, 2014</p>
+<p> <div>
+<figure itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+<img alt="MMS ID 60595 (created by CM Utility)" class="body-image" itemprop="url" src="https://www.cstatic-images.com/stock/1170x1170/83/1404924949-1425510591883."/>
+<noscript>
+                        &lt;meta itemprop="width" content="1170"&gt;
+                        &lt;meta itemprop="height" content="1170"&gt;
+                </noscript>
+<figcaption class="image__caption">
+</figcaption>
+</figure>
+</div>
+</p>
+<p>Following the recall of 1.37 million Chevrolet, Pontiac and Saturn compact cars and roadsters over a faulty ignition switch, GM announced it will offer $500 off the purchase or lease of any new car to affected owners. But it's not advertising the rebate or telling dealers to promote it. The program runs through April 30.</p>
+<p><strong><a href="/news/gm-ignition-recall/" target="_self" title="More on the GM Ignition Recall">More on the GM Ignition Recall</a></strong></p>
+<p>The February 2014 recall affects all model years of the Saturn Ion, plus the 2005-2007 Chevrolet Cobalt and Pontiac G5 compacts. The 2006-07 Chevrolet HHR hatchback and 2006-07 Pontiac Solstice and Saturn Sky roadsters have also been affected by the recall. The recall involves a faulty ignition switch that may slip into the Accessory or Off position and disarm the airbags.</p>
+<p><a href="http://www.detroitnews.com/article/20140312/AUTO0103/303120064/0/AUTO01/GM-offer-owners-recalled-vehicles-500-off-new-purchase" target="_self" title="The Detroit News reports">The Detroit News reports</a> GM repurchased at least 13 Chevrolet Cobalts in 2005 and 2006 after consumers reported problems. The automaker will not repurchase any vehicles now, but owners will receive $500 off the purchase or lease of any new 2013, 2014 or 2015 Buick, Cadillac, Chevrolet or GMC vehicle, which would be in addition to the affected car's trade-in value.</p>
+<p>The ignition issue has been linked to 31 crashes and 12 fatalities when airbags did not deploy, but court documents from 2013 show that GM knew about the issue as early as 2004. The National Highway Traffic Safety Administration and a congressional committee have opened investigations, and federal investigators today <a href="/articles/2014/03/gm-faces-criminal-probe-over-ignition-switch-recall" target="_self" title="launched a criminal probe">launched a criminal probe</a>.</p>
+<p>"Everything would be done individually," GM spokesman Alan Adler told us of the $500 deal. "The dealers are not pushing this on them, and they've been told not to do that."</p>
+<p>Adler then sent us an official statement from GM: "In keeping with our commitment to help customers involved in this recall, a special $500 cash allowance is available to purchase or lease a new GM vehicle. We have been very clear in our message to dealers that this allowance is not a sales tool and it is only to be used to help customers in need of assistance. Neither GM nor its dealers will market or solicit owners using this allowance."</p>
+<p>GM expects replacement parts to be available this April, according to the Detroit News. In the meantime, the automaker will furnish loaner or rental cars to affected owners and tow any affected cars to dealerships if owners feel they're unsafe to drive.</p>
+<p><em>Manufacturer image</em></p>
+<p><em><em>Editor’s note: This story has been updated on March 13 to reflect GM lowering the number of deaths tied to the recall to 12</em></em></p>

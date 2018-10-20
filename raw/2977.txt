@@ -1,0 +1,23 @@
+<p><input type="checkbox"/>Keep Me Logged In</p>
+<p>  The Federal Trade Commission has opened a formal investigation into <a class="inline_quotes" data-gdsid="19942" data-inline-quote-symbol="HLF" href="//www.cnbc.com/quotes/?symbol=HLF" target="_self">Herbalife</a>'s operations Wednesday, pushing shares of the nutrition and weight loss company sharply lower. <br/> </p>
+<p>  Shares of Herbalife plunged as much as 15 percent after being temporarily halted but gradually recovered from lows, ending the day down 7.3 percent. Shares were up more than 4 percent prior to the halt. A circuit breaker also briefly halted trading in shares of rival <a class="inline_quotes" data-gdsid="27070" data-inline-quote-symbol="NUS" href="//www.cnbc.com/quotes/?symbol=NUS" target="_self">Nu Skin</a> due to volatility.</p>
+<p>A source familiar with the probe told CNBC that Herbalife was surprised by the investigation but thought it was the best way to combat allegations about the company's business model. </p>
+<p>The probe is expected to last a year or more. </p>
+<p>  Herbalife said it will fully cooperate with the FTC, saying it "welcomes the inquiry given the tremendous amount of misinformation in the marketplace."  </p>
+<p>  On Wednesday, hedge fund manager Bill Ackman accused Herbalife of breaking direct-selling laws in China, its fastest-growing market.  </p>
+<p>  Ackman and Pershing Square also declined to comment. FTC acknowledged the investigation, but did not provide further comment to CNBC.  </p>
+<p>  (<em>Read more</em>: Ackman accuses Herbalife of breaking laws in China)  </p>
+<p>  In December 2012, Ackman raised allegations that Herbalife was a pyramid scheme and made a bet the stock would fall. Ackman's $12 billion hedge fund, Pershing Square, has a $1.16 billion short bet on Herbalife, and has been short the stock since the middle of 2012.</p>
+<p>  Meanwhile, investors reacted in the options market following the FTC inquiry announcement.  </p>
+<p>  "The level of implied volatility surged from 50 percent to 99 percent with the downside range expanding from $50 by next week's expiration down to $30," wrote Andrew Wilkinson, chief market analyst at Interactive Brokers. "Ahead of the halt only 25,000 contracts had traded on Herbalife and within 15-minutes the tally had risen to 57,000." </p>
+<p> <em>--Reporting by CNBC.com staff and CNBC's <a class="inline_asset" data-nid="100001566" href="http://twitter.com/#!/ScottWapnercnbc" target="_self">Scott Wapner</a>. Reuters contributed to this story. </em> </p>
+<p><img src="//sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/loader-2.gif"/></p>
+<p class="label">Playing</p>
+<p class="label_share">Share this video...</p>
+<p class="label">Watch Next...</p>
+<p class="Footer-sectionInfo">Got a confidential news tip? We want to hear from you.</p>
+<p class="Footer-sectionInfo">Sign up for free newsletters and get more CNBC delivered to your inbox</p>
+<p class="Footer-copyright">Get this delivered to your inbox, and more info about our products and services. <a href="https://www.nbcuniversal.com/privacy/">Privacy Policy.</a></p>
+<p class="Footer-copyright">© <!-- -->2018<!-- --> CNBC LLC. All Rights Reserved. <a href="http://www.nbcuni.com/">A Division of NBCUniversal</a></p>
+<p class="Footer-copyright">Data is a real-time snapshot *Data is delayed at least 15 minutes. Global Business and Financial News, Stock Quotes, and Market Data and Analysis.</p>
+<p class="Footer-copyright">Data also provided by<!-- --> <a href="//www.cnbc.com/id/16061983/"><img alt="Reuters" class="Footer-reutersLogo" src="https://static-redesign.cnbcfm.com/dist/5000be27f744603e5cae8fb39b03fbc4.svg"/></a></p>

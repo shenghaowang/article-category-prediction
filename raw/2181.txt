@@ -1,0 +1,41 @@
+<p class="fL">
+	   By continuing to use this site you consent to the use of cookies on your device as described in our 
+	   <a href="/cookie-policy" target="_blank">Cookie Policy</a> unless you have disabled them. You can change your <a href="/cookie-setting" target="_blank">Cookie Settings</a> at any time but parts of our site will not function correctly without them. 
+	   </p>
+<p class="fL">
+<span>
+<a href="/author/search/keyword/ani" target="_blank">ANI</a> 								  								  | 
+								  								  								  <news:geo_locations>Washington</news:geo_locations> 							  </span>
+<meta content="2014-03-13T11:00:31+05:30" itemprop="datePublished">
+<span content="2014-03-13" itemprop="datePublished">							  Last Updated at March 13, 2014 12:00 IST</span>
+</meta></p>
+<p>Maker of the hit game Candy Crush Saga, King, has reportedly filed for an IPO in the US to raise an estimated 532.8 million dollars.</p>
+<p>The European maker filed an updated F-1 with the SEC, pricing its 22.2 million shares between 21 dollars and 24 dollars, which would value the company to a staggering 7.6 billion dollars.<script type="text/javascript">document.write("<!--");if(isUserBanner=="free"&&(displayConBanner==1))document.write("-->");</script><script>googletag.cmd.push(function(){googletag.defineOutOfPageSlot('/6516239/outofpage_1x1_desktop','div-gpt-ad-1490771277198-0').addService(googletag.pubads());googletag.pubads().enableSyncRendering();googletag.enableServices();});</script>
+<div class="article-middle-banner" id="div-gpt-ad-1490771277198-0">
+<script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1490771277198-0');});</script>
+</div>
+<script>var banHeight=$(".article-middle-banner iframe").height();if(banHeight<=1){$(".article-middle-banner").height(0);$(".article-middle-banner").next().next().remove();}</script><!-- INPAGE_BANNER --><script>displayConBanner=1;</script><p>According to Tech Crunch, the updated F-1 comes after King filed an initial F-1 with a maximum aggregated offering price of 500 million dollars.</p><p>In December 2013, King said that 128 million daily active users were playing its games more than 1.2 billion times per day.</p><p>In its updated filing, the company noted that in February 2014, an average of 144 million daily active users played our games more than 1.4 billion times per day.</p><p>The company announced that Candy Crush Saga, their top title to date, is one of the largest interactive entertainment franchises of all time, as it alone brings in some 97 million daily active users and over 1 billion daily game plays.</p><p>It has been believed that the main reason to go public could be to get the best possible price from a strategic acquirer.</p><p>The report added that the company, behind other popular free-to-play games like Pet Rescue Saga, Farm Heroes Saga, Papa Pear Saga and Bubble Witch Saga, would trade as KING on the New York Stock Exchange (NYSE) when it goes public.</p>
+</p>
+<p>According to Tech Crunch, the updated F-1 comes after King filed an initial F-1 with a maximum aggregated offering price of 500 million dollars.</p>
+<p>In December 2013, King said that 128 million daily active users were playing its games more than 1.2 billion times per day.</p>
+<p>In its updated filing, the company noted that in February 2014, an average of 144 million daily active users played our games more than 1.4 billion times per day.</p>
+<p>The company announced that Candy Crush Saga, their top title to date, is one of the largest interactive entertainment franchises of all time, as it alone brings in some 97 million daily active users and over 1 billion daily game plays.</p>
+<p>It has been believed that the main reason to go public could be to get the best possible price from a strategic acquirer.</p>
+<p>The report added that the company, behind other popular free-to-play games like Pet Rescue Saga, Farm Heroes Saga, Papa Pear Saga and Bubble Witch Saga, would trade as KING on the New York Stock Exchange (NYSE) when it goes public.</p>
+<p>PREVIOUS STORY</p>
+<p>NEXT STORY</p>
+<p>Copyrights © 2018 Business Standard Private Ltd. All rights reserved.</p>
+<p style="padding:10px;"><img alt="Business Standard" src="https://bsmedia.business-standard.com/include/_mod/site/html5/images/business-standard-logo.png" title="Business Standard"/></p>
+<p style="padding:10px;"><span class="fsubs_country_p2"><strong>Upgrade To Premium Services</strong></span></p>
+<p class="fsubs_country_p2"> Business Standard is happy to inform you of the launch of "Business Standard Premium Services"</p>
+<p class="fsubs_country_p2">As a premium subscriber you get an across device unfettered access to a range of services which include:</p>
+<p style="padding:10px;"><img alt="Business Standard" src="https://bsmedia.business-standard.com/include/_mod/site/html5/images/business-standard-logo.png" title="Business Standard"/></p>
+<p><span class="fsubs_country_p2" style="line-height:18px;"><strong>Premium Services </strong></span></p>
+<p><span class="fsubs_country_p2" style="line-height:18px;"><strong>In Partnership with <img alt="Fis Logo" src="https://bsmedia.business-standard.com/include/_mod/site/html5/images/fis-logo-130x58.png" style="vertical-align:bottom;"/></strong></span></p>
+<p class="fsubs_country_p2"><strong>Dear <span id="fis-username-popup">Guest</span>,</strong></p>
+<p class="fsubs_country_p2">Welcome to the premium services of Business Standard brought to you courtesy FIS.<br/>
+         Kindly visit the <span class="chk"><a href="/subscription-cart/manage">Manage my subscription page</a></span> to discover the benefits of this programme.<br/>
+<br/>
+         Enjoy Reading!<br/>
+         Team Business Standard
+      </p>

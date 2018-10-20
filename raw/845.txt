@@ -1,0 +1,71 @@
+<p>
+<img src="https://www.pressherald.com/wp-content/themes/mainetoday/assets/images/pph-icon.png" style="vertical-align:middle;"/>
+<span></span>
+<span>
+<a href="https://www.pressherald.com/login">Sign in</a> or <a href="https://myaccount.pressherald.com/order/?ref=paywall-stub">Subscribe</a> </span>
+<span class="expand-extra-messaging extra-closed">See Offers</span>
+<span class="close-slidedown">
+<img src="https://www.pressherald.com/wp-content/themes/mainetoday/assets/images/close-icon.png" style="vertical-align:middle;"/>
+</span>
+</p>
+<p></p>
+<p class="article-excerpt" itemprop="description">
+House leaders put forward a plan that offers an election-year contrast to the Affordable Care Act. </p>
+<p>WASHINGTON — House Republican leaders are adopting an agreed-upon conservative approach to fixing the nation’s health care system, in part to draw an election-year contrast with President Obama’s Affordable Care Act.</p>
+<p>The plan includes an expansion of high-risk insurance pools, promotion of health savings accounts and inducements for small businesses to purchase coverage together.</p>
+<p>The tenets of the plan – which could expand to include the ability to purchase insurance across state lines, guaranteed renewability of policies and changes to medical-malpractice regulations – are ideas that various conservatives have for a long time backed as part of broader bills.</p>
+<p>But this is the first time this year that House leaders will put their full force behind a single set of principles from those bills and present it as their vision. This month, House leaders will begin to share a memo with members outlining the plan, called “A Stronger Health Care System: The GOP Plan for Freedom, Flexibility and Peace of Mind.” with suggestions on how to talk about it with constituents.</p>
+<p>Republicans have campaigned heavily on their opposition to the health care law. Those efforts accelerated last week after Republican David Jolly’s upset victory in a special House election in Florida in which the campaigns focused on the law.</p>
+<p>Democrats dismissed the Republican approach as a purely political gesture, saying the focus on long-held conservative ideas was more of an attempt to rally Republicans than to find bipartisan solutions.</p>
+<p>
+<a href="/feedback-form/">
+Send questions/comments to the editors. </a>
+</p>
+<p></p>
+<p>Here at <strong>MaineToday Media</strong> we value our readers and are committed to growing our community by encouraging you to add to the discussion. </p>
+<p>To ensure conscientious dialogue we have implemented a strict no-bullying policy. To participate, you must follow our <a href="/terms-use/" target="_blank">Terms of Use</a>. <a href="/feedback/" target="_blank">Click here</a> to flag and report a comment that violates our terms of use.</p>
+<p>
+</p>
+<p>
+<script>
+			
+			var mediaContent = "media\\:content,content";
+			
+      (function() {
+         var now = new Date();
+         var cookieName = new RegExp('MSPAN_Paywall_views_' + now.getMonth());
+         window.MSPAN = {
+              Paywall: {
+                  totalViews: function() {
+                      var cookies = document.cookie.split('; ');
+                      var val = 0;
+                      if (!cookieName.test(document.cookie)) {
+                          return 0;
+                      }
+                      for (var i = 0; i < cookies.length; i++) {
+                          if (cookieName.test(cookies[i])) {
+                              val = parseInt(cookies[i].split('=')[1]);
+                          }
+                      }
+                      return val;
+                  }
+              }
+          };
+      }());
+    </script>
+</p>
+<p>
+<script>
+         (function(){
+            "use strict";
+            if(/logout/.test(window.location.search)){
+               var date = new Date();
+               var cookieString = "MSPAN_Paywall_user=0; domain=."+document.location.host.replace(/^\w+\./, '')+"; path=/; expires=" + date.toGMTString();
+               var cookieString2 = "MSPAN_Paywall_user=0; domain="+document.location.host+"; path=/; expires=" + date.toGMTString();
+               date.setHours(date.getHours() - 1);
+               document.cookie = cookieString;
+               document.cookie = cookieString2;
+            }
+         }());
+    </script>
+</p>

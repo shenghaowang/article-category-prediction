@@ -1,0 +1,36 @@
+<p>Correction: Virtu had posted one day of losses during the last five years, not the last four years, as an earlier version of this story stated.</p>
+<p>It pays to be a high-frequency trading firm.</p>
+<p>Virtu Financial Inc. filed preliminary papers to go public on Monday and revealed that it only had <a href='\"http://www.marketwatch.com/story/story?guid=558407b4-7524-4b15-be1d-31fcdd08de76\"' target='\"_blank\"'>one day of trading losses in five years</a>.</p>
+<p>The market maker states in its <a href='\"http://www.sec.gov/Archives/edgar/data/1592386/000104746914002070/a2218589zs-1.htm\"' target='\"_blank\"'>SEC filing</a> that one net trading loss occurred between Jan. 1, 2009 and Dec. 31, 2013:</p>
+<p>“As a result of our real-time risk management strategy and technology, we had only one losing trading day during the period depicted, a total of 1,238 trading days.”</p>
+<p>Industry watchers say that this statistic is “incredible” and really speaks to the sophisticated and rigorous technology behind the high-frequency trading algorithms that Virtu is using.</p>
+<p>“They have a smart approach and algorithms to try to minimize risk,” said Igor Gonta, who spent 13 years on Wall Street in commodities sales and trading and now runs <a href='\"http://www.marketprophit.com/\"' target='\"_blank\"'>Market Prophit</a>, a big data analytics firm involved in social media and stock sentiment.</p>
+<p>The technology behind the high-frequency trading algorithms is only as good as the philosophical framework that goes into designing what the technology looks like, notes Gonta.</p>
+<p>In the filing, Virtu said it had 2013 revenue of approximately $665 million, up 8% from the year before, and net income of $182 million, more than double from the year before.  The high-frequency trader is seeking a valuation of approximately $3 billion for its initial public offering, which is about twice that of its closest rival KCG Holdings Inc. 
+  <style>
+  .bgChannel, .bgRealtimeChannel, .bgRevision {
+      display: none;
+  }
+  </style>
+<span class="quotePeekContainer">
+<span class="quotepeekbase bgQuote neutral" id="quoteda39a3ee5e6b4b0d3255bfef95601890afd80709">
+<a href="http://marketwatch.com/investing/stock/">
+<span class="bgChannel"></span>
+<span class="bgRealtimeChannel"></span>
+<span class="symbol"></span>
+<span class="data bgPercentChange symbol"></span>
+</a>
+</span>
+</span></p>
+<p>Technology is very complex for these high-speed trading firms and providing liquidity and protecting shareholders is critical, as a small glitch can cost millions, experts say.</p>
+<p>In 2012, Virtu tried to buy Knight Capital, another electronic market maker but was edged out by Getco LLC. Knight Capital became a target for a takeover after it <a href='\"http://www.marketwatch.com/story/knight-capital-fined-12-mln-by-sec-2013-10-16\"' target='\"_blank\"'>experienced a technology glitch</a> which resulted in losses for the firm of more than $400 million.</p>
+<p>“This is the uber version of a brokerage firm,” said Gonta. “Virtu does it in the most efficient way possible by leveraging the technology.”</p>
+<p>— Sital S. Patel</p>
+<p>— Follow The Tell on Twitter <a href='\"https://twitter.com/thetellblog\"' target='\"_blank\"'>@thetellblog</a>.</p>
+<p>— Follow Sital <a href='\"https://twitter.com/Sital\"' target='\"_blank\"'>@Sital</a>.</p>
+<p><strong>More on MarketWatch:</strong></p>
+<p><a href='\"http://www.marketwatch.com/story/what-one-big-fund-is-saying-about-fannie-freddie-2014-03-10\"'>What one big fund thinks of Fannie, Freddie</a></p>
+<p><a href='\"http://www.marketwatch.com/story/morgan-stanley-ceo-bitcoin-is-totally-surreal-2014-03-10\"'>Morgan Stanley CEO: Bitcoin is \’totally surreal\’</a></p>
+<p><a href='\"http://blogs.marketwatch.com/thetell/2014/03/07/major-banks-are-looking-at-bitcoin/\"' target='\"_blank\"'>Big banks jumping on bitcoin bandwagon</a></p>
+<p>The Tell is MarketWatch’s fast and engaging look at trends and themes in the day’s markets. Drawing on our reporters, analysts and commentators around the world, as well as selecting the best of the rest online, The Tell is all about the pulse of the markets through news, insight and strategic information to help you make the best investing decisions. Got a tip? Tell us at <a href="mailto:TheTell@MarketWatch.com">TheTell@MarketWatch.com</a></p>
+<p>Follow The Tell on Twitter <a href="http://twitter.com/#!/thetellblog">@thetellblog</a></p>

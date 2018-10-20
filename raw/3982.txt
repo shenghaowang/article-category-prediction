@@ -1,0 +1,31 @@
+<p class="bloomberg">A snapshot of Obamacare enrollment in seven states suggests the law hasn’t significantly increased competition in health insurance markets, the Kaiser Family Foundation reported.</p>
+<p>In California, for example, four big insurers have largely carved up the state’s market. The divide is more equitable than before the Patient Protection and Affordable Care Act as California’s insurance market is now “moderately concentrated” instead of “highly concentrated,” according to a measure of market share called the Herfindahl-Hirschman Index, said researchers at Kaiser, a Menlo Park, California-based nonprofit that focuses on health care.</p>
+<p>“There are some examples of smaller or newer plans being able to get a sizable piece of the market in the exchanges, but by and large a lot of the players in the exchanges that are the biggest were the biggest before as well,” Cynthia Cox, a senior analyst at Kaiser, said in a phone interview.</p>
+<p>About 5 million Americans had signed up for private health plans through yesterday using the law’s insurance exchanges, according to the U.S. government. The exchanges were intended to ease access and improve transparency for people who shop for insurance on their own, about 5 percent of the U.S. population. Democrats who wrote the law also hoped to break the dominance of some companies that existed in many states.</p>
+<p>In California, WellPoint Inc.’s Anthem brand signed up about 30 percent of the 869,000 people who used the state’s health exchange, Covered California, by March 1. Anthem had 47 percent of the state’s market before plans started to be sold on the new health exchanges on Oct. 1.</p>
+<p>WellPoint also lost ground in New York and Nevada, where it fell from 28 percent and 34 percent of the market, respectively, to 18 percent and 12 percent, Kaiser said in its report released yesterday. In Connecticut, WellPoint’s plans now hold 60 percent of the market from 45 percent before major provisions of the law known as Obamacare took effect.</p>
+<p>Kristin Binns, a WellPoint spokeswoman, cautioned against drawing conclusions from the Kaiser data, which exclude customers whose plans were renewed from prior years and people who signed up without using exchanges.</p>
+<p>Before the health-care law, one insurance company held at least half the individual market in 30 states, according to the Kaiser report. That remains true in some states, even after the major provisions of Obamacare took effect this year. In Minnesota, for example, PreferredOne, a closely held company based in Golden Valley, Minnesota, has taken about 59 percent of customers on the state’s exchange, MNsure.</p>
+<p>Before the health law, the state’s Blue Cross Blue Shield plan had 59 percent of the market, while PreferredOne had 3 percent. Blue Cross Blue Shield now has 24 percent share.</p>
+<p>The Kaiser report said that PreferredOne took share by offering “some of the lowest exchange premiums in the country” for plans with very narrow networks of hospitals and doctors.</p>
+<p>About 95 percent of Americans have a choice of two or more insurance carriers in their state exchanges, Joanne Peters, a spokeswoman for the Department of Health and Human Services said in an e-mail. The government said in September that about 25 percent of companies offering plans on the exchanges were new to the individual market.</p>
+<p>“All consumers shopping in the marketplaces also have greater transparency where they can compare comprehensive, affordable plans side by side to find the one that best meets their needs,” she said.</p>
+<p>Open enrollment for exchange plans closes for 2014 on March 31.</p>
+<p>Was this article valuable?</p>
+<p>Thank you! Please tell us what we can do to improve this article.</p>
+<p>Thank you! <span class="percent"></span>% of people found this article valuable. Please tell us what you liked about it.</p>
+<p class="thank-you-text">Here are more articles you may enjoy.</p>
+<p>Get the latest insurance news<br/>sent straight to your inbox.</p>
+<p class="comment-notes">Your email address will not be published. Required fields are marked <span class="required">*</span></p>
+<p class="comment-form-author"><label for="author">Name</label> <span class="required">*</span><input aria-required="true" id="author" name="author" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email</label> <span class="required">*</span><input aria-required="true" id="email" name="email" size="30" type="text" value=""/></p>
+<p class="comment-form-comment"><label for="comment">Comment</label><textarea aria-required="true" cols="45" id="comment" name="comment" rows="8"></textarea></p>
+<p class="form-submit">
+<input id="submit" name="submit" type="submit" value="Post Comment">
+<input id="comment_post_ID" name="comment_post_ID" type="hidden" value="323575">
+<input id="comment_parent" name="comment_parent" type="hidden" value="0">
+</input></input></input></p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="a0521fd5ed"/></p>
+<p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="147"/></p>
+<p><input id="notify_me" name="notify_me" type="checkbox" value="yes"><label for="comment_mail_notify">Notify me of comments via e-mail</label></input></p>
+<p>We have updated our privacy policy to be more clear and meet the new requirements of the GDPR. By continuing to use our site, you accept our <a href="/privacy">revised Privacy Policy</a>.</p>

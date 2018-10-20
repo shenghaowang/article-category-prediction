@@ -1,0 +1,11 @@
+<p class="BylineBar_reading-time" style="color:undefined">2 Min Read</p>
+<p>REUTERS - Here is a timeline of events in the disappearance of a Malaysia Airlines MASM.KL jetliner which vanished from radar screens on a flight from Kuala Lumpur to Beijing on Saturday, March 8: (all times are local Malaysian, eight hours ahead of GMT) </p>
+<p>- 0041: Malaysia Airlines Flight MH370 departs from Kuala Lumpur International Airport and is due to land in Beijing at 0630 the same day. On board the Boeing (<span id="”symbol_BA.N_1”"><a href="/finance/stocks/overview?symbol=BA.N">BA.N</a></span>) 777-200ER are 227 passengers and 12 crew. </p>
+<p>- 0107: After take-off and ascent, the plane sends its last ACARS transmission, which gives engine maintenance data to the ground. The system is later deactivated. </p>
+<p>- 0119: Someone in the cockpit says “All right, good night” to Malaysian air traffic control. They were the last words heard from Flight MH370. </p>
+<p>- 0121: The plane drops off air traffic control screens as its transponder - which responds to civilian radar - is switched off. The Civil Aviation Authority of Vietnam says the plane failed to check in as scheduled at 0121 with air traffic control in Ho Chi Minh City. Malaysian authorities believe that someone on board shut off the plane’s communications systems and turned it sharply to the west. </p>
+<p>- 0215: Malaysian military radar plots Flight MH370 at a point south of Phuket island in the Strait of Malacca, hundreds of miles west of its last known location. </p>
+<p>- 0811: The last signal received from the plane, according to satellite tracking data. The final communication placed the plane somewhere in one of two corridors: a northern arc stretching from northern Thailand to Kazakhstan, or a southern one stretching from Indonesia to the vast southern Indian Ocean. </p>
+<p class="Attribution_content">Compiled by Christine Chan in Singapore and Michael Perry in Sydney; Editing by Raju Gopalakrishnan and Alex Richardson</p>
+<p><span>All quotes delayed a minimum of 15 minutes. See </span><a href="//in.reuters.com/info/disclaimer " target="_blank">here for a complete list</a><span> of exchanges and delays.</span></p>
+<p><a href="//thomsonreuters.com/copyright/ " target="_blank"><span>© <!-- -->2018<!-- --> </span><span>Reuters. All Rights Reserved.</span></a></p>

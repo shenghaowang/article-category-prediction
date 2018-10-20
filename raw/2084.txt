@@ -1,0 +1,24 @@
+<p>Janet Yellen, chair of the Federal Reserve, will be the speaker at the 182nd NYU commencement in May, the university announced on March 12. Yellen, along with former New York Yankees pitcher Mariano Rivera, Supreme Court Justice Elena Kagan, singer Aretha Franklin and attorney Martin Edelman, will receive honorary degrees.</p>
+<p dir="ltr">NYU spokesman John Beckman said the university chooses commencement speakers based on the strides they have made in their respective fields.</p>
+<p dir="ltr">“In selecting its honorary degree recipients, the university tries to choose people who have a record of great accomplishments in leadership in their chosen fields,” Beckman said. “We hope that the honorees will serve as an example and an inspiration to our graduating students as they embark on their own careers.”</p>
+<p dir="ltr">Yellen was elected to be the chair of the Federal Reserve on Jan. 6 by a margin of 56-26 in the U.S. Senate, the narrowest margin in history. In addition to being the first woman to serve as the Fed chair, Yellen was also the first Democratic nominee since 1979.</p>
+<p dir="ltr">Yellen graduated summa cum laude from Brown University with an undergraduate degree in economics. After Brown, she attended Yale University, earning a doctorate in economics.</p>
+<p dir="ltr">Steinhardt senior Javon Morris-Byam said he is glad to hear from a speaker who is well informed about the financial atmosphere that graduating students will enter.</p>
+<p dir="ltr">“As a new batch of students become full-fledged adults, it is almost responsible of NYU to bring in a speaker who knows the truth of the financial situation for a group who is generally graduating wracked with debt and terrified of surviving in the real world,” Morris-Byam said.</p>
+<p dir="ltr">Caitlin Semo, a CAS alumna who graduated in December and plans to attend commencement, said Yellen inspires her.</p>
+<p dir="ltr">“The banking and finance industries are the hardest fields to dominate, even as a man,” Semo said. “For her to not only break into but completely dominate that field in such a poised manner is a testament to what a role model she should be for every girl.”</p>
+<p dir="ltr">Commencement will take place on May 21 at Yankee Stadium.</p>
+<p><em>Additional reporting by Tony Chau. Kavish Harjai is a news editor. Email them at <a href="/cdn-cgi/l/email-protection#d5bbb0a2a695bbaca0bbb0a2a6fbb6bab8"><span class="__cf_email__" data-cfemail="e28c879591a28c9b978c879591cc818d8f">[email protected]</span></a>.</em></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes"/><label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Post Comment"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="59285"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="edcd020db1"/></p>
+<p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="10"/></p>
+<p>
+<label>Email address: </label>
+<input name="EMAIL" placeholder="Your email address" required="" type="email"/>
+</p>
+<p>
+<input type="submit" value="Sign up"/>
+</p>

@@ -1,0 +1,370 @@
+<p align="center"> <b><font color="#328828" face="Arial" size="6">Finfacts 
+Business News Centre</font></b></p>
+<p align="center"><b>
+<font color="#FF9933" face="Arial" size="2">RSS FEED</font></b></p>
+<p align="center">
+<a href="http://www.finfacts.ie/irelandbusinessnews/rss.xml" target="_blank">
+<img border="0" height="14" src="http://www.finfacts.ie/images/xml.gif" width="36"/></a><br align="center"/>
+<a href="http://www.finfacts.ie/rssireland.htm" style="font-family: Arial">
+<font color="#000000" size="2">How to use our RSS feed</font></a><p align="center"><a href="http://www.twitter.com/Finfacts"><img alt="Follow Finfacts on Twitter" src="http://twitter-badges.s3.amazonaws.com/twitter-a.png"/></a>
+</p></p>
+<p align="center"><a href="http://www.twitter.com/Finfacts"><img alt="Follow Finfacts on Twitter" src="http://twitter-badges.s3.amazonaws.com/twitter-a.png"/></a>
+</p>
+<p align="left"><b><font color="#008000" face="Arial" size="1">See Search Box 
+lower down this column for searches of Finfacts news pages. Where there may be 
+the odd special character missing from an older page, it's a problem that 
+developed when Interactive Tools upgraded to a new content management system. </font></b></p>
+<p align="center"><b>
+<font color="#328828" face="Arial" size="2">Welcome</font><font face="Arial" size="2"> </font></b>
+</p>
+<p align="left"><b><font color="#008000" face="Arial" size="1">
+Finfacts is Ireland's leading business information site and 
+you are in its business news section.
+</font>
+</b>
+</p>
+<p align="center"><b>
+<font color="#328828" face="Arial" size="2">Links</font></b></p>
+<p align="left"><font face="Tunga" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/></font><a href="http://www.finfacts.ie/"><font face="Arial" size="1">Finfacts Homepage</font></a></p>
+<p align="left"><font face="Tunga" size="1">
+<img height="9" src="/img/green_arrow_small.png" width="11"/></font><font face="Arial" size="1"><a href="http://www.finfacts.ie/irishshareprices.htm" target="_blank">Irish 
+Share Prices</a></font></p>
+<p align="left"><font face="Tunga" size="1">
+<img height="9" src="/img/green_arrow_small.png" width="11"/></font><font face="Arial" size="1"><a href="http://www.finfacts.ie/Private/dbn/dbn.htm" target="_blank">Euribor 
+Daily Rates</a></font></p>
+<p align="left"><font face="Tunga" size="1">
+<img height="9" src="/img/green_arrow_small.png" width="11"/></font><font face="Arial" size="1"><a href="http://www.finfacts.ie/irecon.htm" target="_blank">Irish 
+Economy</a></font></p>
+<p align="left"><font face="Tunga" size="1">
+<img height="9" src="/img/green_arrow_small.png" width="11"/></font><font face="Arial" size="1"><a href="http://www.finfacts.ie/biz10/globalworldincomepercapita.htm" target="_blank">Global 
+Income Per Capita</a></font></p>
+<p align="left"><font face="Tunga" size="1">
+<img height="9" src="/img/green_arrow_small.png" width="11"/></font><font face="Arial" size="1"><a href="http://www.finfacts.ie/costofliving.htm" target="_blank">Global 
+Cost of Living</a></font></p>
+<p align="left"><font face="Tunga" size="1">
+<img height="9" src="/img/green_arrow_small.png" width="11"/></font><font face="Arial" size="1"><a href="http://www.finfacts.ie/fincentre/taxfacts.htm
+" target="_blank">Irish Tax - Income/Corporate</a></font></p>
+<p align="left"><b>
+<font color="#CCCCCC" face="Arial" size="2">Global News</font></b></p>
+<p align="left"><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/></font><a href="http://www.finfacts.ie/busbloomberg.htm" target="_blank"><font face="Arial" size="1">Bloomberg News</font></a></p>
+<p align="left"><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/></font><a href="http://www.finfacts.ie/Private/dbn/cnnrep.htm" target="_blank"><font face="Arial" size="1">CNN Money</font></a></p>
+<p align="left"><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/></font><a href="http://www.finfacts.ie/Private/dbn/cnetnews.htm" target="_blank"><font face="Arial" size="1">Cnet Tech News</font></a></p>
+<p align="left"><b>
+<font color="#CCCCCC" face="Arial" size="2">Newspapers</font></b></p>
+<p><font face="Tunga" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/></font><font face="Arial" size="1"><a href="http://www.finfacts.ie/news/indo.htm" target="_blank">Irish 
+Independent</a></font></p>
+<p><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/><a href="http://www.finfacts.ie/news/irelandbusinessnews.htm" target="_blank">Irish 
+Times</a></font></p>
+<p><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/><a href="http://www.finfacts.ie/news/examiner.htm" target="_blank">Irish 
+Examiner</a></font></p>
+<p><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/><a href="http://www.finfacts.ie/news/finhome.htm" target="_blank">New 
+York Times</a></font></p>
+<p><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/><a href="http://www.finfacts.ie/ft.htm" target="_blank">Financial 
+Times</a></font></p>
+<p><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/><a href="http://www.finfacts.ie/Private/cib/tech3.htm" target="_blank">Technology 
+News</a></font></p>
+<p> </p>
+<p><font face="Arial" size="1"><img height="9" src="/img/green_arrow_small.png" width="11"/><a href="mailto:finfacts@finfacts.ie">Feedback</a></font></p>
+<p> </p>
+<p><span style="font-family: Arial;"><span style="font-weight: bold; font-size: 10pt;">Chiquita Brands International of the US and Fyffes 
+of Ireland </span><span style="font-size: 10pt;">said today they 
+have agreed to combine in an all-stock transaction valued at about $1.07bn, that 
+will be the world’s largest banana company.</span></span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">Chiquita shareholders would own 50.7% of the new company, ChiquitaFyffes, which 
+would have $4.6bn in annual revenue and 32,000 employees globally, Fyffes said.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;"><span style="font-weight: bold; color: rgb(0, 128, 0);">Wikipedia says Chiquita is 
+the final name in a long list of companies whose ultimate origin was the United 
+Fruit Company</span>, formed in 1899 by the merging of the Boston Fruit 
+Company and various fruit exporting concerns controlled by Minor C. Keith. In 
+1970 it became the United Brands Company when it was purchased by Eli Black. He 
+outbid two other conglomerates, Zapata Corporation and Textron, for a 
+controlling interest in the company. In fact, that is a condensed version of 
+what has actually happened to United Fruit Co., famed in the U.S. for Chiquita 
+bananas, but known to generations of Latin Americans as "el Pulpo" (the 
+Octopus). In 1990 the company became Chiquita Brands International.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">The original “<a href="http://users.polisci.wisc.edu/LA260/bananas.htm" target="_blank">Banana 
+Republic</a>” was Honduras: United Fruit Company had many banana plantations, 
+practically controlled the country economically and got involved in politics as 
+well. Since the term was coined, the word has grown to be applied to any country 
+with unstable, non-democratic governments, and abundant foreign influence, 
+especially in economics. The many countries in Latin America that were dominated 
+by United Fruit Company (UFCo) in the first half of the 20th century certainly 
+fit that definition.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;"><span style="font-weight: bold;">The New York Times
+<a href="http://www.nytimes.com/2008/03/02/books/review/Kurtz-Phelan-t.html?_r=1&amp;" target="_blank">
+wrote </a>in 2008:</span> [Today, “the banana is the world’s fourth major food, 
+after rice, wheat and milk.” But when a Brooklyn-born twentysomething named 
+Minor Keith planted a few banana cuttings next to a railroad track in Costa Rica 
+in the early 1870s, it was virtually unknown outside its native environs. Keith 
+and his partners soon realized how great the potential profits were — especially 
+if, along with growing bananas, they could control railroads, shipping and 
+Central American governments (to that end, Keith married the beautiful daughter 
+of a Costa Rican president). Only then did they set out to turn the banana into 
+a product for the masses. Until its demise a hundred years later, United Fruit 
+controlled as much as 90% of the market.]</span></p>
+<p><span style="font-family: Arial;"><span style="font-weight: bold; font-size: 10pt;">Fyffes Announces merger with Chiquita, FY13 numbers in-line:</span><span style="font-size: 10pt;"> Patrick Higgins 
+of Goodbody comments - - "Fyffes announced this morning that it will combine 
+with Chiquita in a stock for stock  transaction. This will result in Fyffes shareholders holding 49.3% of the new 
+entity,  ChiquitaFyffes plc. The group will be listed on the New York Stock Exchange and 
+domiciled in  Ireland. The merger will create the largest player globally, with c.14% market 
+share. The  transaction values Fyffes at €1.22, a 38% premium to current levels.</span></span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">The new company will have an equity value of c. $1.1bn and net debt of $576m. 
+Combined  EBITDA is $174m, with an additional $40m expected in synergies. Another synergy 
+benefit  from the transaction is on the balance sheet. Chiquita was highly leveraged at 
+4.7x EBITDA,  the new entity will have a more manageable net debt / EBITDA of 2.7x. Fyffes 
+management  will have governance of the new entity also, with David McCann to be appointed 
+the new  CEO, Tom Murphy the new CFO and Coen Boss the new COO.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">Fyffes reported FY13 results this morning with EPS in-line with our forecasts 
+at 8.8c, +3.1%  yoy. Sales came in at €839m, +7% , while adjusted EBITA was €32.7m (vs Goodbody
+ €31.9m), at the top end of the guidance range of €29-€34m.   Banana sales were up in the year as the group continued to grow volumes; however 
+profits  were down slightly due primarily to higher fruit costs. Pricing was weak in H1 
+although a  significant pick up occurred during the summer months due a tightening of 
+supply. Overall  pricing increased but insufficiently to offset the continuing rise in fruit 
+costs.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">Melons, which is predominantly H1 weighted, performed strongly as the group 
+continues to  grow its market share in the key import season in the US. Profits in Fyffes 
+pineapple  business rose strongly benefitting from an improvement in market conditions and 
+stability in  supply volumes, particularly in H1.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">Current trading has been satisfactory in the year to date, although pricing 
+is behind  year on year. As a result and given the potential for volatility in the core 
+banana  business over the course of the year, management has set a wide initial guidance
+ range for adjusted EBITA of €30-35m (vs. Goodbody forecasts for €33.7m). At 
+first  glance, we are unlikely to change our forecasts."</span></p>
+<p><span style="font-family: Arial;"><span style="font-weight: bold; font-size: 10pt;">The National Treasury Management Agency (NTMA) 
+</span><span style="font-size: 10pt;">announced that it will hold a 
+bond auction on Thursday, 13 March, the first such auction since 21 September 
+2010.<br>
+<br>
+			
+			Speaking today, <span style="font-weight: bold;">John Corrigan, NTMA chief executive</span> said: “The resumption 
+of scheduled bond auctions builds on the phased re-entry to the capital markets 
+achieved by the NTMA over the past two years and marks the full normalisation of 
+Ireland’s presence in the markets.”<br>
+<br>
+			
+			The details of the bond auction on 13 March are as follows:<br>
+<br>
+			
+			Bond to be auctioned: 
+3.40% Treasury Bond 2024<br>
+<br>
+			
+			Auction size: 
+€1bn<br>
+<br>
+			
+			The auction will be conducted on the Bloomberg Auction System and will be 
+confined to recognised primary dealers.</br></br></br></br></br></br></br></br></br></br></span></span></p>
+<p><span style="font-family: Arial;"><span style="font-weight: bold; font-size: 10pt;">Escher Group FY13 results statement highlights positive pipeline: 
+</span><span style="font-size: 10pt;">Rachael of 
+Goodbody comments - - "Escher Group has announced FY13 results this morning. 
+Revenue of $24.7m had already  been reported in the group’s trading statement in January while adjusted EBITDA 
+came in at  $4.2m (company definition), 5% ahead of the $4m guidance given in January. Adj. 
+EPS  came in at 4.8c versus our 5.6c forecast with a higher interest and tax charges 
+the key  differences.</span></span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">License revenue was $5.1m, -19% yoy, and -5% versus our forecast. The 
+statement notes  that the yoy performance was impacted by the fact that the group received 
+licence revenue  from Malaysia in the prior year but this was somewhat offset by the extension of 
+the number  of licences in the Saudi Post contract and ongoing payments received from USPS. 
+In  addition, this revenue was held back by the delay of the USPS licence fee in 
+2013. The group  remains confident of recognising this revenue in H114 (c. $6m). Maintenance 
+revenue was  $5.4m, +6% yoy, driven by the full year impact of customers signed in 2012. 
+Support  revenue was -11% yoy to $2.5m, which reflected a contract renewal done during 
+the year.  In terms of services revenue, it was +35% yoy to $11.6m, versus our $10.3m 
+forecast,  driven by the group's work with the USPS and the Malaysian post office. Gross 
+profit margin  (61% v 66% in 2012) was impacted by the revenue mix which was more weighted 
+towards  the lower margin services revenue during the year.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">On current trading and outlook, for the Riposte division (postal software) 
+the statement  notes that the group has been in contact with several postal organisations and 
+is confident of  signing new customers in 2014. Within Escher Interactive Services (digital mail 
+and mobile  wallet solutions), it notes that the pipeline of opportunities has expanded 
+significantly over  the last 12 months and Escher remains confident about the prospects for 2014.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">Overall, we are unlikely to make any significant changes to FY14 forecasts
+ following this morning’s announcement. It is encouraging to see the group note 
+the  pipeline of potential deals for both of its divisions. While we have c.3 wins in 
+our  forecasts per annum for its postal software division already, further traction 
+in its  interactive services division could see upside to group forecasts and our price
+ target.</span></p>
+<p><span style="font-family: Arial;"><span style="font-weight: bold; font-size: 10pt;">Banks: SME survey indicates uptick in loan refusal rate; 
+</span><span style="font-size: 10pt;">Eamonn Hughes and 
+Colm Foley comment - - "The latest Quarterly Bank Watch Survey at the end of 
+February by ISME, the small and  medium sized enterprises association, has shown that refusal rates by banks to 
+lend to small  businesses rose by 4 points to 54%. The survey of 924 owner-managers of SMEs 
+also found  that 60% of respondents had increased of bank charges imposed on them whilst 18% 
+had  incurred increased interest rates.</span></span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">The uptick in refusals comes against the background of the improving economy 
+and the  previous quarterly survey which reported an improving refusal rate from 58% to 
+50%.  Indeed, credit standards in the most recent Central Bank input to the EU Bank 
+Lending  Survey highlighted unchanged credit standards for the SME sector in Q413 whilst 
+there was  an expectation that standards in Q114 would also be unchanged.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">The quick reversal in the refusal rate is surprising and something we’ll need 
+to  monitor, but ongoing evidence of an improving economy highlights that, on  balance, conditions for the SME sector should be showing some signs of  improvement. Evidence of higher charges is also likely to flow through to better
+ income for the banks in due course.</span></p>
+<p><span style="font-family: Arial;"><span style="font-weight: bold; font-size: 10pt;">Economic View: GDP data likely to confirm investment-led recovery</span><span style="font-size: 10pt;">; Dermot 
+O'Leary of Goodbody comments - - "Positive momentum in the Irish economy is 
+expected to be confirmed by this week’s Q4 2013  GDP data. A key feature of recent quarters, and indeed of our forecasts for the 
+coming years,  is that a rebound in investment is leading recovery in domestic demand. This 
+should be a  feature of the Q4 2013 data.</span></span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">For 2013 as a whole, we are forecasting that GDP grew by 0.4%, following a 
+0.2% expansion  in 2012. On first glance, therefore, describing Ireland as a “growth beacon” 
+would be very  much an exaggeration. However, the “patent cliff” in the pharmaceutical sector 
+has played a  significant role in depressing GDP growth over that period; we estimate 1.0% to 
+1.5%. More  encouraging is the trend in domestic demand. In Q3 2013, domestic demand, 
+excluding the  volatile aircraft component, grew by 1.6%, its fastest rate of growth since 
+2007. Within this,  investment grew by 8% yoy, with contributions from both business machinery and
+ equipment and construction. Surveys over recent months suggest that trends in 
+the former  continued, while momentum in the construction sector has also been maintained 
+(confirmed  by this morning’s PMI). After falling for the first three quarters of the year, 
+we expect  consumer spending to make a small contribution to growth in Q4.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">Another key aspect of the GDP data that we will be watching closely is the 
+nominal  data, as they will act as an input into the deficit and debt to GDP 
+calculations. News  on this front has been slightly disappointing of late, owing to very low 
+inflationary  pressures. The key theme of the data though should be one of an improving, and
+ indeed better quality, economic recovery.</span></p>
+<p><span style="font-family: Arial;"><span style="font-weight: bold; font-size: 10pt;">Irish and European industry continues to recover in 2014:</span><span style="font-size: 10pt;"> Conall Mac Coille 
+of Davy comments - - "European stock indices fell on Friday: the Euro Stoxx 50 
+fell 1.6% and the S&amp;P500 rose 0.1%. On-going tensions over Crimea held back risk 
+appetite despite better-than- expected US non-farm payrolls at 175,000. US 
+Treasury yields jumped on the news to above 2.8% from 2.72%. The euro rose to a 
+fresh high against the dollar, breaking through $1.39 in early trade, as 
+investors weighed the ECB’s decision to keep rates on hold.</span></span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">German industrial production grew by 5.0% in the year to January 2014, well 
+above expectations. French data released this morning show manufacturing up 1.4% 
+on the year. Italian figures will be released at 09.00 this morning. Given the 
+strength of euro area manufacturing PMI surveys (53.2 in February) and the hard 
+data on output, the consensus forecast for just 1.9% euro area industrial 
+production growth in 2014 looks overly pessimistic.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">In this context, Friday’s industrial production data for Ireland provided 
+further evidence that the sector is benefitting from the improving cycle in 
+Europe. Irish industrial production fell by 1.1% in the year to January but was 
+split between a 5.3% fall in the modern sector and a 7.8% rise in traditional 
+manufacturing.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">Output in the labour-intensive traditional sector (accounting for two-thirds, 
+or 137,100, of total industrial sector employment of 200,000), is gradually 
+recovering, broadly in tandem with the broader European sector. In contrast, the 
+pharmaceutical sector has been hurt by the patent cliff. However, pharmaceutical 
+companies employ just 40,000 and have responded to the patent cliff by 
+increasing investment in plant and R&amp;D to bring the next generation of drugs to 
+market. So, even within the pharmaceutical sector, there has been no evidence of 
+aggregate job cuts.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">Separately, new cars licensed in February were up 23% on 2013 levels and new 
+goods vehicles licensed were up by 45%. This provides further evidence that the 
+rebound in Irish consumer and business confidence has led households and 
+companies to increase their spending. Indeed, the surge in Irish consumer 
+confidence through H2 2013 was accompanied by a pick-up in surveys on 
+households’ intentions to spend on big ticket items such as cars."</span></p>
+<p><span style="font-weight: bold; font-family: Arial; font-size: 10pt; color: rgb(0, 128, 0);">
+US markets</span></p>
+<p><span style="font-family: Arial; font-size: 10pt">In New York Monday, the Dow 
+rose 221 points or 1.41% to 16,396.</span></p>
+<p><span style="font-family: Arial; font-size: 10pt">Both the S&amp;P 500 added 
+1.53% and the Nasdaq advanced by 1.75%</span></p>
+<p><a href="http://money.cnn.com/" style="color: rgb(0, 0, 204);" target="_blank"><span style="font-family: Arial; font-size: 10pt;">US benchmark updates</span></a></p>
+<p><span style="font-family: Arial; color: rgb(0, 128, 0); font-size: 10pt; font-weight: bold">
+Asia Markets</span></p>
+<p><span style="font-family: Arial; font-size: 10pt">The<span class="Apple-converted-space"> </span>MSCI 
+Asia Pacific Index<span class="Apple-converted-space"> dropped 1.1% Monday</span>.
+</span></p>
+<p><span style="font-family: Arial; font-size: 10pt;">China reported on Saturday a 
+plunge in exports in February but it wasn't a typical month because of the Lunar 
+New Year holidays. </span></p>
+<p><span class="summary_title"><a href="http://www.finfacts.ie/irishfinancenews/article_1027397.shtml" target="_blank"><span style="font-family: Arial; font-size: 10pt;">China reported trade deficit in February -- impacted 
+by Lunar New Year timing</span></a></span></p>
+<p><span style="font-family: Arial; font-size: 10pt">Japan's Nikkei 225 fell 
+1.01%; China's Shanghai Composite dropped 2.86%; South Korea's KOSPI slid 1.03%; 
+Australia's S&amp;P/ASX 200 slipped 0.93% and in Mumbai, the Bombay Stock Exchange 
+the S&amp;P BSE India Sensex Index climbed 0.07%.</span></p>
+<p align="left"><span style="font-family: Arial; color: rgb(0, 128, 0); font-size: 10pt; font-weight: bold">
+Europe Markets</span></p>
+<p align="left"><span style="font-family: Arial; font-size: 10pt">In Europe, the<span class="Apple-converted-space"> </span><a href="http://www.stoxx.com/indices/index_information.html?symbol=SXXP" style="color: rgb(0, 0, 204)" target="_blank">Dow 
+Jones Stoxx Europe 600</a><span class="Apple-converted-space"> </span> is off 
+0.83% in mid afternoon trading Monday.</span></p>
+<p align="left"><span style="font-family: Arial; font-size: 10pt">In Dublin, the 
+ISEQ  has slid 0.03%</span></p>
+<p align="left"><span style="font-family: Arial; font-size: 10pt">Fyffes is up 
+40 cent or 44.4%; ARYZTA is off 3.49%.</span></p>
+<p align="left"><span style="font-family: Arial; color: rgb(0, 128, 0); font-size: 10pt"><a href="http://www.bloomberg.com/markets/stocks/world-indexes/europe-africa-middle-east/" style="color: rgb(0, 0, 204)" target="_blank">
+European Benchmarks</a></span></p>
+<p align="left"><span style="font-family: Arial; color: rgb(0, 128, 0); font-size: 10pt"><a href="http://www.finfacts.ie/irishshareprices.htm" style="color: rgb(0, 0, 204)" target="_blank">
+Irish Share Prices</a></span></p>
+<p align="left"><span style="font-family: Arial; color: rgb(0, 128, 0); font-size: 10pt"><a href="http://www.finfacts.ie/Private/dbn/dbn.htm" style="color: rgb(0, 0, 204)" target="_blank">
+Euribor Rates</a></span></p>
+<p align="left"><span style="font-family: Arial; font-size: 10pt"><a href="http://www.fxcentre.com/morning/20140310.pdf" style="color: rgb(0, 0, 204)" target="_blank">
+AIB Daily Report</a></span></p>
+<p align="left"><span style="font-family: Arial; color: rgb(0, 128, 0); font-size: 10pt"><a href="http://boi.bluecurve.net/MorningCommentary/url_MorningCommentaryIrish.html" style="color: rgb(0, 0, 204)" target="_blank">
+Bank of Ireland Daily Report</a></span></p>
+<p align="left"><span style="font-family: Arial; color: rgb(0, 128, 0); font-size: 10pt; font-weight: 700">
+Currencies</span></p>
+<p align="left"><span style="font-family: Arial; font-size: 10pt">The euro is 
+trading at $1.3873 and at £0.8338.</span></p>
+<p align="left"><span style="font-family: Arial; color: rgb(0, 128, 0); font-size: 10pt"><span style="color: rgb(0, 0, 0)">For live currency updates, check the 
+right-hand column of the</span><a href="http://finfacts.ie/" style="color: rgb(0, 0, 204)" target="_blank"><span class="Apple-converted-space"> </span>Finfacts 
+home page.</a></span></p>
+<p align="left"><span style="font-family: Arial; font-size: 10pt">The US dollar 
+fell to $1.6038 per euro on Tuesday, July 15, 2008 - an-all time record.</span></p>
+<p align="left"><span style="font-family: Arial; color: rgb(0, 128, 0); font-size: 10pt; font-weight: bold">
+Commodities</span></p>
+<p align="left"><span style="font-family: Arial; color: rgb(0, 128, 0); font-size: 10pt"><span style="color: rgb(0, 0, 0)">The<span class="Apple-converted-space"> </span></span><a href="http://www.bloomberg.com/quote/BDIY:IND" style="color: rgb(0, 0, 204)" target="_blank">Baltic 
+Dry Index</a><a href="http://www.bloomberg.com/apps/quote?ticker=bdiy&amp;exch=IND&amp;x=15&amp;y=11" style="color: rgb(0, 0, 204)" target="_blank">,</a><span style="color: rgb(0, 0, 0)"><span class="Apple-converted-space"> </span>a 
+measure of shipping costs for dry commodities,</span><a href="http://www.benzinga.com/sleibhin/2009/9/8/baltic-dry-index" style="color: rgb(0, 0, 204)" target="_blank"><span class="Apple-converted-space"> </span>hit 
+an all-time high of 11,771 on May 21, 2008.</a><span style="color: rgb(0, 0, 0)"><span class="Apple-converted-space"> </span>From 
+that time it reversed and on the 5th of December, 2008 it hit a low of 663 - - 
+close to a 1986 low.</span></span></p>
+<p align="left"><span style="font-family: Arial; font-size: 10pt">On Thursday, 
+July 15, 2010, the index fell for the 35th straight session, by 9 points, or 
+3.11%, to 1,619 points,<a href="http://www.businessweek.com/news/2010-07-14/commodity-shipping-rates-extend-decline-led-by-larger-vessels.html" style="color: rgb(0, 0, 204)" target="_blank"><span class="Apple-converted-space"> </span>Bloomberg 
+report</a>.</span></p>
+<p align="left"><span style="font-family: Arial; font-size: 10pt">On Friday in 
+London the BDI closed up 63 points or 4.26% to 1,543.</span></p>
+<p align="left"><span style="font-family: Arial; font-size: 10pt; font-weight: 700">The index 
+rose by 220% in 2013 to 2,237.</span></p>
+<p align="left"><span style="font-family: Arial"><span style="font-size: 10pt">
+Global rebalancing — the<span class="Apple-converted-space"> </span></span><a href="http://climateerinvest.blogspot.com/2013/07/hard-core-analysis-counting-ships-in.html" style="color: rgb(0, 0, 204)" target="_blank" title="Counting the ships in the world's largest scrapyeard - Climateer Investing"><span style="font-size: 10pt">tanker 
+scrapyard index?</span></a></span></p>
+<p align="left"><span style="font-family: Arial"><span style="font-size: 10pt">
+Crude oil for April 2014 delivery is trading on the</span><a href="http://finfacts.ie/nymex.htm" style="color: rgb(0, 0, 204)" target="_blank"><span style="font-size: 10pt"><span class="Apple-converted-space"> </span>Chicago 
+York Mercantile Exchange (CME/Nymex)</span></a></span><span style="font-family: Arial; font-size: 10pt"><span class="Apple-converted-space"> </span>at 
+$101.95 down $1.33 from Friday's close. In London, Brent for April 2014 delivery 
+is trading on the<a href="https://www.theice.com/homepage.jhtml" style="color: rgb(0, 0, 204)" target="_blank"><span class="Apple-converted-space"> </span>International 
+Commodities Exchange</a><span class="Apple-converted-space"> </span>at $108.04.<span style="color: rgb(0, 0, 0); font-weight: bold"><span class="Apple-converted-space"> </span>The 
+North Sea benchmark accounts for two-thirds of the global market.</span></span></p>
+<p align="left"><span style="color: rgb(0, 128, 0); font-family: Arial"><span style="font-weight: bold; font-size: 10pt">Finfacts, July, 15, 2013:</span><span style="font-size: 10pt"> </span><span class="general_text" style="font-family: Arial; font-size: 12px"><span class="summary_title" style="font-size: 12px; font-weight: bold"><a href="http://www.finfacts.ie/irishfinancenews/article_1026279.shtml" style="color: rgb(0, 0, 204)"><span style="font-size: 10pt">US 
+West Texas Intermediate oil benchmark jumps in July</span></a><span style="font-size: 10pt"><span class="Apple-converted-space"> </span>- 
+- margin between WTI and Brent falls.</span></span></span></span></p>
+<p align="left"><span style="font-family: Arial; font-size: 10pt; font-weight: 700">Gold spot 
+price</span></p>
+<p align="left"><span style="font-family: Arial"><span style="font-size: 10pt">
+The spot price of an oz of gold is trading on the<span class="Apple-converted-space"> </span><a href="http://www.cmegroup.com/trading/metals/precious/gold.html" style="color: rgb(0, 0, 204)" target="_blank">CME 
+in Chicago</a> at $1,344.20 up $6.10 from Friday's closing - -<span class="Apple-converted-space"> </span></span><span style="font-weight: bold; font-size: 10pt">the 
+gold price fell 28% in 2013, the biggest annual plunge since 1981.</span></span></p>
+<p align="left"><span style="font-family: Arial; font-size: 10pt">Gold had hit a 
+record high of $1,921.15 a troy ounce on Sept 06, 2011.</span></p>
+<p align="left"><span style="font-family: Arial"><span style="font-weight: bold; color: rgb(0, 128, 0); font-size: 10pt">Check 
+out our subscription service,<span class="Apple-converted-space"> </span></span><a href="http://www.finfacts-premium.com/" style="color: rgb(0, 0, 204)" target="_blank"><span style="font-size: 10pt">Finfacts 
+Premium</span></a><span style="font-weight: bold; font-size: 10pt; color: rgb(0, 128, 0)"><span class="Apple-converted-space"> </span>, 
+at a low annual charge of €25</span></span></p>
+<p align="left"><b>
+<font color="#328828" face="Arial" size="2">Bookmark 
+with:
+</font></b></p>
+<p align="right"><b>
+<font color="#328828" face="Arial" size="2">
+<a href="http://www.finfacts.ie/socialbookmarks.htm" target="_blank">
+<font color="#328828">What are these?</font></a>
+</font></b></p>
+<p class="article_text">© Copyright 2011 by Finfacts.com<br/><br/>
+<a href="#top">Top of Page</a><br/><br/>
+</p>
+<p align="center">
+<style>
+.finbeta1 { width: 120px; height: 400px; }
+</style>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- FinBeta1 -->
+<ins class="adsbygoogle finbeta1" data-ad-client="ca-pub-2037308292460912" data-ad-slot="9556076162" style="display:inline-block"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</p>
+<p>
+</p>

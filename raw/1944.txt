@@ -1,0 +1,38 @@
+<p class="post-meta">
+<span class="post-meta-author">By:  <a href="https://molawyersmedia.com/author/cleabenson/" title="">Clea Benson </a></span>
+    Bloomberg News<span class="pm-byline"></span>
+<span class="tie-date">March 11, 2014</span>
+</p>
+<p class="submit">
+<input class="button-primary button " id="wp-submit" name="wp-submit" tabindex="100" type="submit" value="Log In"/> <input name="rememberme" type="hidden" value="1"/>
+<input name="redirect_to" type="hidden" value="/2014/03/11/u-s-projects-179b-profit-from-fannie-mae-freddie-mac/"/>
+</p>
+<p>Enter your user name and password in the fields above to gain access to the subscriber content on this site. </p>
+<p>Your subscription includes one set of login credentials for your exclusive use.  Security features have been integrated on this site: If someone signs in with your credentials while you are logged in, the site will automatically close your ongoing login and you will lose access at that time.  To inquire about group subscriptions for your organization, contact <a href="mailto:jowens@bridgetowermedia.com">Joseph Owens</a></p>
+<p>If you feel your login credentials are being used by a second party, contact customer service at 877-615-9536 for assistance in changing your password.</p>
+<p>Already a paid subscriber but not registered for online access yet? For instructions on how to get premium web access, <a href="/already-a-subscriber" target="_blank">click here</a>.</p>
+<p><a href="http://molawyersmedia.com/forgot-password">Forgot your password?</a></p>
+<p class="post-meta"><span class="tie-date">October 18, 2018</span></p>
+<p class="post-meta"><span class="tie-date">August 8, 2018</span></p>
+<p class="post-meta"><span class="tie-date">May 14, 2018</span></p>
+<p class="post-meta"><span class="tie-date">March 28, 2018</span></p>
+<p class="post-meta"><span class="tie-date">November 9, 2016</span></p>
+<p class="post-meta"><span class="tie-date">October 19, 2018</span></p>
+<p class="post-meta"><span class="tie-date">October 19, 2018</span></p>
+<p class="post-meta"><span class="tie-date">October 19, 2018</span></p>
+<p class="comment-notes">Your email address will not be published. Required fields are marked <span class="required">*</span></p>
+<p class="comment-form-comment"><label for="comment">Comment</label> <textarea aria-required="true" cols="45" id="comment" maxlength="65525" name="comment" required="required" rows="8"></textarea></p>
+<p class="comment-form-author"><label for="author">Name</label> <span class="required">*</span><input aria-required="true" id="author" name="author" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email</label> <span class="required">*</span><input aria-required="true" id="email" name="email" size="30" type="text" value=""/></p>
+<p class="comment-form-url"><label for="url">Website</label><input id="url" name="url" size="30" type="text" value=""/></p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Post Comment"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="279533"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p>
+<p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="39ae9aa9dd"/></p>
+<p class="comment-subscription-form"><input id="subscribe_comments" name="subscribe_comments" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" type="checkbox" value="subscribe"/> <label class="subscribe-label" for="subscribe_comments" id="subscribe-label">Notify me of follow-up comments by email.</label></p>
+<p class="comment-subscription-form"><input id="subscribe_blog" name="subscribe_blog" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" type="checkbox" value="subscribe"/> <label class="subscribe-label" for="subscribe_blog" id="subscribe-blog-label">Notify me of new posts by email.</label></p>
+<p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="180"/></p>
+<p>The Digital Edition of Missouri Lawyers Weekly is available to both print and online subscribers.</p>
+<p><a href="/this-weeks-digital-edition/" style="color: #2E6EB7;"><strong>Current Edition</strong></a><br/><br/>
+</p>
+<p></p>

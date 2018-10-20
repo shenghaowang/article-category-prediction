@@ -1,0 +1,56 @@
+<p id="bodyHolder_imgCaption">File - People attend a job training and resource fair at Coney Island in New York in this file photo taken December 11, 2013. (REUTERS/Eric Thayer)</p>
+<p id="bodyHolder_divTeaser"></p>
+<p id="bodyHolder_divDetails"></p>
+<p>
+<a href="http://www.dailystar.com.lb/Business/International/2018/Oct-19/466832-us-jobless-claims-data-boosts-labor-market-outlook.ashx?utm_source=Magnet%26utm_medium=Related%20Articles%20widget%26utm_campaign=Magnet%20tools" onmousedown="__magnetQ.push(['event', 'AP_RA_CLK', '42e13b3b-5851-4652-9b83-791e1adec4ea', 'local', '466832']);" title="U.S. jobless claims data boosts labor market outlook">U.S. jobless claims data boosts labor market outlook<span id="bodyHolder_rptRelArticles2_aSpan_0"></span></a>
+</p>
+<p>
+<a href="http://www.dailystar.com.lb/Business/International/2018/Oct-11/465994-powell-places-risky-bet-stokes-economy.ashx?utm_source=Magnet%26utm_medium=Related%20Articles%20widget%26utm_campaign=Magnet%20tools" onmousedown="__magnetQ.push(['event', 'AP_RA_CLK', '42e13b3b-5851-4652-9b83-791e1adec4ea', 'local', '465994']);" title="Powell places risky bet, stokes economy">Powell places risky bet, stokes economy<span id="bodyHolder_rptRelArticles2_aSpan_1"></span></a>
+</p>
+<p>
+<a href="http://www.dailystar.com.lb/Business/International/2018/Sep-01/461941-eurozone-unemployment-falls-to-decade-low-of-82-percent.ashx?utm_source=Magnet%26utm_medium=Related%20Articles%20widget%26utm_campaign=Magnet%20tools" onmousedown="__magnetQ.push(['event', 'AP_RA_CLK', '42e13b3b-5851-4652-9b83-791e1adec4ea', 'local', '461941']);" title="Eurozone unemployment falls to decade low of 8.2 percent">Eurozone unemployment falls to decade low of 8.2 percent<span id="bodyHolder_rptRelArticles2_aSpan_2"></span></a>
+</p>
+<p>Your feedback is important to us!</p>
+<p>We invite all our readers to share with us their views and comments about this article.</p>
+<p><u>Disclaimer:</u> Comments submitted by third parties on this site are the sole responsibility of the individual(s) whose content is submitted. The Daily Star accepts no responsibility for the content of comment(s), including, without limitation, any error, omission or inaccuracy therein. Please note that your email address will NOT appear on the site.</p>
+<p>
+<b><u>Alert:</u> If you are facing problems with posting comments, please note that you must verify your email with Disqus prior to posting a comment. follow this link to make sure your account meets the requirements. (<a href="http://bit.ly/vDisqus" target="blank">http://bit.ly/vDisqus</a>)</b>
+</p>
+<p id="bodyHolder_divSummary" style="text-align: left;">Janet Yellen says Federal Reserve policymakers need to look at a broader range of data to get a good handle on the job market. She hasn't highlighted one labor indicator that economists say is sounding inflation alarms: short-term unemployment.<br/><br/>With total joblessness at 6.7 percent in February, still higher than the Fed wants, the rate for those who've been out of work less than 27 weeks was just 4.2 percent. <br/><br/>That's important because Fed policymakers have cited a slack job market and subdued inflation as reasons for keeping short-term interest rates near zero even as the economy picks up.<br/><br/>Consumer prices rose in January at a 1.2 percent annual rate, below the Fed's 2 percent target.<br/><br/>That measure leaves aside those who have been without a job for more than 26 weeks, a group that represented 37 percent of the unemployed in February, compared with 16 percent in the 20 years before the start of the last recession.<br/><br/>The Fed chair suggested that the jobless rate, if anything, may understate how loose the labor market is.<br/><br/>New York Fed economists M. Henry Linder, Richard Peach and Robert Rich also highlighted the importance of short-duration unemployment in a Feb. 12 note, concluding that it has done "a better job" tracking changes in worker compensation than the overall jobless rate.<br/><br/>Based on that measure, full employment – the rate at which inflation remains steady – is about 4.6 percent, the New York Fed economists found.</p>
+<p id="toggle" style="display: none">
+<span>
+<a class="showLink" href="javascript:void(0);" id="toogle-show" onclick="showItems()">...</a>
+<a class="hideLink" href="javascript:void(0);" id="toogle-hide" onclick="showItems()" style="display: none;">
+<i class="fa fa-caret-up"></i>
+</a>
+</span>
+</p>
+<p id="trFooter2">
+</p>
+<p onmouseover="ShowImageRelated2('img_author2_0')"><a href="http://www.dailystar.com.lb/Business/International/2018/Oct-19/466832-us-jobless-claims-data-boosts-labor-market-outlook.ashx?utm_source=Magnet%26utm_medium=Related%20Articles%20widget%26utm_campaign=Magnet%20tools">U.S. jobless claims data boosts labor market outlook<span id="bodyHolder_rptRelArticles_aSpan_0"></span></a></p>
+<p onmouseover="ShowImageRelated2('img_author2_1')"><a href="http://www.dailystar.com.lb/Business/International/2018/Oct-11/465994-powell-places-risky-bet-stokes-economy.ashx?utm_source=Magnet%26utm_medium=Related%20Articles%20widget%26utm_campaign=Magnet%20tools">Powell places risky bet, stokes economy<span id="bodyHolder_rptRelArticles_aSpan_1"></span></a></p>
+<p onmouseover="ShowImageRelated2('img_author2_2')"><a href="http://www.dailystar.com.lb/Business/International/2018/Sep-01/461941-eurozone-unemployment-falls-to-decade-low-of-82-percent.ashx?utm_source=Magnet%26utm_medium=Related%20Articles%20widget%26utm_campaign=Magnet%20tools">Eurozone unemployment falls to decade low of 8.2 percent<span id="bodyHolder_rptRelArticles_aSpan_2"></span></a></p>
+<p class="title">
+<a href="/PhotoGallery.aspx?id=2154" title="Pictures of the day">Pictures of the day</a>
+<time style="float:right;">Oct. 19, 2018</time>
+</p>
+<p class="title">
+<a href="/PhotoGallery.aspx?id=2153" title="Pictures of the day">Pictures of the day</a>
+<time style="float:right;">Oct. 18, 2018</time>
+</p>
+<p class="title">
+<a href="/PhotoGallery.aspx?id=2152" title="Pictures of the day">Pictures of the day</a>
+<time style="float:right;">Oct. 17, 2018</time>
+</p>
+<p>
+<a href="/TodaysIssue.aspx">Full list of today's paper »</a>
+</p>
+<p>
+<a href="http://www.pressreader.com/lebanon/the-daily-star-lebanon" target="_blank">View our e-paper »</a>
+</p>
+<p>
+<a href="/Subscribe.aspx">Subscribe »</a>
+</p>
+<p>
+            FOLLOW THIS ARTICLE
+        </p>

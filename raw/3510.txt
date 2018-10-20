@@ -1,0 +1,30 @@
+<p class="addl-text">Use commas to separate multiple email addresses</p>
+<p class="msg-sent">Your message has been sent.</p>
+<p class="msg-sent">There was an error emailing this page.</p>
+<p class="name" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<span class="by">By </span><span class="fn" itemprop="name">Tim Hornyak</span>
+</p>
+<p class="dateline">
+<span itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization"><span class="publisher" itemprop="name"><a href="http://www.idgnews.net/" rel="nofollow" target="_blank">IDG News Service</a></span><meta content="" itemprop="logo"/></span> <span class="divider">|</span>
+<span class="pub-date" content="2014-03-18T05:46-0700" itemprop="datePublished">Mar 18, 2014 5:46 AM
+								 PT
+							</span>
+</p>
+<p>Failed Bitcoin exchange Mt. Gox is allowing users to log in to their accounts once again, nearly three weeks after it filed for bankruptcy protection.</p>
+<p>Some users reported seeing accurate balances, but on various forums, users were, however, <a href="http://www.reddit.com/r/Bitcoin/comments/20oig3/mtgox_update_20140317_you_can_now_log_in_to_see/" rel="nofollow">concerned</a> that the exchange’s website had been hacked and the new login facility on the site may be a hoax.</p>
+<p>“We believe this is an authentic notice on the website and we are confirming with the legal team,” a call center staffer said on Tuesday.</p>
+<p>Another staffer had earlier said that she was unable to say whether the reactivated login was the result of an order by the Tokyo District Court, adding the database cannot be accessed while the case is being investigated by the court. Lawyers for Mt. Gox could not immediately be reached.</p>
+<p>The notice on the website, which was said to have been posted Tuesday by the call center, invited users to log in to check their Bitcoin wallet balances. It’s the first access since the Tokyo-based exchange went offline Feb. 25 and later announced it had lost some 850,000 bitcoins.</p>
+<p>Some users noted that the reopened access only confirms what they knew before the exchange’s meltdown and that their coins remain in limbo.</p>
+<p>“The site shows the coins, but it indicates it has no real meaning with respect to claims,” said Aaron G., an investor who did not want his last name to be used. His balance indicates about 464 bitcoins (roughly $286,700 according to average bitcoin prices on other exchanges).</p>
+<p>“So, just numbers on a screen—just as ‘real’ as they were before Gox went down,” he said in an email interview.</p>
+<p>Aaron, who filed a fraud complaint against the exchange with Tokyo police, was referring to the legalese on the page citing Mt. Gox’s pending status under Japan’s Civil Rehabilitation Act.</p>
+<p>“Please be aware that confirming the balance on this site does not constitute a filing of rehabilitation claims under the civil rehabilitation procedure and note that the balance amounts shown on this site should also not be considered an acknowledgment by MtGox Co., Ltd. of the amount of any rehabilitation claims of users,” the exchange said on its website.</p>
+<p>“I can see the 10k Mtgox stole from me... hooray!” <a href="http://www.reddit.com/r/Bitcoin/comments/20oig3/mtgox_update_20140317_you_can_now_log_in_to_see/cg5avmg" rel="nofollow">a Reddit user posted</a> in reaction to the reactivation of the login.</p>
+<p>The Mt. Gox website said it will post a method for filing claims as soon as it is in a position to do so, without providing details.</p>
+<p>The move follows the exchange’s filing for <a href="http://www.computerworld.com/s/article/9246820/The_tangled_tale_of_Mt._Gox_39_s_missing_millions">bankruptcy protection</a> in Tokyo District Court on Feb. 28 with liabilities of ¥6.5 billion ($63.6 million), when it said 750,000 of its customers’ bitcoins were missing, along with 100,000 of its own. Users were left wondering whether they will ever get their bitcoins back.</p>
+<p>The rehabilitation procedure is one of several legal actions involving Mt. Gox and its parent company Tibanne, led by Mark Karpeles. Last week a U.S. district court judge <a href="http://www.networkworld.com/news/2014/031114-chicago-court-freezes-us-assets-279626.html">ordered a freeze</a> of the assets of Karpeles as well as Tibanne and Mt. Gox’s U.S. subsidiary amid allegations of fraud.</p>
+<p>Gregory Greene filed the Chicago lawsuit against Mt. Gox on Feb. 27, alleging he lost around $25,000 worth of bitcoins in the exchange’s meltdown.</p>
+<p>PCWorld helps you navigate the PC ecosystem to find the products you want and the advice you need to get the job done.</p>
+<p>Visit other IDG sites:</p>
+<p><small><a href="http://idgcsmb.com/terms-of-service-agreement/">Copyright</a> © 2018 IDG Communications, Inc.</small></p>

@@ -1,0 +1,161 @@
+<p><script type="text/javascript"><!--//<![CDATA[
+					var m3_u = (location.protocol=='https:'?'https://servedby.informatm.com/ajs.php':'http://servedby.informatm.com/ajs.php');
+					var m3_r = Math.floor(Math.random()*99999999999);
+					if (!document.MAX_used) document.MAX_used = ',';
+					document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					document.write ("?zoneid=1729");
+					document.write ("&amp;tags=ono%2Cvittorio-colao%2Cvodafone");
+document.write ('&amp;cb=' + m3_r);
+					if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+					document.write ("&amp;loc=" + escape(window.location));
+					if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					if (document.context) document.write ("&context=" + escape(document.context));
+					if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					document.write ("'></scr"+"ipt>");
+				//]]&gt;--></script><br/>
+<noscript><a _blank'="" href="https://servedby.informatm.com/ck.php?n=a04e9d85&amp;cb=1511949702438 target="><br/>
+<img alt="" border="0" src="https://servedby.informatm.com/avw.php?zoneid=1729&amp;cb=1511949702438&amp;n=a04e9d85"/></a><br/>
+</noscript></p>
+<p><script type="text/javascript"><!--//<![CDATA[
+					var m3_u = (location.protocol=='https:'?'https://servedby.informatm.com/ajs.php':'http://servedby.informatm.com/ajs.php');
+					var m3_r = Math.floor(Math.random()*99999999999);
+					if (!document.MAX_used) document.MAX_used = ',';
+					document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					document.write ("?zoneid=1730");
+					document.write ("&amp;tags=ono%2Cvittorio-colao%2Cvodafone");
+document.write ('&amp;cb=' + m3_r);
+					if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+					document.write ("&amp;loc=" + escape(window.location));
+					if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					if (document.context) document.write ("&context=" + escape(document.context));
+					if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					document.write ("'></scr"+"ipt>");
+				//]]&gt;--></script><br/>
+<noscript><a _blank'="" href="https://servedby.informatm.com/ck.php?n=ac642def&amp;cb=1511949740335 target="><br/>
+<img alt="" border="0" src="https://servedby.informatm.com/avw.php?zoneid=1730&amp;cb=1511949740335&amp;n=ac642def"/></a><br/>
+</noscript></p>
+<p><script type="text/javascript"><!--//<![CDATA[
+					var m3_u = (location.protocol=='https:'?'https://servedby.informatm.com/ajs.php':'http://servedby.informatm.com/ajs.php');
+					var m3_r = Math.floor(Math.random()*99999999999);
+					if (!document.MAX_used) document.MAX_used = ',';
+					document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					document.write ("?zoneid=1725");
+					document.write ("&amp;tags=ono%2Cvittorio-colao%2Cvodafone");
+document.write ('&amp;cb=' + m3_r);
+					if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+					document.write ("&amp;loc=" + escape(window.location));
+					if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					if (document.context) document.write ("&context=" + escape(document.context));
+					if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					document.write ("'></scr"+"ipt>");
+				//]]&gt;--></script><br/>
+<noscript><a _blank'="" href="https://servedby.informatm.com/ck.php?n=ad9ccfde&amp;cb=1511976993506 target="><br/>
+<img alt="" border="0" src="https://servedby.informatm.com/avw.php?zoneid=1725&amp;cb=1511976993506&amp;n=ad9ccfde"/></a><br/>
+</noscript></p>
+<p>Vodafone has agreed to acquire Spain’s ONO for the equivalent of €7.2 billion (US$10 billion), following last week’s meeting of the cable operator’s shareholders to weigh the relative attractions of the UK mobile operator’s offer and a public flotation.</p>
+<p>Vodafone said it expects to achieve €2 billion in cost and capital expenditure synergies from the acquisition within four years of completion. The deal values ONO at 7.5 times its 2013 EBITDA and 10.4 times operating free cash flow adjusted for cost saving synergies.</p>
+<p>Vodafone said it expected to achieve revenue synergies to the tune of €1 billion through the development of unified products and services as well as by cross-selling of existing product lines.</p>
+<p>ONO’s network passes 7.2 million homes and the company has about 1.9 million customers.</p>
+<p>Vodafone will now refocus its own fibre-to-the-home build out on areas not covered by the ONO network, with a plan to pass 1.5 million homes. The combination of its own and ONO’s network will pass 10 million homes, or 57% of the country’s total.</p>
+<p>Vodafone expects the deal to close in the third quarter, pending regulatory and other approvals.</p>
+<p>“The combination of Vodafone and ONO creates a leading integrated communications provider in Spain and represents an attractive value creation opportunity for Vodafone,” said Vodafone CEO Vittorio Colão.</p>
+<p>“Demand for unified communications products and services has increased significantly over the last few years in Spain, and this transaction – together with our fibre-to-the-home build programme – will accelerate our ability to offer best-in-class propositions in the Spanish market. We look forward to welcoming the management and employees of Ono to Vodafone and working together to serve our customers across Spain.”</p>
+<p><script type="text/javascript"><!--//<![CDATA[
+					var m3_u = (location.protocol=='https:'?'https://servedby.informatm.com/ajs.php':'http://servedby.informatm.com/ajs.php');
+					var m3_r = Math.floor(Math.random()*99999999999);
+					if (!document.MAX_used) document.MAX_used = ',';
+					document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					document.write ("?zoneid=1724");
+					document.write ("&amp;tags=ono%2Cvittorio-colao%2Cvodafone");
+document.write ('&amp;cb=' + m3_r);
+					if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+					document.write ("&amp;loc=" + escape(window.location));
+					if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					if (document.context) document.write ("&context=" + escape(document.context));
+					if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					document.write ("'></scr"+"ipt>");
+				//]]&gt;--></script><br/>
+<noscript><a _blank'="" href="https://servedby.informatm.com/ck.php?n=a7ee851c&amp;cb=1516881595753 target="><br/>
+<img alt="" border="0" src="https://servedby.informatm.com/avw.php?zoneid=1724&amp;cb=1516881595753&amp;n=a7ee851c"/></a><br/>
+</noscript></p>
+<p><script type="text/javascript"><!--//<![CDATA[
+					var m3_u = (location.protocol=='https:'?'https://servedby.informatm.com/ajs.php':'http://servedby.informatm.com/ajs.php');
+					var m3_r = Math.floor(Math.random()*99999999999);
+					if (!document.MAX_used) document.MAX_used = ',';
+					document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					document.write ("?zoneid=1728");
+					document.write ("&amp;tags=ono%2Cvittorio-colao%2Cvodafone");
+document.write ('&amp;cb=' + m3_r);
+					if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+					document.write ("&amp;loc=" + escape(window.location));
+					if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					if (document.context) document.write ("&context=" + escape(document.context));
+					if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					document.write ("'></scr"+"ipt>");
+				//]]&gt;--></script><br/>
+<noscript><a _blank'="" href="https://servedby.informatm.com/ck.php?n=ad21cf03&amp;cb=1511976769240 target="><br/>
+<img alt="" border="0" src="https://servedby.informatm.com/avw.php?zoneid=1728&amp;cb=1511976769240&amp;n=ad21cf03"/></a><br/>
+</noscript></p>
+<p><script type="text/javascript"><!--//<![CDATA[
+					var m3_u = (location.protocol=='https:'?'https://servedby.informatm.com/ajs.php':'http://servedby.informatm.com/ajs.php');
+					var m3_r = Math.floor(Math.random()*99999999999);
+					if (!document.MAX_used) document.MAX_used = ',';
+					document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					document.write ("?zoneid=1727");
+					document.write ("&amp;tags=ono%2Cvittorio-colao%2Cvodafone");
+document.write ('&amp;cb=' + m3_r);
+					if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+					document.write ("&amp;loc=" + escape(window.location));
+					if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					if (document.context) document.write ("&context=" + escape(document.context));
+					if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					document.write ("'></scr"+"ipt>");
+				//]]&gt;--></script><br/>
+<noscript><a _blank'="" href="https://servedby.informatm.com/ck.php?n=a1a9ef58&amp;cb=1511976697757 target="><br/>
+<img alt="" border="0" src="https://servedby.informatm.com/avw.php?zoneid=1727&amp;cb=1511976697757&amp;n=a1a9ef58"/></a><br/>
+</noscript></p>
+<p>
+								ICYMI: Iacono exits Lionsgate International, Kapouranis takes over. <a href="https://twitter.com/search?q=%23TVNews">#TVNews</a> <a href="https://t.co/sZ9MExEbma">https://t.co/sZ9MExEbma</a> <a href="https://t.co/GWoQBwnOXt">https://t.co/GWoQBwnOXt</a><br/>
+<small class="timestamp">20 October 2018 @ 17:00:00 UTC</small>
+</p>
+<p>
+								"55% of our respondents believe that the ris<a href="https://twitter.com/search?q=%23SVOD">#SVOD</a>#SVODplayers has had the biggest impact on their business"<a href="https://t.co/yx3fd9O72E">https://t.co/yx3fd9O72E</a>3fd9O72E<br/>
+<small class="timestamp">20 October 2018 @ 14:00:00 UTC</small>
+</p>
+<p>
+<a href="https://twitter.com/search?q=%23MIPCOM">#MIPCOM</a> 2018: The Inside Scoop. <a href="https://twitter.com/search?q=%23TBIWeekly">#TBIWeekly</a> <a href="https://t.co/o8oenWEUN6">https://t.co/o8oenWEUN6</a> <a href="https://t.co/Fcm6ipyAfX">https://t.co/Fcm6ipyAfX</a><br/>
+<small class="timestamp">20 October 2018 @ 12:00:01 UTC</small>
+</p>
+<p>
+								Exclusive: Formats watchdog fires warning shot at <a href="https://twitter.com/search?q=%23MIPCOM">#MIPCOM</a> organisers. <a href="https://twitter.com/search?q=%23TopStoriesOfTheWeek">#TopStoriesOfTheWeek</a>h<a href="https://t.co/EtzaOb2fuW">https://t.co/EtzaOb2fuW</a>h<a href="https://t.co/vJkQ3JhWSe">https://t.co/vJkQ3JhWSe</a><br/>
+<small class="timestamp">20 October 2018 @ 09:00:00 UTC</small>
+</p>
+<p>
+								Exclusive: <a href="http://twitter.com/netflix">@netflix</a> hires former Channel 4 commissioner. <a href="https://twitter.com/search?q=%23TopStoriesOfTheWeek">#TopStoriesOfTheWeek</a> <a href="https://twitter.com/search?q=%23SVOD">#SVOD</a> <a href="https://t.co/bFvoYH9nTM">https://t.co/bFvoYH9nTM</a> <a href="https://t.co/XNXVxv2Ogq">https://t.co/XNXVxv2Ogq</a><br/>
+<small class="timestamp">20 October 2018 @ 08:00:01 UTC</small>
+</p>
+<p><script type="text/javascript"><!--//<![CDATA[
+					var m3_u = (location.protocol=='https:'?'https://servedby.informatm.com/ajs.php':'http://servedby.informatm.com/ajs.php');
+					var m3_r = Math.floor(Math.random()*99999999999);
+					if (!document.MAX_used) document.MAX_used = ',';
+					document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					document.write ("?zoneid=1726");
+					document.write ("&amp;tags=ono%2Cvittorio-colao%2Cvodafone");
+document.write ('&amp;cb=' + m3_r);
+					if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+					document.write ("&amp;loc=" + escape(window.location));
+					if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					if (document.context) document.write ("&context=" + escape(document.context));
+					if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					document.write ("'></scr"+"ipt>");
+				//]]&gt;--></script><br>
+<noscript><a _blank'="" href="https://servedby.informatm.com/ck.php?n=a525561b&amp;cb=1512038060183 target="><br>
+<img alt="" border="0" src="https://servedby.informatm.com/avw.php?zoneid=1726&amp;cb=1512038060183&amp;n=a525561b"/></br></a><br>
+</br></noscript></br></p>

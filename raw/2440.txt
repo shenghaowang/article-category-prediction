@@ -1,0 +1,21 @@
+<p>Nutrition and weight loss firm Herbalife Ltd said that the US Federal Trade Commission has initiated an inquiry into the business, Reuters reported. News of the investigation, which has long been asked for by billionaire activist investor William Ackman, caused the company's share price to plummet by over 16% for a brief period.</p>
+<p></p>
+<p>For the past few months, Pershing Square Capital Management's Ackman has asked watchdogs to look into how Herbalife makes money. The billionaire investor alleged that Herbalife was engaged in a "pyramid scheme," a business model wherein a firm earns not by selling their products to actual clients but by getting new distributors to their team, the report said.</p>
+<p>Los Angeles-based Herbalife said it will be working with the regulator. In a statement, the company said, "Herbalife welcomes the inquiry given the tremendous amount of misinformation in the marketplace. We are confident that Herbalife is in compliance with all applicable laws and regulations."</p>
+<p>Since the middle of 2012, Ackman has made a $1.16 billion short bet on Herbalife because of his claim on the company's distribution model. However, he has so far lost money on the short since other activist investors like Carl Icahn have expressed their support for Herbalife. This week, the company said Ackman's crusade was "an unfounded, relentless and fraudulent public attack." In a March 10 statement, Herbalife defended their business model, saying, "There has never been merit to his accusations."</p>
+<p>Meanwhile, Democrat Senator Edward Markey of Massachusetts urged regulators to look into Herbalife less than a couple of months ago after his constituents told him that they had allegedly become victims of the company and lost thousands of dollars because of it. Herbalife distributors are depicted in online presentations as living luxurious lifestyles because of the success they had selling its products. However, detractors like Ackman said there is no truth to these claims, the report said.</p>
+<p>Sign up for our Deals of the Day newsletter.<br/>We will not spam you!</p>
+<p>Everything went well, You are now subscribed!</p>
+<p class="sub-name">
+<label for="subscribe-name">Name:</label>
+<input id="subscribe-name" name="name" placeholder="Your Name" type="text" value=""/>
+</p>
+<p class="sub-email">
+<label for="subscribe-email">E-mail:</label>
+<input id="subscribe-email" name="email" placeholder="Your E-mail" type="text" value=""/>
+<input name="nl" type="hidden" value="3">
+</input></p>
+<p class="sub-submit">
+<input id="articlesubmit" name="subscribe-submit" type="submit" value="Subscribe"/>
+</p>
+<p><img alt="Clicky" height="1" src="//in.getclicky.com/66631289ns.gif" width="1"/></p>

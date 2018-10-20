@@ -1,0 +1,37 @@
+<p>LONDON – Britain’s finance ministry is set to name a new Bank of England deputy governor for monetary policy to replace Charlie Bean on Tuesday, a source familiar with the appointments process said.</p>
+<p>BoE Governor Mark Carney is due to give a speech at 1805 GMT on Tuesday announcing wide-ranging changes to the Bank’s organisation, including details of a separate new post of deputy governor responsible for markets and banking.</p>
+<p>“The Treasury is likely to announce the new deputy governor for monetary policy before Mr Carney’s speech,” the source said.</p>
+<p>Britain’s finance ministry has advertised for a successor to Bean, who retires on June 30.</p>
+<p>The BoE’s chief economist, Spencer Dale, is the favourite to succeed Bean, according to bookmakers Paddy Power, although other recent senior appointments – including that of Carney himself – have not gone to BoE insiders.</p>
+<p>Carney is also keen to have more women in senior positions at the BoE. None currently serve on the nine-member Monetary Policy Committee that sets interest rates.</p>
+<p>The Bank of England declined to comment on when the appointment would be announced.</p>
+<p>The world just can’t get enough chocolate.</p>
+<p>
+<form action="https://www.moneyweb.co.za/wp-login.php" id="loginform-custom" method="post" name="loginform-custom">
+<p class="login-username">
+<label for="user_login">Username</label>
+<input class="input" id="user_login" name="log" size="20" type="text" value="">
+</input></p>
+<p class="login-password">
+<label for="user_pass">Password</label>
+<input class="input" id="user_pass" name="pwd" size="20" type="password" value="">
+</input></p>
+<p class="login-remember"><label><input id="rememberme" name="rememberme" type="checkbox" value="forever"> Remember Me</input></label></p>
+<p class="login-submit">
+<input class="button button-primary" id="wp-submit" name="wp-submit" type="submit" value="Sign In">
+<input name="redirect_to" type="hidden" value="https://www.moneyweb.co.za/archive/uk-to-name-next-boe-deputy-governor/"/>
+</input></p>
+</form><div class="forgot-password-link"><a href="https://www.moneyweb.co.za/moneyweb-insider/my-account/lost-password/" title="Forgot password">Forgot password</a></div></p>
+<p class="login-username">
+<label for="user_login">Username</label>
+<input class="input" id="user_login" name="log" size="20" type="text" value="">
+</input></p>
+<p class="login-password">
+<label for="user_pass">Password</label>
+<input class="input" id="user_pass" name="pwd" size="20" type="password" value="">
+</input></p>
+<p class="login-remember"><label><input id="rememberme" name="rememberme" type="checkbox" value="forever"> Remember Me</input></label></p>
+<p class="login-submit">
+<input class="button button-primary" id="wp-submit" name="wp-submit" type="submit" value="Sign In">
+<input name="redirect_to" type="hidden" value="https://www.moneyweb.co.za/archive/uk-to-name-next-boe-deputy-governor/"/>
+</input></p>

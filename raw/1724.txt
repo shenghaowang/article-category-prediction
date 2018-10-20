@@ -1,0 +1,19 @@
+<p>Sign up for our daily newsletter</p>
+<p class="block-title">Sections</p>
+<p> <span class="articleLocatio&lt;/span&gt;n">Mt. Gox, a leading bitcoin exchange that late last month filed for <span class="mandelbrot_refrag"><span class="mandelbrot_refrag">bankruptcy</span></span> protection, updated its website on Tuesday to allow customers to log in and verify their wallet, or account, balance.</span></p>
+<p>The website, which went blank just over three weeks ago, had previously posted occasional updates on Mt. Gox's civil rehabilitation process - a legal procedure that may allow Mt. Gox to rebuild and pay back some of its creditors - as well as a warning that some spam or phishing emails purporting to be from the exchange were in circulation.</p>
+<p>Mt. Gox filed for <span class="mandelbrot_refrag"><span class="mandelbrot_refrag">bankruptcy</span></span> protection in <span class="mandelbrot_refrag"><span class="mandelbrot_refrag">Japan</span></span> on 28 February, saying it may have lost 850,000 bitcoins - worth around £313 million at current prices - to hackers.</p>
+<p>A spokesperson reached via a helpline for Mt. Gox creditors confirmed that Mt. Gox set up the log-in, based on the last available data from the exchange's servers before they shut down.</p>
+<p>Leaked information from various hacking attacks on Mt. Gox servers and CEO Mark Karpeles' personal blog and Reddit account have been released in recent weeks, and one file purporting to be the company's internal database contained malware that could steal bitcoins once downloaded.</p>
+<p>Besides the log-in option, the Mt. Gox homepage carried a statement in English and Japanese saying: "Please be aware that confirming the balance on this site does not constitute a filing of rehabilitation claims under the civil rehabilitation procedure and note that the balance amounts shown on this site should also not be considered an acknowledgment by Mt. Gox of the amount of any rehabilitation claims of users." </p>
+<p class="group-label"><span>Read more about</span></p>
+<p>Get FREE weekly newsletters from ITPro - delivering the latest news, reviews, insight and case studies.</p>
+<p class="text-right"><a class="newsletter-button newsletter-signup-link" href="https://dennispublishing.emsecure.net/optiext/optiextension.dll?ID=7YU9UrD0j%2BCrEhwU%2By_bW10M4SHRn1coQ22JBsRdujZgYAU2Hle9zlQxbaxDhzsc9V4D8KVyVk&amp;BRANDS_NEWSLETTERIDS=CLP_STD,ALP_CLD,CHP_STD&amp;NEWSLETTER_ID=ITP_STD&amp;utm_source=itpro.co.uk&amp;utm_medium=referral&amp;utm_campaign=web0003itp&amp;BRAND_CODE=ITP" rel="lightframe[|width:600px; height:700px; scrolling: auto;] nofollow">Click here</a></p>
+<p class="block-title"><span>Contact us</span></p>
+<p>Dennis Publishing Editorial Offices<br/>
+30 Cleveland Street<br/>
+London, W1T 4JD<br/>
+T: +44 (0)20 7907 6000<br/></p>
+<p class="block-title">Useful links</p>
+<p class="block-title">Our Websites</p>
+<p>© Copyright <a href="http://www.dennis.co.uk/" rel="nofollow" title="Hyperlink to The Dennis Publishing web site"><span>Dennis Publishing</span></a> Limited. Under licence from Felix Dennis.</p>

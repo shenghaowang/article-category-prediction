@@ -1,0 +1,33 @@
+<p>The Public Accounts Committee has estimated that unexpected charges may eliminate five years’ worth of the new network’s supposed price benefits</p>
+<p>The Shanghai factory is expected to double Tesla’s manufacturing capacity, while cutting prices in the world’s biggest market for electric vehicles</p>
+<p>The company has revamped its privacy site for users in the US and some other countries as it prepares to extend GDPR controls worldwide</p>
+<p>Publishes data sets of millions of tweets, images and videos from accounts linked to Russia and Iran</p>
+<p>Antitrust response. Android apps such as Chrome, Gmail etc will require device makers in Europe to pay licence fee</p>
+<p>Bad day at the office for Ginni Rometty as IBM financials shrink yet again, as software sales stutter</p>
+<p>Two year since its launch, NCSC helped the UK against almost 1,200 cyber attacks, most carried out by hostile nation states</p>
+<p>US election clampdown, but meantime in the UK it pledges to make political adverts “transparent”</p>
+<p>Another tech titan passes away, after co-founder of Microsoft, Paul Allen, dies aged just 65</p>
+<p>Sensitive British defence data has been exposed in multiple breaches in 2017, heavily redacted incident reports show</p>
+<p>Alphabet boss tells US senators that firm is considering China re-entry, but declines to address censorship concerns</p>
+<p>Social network revises down the number of accounts affected, but still doesn’t offer fraud protection</p>
+<p>Mobile boss touts foldable device that can be used as a tablet before being folded into portable phone</p>
+<p>Facebook is deleting hundreds of American accounts and pages for “inauthentic activity”</p>
+<p>Google ‘hangouts’ its social network experiment, leaving consumers with less than a year before switch off</p>
+<p>André Stewart, head of EMEA for Californian cloud security firm Netskope, talks about using artificial intelligence to fight cybercrime, the history of French cycling — and his passion for battery tech</p>
+<p>Facebook says Portal was designed with privacy in mind — but that’s not necessarily so for the Facebook Messenger infrastructure it’s built on </p>
+<p>Developers will now be able to automate workflow processes by running actions directly on the site — as well as sharing actions with more than 31 million other users</p>
+<p>The company has revamped its privacy site for users in the US and some other countries as it prepares to extend GDPR controls worldwide</p>
+<p>Bad day at the office for Ginni Rometty as IBM financials shrink yet again, as software sales stutter</p>
+<p>The Public Accounts Committee has estimated that unexpected charges may eliminate five years’ worth of the new network’s supposed price benefits</p>
+<p>André Stewart, head of EMEA for Californian cloud security firm Netskope, talks about using artificial intelligence to fight cybercrime, the history of French cycling — and his passion for battery tech</p>
+<p>Xilinx is looking to take large-scale, cutting-edge workloads to the next level with its upcoming family of programmable hardware accelerators</p>
+<p>Collision course set for most populous US state and FCC, after governor officially adopts ‘net neutrality’ laws</p>
+<p>Frustrated at lack of progress towards universal phone charger, EU to consider whether to take action</p>
+<p>No more worry about cooling costs, when you sink a data centre deep within the ocean, claims Microsoft</p>
+<p>Teams up with E.ON for tool to work out cost savings for individual roof structures fitted with solar panels</p>
+<p>Expanded audit finds higher number of serious labour and environmental violations, but overall compliance has improved</p>
+<p style="display: none;"><input id="poll_129_nonce" name="wp-polls-nonce" type="hidden" value="98311de52b"/></p>
+<p style="display: none;"><input name="poll_id" type="hidden" value="129"/></p>
+<p style="text-align: center;"><strong>Do you consider WhatsApp as a professional tool?</strong></p>
+<p style="text-align: center;"><input class="Buttons" name="vote" onclick="poll_vote(129);" type="button" value="   Vote   "/></p>
+<p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(129); return false;" title="View Results Of This Poll">View Results</a></p>

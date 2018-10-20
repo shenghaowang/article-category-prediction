@@ -1,0 +1,17 @@
+<p class="videoTitle">LA Suing Time Warner Over Unpaid Fees</p>
+<p class="boxLabel"> Link to this video </p>
+<p class="boxLabel"> Embed this video </p>
+<p class="replayButton"><a href="#" onclick="return false;">Replay</a></p>
+<p class="related"> More videos (1 of 9)</p>
+<p class="paragraph" data-pnum="1">Cable provider Time Warner owes the city almost $10 million in franchise fees for the years 2008-11, the Los Angeles City Attorney charged in a federal lawsuit.</p>
+<p class="paragraph" data-pnum="2">Time Warner, which makes billions of dollars in the Los Angeles market, is “stiffing” the city by not turning over the funds in 2011, City Attorney Mike Feuer said.</p>
+<p class="paragraph" data-pnum="3"><ul><li><a href="http://www.nbclosangeles.com/mobile/?fullSite=y"><strong>Download the FREE NBCLA News app</strong></a></li></ul></p>
+<p class="paragraph" data-pnum="4">The fees would have funded police officers and sidewalk repairs, he said.</p>
+<p class="paragraph" data-pnum="5">Time Warner officials denied any wrongdoing.</p>
+<p class="paragraph" data-pnum="6">“As a major job creator, tax contributor and service provider in the city of Los Angeles, Time Warner Cable is an active and responsible corporate citizen in the city of Los Angeles,” according to a company statement. “We are disappointed the city has chosen to bring this action, which we strongly believe is without merit.</p>
+<p class="paragraph" data-pnum="7">“It will now be resolved through the legal process.”</p>
+<p class="paragraph" data-pnum="8">Time Warner is required to pay the city a franchise fee to install cable wires and boxes under city streets, on telephone poles and elsewhere in the “public-right-of-way,” Feuer said.</p>
+<p class="paragraph" data-pnum="9">The cable provider was also required until 2009 to pay a fee toward providing public, governmental and education television programming, including allowing the public use of its studios, Feuer said.</p>
+<p class="paragraph" data-pnum="10">Time Warner has refused to pay $9.7 million in franchise and other fees owed from 2008 until 2011, despite attempts to resolve the dispute “amicably,” Feuer said.</p>
+<p class="paragraph" data-pnum="11">“We're filing litigation not as a first resort, but as a last resort,” he said.</p>
+<p>  </p>

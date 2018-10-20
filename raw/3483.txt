@@ -1,0 +1,3 @@
+<p class="sd-news-author">by GREG KELLER, Associated Press</p>
+<p class="sd-news-date" data-date="1394521200000"></p>
+<p></p>

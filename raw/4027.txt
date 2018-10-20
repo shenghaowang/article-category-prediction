@@ -1,0 +1,117 @@
+<p><strong>Yet another stunning camera, yet another boring design</strong></p>
+<p class="city" id="city"></p>
+<p><p><strong>Beijing: </strong>Common interests between China and the United States far outweigh the countries' differences, Chinese Premier Li Keqiang said Thursday, sounding a cordial note following a minor spat over President Barack Obama's recent meeting with the Dalai Lama.</p>
+<p>Li told reporters that the two nations could do much more to further "unleash the potential" of bilateral cooperation and build on their already massive $520 billion in annual bilateral trade.</p>
+<p>He cited a Chinese saying that "wise people will seek common interests, while the unwise will focus on their differences."</p>
+<p>"China and the United States need to focus more on common ground in pursuit of long-term benefits," Li said at a news conference after the close of the annual meeting of the country's legislature.</p>
+<div class="wp-caption alignleft" id="attachment_1421829" style="width: 390px"><img alt="Representational Image. AP. " class="size-full wp-image-1421829" height="285" src="https://images.firstpost.com/wp-content/uploads/2014/03/China-US-Hacking_AP.jpg" width="380"/><p class="wp-caption-text">Representational Image. AP.</p></div>
+<p>Li did not mention Obama's meeting late last month with the Dalai Lama, the exiled Tibetan spiritual leader, whom Beijing denounces as a separatist. The meeting prompted swift and vehement protests from China.</p>
+<div class="between-300x250" id="FirstPost_Wap_New/FirstPost_Wap_New_World/FirstPost_Wap_New_World_Internal/FirstPost_Wap_New_World_Internal_Between_Sections_300x250_2" style="text-align: center;"><div class="ad-section text-center">
+<script type="text/javascript">
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        adKey = "FirstPost_Wap_New/FirstPost_Wap_New_World/FirstPost_Wap_New_World_Internal/FirstPost_Wap_New_World_Internal_Between_Sections_300x250_2";
+        if (width >= 768 && (adKey.indexOf("FirstPost") != -1 || adKey.indexOf("Tech") != -1) && adKey.indexOf("FirstPost_Wap_New") < 0) {
+            googletag.cmd.push(function() { googletag.display("FirstPost_Wap_New/FirstPost_Wap_New_World/FirstPost_Wap_New_World_Internal/FirstPost_Wap_New_World_Internal_Between_Sections_300x250_2") });
+        }
+
+        if (width < 768 && adKey.indexOf("FirstPost_Wap_New") != -1) {
+            googletag.cmd.push(function() { googletag.display("FirstPost_Wap_New/FirstPost_Wap_New_World/FirstPost_Wap_New_World_Internal/FirstPost_Wap_New_World_Internal_Between_Sections_300x250_2") });
+        }
+
+    </script>
+</div></div><p>Relations between China and the US have been stable in recent months despite tensions between Beijing and American allies in the region, especially Japan and the Philippines.</p>
+<p>Li reiterated that China has "an abiding commitment" to peace in the region, but also an "unshakable will in safeguarding China's sovereignty and territorial integrity."</p>
+<div id="FirstPost_Wap_New/FirstPost_Wap_New_ROS/FirstPost_Wap_New_ROS_Native_320x100" style="text-align: center;">
+<div class="ad-section text-center">
+<script type="text/javascript">
+        var width = window.innerWidth || document.documentElement.clientWidth;
+        adKey = "FirstPost_Wap_New/FirstPost_Wap_New_ROS/FirstPost_Wap_New_ROS_Native_320x100";
+        if (width >= 768 && (adKey.indexOf("FirstPost") != -1 || adKey.indexOf("Tech") != -1) && adKey.indexOf("FirstPost_Wap_New") < 0) {
+            googletag.cmd.push(function() { googletag.display("FirstPost_Wap_New/FirstPost_Wap_New_ROS/FirstPost_Wap_New_ROS_Native_320x100") });
+        }
+
+        if (width < 768 && adKey.indexOf("FirstPost_Wap_New") != -1) {
+            googletag.cmd.push(function() { googletag.display("FirstPost_Wap_New/FirstPost_Wap_New_ROS/FirstPost_Wap_New_ROS_Native_320x100") });
+        }
+
+    </script>
+</div></div><p>Obama met with Chinese President Xi Jinping for a rare private two-day summit last June designed to build a personal relationship between him and China's new leader, with the two hashing out thorny issues between their countries.</p>
+<p>China's rise to become the world's second-largest economy and its rapid military expansion have unnerved many in the US, while a large portion of the Chinese public believes Washington is intent on stifling China's gains.</p>
+<p>However, ties have continued apace, and first Lady Michelle Obama is due to arrive next Thursday for a weeklong visit to China, accompanied by her two daughters.</p>
+<p><strong>Associated Press</strong></p>
+<br/>
+</p>
+<p><strong>Beijing: </strong>Common interests between China and the United States far outweigh the countries' differences, Chinese Premier Li Keqiang said Thursday, sounding a cordial note following a minor spat over President Barack Obama's recent meeting with the Dalai Lama.</p>
+<p>Li told reporters that the two nations could do much more to further "unleash the potential" of bilateral cooperation and build on their already massive $520 billion in annual bilateral trade.</p>
+<p>He cited a Chinese saying that "wise people will seek common interests, while the unwise will focus on their differences."</p>
+<p>"China and the United States need to focus more on common ground in pursuit of long-term benefits," Li said at a news conference after the close of the annual meeting of the country's legislature.</p>
+<p class="wp-caption-text">Representational Image. AP.</p>
+<p>Li did not mention Obama's meeting late last month with the Dalai Lama, the exiled Tibetan spiritual leader, whom Beijing denounces as a separatist. The meeting prompted swift and vehement protests from China.</p>
+<p>Relations between China and the US have been stable in recent months despite tensions between Beijing and American allies in the region, especially Japan and the Philippines.</p>
+<p>Li reiterated that China has "an abiding commitment" to peace in the region, but also an "unshakable will in safeguarding China's sovereignty and territorial integrity."</p>
+<p>Obama met with Chinese President Xi Jinping for a rare private two-day summit last June designed to build a personal relationship between him and China's new leader, with the two hashing out thorny issues between their countries.</p>
+<p>China's rise to become the world's second-largest economy and its rapid military expansion have unnerved many in the US, while a large portion of the Chinese public believes Washington is intent on stifling China's gains.</p>
+<p>However, ties have continued apace, and first Lady Michelle Obama is due to arrive next Thursday for a weeklong visit to China, accompanied by her two daughters.</p>
+<p><strong>Associated Press</strong></p>
+<p>                       Updated Date: Mar 13, 2014 12:39 PM
+                                            </p>
+<p>Donald Trump administration announces measures to restrict nuclear technology exports to China</p>
+<p>Over 60,000 Indians received green cards in 2017; number drops marginally from 2016</p>
+<p>Countries including US, China tentatively agree to multilateral air encounter code</p>
+<p>James Mattis says US concerned with Beijing's continued militarisation in South China Sea, 'predatory economic behaviour'</p>
+<p>Amritsar train tragedy: How poor crowd management, official apathy and overcrowding led to Dussehra disaster</p>
+<p>Bhima Koregaon violence: While activists' arrests make headlines, Telangana workers jailed for similar charges languish</p>
+<p>#MeToo and mental heath: Notes on surviving this harrowing news cycle, from those who've been there</p>
+<p>Shazia Iqbal questions MAMI over dropping her short film; says it's 'collateral damage' of #MeToo movement</p>
+<p>Sensex plummets 464 points to close at  34,316 on liquidity concerns, Nifty down 149 points; RIL, NBFC shares drag</p>
+<p>Jammu and Kashmir urban local body polls: BJP trounces Congress in its bastions, wins from many militancy-hit areas</p>
+<p>Asian Champions Trophy 2018, India vs Pakistan, Live score and updates: Harendra Singh's team look to maintain winning run</p>
+<p>Finding Durga: As Pujo ends, a Kolkata photographer seeks the goddess in the everyday</p>
+<p>छत्तीसगढ़ चुनाव 2018: BJP ने 77 उम्मीदवारों की लिस्ट जारी की, CEC बैठक में नामों पर लगी मुहर</p>
+<p>तेलंगाना विधानसभा चुनाव: बीजेपी ने जारी की पहली लिस्ट, 38 उम्मीदवारों के नाम शामिल</p>
+<p>मिजोरम विधानसभा चुनाव 2018: बीजेपी ने जारी की 13 उम्मीदवारों के नाम की पहली लिस्ट</p>
+<p>J&amp;K निकाय चुनाव 2018: नतीजे घोषित, PDP-NC के बॉयकॉट से BJP-कांग्रेस ने झंडे गाड़े</p>
+<p>अमृतसर रेल हादसा Updates: रेलवे ट्रैक के पास रावण दहन के लिए आयोजकों को पुलिस ने दी थी इजाजत</p>
+<p>Pakistan Women and Australia Women in Malaysia, 3 ODI series 2018</p>
+<p>PAKW Vs AUSW</p>
+<p> <a href="/firstcricket/cricket-live-score/pakistan-women-vs-australia-women-odi-live-cricket-score-full/3072/187398.html">Australia Women beat Pakistan Women by 150 runs</a></p>
+<p>Pakistan Women and Australia Women in Malaysia, 3 ODI series 2018</p>
+<p>PAKW Vs AUSW</p>
+<p> <a href="/firstcricket/cricket-live-score/pakistan-women-vs-australia-women-odi-live-cricket-score-full/3072/187396.html">Australia Women beat Pakistan Women by 5 wickets</a></p>
+<p>England in Sri Lanka, 5 ODI Series, 2018</p>
+<p>SL Vs ENG</p>
+<p> <a href="https://www.firstpost.com/firstcricket/sports-news/sri-lanka-vs-england-live-cricket-score-4th-odi-at-pallekele-5413811.html">England beat Sri Lanka by 18 runs (D/L method)</a></p>
+<p>England in Sri Lanka, 5 ODI Series, 2018</p>
+<p>SL Vs ENG</p>
+<p> <a href="/firstcricket/cricket-live-score/sri-lanka-vs-england-odi-ball-by-ball-commentary/2966/186483.html">England beat Sri Lanka by 7 wickets</a></p>
+<p>Pakistan and Australia in UAE, 2 Test Series, 2018</p>
+<p>PAK Vs AUS</p>
+<p> <a href="/firstcricket/cricket-live-score/pakistan-vs-australia-test-ball-by-ball-commentary/3085/187594.html">Pakistan beat Australia by 373 runs</a></p>
+<p>Zimbabwe in South Africa, 3 T20I Series, 2018</p>
+<p>SA Vs ZIM</p>
+<p> <a href="https://www.firstpost.com/firstcricket/sports-news/south-africa-vs-zimbabwe-live-cricket-score-3rd-t20i-at-benoni-5377301.html">Match Abandoned</a></p>
+<p><a href="/firstcricket/cricket-live-score/india-vs-west-indies-odi-live-cricket-score-full/3098/187757.html">West Indies in India, 5 ODI Series, 2018</a></p>
+<p>IND vs WI - Oct 21st, 2018, 01:30 PM IST</p>
+<p><a href="/firstcricket/cricket-live-score/bangladesh-vs-zimbabwe-odi-live-cricket-score-full/3061/187312.html">Zimbabwe in Bangladesh, 3 ODI Series, 2018</a></p>
+<p>BAN vs ZIM - Oct 21st, 2018, 02:00 PM IST</p>
+<p><a href="/firstcricket/cricket-live-score/united-arab-emirates-vs-australia-t20-live-cricket-score-full/3127/188625.html">Australia in UAE, Only T20 International, 2018</a></p>
+<p>UAE vs AUS - Oct 22nd, 2018, 03:30 PM IST</p>
+<p><a href="/firstcricket/cricket-live-score/sri-lanka-vs-england-odi-live-cricket-score-full/2966/186485.html">England in Sri Lanka, 5 ODI Series, 2018</a></p>
+<p>SL vs ENG - Oct 23rd, 2018, 02:30 PM IST</p>
+<p><a href="/firstcricket/cricket-live-score/india-vs-west-indies-odi-live-cricket-score-full/3098/187759.html">West Indies in India, 5 ODI Series, 2018</a></p>
+<p>IND vs WI - Oct 24th, 2018, 01:30 PM IST</p>
+<p><a href="/firstcricket/cricket-live-score/bangladesh-vs-zimbabwe-odi-live-cricket-score-full/3061/187313.html">Zimbabwe in Bangladesh, 3 ODI Series, 2018</a></p>
+<p>BAN vs ZIM - Oct 24th, 2018, 02:00 PM IST</p>
+<p><a href="/firstcricket/cricket-live-score/pakistan-vs-australia-t20-live-cricket-score-full/3086/187595.html">Pakistan and Australia in UAE, 3 T20I Series, 2018</a></p>
+<p>PAK vs AUS - Oct 24th, 2018, 09:30 PM IST</p>
+<p><a href="/firstcricket/cricket-live-score/bangladesh-vs-zimbabwe-odi-live-cricket-score-full/3061/187314.html">Zimbabwe in Bangladesh, 3 ODI Series, 2018</a></p>
+<p>BAN vs ZIM - Oct 26th, 2018, 02:00 PM IST</p>
+<p><a href="/firstcricket/cricket-live-score/pakistan-vs-australia-t20-live-cricket-score-full/3086/187596.html">Pakistan and Australia in UAE, 3 T20I Series, 2018</a></p>
+<p>PAK vs AUS - Oct 26th, 2018, 09:30 PM IST</p>
+<p><a href="/firstcricket/cricket-live-score/india-vs-west-indies-odi-live-cricket-score-full/3098/187761.html">West Indies in India, 5 ODI Series, 2018</a></p>
+<p>IND vs WI - Oct 27th, 2018, 01:30 PM IST</p>
+<p class="inline">Copyright © 2018. Firstpost - All Rights Reserved.</p>
+<p class="inline">
+<a href="https://www.firstpost.com/terms-of-use">Terms of use</a>
+<a href="https://www.firstpost.com/privacy">Privacy</a>
+</p>

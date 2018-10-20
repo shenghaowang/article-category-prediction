@@ -1,0 +1,42 @@
+<p><a href="/login/">Log in or create an account</a></p>
+<p>A MarketBeat account allows you to set up a watchlist and receive notifications for stocks you are interested in. Follow up to five stocks for free.</p>
+<p class="answer" id="answer1" itemprop="text">Bon-Ton Stores trades on the OTCMKTS under the ticker symbol "BONT."</p>
+<p class="answer" id="answer2" itemprop="text">Bon-Ton Stores Inc (OTCMKTS:BONT) announced its quarterly earnings data on Thursday, August, 18th. The company reported ($1.95) earnings per share (EPS) for the quarter, missing the consensus estimate of ($1.75) by $0.20. The firm earned $542.40 million during the quarter, compared to analyst estimates of $556.96 million. <a href="https://www.marketbeat.com/stocks/OTCMKTS/BONT/earnings/">View Bon-Ton Stores' Earnings History</a>.</p>
+<p class="answer" id="answer4" itemprop="text">Shares of BONT can be purchased through any online brokerage account. Popular online brokerages with access to the U.S. stock market include Vanguard Brokerage Services, TD Ameritrade, E*TRADE, Scottrade, Fidelity and Charles Schwab. </p>
+<p class="answer" id="answer5" itemprop="text">One share of BONT stock can currently be purchased for approximately $0.0910.</p>
+<p class="answer" id="answer6" itemprop="text">Bon-Ton Stores has a market capitalization of $930,163.00 and generates $2.67 billion in revenue each year. Bon-Ton Stores employs 23,300 workers across the globe.</p>
+<p class="answer" id="answer7" itemprop="text">The official website for Bon-Ton Stores is <a href="http://www.bonton.com">http://www.bonton.com</a>. </p>
+<p class="answer" id="answer8" itemprop="text">Bon-Ton Stores' mailing address is 2801 E MARKET ST, YORK, PA 17402-2406, United States. The company can be reached via phone at +1-717-7577660 or via email at <a class="__cf_email__" data-cfemail="0a63784a6865647e65642469656724" href="/cdn-cgi/l/email-protection">[email protected]</a></p>
+<p class="col-md-4 col-md-offset-4">As Featured By:</p>
+<p class="tags">Popular Stocks:  <a href="/stocks/NASDAQ/AAPL/">AAPL</a> <a href="/stocks/NASDAQ/FB/">FB</a> <a href="/stocks/NASDAQ/MSFT/">MSFT</a> <a href="/stocks/NASDAQ/AMZN/">AMZN</a> <a href="/stocks/NASDAQ/GOOGL/">GOOGL</a> <a href="/stocks/NASDAQ/MU/">MU</a> <a href="/stocks/NASDAQ/NVDA/">NVDA</a> <a href="/stocks/NYSE/BABA/">BABA</a> <a href="/stocks/NYSE/GE/">GE</a> <a href="/stocks/NASDAQ/TSLA/">TSLA</a> </p>
+<p class="description">MarketBeat empowers individual investors to make better trading decisions by providing real-time financial data and objective market analysis. Whether you’re looking for analyst ratings, corporate buybacks, dividends, earnings, economic reports, financials, insider trades, IPOs, SEC filings or stock splits, MarketBeat has the objective information you need to analyze any stock.</p>
+<p class="subscribe-form">
+Get analysts' upgrades, downgrades and new coverage delivered to your email inbox with our free daily newsletter:
+</p>
+<p class="footer-follow">
+<span>
+<a href="https://twitter.com/RatingsNetwork" target="_blank" title="Follow us on Twitter">
+<span class="sprite sprite-follow-marketbeat-twitter"></span></a>
+<a href="https://www.facebook.com/marketbeatcom/" target="_blank" title="Follow us on Facebook">
+<span class="sprite sprite-follow-marketbeat-facebook"></span></a>
+<a href="https://stocktwits.com/AnalystRatingsNetwork" target="_blank" title="Follow us on Stocktwits">
+<span class="sprite sprite-follow-marketbeat-stocktwits"></span></a>
+<a href="https://plus.google.com/114849885938379193299/" target="_blank" title="Follow us on Google+">
+<span class="sprite sprite-follow-marketbeat-google-plus"></span></a>
+</span>
+</p>
+<p style="padding-top: 10px;">
+<a href="https://www.bbb.org/south-dakota/business-reviews/financial-consultants/marketbeatcom-in-sioux-falls-sd-300169555#bbbseal" target="_blank"><img alt="MarketBeat is accredited by the Better Business Bureau" src="/images/better-business-bureau-banner.png" title="MarketBeat is accredited by the Better Business Bureau" width="150"/></a>
+ 
+<a href="https://www.reviews.co.uk/company-reviews/store/marketbeat" target="_blank">
+<img alt="MarketBeat.com has been verified by Reviews.IO" src="https://www.marketbeat.com/images/reviews-trust-logo-3.png" title="MarketBeat.com has been independently reviewed by users on Reviews.IO" width="160"/></a>
+ 
+<a href="https://www.safesitecertified.org/members/verify.html?url=www.marketbeat.com/&amp;seal=3&amp;location=Theme&amp;member=f690cbc6&amp;page=" target="_blank">
+<img alt="MarketBeat.com has been verified as safe by PrivacyVerified" src="/images/privacyverified.png" title="MarketBeat.com has been verified as safe by PrivacyVerified" width="150"/></a>
+ 
+<a href="https://www.safesitecertified.org/members/verify.html?url=www.marketbeat.com/&amp;seal=2&amp;location=Theme&amp;member=f690cbc6" target="_blank">
+<img alt="MarketBeat.com has been verified by SafeSiteCertified" src="/images/safesitecertified.png" title="MarketBeat.com has been verified by SafeSiteCertified" width="150"/></a>
+</p>
+<p class="optinform-text-container">
+Enter your email address below to receive a concise daily summary of analysts' upgrades, downgrades and new coverage with MarketBeat.com's FREE daily email newsletter.
+</p>

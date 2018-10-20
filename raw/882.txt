@@ -1,0 +1,56 @@
+<p class="login-form__register-text">
+                Receive daily email alerts, subscriber notes &amp; personalize your experience.
+            </p>
+<p>Already have an account?</p>
+<p class="required-note"><span>*</span>Required</p>
+<p style="color: #ccc;font-style: italic;font-size:14px;">We generated a verification code for you</p>
+<p>Access latest agriculture news and analysis, conferences and events.</p>
+<p>Access latest coal news and analysis, conferences and events.</p>
+<p>Access latest power news and analysis, conferences and events.</p>
+<p>Access latest metal news and analysis, conferences and events.</p>
+<p>Access latest gas news and analysis, conferences and events.</p>
+<p>Access latest metal news and analysis, conferences and events.</p>
+<p>Access latest oil news and analysis, conferences and events.</p>
+<p>Access latest petrochemicals news and analysis, conferences and events.</p>
+<p>Access latest shipping news and analysis, conferences and events.</p>
+<p>
+                            Your registration is complete and your account is active. An email confirming your password has been sent. If you have any questions or concerns please contact <a class="contentlink" data-gtm-action="Registration" data-gtm-category="Registration/Login" data-gtm-label="Step 3_Support" href="mailto:support@platts.com">support@platts.com</a> or <a class="contentlink" data-gtm-action="Registration" data-gtm-category="Registration/Login" data-gtm-label="Step 3_Click Here" href="https://www.platts.com/contact">click here</a>
+</p>
+<p>Please Note: Platts Market Center subscribers can only reset passwords via the <a class="link" href="https://pmc.platts.com/Public/ForgotPassword.aspx">Platts Market Center</a></p>
+<p>Enter your Email ID below and we will send you an email with your password.</p>
+<p id="successMsg" style="display:none;">
+</p>
+<p>
+                If you are a premium subscriber, we are unable to send you your password for security reasons. Please contact the <a class="link" href="mailto:support@platts.com">Client Services team</a>.
+            </p>
+<p>
+                IF you are a Platts Market Center subscriber, to reset your password go to the�<a class="link" href="https://pmc.platts.com/Public/ForgotPassword.aspx">Platts Market Center</a> to reset your password.
+            </p>
+<p>Copper cathode stocks at China SHFE warehouses rise for 8th week</p>
+<p> Interview: Andrew Benjamin, Norvic Shipping</p>
+<p>Platts Market Data - Metals</p>
+<p>Aluminum Symposium</p>
+<p>South32's Australian metallurgical coal production surges 207% in Jul-Sep</p>
+<p>Copper cathode inventories at China's Shanghai Futures Stock Exchange warehouses rose for the eight straight week to 207,320 mt as of March 7, up 4.6% week on week, according to SHFE data released late Friday.</p>
+<p>
+    Receive daily email alerts, subscriber notes &amp; personalize your experience.
+  </p>
+<p>SHFE copper cathode stocks have been rising steadily since January 10, surging 70% from 122,189 mt at the time.</p>
+<p>The SHFE warehouses are located in Zhejiang, Jiangsu, Shanghai and Guangdong. They have a combined capacity to store 1.13 million mt of copper cathode, according to information on the SHFE website.</p>
+<p>Chinese industry analysts attributed the growing stockpiles to weak domestic consumption, pointing out that product from warehouses in the US and Europe were being shipped to China.</p>
+<p>
+<br/>"Copper inventories at overseas warehouses have been falling as they have been sent to China," Yang Jinjian, a commodity analyst with Northern Futures, said Monday.</p>
+<p>"Current copper consumption in China isn't good. We expect that by end March or early April, market players in the domestic downstream copper processing will start buying. But their purchase volume would be limited as they set their buying plans based on their products output, which is not so good," he said.</p>
+<p>March-June is the peak buying season for copper cathode in China, during which the downstream copper processing sector typically replenishes stock.</p>
+<p>Jack Yeung, a business professor at Hong Kong's City University, said: "Copper inventories at both Comex and London Metal Exchange warehouses have been falling in the past weeks, so contributing to the growing SHFE stocks."</p>
+<p>Chinese industry observers also pointed to a slowdown in Chinese economic growth, and tighter monetary policy which has spurred some state-owned enterprises to turn to collateralized borrowing, using copper as collateral.</p>
+<p>"Some of the loans are granted by non-bank financial companies, owing to the government's tightening on banks' lending. If this kind of shadow banking collapses in future, we don't rule out that copper inventories in China could keep growing," he said.</p>
+<p>In a commodity report issued Friday, Chinese metals consultancy Beijing Antaike said that copper trading companies were apathetic in trading, with consumption by the downstream copper processing sector remaining lackluster for the whole week.</p>
+<p>--Joshua Leung, <a href="mailto:newsdesk@platts.com">newsdesk@platts.com</a><br/>--Edited by Deepa Vijiyasingam, <a href="mailto:deepa.vijiyasingam@platts.com">deepa.vijiyasingam@platts.com</a></p>
+<p></p>
+<p>
+                            To continue reading you must login or register with us.
+                        </p>
+<p>
+                            It’s free and easy to do. Please use the button below and we will bring you back here when complete.
+                        </p>

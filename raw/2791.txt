@@ -1,0 +1,186 @@
+<p><script> 
+ var ssdl = ssdl || {}  
+ ssdl.editorialMetaData = { 'Country' : 'US', 
+'Region' : 'United_States', 
+'company' : '', 
+'sector' : 'Industry_Headlines', 
+'industry_sector' : '', 
+'audience' : '', 
+'content_type' : '', 
+'company_sentiment' : '', 
+'author' : 'Karen Boman', 
+'published_date' : '2014-03-10', 
+'tag' : 'Analysis_Trends', 
+'longevity' : '', 
+'content_origin' : '', 
+} 
+ </script></p>
+<p>Both the United States and Europe are united in seeing the need for international monitors in the Crimea and maintaining a dialogue with Russia following the country's invasion of Ukraine, but Europe’s close economic ties with Russia and dependence on Russian gas will make European leaders more reluctant to impose sanctions.</p>
+<p>Angela Stent, professor at Georgetown University and author of The Limits of Partnership: U.S.-Russian Relations in the Twenty-First Century, told IHS CERAWeek attendees that it’s unlikely Crimea will be a part of a territorially intact Ukraine if residents in Crimea vote for independence in the March 16 referendum. Stent and other international policy experts discussed geopolitical trends and the role of oil and gas in those trends – and the implications that geopolitics might have on oil and gas -- as the conference wrapped up on March 7.</p>
+<p>“The recent Ukrainian crisis feels like a cold war if you listen to the rhetoric of both sides, but it’s not the cold war,” said Stent. “We’re not ideological antagonists trying to carve up world between socialism and capitalism, our nuclear weapons are not pointedly targeted at each other anymore – and they could be.”</p>
+<p>In the Cold War era, Communist Russia wasn’t integrated into the global economy, so a Russian invasion of a country didn’t have much economic impact. But Russia’s recent move into the Ukraine is impacting Russia by depressing its stock market and value of the ruble. “This global integration works both ways,” said Stent. “While it can work against Russia, it also constrains European countries from the extent they can impose sanctions.”</p>
+<p>Differences have always existed within Ukraine, whose current borders were established following World War II. People from Western Ukraine, formerly part of Poland, speak Ukrainian and identify with Eastern Europe and don’t like the Russians, while those who live in eastern Ukraine speak Russian and identify with the former Soviet Union.</p>
+<p>In 1991, Ukraine voted to separate from Russia to become a sovereign country, and it was assumed that Ukraine would continue to exist as a nation with internal differences. However, existing weakness in Ukraine’s existing government structures in the past two decades, the government’s inability to create a functioning state and to create a national identity on which everyone agreed, gave Russian President Vladimir Putin an opportunity to invade Crimea, said Stent. Disgust over Ukraine’s previous government also has had some groups seeing an alignment with Russia as a better solution.</p>
+<p>Putin, who told former U.S. President George W. Bush in 2008 that he didn’t see Ukraine as a country, has invaded Crimea to prevent a territorially intact Ukraine from moving closer to the European Union’s orbit.</p>
+<p> <br class="clear"/>
+<div class="clear"></div><a class="articlePageNumCur">1</a><a class="articlePageNum" href="/news/oil_gas/a/132017/whats_next_on_the_geopolitical_horizon/?pgNum=1">2</a><a class="articlePageNum" href="/news/oil_gas/a/132017/whats_next_on_the_geopolitical_horizon/?pgNum=2">3</a><a class="articlePageNum" href="/news/oil_gas/a/132017/whats_next_on_the_geopolitical_horizon/?pgNum=3">4</a><a class="articlePageNum" href="/news/oil_gas/a/132017/whats_next_on_the_geopolitical_horizon/?pgNum=4">5</a><br/><br/><a href="/news/oil_gas/a/132017/whats_next_on_the_geopolitical_horizon//?all=HG2">View Full Article</a> <div id="social_bar">
+<div class="rz-social-wrapper">
+<!--Twitter Start-->
+<div class="rz-social-boxes">
+<a class="twitter-share-button" data-url="https://www.rigzone.com/news/oil_gas/a/132017/Whats_Next_on_the_Geopolitical_Horizon?utm_source=GLOBAL_ENG&amp;utm_medium=SM_TW&amp;utm_campaign=SHARE_DESKTOP" data-via="rigzone" href="https://twitter.com/share">Tweet</a>
+<script>
+            !function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+                if (!d.getElementById(id)) {
+                    js = d.createElement(s);
+                    js.id = id;
+                    js.src = p + '://platform.twitter.com/widgets.js';
+                    fjs.parentNode.insertBefore(js, fjs);
+                }
+            }(document, 'script', 'twitter-wjs');
+        </script>
+</div>
+<!--Facebook Start-->
+<div class="rz-social-boxes">
+<div id="fb-root"></div>
+<script>
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
+<div class="fb-share-button" data-href="https://www.rigzone.com/news/oil_gas/a/132017/Whats_Next_on_the_Geopolitical_Horizon?utm_source=GLOBAL_ENG&amp;utm_medium=SM_FB&amp;utm_campaign=SHARE_DESKTOP" data-layout="button_count"></div>
+</div>
+<!--Linkedin Start-->
+<div class="rz-social-boxes">
+<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script data-counter="right" data-url="https://www.rigzone.com/news/oil_gas/a/132017/Whats_Next_on_the_Geopolitical_Horizon?utm_source=GLOBAL_ENG&amp;utm_medium=SM_LI&amp;utm_campaign=SHARE_DESKTOP" type="IN/Share"></script>
+</div>
+<!--G+ Start-->
+<div class="rz-social-boxes">
+<script async="" defer="" src="https://apis.google.com/js/platform.js"></script>
+<div class="g-plus" data-action="share" data-annotation="bubble" data-href="https://www.rigzone.com/news/oil_gas/a/132017/Whats_Next_on_the_Geopolitical_Horizon?utm_source=GLOBAL_ENG&amp;utm_medium=SM_GP&amp;utm_campaign=SHARE_DESKTOP"></div>
+</div>
+<!--Reddit Start-->
+<div class="rz-social-boxes">
+<a href="//www.reddit.com/submit" onclick="window.location = '//www.reddit.com/submit?url=' + encodeURIComponent(window.location + '?utm_source=GLOBAL_ENG&amp;utm_medium=SM_RI&amp;utm_campaign=SHARE_DESKTOP'); return false;">
+<img alt="submit to reddit" border="0" src="//www.redditstatic.com/spreddit7.gif">
+</img></a>
+</div>
+<div class="rz-social-boxes">
+<div class="rz-email-print-button">
+<img alt="email" id="RZEmailSocial" onclick="_gaq.push(['_trackEvent', 'RZ-UI', 'In-Page-Functions', 'Email Button']); SocialBarEmail.toggleEmail('EmailPanel3');" src="https://images.rigzone.com/images/email-button.png"/>
+<a href="/News/Print/132017/Whats_Next_on_the_Geopolitical_Horizon" onclick="_gaq.push(['_trackEvent', 'RZ-UI', 'In-Page-Functions', 'Print Button']);" target="_blank">
+<img alt="print" id="RZPrintSocial" src="https://images.rigzone.com/images/print-button.png"/>
+</a>
+</div>
+</div>
+</div> <!-- rz-social-wrapper -->
+<script type="text/javascript">
+    $(function() {
+        //SocialBarEmail.init();
+    });
+</script>
+<div id="EmailPanel3" style="display: none">
+<div class="warning_small" id="spnOutputMessageEmail3" style="display: none;"></div>
+<form action="/news/commodity/customsearch/email/" class="basic-grey" id="FwdEmail3" method="post"> <input id="Emailtype" name="hdnEmailType" type="hidden" value=""/>
+<input id="hdnTypeID" name="hdnTypeID" type="hidden" value="132017"/>
+<input id="hdnEmailSubject" name="hdnEmailSubject" type="hidden" value="What's Next on the Geopolitical Horizon"/>
+<input id="hdnUserIP" name="hdnUserIP" type="hidden" value="182.55.219.90">
+<label>
+<span>Emails:</span>
+<input id="to_email" maxlength="150" name="to_email" type="text"/>
+<span class="instruction">
+                Separate multiple email addresses with semi-colon
+            </span>
+</label>
+<label>
+<span>Your Email:</span>
+<input id="From_Email" maxlength="75" name="From_Email" type="text"/>
+<span class="instruction">
+<input checked="" id="Include_Me" name="Include_Me" type="checkbox" value="true">Send email to me as well
+            </input></span>
+</label>
+<label>
+<span>Subject:</span>
+<input type="text" value="What's Next on the Geopolitical Horizon">
+</input></label>
+<label>
+<span>Comments:</span>
+<textarea id="UserText" name="UserText" onkeyup="return SocialBarEmail.EmailDisplayCount(this, 'cntUserText3');"></textarea>
+<span class="instruction">200 character limit. </span><span id="cntUserText3"></span>
+</label>
+<div class="g-recaptcha" data-sitekey="6Leo1BkTAAAAAMYTq_G-8vpIQkdWsZK3WzfOu12d"></div>
+<label>
+<span> </span>
+<input class="button" onclick="SocialBarEmail.ForwardArticleEmail('FwdEmail3', 'EmailPanel3', 'spnOutputMessageEmail3')" type="button" value="Send Email">
+</input></label>
+</input></form></div>
+</div>
+<script type="text/javascript">
+        if (adScreenSize < AdSizeShow1) {
+            document.write('<div id="div-gpt-ad-leader" class="mobileAd">');
+           document.write('</div>');
+           googletag.cmd.push(function () { googletag.display('div-gpt-ad-leader'); });
+        }
+</script>
+<!--Comments-->
+<br class="clear">
+<div style="width: 100%">
+<div style="width: 50%; float: left;">
+<h2>WHAT DO YOU THINK?</h2>
+</div>
+<div style="float:right;">
+<a href="#" id="btnPostComment" title=" Generated by readers, the comments included herein do not reflect the views and opinions of Rigzone. All comments are subject to editorial review. Off-topic, inappropriate or insulting comments will be removed.">POST A COMMENT </a>
+</div>
+</div>
+<br class="clear">
+<p>
+                            Generated by readers, the comments included herein do not reflect the views and opinions of Rigzone. All comments are subject to editorial review. Off-topic, inappropriate or insulting comments will be removed.
+                        </p>
+<div class="warning_small" id="spnOutputMessage" style="display:none;"></div>
+<form action="/news/postcomments/" class="basic-grey" id="commentForm" method="post" style="display: none;"> <input name="hdnArticleId" type="hidden" value="132017">
+<input name="hdnIpAddress" type="hidden" value="182.55.219.90">
+<label>
+<span>Name:</span>
+<input id="FullName" name="FullName" type="text">
+</input></label>
+<label>
+<span>Email:</span>
+<input id="EmailAddress" name="EmailAddress" type="text">
+</input></label>
+<label>
+<span>Comments:</span>
+<textarea id="Comment" name="Comment"></textarea>
+</label>
+<div class="g-recaptcha" data-sitekey="6Leo1BkTAAAAAMYTq_G-8vpIQkdWsZK3WzfOu12d"></div>
+<label>
+<span> </span>
+<input class="button" id="btnCreate" type="button" value="CREATE">    
+                    <input class="button cancel" id="btnCancel" type="button" value="CANCEL"/>
+</input></label>
+</input></input></form> <a name="hasComments"></a>
+<div data-url="/news/GetComments/132017" id="comments"></div>
+<script type="text/javascript">
+                            $(function () {
+                                newsArticlesComment.init();
+                                newsArticleDetails.loadComments();
+                            });
+                        </script>
+<!-- Related Companys -->
+</br></br></p>
+<p>
+                            Generated by readers, the comments included herein do not reflect the views and opinions of Rigzone. All comments are subject to editorial review. Off-topic, inappropriate or insulting comments will be removed.
+                        </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>

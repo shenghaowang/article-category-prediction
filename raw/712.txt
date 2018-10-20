@@ -1,0 +1,36 @@
+<p class="counter" ng-show="timerStarted">Coming up in the next <span>{{countdown}} {{countdownlbl}}</span></p>
+<p class="counter" ng-show="!timerStarted">Coming up next:</p>
+<p class="title">{{nextVideo.title}}</p>
+<p>{{nextVideo.description}}</p>
+<p class="callout"><a href="{{nextVideo.url}}" ng-click="playVideo(nextVideo.id, $event);">Skip to this video now <span></span></a></p>
+<p class="counter">Related</p>
+<p class="label noborder">Now Playing:</p>
+<p class="title">{{currentVideo.title}}</p>
+<p class="_cliplabel"></p>
+<p class="_cliptitle"></p>
+<p class="_clipcaption"></p>
+<p class="_cliplink"><a href="javascript:void(0)" ng-click="scrollAndRoll();">Play Video <span class="chevron"></span></a></p>
+<p class="disclaimer">This transcript has been automatically generated and may not be 100% accurate.</p>
+<p class="reltitle"><a class="_relextra" href="/WNN/video/federal-investigation-general-motors-car-recall-22872343" name="lpos=widget[videoindex]&amp;link[related_extras]"><span class="reltype _video"></span>Federal Investigation Over General Motors Car Recall</a></p>
+<p class="reldescription">The Justice Department is investigating how GM handled a deadly defect in some of its compact cars.</p>
+<p class="_relcaption" id="{{currentVideoIdx == 0 ? 'current' : '_relcaption'+0}}"><span ng-show="currentVideoIdx == 0">Now Playing:</span> Federal Investigation Over General Motors Car Recall</p>
+<p class="_relcaption" id="{{currentVideoIdx == 1 ? 'current' : '_relcaption'+1}}"><span ng-show="currentVideoIdx == 1">Now Playing:</span> General Motors' Big Plan </p>
+<p class="_relcaption" id="{{currentVideoIdx == 2 ? 'current' : '_relcaption'+2}}"><span ng-show="currentVideoIdx == 2">Now Playing:</span> Illinois lottery gives away free Mega Millions tickets</p>
+<p class="_relcaption" id="{{currentVideoIdx == 3 ? 'current' : '_relcaption'+3}}"><span ng-show="currentVideoIdx == 3">Now Playing:</span> Lottery star shares nationwide excitement for record jackpot</p>
+<p class="_relcaption" id="{{currentVideoIdx == 4 ? 'current' : '_relcaption'+4}}"><span ng-show="currentVideoIdx == 4">Now Playing:</span> Microsoft co-founder Paul Allen dead at 65</p>
+<p class="_relcaption" id="{{currentVideoIdx == 5 ? 'current' : '_relcaption'+5}}"><span ng-show="currentVideoIdx == 5">Now Playing:</span> Toys for Halloween</p>
+<p class="_relcaption" id="{{currentVideoIdx == 6 ? 'current' : '_relcaption'+6}}"><span ng-show="currentVideoIdx == 6">Now Playing:</span> Sears files for Chapter 11 bankruptcy protection</p>
+<p class="_relcaption" id="{{currentVideoIdx == 7 ? 'current' : '_relcaption'+7}}"><span ng-show="currentVideoIdx == 7">Now Playing:</span> Mega Millions jackpot rises to $654M</p>
+<p class="_relcaption" id="{{currentVideoIdx == 8 ? 'current' : '_relcaption'+8}}"><span ng-show="currentVideoIdx == 8">Now Playing:</span> 'GMA' Deals and Steals on items that simplify life</p>
+<p class="_relcaption" id="{{currentVideoIdx == 9 ? 'current' : '_relcaption'+9}}"><span ng-show="currentVideoIdx == 9">Now Playing:</span> Dow plunges another 500 points, massive sell-off extends into 2nd day</p>
+<p class="_relcaption" id="{{currentVideoIdx == 10 ? 'current' : '_relcaption'+10}}"><span ng-show="currentVideoIdx == 10">Now Playing:</span> Dow Jones closes down more than 800 points</p>
+<p class="_relcaption" id="{{currentVideoIdx == 11 ? 'current' : '_relcaption'+11}}"><span ng-show="currentVideoIdx == 11">Now Playing:</span> Amazon raises hourly pay for workers to $15 after criticism</p>
+<p class="_relcaption" id="{{currentVideoIdx == 12 ? 'current' : '_relcaption'+12}}"><span ng-show="currentVideoIdx == 12">Now Playing:</span> Amazon raising minimum wage for US employees</p>
+<p class="_relcaption" id="{{currentVideoIdx == 13 ? 'current' : '_relcaption'+13}}"><span ng-show="currentVideoIdx == 13">Now Playing:</span> Report shows Americans are buying used cars at a record pace</p>
+<p class="_relcaption" id="{{currentVideoIdx == 14 ? 'current' : '_relcaption'+14}}"><span ng-show="currentVideoIdx == 14">Now Playing:</span> Goodwill manager returns $46,000 stuffed in donation item, unbeknownst to owner</p>
+<p class="_relcaption" id="{{currentVideoIdx == 15 ? 'current' : '_relcaption'+15}}"><span ng-show="currentVideoIdx == 15">Now Playing:</span> SEC sues Tesla CEO Elon Musk for 'misleading' tweet</p>
+<p class="_relcaption" id="{{currentVideoIdx == 16 ? 'current' : '_relcaption'+16}}"><span ng-show="currentVideoIdx == 16">Now Playing:</span> 'GMA' Deals and Steals: Must-have home goods, jewelry and more</p>
+<p class="_relcaption" id="{{currentVideoIdx == 17 ? 'current' : '_relcaption'+17}}"><span ng-show="currentVideoIdx == 17">Now Playing:</span> Lyft co-founder isn't interested in flying Lyfts</p>
+<p class="_relcaption" id="{{currentVideoIdx == 18 ? 'current' : '_relcaption'+18}}"><span ng-show="currentVideoIdx == 18">Now Playing:</span> Lyft co-founder: 'The idea of getting car keys on your 16th birthday' going to change</p>
+<p class="_relcaption" id="{{currentVideoIdx == 19 ? 'current' : '_relcaption'+19}}"><span ng-show="currentVideoIdx == 19">Now Playing:</span> Lyft co-founder discusses future company IPO</p>
+<p class="_relcaption" id="{{currentVideoIdx == $index ? 'current' : '_relcaption'+$index}}"><span ng-show="currentVideoIdx == $index">Now Playing:</span> {{itm.title}}</p>

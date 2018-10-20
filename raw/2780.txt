@@ -1,0 +1,38 @@
+<p class="my-3 text-center">Loading...</p>
+<p class="meta mb-0">Published <strong>4 years ago</strong> on <strong>18 March 2014</strong></p>
+<p>By Zurairi AR</p>
+<p>KUALA LUMPUR, March 18 — When Nook, a co-working space in Bangsar, decided to accept the digital currency Bitcoin for payment, its owner Daniel Yap was not expecting the attention it would generate — from Bitcoin enthusiasts or the media.</p>
+<p>Nook was the first and remains the only physical merchant in Malaysia that accepts Bitcoin in return for its services, and Yap admitted he initially picked it up as a “social experiment”.</p>
+<p>Bitcoins are a “cryptocurrency”, where cryptography — encryption involving mathematics — is used to control the creation and transfer of the digital money.</p>
+<p>Any transaction using Bitcoins is recorded on a shared public database called “block chain” rather than with the exchange of notes or tokens.</p>
+<p>That means a customer can transfer a specified amount of Bitcoins from his digital wallet to the vendor’s wallet without anything changing hands physically.</p>
+<p>Instead, the vendor only needs to provide his wallet’s address — a 27- to 34-digit alphanumerical string — for the customer to initiate the transfer, usually done in Bitcoin applications, which are available for smartphones or personal computers.</p>
+<p>But the world of the Bitcoin has run into trouble.</p>
+<p>A Tokyo-based exchange for the digital currency, <a href="/money/article/japan-yet-to-decide-on-bitcoin-rules-amid-risk-of-money-laundering">Mt Gox</a> — an acronym for Magic: The Gathering Online Exchange — shut down last month, causing a big drop in the currency’s value and leading to wider worries about the future of the currency.</p>
+<p>Unsurprisingly, that has led to a mood of caution.</p>
+<p>“The atmosphere in the past few weeks has been dramatic. We see slower trades,” said Colbert Low, who founded BitcoinMalaysia.com, a local Bitcoin exchange.</p>
+<p>Enthusiasts are waiting for the price to stabilise, the next generation of mining hardware, and for new exchanges to open up. There were many projects coming soon to Malaysian shores, Low said.</p>
+<p>“Our group is enthusiastic despite the setbacks, but not sure about the general public,” he said.</p>
+<p>Yap, who owns Nook, told <em>The Malay Mail Online</em> that he started accepting Bitcoin in November last year as he was fascinated by how humans put monetary value on lines of computer codes.</p>
+<p>“We get a lot of programmers, freelancers here, and we’ve been talking about Bitcoin for a long time. Of course at that time it was just in my mind, but I’ve always thought it was interesting,” said the former advertising boss.</p>
+<p>“If people are willing to barter services, then isn’t it the same thing as bartering Bitcoins?”</p>
+<p>Bobby Ong, who runs an online newsletter on digital currency called <em>Altcoin Weekly</em>, said the technology behind Bitcoin solved a number of problems plaguing fiat currency and credit card transactions.</p>
+<p>Ong said records on the block chain prevented “double-spending”. This describes a phenomenon where a digital token can be duplicated and spent more than once.</p>
+<p>Bitcoin can also prevent fraud, as merchants are able to confirm almost instantaneously that a payment has been made, before shipping goods to their customers, the self-taught programmer said.</p>
+<p>There is a gap of 10 minutes between payment and receipt of Bitcoin, during which time the transaction is processed and confirmed using mathematical proof, a process called “mining”.</p>
+<p>The security and anonymity offered by Bitcoin has in turn attracted more vendors in Malaysia to accept Bitcoin as a mode of payment.</p>
+<p>Bitcoin (with a capital “B”) also refers to an open source peer-to-peer system regulating the virtual currency allegedly released by pseudonymous Satoshi Nakamoto, and became operational in 2009.</p>
+<p>One of the earliest vendors was Kuching-based BolehVPN, which offers Virtual Private Network (VPN) services, allowing Internet users worldwide to browse anonymously and securely.</p>
+<p>The instant receipt of money also gave Bitcoin the most traction with online shops, including online marketplace Ked.ai, which started accepting the digital currency in early January.</p>
+<p>Crypto Snacks, based in Cyberjaya, meanwhile, offers to deliver snacks in exchange for Bitcoins: one chicken mayo sandwich costs 0.001 BTC.</p>
+<p>Unlike normal currencies, the value of one unit of Bitcoin — 1 BTC — has no intrinsic value, since it is not backed by any physical assets, or guaranteed by a sovereign government or central bank.</p>
+<p>Instead, its value depends solely on its acceptance as a currency, and the public’s confidence in Bitcoin.</p>
+<p>It is believed that the first real-world transaction involving Bitcoin was in May 2010, when Laszlo Hanyecz, a programmer from Florida, in the US, offered a volunteer from England some Bitcoins in return for ordering two pizzas for him.</p>
+<p>Hanyecz paid 10,000 BTC for the pizzas, making 1 BTC worth around US$0.0025 at that time.</p>
+<p>Since then, the value of BTC reached its all-time high of US$1,250 (RM4,108) in November 2013, before falling to US$421 (RM1,383) after China banned the currency the month after.</p>
+<p>The rise was due to the financial unrest in Europe, including the financial crisis in Cyprus, which started in 2012, causing users to buy up high amounts of Bitcoins.</p>
+<p>At the time of writing, 1 BTC is worth US$621 (RM2,031), according to currency converter site XE.com. Apple banned Bitcoin applications from its devices in early February, a move that dented the virtual currency.</p>
+<p>The currency’s extreme volatility led Bank Negara Malaysia (BNM) to announce in January that it was not legal tender in the country.</p>
+<p>BNM issued the statement in the wake of warnings by several other central banks worldwide, but stopped short of banning the currency.</p>
+<p class="text-center">Loading...</p>
+<p class="small text-muted mb-0">© 2018, Malay Mail, All Rights Reserved.</p>

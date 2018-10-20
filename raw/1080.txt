@@ -1,0 +1,34 @@
+<p class="notify-txt">Desktop notifications are on   | <a class="turn-off" href="">Turn off</a> </p>
+<p class="headline">Get breaking news alerts from <span class="wp-txt"> The Washington Post </span></p>
+<p class="notify-txt">Turn on desktop notifications?</p>
+<p>Pressure on GM from Washington, D.C., escalated Tuesday, as a Congressional investigation gave the automaker two weeks to respond to a documentation request regarding incidents leading up to the recall of 1.6 million vehicles—as well as a timeline of reports to the National Highway Traffic Safety Administration (NHTSA), which oversees vehicle recalls.</p>
+<p>The legislators have <a href="http://online.wsj.com/news/articles/SB10001424052702304020104579431141203677528">a total of 107 questions about the recall</a>, which covered six models, sold from the 2003 through 2007 model years. At root is an ignition switch that can move out of its normal ‘on’ position while driving—leading to the loss of power (and steering and braking assist, in some cases) along with a risk that airbags won’t deploy in a resulting accident.</p>
+<p>In all, the issue has been attributed in at least 31 crashes and 13 deaths, in the following models that were recalled last month:</p>
+<p>The procedure of such a Congressional investigation was laid out by the Tread Act of 2000, which was a piece of auto-safety legislation prompted by the high-profile recall that year, of Ford Explorer SUVs equipped with Firestone tires. “The committee will examine whether GM knowingly allowed faulty and dangerous cars to remain on the road,” <a href="http://www.usatoday.com/story/money/cars/2014/03/11/house-investigates-gm-recall/6273429/">said U.S. Representative Henry Waxman</a>, the top-ranking Democrat of the committee.</p>
+<p>NHTSA has already opened a separate investigation into the matter—checking that GM reported the issue in what would be considered a timely manner—and GM has provided such a chronology.</p>
+<p>GM was allegedly first aware of the issue in 2004, when it concerned a 2005 Chevy Cobalt; and according to the Wall Street Journal a GM engineer proposed a new design that could handle additional weight from a key ring (part of the issue); although the revised design was later canceled.</p>
+<p>However as lawyers set GM in their sights, one legal issue could get in the way: Under the restructuring that occurred when the “old GM” became the “new GM,” the automaker’s product liability only extends back to July 2009; claims on issues prior to that <a href="http://www.autonews.com/article/20140308/OEM11/303109989/bankruptcy-terms-limit-gm-liability-in-crash-lawsuits">would need to be addressed through bankruptcy court</a>.</p>
+<p>Meanwhile, Reuters reported that federal prosecutors are <a href="http://www.reuters.com/article/2014/03/11/us-autos-gm-recall-probe-idUSBREA2A1RZ20140311">considering a criminal probe</a> regarding the matter. And a Senate inquiry? While one hasn’t yet been initiated, that could happen in coming days.</p>
+<p>___________________________________________</p>
+<p>Follow The Car Connection on <a href="http://www.facebook.com/TheCarConnection">Facebook</a>, <a href="http://twitter.com/carconnection">Twitter</a> and <a href="https://plus.google.com/109368327112375272508/posts?partnerid=gplp0">Google+</a>.</p>
+<p> </p>
+<p>(c) 2014, High Gear Media.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p> <filename>highgear_article</filename> </p>

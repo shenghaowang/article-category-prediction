@@ -1,0 +1,50 @@
+<p class="logo">
+<a href="/" onclick="trackOutboundLink(this, 'Logo-shortcutbar-Link', 'Homepage', '/'); return false;">Advertising Age</a>
+</p>
+<p>8 hours ago</p>
+<p>By <a href="https://adage.com/author/megan-graham/7266">Megan Graham</a> - 9 hours ago</p>
+<p>13 hours ago</p>
+<p>16 hours ago</p>
+<p>By <a href="https://adage.com/author/megan-graham/7266">Megan Graham</a> - 17 hours ago</p>
+<p>By <a href="https://adage.com/author/garett-sloane/7062">Garett Sloane</a> - Yesterday</p>
+<p>By <a href="https://adage.com/author/anthony-crupi/6509">Anthony Crupi</a> - Yesterday</p>
+<p>Yesterday</p>
+<p>Yesterday</p>
+<p>Yesterday</p>
+<p>By <a href="http://adage.com/author/megan-graham/7266">Megan Graham</a> - 2 days ago</p>
+<p>By <a href="http://adage.com/author/ej-schultz/3799">E.J. Schultz</a> and <a href="http://adage.com/author/megan-graham/7266">Megan Graham</a> - Yesterday</p>
+<p>By <a href="http://adage.com/author/ej-schultz/3799">E.J. Schultz</a> - Yesterday</p>
+<p>By <a href="http://adage.com/author/simon-dumenco/711">Simon Dumenco</a> - 26 weeks ago</p>
+<p>By <a href="http://adage.com/author/jeanine-poggi/4700">Jeanine Poggi</a> - 1 weeks ago</p>
+<p>Register to become a member today. You'll get the essential information you need to do your job better, including</p>
+<p>To get unlimited content and more benefits, check out our <a href="/membership" onclick="trackOutboundLink(this, 'Reg Modal', 'Clickthrough', 'Membership'); return false;">Membership</a> page</p>
+<p>We are glad you are enjoying Advertising Age. To get uninterrupted access and additional benefits, become a member today.</p>
+<p><a class="btn btn-primary block-300 porte-btn" href="/membership" onclick="trackOutboundLink(this, 'Paywall', 'Clickthrough', 'Membership'); return false;">Upgrade to Membership<i class="icon-cta-white"></i></a>
+</p>
+<p class="help">Already a member? <a data-behavior="go_to_login" href="#">Log in</a> or go back to the <a href="/">homepage</a>.</p>
+<p class="meta pull-left">
+<span class="authorName">By  <span class="story-article-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<span itemprop="name">
+<a class="tooltip_item" href="https://adage.com/author/michael-sebastian/5066" itemprop="url" rel="author">Michael Sebastian</a>.
+	</span>
+</span>
+</span><span class="story-pub-date">Published on <time datetime="2014-03-11" itemprop="datePublished">March 11, 2014</time>.</span>
+</p>
+<p>Improving the technology around HBO Go is a top priority for 2014, Time Warner CEO Jeff Bewkes told investors Tuesday at Deutsche Bank's Media, Internet and Telecom Conference.</p>
+<p>Many HBO Go users were left in the dark Sunday night when they tried to watch the season finale of HBO's "True Detective." The number of people tuning in effectively crashed the network's video-on-demand platform, sparking a flood of angry tweets from those trying to log on.</p>
+<p>Still, Mr. Bewkes said, "Most of you could" watch it.</p>
+<p>On Sunday night, the "True Detective" finale at 9:00 p.m. ET averaged 3.5 million viewers, a series high and 50% more than the premiere audience of 2.3 million. Across the night's three telecasts, the series also hit a high note with 4.9 million viewers. HBO has not released numbers on how many people watched or tried to watch via HBO Go.</p>
+<p>"We're investing in HBO Go," Mr. Bewkes said. "That's good news for those of you that tried to watch 'True Detective' last week."</p>
+<p>"We've got a lot of demand," he added. "We want to make HBO Go stronger."</p>
+<p>HBO Go allows HBO subscribers to watch original programming and movies across multiple devices, including tablets, mobile phones and Apple TV. A number of its users, however, are not actual HBO subscribers but instead use a friend or family member's password to sign in.</p>
+<p>HBO CEO Richard Plepler has brushed aside this fact, <a href="http://www.buzzfeed.com/mattlynley/hbos-ceo-doesnt-care-that-you-are-sharing-your-hbo-password">telling BuzzFeed</a> that the platform is partly a marketing vehicle for the network, which is "in the business of creating addicts." Turning a blind eye to HBO Go pirates, he added, "has no impact on the business."</p>
+<p>On Tuesday, Mr. Bewkes spoke on a range of topics, from video on demand and HBO Go to the Turner networks including TruTV. "We want to move it a little bit more upscale," he said of the channel. "Not a lot, but a little."</p>
+<p>Twenty-five percent of HBO's revenue comes from overseas, Mr. Bewkes added, with more than 80 million international subscribers for the network. "You'll see growth in that," he said. Turner Networks' overseas revenue is about 18% to 20%, he added.</p>
+<p>Time Warner's fourth-quarter revenue rose 5% to $8.6 billion, the company said in January, topping analysts' expectations.</p>
+<p>Mr. Bewkes on Tuesday discussed neither CNN's ongoing makeover nor the company's plan to spin off the struggling magazine division Time Inc. into a separate public company. That separation is slated for the second quarter of this year.</p>
+<p>The company plans to keep the Time Warner name even after jettisoning Time Inc., where the whole company began. But continuing to share a name with an earlier spin-off, Time Warner Cable, sometimes isn't the greatest, Mr. Bewkes allowed. "It would be good," he said, "if those Time Warner Cable trucks didn't say Time Warner, because people are calling me."</p>
+<p class="description" itemprop="description">Michael Sebastian covers digital and traditional media, the trends affecting them and their fight over both advertising dollars and the attention of readers and viewers. In covering the evolving media business, his beat has grown to include the worlds of content marketing and native advertising. He joined Ad Age in 2013 after founding PR Daily, a daily news site covering digital marketing and public relations. He started his career as a newspaper reporter in Chicago.</p>
+<p class="logo-white">
+<a href="https://adage.com">Ad Age</a>
+</p>
+<p class="credits">Site by <a href="http://area17.com">AREA 17</a></p>

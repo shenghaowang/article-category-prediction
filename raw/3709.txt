@@ -1,0 +1,43 @@
+<p class="notification notification--tertiary">
+        For full functionality of this site it is necessary to enable JavaScript.
+        Here are the <a href="http://www.enable-javascript.com/" target="_blank">
+        instructions how to enable JavaScript in your web browser</a>.
+    </p>
+<p>Former Macquarie banker Joe Lee and Wall Street investment adviser George Samman suspected something was wrong with Bitcoin exchange Mt.Gox in the closing months of 2013.</p>
+<p>The founders behind Singapore-based derivatives trader BTC.sx had begun withdrawing money as early as December, fearing the premium Mt.Gox users paid for Bitcoins was a sign of liquidity issues at the Tokyo-based exchange.</p>
+<p>But it didn’t stop Lee and Samman from sustaining a six-figure loss when Mt.Gox finally went under last month.</p>
+<p>“We were one of Mt.Gox’s biggest customers but we got no inside ­information from them at all," says ­Samman, chief operating officer at the trader. “They couldn’t answer any questions so it was useless. We were lucky to get off what we needed to get off before the whole thing went down."</p>
+<p>In Melbourne, 22-year-old Bitcoin trader Karl Kloppenborg was also burned by the fall of Mt.Gox.</p>
+<p>An IT entrepreneur who is building his own Bitcoin exchange, Kloppenborg lost $47,000 in the collapse.</p>
+<p>“I realised something was wrong much earlier on – I threatened legal action, and said I’d call the banks," he says. “It became a waiting game when I realised that the money was essentially frozen."</p>
+<p>The failure of Bitcoin’s most public face is just one in a series of hiccups for the fast-rising virtual currency, after raids on online black market SilkRoad, which dealt solely in Bitcoins, and the purported unmasking of Bitcoin’s mysterious creator, Satoshi Nakamoto (later denied by Nakamoto).</p>
+<p>For a mathematical code which has seen its value rise from several US ­dollars to the thousands in just five years – to be worth $US10 billion at its height – the loss of 744,000 Bitcoins (worth $527 million at Monday’s average exchange rate) was no doubt a shock to Bitcoin users, many of whom dedicated their trust to the service.</p>
+<p>And the community is no doubt outraged. Despite statements from Mt.Gox that the loss was a theft, resulting from flaws in the system’s code, those demanding vigilante justice have attacked the online accounts of Mt.Gox’s former chief 
+ <company>
+  Mark Karpeles
+ </company>, publishing his personal information and the purported bank balance of the company in 18 different currencies, including nearly $A1 million.</p>
+<p>The information has fuelled speculation that Mt.Gox’s collapse is more fraud than theft, but provides ­little hope that users will have their Bitcoins returned.</p>
+<p>In an email trail seen by <i>The Australian Financial Review</i> between ­Kloppenborg and Mt.Gox staff, the exchange admitted it was unable to process ­Bitcoin withdrawals quickly due to difficulty dealing with major banks.</p>
+<p>It’s a problem that Bitcoin trader David Parrish says needs to be fixed.</p>
+<p>“It’s still quite difficult to buy ­Bitcoins," says Parrish, a software en­gineer at Google Australia. Instead of transferring money through online exchanges, Parrish buys and sells ­Bitcoins by physically meeting with like-minded traders.</p>
+<p>However, despite a seemingly catastrophic blow to a burgeoning system, Mt.Gox’s failure appeared to expose just how little an effect one exchange could have on the global system. Though Mt.Gox’s own price collapsed from $US1209 to $US122 shortly before bankruptcy, the average price in the wider market has managed to sustain a $500 average since its collapse, and even risen slightly in recent weeks. Its price remains volatile but it seems those committed to Bitcoin are sticking with it. “People have been looking for reasons to not trust Bitcoin," says ­Samman. “But I think it’s a short-term negative and long-term positive.</p>
+<p>“You get rid of a bad player which was actually becoming detrimental to the liquidity of Bitcoin itself. It will cause people to want to have more regulation than they have in the past."</p>
+<p>Governments globally have salivated over the prospect of regulating the currency. Russia has banned ­Bitcoin while China has restricted how banks play with the currency. Japan is contemplating rules as regulators in New York float the idea of a ­Bitcoin licence.</p>
+<p>In Australia, however, Reserve Bank governor 
+ <person commonname="Glenn Stevens" fullname="Glenn Robert Stevens" occupation="Chairman and Governor, Reserve Bank of Australia, since 2006" title="(null)" whoswhoid="652559">
+  Glenn Stevens
+ </person> told a parliamentary committee on Friday that he was “not inclined to feel that we have to rush in as a regulator".</p>
+<p>“We have seen some pretty substantial losses incurred by Bitcoin holders in a couple of jurisdictions just in recent weeks," he said. “It is a potential alternative currency so how it will hold its value is the first question. There have been countless currencies through history and the ones that survive are the ones that hold value."</p>
+<p>Samman says BTC.sx will join the list of 127,000 creditors seeking retribution from Mt.Gox but is unsure how regulators will even tackle a corporation that deals in assets that countries do not yet recognise.</p>
+<p>“They probably will have to tread on very careful water, the judges or whoever is involved in this bankruptcy because if they frame it in a certain way they may get a legal precedent for the legitimacy of Bitcoin," he says.</p>
+<p class="article__source">
+<cite>
+<em>
+                        The Australian Financial Review</em>
+</cite>
+</p>
+<p>The Australian Financial Review</p>
+<p>www.afr.com</p>
+<p>Get unlimited access to Australia's best business news and market insights, including our award-winning app.</p>
+<p class="prompt__cta-footnote">Already a subscriber? <a class="bind-hagrid-login" href="#" title="">Log in</a>
+</p>

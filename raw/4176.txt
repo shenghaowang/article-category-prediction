@@ -1,0 +1,51 @@
+<p class="w1"><a href="https://www.belfasttelegraph.co.uk/"><img alt="Belfast Telegraph" height="46" src="https://www.belfasttelegraph.co.uk/img/logo-belfast-b2.png"/></a></p>
+<p> Hi <span class="hi"></span>°C | Lo <span class="low"></span>°C <a class="change" href="#change"> | WEATHER</a> <a class="location" href=""><strong></strong></a></p>
+<p class="w132 cx-a">
+<a href="https://www.belfasttelegraph.co.uk/">Home</a>
+<small>›</small> <a href="https://www.belfasttelegraph.co.uk/news/">News</a>
+<small>›</small> <a href="https://www.belfasttelegraph.co.uk/news/world-news/">World</a>
+</p>
+<p>
+</p>
+<p>
+<time>March 17 2014</time>
+</p>
+<p>
+Inflation across the 18-country eurozone has been revised down to its lowest level since October, a development that may ratchet up the pressure on the European Central Bank to cut interest rates further.
+</p>
+<p>Figures released by the Eurostat statistics agency today show that consumer prices in the eurozone were 0.7% higher in February than the year before. That is lower than the 0.8% initial estimate and takes the annual rate down to the level it was in October.</p>
+<p>The rate is also way below the level the ECB targets - it sets its policy to keep inflation just below 2%.</p>
+<p>The unexpected drop in the inflation rate is likely to reinforce concerns in the markets that the eurozone may suffer a bout of deflation, or falling prices.</p>
+<p class="originalSource">
+</p>
+<p>Police in Afghanistan say a suicide bomber blew himself up in front of a polling station in Kabul.</p>
+<p><strong class="cx-a news">By Jill Richards</strong> Donald Trump has been criticised for praising a Republican congressman who body-slammed a journalist.</p>
+<p>A speeding train has crashed into a crowd watching fireworks during a religious festival in northern India, killing at least 60 people and injuring dozens more, police said.</p>
+<p>Two explosions were reported in Kabul hours after parliamentary election polls opened in Afghanistan.</p>
+<p class="error" id="quick_subscribe_error"></p>
+<p class="done" id="quick_subscribe_done"></p>
+<p>Today's news headlines, directly to your inbox.</p>
+<p class="field">
+<input id="f-ecemail" name="ecemail" placeholder="Email address" required="required" type="email"/>
+<button class="bx-a cx-a belfasttelegraph news" type="submit">Sign Up</button>
+</p>
+<p class="flag"><strong class="flag-b bx-a news">Nightlife</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Nightlife</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Entertainment</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a business">Food, Drink and Hospitality</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Brexit</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a ">Sunday Life</strong></p>
+<p class="flag"><strong class="flag-b bx-a entertainment">News</strong></p>
+<p class="flag"><strong class="flag-b bx-a ">Sunday Life</strong></p>
+<p class="flag"><strong class="flag-b bx-a business">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a life">Features</strong></p>
+<p class="flag"><strong class="flag-b bx-a news">Northern Ireland</strong></p>
+<p class="flag"><strong class="flag-b bx-a life">House and Home</strong></p>
+<p class="flag"><strong class="flag-b bx-a life">Features</strong></p>
+<p class="flag"><strong class="flag-b bx-a life">Food and Drink</strong></p>
+<p class="flag"><strong class="flag-b bx-a archive">Archive</strong></p>
+<p class="flag"><strong class="flag-b bx-a opinion">Opinion</strong></p>
+<p class="copys"><span>© Belfast Telegraph</span> <a href="http://www.inmplc.com/"><img alt="Logo Inm A" height="28" src="/img/logo-inm-b.png" width="96"/></a></p>

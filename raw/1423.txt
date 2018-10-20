@@ -1,0 +1,13 @@
+<p class="sub-head"> </p>
+<p>  The Associated Press  </p>
+<p class="element element-paragraph text-align-override-left" id="disclaimer">
+            This is an archived article that was published on sltrib.com in 2014, and information in the article may be outdated. It is provided only for personal research purposes and may not be reprinted.
+</p>
+<p class="element element-paragraph text-align-override-left"></p>
+<p class="element element-paragraph text-align-override-left">  New York • It&amp;aposs time to suit up: Men&amp;aposs Wearhouse is buying Jos. A. Bank for $1.8 billion.</p>
+<p class="element element-paragraph text-align-override-left">Men&amp;aposs Wearhouse Inc. will pay $65 per share, a 5 percent premium to Jos. A. Bank Clothiers Inc.&amp;aposs closing price Monday of $61.83.</p>
+<p class="element element-paragraph text-align-override-left">The agreement ends a months-long back and forth that began in October when Jos. A. Bank offered to buy its larger rival for $2.3 billion. Men&amp;aposs Wearhouse scoffed at that offer, and turned the tables, offering to buy its rival for $1.54 billion.</p>
+<p class="element element-paragraph text-align-override-left">By early March Men&amp;aposs Wearhouse had an offer of $63.50 per share on the table but said it may raise the bid to $65 per share if some conditions were met.</p>
+<p class="element element-paragraph text-align-override-left">The combined company will be the fourth-biggest U.S. men&amp;aposs clothing retailer with more than 1,700 U.S. stores and about $3.5 billion in sales.</p>
+<p class="element element-paragraph text-align-override-left">The transaction is expected to close by the third quarter.      </p>
+<p class="element element-paragraph text-align-override-left"> </p>

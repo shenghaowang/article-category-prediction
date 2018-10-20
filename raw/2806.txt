@@ -1,0 +1,42 @@
+<p><b>Never miss a great news story!</b><br/>Get instant notifications from Economic Times<br/><a class="gcmwinProm" href="https://etapps.indiatimes.com/gcm_webnotification.cms" onclick="ga('send','event','Chrome_not-popup','click','enable')">Allow</a><a class="gcmNothx" href="javascript:void(0)" onclick="ga('send','event','Chrome_not-popup','click','disable');">Not now</a></p>
+<p>The deadline for a Reserve Bank of India mandate for fintech firms to house data...</p>
+<p>The 2019 i8 roadster is a well-built, thoughtfully designed, fairly priced, and practical high-end hybrid sports car. </p>
+<p>Quiz for all B-Schools and E-Schools students </p>
+<p>Recognising Excellence In Innovation</p>
+<p>Gold standard for rating CSR activities by corporates </p>
+<p>Digilogue - Your guide to digitally transforming your business</p>
+<p>Let's get smarter about money</p>
+<p>ET Family Business Awards</p>
+<p>Touching lives of many</p>
+<p>Hunt for the brightest engineers in India</p>
+<p>TransUnion Cibil</p>
+<p>A one stop platform that caters to the pulse of the pulsating energy.</p>
+<p>04:05 PM | 19 Oct</p>
+<p class="name no_newline"><a href="/indices/sensex_30_companies.cms" target="_blank" title="SENSEX">SENSEX</a></p>
+<p class="dataText"><span class=""><a href="/indices/sensex_30_companies.cms" target="_blank"><b title="">34,316</b></a></span><span class="down"><span class="arrow_v"></span><a href="/indices/sensex_30_companies.cms" target="_blank">-463.95</a></span></p>
+<p class="name no_newline"><a href="/indices/nifty_50_companies.cms" target="_blank" title="NIFTY 50">NIFTY 50</a></p>
+<p class="dataText"><span class=""><a href="/indices/nifty_50_companies.cms" target="_blank"><b title="">10,304</b></a></span><span class="down"><span class="arrow_v"></span><a href="/indices/nifty_50_companies.cms" target="_blank">-149.50</a></span></p>
+<p class="name no_newline"><a href="/commoditysummary/symbol-GOLD.cms" target="_blank" title="GOLD (MCX) (Rs/10g.)">GOLD (MCX) (Rs/10g.)</a></p>
+<p class="dataText"><span class=""><a href="/commoditysummary/symbol-GOLD.cms" target="_blank"><b title="">31,910</b></a></span><span class="down"><span class="arrow_v"></span><a href="/commoditysummary/symbol-GOLD.cms" target="_blank">-162.00</a></span></p>
+<p class="name no_newline"><a href="/forex_home.cms" target="_blank" title="USD/INR">USD/INR</a></p>
+<p class="dataText"><span class=""><a href="/forex_home.cms" target="_blank"><b title="">73.32</b></a></span><span class="down"><span class="arrow_v"></span><a href="/forex_home.cms" target="_blank">-0.29</a></span></p>
+<p>Unleash the power of SIP - Invest in Mutual funds</p>
+<p>Class:</p>
+<p class="">Category:</p>
+<p class="navHead">NAV</p>
+<p class="val" title="43.42">₹43.42</p>
+<p class="name"><a class="no_newline" href="https://etportfolio.indiatimes.com/pw_portfolio.cms" target="_blank" title="Days Change for Stocks">Portfolio</a></p>
+<p>CHOOSE LANGUAGE</p>
+<p class="flt">ENG</p>
+<p class="more"><a data-track="MRMOR" href="/mostviewed.cms">More »</a></p>
+<p><a href="https://prime.economictimes.indiatimes.com" target="_blank">GO TO ET PRIME<span> →</span></a></p>
+<p>Copyright © 2018 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: <a href="http://timescontent.com/" rel="nofollow" target="_blank">Times Syndication Service</a></p>
+<p class="head">Find this comment offensive?</p>
+<p class="des">Choose your reason below and click on the Report button. This will alert our moderators to take action</p>
+<p class="headGrey">Reason for reporting:</p>
+<p>Your Reason has been Reported to the admin.</p>
+<p class="flt">Log In/Connect with:</p>
+<p>Will be displayed</p>
+<p>Will not be displayed</p>
+<p>Will be displayed</p>
+<p>Loading<br/>Please wait...</p>

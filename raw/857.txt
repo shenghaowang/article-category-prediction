@@ -1,0 +1,19 @@
+<p class="search-label">Type to Search</p>
+<p class="link-txt">
+<span class="breaking-news--label">
+Breaking News
+</span>
+<span class="breaking-news--headline">
+</span></p>
+<p class="body-el-text standard-body-el-text">MtGox boss Mark Karpeles has been targeted by hackers following the company's recent <a class="body-el-link standard-body-el-link" href="/tech/news/a554661/bitcoin-exchange-mtgox-files-for-bankruptcy-protection.html">bankruptcy protection filing</a>.</p>
+<p class="body-el-text standard-body-el-text">The Bitcoin magnate's personal blog and Reddit account were breached, resulting in information about the exchange's trading activities being posted online.</p>
+<p class="body-el-text standard-body-el-text">The leaked material includes an Excel spreadsheet of more than one million transactions, entries from the firm's business ledger and details about its admin software.</p>
+<p class="body-el-text standard-body-el-text">"It's time that MtGox got the Bitcoin community's wrath instead of [the] Bitcoin community getting Goxed," said the hackers in a statement accompanying the data dump.</p>
+<p class="body-el-text standard-body-el-text">MtGox went dark last month after 744,000 Bitcoins - worth around £210 million - were reportedly stolen via a security loophole.</p>
+<p class="body-el-text standard-body-el-text">It remains unclear whether the information leaked by hackers was genuine and sheds any light on the incident, according to <em><a class="body-el-link standard-body-el-link" href="http://www.forbes.com/sites/andygreenberg/2014/03/09/hackers-hit-mt-gox-exchanges-ceo-claim-to-publish-evidence-of-fraud/" rel="nofollow" target="_blank">Forbes</a></em>.</p>
+<p class="module-label--title">PREVIOUS ARTICLE</p>
+<p class="module-label--title">NEXT ARTICLE</p>
+<p class="footer--legal-text">
+DIGITAL SPY, PART OF THE HEARST UK ENTERTAINMENT NETWORK
+<br/><br/>
+© 2018 Hearst Magazines UK is the trading name of the National Magazine Company Ltd, 72 Broadwick Street, London, W1F 9EP. Registered in England 112955. All rights reserved.</p>

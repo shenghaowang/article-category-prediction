@@ -1,0 +1,186 @@
+<p><script> 
+ var ssdl = ssdl || {}  
+ ssdl.editorialMetaData = { 'Country' : 'US', 
+'Region' : 'United_States', 
+'company' : '', 
+'sector' : 'Industry_Headlines', 
+'industry_sector' : '', 
+'audience' : '', 
+'content_type' : '', 
+'company_sentiment' : '', 
+'author' : 'The Associated Press', 
+'published_date' : '2014-03-10', 
+'tag' : '', 
+'longevity' : '', 
+'content_origin' : '', 
+} 
+ </script></p>
+<p>WASHINGTON (AP) — Four Central European nations are urging the United States to boost natural gas exports to Europe as a hedge against the risk that Russia could cut its supply of gas to Ukraine, but the White House says such a move would take more than a year.</p>
+<p>Ambassadors from Hungary, Poland, Slovakia and the Czech Republic made their appeal Friday in a letter to John Boehner, the Republican speaker of the U.S. House of Representatives. A similar letter was expected to be sent to Harry Reid, the Democratic leader of the Senate.</p>
+<p>The letter from the four nations, known as the Visegrad Group, asks for Congress to support speedier approval of natural gas exports. It notes that the "presence of U.S. natural gas would be much welcome in Central and Eastern Europe."</p>
+<p>The ambassadors say the unrest in Ukraine has revived Cold War memories, and energy security threatens the region's residents daily.</p>
+<p>"Gas-to-gas competition in our region is a vital aspect of national security and a keyU.S. interest in the region," the ambassadors wrote in a letter obtained by The Associated Press.</p>
+<p>Ukraine is heavily dependent on Russian natural gas, and previous disputes betweenUkraine and Russia have led to supply cuts. Russian state company Gazprom has increased the pressure on Ukraine's new government — which already owes $1.89 billion (1.36 billion euros) for past deliveries — by warning that if Ukraine doesn't pay its debts, Russia could retaliate by cutting off wider supplies to Europe, as happened in 2009.</p>
+<p>Recent advancements have made it possible for Russian gas that normally flows to European Union customers through Ukraine to flow in the other direction, so Poland and Hungary could supply gas to Ukraine if Russian supplies halted. But with gassupplies limited, the region remains vulnerable unless the U.S. makes it easier to import American natural gas, the ambassadors argued.</p>
+<p> <br class="clear"/>
+<div class="clear"></div><a class="articlePageNumCur">1</a><a class="articlePageNum" href="/news/oil_gas/a/132019/ukraines_eu_neighbors_see_us_gas_as_russian_hedge/?pgNum=1">2</a><br/><br/><a href="/news/oil_gas/a/132019/ukraines_eu_neighbors_see_us_gas_as_russian_hedge//?all=HG2">View Full Article</a> <div id="social_bar">
+<div class="rz-social-wrapper">
+<!--Twitter Start-->
+<div class="rz-social-boxes">
+<a class="twitter-share-button" data-url="https://www.rigzone.com/news/oil_gas/a/132019/Ukraines_EU_Neighbors_See_US_Gas_as_Russian_Hedge?utm_source=GLOBAL_ENG&amp;utm_medium=SM_TW&amp;utm_campaign=SHARE_DESKTOP" data-via="rigzone" href="https://twitter.com/share">Tweet</a>
+<script>
+            !function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+                if (!d.getElementById(id)) {
+                    js = d.createElement(s);
+                    js.id = id;
+                    js.src = p + '://platform.twitter.com/widgets.js';
+                    fjs.parentNode.insertBefore(js, fjs);
+                }
+            }(document, 'script', 'twitter-wjs');
+        </script>
+</div>
+<!--Facebook Start-->
+<div class="rz-social-boxes">
+<div id="fb-root"></div>
+<script>
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
+<div class="fb-share-button" data-href="https://www.rigzone.com/news/oil_gas/a/132019/Ukraines_EU_Neighbors_See_US_Gas_as_Russian_Hedge?utm_source=GLOBAL_ENG&amp;utm_medium=SM_FB&amp;utm_campaign=SHARE_DESKTOP" data-layout="button_count"></div>
+</div>
+<!--Linkedin Start-->
+<div class="rz-social-boxes">
+<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script data-counter="right" data-url="https://www.rigzone.com/news/oil_gas/a/132019/Ukraines_EU_Neighbors_See_US_Gas_as_Russian_Hedge?utm_source=GLOBAL_ENG&amp;utm_medium=SM_LI&amp;utm_campaign=SHARE_DESKTOP" type="IN/Share"></script>
+</div>
+<!--G+ Start-->
+<div class="rz-social-boxes">
+<script async="" defer="" src="https://apis.google.com/js/platform.js"></script>
+<div class="g-plus" data-action="share" data-annotation="bubble" data-href="https://www.rigzone.com/news/oil_gas/a/132019/Ukraines_EU_Neighbors_See_US_Gas_as_Russian_Hedge?utm_source=GLOBAL_ENG&amp;utm_medium=SM_GP&amp;utm_campaign=SHARE_DESKTOP"></div>
+</div>
+<!--Reddit Start-->
+<div class="rz-social-boxes">
+<a href="//www.reddit.com/submit" onclick="window.location = '//www.reddit.com/submit?url=' + encodeURIComponent(window.location + '?utm_source=GLOBAL_ENG&amp;utm_medium=SM_RI&amp;utm_campaign=SHARE_DESKTOP'); return false;">
+<img alt="submit to reddit" border="0" src="//www.redditstatic.com/spreddit7.gif">
+</img></a>
+</div>
+<div class="rz-social-boxes">
+<div class="rz-email-print-button">
+<img alt="email" id="RZEmailSocial" onclick="_gaq.push(['_trackEvent', 'RZ-UI', 'In-Page-Functions', 'Email Button']); SocialBarEmail.toggleEmail('EmailPanel3');" src="https://images.rigzone.com/images/email-button.png"/>
+<a href="/News/Print/132019/Ukraines_EU_Neighbors_See_US_Gas_as_Russian_Hedge" onclick="_gaq.push(['_trackEvent', 'RZ-UI', 'In-Page-Functions', 'Print Button']);" target="_blank">
+<img alt="print" id="RZPrintSocial" src="https://images.rigzone.com/images/print-button.png"/>
+</a>
+</div>
+</div>
+</div> <!-- rz-social-wrapper -->
+<script type="text/javascript">
+    $(function() {
+        //SocialBarEmail.init();
+    });
+</script>
+<div id="EmailPanel3" style="display: none">
+<div class="warning_small" id="spnOutputMessageEmail3" style="display: none;"></div>
+<form action="/news/commodity/customsearch/email/" class="basic-grey" id="FwdEmail3" method="post"> <input id="Emailtype" name="hdnEmailType" type="hidden" value=""/>
+<input id="hdnTypeID" name="hdnTypeID" type="hidden" value="132019"/>
+<input id="hdnEmailSubject" name="hdnEmailSubject" type="hidden" value="Ukraine's EU Neighbors See US Gas as Russian Hedge "/>
+<input id="hdnUserIP" name="hdnUserIP" type="hidden" value="182.55.219.90">
+<label>
+<span>Emails:</span>
+<input id="to_email" maxlength="150" name="to_email" type="text"/>
+<span class="instruction">
+                Separate multiple email addresses with semi-colon
+            </span>
+</label>
+<label>
+<span>Your Email:</span>
+<input id="From_Email" maxlength="75" name="From_Email" type="text"/>
+<span class="instruction">
+<input checked="" id="Include_Me" name="Include_Me" type="checkbox" value="true">Send email to me as well
+            </input></span>
+</label>
+<label>
+<span>Subject:</span>
+<input type="text" value="Ukraine's EU Neighbors See US Gas as Russian Hedge ">
+</input></label>
+<label>
+<span>Comments:</span>
+<textarea id="UserText" name="UserText" onkeyup="return SocialBarEmail.EmailDisplayCount(this, 'cntUserText3');"></textarea>
+<span class="instruction">200 character limit. </span><span id="cntUserText3"></span>
+</label>
+<div class="g-recaptcha" data-sitekey="6Leo1BkTAAAAAMYTq_G-8vpIQkdWsZK3WzfOu12d"></div>
+<label>
+<span> </span>
+<input class="button" onclick="SocialBarEmail.ForwardArticleEmail('FwdEmail3', 'EmailPanel3', 'spnOutputMessageEmail3')" type="button" value="Send Email">
+</input></label>
+</input></form></div>
+</div>
+<script type="text/javascript">
+        if (adScreenSize < AdSizeShow1) {
+            document.write('<div id="div-gpt-ad-leader" class="mobileAd">');
+           document.write('</div>');
+           googletag.cmd.push(function () { googletag.display('div-gpt-ad-leader'); });
+        }
+</script>
+<!--Comments-->
+<br class="clear">
+<div style="width: 100%">
+<div style="width: 50%; float: left;">
+<h2>WHAT DO YOU THINK?</h2>
+</div>
+<div style="float:right;">
+<a href="#" id="btnPostComment" title=" Generated by readers, the comments included herein do not reflect the views and opinions of Rigzone. All comments are subject to editorial review. Off-topic, inappropriate or insulting comments will be removed.">POST A COMMENT </a>
+</div>
+</div>
+<br class="clear">
+<p>
+                            Generated by readers, the comments included herein do not reflect the views and opinions of Rigzone. All comments are subject to editorial review. Off-topic, inappropriate or insulting comments will be removed.
+                        </p>
+<div class="warning_small" id="spnOutputMessage" style="display:none;"></div>
+<form action="/news/postcomments/" class="basic-grey" id="commentForm" method="post" style="display: none;"> <input name="hdnArticleId" type="hidden" value="132019">
+<input name="hdnIpAddress" type="hidden" value="182.55.219.90">
+<label>
+<span>Name:</span>
+<input id="FullName" name="FullName" type="text">
+</input></label>
+<label>
+<span>Email:</span>
+<input id="EmailAddress" name="EmailAddress" type="text">
+</input></label>
+<label>
+<span>Comments:</span>
+<textarea id="Comment" name="Comment"></textarea>
+</label>
+<div class="g-recaptcha" data-sitekey="6Leo1BkTAAAAAMYTq_G-8vpIQkdWsZK3WzfOu12d"></div>
+<label>
+<span> </span>
+<input class="button" id="btnCreate" type="button" value="CREATE">    
+                    <input class="button cancel" id="btnCancel" type="button" value="CANCEL"/>
+</input></label>
+</input></input></form> <a name="hasComments"></a>
+<div data-url="/news/GetComments/132019" id="comments"></div>
+<script type="text/javascript">
+                            $(function () {
+                                newsArticlesComment.init();
+                                newsArticleDetails.loadComments();
+                            });
+                        </script>
+<!-- Related Companys -->
+</br></br></p>
+<p>
+                            Generated by readers, the comments included herein do not reflect the views and opinions of Rigzone. All comments are subject to editorial review. Off-topic, inappropriate or insulting comments will be removed.
+                        </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>

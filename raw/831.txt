@@ -1,0 +1,26 @@
+<p> </p>
+<p class="published-date">
+<span id="publish_date">
+                            March 15, 2014 12:00 AM
+                        </span>
+</p>
+<p class="published-date">
+<span id="update_date">
+</span>
+</p>
+<p> <span class="ng_subhead_lead">Starflo launching new distribution center</span></p>
+<p>Industrial valve manufacturer Starflo Corp. is breaking ground on a new distribution center as the company doubles its distribution capacity in Clarendon County, the S.C. Department of Commerce announced Friday. The $1 million investment also will consolidate distribution for the company’s Orangeburg and Manning manufacturing facilities as well as other Starflo manufacturing operations nationwide. The company expects to add 12 employees. Starflo is a division of the Wm. Powell Co. The Coordinating Council for Economic Development approved a $50,000 rural infrastructure fund grant for building and site improvements.</p>
+<p> <span class="ng_subhead_lead">Target reports cost of security breach enormous</span></p>
+<p> <span class="ng_dateline">NEW YORK </span> Target Corp. said in its annual report that a massive security breach has hurt its image and business, while spawning dozens of legal actions, and it noted it can’t estimate how big the financial tab will end up being. The disclosure Friday with the Securities and Exchange Commission came as the nation’s second-largest discounter said separately that security software picked up on suspicious activity after a cyberattack was launched, but it decided not to take immediate action. The acknowledgement comes after Bloomberg Newsweek reported Thursday that Target’s security team in Bangalore received security alerts on Nov. 30 that indicated malicious software had appeared in its network. It then flagged the security team at its home office in Minneapolis. The company said in a statement that a “vast number of technical events” take place and are logged each week. “Through our investigation, we learned after these criminals entered our network, a small amount of their activity was logged and surfaced to our team. That activity was evaluated and acted upon. Based on their interpretation and evaluation of that activity, the team determined that it did not warrant immediate follow-up.” The company is investigating whether the outcome could have been different.</p>
+<p class="widget-subhead">No one covers what is happening in our community better than we do. And with a digital subscription, you'll never miss a local story.</p>
+<p> <span class="ng_subhead_lead">For-profit colleges to fight proposed regulations</span></p>
+<p> <span class="ng_dateline">WASHINGTON </span> The for-profit college industry says it will vigorously oppose proposed regulations by the Obama administration designed to protect students at for-profit colleges from amassing huge debt they can’t pay off. The proposed regulations would penalize career training programs that produce graduates without the training needed to find a job with a salary that will allow them to pay off their debt. Schools, for-profit or not, that don’t comply would lose access to the federal student aid programs. If finalized, the regulations would take effect in 2016.</p>
+<p> <span class="ng_subhead_lead">Quiznos files for bankruptcy</span></p>
+<p> <span class="ng_dateline">DENVER </span> Denver-based Quiznos has filed for Chapter 11 bankruptcy protection to reduce its debt by more than $400 million. The toasted sandwich chain said Friday that it voluntarily filed to reorganize to implement a pre-packaged restructuring plan. Quiznos says the move won’t affect its customers. The company only owns and operates seven of the nearly 2,100 Quiznos restaurants. The rest are owned operated by franchisees and aren’t part of the bankruptcy proceedings. It also says its distribution centers are open and fulfilling orders. Quiznos says the restructuring plan has been approved by its creditors so it expects to emerge from restructuring quickly.</p>
+<p> <span class="ng_tagline_contrib">The Associated Press contributed.</span></p>
+<p class="readmore pull-left">
+<a href="/video">
+                            View More Video
+                        </a>
+</p>
+<p>Real-time updates and all local stories you want right in the palm of your hand.</p>

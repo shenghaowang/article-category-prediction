@@ -1,0 +1,78 @@
+<p class="margin0px">Join the Nasdaq Community today and get free, instant access to portfolios, stock ratings, real-time alerts, and more!</p>
+<p>Stocks recovered off their worst levels to end narrowly mixed as
+worries over the global implications of a slowing Chinese economy
+dampened demand for risky assets, luring investors instead into the
+safety of the U.S. government bond market. Blue chips
+underperformed as a result of losses in Boeing (
+<a href="https://www.nasdaq.com/symbol/ba">BA</a>
+
+) and the financial sector, but the Nasdaq Composite squeezed out a
+very small gain, snapping a four-day losing streak. The S&amp;P 500
+closed just in positive territory.</p>
+<p>Global equities were undermined by the recent Chinese default
+along with forecasts for more downbeat economic data tonight on
+retail sales and industrial production. Coming on the heels of
+bearish Chinese trade data, the impact a slowdown in the world's
+second largest economy will have on Europe unnerved investors
+across the globe, magnified by a four-year low in copper, an
+industrial metal considered a barometer to Chinese manufacturing
+activity.</p>
+<p>In corporate news, reverberations from New Jersey's decision to
+ban direct sales to consumers continued to undermine shares of
+Tesla (
+<a href="https://www.nasdaq.com/symbol/tsla">TSLA</a>
+
+), while investors bailed on General Motors (
+<a href="https://www.nasdaq.com/symbol/gm">GM</a>
+
+) amid allegations by the Justice Department that the car maker may
+have broken the law by ignoring an ignition defect for more than 10
+years. Shares of Fannie Mae (
+<a href="https://www.nasdaq.com/symbol/fnma">FNMA</a>
+
+) and Freddie Mac (
+<a href="https://www.nasdaq.com/symbol/fmcc">FMCC</a>
+
+) tumbled following the decision by the Senate Banking Committee to
+dismantle the government-owned mortgage lenders.</p>
+<p>Here's where the markets stand at the close:</p>
+<p>US MARKETS</p>
+<p>Dow Jones Industrial Index was down 0.07%</p>
+<p>S&amp;P 500 was up 0.03%</p>
+<p>Nasdaq Composite Index was up 0.37%</p>
+<p>GLOBAL SENTIMENT</p>
+<p>FTSE 100 was down 0.97%</p>
+<p>Nikkei 225 was down 2.59%</p>
+<p>Hang Seng Index was down 1.65%</p>
+<p>Shanghai China Composite Index was down 0.17%</p>
+<p>UPSIDE MOVERS</p>
+<p>OXGN (+77.27%) Reported positive top-line results for a clinical
+trial of an ovarian-cancer treatment</p>
+<p>EPL (+28.82%) Energy XXI agrees to buy EPS Oil &amp; Gas for
+$2.3 bln</p>
+<p>INFN (+14.91%) Upgraded by Goldman Sachs from Neutral to Buy</p>
+<p>DOWNSIDE MOVERS</p>
+<p>HRZN (-11.84%) Downgraded to Underperform from Market Perform at
+both Gilford Securities and Keefe, Bruyette &amp; Woods.</p>
+<p>HLF (-7.37%) Received a Civil Investigative Demand from the
+Federal Trade Commission.</p>
+<p>ORMP (-15.53%) Insulin pill criticized, faces competition from
+Novo Nordisk</p>
+<p>HDY (-58.75%) Exploration partner cites force majeure
+surrounding U.S. DOJ and SEC probes</p>
+<p>GERN (-61.59%) FDA puts a hold on Imetelstat drug
+application</p>
+<p id="viewsOpinions">
+<em>The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.</em>
+</p>
+<p>
+<em>Copyright (C) 2016 MTNewswires.com. All rights reserved. Unauthorized reproduction is strictly prohibited.</em>
+</p>
+<p>Enter up to 25 symbols separated by commas or spaces in the text box below. These symbols will be available during your session for use on applicable pages.</p>
+<p>
+					You have selected to change your default setting for the Quote Search. This will now be your default target page;
+					unless you change your configuration again, or you delete your
+					cookies. <b>Are you sure you want to change your settings?</b>
+</p>
+<p id="adBlockMsgText">Please disable your ad blocker (or <a href="https://www.nasdaq.com/help/adblock-instructions.aspx">update your settings</a> to ensure that javascript and cookies are enabled), so that we can continue to provide you with the first-rate market news and data you've come to expect from us.</p>
+<p id="interstitialContainer"></p>

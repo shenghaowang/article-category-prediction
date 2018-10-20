@@ -1,0 +1,2 @@
+<p class="social-menu-text">Connect with Canoe</p>
+<p class="footer-section">Connect with Canoe</p>

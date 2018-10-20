@@ -1,0 +1,41 @@
+<p>If you're curious by nature, sign up for our newsletter.</p>
+<p class="count hidden-xs"></p>
+<p class="hidden-xs">Tweet</p>
+<p class="count hidden-xs">0</p>
+<p>
+More Americans rode trains, buses, streetcars and subways last year than at any time since 1956. That's according to <a href="http://www.apta.com/mediacenter/pressreleases/2014/Pages/140310_Ridership.aspx" rel="nofollow">new figures released by the American Public Transportation Association</a> (APTA). In fact, more than 10.7 billion journeys were made by public transit nationally, and transit ridership is up 37.2 percent since 1995.
+</p>
+<p>
+So what's going on? 
+</p>
+<p>
+Certainly, as the APTA notes, the economic recovery will be playing a role. But there are broader trends that point to a long-term growth in ridership, including increased urbanization.
+</p>
+<p>
+Here's how <a href="http://www.theguardian.com/world/2014/mar/10/american-make-most-journeys-on-public-transport-for-50-years" rel="nofollow">The Guardian explains the shif</a>t:
+</p>
+<p>
+“People want to work and live along transit lines,” said Michael Melaniphy, president and chief executive of the public transportation association. “Businesses, universities and housing are all moving along those corridors.”
+</p>
+<p>
+The best part of all this is that as ridership increases, more, better and cleaner transportation options should increase too. In my neck of the woods, plans are finally moving forward with a Chapel Hill-Durham light rail link, and <a href="https://www.mnn.com/green-tech/transportation/blogs/car-sharing-takes-off-in-the-us">the rise of car sharing</a> is making car ownership optional for many. And then there's <a href="http://cleantechnica.com/2014/03/10/byd-sells-another-2200-electric-buses-taxis-china/" rel="nofollow">the steady spread of electrified, zero-emission buses</a> to look forward to also. 
+</p>
+<p>
+We may indeed be living in a golden age of public transit. And it's about time. 
+</p>
+<p>
+<strong>Related on MNN:</strong>
+</p>
+<p class="most-popular-link" data-popular-order="1" data-popular-url="/earth-matters/animals/stories/fox-snowy-owl-met-winter-night">1</p>
+<p class="most-popular-link" data-popular-order="2" data-popular-url="/food/recipes/blogs/soups-for-soup-weather">2</p>
+<p class="most-popular-link" data-popular-order="3" data-popular-url="/earth-matters/animals/stories/9-of-the-worlds-largest-dog-breeds">3</p>
+<p class="most-popular-link" data-popular-order="4" data-popular-url="/earth-matters/animals/stories/11-animals-that-live-the-longest">4</p>
+<p class="most-popular-link" data-popular-order="5" data-popular-url="/health/healthy-spaces/blogs/why-brits-are-tossing-empty-potato-chip-bags-mail-not-trash">5</p>
+<p class="most-popular-link" data-popular-order="6" data-popular-url="/family/pets/stories/11-things-humans-do-that-dogs-hate">6</p>
+<p class="promo-rail-link" data-promo-rail="Fall for autumn" data-promo-url="/lifestyle/eco-tourism/stories/fall-foliage-guide">Now you know the best time to be a 'leaf peeper' in any part of the U.S.</p>
+<p class="promo-rail-link" data-promo-rail="Fall for autumn" data-promo-url="/earth-matters/climate-weather/blogs/why-do-leaves-change-color-autumn">Learn about the natural mechanisms that produce breathtaking fall foliage each year.</p>
+<p class="promo-rail-link" data-promo-rail="Fall for autumn" data-promo-url="/earth-matters/climate-weather/quiz/what-do-you-know-about-fall">The days are getting shorter and pumpkin spice seems to be everywhere: It must be fall.</p>
+<p class="promo-rail-link" data-promo-rail="Fall for autumn" data-promo-url="/lifestyle/eco-tourism/photos/10-best-places-outside-us-fall-color/autumn-around-world">These places around the world that equal U.S. locales when it comes to colorful scenery.</p>
+<p class="promo-rail-link" data-promo-rail="Fall for autumn" data-promo-url="/food/recipes/photos/5-classic-fall-recipes/preparing-autumns-menu">Roasted veggies and soups of all kinds are what we're talking about.</p>
+<p></p>
+<p></p>

@@ -1,0 +1,37 @@
+<p>Prepare yourself. The ARKit framework in iOS 11 is finding a more plausible use in <a href="https://itunes.apple.com/us/app/tapmeasure-ar-utility/id1281766938?mt=8&amp;at=1010l6XC" rel="noopener" target="_blank">TapMeasure</a>. It beats annoying the hell out of everyone with games you’ll play maybe twice before returning to <a href="https://www.newsledge.com/playerunknowns-battlegrounds-sales/">PUBG on your computer</a>. Sorry, Apple. Hardcore gamers are buying iPhones for other reasons.</p>
+<p>No, it’s <a href="https://itunes.apple.com/us/app/tapmeasure-ar-utility/id1281766938?mt=8&amp;at=1010l6XC" rel="noopener" target="_blank">TapMeasure which shows off the potential of the ARKit</a>. You know the tape measure which sprouts legs and walks out of your house? TapMeasure replaces it. As the name implies, tap a few times around your room, and you have instant measurements. </p>
+<p>How about making your artwork level? The included screenshot for the app makes it seem like whoever put the pictures on the wall was drunk or had an end of the day ‘good enough’ moment. It happens to all of us. </p>
+<p>TapMeasure works as a virtual laser level, and will even tell you how many degrees off center the picture frame is. Only 3.6-degrees? You sure Tap? I suffer from optic neuritis in my left eye, and even I know that’s horrifically off-center. </p>
+<p>Watch Joanna Gaines shiplap the hell out of a house? Now you can get a full 3D model of your current house and scratch the remodeling itch. Yeah, demo day is happening folks. And the plan everyone agreed on for the remodel? Nope. There’s a new toy to completely redo everything. </p>
+<p>While TapMeasure may make the tape measure obsolete, you won’t see Lowes or Home Depot complain. All those 3D floorplans equal more home improvement sales. Someone get this app on one of the home shows on HGTV. There have to be a dozen Flip or Flop incarnations by now.
+									</p>
+<p align="left">
+<input name="EMAIL" placeholder="Enter Your E-mail Address" required="" type="email"/>
+</p>
+<p class="zeen-checkbox">
+<label>
+<input name="AGREE_TO_TERMS" required="" type="checkbox" value="1"/>
+<span class="zeen-i"></span>
+</label>
+<a href="https://www.newsledge.com/privacy-policy/" target="_blank">I have read and agree to the terms and conditions</a>
+</p>
+<p align="left">
+<input name="EMAIL" placeholder="Enter Your E-mail Address" required="" type="email">
+</input></p>
+<p class="zeen-checkbox">
+<label>
+<input name="AGREE_TO_TERMS" required="" type="checkbox" value="1"/>
+<span class="zeen-i"></span>
+</label>
+<a href="https://www.newsledge.com/privacy-policy/" target="_blank">I have read and agree to the terms and conditions</a>
+</p>
+<p align="left">
+<input name="EMAIL" placeholder="Enter Your E-mail Address" required="" type="email"/>
+</p>
+<p class="zeen-checkbox">
+<label>
+<input name="AGREE_TO_TERMS" required="" type="checkbox" value="1"/>
+<span class="zeen-i"></span>
+</label>
+<a href="https://www.newsledge.com/privacy-policy/" target="_blank">I have read and agree to the terms and conditions</a>
+</p>

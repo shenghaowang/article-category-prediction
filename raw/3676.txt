@@ -1,0 +1,9 @@
+<p class="temperature">17</p>
+<p>P/CLOUDY</p>
+<p>
+<a href="https://www.japantimes.co.jp/" title="Return to The Japan Times Home Page"><img alt="The Japan Times" src="https://www.japantimes.co.jp/wp-content/themes/jt_theme/library/img/japantimes-logo.png"/>
+</a>
+</p>
+<p>The article you have been looking for has expired and is not longer available on our system. This is due to newswire licensing terms.</p>
+<p class="pagetop"><a href="#page" id="top_jump" title="Back to top"></a></p>
+<p>The Japan Times LTD. All rights reserved.</p>

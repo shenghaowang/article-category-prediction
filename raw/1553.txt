@@ -1,0 +1,131 @@
+<p>PlayerUnknown’s Battlegrounds had all the markings of being a success. The Battle Royale genre is at its peak thanks to H1Z1: King of the Kill. The biggest Twitch streamers were entertaining thousands every weekend closed beta. And a big chunk of King of the Kill’s fanbase was looking for a fresh take on Battle Royale. I know I was.</p>
+<p><em><strong>Originally posted on 3/27/17</strong></em></p>
+<p><a href="https://www.newsledge.com/playerunknowns-battlegrounds-what-to-expect/">PlayerUnknown’s Battlegrounds</a> finally hit Steam Early Access and what we all thought would happen did happen. Developer Bluehole, best known for Tera before last week, scored big.</p>
+<p><strong>$11 million+ in revenue.</strong> In just three days. That’s more than 360,000 copies sold at $30/each. It’s actually more when you factor in Steam’s cut (30% is the number floating around). Everyone’s favorite source of Steam stats, Steamspy, <a href="http://steamspy.com/app/578080">shows around 235,000 copies</a> (plus/minus 13,800). These Steamspy numbers aren’t set in stone for any game. Think of them as ballpark figures instead. Plus, Battlegrounds was sold via their own website during the closed beta period.</p>
+<p><strong><em>7/9/18 UPDATE</em></strong></p>
+<p>A <a href="https://arstechnica.com/gaming/2018/07/steam-data-leak-reveals-precise-player-count-for-thousands-of-games/" target="_blank">recent Valve leak</a> of game player counts gives us a very accurate look at PUBG’s total sales on Steam (as of July 1, 2018). According to the data, the number of PUBG Steam owners sits at more than 36,604,134. The data leak was fixed on July 1, so that number is higher by now. Arstechnica dumped the <a href="https://arstechnica.com/gaming/2018/07/steam-data-leak-reveals-precise-player-count-for-thousands-of-games/" target="_blank">total player count data</a> for more than 13,000 games into a CSV file. Check it out and see where your favorite games stack up.</p>
+<p><strong><em>6/19/18 UPDATE </em></strong></p>
+<p>PUBG has pushed <a href="https://steamcommunity.com/games/578080/announcements/detail/3077529898697959073" target="_blank">past 50 million units</a> worldwide according to the developer. That’s combined sales between Xbox One and PC. Toss in PUBG Mobile, and there are over 400 million registered PUBG players worldwide. 87+ million log in and play every day across all platforms.</p>
+<p>The devs are celebrating the huge milestones with a PUBG sale. Starting later today through July 5th, you can pick up PUBG for $19.99 ($10 off its usual price).</p>
+<p>Bluehole also took a portion of the announcement to say “there’s still so much we can do to make PUBG a better game for our players.” Yep, there are parts of the game that are still frustrating (loot density, performance issues), but damn I love it. Barely a day goes by where I don’t fire PUBG up for at least a match or two.</p>
+<p><em><strong>3/15/18 UPDATE</strong></em></p>
+<p>We’re almost at a year since I first published this article, and the Battle Royale genre has exploded to heights none of us would ever have imagined. Epic Games’ Fortnite is turning into a cultural phenomenon, but PUBG is still sitting comfortably at the top of Steam. The latest count from SteamSpy shows nearly 33 million owners. We can add another 5 million more after the folks at Xbox <a href="https://news.xbox.com/en-us/2018/03/15/playerunknowns-battlegrounds-xbox-hits-5-million-player-mark/" rel="noopener" target="_blank">announced the milestone.</a> Check out the infographic at the Xbox Wire post for all kinds of chicken dinner stats.</p>
+<p><em><strong>12/7/17 UPDATE<br/>
+</strong></em></p>
+<p>It’s been a while since the last update. 20 million sales came and went. 8 months after release and PUBG is still showing little signs of slowing up. Sales are now past 24 million. 30 million total copies shouldn’t be too far away with the Xbox One version coming next week.</p>
+<p dir="ltr" lang="en">Just saw that PUBG is up to 24 million units sold. In 8 months. Insane. New map reveal coming tomorrow night <a href="https://twitter.com/thegameawards?ref_src=twsrc%5Etfw">@thegameawards</a> with some more news too 🙂</p>
+<p>— Geoff Keighley (@geoffkeighley) <a href="https://twitter.com/geoffkeighley/status/938460745993412608?ref_src=twsrc%5Etfw">December 6, 2017</a></p>
+<p><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></p>
+<p><em><strong>10/11/17 UPDATE</strong></em></p>
+<p>PUBG did it. 2 million concurrent players. 2,016,498 to be precise according to Steam’s own player count tracking. SteamSpy gives us a look at how the audience breaks down across the world. The US saw a dip recently as the holiday rush of games begins (Destiny 2?). But that dip didn’t even register thanks to the massive surge in popularity in China.</p>
+<p dir="ltr" lang="en">For example, yes, PUBG did decline a bit in the US lately but it was offset by skyrocketing player base in China and Korea <a href="https://t.co/7iIUk5WxBs">pic.twitter.com/7iIUk5WxBs</a></p>
+<p>— Steam Spy (@Steam_Spy) <a href="https://twitter.com/Steam_Spy/status/918130292526862336?ref_src=twsrc%5Etfw">October 11, 2017</a></p>
+<p><script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script></p>
+<p>We don’t often see hard numbers like this for the Chinese audience, but it shows just how big games can be over there.</p>
+<p>Sales are also up to at least 15.5 million according to SteamSpy.</p>
+<p><em><strong>10/09/17 UPDATE</strong></em></p>
+<p>PUBG continues its meteoric rise as SteamSpy puts its sales at over 14 million. We haven’t received an official sales update in a little while, but the upward trajectory matches the growth in concurrent player numbers. The 2 million milestone will fall any day now. SteamCharts has the <a href="http://steamcharts.com" target="_blank">peak player count at 1,984,278</a>. That’s more than the peak player numbers for Dota 2, CS:GO, Team Fortress 2, ARK, Rocket League and Warframe combined.</p>
+<p><em><strong>9/26/2017 UPDATE</strong></em></p>
+<p>PUBG success just doesn’t stop. SteamSpy has the total number of owners at <a href="http://steamspy.com/app/578080" rel="noopener" target="_blank">12.2 million, give or take 100,000. </a></p>
+<p>Bluehole’s Battle Royale game already crushed the record for concurrent players, but they still have their work cut out for them to become the most owned game on Steam (that isn’t free to play). The top spot belongs to CS:GO with <a href="http://steamspy.com/app/730" rel="noopener" target="_blank">nearly 34 million owners.</a></p>
+<p>Another crazy stat courtesy of SteamSpy is 76%. That’s the number of total PUBG owners that have played the game in the last two weeks. That’s crazy retention for a game out six months already. Newer games often see retention rates like this, but they tend to fall quickly. Take Divinity: Original Sin 2. 82% of its owners have played in the past two weeks. But that number won’t stay like that for long.</p>
+<p>Players are not only jumping on the PUBG bandwagon. They’re staying on it.</p>
+<p><em><strong>9/14/2017 UPDATE</strong></em></p>
+<p>11 million+ now. That’s according to <a href="http://steamspy.com/app/578080" target="_blank">SteamSpy</a>, which has been underestimating the official numbers by about a million. Either SteamSpy is getting better at tracking sales or PUBG’s incredible growth is only accelerating. I’m guessing a mix of both. Peak player counts this morning rose over 1.13 million. The once insurmountable DOTA 2 record of 1.29 concurrent players looks likely to fall soon.</p>
+<p><em><strong>9/05/2017 UPDATE</strong></em></p>
+<p>10 million and counting. That’s the latest sales numbers from PlayerUnknown himself.</p>
+<p dir="ltr" lang="en">10 MILLION SOLD! Never did I think we would reach such a number! Thank you all for your continuing support of the <a href="https://twitter.com/PUBATTLEGROUNDS">@PUBATTLEGROUNDS</a> team &lt;3</p>
+<p>— PLAYERUNKNOWN (@PLAYERUNKNOWN) <a href="https://twitter.com/PLAYERUNKNOWN/status/905083558833860609">September 5, 2017</a></p>
+<p><script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script></p>
+<p>A quick look at SteamSpy shows the website <a href="http://steamspy.com/app/578080" target="_blank">lagging about one million behind</a>. Peak player numbers continue to grow with 962,950 playing this morning. It’ll be interesting what kind of impact Destiny 2’s launch will have on peak numbers tomorrow and the rest of the week.</p>
+<p><em><strong>8/30/2017 UPDATE</strong></em></p>
+<p>Everyday brings another new peak player count for PUBG. Today, <a href="http://store.steampowered.com/stats/" target="_blank">it hit 887,895</a>. SteamSpy puts sales at <a href="http://steamspy.com/app/578080" target="_blank">around 8.5 million copies</a> right now. This number is lagging as it struggles to keep up with the accelerated growth PUBG has seen in the past month. It wouldn’t surprise me if the real number is at 9 million or past it already.</p>
+<p><em><strong>8/22/2017 UPDATE</strong></em></p>
+<p>SteamSpy can’t keep up with PUBG’s blistering sales rate. Bluehole announced at Gamescom their hit game has already eclipsed 8 million sales. And that’s not even the craziest number. PUBG hit a new peak player record today with 718,978 players. That’s within 70,000 players of DOTA 2.</p>
+<p>I wasn’t sure if PUBG could ever get close to CSGO’s record peak player of 850,000, but it’s showing no signs of slowing down. It’s looking more like a matter of if than when. A stunning success that has to be exceeding even Bluehole’s wildest dreams.</p>
+<p><em><strong>8/16/2017 UPDATE</strong></em></p>
+<p>Well that was fast. SteamSpy puts sales of PUBG at 7 million+. Peak player counts are surging right alongside with a new high of 614,000+. It’s inching ever closer to CS:GO’s 850,000+ high.</p>
+<p><em><strong>8/11/2017 UPDATE </strong></em></p>
+<p>Let’s check in on PUBG. The hottest game out there continues to sell at a blistering rate. SteamSpy pegs the current sales number at around <a href="http://steamspy.com/app/578080" target="_blank">6.5 million copies</a>. And it’s an engaged audience. Peak player counts are closing in on 580,000. CS:GO has a comfortable hold on the #2 spot for all-time peak players at 850,000. PUBG has its work cut out to dethrone the 1-2 punch of DOTA 2 and CS:GO. At least, for the all-time peak number. PUBG is already starting to eclipse CS:GO in daily peak players. PUBG had 559,613 players earlier today. CS:GO? 520,209 players.</p>
+<p><em><strong>7/28/2017 UPDATE</strong></em></p>
+<p>Folks just can’t seem to get enough of PUBG. Another week, another milestone. 6 million copies have been sold according to developer Bluehole. On top of that, a new concurrent peak is being hit right now with 429,723 people vying for a serving of chicken dinner. I knew Battlegrounds would be popular, but I don’t think anyone thought it would put up these kind of numbers. And Bluehole still hasn’t tapped into the console market yet.</p>
+<p>Today’s new concurrent peak puts PUBG within about 40,000 of passing Fallout 4 for the #3 spot on Steam’s <a href="http://steamcharts.com" target="_blank">all-time top 10. </a></p>
+<p>And that $11 million in revenue over its first three days is now around $180 million four months later.</p>
+<p><em><strong>7/17/2017 UPDATE</strong></em></p>
+<p>The big news today centers around player count. PUBG has passed one of the juggernauts of gaming and now sits with the fourth highest peak player count on Steam. Ever. With 382,561 peak players, PUBG passes GTA V. Only Fallout 4, CSGO and Dota 2 have higher peak player counts.</p>
+<p dir="ltr" lang="en">Again, your support of <a href="https://twitter.com/PUBATTLEGROUNDS">@PUBATTLEGROUNDS</a> astounds me! We just surpassed GTAV &amp; achieved the 4th highest peak player count on <a href="https://twitter.com/steam_games">@steam_games</a> &lt;3 <a href="https://t.co/UGtSJX3GYR">pic.twitter.com/UGtSJX3GYR</a></p>
+<p>— PLAYERUNKNOWN (@BattleRoyaleMod) <a href="https://twitter.com/BattleRoyaleMod/status/886595234712375297">July 16, 2017</a></p>
+<p><script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script></p>
+<p>Fallout 4 is within reach, but it’s hard to imagine any game challenging CSGO at 850,000+ or Dota 2 at 1.29 million+.</p>
+<p>As for sales numbers? We haven’t heard any recent official numbers, but SteamSpy shows the game closing in on 5 million sales. I knew Battle Royale was popular and loved it on H1Z1, but PUBG’s success is insane. And well deserved. I can’t stop playing it.</p>
+<p>Bluehole pushed a more polished Battle Royale experience at just the right time, and backed it up with tremendous support. With continuous updates and new maps on the way, PUBG should only continue to grow.</p>
+<p><em><strong>6/22/2017 UPDATE</strong></em></p>
+<p>PlayerUnknown’s Battlegrounds just passed 4 million copies. In three months. Fantastic sales for a fantastic game. Congrats to ‘PlayerUnknown’ and the Bluehole team for delivering a great game and keeping it up with plenty of updates and fixes.</p>
+<p dir="ltr" lang="en">3 months… 4 million copies of <a href="https://twitter.com/PUBATTLEGROUNDS">@PUBATTLEGROUNDS</a> sold… Thank you all again for your continuing support &lt;3</p>
+<p>— PLAYERUNKNOWN (@BattleRoyaleMod) <a href="https://twitter.com/BattleRoyaleMod/status/877996976356286464">June 22, 2017</a></p>
+<p><script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script></p>
+<p><em><strong>6/5/2017 UPDATE</strong></em></p>
+<p><div class="inline-post clearfix"><div class="see-also byline">See also</div><div class="block-wrap block-wrap-23 block-css-22806 block-wrap-classic elements-design-1 block-ani block-skin-0 tipi-box block-wrap-thumbnail ppl-s-2 ppl-l-3 clearfix" data-id="22806" id="block-wrap-22806"><div class="tipi-row-inner-style clearfix"><div class="tipi-row-inner-box contents"><div class="block block-23 clearfix meta-overlay-0"><article class="tipi-xs-12 clearfix with-fi ani-base tipi-xs-typo split-1 split-design-1 loop-0 preview-thumbnail preview-23 elements-design-1 post-17788 post type-post status-publish format-standard has-post-thumbnail category-video-games tag-bethesda tag-featured tag-the-elder-scrolls"><div class="preview-mini-wrap clearfix"><div class="mask"><a class="mask-img" href="https://www.newsledge.com/bethesda-on-next-elder-scrolls-game/"><img alt="Skyrim concept art" class="attachment-zeen-100-66 size-zeen-100-66 wp-post-image" height="66" sizes="(max-width: 100px) 100vw, 100px" src="https://www.newsledge.com/wp-content/uploads/2015/08/skyrim-concept-art-100x66.jpg" srcset="https://www.newsledge.com/wp-content/uploads/2015/08/skyrim-concept-art-100x66.jpg 100w, https://www.newsledge.com/wp-content/uploads/2015/08/skyrim-concept-art-370x247.jpg 370w, https://www.newsledge.com/wp-content/uploads/2015/08/skyrim-concept-art-770x500.jpg 770w" width="100"/></a></div><div class="meta"><div class="title-wrap"><h3 class="title"><span id="bethesda-channels-blizzard-when-asked-about-next-elder-scrolls-game"><a href="https://www.newsledge.com/bethesda-on-next-elder-scrolls-game/">Bethesda Channels Blizzard When Asked About Next Elder Scrolls Game</a></span></h3></div><div class="byline byline-3 byline-cats-design-3"><span class="byline-part author"><a class="url fn n" href="https://www.newsledge.com/author/alex-chavers/">Alex Chavers</a></span><span class="byline-part separator">·</span><div class="byline-part cats"><a class="cat cat-with-line" href="https://www.newsledge.com/video-games/" style="border-bottom-color:#dd9933">Video Games</a></div><span class="byline-part separator">·</span><span class="byline-part date"><time class="entry-date published dateCreated" datetime="2015-08-10T09:25:20-05:00">August 10, 2015</time></span></div></div></div></article></div></div></div></div></div></p>
+<p>The playerbase for PlayerUnknown’s Battlegrounds continues to surge higher. SteamSpy estimates <a href="http://steamspy.com/app/578080" target="_blank">almost 3 million owners</a> for the game. And those buying can’t stop playing Peak concurrent players peaked at 209,081 players over the weekend. That’s just shy of breaking into the top 5 for most peak players ever. No Man’s Sky sits at the fifth spot with 212,321.</p>
+<p>Developer Bluehole continues to keep fans of the game updated on a day-to-day basis. Updates to fix bugs come every week and monthly updates bring new content and features. Look for another (unannounced) weapon this month. Plus, the team is busy working on two new maps and game modes.</p>
+<p>Developer support plus a more polished Battle Royale experience than anything on the market right now propelled Battlegrounds near the top of Steam’s charts.</p>
+<p><em><strong>5/20/17 UPDATE</strong></em></p>
+<p>SteamSpy is now showing <a href="http://steamspy.com/app/578080" target="_blank">2 million owners.</a> We haven’t received an official number since the beginning of the month, but Battlegrounds’ popularity is only growing. Peak player counts are now hitting north of 170,000. Today, 173,386 players were trying to grab chicken dinner at one point. The <a href="http://steamcharts.com/app/578080" target="_blank">all-time peak</a> sits at 174,287 players.</p>
+<p>Despite the surge in players on Battlegrounds, H1Z1: King of the Kill is proving resilient. It hit just over 124,000 peak players earlier today.</p>
+<p>It’s been crazy watching the growth of the Battle Royale genre over the past year. Last May, H1Z1 was only averaging 8,000 players at any one point. Over the past 30 days, <a href="http://steamcharts.com/app/433850" target="_blank">it’s nearly 70,000</a>. For Battlegrounds, it’s just over 96,000.</p>
+<p><em><strong>5/2/17 UPDATE</strong></em></p>
+<p>2 million sales. I can’t imagine how PlayerUnknown and the folks at Bluehole feel passing another milestone. SteamSpy data is lagging a bit as it shows 1,766,374 (plus/minus 36,753). Peak player count is regularly hitting 120,000+. I’ve seen it as high as 140,000 over the past week. A huge success for a great game.</p>
+<p><em><strong>4/27/17 UPDATE</strong></em></p>
+<p>Battlegrounds continues to build on its launch success. According to SteamSpy, the number of owners now sits at 1,578,332 (plus/minus 36,564). Remember, use these figures as ballpark estimates. Not hard numbers.</p>
+<p>The player rising is rising right alongside the number of owners. We have a Battle Royale near the top of Steam’s top games chart with Battlegrounds and H1Z1 fighting for the 3rd and 4th spot. Right now, 103,254 people are on Battlegrounds. 103,055 are fighting on H1Z1: King of the Kill.</p>
+<p>Man, whoever gets their game on console first is going to see a ton more sales. Hell, I would double dip on Xbox One.</p>
+<p><em><strong>4/10/17 UPDATE</strong></em></p>
+<p dir="ltr" lang="en">We wouldn’t have reached this amazing milestone without the tremendous support shown by our players and content creators. Thank you all &lt;3 <a href="https://t.co/siRiG4CNh0">https://t.co/siRiG4CNh0</a></p>
+<p>— PLAY BATTLEGROUNDS (@PUBATTLEGROUNDS) <a href="https://twitter.com/PUBATTLEGROUNDS/status/851456792840118272">April 10, 2017</a></p>
+<p><script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script></p>
+<p>Battlegrounds is showing no signs of slowing down as it breaks 1 million+ copies sold. Huge congrats to the Bluehole team for creating an absolutely awesome experience. SteamSpy <a href="http://steamspy.com/app/578080" target="_blank">puts the owners at 916,186</a> (plus/minus 27,819). Peak concurrent players is pushing 90,000 daily.</p>
+<p><em><strong>4/4/17 UPDATE</strong></em></p>
+<p>Battlegrounds continues its impressive launch. According to SteamSpy, the number of owners now <a href="http://steamspy.com/app/578080" target="_blank">sits at 679,209</a> (plus/minus 23,031). Peak daily players are up 74,000.</p>
+<p><em><strong>Original story continues below.</strong></em></p>
+<p><strong>150,000 Twitch viewers at times.</strong> King of the Kill was already a popular game among many of the top streamers. A lot of them moved over to Battlegrounds at launch. More than 3,600 Twitch streams have entertained countless viewers. A look at it right now shows nearly 100,000 viewers in the early afternoon. Only League of Legends has more viewers.</p>
+<p><img alt="Battlegrounds Twitch" class="aligncenter size-full wp-image-26465" height="628" sizes="(max-width: 1400px) 100vw, 1400px" src="https://www.newsledge.com/wp-content/uploads/2017/03/battlegrounds-twitch.jpg" srcset="https://www.newsledge.com/wp-content/uploads/2017/03/battlegrounds-twitch.jpg 1400w, https://www.newsledge.com/wp-content/uploads/2017/03/battlegrounds-twitch-800x359.jpg 800w, https://www.newsledge.com/wp-content/uploads/2017/03/battlegrounds-twitch-1160x520.jpg 1160w, https://www.newsledge.com/wp-content/uploads/2017/03/battlegrounds-twitch-293x131.jpg 293w, https://www.newsledge.com/wp-content/uploads/2017/03/battlegrounds-twitch-770x345.jpg 770w" width="1400"/></p>
+<p>You can see King of the Kill slipped out of the top 10 on Twitch right now.</p>
+<p><strong>67,000+ concurrent players.</strong> That’s enough to get PlayerUnknown’s Battlegrounds into the top 10 on Steam’s most played games. Up there with the likes of Dota 2, CSGO, King of the Kill, GTA and Rocket League.</p>
+<p>While the game’s launch has been incredibly impressive, H1Z1 is still hitting <a href="http://store.steampowered.com/stats/">higher concurrent players</a>. Today, King of the Kill hit nearly 110,000 players at one point. We’ll see how the tug of war between the Battle Royale giants shake out over the coming weeks and months.</p>
+<p>Don’t expect H1Z1 to go down quietly. Yes, the game is stale for some – but evidently not for many. It weathered the launch of Battlegrounds better than I thought it would. Still, Daybreak Games has to be feeling pressure from Bluehole. Battlegrounds strengths are King of the Kill’s biggest weaknesses. Weapon variety, the map and gunplay are all better on Battlegrounds.</p>
+<p>That’s not to say Battlegrounds doesn’t have its share of issues. The biggest one right now is the servers. It doesn’t happen all the time, but rubberbanding is an issue. And there are performance issues on certain areas of the map.</p>
+<p>Bluehole is addressing these performance issues and plans to release patches to fix them. Here’s what the dev had to say in a <a href="https://www.playbattlegrounds.com/news/64.pu">recent blog post</a>.</p>
+<p><em>One important thing to note. Client optimization takes time, and will not be solved in one single patch. We will be working hard over the next 6 months to ensure all players enjoy smooth gameplay with no lag or FPS drops.</em></p>
+<p>We’ll see how they do. For me, Battlegrounds is running fantastic. Outside of the server issues I mentioned above, I haven’t run into any problems. I know that might not be the case for everyone, but the devs seem committed to getting the game running great across a variety of PC and settings.</p>
+<p>Did you pick up PlayerUnknown’s Battlegrounds? What do you think so far?
+									</p>
+<p align="left">
+<input name="EMAIL" placeholder="Enter Your E-mail Address" required="" type="email"/>
+</p>
+<p class="zeen-checkbox">
+<label>
+<input name="AGREE_TO_TERMS" required="" type="checkbox" value="1"/>
+<span class="zeen-i"></span>
+</label>
+<a href="https://www.newsledge.com/privacy-policy/" target="_blank">I have read and agree to the terms and conditions</a>
+</p>
+<p align="left">
+<input name="EMAIL" placeholder="Enter Your E-mail Address" required="" type="email">
+</input></p>
+<p class="zeen-checkbox">
+<label>
+<input name="AGREE_TO_TERMS" required="" type="checkbox" value="1"/>
+<span class="zeen-i"></span>
+</label>
+<a href="https://www.newsledge.com/privacy-policy/" target="_blank">I have read and agree to the terms and conditions</a>
+</p>
+<p align="left">
+<input name="EMAIL" placeholder="Enter Your E-mail Address" required="" type="email"/>
+</p>
+<p class="zeen-checkbox">
+<label>
+<input name="AGREE_TO_TERMS" required="" type="checkbox" value="1"/>
+<span class="zeen-i"></span>
+</label>
+<a href="https://www.newsledge.com/privacy-policy/" target="_blank">I have read and agree to the terms and conditions</a>
+</p>

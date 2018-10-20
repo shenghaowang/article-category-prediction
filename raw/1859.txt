@@ -1,0 +1,16 @@
+<p>The website, which went blank just over three weeks ago, had previously posted occasional updates on Mt. Gox's civil rehabilitation process - a legal procedure that may allow <a href="https://gadgets.ndtv.com/tags/mt-gox">Mt. Gox</a> to rebuild and pay back some of its creditors - as well as a warning that some spam or phishing emails purporting to be from the exchange were in circulation.</p>
+<p>Mt. Gox filed for bankruptcy protection in Japan on February 28, saying it may have lost 850,000 <a href="https://gadgets.ndtv.com/tags/bitcoin">bitcoins</a> - worth around $520 million at current prices - to hackers. It has since gone through a similar process in the United States.</p>
+<p>A spokesperson reached via a helpline for Mt. Gox creditors confirmed that Mt. Gox set up the log-in, based on the last available data from the exchange's servers before they shut down.</p>
+<p>Leaked information from various hacking attacks on Mt. Gox servers and CEO Mark Karpeles' personal blog and Reddit account have been released in recent weeks, and one file purporting to be the company's internal database contained malware that could steal bitcoins once downloaded.</p>
+<p class="alsosee"><a href="https://gadgets.ndtv.com/bitcoin-price-today-india-inr-usd-compare-koinex-zebpay-price-litecoin-iota">Cryptocurrency Prices across Indian exchanges</a></p>
+<p class="downloadtxt margin_t20 margin_b20">For the latest <a href="https://gadgets.ndtv.com/news">tech news</a> and <a href="https://gadgets.ndtv.com/reviews">reviews</a>, follow Gadgets 360 on <a href="https://twitter.com/gadgets360" target="_blank">Twitter</a>, <a href="https://facebook.com/gadgets360" target="_blank">Facebook</a>, and subscribe to our <a href="https://www.youtube.com/channel/UCx5e1u7BX0aKwEj3sdYXdXg" target="_blank">YouTube channel</a>.</p>
+<p class="downloadtxt margin_t20" id="ethics_link"></p>
+<p class="adhead cap_text">Advertisement</p>
+<p class="photo_blkstrip"><span class="sprite iconvideo fl"></span><span class="imagecount fr">10:28 </span></p>
+<p class="photo_blkstrip"><span class="sprite iconvideo fl"></span><span class="imagecount fr">08:23 </span></p>
+<p class="photo_blkstrip"><span class="sprite iconvideo fl"></span><span class="imagecount fr">04:09 </span></p>
+<p class="photo_blkstrip"><span class="sprite iconvideo fl"></span><span class="imagecount fr">02:52 </span></p>
+<p class="photo_blkstrip"><span class="sprite iconvideo fl"></span><span class="imagecount fr">16:03 </span></p>
+<p><a class="row" href="https://gadgets.ndtv.com/games/opinion/nba-2k19-mycareer-review-story-cast-microtransactions-1926035">NBA 2K19's MyCareer Shows a Studio Unwilling to Change</a></p>
+<p><a class="row" href="https://gadgets.ndtv.com/games/opinion/spiderman-ps4-platinum-trophy-open-world-1911226">Why Spider-Man PS4's Open World Is the Best We've Seen in Years</a></p>
+<p class="adhead cap_text">Advertisement</p>

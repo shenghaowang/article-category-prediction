@@ -1,0 +1,123 @@
+<p class="bgcolor-business-1"><span class="more float_right"><a href="/business/">View more »</a></span>Latest Business News</p>
+<p class="bgcolor-business-1"><span class="more float_right"></span>Explore Business</p>
+<p class="sub_category_title"><a href="/business/auto/">Auto</a></p>
+<p class="sub_category_title"><a href="/business/autotalk-special/">Autotalk Special</a></p>
+<p class="sub_category_title"><a href="/business/benchmark/">Benchmark</a></p>
+<p class="sub_category_title"><a href="/business/biz-commentary/">Biz Commentary</a></p>
+<p class="sub_category_title"><a href="/business/biz-special/">Biz Special</a></p>
+<p class="sub_category_title"><a href="/business/consumer/">Consumer</a></p>
+<p class="sub_category_title"><a href="/business/economy/">Economy</a></p>
+<p class="sub_category_title"><a href="/business/energy/">Energy</a></p>
+<p class="sub_category_title"><a href="/business/finance/">Finance</a></p>
+<p class="sub_category_title"><a href="/business/finance-special/">Finance Special</a></p>
+<p class="sub_category_title"><a href="/business/it/">IT</a></p>
+<p class="sub_category_title"><a href="/business/manufacturing/">Manufacturing</a></p>
+<p class="sub_category_title"><a href="/business/media/">Media</a></p>
+<p class="sub_category_title"><a href="/business/real-estate/">Real estate</a></p>
+<p class="sub_category_title"><a href="/business/real-estate-special/">Real Estate Special</a></p>
+<p class="sub_category_title"><a href="/business/transport/">Transport</a></p>
+<p class="bgcolor-metro-1"><span class="more float_right"><a href="/metro/">View more »</a></span>Latest Metro News</p>
+<p class="bgcolor-metro-1">Explore Metro</p>
+<p class="sub_category_title"><a href="/metro/education/">Education</a></p>
+<p class="sub_category_title"><a href="/metro/entertainment-and-culture/">Entertainment and culture</a></p>
+<p class="sub_category_title"><a href="/metro/environment/">Environment</a></p>
+<p class="sub_category_title"><a href="/metro/expat-community/">Expat community </a></p>
+<p class="sub_category_title"><a href="/metro/health-and-science/">Health and science</a></p>
+<p class="sub_category_title"><a href="/metro/in-depth/">In-depth</a></p>
+<p class="sub_category_title"><a href="/metro/interactive/">Interactive </a></p>
+<p class="sub_category_title"><a href="/metro/public-services/">Services </a></p>
+<p class="sub_category_title"><a href="/metro/society/">Society </a></p>
+<p class="bgcolor-sport-1"><span class="more float_right"><a href="/sports/">View more »</a></span>Latest Sports News</p>
+<p class="bgcolor-sport-1">Explore Sports</p>
+<p class="sub_category_title"><a href="/sports/american-football/">American football </a></p>
+<p class="sub_category_title"><a href="/sports/athletics/">Athletics </a></p>
+<p class="sub_category_title"><a href="/sports/awards/">Awards </a></p>
+<p class="sub_category_title"><a href="/sports/badminton/">Badminton </a></p>
+<p class="sub_category_title"><a href="/sports/baseball/">Baseball </a></p>
+<p class="sub_category_title"><a href="/sports/basketball/">Basketball </a></p>
+<p class="sub_category_title"><a href="/sports/boxing/">Boxing </a></p>
+<p class="sub_category_title"><a href="/sports/cricket/">Cricket </a></p>
+<p class="sub_category_title"><a href="/sports/cycling/">Cycling </a></p>
+<p class="sub_category_title"><a href="/sports/diving/">Diving </a></p>
+<p class="sub_category_title"><a href="/sports/doping/">Doping </a></p>
+<p class="sub_category_title"><a href="/sports/east-asian-games/">East Asian games </a></p>
+<p class="sub_category_title"><a href="/sports/golf/">Golf </a></p>
+<p class="sub_category_title"><a href="/sports/gymnastics/">Gymnastics </a></p>
+<p class="sub_category_title"><a href="/sports/ice-hockey/">Ice hockey </a></p>
+<p class="sub_category_title"><a href="/sports/motor-racing/">Motor racing</a></p>
+<p class="sub_category_title"><a href="/sports/motorcycling/">Motorcycling</a></p>
+<p class="sub_category_title"><a href="/sports/olympics/">Olympics</a></p>
+<p class="sub_category_title"><a href="/sports/rugby/">Rugby</a></p>
+<p class="sub_category_title"><a href="/sports/sailing/">Sailing </a></p>
+<p class="sub_category_title"><a href="/sports/skating/">Skating </a></p>
+<p class="sub_category_title"><a href="/sports/skiing/">Skiing </a></p>
+<p class="sub_category_title"><a href="/sports/snooker/">Snooker </a></p>
+<p class="sub_category_title"><a href="/sports/soccer/">Soccer </a></p>
+<p class="sub_category_title"><a href="/sports/swimming/">Swimming </a></p>
+<p class="sub_category_title"><a href="/sports/table-tennis/">Table tennis</a></p>
+<p class="sub_category_title"><a href="/sports/tennis/">Tennis </a></p>
+<p class="bgcolor-feature-1"><span class="more float_right"><a href="/feature/">View more »</a></span>Latest Feature News</p>
+<p class="bgcolor-feature-1">Explore Feature</p>
+<p class="sub_category_title"><a href="/feature/animal-planet/">Animal planet</a></p>
+<p class="sub_category_title"><a href="/feature/art-and-culture/">Art and culture</a></p>
+<p class="sub_category_title"><a href="/feature/community/">Community</a></p>
+<p class="sub_category_title"><a href="/feature/district-special/">District special</a></p>
+<p class="sub_category_title"><a href="/feature/education/">Education</a></p>
+<p class="sub_category_title"><a href="/feature/news-feature/">News Feature</a></p>
+<p class="sub_category_title"><a href="/feature/people/">People</a></p>
+<p class="sub_category_title"><a href="/feature/events-and-tv/">Events and TV</a></p>
+<p class="sub_category_title"><a href="/feature/health-and-environment/">Health and environment</a></p>
+<p class="sub_category_title"><a href="/feature/ideal/">iDEAL</a></p>
+<p class="sub_category_title"><a href="/feature/travel/">Travel</a></p>
+<p class="sub_category_title"><a href="/feature/mice/">Mice</a></p>
+<p class="sub_category_title"><a href="/feature/stylehai/">StyleHai</a></p>
+<p class="bgcolor-opinion-1"><span class="more float_right"><a href="/opinion/">View more »</a></span>Latest Opinion News</p>
+<p class="bgcolor-opinion-1">Explore Opinion</p>
+<p class="sub_category_title"><a href="/opinion/shanghai-daily-columnists/">Opinion Columns</a></p>
+<p class="sub_category_title"><a href="/opinion/book-review/">Book review</a></p>
+<p class="sub_category_title"><a href="/opinion/china-knowledge-wharton/">China Knowledge </a></p>
+<p class="sub_category_title"><a href="/opinion/chinese-perspectives/">Chinese Views</a></p>
+<p class="sub_category_title"><a href="/opinion/foreign-perspectives/">Foreign Views</a></p>
+<p class="sub_category_title"><a href="/opinion/global-lens-on-china/">Global Lens on China</a></p>
+<p class="bgcolor-opinion-1"><span class="more float_right"><a href="/opinion/shanghai-daily-columnists/">View more »</a></span>Opinion Columns</p>
+<p class="auxi_info">Opinion deputy editor of Shanghai Daily</p>
+<p> </p>
+<p class="bgcolor-sunday-1"><span class="more float_right"><a href="/vibe/">View more »</a></span>Latest Vibe News</p>
+<p class="bgcolor-sunday-1">Explore Vibe</p>
+<p class="sub_category_title"><a href="/sunday/book/">Book</a></p>
+<p class="sub_category_title"><a href="/sunday/city-scene/">City scene</a></p>
+<p class="sub_category_title"><a href="/sunday/film/">Film</a></p>
+<p class="sub_category_title"><a href="/sunday/home-and-design/">Home and design</a></p>
+<p class="sub_category_title"><a href="/sunday/now-and-then/">Now and then</a></p>
+<p class="sub_category_title"><a href="/sunday/style/">Style</a></p>
+<p class="sub_category_title"><a href="/sunday/technology/">Technology</a></p>
+<p class="histroy_tree">
+<a href="/">Home</a> » <a href="/lastestnews/latest_news.aspx">Latest News</a></p>
+<p>BEIJING, March 13 (Xinhua) -- The sales value of residential homes in China went down 5 percent year on year to 598.5 billion yuan (97.6 billion U.S. dollars) in the first two months of 2014, latest government data showed.</p>
+<p> </p>
+<p> </p>
+<p>The amount of housing floor space sold during the period went down 1.2 percent year on year, according to the data released on Thursday by the National Bureau of Statistics (NBS).</p>
+<p> </p>
+<p> </p>
+<p>During the two-month period, gross sales of properties including residential housing, offices and commercial premises totaled 709 billion yuan in value, down 3.7 percent year on year. Total floor space sold reached 104.66 million square meters, down 0.1 percent, the data showed.</p>
+<p> </p>
+<p> </p>
+<p>Property developers invested in real estate development at a slower rate because of falling sales. They invested 795.6 billion yuan during the period, up 19.3 percent year on year. However, the growth rate fell by 0.5 percentage point compared to the same period last year, the data showed.</p>
+<p> </p>
+<p> </p>
+<p>The NBS data report said that residential housing accounted for 68.2 percent of developers' real estate investment during the period. Investment in residential property grew 18.4 percent year on year. The growth rate dropped 1 percentage point from a year ago.</p>
+<p> </p>
+<p> </p>
+<p>Meanwhile, an index reflecting vitality of real estate development stood at 96.91 points in February, down 0.3 point from December, the data showed.</p>
+<p>
+         </p>
+<p>
+        Copyright © 1999-<span id="year"></span> Shanghai Daily. All rights reserved.Preferably
+        viewed with Internet Explorer 8 or newer browsers.
+    </p>
+<p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">沪公网安备 31010602000204号</p>
+<p class="error"></p>
+<p style="background: url(/images/share/icon-success.gif) no-repeat left center; padding-left: 30px; height: 24px; line-height: 24px; margin-top: 10px; font-weight: 600; color: #333;">Congratulations! Your email has been sent!</p>
+<p style="margin-top: 20px; padding-left: 30px;">Thanks for sharing. Would you like to sign up for our daily newsletter?</p>
+<p style="font-size: 16px; color: #999;">7x per week</p>
+<p class="btn-no">No thanks.</p>

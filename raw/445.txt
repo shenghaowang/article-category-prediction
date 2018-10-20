@@ -1,0 +1,3 @@
+<p><strong>Subscribe</strong> and get the <br/><strong>top tech news</strong> of the day <br/><strong>Delivered</strong> to your mailbox</p>
+<p class="comment-dialog">Refrain from posting comments that are obscene, defamatory or inflammatory, and do not indulge in personal attacks, name calling or inciting hatred against any community. <strong>Help us delete comments</strong> that do not follow these guidelines <strong>by marking them offensive</strong>. Let's work together to keep the conversation civil.</p>
+<p class="clear hide" data-plugin="user-isloggedin"></p>

@@ -1,0 +1,47 @@
+<p class="misc">
+<a href="/mobile">Apps</a>,
+    <a href="/about">About Us</a>,
+    <a href="/about/contact">Contact Us</a>,
+    <a href="/about/staff">Staff</a>,
+    <a href="/advertise">Advertise</a>,
+    <a href="/about/flipbooks">E-Edition</a>,
+    <a href="/about/privacy-policy">Privacy</a>,
+    <a href="/about/terms-of-use">Terms</a>
+</p>
+<p class="error" id="login-error"></p>
+<p>Or sign in with a social account:</p>
+<p>
+                    Don't have an account yet?
+                    <span class="mvn-join-button">Sign Up ›</span>
+</p>
+<p>
+                    Get the most out of your experience with a personalized all-access pass to everything local on events, music, restaurants, news and more.
+                </p>
+<p class="social">Enter your email or sign up with a social account to get started</p>
+<p class="error" id="join-error"></p>
+<p>Already registered? <span class="mvn-login-button">Login ›</span></p>
+<p>Don't have an account yet?</p>
+<p>One of the most-hated franchises in town is being sued by the city of Los Angeles for nearly $10 million.</p>
+<p>The L.A. City Attorney's office alleges that Time Warner Cable, which has a virtual monopoly in L.A., has failed to pay up in exchange for the people of this fine city allowing it to do business on our public right-of-way.</p>
+<p>In other words, the City Hall lawyers say, we let TWC bury its cables under our streets and place them on our utility poles and they are supposed to pay us an arguably <i>nominal</i> fee:</p>
+<p>The City Attorney's office <a href="http://atty.lacity.org/stellent/groups/electedofficials/@atty_contributor/documents/contributor_web_content/lacityp_027826.pdf" target="_blank">claims</a> that TWC didn't paid up properly between 2008 and 2011, partly because the company wasn't happy with a previous city suit for alleged "unfair, deceptive and fraudulent business practices" related to "unexpected rate hikes," "severe disruption" and "quality of service" issues in L.A.</p>
+<p>On top of that, the city says the cable company failed to live up to its obligation to provide public access TV facilities for the people of Los Angeles.</p>
+<p>At one point, prosecutors say, the firm's denial of $5 million cash owed to the taxpayers in 2011 really hurt because it came at a time when City Hall was facing a "well-publicized fiscal crisis," prosecutors stated.</p>
+<p>In total, City Hall claims Time Warner owes us $9,697,896 million in unpaid obligations.</p>
+<p>Time Warner controls 90 percent of the city's cable market and makes a half-billion dollars a year off of Angelenos, the City Attorney's office says.</p>
+<p>City Attorney Mike Feuer:<br/></p>
+<p>The City of Los Angeles enabled Time Warner to make billions and in turn they shortchanged the taxpayers millions. This is the day where we stand up and say enough is enough.<br/></p>
+<p></p>
+<p> Time Warner is the company that created a monopoly in game coverage with the Dodgers that will essentially shut out broadcast watchers and DirecTV subscribers from seeing the team.</p>
+<p>And TWC was behind the partial <a href="http://ktla.com/2014/02/02/customers-report-time-warner-cable-outage-during-super-bowl/#axzz2vysIVAto" target="_blank">Super Bowl outage</a> last month that affected Southern California subscribers. There's much to love here.</p>
+<p>You have successfully signed up for your selected newsletter(s) - please keep an eye on your mailbox, we're movin' in!</p>
+<p><i>See also: <a href="http://www.laweekly.com/informer/2014/03/10/four-workarounds-for-fans-who-dont-have-the-dodgers-new-tv-channel" target="_blank">Four Workarounds for Fans Who Don't Have the Dodgers' New TV Channel</a></i></p>
+<p>We reached out to Time Warner to get its side of the story. It sent us this statement:<br/></p>
+<p>As a major job creator, tax contributor and service provider in the City of Los Angeles, Time Warner Cable is an active and responsible corporate citizen in the City of Los Angeles. We are disappointed the City has chosen to bring this action, which we strongly believe is without merit. It will now be resolved through the legal process.</p>
+<p></p>
+<p> <em><a href="mailto:djromero@laweekly.com" target="_blank">Send feedback and tips to the author.</a> Follow Dennis Romero on Twitter at <a href="https://twitter.com/dennisjromero" target="_blank">@dennisjromero</a>. Follow LA Weekly News on Twitter at <a href="https://twitter.com/laweeklynews" target="_blank">@laweeklynews</a></em>.<br/></p>
+<p>Use of this website constitutes acceptance of our <a href="/about/terms-of-use">terms of use</a>, our <a href="/about/cookies">cookies policy</a>, and our <a href="/about/privacy-policy">privacy policy</a>
+<p>©2018 LA Weekly, LP. All rights reserved.</p>
+</p>
+<p>©2018 LA Weekly, LP. All rights reserved.</p>
+<p>All-access pass to the top stories, events and offers around town.</p>

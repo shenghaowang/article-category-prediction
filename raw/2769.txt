@@ -1,0 +1,24 @@
+<p>Sign up for our daily newsletter</p>
+<p class="block-title">Sections</p>
+<p> Defunct Bitcoin exchange Mt. Gox has been accused of pocketing its users’ cash by a group of hackers who infiltrated the personal blog and Reddit account of the service’s CEO.</p>
+<p>The repository made headlines last month after £200 million worth of Bitcoins were allegedly stolen by hackers, forcing the organisation to file for bankruptcy protection in Japan and close its doors.</p>
+<p>The company claimed in the bankruptcy filing that it had lost 750,000 customer Bitcoins, as well as 100,000 company-owned ones too.</p>
+<p>However, a separate group of hackers have now accused the firm of pocketing at least some of the money it told users had been stolen.</p>
+<p>According to a report by <em><a href="http://www.forbes.com/sites/andygreenberg/2014/03/09/hackers-hit-mt-gox-exchanges-ceo-claim-to-publish-evidence-of-fraud/">Forbes</a></em>, the hackers gained access to the Reddit account and personal blog of Mt. Gox CEO Mark Karpeles to post a missive detailing their accusations.</p>
+<p>“It’s time that MTGOX got the Bitcoin communities wrath instead of [the] Bitcoin Community getting Goxed,” the hackers wrote.</p>
+<p>The term “Goxed” is often used by Mt. Gox users to describe instances where the site has gone offline or experienced other technical issues.</p>
+<p>The group also reportedly posted a 716 megabyte file to Karpeles’ personal website that allegedly contained data stolen from Mt. Gox’s servers about the organisation’s finances.</p>
+<p>The hackers said it shows the company has a balance of 951,116 Bitcoins, and have used it to pour scorn on Mt. Gox’s assertion that users’ money had been lost.</p>
+<p>Karpeles was unresponsive to requests for comment from <em>Forbes</em>, and – at the time of writing – the hackers’ claims were still awaiting verification.</p>
+<p>In the meantime, industry watchers have started questioning why no evidence has been uncovered to date about how the stolen Bitcoins are being spent, fuelling speculation they may not have been stolen at all. </p>
+<p class="group-label"><span>Read more about</span></p>
+<p>Get FREE weekly newsletters from ITPro - delivering the latest news, reviews, insight and case studies.</p>
+<p class="text-right"><a class="newsletter-button newsletter-signup-link" href="https://dennispublishing.emsecure.net/optiext/optiextension.dll?ID=7YU9UrD0j%2BCrEhwU%2By_bW10M4SHRn1coQ22JBsRdujZgYAU2Hle9zlQxbaxDhzsc9V4D8KVyVk&amp;BRANDS_NEWSLETTERIDS=CLP_STD,ALP_CLD,CHP_STD&amp;NEWSLETTER_ID=ITP_STD&amp;utm_source=itpro.co.uk&amp;utm_medium=referral&amp;utm_campaign=web0003itp&amp;BRAND_CODE=ITP" rel="lightframe[|width:600px; height:700px; scrolling: auto;] nofollow">Click here</a></p>
+<p class="block-title"><span>Contact us</span></p>
+<p>Dennis Publishing Editorial Offices<br/>
+30 Cleveland Street<br/>
+London, W1T 4JD<br/>
+T: +44 (0)20 7907 6000<br/></p>
+<p class="block-title">Useful links</p>
+<p class="block-title">Our Websites</p>
+<p>© Copyright <a href="http://www.dennis.co.uk/" rel="nofollow" title="Hyperlink to The Dennis Publishing web site"><span>Dennis Publishing</span></a> Limited. Under licence from Felix Dennis.</p>

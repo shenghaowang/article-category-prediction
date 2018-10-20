@@ -1,0 +1,20 @@
+<p class=" p-b-0 m-b-0 text-xs-center">
+<span class="ion ion-alert-circled"></span>
+<span class="message">Warning - there was an unexpected script error. Application may not work as expected.</span>
+<button class="btn btn-sm btn-primary" onclick="location.reload()" type="button"><span class="ion ion-refresh"></span></button>
+<button class="btn btn-sm btn-secondary" onclick="parentElement.parentElement.parentElement.style.display='none'" type="button">
+<span class="ion ion-close"></span>
+</button>
+</p>
+<p class="ag-tileTextColor p-b-0 m-b-0 text-xs-center">
+<span class="ion ion-alert-circled"></span>
+<span class="message">Warning - assets failed to load. Application may not work as expected.</span>
+<button class="btn btn-sm btn-danger" onclick="location.reload()" type="button"><span class="ion ion-refresh"></span></button>
+<button class="btn btn-sm btn-secondary" onclick="parentElement.parentElement.parentElement.style.display='none'" type="button">
+<span class="ion ion-close"></span>
+</button>
+</p>
+<p class=" p-b-0 m-b-0 text-xs-center">
+<span class="ion ion-alert-circled"></span>
+<span class="message">Please enable JavaScript in your browser to view this page.</span>
+</p>

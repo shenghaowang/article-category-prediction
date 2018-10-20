@@ -1,0 +1,45 @@
+<p class="title title-xsmall title-nocenter breadcrumbs"><span><a href="http://filmindustrynetwork.biz">Home</a>  /  <a href="http://filmindustrynetwork.biz/entertainment-news">Entertainment</a>  /  <a href="http://filmindustrynetwork.biz/entertainment-news/tech">Tech</a>  /  <span class="current"></span></span></p>
+<p class="postmetadata">
+<span class="author">By <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="authornolink" itemprop="name" style="color: #000000">Iain Alexander</span></span></span><time datetime="2014-03-11" pubdate=""> / 11 March 2014</time></p>
+<p><iframe frameborder="0" height="464" scrolling="no" src="//embed.gettyimages.com/embed/477717515?et=qvwDFX_BykeP8IF6Dm5PJA&amp;sig=ZAEm_YNPaun9IRJGAIWTuthabbZ4mHbY3SEY5F5F10Y=" width="594"></iframe><br/>
+A new crowdsourcing website called Tomnod set up to allow people to search satellite images for Malaysia Flight 370 has crashed.</p>
+<p>The <a href="http://www.tomnod.com/nod/challenge/malaysiaairsar2014" target="_blank">website became unresponsive</a> as the viral topic surged in social discussions within the hour of the initiative being reported.</p>
+<p><a href="http://abcnews.go.com/blogs/headlines/2014/03/crowdsourcing-the-search-for-malaysia-flight-370/" target="_blank">ABC highlights</a> the crowdsourcing search for the flight and explains how Tomnod was set up by <a href="https://www.digitalglobe.com/" target="_blank">DigitalGlobe</a>, based in Colorado to give people the tools to look through satellite imagery of the Pacific ocean.</p>
+<p>Due to the time zones, there are currently no updates being issued from the team behind the Tomnod satellite search, but we expect some more updates later in the day.</p>
+<p class="wp-caption-text">Users on Tomnod can tag objects in satellite photos</p>
+<p>The overwhelming demand from international visitors has made the website either not responsive or unable to load new connections. As of this moment, a “Could not open connection to database error” appears for users wishing to log in.</p>
+<p>As the mystery over the jet’s disappearance deepens, the crowdsourcing website could aid Asian nations currently exploring the ocean to pinpoint unusual objects floating in the water.</p>
+<p>The satellite imagery available on the Tomnod website is of very high resolution giving uses the ability to comb the sea surface at distance of just a few meters.</p>
+<p>Have you tried to log on in the past few hours? What are your experiences with the site?</p>
+<p class="postmetadata">
+<span>
+</span>
+</p>
+<p class="postmetadata">
+<span>
+</span>
+</p>
+<p class="postmetadata">
+<span>
+</span>
+</p>
+<p class="postmetadata">
+<span>
+</span>
+</p>
+<p class="postmetadata">
+<span>
+</span>
+</p>
+<p class="postmetadata">
+<span>
+</span>
+</p>
+<p class="title title-medium"><span><a href="http://filmindustrynetwork.biz/film-tutorials">In-depth</a></span></p>
+<p class="postmetadata">
+</p>
+<p class="postmetadata">
+</p>
+<p class="title title-medium" style="margin-top: 50px;"><span> Tech</span></p>
+<p style="text-align:right;">
+Film Industry Network™ © 2018. All Rights Reserved.</p>

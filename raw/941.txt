@@ -1,0 +1,38 @@
+<p class="b-autoriz-form__text">
+</p>
+<p>BEIJING, March 13. /ITAR-TASS/. The operation to find the missing Boeing-777-200 airliner “must be conducted in cooperation among all sides”, Li Keqiang, Premier of the State Council of the People's Republic of China (PRC), told a news conference here on Thursday at the close of the 2nd session of the 12th National People's Congress.</p>
+<p><div class="b-infografic-widget b-infografic-widget_right b-infografic-widget_25">
+<a class="b-infografic-widget__header" href="http://tass.com/infographics/7199">
+        Infographics    </a>
+<a class="b-infografic-widget__pic" href="http://tass.com/infographics/7199"><img alt="Eight possible causes behind the incident of Malaysia’s Boeing-777-200" src="https://phototass2.cdnvideo.ru/tass/m2/en/uploads/i/20140324/981068.jpg" width="100%"/></a> <h3>
+<a class="b-infografic-widget__title" href="http://tass.com/infographics/7199">Eight possible causes behind the incident of Malaysia’s Boeing-777-200</a>
+</h3>
+<div class="b-infografic-widget__desc">The Boeing liner of Malaysia Airlines (flight MH370) that went missing in route from Kuala Lumpur to Beijing not found yet. Infographics ITAR-TASS</div>
+</div>China's Head of Government emphasized that “it is essential to clarify the causes” of the incident and “find the missing airliner of the Malaysian Airlines”.</p>
+<p>“China has activated a comprehensive emergency mechanism for the search-and-rescue operation,” Li Keqiang said. “There are now eight Chinese ships in the search zone and another one is heading for a respective area.”</p>
+<p>Li Keqiang said he had spoken to the commander of one of the ships on Wednesday and called on him “to make every effort” towards finding the missing airliner. He pointed out that Chinese satellites had spotted suspicious objects floating on the surface of water and that work to identify them was under way. “We are looking forward to news,” Li Keqiang pointed out.</p>
+<p>China is also using ten satellites in the search for the missing Boeing airliner. Local media, referring to China's Committee for Defense Science, Technology, and Industry, reported Wednesday that Gaofen-1 high-resolution satellite for remote sensing of the Earth on March 9 had spotted three objects floating on the surface of the South China Sea in the search area.</p>
+<p><div class="b-gallery-widget printHidden b-gallery-widget_left" ng-init="$root.gaqEventTriger('NewsGallery','load','722993')">
+<div class="b-gallery-widget__header">
+<div class="b-gallery-widget__title">
+<span class="b-media-switch__icon b-media-switch__icon_3"></span>
+					Gallery                    <div class="b-gallery-widget__count">
+                        10 photo                    </div>
+</div>
+</div>
+<div class="b-gallery-widget-item">
+<a class="b-gallery-widget-item__pic" href="http://tass.com/world/722993" ng-click="$root.gaqEventTriger('NewsGallery','click','722993')" target="_blank">
+<img alt="" src="https://cdn1.tass.ru/width/333_3412a45b/tass/m2/en/uploads/i/20150730/1101540.jpg" width="333"/> </a>
+<div class="b-gallery-widget-item__text">
+<span class="just_copyright">
+<span class="copyright-icon">©</span> AP Photo/Bullit Marquez                        </span>
+<h3 class="title_gallery">
+<a class="b-gallery-widget-item__title" href="http://tass.com/world/722993" ng-click="$root.gaqEventTriger('NewsGallery','click','722993')" target="_blank">
+                            Boeing 777-200: the airplaine that disappeared                        </a>
+</h3>
+</div>
+</div>
+</div></p>
+<p>Their coordinates are as follows: 6.7 degrees, northern latitude, and 105.63 degrees, eastern longitude. The sizes of the objects are 13 by 18 meters, 14 by 19 m, and 24 by 22 m.</p>
+<p>Contact with the Boeing 777-200 airliners of the Malaysian Airlines Company with 227 passengers and 12 crewmembers on board had been lost approximately two hours after it took off from the capital of Malaysia on March 7.</p>
+<p>At present, the search for the missing airliner is involving airplanes and ships of Malaysia, China, Singapore, Vietnam, the Philippines, Indonesia, and the United States.</p>

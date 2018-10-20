@@ -1,0 +1,7 @@
+<p>We are 100% volunteer and depend on your participation to sustain our efforts!</p>
+<p><a href="/newsitems/2003/12/15/16659041.php">
+<img alt="donate now" border="0" src="/images/paypal-btn_donate_lg.gif" title="Donate Now"/>
+</a></p>
+<p>$<span id="donation-amount">              40.00              </span> donated<br/>in the past month</p>
+<p>If you'd like to help with maintaining or developing the website, <a href="/contact" title="Contact Us">contact us</a>.</p>
+<p>Publish <a href="/publish.php" title="Publish to the Newswire"><em>your</em> stories</a> and <a href="/calendar/event_add.php" title="Publish to the Calendar">upcoming events</a> on Indybay.</p>

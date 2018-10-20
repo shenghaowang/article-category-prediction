@@ -1,0 +1,50 @@
+<p>Log in using your social <br/>network account</p>
+<p>Log in directly with <br/>The Independent</p>
+<p>Try Independent Minds <br/>free for 14 days</p>
+<p class="welcome"><template amp-access-template="" type="amp-mustache">Hi {{fullName}}</template></p>
+<p>Chinese business with bigger revenues than Amazon and eBay combined opts for New York fundraising</p>
+<p>China’s Alibaba, the largest e-commerce business in the world, announced yesterday it will float on an American stock market in what could be the biggest initial public share offering of all time.</p>
+<p>Analysts reckon that Alibaba could seek to raise up to $15bn (£9bn) through the share sale in a move which could value it at between $150bn and $200bn. Details of the float may come as early as April.</p>
+<p>At the top end, that would make Alibaba the world’s second most valuable internet company after Google, which is valued at $394bn. Amazon and Facebook both have stock market values of $172bn.</p>
+<p>Alibaba was founded by Jack Ma and 17 friends in 1999, when it offered just 22 items on its website. It has grown to dominate Chinese e-commerce and Mr Ma’s wealth is estimated at $11.4bn. The firm employs more than 20,000 and is said to account for 70 per cent of all packages delivered in China.</p>
+<p>The firm has not decided whether to float on the New York Stock Exchange or its more tech-heavy rival Nasdaq, but it has ruled out Hong Kong.</p>
+<p>“Alibaba Group has decided to commence the process of an initial public offering in the United States,” the company said yesterday. “This will make us a more global company and enhance the company’s transparency, as well as allow the company to continue to pursue our long-term vision and ideals.”</p>
+<p>More than $150bn-worth of merchandise changes hands on Alibaba’s different online platforms each year, more than Amazon and eBay put together.</p>
+<p>The firm has nine major websites, which include consumers selling to consumers, businesses selling to consumers and to each other, global and domestic selling platforms, cloud computing and an electronic payment system.</p>
+<p>China is second only to India in the number of internet users it has at 618 million.</p>
+<p>McKinsey &amp; Co has forecast its internet retail market will treble in size between 2011 and 2015 to $395bn.</p>
+<p>In its latest figures, for the three months to September 2013, Alibaba’s quarter-on-quarter profits grew by 12 per cent to $792m on revenues up by 51 per cent at $1.78bn. In the same quarter Facebook’s profit was $422m.</p>
+<p>Mr Ma, who owns a 7.4 per cent stake in the business, is understood to have favoured a US IPO over one in Hong Kong because it would enable he and his partners to maintain control of the business. Hong Kong Stock Exchange does not permit different classes of shares. But US markets have enabled people like Facebook founder Mark Zuckerberg and Google co-founders Larry Page and Sergey Brin to keep control of their businesses after going public.</p>
+<p>Alibaba said that it could still list shares in China at a later date. It said: “We respect the viewpoints and policies of Hong Kong and will continue to pay close attention to and support the process of innovation and development of Hong Kong.”</p>
+<p>The share sale could prove a massive $260m windfall for the investment banks chosen to advise on it, based on the usual 1.75 per cent underwiting fees they charge.</p>
+<p>Alibaba is in discussions with Citigroup, Credit Suisse, Deutsche Bank, Goldman Sachs Group, JP Morgan, and Morgan Stanley for lead underwriting roles. Most of the banks are likely to end up with at least some role in the share offer.</p>
+<p>Yahoo owns a 24 per cent stake in Alibaba and Japan’s Softbank has a 37 per cent stake. They could both sell shares in the offer.</p>
+<p>Jack Ma, 49, was born in the city of Hangzhou and started as an English teacher and tour guide. On one of his trips he showed Yahoo founder Jerry Yang the Great Wall.</p>
+<p>Alibaba took off as a way for Chinese firms to showcase their goods to the West, and Yahoo bought a $1bn stake.</p>
+<p>Mr Ma stepped down as CEO last year but remains chairman. He has shifted his focus to improving health and education in China.</p>
+<p>“If we don’t do this then young Chinese people will grow up with deep pockets but shallow minds,” he said.</p>
+<p>Possible value of Alibaba: $200bn</p>
+<p>Wealth of founder, Jack Ma: $11.4bn</p>
+<p>You can find our Community Guidelines in full <a href="https://www.independent.co.uk/service/community-guidelines-9487166.html">here.</a></p>
+<p>You can find our Community Guidelines in full <a href="https://www.independent.co.uk/service/community-guidelines-9487166.html">here.</a></p>
+<p>Enter your email to follow new comments on this article.</p>
+<p>Are you sure you want to submit this vote?</p>
+<p>Are you sure you want to mark this comment as inappropriate?</p>
+<p>Want to discuss real-world problems, be involved in the most engaging discussions and hear from the journalists? Try Independent Minds free for 14 days. </p>
+<p>Are you sure you want to mark this comment as inappropriate?</p>
+<p>Are you sure you want to delete this comment?</p>
+<p>Anyone can post in open comments. Please continue to respect all commenters and create constructive debates.</p>
+<p>Want to discuss real-world problems, be involved in the most engaging discussions and hear from the journalists? Try Independent Minds free for 14 days. </p>
+<p>Independent Minds Comments can be posted by members of our membership scheme, Independent Minds.
+          It allows our most engaged readers to debate the big issues, share their own experiences, discuss
+          real-world solutions, and more. Our journalists will try to respond by joining the threads when
+          they can to create a true meeting of independent minds. The most insightful comments on all subjects
+          will be published daily in dedicated articles. You can also choose to be emailed when someone replies
+          to your comment.
+        </p>
+<p>
+          The existing Open Comments threads will continue to exist for those who do not subscribe to
+          Independent Minds. Due to the sheer scale of this comment community, we are not able to give each post
+          the same level of attention, but we have preserved this area in the interests of open debate. Please
+          continue to respect all commenters and create constructive debates.
+        </p>

@@ -1,0 +1,31 @@
+<p class="header_tagline">A trusted independent health insurance guide since 1994.</p>
+<p class="breadcrumbs"><a href="/">Home</a> | <a href="/blog/">Blog</a> | <a href="/blog/2014/">2014</a> | <a href="/blog/2014/03/">03</a> | <a href="/blog/2014/03/16/">16</a> | <span class="selected">Shhh! The ‘secret’ that slashes health costs</span></p>
+<p>The Affordable Care Act’s <a href="https://www.healthinsurance.org/glossary/open-enrollment/">open enrollment period</a> is quickly winding down and millions of uninsured continued to be bombarded with philosophical arguments about whether to enroll or forgo ACA-mandated coverage. But lost in a lot of the political rhetoric is a simple fact about being covered:</p>
+<p>When you have health insurance, you save money every time you seek care – even if you never meet your deductible – because of an often-overlooked benefit of being insured. It’s called negotiated discount rates.</p>
+<p>In its simplest terms, it means anyone who’s insured does not pay full price. I was reminded of this feature when I received my first Explanation of Benefits (EOB) from the insurance plan I chose from my <a href="https://www.healthinsurance.org/state-health-insurance-exchanges/">state exchange</a> after my yearly oncologist visit in February.</p>
+<p>Many of us might not consider something called the “allowed amount” or “negotiated discounts” when we purchase insurance. But what this benefit means is that a healthcare provider or facility may list what it “charges” for the services. However, because that provider or facility has agreed to be part of an insurance network, the provider and/or facility have agreed to accept a discounted amount for their services. Without insurance one would pay the “sticker price” from the provider or facility.</p>
+<p>For example, let’s look at two of my EOBs. One was for $435 of laboratory tests ordered by my oncologist. One column on the EOB lists each test and their full cost. In the next column it lists “amount allowed”-that which the lab has agreed to accept as the payment for those tests because of the insurance plan I chose. The “allowed amount” on the full price of $435 was $137.72, meaning that by being part of an insurance network, I did not have to pay an additional $297.28 for those tests. Had I had no insurance, my “total amount owed” column would have been $435.</p>
+<p>Charges for my bone scan totaled $1,101.00. Again, because I had insurance coverage, the total reimbursement the facility would see was calculated to be $477.21. Thus, I saved $623.79 because I was part of an insurance plan. Had I been uninsured, I would have been on point to pay the full price. The same principle applies to any prescription drug benefit. With an insurance plan that also has a prescription drug benefit – a standard could be a copay of $10 for generics and $75 for brand drugs – full out-of-pocket costs are reduced, sometimes dramatically.</p>
+<p>This is not a column to debate the pros and cons of how we calculate charges for health care services. Rather it’s intended to be a reminder that when someone is insured they save money because they are part of an insurance system that has negotiated rates with health care providers and facilities.</p>
+<p>It’s a simple fact that often is overlooked, underreported, or not clearly understood. But it is something that can have a real impact on pocketbooks across the nation as individuals decide whether to purchase insurance as part of the ACA.</p>
+<p>Many factors go into an individual’s decision on whether to purchase health insurance or not. As the days dwindle for those currently uninsured to be able to sign up for coverage, the best advice still remains: talk to someone who understands the health care system.</p>
+<p>With the enrollment deadline approaching, a discussion with a licensed, ACA-certified insurance agent – or even a knowledgeable navigator – would be a wise move. Make sure you know what all your options are, where your savings come from when you purchase insurance, and how you can position yourself to take the best care of your health and the charges associated with it.</p>
+<p>Since 2008, we’ve helped more than 16 million people.</p>
+<p>(Step 1 of 2)</p>
+<p>We do not sell insurance products, but this form will connect you with partners of healthinsurance.org who do sell insurance products. You may submit your information through this form, or call
+<span class="phone_number">
+<span class="desktop_number">1-844-368-4378</span>
+<a class="mobile_number" href="tel:1-855-769-3180">1-855-769-3180</a>
+</span>
+to speak directly with licensed enrollers who will provide advice specific to your situation. Read about
+<a href="/privacy/">your data and privacy</a>.</p>
+<p>The mission of healthinsurance.org and its editorial team is to provide information and resources that help American consumers make informed choices about buying and keeping health coverage. We are nationally recognized experts on the Affordable Care Act (ACA) and state health insurance exchanges/marketplaces.
+<a href="/about/">Learn more about us.</a>
+</p>
+<p>If you have questions or comments on this service, please
+<a href="/contact/">contact us</a>.</p>
+<p><a href="https://www.healthinsurance.org/glossary/explanation-of-benefits/">explanation of benefits</a></p>
+<p><a href="https://www.healthinsurance.org/glossary/health-insurance-exchange/">health insurance exchange</a></p>
+<p><a href="https://www.healthinsurance.org/glossary/health-insurance-marketplace/">health insurance marketplace</a></p>
+<p></p>
+<p class="content_meta">Tags: <a href="/blog/tag/eob/">EOB</a>, <a href="/blog/tag/explanation-of-benefits/">explanation of benefits</a>, <a href="/blog/tag/health-insurance-exchange/">health insurance exchange</a>, <a href="/blog/tag/health-insurance-marketplace/">health insurance marketplace</a>, <a href="/blog/tag/negotiated-rates/">negotiated rates</a></p>
