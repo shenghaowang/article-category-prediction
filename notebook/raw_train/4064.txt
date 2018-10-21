@@ -1,0 +1,21 @@
+Mt. Gox Co., the Bitcoin exchange that filed for bankruptcy in Tokyo after millions of dollars¡¯ worth of virtual currency vanished from customer accounts, won a temporary halt to lawsuits it faces in the U.S.
+
+U.S. Bankruptcy Judge Harlin Hale in Dallas today agreed to shield the company¡¯s assets from creditors and halt two suits, both of which are in their early stages. The company will return to court April 1 to seek to extend the protection until the Japanese case is resolved.
+
+The Tokyo-based exchange filed for bankruptcy in Japan last month after losing Bitcoins worth about $473 million at the time. The company said in its U.S. filing that almost 750,000 customer Bitcoins and 100,000 of its own, about 7 percent of all Bitcoins in existence worldwide, were missing and probably stolen.
+
+¡°The facts known to date indicate that it was caused or related to a flaw in the software algorithm that underlies Bitcoin, and ¡®hacking¡¯ attacks of one or more persons,¡± Mt. Gox Chief Executive Officer Mark Karpeles said in a sworn statement filed in the Dallas court.
+
+The exchange was founded in 2011, two years after Bitcoins first appeared. Shortly after it opened in July of that year, hackers attempted to break into the system or shut it down with so-called denial of service attacks, according to court papers.
+
+Manhattan U.S. Attorney Preet Bharara and the Federal Bureau of Investigation are probing possible criminal violations tied to the shutdown of Mt. Gox, two people familiar with the matter said last month. The Bitcoin Foundation, an advocacy group for the digital currency, said last month that it briefed federal prosecutors about possible theft at Mt. Gox.
+
+A spokeswoman for Bharara, Jennifer Queliz, today declined to comment on whether a software flaw would effect a federal investigation, citing the office¡¯s policy to neither confirm nor deny the existence of an investigation.
+
+Last month, Mt. Gox was sued in federal court in Chicago by an Illinois resident accusing it of misappropriation and fraud. The company also faces a $75 million breach-of-contract suit filed by CoinLab Inc. in Washington state.
+
+Mt. Gox filed for creditor protection yesterday in federal court in Dallas under Chapter 15 of the U.S. Bankruptcy Code, which can be used to shield assets while the main bankruptcy proceeding is carried out in another country. The petition listed about $37.7 million in assets and $63.9 million in liabilities.
+
+Jed MacCaleb, who built the initial Mt. Gox software, owns 12 percent of the company. Tibanne Co., a Japanese company, owns the rest, according to court documents.
+
+The U.S. bankruptcy is In re MtGox Co., 14-bk-31229, U.S. Bankruptcy Court, Northern District of Texas (Dallas). The Illinois lawsuit is Greene v. Mt. Gox Inc., 14-cv-01437, U.S. District Court, Northern District of Illinois (Chicago).

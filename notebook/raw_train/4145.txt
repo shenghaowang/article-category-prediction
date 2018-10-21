@@ -1,0 +1,17 @@
+The Japanese-based bitcoin exchange has filed bankruptcy papers in the US following a similar move in Japan last month.
+
+On Sunday, Mt. Gox filed for Chapter 15 bankruptcy protection in the US having filed a similar application in Japan on 28 February. The particular chapter of bankruptcy protection sought deals with insolvency cases that spread across more than one country.
+
+The move is just the latest move in the unfolding story of what was once the world's largest bitcoin exchange, handling up to 80% of all trades at one point in 2013.
+
+On 28 February the exchange's CEO Mark Karpeles filed for bankruptcy protection in Tokyo claiming that 850,000 bitcoins (at the time worth around 240 million) had been stolen from the exchange, 100,000 which belonged to the company and 750,000 belonging to the customers.
+
+Chapter 15 protection in the US was introduced back in 1997 and is almost entirely based on the UN Model Law which aims to modernise and harmonise cross-border insolvencies around the world.
+
+If granted it would provide some relief for Mt. Gox, including the granting of an "automatic stay" preventing creditors seizing its US assets.
+
+A company files for bankruptcy protection if it believes it can recover financially, given time and some amount of restructuring and reorganisation - this could include a change of management, business model or the selling of a highly-value assets such as buildings (which could be leased back from the buyer) or vehicles.
+
+When a company files for bankruptcy outright, it has accepted that it is no longer able to repay its creditors and any steps for recovery are impossible.
+
+The latest move in Mt. Gox's story comes after hackers claim to have stolen transaction logs from the exchange which they published on Karpeles' personal blog over the weekend. The hackers claim the under-fire CEO was lying about the amount of bitcoins the exchange had leading to many users of Mt. Gox to claim Karpeles had stolen their bitcoins.

@@ -1,0 +1,31 @@
+Chinese e-commerce giant Alibaba has led a massive US$280m Series D round in messaging app Tango, literally weeks after Facebook spent US$19bn to acquire WhatsApp.
+
+The move shows the heat hasn¡¯t gone out of mobile and social messaging just yet.
+
+Alibaba is understood to have contributed US$215m to the round. The investment values the Silicon Valley start-up at around US$1bn.
+
+So far, Tango has raised US$367m in funding from DFJ, Qualcomm and Yahoo! co-founder and former CEO Jerry Yang.
+
+Tango allows users to send free text messages, photos and video messages over their phones.
+
+It also has something of its own social network in the making, where users can send updates and play games.
+
+Tango has so far attracted more than 200m users, more than double its user base a year ago.
+
+It is estimated that about 70m people log into the app on a weekly basis. Its users are typically aged between 25 and 45.
+
+Tango was forged in 2009 by CEO Uri Raz and CTO Eric Setton, initially as a competitor to Apple¡¯s FaceTime. However, it quickly realised it could provide an alternative by breaking beyond the confines of iOS and embracing Android, as well.
+
+¡°We launched Tango in September 2009 out of the personal need to stay connected to our own families,¡± the founders wrote in their blog.
+
+¡°It helped tremendously that both of us came from deep video technology backgrounds and had strong entrepreneurial spirits. But it was the emotional connection with family living in other parts of the world that inspired our mission here at Tango. Back then we felt that free online communication through texts, voice and video calls would remove barriers and change the world. The world agreed: we signed up our first million members in the first 10 days after launch.¡±
+
+The platform has evolved to allow users to communicate around photos, music, voice and video messages, as well as video games.
+
+It has even created its own SDK for developers to create Tango-powered games.
+
+¡°While we¡¯ve made progress on our mission to enable people to communicate, share and feel more connected, we are just beginning to scratch the surface of what¡¯s possible. The opportunity for Tango goes well beyond just providing a messaging app for free communications. We see an even bigger opportunity ¨C one where people can have access to free communication, social networking features and enjoyable content ¨C all within a single platform.
+
+¡°Over the past eight months, Tango has evolved. We¡¯ve introduced a content platform that is now home to more than 30 games. We¡¯ve introduced new social networking features that allow members to share updates or photos and to find new friends. And we¡¯ve introduced social music sharing through integration with Spotify, which means members can now send each other songs.
+
+¡°Quite honestly, the results have blown us away. We¡¯re excited by the 2x increase in daily engagement since last July. And we love it that our members are huge fans of music and love to send hundreds of millions of songs to their friends through Tango. These changes are reflected in huge growth in registered users: over the last year we¡¯ve doubled to more than 200m,¡± Raz and Setton said.

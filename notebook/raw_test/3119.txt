@@ -1,0 +1,19 @@
+BELEAGUERED BITCOIN EXCHANGE Mt Gox has found some of its missing Bitcoins.
+
+The outfit turned up 200,000 coins in an old digital wallet that was thought to be empty, said CEO Mark Karpeles in a statement (PDF). 200,000 coins are worth over $100m.
+
+"MtGox Co., Ltd. had certain old format wallets which were used in the past and which, MtGox thought, no longer held any bitcoins," it said in the statement, explaining that the coins were uncovered earlier this month in a file that had not been used since mid 2011.
+
+Karpeles said that the discovery puts 200,000 Bitcoins in Mt Gox's hands, but added that still means 650,000 Bitcoins have been lost or stolen. It is possible that Mt Gox has overestimated its losses.
+
+"Taking into account the existence of the 200,000 BTC, the total number of bitcoins which have disappeared is therefore estimated to be approximately 650,000 BTC." Karpeles explained.
+
+"Please note that the reasons for their disappearance and the exact number of Bitcoins which disappeared is still under investigation and that the above figures may still change depending on the results of the investigation."
+
+This month the exchange won bankruptcy protection in the US and a stay of any lawsuits against it. This prompted suggestions that the US bankruptcy court was letting the fox guard the hen house.
+
+The line from the firm is that it is not at fault and is the victim of theft or a bug. Now it should probably add that it is a bit forgetful as well.
+
+"At the start of February 2014, illegal access through the abuse of a bug in the Bitcoin system resulted in an increase in incomplete Bitcoin transfer transactions and we discovered that there was a possibility that Bitcoins had been illicitly moved through the abuse of this bug," Karpeles said earlier.
+
+"As a result of our internal investigation, we found that a large amount of Bitcoins had disappeared. Although the complete extent is not yet known, we found that approximately 750,000 Bitcoins deposited by users and approximately 100,000 Bitcoins belonging to us had disappeared." 

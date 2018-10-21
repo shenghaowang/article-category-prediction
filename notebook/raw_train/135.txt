@@ -1,0 +1,31 @@
+The UK's first Bitcoin cash machine has been installed in London - allowing people to exchange their digital credits for cash and vice-versa.
+
+Users of the digital-only currency keep their Bitcoins in virtual online wallets and until now used specialist software on their mobile phones or computers to transfer funds to others.
+
+But now Bitcoin has launched its first cash machine in the UK located at the Old Shoreditch Cafe and bar in east London.
+
+And it is no surprise that the location has been chosen due to the cafe accepting Bitcoins as payment since last year.
+
+The bitcoin dispensers will also scan government-issued identification such as a driver's licence or a passport to confirm users' identities.
+
+The custom-designed app is run from essentially a Google Nexus 7 tablet and additional hardware to scan QR codes.
+
+Customers use a mobile wallet app on their phone to display a QR code pointing to their Bitcoin wallet, which the cash machine scans and sends money to.
+
+Paying by Bitcoin is faster for customers than using a traditional debit or credit card.
+
+Transaction fees are also lower than the 2¨C3 per cent imposed by credit card companies.
+
+The cash machine charges a eight per cent commission but this is hoped to be reduced once the machine, which is currently manually topped up is converted to automated.
+
+Transactions are limited to 1,000 per month for each customer.
+
+Bitcoin is an internet currency that is created using an increasingly complex mathematics formula.
+
+Last week the US Senate described virtual currencies as a ¡°legitimate financial service¡±.
+
+There are 12 million Bitcoins, worth about $12.9 billion at recent prices.
+
+Bitcoin is not backed by physical assets and is not run by any person or group. Its value depends on people¡¯s confidence in the currency.
+
+Bitcoin is created by a process called mining, in which participants verify and record payments into a public ledger in exchange for transaction fees and newly minted bitcoins.

@@ -1,0 +1,15 @@
+Pandora subs to rise as CTO steps down
+
+US streaming platform Pandora has announced that it will increase the price of its ad-free premium service, blaming those pesky royalties it has to pay to music companies for the hike. From May, new Pandora One customers will pay $4.99 per month, though existing subscribers will continue to pay $3.99 for the time being.
+
+A post on the Pandora blog sates: ¡°We¡¯ve been fortunate to be able to offer Pandora One at an affordable price since its debut in 2009 at $36 per year and later with the introduction of a monthly subscription for only $3.99 per month. Over this same period, the costs of delivering this service have grown considerably. For example, the royalty rates Pandora pays to performers via SoundExchange for subscription listening have increased 53% in the last five years and will increase another 9% in 2015¡±.
+
+As previously reported, in addition to the royalties Pandora pays the labels via SoundExchange, it has also been quibbling the monies it hands over to the music publishers via their collecting societies.
+
+Last week Pandora won a court ruling in a dispute with one of those societies, ASCAP, which said it should pay 1.85% of annual revenue (Pandora wanted 1.7%) for the publishing rights, rather than the 3% the collecting society was asking for. Though the big music publishers are continuing to lobby for changes in US collective licensing rules, which would allow them to withdraw their digital rights from ASCAP and its counterpart BMI and negotiate direct with services like Pandora.
+
+Elsewhere, Pandora¡¯s Chief Technology Officer and EVP Of Product Tom Conrad is to step down in June, taking on a part time advisory role from July.
+
+Announcing his departure, Graham said in a letter to Pandora staff: ¡°Through all these years perhaps the most gratifying thing has been how the whole company has evolved. From the scrappy group that wrote those first lines of code to the dynamic and talented assemblage we have today, through it all we¡¯ve benefitted from a group of men and woman that are without question the most talented, intelligent, thoughtful and hardworking team I¡¯ve ever had the pleasure to work with¡±.
+
+Former VP Of Engineering Chris Martin will replace Graham as Chief Technology Officer, while the company is also seeking to hire a Chief Product Officer externally. It has also bee announced that VP Of Technical Operations Steve Ginsberg is being promoted this week, moving into the role of Chief Information Officer.

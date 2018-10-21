@@ -1,0 +1,17 @@
+TOKYO, March 10 (UPI) -- Anonymous hackers published what they claim is evidence of fraud conducted by Japan-based bitcoin trader Mt. Gox and the virtual money isn't missing.
+
+Mt. Gox closed last month, claiming cybercriminals stole about 850,000 in bitcoin cybercurrency, worth more than $500 million, over several years. At the time, Mt. Gox Chief Executive Officer Mark Karpeles said bitcoins were lost "due to weaknesses in the system," and Mt. Gox since filed for bankruptcy in Japan.
+
+During the weekend, however, anonymous hackers said they hacked into the trading post and accessed Mt. Gox data, ZDNet reported Monday. After taking over Karpeles' blog and an account during the weekend, the group that hacked into the system posted:
+
+"It's time that Mt. Gox got the bitcoin communities' wrath instead of bitcoin community getting Goxed. This release would have been sooner, but in spirit of responsible disclosure and making sure all of ducks were in a row, it took a few days longer than would have liked to verify the data. ... Included in this download you will find relevant database dumps, csv exports, specialized tools, and some highlighted summaries compiled from data."
+
+The post said "lots of people, including us," lost money and bitcoin currency, techCrunch said.
+
+"We stole no bitcoins," the hackers posted. "There were none to steal."
+
+Within the summary, the hackers claim Mt. Gox's current balance is 951,116 bitcoin currency, which if factual, means that customers' bitcoin wasn't lost, indicating fraud was committed.
+
+Forbes magazine reported the 716-megabyte file dump appears to include personal data, a spreadsheet documenting more than 1 million trades, Mt. Gox's bitcoin balance and screenshots of the hackers' access to the information.
+
+In a release, Mt. Gox said phishing campaigns have begun against it.

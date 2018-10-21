@@ -1,0 +1,21 @@
+An archive containing transaction records from Mt. Gox that was released on the Internet last week by the hackers who compromised the blog of Mt. Gox CEO Mark Karpeles also contains bitcoin-stealing malware for Windows and Mac.
+
+Security researchers from antivirus firm Kaspersky Lab analyzed the 620MB file called MtGox2014Leak.zip and concluded that in addition to various Mt. Gox-related documents and data, it contains malicious binary files.
+
+[ Learn how to secure your systems with the Web Browser Deep Dive PDF special report and Security Central newsletter, both from InfoWorld. ]
+
+The files masquerade as Windows and Mac versions of a custom, back-office application for accessing the transaction database of Mt. Gox, a large bitcoin exchange that filed for bankruptcy in Japan in late February after claiming it had lost about 850,000 bitcoins to cyber thieves.
+
+However, they are actually malware programs designed to search and steal Bitcoin wallet files from computers, Kaspersky security researcher Sergey Lozhkin said Friday in a blog post.
+
+Both the Windows and Mac binaries are written in LiveCode, a programming language for developing cross-platform applications.
+
+When executed, they display a graphical interface for what appears to be a Mt. Gox database access tool. However, in the background they launch a process -- TibanneSocket.exe on Windows -- that searches for bitcoin.conf and wallet.dat files on the user's computer, according to Lozhkin. "The latter is a critical data file for a Bitcoin crypto-currency user: if it is kept unencrypted and is stolen, cyber criminals will gain access to all bitcoins the user has in his possession for that specific account."
+
+The malware, which Kaspersky has named Trojan.Win32.CoinStealer.i (the Windows version) and Trojan.OSX.Coinstealer.a (the Mac version), uploads the stolen Bitcoin wallet files to a remote server that used to be located in Bulgaria, but is now offline.
+
+"It seems that the whole leak was invented to infect computers with Bitcoin-stealer malware that takes advantage of people's keen interest in the Mt. Gox topic," Lozhkin said.
+
+"Malware creators often using social engineering tricks and hot discussion topics to spread malware, and this is great example of an attack on a focused target audience," he said.
+
+Users who downloaded the archive and executed any of the binary files inside should probably scan their computers with an anti-malware program and should take immediate steps to secure their bitcoins. According to a scan report Monday on the VirusTotal service, 27 of 47 anti-virus engine detect the Windows binary file as malicious or suspicious.

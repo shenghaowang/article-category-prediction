@@ -1,0 +1,31 @@
+Updated from 10:18 a.m. to include thoughts from MKM Partners analyst.
+
+NEW YORK (TheStreet) -- Oracle (ORCL) shares rose after the software, services and cloud computing giant reported third-quarter results that missed results.
+
+For the third quarter, Oracle earned 68 cents a share on $9.3 billion, coming in below what analysts were expecting. Analysts surveyed by Thomson Reuters were expecting 70 cents a share on $9.36 billion. The company did note in its press release that currency fluctuations impacted earnings by 3 cents a share, with 2 cents coming from the wild swings in Venezuela.
+
+"In constant currency, our Cloud Software Subscriptions revenues grew 25% and our Engineered Systems revenue grew more than 30% in the quarter," said Oracle President and CFO Safra Catz in the press release. "Oracle Cloud Applications and Engineered Systems are both rapidly growing, billion dollar run-rate businesses. Those two high-growth businesses helped us deliver record year-to-date operating cash flow, and a record $15 billion of operating cash flow over the past twelve months."
+
+Shares were higher in Wednesday trading, having reversed course from earlier in the session, gaining 0.12% to $38.91.
+
+CEO Larry Ellison lauded the company's hardware portfolio, noting Exadata and SPARC SuperClusters had over a 30% constant currency growth rate during the quarter. "Our Engineered Systems business is growing rapidly for the same fundamental reason that our Cloud Applications business is growing rapidly. In both cases, customers want us to integrate the hardware and software and make it work together, so they don't have to."
+
+During the company's conference call, Oracle said it expects revenue to rise between 3% and 7% during the quarter, with earnings per share expected to be between 92 cents and 99 cents. Analysts are expecting 96 cents.
+
+Following the results and the call, analysts were largely positive on the name, noting that the cloud portfolio seems to be turning around, as the company heads into its seasonally strong fourth quarter. Here's what a few analysts had to say.
+
+"ORCL is still searching for a breakout after 10 straight Qs of sub 5% rev growth. ORCL's three main businesses (database, apps and middleware) have been pressured by agile competitors and ORCL's late transition to the cloud, which is now well underway and is masking some of the reported growth. Now that some of these issues are being addressed more proactively by ORCL, we should start to see top line growth reaccelerate, especially as we enter ORCL's seasonally strong FQ4. $42PT."
+
+"ORCL reported F3Q results that were about in line with estimates, with hardware products slightly better than expectations and software license & cloud a bit shy. We continue to believe that while ORCL is seeing secular pressure in its applications business, concerns about its most important (and most profitable) business, infrastructure software, are overblown."
+
+"For now, we will continue with our BUY rating on Oracle because the stock is sufficiently inexpensive to serve as ballast in your typical software portfolio, full of high flier money losers which can face random and rapid loss of faith by investors. That said, incrementally at least, we inched closer to a downgrade to Hold on ORCL, particularly if it appears that the firm will continue to report low end of the range results against truly easy comparisons. For now, Oracle remains a tepid BUY."
+
+"ORCL's F3Q14 numbers came in slightly below estimates, with total revs of $9.3b (+4% y/y, +6% in c/c, +4% c/c excluding acquisitions) vs. estimates of $9.36b and software license and subscription revs of $2.4b (+4% y/y, +6% in c/c) lower than expectations of $2.47b, offset by solid hardware revenues of $725m (+10% c/c and above expectations). However, the results were in-line with guidance and the mid-point of the F4Q14 revs growth guidance (of 5%) was in-line with estimates. Geographically, license sales in the Americas were up a solid 9% while Asia-Pac was down 3%. Non-GAAP EPS of $0.68 was lower than estimates of $0.70, but was $0.71 making all FX adjustments."
+
+"Cloud bookings on a 12 month basis grew 60%+ (Fusion apps grew triple digits), and 30%+ organic, including 65 seven or eight figure deals. Organic CC software revenues grew 2%+ y/y. Engineered systems grew 30%+ y/y and organic hardware revenues grew +3% CC y/y. Hardware has turned the corner and is finally growing on an organic basis, which should help accelerate the topline. Middleware grew double digits. Renewal rates hit a 4-year high. We previously noted that the 12c database product cycle is coming up (see details on pg 4). Tech license growth rates have not benefitted yet from the introduction of 12c, which should be an incrementally positive driver going forward."
+
+"ORCL's F3Q14 results were largely in line with expectations, with some puts ($0.02 currency devaluation impact) and takes (continued strong HW, lower than expected tax rate). While Cloud bookings improvement is positive, we still don't see anything in results/guidance that argues strongly for a change in our view at this point. We maintain our Hold."
+
+"We reiterate our Buy rating and $41 12-month price target following 3Q results. While software sales were a little light, we believe investors are likely to look past the quarter given accelerating cloud applications momentum, an improving hardware business and a solidly in-line 4Q outlook. We are buyers on any weakness this morning into seasonally strong 4Q and a multiyear 12c database cycle in front of us."
+
+--Written by Chris Ciaccia in New York

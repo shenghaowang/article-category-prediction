@@ -1,0 +1,25 @@
+Here are some things going on this morning in your world of tech:
+
+It's a big morning for initial public offerings. The Nasdaq is welcoming a few new tech names, Borderfree (BRDR), Amber Road (AMBR), and A10 Networks (ATEN), and cloud computing looms large with them.
+
+Borderfree runs a cloud "platform" for cross-border e-commerce, according to its prospectus. It lost $654,000 on revenue of $110 million last year.
+
+Amber Road bills itself as a facilitator of "global trade management," via the cloud, according to its prospectus, as a global supply chain, offering a "proprietary knowledgebase" of regulatory rules to help automate trade management for companies. It lost $14.4 million last year on revenue of $52.5 million.
+
+A10 Networks is a vendor of so-called "application delivery controllers," and has been in litigation in past with the dominant vendor in that market, F5 Networks (FFIV). It lost $27,096 last year on revenue of $141.7 million, according to its prospectus.
+
+Shares of Borderfree are up $3.50, or 22%, at $19.50, after pricing at $16. Amber Road is up $3.87, or almost 30%, at $16.87, after pricing at $13. And A10 shares are up just 9 cents, at $15.09, after opening at $13.85, below the $15 price of the IPO. A10's shares were delayed for a while this morning, and CNBC's Bob Pisani, noting the unusual circumstances, reported the company was in some last-minute haggling with the Securities & Exchange Commission about its filings.
+
+Shares of Apple (AAPL) are up 77 cents at $529.47, after Macquarie USA Equities Research's Ben Schachter initiated the stock with an Outperform rating, and a $630 price target, writing that the iTunes business and other software and services are "under appreciated businesses" that he thinks "will be a key profit growth driver" in future, rising from 8% of sales and about 12% of Ebitda in 2012 to 13% of sales and nearly 30% of total Ebitda by 2016. "By 2020, it could drive almost 40% of all Apple profits."
+
+"The bottom line is that while Apple's current hardware businesses face many challenges and new product introductions remain uncertain, its high-margin iTunes/Software/Services businesses will drive profit growth," writes Schachter, combined with "its substantial cash position, cash generating abilities, and new opportunities."
+
+Shares of Symantec (SYMC) are down $2.93, or almost 14%, at $17.98, after the company yesterday afternoon abruptly announced it terminated CEO Steve Bennett, saying it needed new management to "driver on the next stage of Symantec's product innovation and growth.
+
+The stock has gotten gotten five downgrades this morning, that I can see, from Jefferies & Co., R.W. Baird, UBS, MKM Partners, and Cowen & Co.
+
+Cowen's Gregg Moskowitz, cutting his rating to Market Perform from Outperform, writes of Bennett "His strategy was, in our view, necessarily far-reaching, and some disruption had always been inevitable. Nonetheless, the impact to bookings over the last two quarters had been more painful than most, including us, had expected."
+
+Moskowitz concludes "We continue to believe 30%+ op. margins by FY17 is very achievable; however, given the changing of the guard, our prior view that SYMC could be a mid 30s op. margin company in 3-4 years no longer holds. We also continue to be very skeptical of SYMC's 5%+ growth target, regardless of how much increased emphasis SYMC may opt to place on this going forward."
+
+On the other hand, Citigroup's Walter Pritchard, reiterating a Buy rating, and a $28 price target, writes that "shares are cheap and investor sentiment is worst in our space," with the stock at eight times cash flow. "While fundamentals may have taken a turn for the worst, we note that our FCF (unlevered) estimate for FY14 ($1.28B) is below average of last year's ($1.48B) and looks reasonable to us."

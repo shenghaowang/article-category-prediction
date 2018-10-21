@@ -1,0 +1,23 @@
+DigitalGlobe is enlisting the crowd to scan and tag images of more than 1,200 square miles of ocean for any visible evidence that could help locate the Malaysia Airlines 777 aircraft that went missing this weekend.
+
+The Longmont-based earth-imagery company deployed its FirstLook service on Sunday, directing two of its five satellites to snap photos of the area in the Gulf of Thailand, where investigators suspected the plane may have crashed, and then activated its crowdsourcing platform, Tomnod, on Monday afternoon.
+
+Flight MH370, with 239 people on board, lost communication while on its way to Beijing from Kuala Lumpur. The missing plane continued to perplex investigators from around the globe three days later.
+
+¡°If there is something to see on the surface (of the water), we will see it. But the question is if we are looking in the right area,¡± said Luke Barrington, DigitalGlobe¡¯s senior manager of geospatial big data.
+
+As each new theory led to a new dead end, the company recalibrated its action plan based on the Malaysian government¡¯s new area of focus, north and east of oil slicks reported soon after the plane went missing.
+
+DigitalGlobe activates FirstLook ¡ª used by emergency-response agencies in natural disasters, manmade crises and human interest scenarios ¡ª about twice a week, while Tomnod is used more selectively and for different reasons, Barrington said.
+
+¡°We try to use the crowd wisely and not tire them out,¡± he said. ¡°The story here is much more about the search than it is about the response. This whole feeling of not knowing, the lack of information or ability to do anything, we have seen time and again, is why people want to get involved.¡±
+
+Within the first hour Monday afternoon, the Tomnod map had 60,000 page views with more than a thousand tags. Ten minutes later, that was up to nearly 2,000.
+
+Barrington said that the crowd actually directed the company on this particular crisis, asking for them to deploy Tomnod.
+
+¡°The people who come to Tomnod are very motivated to solve problems,¡± Barrington said. ¡°I would say we will have up to 10,000 contributors on this one.¡±
+
+DigitalGlobe is not the only earth-imagery company capable of delivering high-resolution images, but is arguably the U.S. industry leader.
+
+¡°There are an awful lot of assets up in orbit,¡± said Marco Caceres, senior space analyst at The Teal Group. ¡°There¡¯s dozens of earth observation satellites and all of them are very, very capable. If they are taking images, then there¡¯s no lack of imagery. And if you haven¡¯t been able to spot something by now, then I don¡¯t know. It has been three days.¡±

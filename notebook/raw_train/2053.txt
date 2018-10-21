@@ -1,0 +1,57 @@
+Reporter: ¡°Mr. Speaker, you said a minute ago there are fewer people today with health insurance than when the law was passed. I want to make sure I understand. You¡¯re saying that Obamacare has resulted in a net loss of insurance?¡±
+
+House Speaker John A. Boehner (R-Ohio): ¡°I believe that to be the case. When you look at the 6 million Americans who have lost their policies and some ¡ª they claim 4.2 million people who have signed up ¡ª I don¡¯t know how many have actually paid for it ¡ª that would indicate to me a net loss of people with health insurance. And I actually do believe that to be the case.¡±
+
+What are we to make of this statement by the most senior Republican in the House? He apparently believes that the Affordable Care Act is such a loser that it has resulted in a ¡°net loss of people with health insurance.¡± Many readers tweeted us or wrote e-mails asking whether this is indeed the case.
+
+Although we have tackled this question in the past, rarely has it been put so starkly by a top GOP official. So let¡¯s look at the numbers again.
+
+Boehner¡¯s staff did not want to engage The Fact Checker in a discussion about the speaker¡¯s math, but it is fairly clear that he views it as a simple matter of subtraction.
+
+Boehner said about 6 million people received notices that their insurance was canceled. (That number may be a little high ¡ª usually it is estimated at nearly 5 million.) Then he notes that HealthCare.gov reports that 4.2 million have selected a plan. (As Boehner pointed out, it is still unclear how many actually paid for their first premium, but limited state data indicate it¡¯s at least 80 percent.) So 4 million minus 6 million equals a net loss of 2 million.
+
+We readily concede that there are problems with the data on health-care sign-ups, many of which were first detailed here at The Fact Checker. But Boehner¡¯s math is absurdly simplistic if he is trying to claim that the number of people with health insurance is now lower because of Obamacare.
+
+That¡¯s because the 6 million figure for ¡°lost¡± insurance and the 4 million for HealthCare.gov sign-ups are apples and oranges. They cannot be compared.
+
+A large percentage of the people whose old plans were canceled were automatically moved to new plans offered by the same insurance companies. These people may not be happy with their new coverage ¡ª and may have appeared in an ad sponsored by Americans for Prosperity ¡ª but they got a plan without going through HealthCare.gov. (Here¡¯s an example of such a letter, courtesy of our colleagues at PolitiFact.)
+
+Precise figures are not available, as the insurance market is private and fragmented, but insurance company officials say a majority of people could move to new plans they were offered.
+
+On top of that, the White House ordered an administrative fix last year that, depending on the actions of individual states, allowed as many as 2.3 million people with ¡°canceled plans¡± to simply stay on their old plans for at least another year. (In early March, the White House extended that deadline to 2016.) The administration in December also announced a new catastrophic exemption to fill any remaining gaps in coverage ¡ª estimated to affect as many as 500,000 people.
+
+In other words, almost nobody in that pool of 6 million does not have insurance. If they didn¡¯t, they surely would be featured in an anti-Obamacare ad. But those ads feature people who don¡¯t like their new plans, rather than being left high and dry with no coverage.
+
+Meanwhile, other people are being added to the insurance rolls who are not reflected in the HealthCare.gov numbers.
+
+First, an estimated 3.1 million Americans younger than 26 joined their parents¡¯ plans because of a provision that took effect in September 2010. One big caveat about that Health and Human Services Department estimate is that it is about two years old ¡ª and has never been updated.
+
+The Fact Checker dug into the more recent reports and found that it was based on a single quarterly figure that was not sustained in later quarters. (That might be why the report was never updated.) However, the overall increase in the percentage of insured young adults suggests a gain of about 2.8 million from the third quarter of 2010 to the first half of 2013. Given quarterly fluctuations, a more conservative approach would be to use the average figure for 2010 as the base; that would reduce the increase to 2.2 million people. That is still substantial.
+
+There also are low-income Americans who are flocking to Medicaid because of the law¡¯s expansion of that program.
+
+The Fact Checker has been critical of the administration¡¯s Medicaid numbers, but there is little doubt that many people are gaining insurance through this route. Through January, the health consulting firm Avalere estimates that at least 2.4 million people got insurance for the first time through the Medicaid expansion. That¡¯s the lowest estimate ¡ª others put it as high as 5.6 million, including people previously eligible but not signed up, through mid-March. But even so, that¡¯s more than enough to demonstrate that no matter how you count it, there has been no net loss in insurance coverage.
+
+Finally, in every state (except Vermont and in the District of Columbia), you can buy insurance outside the exchanges ¡ª by going directly to insurance brokers, agents or companies. So those sign-ups would not be reflected in the HealthCare.gov figures.
+
+No one knows how big the off-exchange pool is, but it is at least 500,000 people and could be as high as 2 million. For instance, Highmark, an insurance provider based in Pittsburgh, has reported that as many as one-third of its total enrollments are off-exchange. In Pennsylvania, for instance, out of 108,000 enrollees, 74,000 signed up on HealthCare.gov and 34,000 got insurance off-exchange.
+
+So what does this add up to? Taking the lowest-range estimates, we still end up with nearly 9 million people added to the insurance rolls, more than enough to swamp Boehner¡¯s 6 million figure, which as we noted is a pretty useless number to begin with.
+ 2.4 million ¡ª lowest estimate for new Medicaid enrollment through January
+ 2.2 million ¡ª young adults added to parents¡¯ plans (2010 average to first two quarters of 2013)
+
+Charles Gaba, a blogger who has tracked the state-by-state numbers at ACAsignups.net, including known off-exchange enrollments, meanwhile calculates the actual current figure though mid-March at nearly 14 million. Even if you take a conservative estimate for paid plans and reduce the number of young Americans added to plans, you end up with about 13 million. That makes Boehner¡¯s ¡°net loss¡± claim seem especially absurd.
+
+Meanwhile, a new Gallup poll of 28,000 people found a decline in the percentage of uninsured Americans, in almost every demographic group, in 2014: 15.9 percent through February compared with 17.1 percent in the fourth quarter of 2013. Gallup said the drop probably reflected the impact of the Affordable Care Act.
+
+Health policy analyst Robert Laszewki, who has been critical of the law, says the poll reflects the fact that Obamacare¡¯s enrollment ¡°has been tepid at best¡± and fewer uninsured Americans than expected have signed up for health care. But he said clearly there has been a net gain in enrollment.
+
+¡°I absolutely do not believe there is a net loss in enrollment,¡± Laszewki said. ¡°Haven¡¯t found a single carrier that is net negative. The question in my mind is just how anemic the growth is.¡±
+
+This was not a mere flub by the speaker, as he restated his position when an incredulous reporter asked for clarification. But his assertion flies in the face of the facts. He certainly could claim that enrollment is disappointing and has lagged behind various estimates, but he can¡¯t claim that the law has reduced the number of insured Americans.
+
+In the debate over the Affordable Care Act, both sides have shown a regrettable tendency to inflate the facts that they believe justify their perspective on the law. Both Sen. Richard J. Durbin (D-Ill.) and President Obama earned Four Pinocchios for adding the numbers incorrectly. Now Boehner joins the crowd with his overenthusiastic subtraction.
+
+Send us facts to check by filling out this form
+
+Follow The Fact Checker on Twitter and friend us on Facebook

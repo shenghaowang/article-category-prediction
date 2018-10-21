@@ -1,0 +1,7 @@
+Mt. Gox, the embattled Bitcoin exchange, has updated its Web site to allow its users to see account balances.
+
+The Japan-based company opened user accounts for inquiry on Tuesday, but cautioned that the amount of bitcoins they seemingly have would not "constitute a filing of rehabilitation claims." The wording on the Mt. Gox web site is in place to protect Mt. Gox in its ongoing bankruptcy procedures and to ensure that its users don't misconstrue the balance as the actual amount they may or may not be owed.
+
+The balances are based on data collected shortly before Mt. Gox shut down several weeks ago.
+
+Mt. Gox has brought its share of controversy to the Bitcoin world since it was hacked and thousands of bitcoins were surreptitiously taken from user accounts. After admitting to the intrusion, Mt. Gox was forced to file for bankruptcy protection. How or when it might eventually emerge from bankruptcy is still far from being settled.

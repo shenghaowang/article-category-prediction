@@ -1,0 +1,15 @@
+A major Japanese bank has now been swept up in the collapse of Bitcoin trader Mt Gox, with Mizuho Bank named as a defendant in one of the many lawsuits cropping up over the collapse.
+
+The bank has been added to a lawsuit against Mt Gox, since by providing services to the former Magic-the-Gathering card trading operation, the complainants say, it ¡°aided in a fraud¡±.
+
+The lawsuit was brought by Illinois resident Gregory Greene, as El Reg reported early this month, on the basis that the organisation ¡°intentionally and knowingly failed to provide its users with the level of security protection for which they paid¡±.
+
+Greene's complaint against Mizuho Bank is that it held ¡°non-Bitcoin¡± currency ¨C that is, government nominated currencies like dollars and yen ¨C on behalf of Mt Gox. He accuses Mizuho of being aware of fraud, of not protecting customer funds by segregating them from Mt Gox's own holdings, and for making Mt Gox's customers' losses worse by continuing to provide services when the exchange was in trouble.
+
+The key reason for adding the bank to the lawsuit is that Mt Gox is currently under bankruptcy protection in the US.
+
+Greene isn't the only one to slip the bank into the cross-hairs: according to CBC News, Mizuho, along with Mt Gox, is a defendant in an action filed in Ontario on Friday March 14.
+
+The Financial Post says the Canadian filing seeks to launch a $US500 million lawsuit against Mt Gox, its owners Mark Karpeles and Jed McCaleb, along with Mizuho Bank. 
+
+Sponsored: Following Bottomline¡¯s journey to the Hybrid Cloud
