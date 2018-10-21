@@ -1,0 +1,17 @@
+The Turkey Twitter ban has failed, with Turkish citizens apparently mobilized to send out even more tweets than before with the help of international communities.
+
+In a related report by The Inquisitr, a Texas principal tried banning speaking Spanish on campus only to lose her job over the incident after an outcry from Hispanics.
+
+Turkish Prime Minister Recep Tayyip Erdogan is the one who threatened the Turkey Twitter ban. The government censored the web domain for all internet users in the country, but that did not last very long at all. The Twitter company itself sent out messages reminding everyone how to use cell phone-based SMS text messaging to access Twitter. They also gave tips on alternative computer settings that could bypass Turkey¡¯s blocks, which simply use redirects of the domain name so using an outside DNS server can help. Other private companies offered Twitter access in Turkey via Virtual Private Networks (VPN) and internet proxies services.
+
+Philip Howard, head of the Digital Activism Research Project, claims that Turkey¡¯s Twitter ban only caused the service to become more popular within the country:
+
+Instead of deterring people, the Turkey Twitter ban actually emboldened people and the number of Tweets out of Turkey increased to record levels. It¡¯s claimed by some that practically the only people who are not using Twitter in Turkey now are pro-government supporters. It¡¯s estimated by some survey that almost 15 percent of the Turkish population is now using Twitter.
+
+But why was Turkey¡¯s Twitter ban implemented in the first place? Some reports claim Prime Minister Erdogan targeted the social media platform because Turkish users were using it to spread news and videos showcasing the corruption of the Turkish government.
+
+David Kramer, president of the pro-democracy group Freedom House, claims that a truly democratic nation should not be afraid of Twitter:
+
+¡°The decision to block Twitter, a leading medium of communication in Turkey, is quite a dramatic step for a government that claims to be democratic. It is a bold attempt to stop news of government corruption from getting out in the run-up to local elections. The government should immediately reopen Twitter and recognize that free, unhindered space for debate is essential in Turkey, as it is anywhere else.¡±
+
+Turkey¡¯s Twitter ban is not the first time they¡¯ve attempted internet censorship. The government tried the same thing with YouTube only to have technically savvy Turkish people bypass their efforts. Twitter is also banned in China but many Chinese still use the social media service regardless of their government¡¯s censorship.

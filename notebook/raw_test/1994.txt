@@ -1,0 +1,19 @@
+Sally Beauty confirmed Monday that hackers broke into the supplier¡¯s network, stealing the payment data of up to 25,000 customers.
+
+The information stolen included payment card numbers and the three-digit security codes, known as CVV numbers, the company said. The retailer said it does not store customers¡¯ personal identification numbers (PINs).
+
+Customers will be notified if their information was stolen, said Sally Beauty, which is advising shoppers to check their bank statements for suspicious transactions. The company did not provide details on the nature of the breach, including whether it affected only shoppers who came into a store or also those who shopped online.
+
+The confirmation follows a statement by Sally Beauty this month that said it detected a breach Feb. 24 but had no evidence that customers¡¯ data had been stolen. The breach was first reported by security blogger Brian Krebs.
+
+Krebs wrote that Sally Beauty probably had been attacked by the same hackers who stole more than 100 million customers¡¯ data from Target.
+
+Sally Beauty said that it was working with Verizon Enterprise Solutions and the Secret Service to investigate the breach.
+
+¡°As experience has shown in prior data security incidents at other companies, it is difficult to ascertain with certainty the scope of a data security breach/incident prior to the completion of a comprehensive forensic investigation,¡± the company said in a statement. ¡°As a result, we will not speculate as to the scope or nature of the data security incident.¡±
+
+A spokeswoman for Verizon Enterprise Solutions confirmed that the company was investigating the breach but did not provide details.
+
+The attack makes Sally Beauty the latest retailer in the crosshairs of hackers. In addition to Target, Neiman Marcus and Michaels also suffered data breaches last year. The attacks have sparked debates in Washington on updating the nation¡¯s breach notification laws and its payment systems.
+
+Sally Beauty sells and distributes professional products in more than 2,700 stores across the country. The Texas-based company has $3.6 billion in annual revenue.

@@ -1,0 +1,25 @@
+Hours after Twitter was officially blocked in Turkey, the hashtag #TwitterisblockedinTurkey went nuts across the world.
+
+Tens of thousands of Twitter users posted photos, cartoons, memes and artworks to express outrage at the decision of Turkey's courts to shut down the popular microblogging site.
+
+Despite the ban, over half a million tweets were posted in just 10 hours by Turkish Twitter users, according to a report from Twitturk.
+
+A defiant Erdogan had vowed to "wipe out" Twitter and said he did not care about the international community's reaction.
+
+"We now have a court order. We'll eradicate Twitter. I don't care what the international community says. Everyone will witness the power of the Turkish Republic," Erdoan said at his campaign rally in the western city of Bursa on 20 March, ahead of key administrative elections.
+
+"Twitter, mwitter!," Erdogan told thousands of supporters at a rally late on Thursday, in a phrase translating roughly as "Twitter, schmitter!".
+
+Earlier this month, Erdogan warned that his government could ban YouTube and Facebook. Last year during the Gezi Park anti-government protest, he called social media "the worst menace to society".
+
+Turkey's main opposition party, the CHP (Republican People's Party) said it will file a legal challenge against the court decision to block access to Twitter. Deputy prime minister Ali Babacan said that the Twitter ban was done "out of necessity" and was a "choice between two evils". He added that he expected the block to be temporary.
+
+More than 45% of Turkey's 80 million people use the Internet, and around 14% of them use Twitter.
+
+The disruption sparked an online uproar, with many netizens comparing Turkey to Iran and North Korea, where social media platforms are tightly controlled.
+
+Turkish netizens have already found ways to circumvent the ban.
+
+It is possible to use the social network without accessing the website. Here's a list of suggestions as provided by Syrian-Bulgarian blogger Ruslan Trad on his website:
+
+If you are in Turkey, you can send tweets using SMS. Avea and Vodafone text START to 2444. Turkcell text START to 2555. Change your computer's DNS settings to redirect traffic to Google's Public DNS server at 8.8.8.8: http://en.wikipedia.org/wiki/Google_Public_DNS Google Public DNS is a freely provided Domain Name System service announced by Google to make the web faster. Here's a YouTube tutorial that explains how to manually change DNS Server settings on Windows 7, Windows 8 and Mac OS X. Download Hola, a peer-to-peer Internet Accelerator that allows access to sites blocked in the country

@@ -1,0 +1,21 @@
+Who¡¯s ¡°Goxing¡± who now? Vitriolic hackers hijacked Mt. Gox CEO Mark Karpeles¡¯s personal blog, Tumblr and Reddit accounts yesterday, hurling accusations that head of the defunct exchange is sitting on the missing $500 million-plus bitcoins he says cyber attackers stole.
+
+The anonymous hackers leaked data allegedly proving that customer bitcoins are not lost after all and that some 951,116 BTC might still exist and Karpeles is still in control of them.
+
+Meanwhile, CoinDesk warns that the leaked .exe and .app files ¡°are bitcoin wallet-stealing trojans.¡± The issuer of the CoinDesk Bitcoin Price Index strongly cautions against opening the files and advises anyone who already has to ¡°transfer your bitcoins to another wallet immediately.¡±
+
+Mt. Gox has not yet officially commented on the hacker attacks, but a spam warning titled ¡°scam alert notification¡± appeared on its website last night.
+
+The 700-plus MB data dump ¡°evidence,¡± which consists of a large zip file called ¡°MtGox2014Leak.zip,¡± was posted on Karpeles¡¯ now offline MagicalTux.net blog and microblogging accounts.
+
+Not long after the leak, which might have come from disgruntled former Mt. Gox employees, individuals claiming to be Mt. Gox customers took to Twitter to say that they opened the zip file and were able to confirm their own account balances based on their user Mt. Gox IDs issued in their initial Mt. Gox registration email.
+
+Someone also posted an Excel spreadsheet mirror of based on the leaked data with accounts and balances stripped of identifying user information. Although the mirror spreadsheet appears to no longer be available from the source, several screenshots of it are making the rounds on various news sites, blogs and social media platforms. One leaked document appears to have exposed two of Karpeles¡¯ residential street addresses.
+
+The Bitcoin community continues to debate the validity of the allegedly stolen files.
+
+Mt. Gox, the world¡¯s first and once largest Bitcoin trading post shocked investors when it abruptly shut down last month and went silent for a week before claiming that cyber attackers had ripped it off of more than $500 million worth of bitcoins (approximately 850,000 BTC). The troubled Tokyo-based exchange filed for bankruptcy last week, leaving thousands of frustrated customers without access to their bitcoins.
+
+The original profanity-laden (not safe for work) hacker post read:
+
+¡°It¡¯s time that MTGOX got the bitcoin communities wrath instead of Bitcoin Community getting Goxed. This release would have been sooner, but in spirit of responsible disclosure and making sure all of ducks were in a row, it took a few days longer than would have liked to verify the data.Included in this download you will find relevant database dumps, csv exports, specialized tools, and some highlighted summaries compiled from data. Keeping in line with f--king Gox alone, no user database dumps have been included.¡±Amid the latest Mt. Gox controversy, as of 1:01 p.m. ET today, bitcoins were trading at $625.22, according to CoinDesk.

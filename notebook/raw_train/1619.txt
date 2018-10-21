@@ -1,0 +1,25 @@
+Hackers this weekend targeted the Reddit account and personal blog of Mark Karpeles, CEO of the bankrupt Mt. Gox bitcoin exchange, posting information online that they claim proves Karpeles is actually hoarding bitcoins he claims were stolen.
+
+The hackers charge that some of the nearly half a billion dollars worth of the digital currency lost in recent cyberattacks is actually still in the French CEO's possession.
+
+"It's time that MTGOX got the bitcoin communities wrath instead of Bitcoin Community getting Goxed," the unnamed group wrote, according to Forbes, a reference to the downtime and other glitches that have plagued Mt. Gox.
+
+The hackers initially posted to Karpeles's website a 716MB file of stolen data from Mt. Gox's servers; it included a spreadsheet of more than a million trades, the company's balance in 18 currencies (including bitcoin), administrative access to Gox parent company Tibanne Limited, and a screenshot of the hackers' access, as well as a list of Karpeles's home addresses and personal resume.
+
+An abridged version, which features Mt. Gox's balances, was later posted online, with a link to the entire set of data.
+
+"This release would have been sooner, but in the spirit of responsible disclosure and making sure all of ducks were in a row, it took a few days longer than would have liked to verify the data," the hackers wrote on Pastebin, advising readers to "repost and share this info before it's gone."
+
+Karpeles's website is currently offline, and the original Reddit post has since been deleted.
+
+Mt. Gox filed for bankruptcy in Japan late last month, saying it lost 750,000 bitcoins, or about $480 million7 percent of the estimated global total of bitcoins. An attack on the company's computer systems also cost Gox about 100,000 of its own units.
+
+The filing came days after the exchange mysteriously went offline, halting trades of the cryptocurrency.
+
+Last month, meanwhile, bitcoins valued at approximately $2.7 million went missing from Silk Road 2, allegedly due to a hack. Silk Road 2 is the reincarnation of the original Silk Road, an online black market for all things criminal that was shut down by the feds last year. The new site emerged in November and is only accessible to those who have an invite and sign in using the Tor anonymizing service.
+
+Bitcoin has been a popular topic of late. Last week, Newsweek said it had uncovered the creator of bitcoin, a 64-year-old California man named Satoshi Nakamoto. But has denied any involvement.
+
+For more, see How Thieves Steal Your Bitcoins, as well as the Bitcoin and Other Cryptocurrencies slideshow above.
+
+Also check out PCMag Live in the video below, which discusses Karpeles and the "stolen" bitcoins.

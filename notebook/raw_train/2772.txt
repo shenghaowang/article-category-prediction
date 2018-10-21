@@ -1,0 +1,13 @@
+TOKYO, March 18 ¡ª Japan¡¯s government says it has yet to decide whether to regulate Bitcoin, while highlighting that banks must report any suspicions of money laundering stemming from trades of the digital currency.
+
+The government is still collecting information on Bitcoin, it said today in a written response to questions asked by opposition lawmaker Tsutomu Okubo. Banks had a duty to notify authorities if they suspected that customers had been involved in crime or drug dealing, it said.
+
+The bankruptcy last month of Mt. Gox Co., an online Bitcoin exchange based in Tokyo, brought the issue of regulating the virtual currency into focus in Japan. Bitcoin has attracted attention from authorities around the world who are concerned that the anonymity of transactions may attract money launderers.
+
+Okubo¡¯s questions centred on the responsibilities of Japanese banks used by Bitcoin exchanges to settle transactions with clients. While Bitcoin is not considered a currency in Japan, it could be subject to taxation, as with goods and services, the government said on March 7 in response to earlier questions from Okubo, who is a member of the Democratic Party of Japan.
+
+Mt. Gox was a customer of Mizuho Bank Ltd., a unit of Japan¡¯s third-biggest bank by market value. Tokyo-based Mizuho repeatedly asked Mt. Gox to close its accounts in the months before the exchange¡¯s collapse because it was concerned about an unmanageable volume of money transfers, The Wall Street Journal reported this month.
+
+Banks in Japan were required to check the identity of people who wanted to send more than 100,000 (RM3,230) of cash, along with the purpose of transfers, and keep records of the transactions, the government said in today¡¯s statement.
+
+The Monetary Authority of Singapore said last week that it planned to regulate virtual-currency intermediaries including operators of Bitcoin exchanges and vending machines to deal with risks of potential money laundering and terrorist financing. ¡ª Bloomberg

@@ -1,0 +1,13 @@
+NEW YORK (AP) ¡ª Sally Beauty says that a security breach discovered on March 5 affected fewer than 25,000 credit and debit card accounts.
+
+The seller of beauty supplies is pursuing its investigation with a forensics firm. It is also working with the U.S. Secret Service on their preliminary investigation into the matter.
+
+Sally Beauty Holdings Inc., which is based in Denton, Texas, said Monday that it will provide more information on its website in coming days, including notification of affected consumers and others.
+
+A spate of major data breaches in recent months has raised awareness about the vulnerability of cards used in the U.S.
+
+Recent intrusions include those at Target Corp. and Neiman Marcus. The Target breach compromised 40 million credit and debit cards and personal information of up to 70 million customers. At Neiman Marcus, its breach may have compromised 1.1 million debit and credit cards.
+
+Security experts have been long pushed for increased consumer protection through so-called EMV enabled credit and debit cards, which are already common in Europe. Most cards in the U.S. still feature magnetic strips.
+
+Earlier this month Visa and MasterCard, which seek broader acceptance of EMV technology from retailers and ATMs, said that they are creating a group intended to help the retail and banking industries come together on more-secure credit card payments. Visa and MasterCard, which run the networks that carry the payments, said the group¡¯s initial focus will be on chips embedded in newer credit cards that make them more secure.

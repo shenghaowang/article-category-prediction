@@ -1,0 +1,41 @@
+If they are proved to be true it shows how remote sensing satellites can play an important role in locating the wreckage of a crashed plane. It can be done within a couple of hours after the accident if multiple high-resolution satellites are used.
+
+Remote sensing satellites can be broadly classified into two categories 每 optical and radar satellites.
+
+Optical satellites can now deliver unclassified images at a resolution of half a metre while radar satellites can provide unclassified images at one metre resolution.
+
+Metallic structures such as plane wreckage can produce strong return on radar images, making them easily visible. Satellite imaging radar can also "see" through any cloud and can take images day and night.
+
+According to China's satellite images 每 taken over the suspected crash area a day after flight MH370 went missing on Saturday 每 the largest object shown is about 24m by 22m. This is clearly large enough to be imaged by both optical and radar satellites.
+
+It should be noted from the images that the object is closely surrounded by cloud. Any potential wreckage would not be spotted by optical satellite if it were covered by cloud but it would still be visible on a radar image.
+
+That's why it makes sense to use both optical and radar satellites in any search for the location of plane wreckage.
+
+The search much slower at sea level. Indonesian Search And Rescue (SAR) members looking for the missing flight MH370 in the Malacca straits, near Aceh Sea. Credit: EPA/ Hotli Simanjuntak Eye in the sky
+
+Satellite remote sensing has many advantages over conventional air and sea search using ships and aircraft.
+
+The satellites orbit around Earth at a height between 200km to 900km and can cover a large area, typically 100km by 100km (100,000 square kilometres 每 about the size of Cuba) or even 500km by 500km (250,000 square kilometres 每 about the size of the UK), with a single image collected in only a few seconds.
+
+It would take an aircraft between 1.5 and 34 hours to cover the same area. A ship will take much longer.
+
+So it is much more cost effective to use remote sensing satellites to search over large areas.
+
+Another advantage of satellites is that once in orbit the cameras and radar sensors on board are always on standby. They can be switched on immediately, as soon as the space agencies are informed of an accident, and be pointed straight at the area around the last known coordinates of the aircraft.
+
+This also makes them much quicker to respond to incidents such as the air crash than the air and sea search vessels.
+
+Another advantage is that satellites can take images globally without the issue around border protection so it is much easier to use them in international search.
+
+Although the remote sensing satellites have the potential for global coverage some do have difficulty in imaging the two poles. That's because they use near-polar orbits and not all of them have side-looking capability 每 they mostly look only down.
+
+If an aircraft goes missing in the mountains, there is also a good chance that any wreckage may be hidden under the forest canopy. Although long wavelength radars can penetrate tree canopy, they may still have difficulty in seeing through the dense tropical forest.
+
+In contrast, the open sea is a more favourable environment for searching a missing aircraft with satellite remote sensing, because the main features in a satellite image will be just sea water and the plane wreckage 每 there is less chance of confusing any wreckage with any other targets, such as trucks, trains or farm houses, as in the case of a plane crash on land.
+
+Since 2008 the Geodesy and Earth Observing Systems group (GEOS), at the UNSW School of Civil & Environmental Engineering has responded, in near real-time, to a range of natural disasters using both optical and radar satellite remote sensing.
+
+These events include major earthquakes in China and New Zealand, bushfire in Victoria and floods in Queensland, New South Wales and Victoria.
+
+The team has repeatedly demonstrated that intelligence such as ground deformation, fire and flood extent can be extracted and delivered to relevant authorities within two hours of satellite image capture.

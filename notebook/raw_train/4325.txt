@@ -1,0 +1,23 @@
+Tokyo-based bitcoin exchange Mt. Gox on Sunday filed for Chapter 15 bankruptcy in the U.S., more than a week after it filed for bankruptcy in Japan and disclosed that it had lost about 750,000 of its customers\¡¯ bitcoins.
+
+Chapter 15 is a chapter of the U.S. bankruptcy code that facilitates insolvency cases involving parties in more than one country. Mt. Gox filed for Chapter 15 in Dallas and is being represented by Baker & McKenzie, which is also the law firm representing Mt. Gox its civil rehabilitation proceeding in Japan.
+
+\¡±There may be Mt. Gox assets and liabilities in the U.S. ¡ª clearly there is at least one lawsuit that we¡¯re already aware of ¡ª and to the extent bitcoins with a relationship to Mt. Gox are accessible in the U.S., Mt. Gox wants to invoke the bankruptcy automatic stay,\¡± said Ira Herman, a partner at Thompson & Knight in New York.
+
+\¡±The automatic stay will serve to halt attempts including litigation to recover against Mt. Gox or to seize Mt. Gox\¡¯s assets,\¡± said Herman, adding that the stay doesn\¡¯t apply until a recognition order is entered.
+
+Mt. Gox\¡¯s Chapter 15 filing showed it is seeking relief from two parties in the U.S. with pending litigation: CoinLab Inc. and Gregory Greene, a plaintiff in the class-action lawsuit who alleges he lost $25,000 worth of bitcoin. The class-action lawsuit was filed against Mt. Gox and Chief Executive Mark Karpeles on Feb. 28 in Illinois on behalf of all people in the U.S. who held bitcoins in the exchange by the law firm Edelson PC. The lawsuit seeks the return of the customers\¡¯ funds and damages against Mt. Gox and Karpeles.
+
+There is an emergency hearing scheduled for Monday in Texas on Mt. Gox\¡¯s filing, according to Christopher Dore, a partner at Edelson who is working on the case. He refused to comment until after the hearing.
+
+Mt. Gox\¡¯s application for a Japanese civil rehabilitation proceeding on Feb. 28 disclosed that the exchange\¡¯s liabilities exceed its assets, and some of the liabilities may have been linked to missing bitcoins. The Japanese proceeding, which is similar to a Chapter 11 filing in the U.S., noted the possibility of letting Mt. Gox continue business operations \¡±in order to increase repayments to our creditors.\¡±
+
+The bankruptcy filing in Japan came after Mt. Gox abruptly shuttered its website, leaving users unable to trade or access the bitcoins stored in the exchange, and followed days of halts on bitcoin withdrawals.
+
+\¡±Rebuilding MtGox Co., Ltd under the supervision of the court in a legally organized procedure while giving proper explanations will not be for the sole benefit of the company but for that of the whole bitcoin community,\¡± the application for civil rehabilitation in Japan said.
+
+Read more on MarketWatch about bitcoin:
+
+Why the digital currency may be more secure in analog form
+
+Virtual currency to remain, but is bitcoin the future?

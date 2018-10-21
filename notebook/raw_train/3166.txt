@@ -1,0 +1,7 @@
+Bitcoin exchange MtGox faced a massive hacker offensives last month, coming under 150,000 denial-of-service attacks a second for several days ahead of its spectacular failure, a report says.
+
+The Tokyo-based exchange, which filed for bankruptcy protection in February and admitted losing half a billion dollars in the digital currency, has come under serious cyber-attacks in particular since about February 7, the Yomiuri Shimbun reports.
+
+While MtGox faced hacker attempts to steal bitcoins, the exchange also confronted massive distributed denial-of-service (DDoS) attacks, crippling its systems, the newspaper said without naming its sources.
+
+Under DDoS attacks, hackers hijack multiple computers to send a flood of requests for pages and data to the target, crippling its computer system.

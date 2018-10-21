@@ -1,0 +1,32 @@
+Since it was first conducted in 2009, the Federal Reserve＊s annual Comprehensive Capital Analysis and Review (CCAR) for banks has been tracked quite closely by banks, lawmakers, investors and also the public at large. This is because the review process 每 and quite specifically the stress test conducted as a part of it 每 is an important tool in the financial regulator＊s arsenal to ensure that the country＊s financial system can withstand an extreme adverse economic scenario in the future. As these tests aim to gauge the strength of each of the country＊s largest financial institutions under conditions similar to those seen during the economic downturn of 2008, they help the Fed advise individual firms about how much they need to shore up their balance sheet if necessary.
+
+Summary results for the fourth iteration of the stress test were released by the Fed Thursday, March 20, and although the process involved 12 more financial institutions compared to last year, there was a clear improvement in overall capital conditions across the industry. [ ] All but one of the firms (Zions Bancorporation) cleared the tests.
+
+In this article, which is the first in our series on the Fed＊s stress tests and its implications for the biggest banks reviewed, we simplify the key points to put these tests in perspective and also summarize the results to help understand how the firms fare with respect to each other.
+
+See Full Analysis for: Bank of America | Goldman Sachs | JPMorgan Chase | Morgan Stanley | Citigroup
+
+The purpose of the stress test is to ensure that the banks have enough capital to lend to customers and businesses even under extremely trying economic conditions. The test scenario includes 28 variables (increased from 26 last year) that capture various aspects of the global economy. [ ] Of these, 16 variables relate to the domestic economy and the rest are international variables.
+
+The main domestic variables considered as part of the supervisory scenario for the stress test are:
+ The U.S. unemployment rate reaches a peak of 11.25%. This figure has hovered around 6.7% over the last three months.
+ Equity prices witness a 50% drop compared to their value in Q3 2013.
+ Housing prices dip 25% by mid-2015, represented by a reduction in the house price index. The index has shown healthy quarter-on-quarter growth since early 2012.
+
+The 12 international variables capture the impact of a fall in real GDP growth, inflation, and the U.S./foreign currency exchange rate for the four country/region blocks of the Eurozone, the United Kingdom, developing Asia and Japan.
+
+The underlying idea that clearly emerges here is that if the financial institutions can hold their ground in such an extreme scenario, they will be well-positioned to withstand an adverse, but more probable scenario in the coming quarters.
+
+How Did Each Financial Institution Do?
+
+The key takeaway from the Fed＊s stress test is the impact on Tier 1 common ratio for each of the 30 institutions tested under the severely adverse scenario. No doubt, each of the firms will see this benchmark figure fall from current actual values under the test conditions, but the amount it actually falls is governed by a firm＊s business model, loan portfolio as well as the type of assets on its balance sheet. The table below represents the change in the Tier 1 common ratio for these firms from their current figure (circle) to their minimum level (diamond) as determined by the test.
+
+The highlighted data point represents the combined performance of all the 30 participating firms. The 5% mark shown is the cut-off required for a firm to pass the stress test. The only bank that fails to meet this standard is Zions. Although Zions is currently in pretty good shape compared to some of its other regional competitors like PNC, SunTrust and even U.S. Bancorp (NYSE:USB), its balance sheet is not strong enough to sustain a downturn.
+
+There are some other interesting things to note here. Custody banks 每 State Street (NYSE:STT), BNY Mellon (NYSE:BK), Northern Trust 每 and card-focused lenders 每 Discover (NYSE:DFS), American Express (NYSE:AXP) 每 figure among the best-capitalized firms in the list, and are also the ones least affected by the test scenario. On the other hand, all the globally diversified banks 每 Goldman Sachs (NYSE:GS), Morgan Stanley (NYSE:MS), HSBC (NYSE:HBC), JPMorgan Chase (NYSE:JPM), Bank of America (NYSE:BAC) and Citigroup (NYSE:C) 每 are seen at the bottom of the list in terms of worst minimum Tier 1 common ratios as the adverse scenario shaves off between five and eight percentage points from the benchmark for these banks.
+
+What Does This Mean For These Banks Over The Coming Year?
+
+As the stress test incorporates any corporate actions the banks proposed to undertake over the next year 每 including dividends, share repurchases and major acquisitions/divestitures 每 a bank which passes the test is almost certain to get its capital plan approved by the Fed (unless the Fed thinks otherwise due to some qualitative factor brought to its notice). While an increase in dividends and modest share buybacks are in the cards for most of the big banks, investors would be most interested in the capital return plans Bank of America, Citigroup and Morgan Stanley release on March 24, as these three banks have maintained dividends at the token figure of 1 cent since the economic downturn.
+
+See More at Trefis | View Interactive Institutional Research (Powered by Trefis)

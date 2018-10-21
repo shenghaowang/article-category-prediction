@@ -1,0 +1,29 @@
+Oracle posted a fair-to-OK earnings report March 18 for its fiscal third quarter 2014, but despite recording a modest profit increase, it narrowly missed Wall Street income expectations, sending the stock down 3 percent in after-hours trading as a result.
+
+The Redwood City, Calif.-based IT hardware and software provider posted earnings of 68 cents a share on revenue of $9.32 billion, but Thomson Reuters analysts expected the enterprise software and computer hardware company to report earnings of 70 cents a share on revenue of $9.36 billion. Net income was $2.56 billion, up 2 percent from a year ago.
+
+The stock price closed at $38.84, but following the report it was down about 3.3 percent at $37.55. In contrast, customer and competitor Salesforce was up 2.25 percent at $59.63 on the day.
+
+Oracle Co-President Mark Hurd told analysts on a conference call that new software sales and Web-based subscription rose 4 percent from the same period a year ago. Revenue from cloud software subscriptions was up by about 24 percent in the quarter to $292 million, equivalent to about 3 percent of Oracle's total revenue.
+
+Cloud app bookings, upon which Oracle is pinning much of its future business, saw healthy growth of more than 60 percent, Hurd said.
+
+"Our quarterly cloud application revenue is now approaching $300 million. All of our strategic cloud application suites, including Fusion Enterprise Resource Planning, Fusion Human Capital Management and Fusion Customer Experience, posted triple-digit revenue growth," Hurd said.
+
+Hurd said Oracle is getting better at selling cloud apps, thanks largely to "more feet on the street" after a sales reorganization in 2012 and a year of experience for new sales people.
+
+"We thought we knew a lot a year ago or a couple years ago. We just know a lot more now," Hurd said. "We obviously have more feet on the street than we had and ... they've been in place longer."
+
+Sales of Oracle's hardware systems -- including commodity servers and storage and the new-gen Exadata analytics machines -- grew 8 percent to $725 million, the first uptick since the software company's $7.4 billion purchase of Sun Microsystems in January 2010.
+
+What a Couple of Analysts Said
+
+"From my point of view, it was in line with what we expected, which wasn't rapid growth in terms of top line, but low to moderate," Gartner analyst Charles Eschinger told eWEEK. "Within the larger enterprise spaces, it was pretty consistent with what we're seeing: buyers having interest in [new] technology but perhaps holding back a little bit more than what we saw last year.
+
+"Oracle's core products really didn't drive the growth. The real growth came from the new products: Fusion and their acquired products and then some of the [new 12C] database. That is where we're seeing more growth in terms of the industry overall and what we expected to hear and see from Oracle."
+
+Trip Chowdhry of Global Equities Research wrote in a media advisory that Oracle "is not able to fully participate in the new-IT spend; its products are still considered to be for the existing IT. Large projects on Oracle are getting scaled down, large deals are taking a lot longer (30% to 50% longer) to close and new-IT players -- Amazon.com, Pivotal and VoltDB -- are putting competitive pressure on Oracle."
+
+Still, Chowdhry wrote, "the IT spend environment is improving, and Oracle is one of the prime beneficiaries of this trend. Oracle marketing solutions are gaining traction as Oracle continues to make smart acquisitions. Oracle, along with Salesforce.com and Adobe, continue to benefit from increased spending on the marketing solutions.
+
+"The industry is big enough and is currently not at the stage where one vendor needs to take market share from the other. Oracle, Salesforce.com and Adobe are all equally doing well with their marketing solutions offering."

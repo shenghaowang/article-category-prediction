@@ -1,0 +1,65 @@
+Sometimes it seems like not a week goes by without news of some bitcoin service getting hacked and losing everything.
+
+Thankfully, such attacks are rarer than that. But given the size of the bitcoin economy, they are still far, far more common than they have any right to be. A look at the history of bitcoin hacks is a look at the history of bitcoin itself, from its beginnings all the way to the genesis of the professionalised second generation of firms we＊re seeing now.
+
+In the interests of fairness, we haven＊t covered the black market. While the disappearance of sites like Sheep and Silk Road took a lot of bitcoins with them, that says more about what happens if you dabble in drug dealing than cryptocurrencies overall.
+
+It＊s not a bitcoin service, but honorary mention has to go to Allinvain, a member of the BitcoinTalk forums who, in June 2011, became the first person to suffer a major loss owing to a bitcoin hack.
+
+25,000 bitcoins were stolen from their wallet after hackers compromised the Windows computer they were using. Even at the time, that sum was worth more than $500,000; it would now be worth a little less than 10m.
+
+The first MtGox hack came a little after Allinvain＊s. The company, which at the time had a near-monopoly on the trade between bitcoins and real money, suffered a catastrophic hack just one week later.
+
+An attacker with a Hong Kong IP address compromised an account on the site, and then made a massive sale of bitcoins, causing the price of the currency to drop from $32.00 per coin to mere pennies. Ironically, the hackers themselves didn＊t even manage to profit from it; their attempts to withdraw the looted money hit up against Mt Gox＊s withdrawal limit of $1000 a day.
+
+That didn＊t stop the attack having a catastrophic effect on confidence in the currency. It was 18 months before bitcoin would recover enough to hit the highs it had been at before MtGox＊s hack.
+
+Following the collapse of the first bitcoin bubble, hacking activity died down for a bit. With bitcoins worth single-digit dollars, there was less motivation to steal them. But in the summer of 2012, one of the biggest 每 in bitcoin terms 每 scams ever began to fall apart. And unlike much in the bitcoin world, no hacks were needed, just good old-fashioned fraud.
+
+Bitcoin Savings and Trust was a bitcoin-based Ponzi scheme, that posed as a virtual hedge fund promising to pay high rates of interest to investors. In classic pyramid style, only the first people to invest ever saw those rates of return, as the money of later investors was used to pay off early ones.
+
+The fund was started in November 2011, and by July 2012 users were expressing doubt. But new members carried on joining for another month until August 17th, when Trendon Shavers - the man behind the scheme - announced he was closing it. A year later, the SEC issued a lawsuit against Shavers for running the Ponzi. Over 700,000 bitcoins went through the trust, and Shavers creamed off 150,000 for himself 每 returning the rest to investors. But only those who got in there early.
+
+At the same time as Bitcoin Savings and Trust was collapsing, a bitcoin exchange was suffering its own legal troubles. Bitcoinica had already been hacked in March 2012, and lost thousands of bitcoins. But the hack wasn＊t enough to bring the company down, and Bitcoincia promised that it would pay back users in full. In May that year, the company was hacked again; that time, it was a killing blow. The company closed its website, and promised to refund 50% of customers holdings.
+
+Five months later, that promise still hadn＊t been honoured, and four San Franciscan users sued the company for the $460,000 they felt they were owed. It was the second ever US lawsuit involving Bitcoin.
+
+The Bitcoinica story ended unresolved. The company built its service around MtGox, and so, once it shut down in May 2012, the bitcoins it had left stayed dormant in that account while the legal situation was sorted out. Which meant that when MtGox lost all its bitcoins and closed its doors, the Bitcoinica account holders finally lost everything.
+
+The summer of 2012 was a bad time for bitcoin exchanges. BitFloor suffered its own break-in in September, losing 24,000 bitcoins when a hacker ※accessed an unencrypted backup of wallet keys※.
+
+The exchange paused operations, with the founder, Roman Shtylman, saying that ※I felt it inappropriate to continue operating not having the capability to cover all account balances for BTC at the time.§ The company eventually managed to pay most users back, albeit only in dollars.
+
+If there＊s one type of bitcoin business which has a bad name, it＊s online wallet services. In theory, they let individual users offload the problems of securing their bitcoins to a trusted third party, while also allowing payments to be made easily and lowering the technical know-how required to get and store the currency.
+
+In practice, they are the most tempting target for hackers in the entire ecosystem. Since they don＊t interact with the traditional banking system to the same degree as bitcoin exchanges, the barrier to entry is far lower, presenting no shortage of potential opportunities.
+
+Inputs.io was one such service. In two hacks in late October 2013, the company lost 4,100 bitcoins, worth over $1m at the time. (At current prices they would be worth $2.5m). The site＊s founder, known as TradeFortress, announced the hacks 每 and subsequent closure of the site 每 in a post headlined ※:(※. He subsequently recommended against anyone using services like his: ※Please don＊t store Bitcoins on an internet connected device, regardless of [if] it is your own or a service＊s.§
+
+That advice leads to its own problems: if users aren＊t storing their bitcoins 每 or, more accurately, the private key to their bitcoins 每 on an internet connected device, spending their money becomes difficult.
+
+A few weeks after Inputs.io, another wallet service was hacked. BIPS lost 1,295 bitcoin from its own accounts, as well as money from ※several§ consumer wallets. The company disclosed the theft rather quicker than Inputs.io did, but still waited 11 days from the first hack attempt to finally telling customers that they had lost money.
+
+In that time, the value of the stolen bitcoins rose from $650,000 to over $1m 每 though by the end of December, the third bitcoin bubble had popped, and the value had fallen back down to $690,000.
+
+Even niche bitcoin firms aren＊t immune. Picostocks is an attempt to become one of the first bitcoin stock markets. Although it currently has just four companies trading on it 每 one of which is Picostocks itself 每 that didn＊t stop hackers making off with 6000 BTC in late November 2013.
+
+The company announced the loss on Reddit, and confirmed it would be offline for a week (a ※:-(※ emoticon ended the message). Impressively, it survived the loss, worth almost $6m at the time and is still trading today.
+
+Bitcoins are created by ※mining§ for them, a computationally intensive task which involves deliberately wasting processing power to prove that you aren＊t an attacker bent on cheating the network. Cointerra makes hardware specifically for mining: they currently sell a $6000 computer can do the required tasks 6 trillion times a second. That could earn up to $50,000 a month 每 but such an investment is speculating, not only on the price of Bitcoin, but also on the number of other people trying to mine for bitcoins. Of course, you have to pay for electricity as well. The box is rated for around 2100W of power 每 equivalent to running an electric kettle all day every day. And it puts off that much heat as well, so try not to keep it somewhere too hot.
+
+But making the hardware which powers the very backbone of bitcoin didn＊t stop Cointerra＊s email servers from getting hacked in early February. The company takes bitcoin for payments, naturally, but only through a third party company, meaning that its money was never at risk, but the firm had to warn customers to be wary of phishing attempts. ※If you have placed an order and paid via bitcoin since 31 January and have been contacted via email by any person purporting to be a CoinTerra representative offering to discount your order＃ please contact us immediately,§ the firm warned customers.
+
+On February 24, MtGox closed its website and announced that it had been hacked, again. This time, it had lost everything: the sum total of its bitcoin holdings were just 2000BTC, according to a leaked crisis document, while it owed customers around 750,000BTC. It was 284m in the hole.
+
+The immediate reaction of some was hope. Not for the money lost in the Mt Gox collapse, which represented 7% of all bitcoins in existence (for comparison, 7% of all pound notes is somewhere in the order of 4bn). That seems to be gone forever. Instead, there＊s hope that it can signal the beginning of a new age for the currency, one which takes it away from hacking, crime and fly-by-night businesses and towards the professionalism of venture-backed startups like Coinbase and Bitpay, two of the most respected firms in the area.
+
+But is that hope misplaced?
+
+The week after MtGox＊s closure two more bitcoin businesses shut their doors after hacking. They even announced the news on the same day. Flexcoin, a bitcoin bank, lost almost 1000 bitcoins in a hacking attack, while bitcoin exchange Poloniex admitted that 12.3% of its reserves had been stolen due to an unbelievable error in coding (the site failed to check whether users had a negative balance, letting them withdraw more bitcoins than they had).
+
+This week, Bitcurex, a Polish bitcoin exchange, closed its doors temporarily after a hack brought down its Zloty and Euro exchanges. The company lost ※between 10 and 20%§ of funds, according to a statement, but plans to re-open shortly.
+
+And just today, Canadian Bitcoins, a Canadian bitcoin exchange, revealed it had lost almost $100,000 in the currency when a fraudster opened a chat session with the exchange＊s hosting provider. ※He claimed to have a problem with a server and asked the attendant to reboot it into recovery mode, allowing him to bypass security on the server,§ according to the Ottawa Citizen. At no point in the two-hour session was he asked to prove his identity.
+
+It may be that we＊re just seeing the last gasps of the old bitcoin infrastructure, held together with glue and hope by coders who threw it together in a lunch break. But there is little doubt that the history of the currency to date can be told in its hacks.

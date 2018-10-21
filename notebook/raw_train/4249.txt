@@ -1,0 +1,23 @@
+Starbucks has been on the forefront of the mobile payments space, rolling out its own mobile payments system back in 2011, and becoming Square's first retail partner in 2012. The company has been championing digital payments for years.
+
+Now the company is taking another leap in that direction by announcing an update to its iPhone app on Wednesday that will allow users to tip their baristas from their mobile device.
+
+Starting on March 19th, customers using the Starbucks App for iPhone will be given the option to provide a tip in the three separate denominations: $0.50, $1.00, $2.00. Customers can also choose "no tip" as well.
+
+The feature will be available in 70,000 Starbucks locations across the United States, United Kingdom and Canada.
+
+Having worked in a similar environment to Starbucks for a few years, I can tell you that nothing was more annoying that having a steady stream of customers come in, all using credit cards. As well all know, tips only generally happen when someone gets change, so credit cards meant no tips.
+
+Now that mobile payments, like the one introduced by Starbucks a few years ago, have added a further option that requires no cash, Starbucks is throwing a nice bone to its employees.
+
+The Starbucks payments platform allows customers to pay with their smartphones. They can also reload their Starbucks Card balance directly from their mobile device with a major credit card, and even set up automatic reloads.
+
+¡°With more than 11 percent of transactions a week now happening with a mobile device in our stores, and nearly 10 million customers currently using our mobile app, we¡¯re thrilled to make the digital experience even easier and more rewarding for our customers and partners,¡± Adam Brotman, chief digital officer for Starbucks, said in a statement.
+
+A screenshot provided by Starbucks seems to indicate that customers do not have to decide right away if they want to tip. In fact, they are given two whole hours to decide (shout out to TechCrunch for catching that one).
+
+Starbucks credits the new feature to its users, who made it a top suggestion on MyStarbucksIdea.com, the company's online community for people to share, vote, discuss and put into action ideas on how to enhance the Starbucks Experience.
+
+The company expects to introduce the feature on its Android app later this year.
+
+There was also another cool feature added to the app: the ability for customers to bring the barcode of their Starbucks Card front and center at any time, simply by shaking their mobile device.

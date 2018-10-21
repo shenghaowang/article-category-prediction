@@ -1,0 +1,25 @@
+Mt. Gox, the now-defunct bitcoin exchange, says it has found 200,000 of the 850,000 bitcoins that had gone missing and precipitated its bankruptcy in February.
+
+In a statement posted on the Mt. Gox website, CEO Mark Karpeles said the company scanned ¡°certain old-format wallets which were used in the past and which, MtGox thought, no longer held any bitcoins.¡±
+
+But lo and behold, the company found the equivalent of $115 million!
+
+Bitcoins are a virtual currency that only exist as lines of code, stored on anything from cloud servers to thumb drives. These so-called wallets can be hacked, or users can simply misplace them or forget their passwords.
+
+Mt. Gox, which started as a site for trading Magic: The Gathering playing cards, was later transformed into a bitcoin exchange and was at one time the largest such online service. In late February, however, the company announced it had lost hundreds of thousands of bitcoins over several months, most likely due to theft from hackers. Of the 850,000 lost bitcoins, only 100,000 were the company¡¯s own holdings. The vast majority was virtual currency belonging to users.
+
+Some 650,000 bitcoins remain missing. That¡¯s the equivalent of almost $400 million, depending on what the volatile exchange rate may be. One bitcoin currently trades for $575.
+
+Although the thefts at Mt. Gox and several other exchanges in recent months have reinforced a negative impression of Bitcoin, people within the crypto-currency community still overwhelmingly believe in the security of digital cash.
+
+¡°Any news about bitcoin companies being hacked and people¡¯s funds being stolen is obviously terrible, but a lot of people are just pleased that these companies ¨C the ones with out adequate security or decent management ¨C are being weeded out,¡± Emily Spaven, Managing Editor at digital currency news and information site CoinDesk, told me in an email earlier this month.
+
+¡°The collapse of the bad actors enables other companies to learn from their mistakes and build systems that are stronger and more secure.¡±
+
+Karpeles, in particular, had gained a reputation as a feckless manager who was lax about security as head of Mt. Gox. As Wired reports, important bug fixes would sometimes languish for weeks before they were implemented. For much of the last year Karpeles was also obsessed with building a ¡°Bitcoin Cafe¡± in the lobby of the company¡¯s Tokyo office building ¡ª an expensive and time-consuming project that never launched.
+
+Esther Tung, a Vancouver-based bitcoin consultant, recently attended a digital currency conference in Austin, Texas, and found the mood was overwhelmingly positive about the future. This despite all the bad press, which included the circus surrounding the identity of bitcoin founder Satoshi Nakamoto.
+
+¡°Most people think it¡¯s a really good thing that Mt. Gox has gone away and declared bankruptcy and shut down. They weren¡¯t good for the market,¡± she said.
+
+Tung, co-founder of Saftonhouse Consulting Group, says the huge losses at Mt. Gox have only two possible explanations: ¡°They were either incompetent or it was an inside job.¡±

@@ -1,0 +1,116 @@
+Bitcoin has received a lot of recent press attention, both as a speculative investment and as an alternative payment option to fiat currency. The anonymous nature of Bitcoin payments has also caught the attention of tax authorities and other regulators, both in Australia and overseas.
+
+One issue that has received little attention is the GST treatment of Bitcoin transactions that occur within Australia. As discussed below, Bitcoins may not qualify as "money" for GST purposes. As a result, some Bitcoin payments or trades conducted within Australia could attract GST (which is not generally the case for transactions involving fiat currency).
+
+These issues are particularly relevant for GST registered entities that may accept Bitcoin payments. After receiving such payments, an entity will likely either:
+ use the Bitcoins to make its own payments for goods and services; or
+ exchange the Bitcoins for another currency.
+
+If these transactions occur within Australia, a GST liability could potentially arise.
+
+In a worst case scenario, a GST registered entity that makes a taxable supply in consideration of a Bitcoin payment could be liable for GST twice. Once when the Bitcoins are received as consideration for a taxable supply, and secondly when the Bitcoins are exchanged for Australian currency. This is illustrated through an example in section 8 below.
+
+Bitcoin is a form of virtual (digital) currency. The currency is transferred online, including for the purposes of payment or trade, via a peer-to-peer payment system. Users store their Bitcoins in a "digital wallet".
+
+Unlike fiat currency, Bitcoins are not issued by any country. One of the key attractions for some investors is the fact that the value of Bitcoins cannot be controlled through traditional monetary policy.
+
+The value of Bitcoins has grown spectacularly. In June 2010, a Bitcoin was worth approximately 8 US cents. The value reached parity with the US dollar in the period between February and April 2011. On 29 November 2013, Bitcoins reached a record price of US$1,124.76.
+
+As explained above, Bitcoin is a virtual currency which is intended to be an alternative to fiat currency. However, Bitcoins may not qualify as "money" as that term is defined in the A New Tax System (Goods and Services Tax) Act 1999 (GST Act).
+
+The term "money" is defined in section 195-1 of the GST Act as follows:
+ currency (whether of Australia or of any other country); and
+ promissory notes and bills of exchange; and
+ any negotiable instrument used or circulated, or intended for use or circulation, as currency (whether of Australia or any other country);
+ whatever is supplied as payment by way of:
+ 
+ crediting or debiting an account; or
+
+There is a risk that Bitcoins do not meet this definition. In particular, Bitcoins may not qualify as a "currency" or "negotiable instrument" of the type described in paragraphs (a) and (c). This is on the basis that Bitcoins are not issued by the Australian government, or the government of any other country.
+
+Further, Bitcoins are not a promissory note or bill of exchange (i.e. a cheque) for the purposes of paragraph (b). Nor are Bitcoins a postal note or money order for the purposes of paragraph (d).
+
+In relation to paragraph (e) of the definition, the payment of a Bitcoin will not involve a credit or debit card. Nor will it involve the creation or transfer of a debt.
+
+It could perhaps be argued that a Bitcoin payment will involve the "crediting or debiting" of an account for the purposes of paragraph (e)(ii). However, the contrary argument is that such payments will instead involve the transfer of Bitcoins from one "digital wallet" to another, rather than the crediting or debiting of accounts.
+
+3 WHY DOES IT MATTER?
+
+GST applies at the rate of 10% to "taxable supplies". For these purposes, the term "supply" is defined in section 9-10(1) of the GST Act to mean:
+
+To ensure that GST does not apply to payments of "money", section 9-10(4) of the GST Act provides:
+
+In other words, monetary payments are not treated as a "supply" for GST purposes, except in the context of foreign exchange transactions. Consequently, because payments of "money" are not a "supply", GST is not applicable to such payments.
+
+However, if a Bitcoin is not "money" as defined, the carve out from the definition of "supply" in section 9-10(4) may not apply to Bitcoin transactions. This means that, unlike fiat currency transactions, a Bitcoin transaction could potentially be a taxable supply that attracts GST.
+
+4 WHEN COULD GST APPLY TO A BITCOIN PAYMENT OR TRADE?
+
+Generally speaking, GST only applies to "taxable supplies". An entity that supplies a Bitcoin (through either a payment or trade) could potentially make a taxable supply if each of the following requirements is satisfied:
+ The supply is made for "consideration"; and
+ The supply is made in the course or furtherance of an enterprise that the entity carries on; and
+ The supply is "connected with Australia"; and
+ The entity is registered for GST, or required to be so registered.
+
+Note that for these purposes, "consideration" can be non-monetary. Therefore, the entity may receive "consideration" if a Bitcoin payment is made in exchange for goods, services or other things.
+
+As one of the requirements is that the entity must make the supply in the course of carrying on its enterprise, a GST liability may not arise for individuals who use Bitcoins as a payment method in a private and domestic capacity.
+
+However, if an individual carries on an enterprise that involves trading of Bitcoins then, depending on whether the individual exceeds the GST registration threshold of A$75,000, the individual may need to register for GST and could potentially be liable for GST on the Bitcoin trades.
+
+5 EXAMPLE OF GST APPLYING TO A BITCOIN PAYMENT
+
+White Co is a GST registered company based in Australia. It has decided to purchase an apartment in Pyrmont from Rebecca for $550,000. The apartment will be converted to an office and has been acquired as a part of White Co's business enterprise. Rebecca is not GST registered and the apartment she is selling was used as her principal place of residence.
+
+Rebecca has agreed that she will accept either $550,000 in Australian currency, or the equivalent value in Bitcoins, in exchange for the apartment. As the supply of the apartment is made by Rebecca in a private capacity, no GST liability will arise for her on the sale (regardless of whether she is paid in Australian currency or Bitcoins).
+
+If White Co paid for the apartment using Australian currency, which is "money" as defined in the GST Act, the payment would not be treated as a supply. Therefore, White Co would not be liable for GST in respect of the payment.
+
+However, if White Co instead paid for the apartment using Bitcoins (which may not qualify as "money" as defined), White Co may be treated as making a taxable supply of the Bitcoins which triggers a GST liability. The consideration for the supply of the Bitcoins is the $550,000 apartment transferred by Rebecca, triggering a GST liability of $50,000 for White Co.
+
+In this example, White Co's GST liability would not be offset by any input tax credit (GST credit). White Co would need to have the funds available to the pay the $50,000 liability in Australian dollars.
+
+If a GST registered entity accepts Bitcoins as payment for a taxable supply, this may give rise to some practical issues that do not arise where Australian currency is accepted in payment. Specifically:
+ The entity will need to determine the market value of the Bitcoins that have been received so that it can calculate the amount of GST that is payable on the taxable supply.
+ If a "tax invoice" is issued, the entity will need to show the amount of GST payable on the taxable supply in Australian dollars on the tax invoice. This is notwithstanding that the total invoice amount may be paid in Bitcoins.
+ The entity will need to have Australian dollars available to pay the GST on its taxable supplies. The ATO will not accept Bitcoins as payment.
+
+While these issues should generally be manageable, they are additional practical considerations for entities that intended to accept Bitcoin payments. These same issues do not arise for payments that are received in Australian dollars.
+
+7 COULD GST APPLY IF A BITCOIN IS EXCHANGED FOR AUSTRALIAN CURRENCY IN AUSTRALIA?
+
+Foreign exchange transactions which occur within Australia are treated as a "financial supply". Financial supplies are "input taxed" and not subject to GST.
+
+For these purposes, Item 9 in Regulation 40-9.05(3) of the A New Tax System (Goods and Services Tax) Regulations 1999 (GST Regulations) provides that a supply will be an input taxed financial supply if it involves an interest in:
+
+It is unlikely that this Regulation could apply to an exchange transaction involving Bitcoins, as a Bitcoin is neither "Australian currency" nor "currency of a foreign country". Rather, it is a virtual currency that is not associated with any country. Therefore, such transactions could involve taxable supplies, where the requirements outlined in section 4 above are satisfied.
+
+Note that as discussed in section 9 below, GST may not apply if the Bitcoins are supplied to a nonresident counter party that is not in Australia.
+
+8 EXAMPLE OF GST APPLYING TWICE WHERE BITCOINS ARE ACCEPTED AS PAYMENT
+
+White Co has sold equipment worth $11,000 (including GST of $1,000) to an Australian customer. White Co has agreed to accept an equivalent amount of Bitcoins instead of Australian currency in payment for the equipment.
+
+White Co will have a GST liability of $1,000 on the sale of the equipment, notwithstanding that it has received Bitcoins instead of Australian currency.
+
+Following the sale, White Co decides the convert the $11,000 worth of Bitcoins that it has received to Australian currency. White Co sells the Bitcoins to a purchaser within Australia for $11,000. The sale of the Bitcoins may be treated as a taxable supply, triggering a second $1,000 GST liability for White Co.
+
+Had White Co accepted Australian currency at first instance, there would not have been any need to convert the Bitcoins and the second potential GST liability would not have arisen.
+
+9 WOULD GST APPLY IF A BITCOIN IS SUPPLIED TO SOMEONE OUTSIDE OF AUSTRALIA?
+
+If a Bitcoin is supplied (as either a payment or trade) to an entity that is outside of Australia, that supply may be GST-free (and not subject to GST) under the export exemption provisions in section 38-190(1) of the GST Act.
+
+Section 9-5 of the GST Act provides that where a supply is both GST-free and taxable, the GST-free treatment will prevail.
+
+There have been recent press reports regarding proposals by some companies to introduce Bitcoin ATMs into Australia.
+
+Generally speaking, ATM services are treated as a financial supply and input taxed under Regulation 40-5.09(4A) of the GST Regulations. However, it is unclear whether those provisions may only apply to ATM services provided in respect of accounts that are maintained in relation to "money" (as defined in the GST Act).
+
+If the provisions do not apply, services provided via Bitcoin ATMs located in Australia could be taxable supplies and subject to GST.
+
+For the reasons outlined above, the GST treatment of Bitcoin transactions that occur within Australia should be considered carefully. This is particularly the case for GST registered businesses that may be considering accepting Bitcoins in payment for goods or services, and for entities that engage in significant Bitcoin trading activities.
+
+This publication is intended as a general overview and discussion of the subjects dealt with. It is not intended to be, and should not used as, a substitute for taking legal advice in any specific situation. DLA Piper Australia will accept no responsibility for any actions taken or not taken on the basis of this publication.
+
+DLA Piper Australia is part of DLA Piper, a global law firm, operating through various separate and distinct legal entities. For further information, please refer to www.dlapiper.com

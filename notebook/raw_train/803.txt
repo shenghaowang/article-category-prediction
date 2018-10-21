@@ -1,0 +1,31 @@
+Hackers have stolen account transaction information from beleaguered Japanese bitcoin exchange Mt. Gox, claiming CEO Mark Karpeles was lying about the amount of bitcoins the company had before it filed for bankruptcy.
+
+The stolen information claims to show a ledger balance of 951,116 bitcoins, which is over 100,000 more than Karpeles claimed was stolen from his exchange when he filed for bankruptcy protection in Japan on 28 February.
+
+The hackers attacked the personal blog of Karpeles, called "Magical Tux in Japan - Geekness brought me to Japan!" and posted the stolen information there.
+
+The information was contained in a 716 megabyte file which includes an Excel spreadsheet of over a million trades as well as an internal SQl database administration tool and even Karpeles' own CV.
+
+A note on the file add: "That fat f**k has been lying!!" The hackers also took over the Reddit account of Karpeles and posted the information there too. Reddit moderators have since removed the post, which said: "It's time that MTGOX got the bitcoin communities wrath instead of Bitcoin Community getting Goxed."
+
+Despite the removal of the post, users of the bitcoin subreddit have made their position very clear, with one of the top posts on the forum saying:
+
+"Mt. Gox scam was just exposed ¡ª MK [Mark Karpeles] officially stole our funds."
+
+Karpeles has so far not responded to the claims.
+
+The hackers added that the bitcoin community could use the relevant database dumps, csv exports, specialised tools, and some highlighted summaries compiled from data from the given download link to help expose what really went on at Mt. Gox.
+
+The hackers have redacted any user details from the files.
+
+Last month Japan-based MtGox, which once hosted 80% of the world's bitcoin trades, collapsed after losing about 850,000 bitcoins to a hack - 750,000 customer bitcoins and 100,000 of its own. Two weeks ago, the company filed for bankruptcy protection in Japan.
+
+The company noted that its liabilities totalled 6.5bn yen ($64m, 38m, 46.5m), while it has only 3.8bn yen of assets.
+
+The Tokyo-based company was the largest and most well-known bitcoin exchange in the world when the cryptocurrency shot to fame last year.
+
+The exchange claims that problems with the way Mt Gox's automated transaction system operates led to hackers manipulating transactions to withdraw more bitcoins than were being recorded by the exchange.
+
+Known as "transaction malleability", the flaw is in the way bitcoin itself is coded and has been known about since 2011, but can be fixed by making relatively simple changes to the way exchanges handle transactions.
+
+The exchange's collapse led to the price of bitcoin crashing but the virtual currency has shown remarkable resilience and the price of the cryptocurrency has bounced back and is currently trading at 381 on the Coindesk index.

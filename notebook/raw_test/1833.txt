@@ -1,0 +1,11 @@
+Mt. Gox, the Tokyo-based bitcoin exchange that filed for bankruptcy this month after it said it lost 750,000 of its users currency, just reported that it found 200,000 bitcoins that were found in an ¡°old-format wallet.¡±
+
+For you kids at home dealing in old school, E Pluribus Unum kinda legal tender, that¡¯s referring to a digital storage file kind of wallet, not the old leathery kind.
+
+In a message posted Friday on the exchange¡¯s website, Mt. Gox¡¯s former chief executive, Mark Karpeles, said ¡±Mt. Gox Co., Ltd. had certain oldformat wallets which were used in the past and which, Mt. Gox thought no longer held any bitcoins.¡±
+
+But on March 7, Karpeles wrote, the exchange ¡°confirmed that an old format wallet which was used prior to June 2011 held a balance of approximately 200,000 BTC.¡± That still doesn¡¯t account for all of the amount that was unaccounted for, plus another 100,000 of Mt. Gox¡¯s own bitcoin reserve. Total value at the time: $450 million. Based on current rates, it is worth about a quarter of that.
+
+Gil Luria, a managing director at Wedbush Securities, told The New York Times that Mt. Gox probably overestimated how much bitcoin it had misplaced.
+
+¡°I think that it¡¯s yet another illustration of how incompetently managed that hobbyist operation was,¡± said Luria, who has written about bitcoin. ¡°That you can lose that much bitcoin and then find it tells you that we¡¯re not talking about robust levels of security and control.¡±

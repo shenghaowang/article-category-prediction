@@ -1,0 +1,13 @@
+Bitcoin exchange Mt. Gox has filed for Chapter 15 bankruptcy proceedings in the United States.
+
+The once-dominant Bitcoin trading post filed for Chapter 15 in the U.S. on Sunday. This particular chapter of the U.S. bankruptcy code deals with insolvency cases that spread across more than one country.
+
+On 28 February, Tokyo-based Mt. Gox filed for bankruptcy protection in Japan. However, by filing for Chapter 15 in the United States, foreign debtors and parties are able to use the U.S. Bankruptcy Courts and systems. This means that Mt. Gox's insolvency now reaches beyond the confines of Tokyo, and the U.S. is able to work with other countries and connected parties around the world in order to better solve the case and protect the interests of all creditors as well as Mt. Gox and its remaining assets.
+
+As Mt. Gox accounts for investors worldwide, it makes sense that this secondary bankruptcy filing has occurred. Through Chapter 15, the U.S. Bankruptcy Court will generally defer to the actions of a foreign court -- in this case, in Japan, as the primary place for bankruptcy procedures. However, when circumstances do not violate laws or public policy in the U.S., Chapter 15 also allows aid to be offered to the foreign company filing for bankruptcy protection.
+
+The Bitcoin exchange shut down abruptly last month, closing its Twitter feed and rendering itself mute for over a week before announcing that Mt. Gox was closing its doors. In total, according to Mt. Gox's announcement that it was filing for Japanese bankruptcy protection (.PDF), approximately 750,000 Bitcoins deposited by users and 100,000 Bitcoins belonging to Mt. Gox disappeared, which is worth roughly $500 million in today's trading rates.
+
+Mt. Gox CEO Mark Karpeles said the loss -- taking place over several years -- was due to "weaknesses in the system" which allowed cyberattacks and Bitcoin theft to occur.
+
+Over the weekend , anonymous hackers claimed to have broken in to Mt. Gox systems and lifted apparent evidence that customer investments were not the target of theft, but instead are still being held at the exchange as part of a fraudulent plot by Mt. Gox management.
