@@ -1,0 +1,62 @@
+var ssdl ssdl
+ssdleditorialmetadata countri us
+region united_st
+compani
+sector industry_headlin
+industry_sector
+audienc
+content_typ
+company_senti
+author karen
+published_d 20140310
+tag analysis_trend
+longev
+content_origin
+unit state europ unit see need intern monitor crimea maintain dialogu russia follow countri invas ukrain europ close econom tie russia depend russian ga make european leader reluct impos sanction
+angela stent professor georgetown univers author limit partnership usrussian relat twentyfirst centuri told ih attende unlik crimea part territori intact ukrain resid crimea vote independ march 16 referendum stent intern polici expert discuss geopolit trend role oil ga trend implic geopolit might oil ga confer wrap march 7
+recent ukrainian crisi feel like cold war listen rhetor side cold war said stent ideolog antagonist tri carv world social capit nuclear weapon target anymor could
+cold war era communist russia wasnt integr global economi russian invas countri didnt much econom impact russia recent move ukrain impact russia depress stock market valu rubl thi global integr work way said stent work russia also constrain european countri extent impos sanction
+differ alway exist within ukrain whose current border establish follow world war ii peopl western ukrain formerli part poland speak ukrainian identifi eastern europ dont like russian live eastern ukrain speak russian identifi former soviet union
+1991 ukrain vote separ russia becom sovereign countri wa assum ukrain would continu exist nation intern differ howev exist weak ukrain exist govern structur past two decad govern inabl creat function state creat nation ident everyon agre gave russian presid vladimir putin opportun invad crimea said stent disgust ukrain previou govern also ha group see align russia better solut
+putin told former us presid georg w bush 2008 didnt see ukrain countri ha invad crimea prevent territori intact ukrain move closer european union orbit
+view full articl
+tweet
+functiond id
+var js fj dgetelementsbytagnames0 p dlocat http http
+dgetelementbyidid
+js dcreateel
+jsid id
+jssrc p platformtwittercomwidgetsj
+fjsparentnodeinsertbeforej fj
+document script twitterwj
+functiond id
+var js fj dgetelementsbytagnames0
+dgetelementbyidid return
+js dcreateel
+jsid id
+jssrc connectfacebookneten_ussdkjsxfbml1versionv23
+fjsparentnodeinsertbeforej fj
+document script facebookjssdk
+function
+socialbaremailinit
+email
+separ multipl email address semicolon
+email
+send email well
+subject
+comment
+charact limit
+adscreens adsizeshow1
+documentwrit
+documentwrit
+googletagcmdpushfunct googletagdisplaydivgptadlead
+think
+post comment
+gener reader comment includ herein reflect view opinion rigzon comment subject editori review offtop inappropri insult comment remov
+name
+email
+comment
+function
+newsarticlescommentinit
+newsarticledetailsloadcom
+gener reader comment includ herein reflect view opinion rigzon comment subject editori review offtop inappropri insult comment remov

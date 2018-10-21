@@ -1,0 +1,36 @@
+sign subscrib
+see offer
+hous leader put forward plan offer electionyear contrast afford care act
+washington hous republican leader adopt agreedupon conserv approach fix nation health care system part draw electionyear contrast presid obama afford care act
+plan includ expans highrisk insur pool promot health save account induc small busi purchas coverag togeth
+tenet plan could expand includ abil purchas insur across state line guarante renew polici chang medicalmalpractic regul idea variou conserv long time back part broader bill
+thi first time thi year hous leader put full forc behind singl set principl bill present vision thi month hous leader begin share memo member outlin plan call stronger health care system gop plan freedom flexibl peac mind suggest talk constitu
+republican campaign heavili opposit health care law effort acceler last week republican david jolli upset victori special hous elect florida campaign focus law
+democrat dismiss republican approach pure polit gestur say focu longheld conserv idea wa attempt ralli republican find bipartisan solut
+send questionscom editor
+mainetoday media valu reader commit grow commun encourag add discuss
+ensur conscienti dialogu implement strict nobulli polici particip must follow term use click flag report comment violat term use
+var mediacont mediacontentcont
+function
+var new date
+var cookienam new regexpmspan_paywall_views_ nowgetmonth
+windowmspan
+paywal
+totalview function
+var cooki documentcookiesplit
+var val 0
+cookienametestdocumentcooki
+return 0
+var 0 cookieslength
+cookienametestcookiesi
+val parseintcookiesisplit1
+return val
+function
+use strict
+iflogouttestwindowlocationsearch
+var date new date
+var cookiestr mspan_paywall_user0 domaindocumentlocationhostreplacew path expir datetogmtstr
+var cookiestring2 mspan_paywall_user0 domaindocumentlocationhost path expir datetogmtstr
+datesethoursdategethour 1
+documentcooki cookiestr
+documentcooki cookiestring2

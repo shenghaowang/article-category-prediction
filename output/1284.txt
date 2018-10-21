@@ -1,0 +1,15 @@
+dow
+nasdaq
+sp 500 index
+nasdaq 100
+sp 100
+sp midcap 400
+nyse composit
+amex composit
+composit
+dax
+nikkei 225
+ftse 100
+hang seng
+sensex
+market statist

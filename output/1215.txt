@@ -1,0 +1,29 @@
+tom
+tripoli 17 march 2014
+tanker morn glori illicitli load oil sidra port
+thi articl onli avail subscrib pleas login subscrib
+must log post comment
+login
+copyright 20122014 libya herald
+log post
+add new
+power wordpress
+functiond id
+var js fj dgetelementsbytagnames0
+dgetelementbyidid return
+js dcreateel jsid id
+jssrc connectfacebookneten_usalljsxfbml1
+fjsparentnodeinsertbeforej fj
+document script facebookjssdk
+cdata
+var ubermenuset speed300triggerhoverintentorientationhorizontaltransitionslidehoverinterval20hovertimeout400removeconflictsonautoalignoffnoconflictofffullwidthsubsoffandroidclickoffiosclosebuttononloadgooglemapsoffrepositiononloadoff
+cdata
+var ubermenustickyset expand_menu_bar1offset0mobilescroll_context
+windowfbasyncinit function
+fbinitappid474124912655114channelurlwwlibyaheraldcomsfcchannelfile1statustruecookietruexfbmltrueoauthtru
+functiond
+var js id facebookjssdk dgetelementbyidid return
+js dcreateelementscript jsid id jsasync true
+jssrc connectfacebookneten_usallj
+dgetelementsbytagnamehead0appendchildj
+document

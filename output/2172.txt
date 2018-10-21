@@ -1,0 +1,38 @@
+sign subscrib
+see offer
+201 million polici actual two dozen polici underwritten 19 differ insur
+san jose calif unnam silicon valley billionair ha purchas world valuabl life insur polici
+san jose mercuri news report saturday guin book world record offici say 201 million life insur polici doubl previou record set 1990 unidentifi entertain industri figur
+southern california financi servic compani help put deal togeth declin identifi buyer safeti reason
+dont want hit men run around palo alto tri find member hi estat quip dovi franc santa barbarabas sg llc financi servic compani
+franc said life insur polici actual two dozen polici underwritten 19 differ insur becaus one compani could afford pay polici benefactor billionair die
+franc didnt disclos annual cost billionair polici say wa singl million dollar said guin offici spent six month investig polici befor declar record
+sever billionair connect franc firm includ googl chairman eric schmidt palantir technolog cofound joe lonsdal franc declin discuss ident policyhold wouldnt disclos billionair age
+franc said billionair purchas polici help hi heir avoid pay 45 percent inherit tax
+send questionscom editor
+mainetoday media valu reader commit grow commun encourag add discuss
+ensur conscienti dialogu implement strict nobulli polici particip must follow term use click flag report comment violat term use
+var mediacont mediacontentcont
+function
+var new date
+var cookienam new regexpmspan_paywall_views_ nowgetmonth
+windowmspan
+paywal
+totalview function
+var cooki documentcookiesplit
+var val 0
+cookienametestdocumentcooki
+return 0
+var 0 cookieslength
+cookienametestcookiesi
+val parseintcookiesisplit1
+return val
+function
+use strict
+iflogouttestwindowlocationsearch
+var date new date
+var cookiestr mspan_paywall_user0 domaindocumentlocationhostreplacew path expir datetogmtstr
+var cookiestring2 mspan_paywall_user0 domaindocumentlocationhost path expir datetogmtstr
+datesethoursdategethour 1
+documentcooki cookiestr
+documentcooki cookiestring2

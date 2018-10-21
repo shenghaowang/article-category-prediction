@@ -1,0 +1,215 @@
+stock quot busi news data stock market msn money
+cdata
+functionntfunct hnirtypeof nstringriinntiispliceriinita0nrtv0lnir11funct lntirfevar syifncnvar hotntohdependencynotfoundlhresolvedifotypeof uoundefineduouopusheindtfirrsfreturnstypeof ifunctionyvasfyetnilrftsnilrfunct ftntiruvar ffniapplynullridtfufunct etntirsettimeoutfunctionvar utapplynullidnur1funct dtirritictifpushtgnconsoleconsoleerrordepend resolv object still defin otherwis falsey idt typeof obj typeof ifunct gvar tshiocrnifeee2elsetdofore1hflengthi0i1e0funct otntforvar eirottlength0u0u
+mobil galleryinfo imgdividerdisplaynonehomepagetmxpcchrom main onecolhomepagetmxpcchrom main twocolhomepagetmxpcchrom main threecolmarginright016remmarginleft016remhomepagemidlevel pagingsectionbuttonshowchannelplayerpagemidlevel pagingsectionbuttonshowdisplaynonesettingsstarttmxpc globalset socialtwitterdisplaynon
+home
+news
+weather
+entertain
+sport
+money
+lifestyl
+health fit
+food drink
+travel
+auto
+video
+kid
+money
+use older browser version pleas use support version best msn experi
+latest stori
+25 biggest us ipo time
+doe work cave whi ye
+whi investor grow increasingli anxiou china
+motorcycl maker find way us
+poverti forgotten california farm town
+video
+thing check befor buy use car
+amazon revisit citi second headquart project
+mega million thing know befor play
+restaur claim actual
+first auction portrait creat artifici intellig
+cdata
+function
+windowdap
+return
+data need render ad refresh
+var postevaluationclassnam
+var postevaluationadsmallclassnam
+var postevaluationadmediumclassnam
+var postevaluationadlargeclassnam
+var postevaluationnoadclassnam
+var mediumadheight 200
+var largeadheight 550
+var numevalpass 10
+var contentchecktimeout 300
+var discernibleadheightthreshold 30
+var discernibleadwidththreshold 40
+var adsizetyp
+0 dimens 0
+1 dimens threshold
+2 dimens abov threshold full size
+3 one dimens 0 abov threshold
+function width height htmlid
+var elem
+elem
+return
+param width height
+var renderdata
+param param
+width width
+height height
+htmlid htmlid
+adsizetyp
+fals
+elem elem
+checkandsetadcontainervisibilityrenderdata
+function checkandsetadcontainervisibilityrenderdata
+var retri numevalpass
+function
+retri
+var
+checkvisibilityandupdaterenderdatacontextforelementrenderdata
+var islastpass retri 0
+var adsizetyp renderdataadsizetyp
+var addetect adsizetyp adsizetypeinconclus
+var doshow adsizetyp adsizetypenonpointsizedad
+addetect islastpass
+var adsizeclassnam postevaluationnoadclassnam
+doshow
+renderdataheight mediumadheight
+adsizeclassnam postevaluationadsmallclassnam
+els renderdataheight largeadheight
+adsizeclassnam postevaluationadmediumclassnam
+els
+adsizeclassnam postevaluationadlargeclassnam
+doshow adsizeclassnam
+last final check
+function
+numevalpass contentchecktimeout 1
+els
+got didnt find anyth script tri later
+contentchecktimeout
+function checkvisibilityandupdaterenderdatacontextforelementrenderdata
+renderdata
+return
+evaluateadcontentrenderdata
+function evaluateadcontentrenderdata
+var adcontain renderdata
+adcontain
+renderdataadsizetyp adsizetypeinconclus
+var
+var
+var adifram ndx 0 adifram ndx
+skip ifram element
+var bodi document bodi
+bodi
+continu
+var childnod haschilddiv fals
+var index 1 childnod index
+1
+script
+haschilddiv true
+renderdataadsizetyp renderdata
+renderdataadsizetyp adsizetypenonpointsizedad
+return
+bug advertis overlap destin section
+ff lower version index may neg henc caus js error
+add index valu check solv problem
+index 0
+break
+renderdataadsizetyp adsizetypenonpointsizedad haschilddiv
+renderdataadsizetyp renderdata
+renderdataadsizetyp adsizetypenonpointsizedad
+return
+extract characterist div immedi children
+var
+var addiv ndx 0 addiv ndx
+renderdataadsizetyp renderdata
+renderdataadsizetyp adsizetypenonpointsizedad
+return
+function renderdata
+var maxwidth evaluateelementdimensionel true discernibleadwidththreshold
+var maxheight evaluateelementdimensionel fals discernibleadheightthreshold
+maxwidth
+renderdataheight maxheight
+maxwidth discernibleadwidththreshold maxheight discernibleadheightthreshold
+return adsizetypenonpointsizedad
+maxwidth 0 maxheight 0
+return
+return adsizetypeinconclus
+function evaluateelementdimensionel iswidth threshold
+var iswidth width height
+var iswidth
+var iswidth width height
+var totalproperti 3
+var maxdimens 0 dimens 0
+var 0 totalproperti
+dimens maxdimens
+maxdimens dimens
+maxdimens threshold
+break
+var elemstyl
+maxdimens threshold elemstyl
+dimens maxdimens
+maxdimens dimens
+maxdimens maxdimens
+maxdimens dimens
+return maxdimens
+function doshow adsizeclassnam
+var adhtmlcontain parentnod parentnod
+adhtmlcontain
+return
+doshow none
+var classnam adhtmlcontainerclassnam
+classnam addorremoveclassnameclassnam postevaluationclassnam doshow
+classnam addorremoveclassnameclassnam postevaluationadsmallclassnam adsizeclassnam postevaluationadsmallclassnam
+classnam addorremoveclassnameclassnam postevaluationadmediumclassnam adsizeclassnam postevaluationadmediumclassnam
+classnam addorremoveclassnameclassnam postevaluationadlargeclassnam adsizeclassnam postevaluationadlargeclassnam
+classnam addorremoveclassnameclassnam postevaluationnoadclassnam adsizeclassnam postevaluationnoadclassnam
+adhtmlcontainerclassnam classnam
+function classnam add
+var classindex
+add
+classindex 1
+return classnamelist classnam
+els classindex 0
+return
+return classnamelist
+windowdap
+300 600
+popular slideshow
+paul extraordinari life pictur
+work longest retir age around world
+store get rid cashier checkout lane
+warren advic stock market crash
+expens citi everi state
+home
+news
+weather
+entertain
+sport
+money
+lifestyl
+health fit
+food drink
+travel
+auto
+video
+kid
+microsoft
+privaci cooki
+term use
+ad
+feedback
+help
+msn worldwid
+data provid
+money android
+requireheaddata pageinst mediat cdefer function headdata pageinst mediat
+var url wwbizographicscomcollectfmtgifpid7850
+headdata headdataclientset headdataclientsettingsstatic_pag
+mediatorpubpageinstanceeventnam
+var rid pageinstancegetactivityid
+url urlreplaceridi 1 rid
+new imagesrc urlreplaceg
