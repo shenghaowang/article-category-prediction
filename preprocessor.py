@@ -1,11 +1,8 @@
 import os
 import re
 import nltk
-import requests
 import logging
-import sys
 import time
-import pandas as pd
 from nltk.corpus import stopwords
 from logging.config import fileConfig
 
