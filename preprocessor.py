@@ -1,4 +1,3 @@
-from bs4 import BeautifulSoup
 from nltk.corpus import stopwords
 import os
 import re
@@ -13,19 +12,12 @@ import pandas as pd
 #import ssl
 
 #ssl._create_default_https_context = ssl._create_unverified_context
-file_handler = logging.FileHandler(filename='main.log')
-stdout_handler = logging.StreamHandler(sys.stdout)
-handlers = [file_handler, stdout_handler]
-logging.basicConfig(
-    level=logging.INFO,
-	format='[%(asctime)s] {%(filename)s:%(lineno)d} %(levelname)s - %(message)s',
-    handlers=handlers
-)
+logging.config.fileConfig(fname="logging.conf", disable_existing_loggers=False)
 logger = logging.getLogger(__name__)
 
 
-def preprocess(str, porter):
-    """Remove  
+def pre_process(str, porter):
+    """Remove
     """
     def rm_html_tags(str):
         html_prog = re.compile(r'<[^>]+>',re.S)
@@ -74,40 +66,73 @@ def preprocess(str, porter):
     return str
 
 
-def export_article(article_id, webpage_content, output_dir):
-    porter = nltk.PorterStemmer()
-    soup = BeautifulSoup(webpage_content, 'html.parser')
-    paragraphs = soup.find_all('p')
-
-    if paragraphs:
-        f = open(os.path.join(output_dir, str(article_id) + '.txt'))
-        for paragraph in paragraphs:
-            f.write('%s\n' %preprocess(paragraph, porter))
-        f.close()
-
-
 def main():
-    #article = NewsPlease.from_url(url)
-    #print(article.text)
-
-    # Initiate a directory to store the processed articles
-    articles_dir = './articles'
+    """
+    """
+    articles_dir = './raw'
+    output_dir = './output'
     if not os.path.exists(articles_dir):
-        os.makedirs(articles_dir)
+        os.makedirs(output_dir)
+    porter = nltk.PorterStemmer()
+    stops = set(stopwords.words('english'))
 
-    # Import information of articles as dataframe
-    logger.info("Start crawling and processing articles...")
-    articles_df = pd.read_csv("input/train.csv", index_col=-0)
-    for article_id, article_info in articles_df.iterrows():
-        try:
-            r = requests.get(article_info["url"], timeout=10.0)
-        except Exception as err:
-            logger.exception(err)
-            continue
+    logger.info("Start loading and processing sampels...")
+    words_stat = {}
+    processed_articles = {}
+    for raw_article in os.listdir(articles_dir):
+        logger.info("Processing article %s", article_id)
+        article_id = raw_article.split('.')[0]
+        paragraphs = []
+        with open(os.path.join(articles_dir, raw_article), 'r') as f:
+            for i, line in enumerate(f):
+                processed_words = []
+                paragraph = line.replace("\n", " ")
+                words = pre_process(paragraph, porter)
+                for word in words:
+                    if word not in stops:
+                        processed_words.append(word)
+                        # Record statistics of the df and tf for each word
+                        # Format: {word: [tf, df, article index]
+                        if word in words_stat.keys():
+                            words_stat[word][0] += 1
+                            if i != words_stat[word][2]:
+                                words_stat[word][1] += 1
+                                words_stat[word][2] = i
+                        else:
+                            words_stat[word] = [1, 1, i]
+                paragraphs.append(' '.join(processed_words))
+        f.close()
+        processed_articles[article_id] = paragraphs
 
-        if r.status_code == 200:
-            export_article(article_id, r.text, articles_dir)
+    # Save the statistics of td and df for each words into file
+    logger.info("The number of unique words in the articles is %s.", len(words_stat.keys()))
+    lowTF_words = set()
+    stats_dir = "./stats"
+    if not os.path.exists(stats_dir):
+        os.makedirs(stats_dir)
 
+    with open(os.path.join(stats_dir, "article_words_statistics.txt"), 'w') as f_stat:
+        f_stat.write("TF\tDF\tWORD\n")
+        for word, stat in sorted(words_stat.items(), key=lambda i: i[1], reverse=True):
+            f_stat.write('\t'.join([str(m) for m in stat[0:2]]) + '\t' + word +  '\n')
+            if stat[0] < 2:
+                lowTF_words.add(word)
+    f_stat.close()
+    logger.info("The number of low frequency words is %s.", len(lowTF_words))
+
+    # Filter the low frequecy words in the articles
+    for article_id in processed_articles.keys():
+        f_out = open(os.path.join(output, str(article_id) + ".txt"), 'w')
+        for paragraph in processed_articles[article_id]:
+            words = paragraph.split(' ')
+            filtered_words = []
+            for word in words:
+                if word not in lowTF_words:
+                    filtered_words.append(word)
+            processed_paragraph = ' '.join(filtered_words)
+            f_out.write('%s\n' %processed_paragraph)
+        f_out.close()
+        logger.info("Article %s has been preprocessed.", article_id)
 
 
 if __name__ == "__main__":
