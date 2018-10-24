@@ -1,0 +1,15 @@
+Shares of Symantec Corporation (NASDAQ:SYMC) stock lost 25.2% of their value in May, according to data provided S&P Global Market Intelligence .
+
+The stock plunged following disappointing guidance for the current fiscal year that was paired with an announcement that the company was conducting an internal audit.
+
+Symantec's fourth-quarter sales and earnings results came in well above the average analyst estimate but arrived with bombshell news about something the company had begun conducting. The following quote from a post-earnings press release summarizes the situation:
+
+The Audit Committee of the Board of Directors has commenced an internal investigation in connection with concerns raised by a former employee regarding the Company's public disclosures including commentary on historical financial results, its reporting of certain Non-GAAP measures including those that could impact executive compensation programs, certain forward-looking statements, stock trading plans and retaliation. The Audit Committee has retained independent counsel and other advisors to assist it in its investigation. The Company has voluntarily contacted the Securities and Exchange Commission to advise it that an internal investigation is under way, and the Audit Committee intends to provide additional information to the SEC as the investigation proceeds.
+
+The press release notes that the review is still in its early stages and that Symantec cannot give a timeline for its completion, specific insight into the subject of the investigation, or guidance on what to expect from the outcome. The company later clarified that the probe isn't related to a data breach or issues with its products. That still leaves a large cloud of uncertainty over the company and its stock, and shares fell roughly 33% in the next trading day. News of the audit and potential delay for the filing of its 10-K report was also followed by a series of ratings downgrades from analysts covering the stock.
+
+In addition to the uncertainty surrounding the audit, the company's revenue and earnings projections for fiscal year 2019 could also be cause for trepidation. Symantec, most known for its Norton AntiVirus and LifeLock security-software products, expects sales for the current fiscal year to come in somewhere between 1.1% lower and 1.7% higher than 2018's results and for earnings for the year to fall between 2% and 11%.
+
+The company attributes some of the expected earnings drop off to the need to develop and market new products that have been incorporated into its ecosystem. Symantec has been on an acquisitions spree in recent years in order to solidify its position in the security space, and the company's most recent earnings call makes clear that management is still looking for new businesses to integrate.
+
+Both enterprise and consumer cyber-security markets look poised for growth, and Symantec stock might appear cheap trading at roughly 14 times this year's expected earnings, but limited visibility into the audit situation suggests that investors without high risk tolerance should look elsewhere.

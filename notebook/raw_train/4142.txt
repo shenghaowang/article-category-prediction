@@ -1,0 +1,137 @@
+Nation-States as We Know Them Will Cease to Exist not Because of a Who, but a What ¡ª And it¡¯s Already Here
+
+Update: Based on the reception to this article, I expanded on some of the ideas explored here and comments I received in response to them in a video embedded at the bottom. Take a look and share your opinion.
+
+I bought a couple bitcoins in 2013. I bought them through a Bitcoin exchange and I can¡¯t find a record of the transaction now. I¡¯ve searched old emails and note files and can¡¯t recall the name of the exchange. I am concerned it was the now-defunct Mt. Gox, which ¡°lost¡± 750,000 customer bitcoins in a fraud-hacking-bankruptcy trifecta. So, I don¡¯t know how to locate those bitcoins or whether it¡¯s worth even ultimately discovering where I bought and kept them.
+
+
+
+Back then, I paid something like a hundred dollars per bitcoin. With the price of a bitcoin at close to $2,400 as I¡¯m writing this, that¡¯s real money. Real money I can¡¯t find. And, it¡¯s not like they will just turn up one day. I won¡¯t be moving the dryer and stumble across them. For all the talk about the permanency and immutability of bitcoins, you rarely hear talk about how things that only exist virtually have their own way of disappearing. But, they do.
+
+Bitcoin is a type of currency, specifically a cryptocurrency (there are many others, one or more of which may ultimately turn out to be far more broadly adopted than Bitcoin ¡ª this is the early innings), which means it is a digital medium of exchange. Like the U.S. dollar, Bitcoin is both a store of wealth and a means for facilitating trading of services and products. You can use bitcoins to purchase products directly from a store in India. Press a button and BOOM, you can pay for a product or service by transferring bitcoins from your own wallet (of the electronic, not physical, variety) to the recipient¡¯s account. There is no middleman ¡ª no intermediary to trust ¡ª just a relatively brief wait for the transfer to be completed and historically low transaction fees.
+
+
+
+What makes Bitcoin so interesting, though, is that it¡¯s not backed by a central bank or government. Bitcoins just exist out in the world and people assign them value, a significantly increasing amount of value (BTW, just to keep things confusing, it¡¯s Bitcoin with a capital ¡®B¡¯ when you refer to the overarching protocol that is Bitcoin, and bitcoin with a lowercase ¡®b¡¯ when you refer to the actual currency).
+
+Bitcoin was created by an individual or group of individuals under the pseudonym, Satoshi Nakamoto. It is built on an innovative and disruptive technology called Blockchain. A blockchain is essentially a public, cryptographically-protected, distributed ledger spread across a network of thousands of computers. This ¡°database¡± contains records of every transaction that ever takes place on it and it is constantly reconciling itself. In this way, it is virtually impossible to corrupt transactions that take place because, if anyone tried to change the record of a transaction, the entire system would be out of balance and immediately identify the inconsistency.
+
+
+
+Among the bevy of positive adjectives thrown around about Blockchain technology are:
+
+Bitcoin is a protocol built on Blockchain technology, and the currency we refer to as bitcoin is the first application of that protocol.
+
+What Makes the U.S. Dollar Valuable?
+
+You may wonder why bitcoins have value if there is no one and nothing backing them. That is an excellent question and one you might first direct you toward the U.S. dollars you¡¯re holding. 
+
+
+
+The value of the U.S. dollar used to be tied to gold. From 1867 to 1933, Americans could trade $20.67 for an ounce of gold, which directly linked the value of the dollar to a tangible asset. President Franklin Roosevelt took the U.S. off the gold standard, eventually spearheading the Gold Reserve Act of 1934, which allowed the government to pay its debts in dollars, not gold. 
+
+
+
+Throughout the 40s, 50s and 60s, the U.S. remained on a modified gold standard following the Bretton Woods Agreement, which again pegged the dollar to gold, only this time at $35 per ounce. At the same time, other participating countries decoupled their currencies from gold and pegged them to the U.S. dollar.
+
+
+
+On August 15, 1971, Richard Nixon broke the standing promise that $35 dollars was worth an ounce of gold and fully and finally severed the tie between U.S. dollars and gold. In doing so, he pressed the pedal on active monetary policy, which is a fancy-sounding way of saying he gave the Federal Reserve carte blanche to print dollars. 
+
+
+
+Today, U.S. dollars have value only because they are theoretically backed by the full faith and credit of the U.S. government. I say ¡°theoretically¡± because there is reason to question how solid the ¡°full faith and credit¡± of our government is, whether its backing has much meaning at all.
+
+
+
+The U.S. is balance sheet insolvent. We have $3.5 trillion on the asset side of the ledger vs. approximately $23 trillion in liabilities. Apply old math, new math or no math ¡ª the situation is clear and it¡¯s not good. According to a 49-page report issued by the U.S. government accountability office to Congress earlier this year, we face ¡°an unsustainable long-term fiscal path caused by a structural imbalance between revenue and spending.¡±
+
+
+
+To date, our approach to solving our fiscal imbalances has been to print more dollars. And, it has worked so far. And, it will continue to work right up until it doesn¡¯t. Until then, U.S. dollars will have value because people think and act like they have value.
+
+Like U.S. dollars, bitcoins have value because people think they have value. Unlike the U.S. dollar, however, the supply of bitcoins is fixed. Or, more properly stated, the total number of bitcoins that will ever exist is fixed. There will never be more than 21 million bitcoins in circulation (currently, there are roughly 16.5 million). The last bitcoin is expected to enter circulation around 2140. 
+
+
+
+Bitcoins aren¡¯t minted by a bank or central reserve, they¡¯re mined. The mining of a bitcoin is dictated by a preset, verifiable and immutable algorithm. This means that Bitcoin and other cryptocurrencies like it are not subject to the whims or control of a single, central entity. Because there is no governing body, Bitcoin eliminates the ever-present temptation to run the printing press non-stop, creating currency to ¡°kick the can¡± on problems. That¡¯s a game changer relative to existing fiat currencies, all of which are subject to the same risk of reckless printing and inflation.
+
+
+
+Gold, as a tangible asset, can¡¯t be freely printed, which makes it a great store of wealth. However, gold isn¡¯t easily tradable. You can¡¯t transfer gold to a store in India with one click of your mouse. But, you can do that with bitcoins.
+
+
+
+Despite its recent volatility, the worldwide recognition of Bitcoin as a legitimate store of wealth, its easily tradable nature and the fact that its fixed supply checks off multiple serious risks of fiat currencies, are all traits that have combined to make Bitcoin the world¡¯s first global currency.
+
+The Long-Term Impact of Bitcoin on Society
+
+Occupying the title of the world¡¯s first global currency is impressive. But, is the legacy of Bitcoin going to be solely its role in eliminating intermediaries and lowering currency conversion transaction costs? I think there is more here. A lot more. I believe the existence of a global currency adds one more piece of the pie to a radical shift in the structure of worldwide governance.
+
+
+
+The story of humankind is a search for progressively greater personal freedom. The United States is an amazingly successful experiment in freedom and democracy. That said, we aren¡¯t THAT free. We are reasonably free. We aren¡¯t THAT democratic. In fact, in many ways, we look more like a republic. The reason the electoral college elects the President every four years is because the founding fathers didn¡¯t truly trust the people. And by ¡°the people,¡± I mean the land-owning white men of the time. The founding fathers wanted a mechanism to override a ¡°wrong¡± decision by the landed gentry. Women and African Americans weren¡¯t even granted the right to make a ¡°wrong¡± decision.
+
+
+
+Obviously, we started even less free and democratic than where we are today. Look back at the course of the last couple hundred years and tally the freedoms won by the American people along the way:
+
+When I strain my eyes to look forward 100 years, I know we will have more and greater freedoms than we have today. What form will these new freedoms take? All the ones I mentioned above are freedoms we won within our border.
+
+I am convinced that within 100 years we will see the nation-state unseeded as the dominant form of political organization. And, I believe Bitcoin is another step toward that end. Earlier steps include the printing press, which unleashed free speech (and, ironically, played a big role in driving the growth of nation-states in the first place); the airplane, which made us globally mobile; and the Internet, which facilitates the free flow of information and knowledge and gives everyone a platform to be heard and a means to produce income without geographic restriction.
+
+The History and Core Functions of Nation-States
+
+A nation-state is a sovereign state with a strong government, political boundaries and citizens united by common language, culture or some other shared form of attachment. Nation-states are currently the most powerful participants in world affairs.
+
+ 
+
+The nation-state is a modern political phenomenon that arose from the ashes of feudalism during the middle ages. During feudalism, kings didn¡¯t have a tremendous amount of power. Most power was dispersed to the feudal lords, the noble class. The local people were loyal to the local nobles in return for protection. Over time, kings consolidated their power, eventually gutting the power of the noble class and aligning themselves with the emerging commercial class.
+
+ 
+
+With a much larger territory and a different model of distributed power, the old standby exchange where people were loyal solely to secure local protection, became a less obvious and less compelling deal. So, the rulers encouraged the people to be loyal to the newly-created nation for other reasons. Hence, the rise of nationalism ¡ª loyalty and devotion to one¡¯s nation above others.
+
+ 
+
+In a world going virtual, one Thomas Friedman famously labeled as ¡°flat,¡± it strikes me as odd that borders define so much of our experience. A national border is an imaginary line with real consequences, an arbitrary line defining ingroups and outgroups. One of the main reasons Donald Trump was elected was based on his promise to keep jobs in the U.S. ¡ª to keep them from people on the other side of our border.
+
+
+
+On balance, I believe nationalism has done much more harm than good in the world. It accentuates differences, rather than stressing common ground. And, I believe borders will become increasingly less relevant going forward. The reason for that is twofold. First, while it may be challenging to envision the future, you can count on it providing much greater personal freedom than we have today. Second, the unique benefits of national borders are rapidly diminishing, while their costs increase.
+
+Looking at those reasons in reverse order, as they relate to the United States, tribe matters less and less in a world quickly moving virtual. Going forward, the connections people forge online are likely to be at least as strong as those forged in person. Hit Me Up!, Hello Pal, Wakie and Airtripp are among the slew of apps whose value proposition is connecting strangers, especially ones living in different countries.
+
+
+
+The U.S. long ago ceased to be a nation of small communities. 75% of the U.S. population lives in urban areas. That percentage has consistently climbed since 1820. With 8.5 million inhabitants, New York City has a population roughly 56,667 times Dunbar¡¯s number. Increasingly, we live in dense anonymity.
+
+
+
+As a country, we are so widely dispersed and politically and culturally divided that the idea of the U.S. as one tribe is laughable. Sure, we collectively cheer for the U.S. women¡¯s soccer team every four years, although the ties that bind us grow looser every day. It is the same story worldwide.
+
+
+
+As for land, it is already becoming less of a national thing. For one, people are leaving the U.S. They¡¯re emigrating and choosing to live in other countries. During the last decade, the percentage of U.S. born people living abroad has increased significantly. Meanwhile, U.S. citizenship renunciations have skyrocketed. In 2008, 227 citizens renounced their citizenship. In 2016, 5,409 citizens did so (with 2,364 abandoning ship in the last quarter, maybe Trump will kill America!). While these are relatively small numbers, the trend is strong and clear.
+
+ 
+
+Meanwhile, more and more of our land is occupied and owned by foreigners. The percentage of the U.S. population that is foreign-born has been on the rise ¡ª doubling from 1980 to 2010. The current administration is trying to decrease that percentage, although they¡¯re unlikely to have significant long-term impact. And, they won¡¯t make any effort to stem the purchase of U.S. real estate by foreigners. The U.S. is motivated to allow foreign purchases of U.S. assets since it represents the transfer of wealth into our borders. That trend has been going strong for decades.
+
+
+
+Granted, there is more to the land component than physically making land available within our borders. Indeed, the U.S. offers the rule of law to enforce ownership interests, as well as a systematized method of titling and recording interests in real property. For this role, as well, we no longer need Uncle Sam. The Republic of Georgia recently became the first government to register land titles via a blockchain, a task ideally suited for that technology. For more on this milestone, check out this Forbes article.
+
+That brings us to the third core function of a nation-state ¡ª money. As the world¡¯s first global, digital currency, Bitcoin heralds a new era of global trade. A future where the central banks and nation-state governments aren¡¯t needed, which is fitting since they have long abused their role as stewards of our paper fiat currencies.
+
+
+
+Granted, Bitcoin is a small player today. But, it is up and coming. Japan just recently passed a law to recognize Bitcoin as a legal method of payment, and Russia is expected to soon do the same. Bitcoin¡¯s market capitalization (the total worth of bitcoins in circulation, in U.S. dollars) quadrupled in the past year to $42 billion, evidencing increasing consumer and investor interest in the cryptocurrency.
+
+What¡¯s Next for the U.S.?
+
+At his inauguration in January 1961, President Kennedy famously advised, ¡°Ask not what your country can do for you ¡ª ask what you can do for your country.¡± In 2017, the more relevant rallying cry would be ¡°Ask not what your country can do for you ¡ª ask what your country can do for you that you can¡¯t do for yourself.¡±
+
+
+
+With Bitcoin and other cryptocurrencies in the mix, the answer is down to just one thing ¡ª defense. One day soon national defense will also be an anachronism ¡ª something we assumed we needed from big brother, and yet another thing we managed to shift into other capable, less authoritarian hands. Admittedly, I don¡¯t know how that transition will occur, although I know it will occur ¡ª the freedom march is relentless.

@@ -1,0 +1,23 @@
+The FBI has joined state and regulatory probes of high-frequency traders to see if the firms are guilty of insider trading.
+
+Agents, who started the probe about a year ago, are looking to see if the HFTs used information to trade ahead of large institutional orders, an FBI spokesman told a number of media outlets on Monday when news of the investigation first surfaced.
+
+In one possible scenario, agents would look to see if a high-speed trading firm profited by jumping ahead of a huge buy order, and then quickly exited after the giant order pushed the stock higher.
+
+News of the probe surfaced Monday when Wall Street was already abuzz with the accusation by a best-selling author that HFTs had rigged the markets ¡ª picking the pockets of Main Street investors in the process.
+
+The author, Michael Lewis, appeared on ¡°60 Minutes¡± on CBS Sunday night to promote his new book, ¡°Flash Boys: A Wall Street Revolt,¡± in which he claims HFTs, with their high-speed computer algorithms, are sneakily siphoning away profits from retirement funds, everyday investors and day traders alike.
+
+The FBI joins New York Attorney General Eric Schneiderman, the Securities and Exchange Commission and the Commodity Futures Trading Commission in looking into HFTs.
+
+¡°What¡¯s improper is ¡­ using any special advantage or edge with your speed to have an unfair advantage over anyone else,¡± Schneiderman told ¡°CBS This Morning.¡±
+
+Schneiderman has likewise singled out stock exchanges that have allowed high-frequency traders to ¡°co-locate¡± their computer servers at the exchanges¡¯ own data centers, giving them a potential speed advantage over competing traders.
+
+Indeed, the trading desks of JPMorgan, Bank of America, Citigroup and Goldman Sachs all posted gains every day of the first quarter of 2010, amounting to a combined ¡°244 winning trading days against zero losses,¡± Yahoo! Finance¡¯s Jeff Macke posted on a blog Monday.
+
+None of the banks has been charged with breaking any HFT-related rules.
+
+To protect against skimming by high-frequency traders, Macke suggests that investors buy stocks with so-called ¡°limit orders,¡± which put a ceiling on the price a buyer will pay for a given security.
+
+¡°Stocks fluctuate throughout the day, but if you enter a limit at or near the market price, you¡¯ll mostly likely get your order filled,¡± Macke says.

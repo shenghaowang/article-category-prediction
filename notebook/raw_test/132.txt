@@ -1,0 +1,17 @@
+This is the latest decision in Japan to show support for digital currency. In April, it passed a law recognizing bitcoin as legal tender, with several retailers backing the law; this week it was reported that Japanese banks are considering setting up their own digital currency called the J-Coin.
+
+Japan's stance is in stark contrast to China, where regulators have cracked down on the market. At the beginning of September, regulators banned initial coin offerings (ICOs), where companies raise funds by selling a new digital currency. Several bitcoin exchanges then announced they would end trading by the end of the month.
+
+The news from China initially caused bitcoin prices to fall sharply, from a record high above $5,000 per bitcoin at the beginning of September to a low of $2,951 by mid-September. The price has since recovered to around $4,208.63, according to CoinDesk data.
+
+Part of the reason for the sharp fall is China used to be the main driver of the bitcoin market. Between 2014 and January 2017, the Chinese market made up around 90 percent of global bitcoin trading volume.
+
+But now trading volume is more distributed around the globe than ever before, with trading in U.S. dollars and Japanese yen outsizing volume in Chinese yuan, according to data from CoinDesk.
+
+Not only that, but the market is now moving on from China. Chinese investors are now trading bitcoin directly to one another on peer-to-peer platforms and apps rather than the exchanges, Reuters reported Friday.
+
+In fact, bitcoin priced in China's currency is now trading at a discount to bitcoin in other currencies, which has created an arbitrage opportunity for some investors. For instance, bitcoin's price in Chinese yuan is 26,499 ($3,989.13), compared to bitcoin's U.S. dollar price of $4,208.63.
+
+"Japan and the U.S. have proven China is unnecessary for bitcoin to thrive," Charles Hayter, chief executive and founder of digital currency comparison website Crypto Compare, told CNBC in an email on Friday.
+
+"As various nation states pin their colours to the mast, a whole panoply of differing attitudes will be seen. This industry is mobile and it will come to roost in the most favourable jurisdictions."

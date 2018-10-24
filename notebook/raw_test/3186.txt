@@ -1,0 +1,13 @@
+A bank stress test is an analysis conducted under hypothetical unfavorable economic scenarios, such as a deep recession or financial crisis, designed to determine whether a bank has enough capital to withstand the impact of adverse economic developments. In the United States, banks with $50 billion or more in assets are required to do internal stress tests by their own risk management team as well as by the Federal Reserve.
+
+Stress tests focus on a few key risks, such as credit risk, market risk and liquidity risk, to banks' financial health in crisis situations. Hypothetical crises are determined using various factors from the Federal Reserve and International Monetary Fund (IMF). Bank stress tests were put in place and became more widespread after the 2007-2009 global financial crisis, the worst since the Great Depression. This crisis left many banks and financial institutions severely undercapitalized, which the stress tests aim to prevent.
+
+The Federal Reserve conducts annual supervisory stress tests of banks with $50 billion or more in assets. The main goal of this stress test is to see whether a bank has the capital to manage itself during tough times. Company-run stress tests are conducted on a semiannual basis and fall under strict reporting deadlines.
+
+The European Central Bank (ECB) also has strict stress testing requirements that cover approximately 70 percent of the banking institutions across the eurozone.
+
+All stress tests include a common set of scenarios, some worse than others, for banks to evaluate. An example is the hypothetical situation of all of the following happening at the same time: a 10 percent unemployment rate, a general 15 percent drop in stocks, and a 30 percent plunge in home prices. Banks then use the next nine quarters of projected financials to determine if they have enough capital to make it through the crisis.
+
+Banks that go through stress tests are required to publish their results. These results are then released to the public to show how the bank would handle a major crisis. New regulations require companies that do not pass stress tests to cut their dividend payouts and share buybacks to preserve capital.
+
+Sometimes banks are given a conditional pass of a stress test. This means a bank came close to failing the stress test and risks being able to make further distributions in the future. Banks that pass on a conditional basis have to resubmit a plan of action. Banks that fail stress tests look bad to the public based on the threat of a financial disaster. Foreign banks such as Santander and Deutsche Bank have failed stress tests multiple times.

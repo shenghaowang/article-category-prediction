@@ -1,0 +1,19 @@
+Following the closure of Mt. Gox and the theft of Bitcoins worth millions, anonymous hackers claim to have published evidence that customer Bitcoin is not missing -- but instead is held at the heart of attempted fraud.
+
+Last month, the abrupt closure and week-long silence of Mt. Gox and its team frustrated, confused and angered investors. Once the dominant trading post for the cryptocurrency, Mt. Gox closed its doors after saying that cybercriminals managed to steal approximately 850,000 BTC, worth over $500 million, in cyberattacks taking place over several years.
+
+Company CEO Mark Karpeles said Bitcoins were lost "due to weaknesses in the system," and while Mt. Gox has now filed for bankruptcy in Japan, thousands of users have been left out of pocket -- as well as in the dark over their investments' future.
+
+Now embroiled in bankruptcy proceedings, Karpeles and Mt. Gox staff have gone quiet, but this hasn't stopped other parties from trying to get to the bottom of the issue. Over the weekend, anonymous hackers claimed to have broken in to the trading post and accessed to Mt. Gox data. After taking over Karpeles' blog and Reddit account over the weekend, on Pastebin, the group who broke in to the system said:
+
+"It¡¯s time that Mt. Gox got the Bitcoin communities' wrath instead of Bitcoin Community getting Goxed. This release would have been sooner, but in spirit of responsible disclosure and making sure all of ducks were in a row, it took a few days longer than would have liked to verify the data [...] Included in this download you will find relevant database dumps, csv exports, specialized tools, and some highlighted summaries compiled from data. Keeping in line with fucking Gox alone, no user database dumps have been included."
+
+According to Forbes, the 716 megabyte file dump appears to include personal data including Karpeles¡¯ home address and resume, an Excel spreadsheet of over a million trades, Mt. Gox's Bitcoin balance and screenshots of the hackers' access to such information through database cracking.
+
+Within the Pastebin summary, the hackers claim that the trading posts' current balance is 951,116 BTC, which if true, means that customer Bitcoin has not been lost -- and therefore fraud has been committed.
+
+It is worth noting that this leak could show nothing more than poor accountancy practices -- one aspect of the company which has been reported as a crucial factor which led to the original cyberattacks going unnoticed for so long -- and the database may only show Bitcoins that were believed to be safe but were already gone. However, since Mt. Gox has filed for bankruptcy protection, the public ledger of Bitcoin transactions -- the Bitcoin blockchain -- has not registered the movement of "stolen" coins.
+
+In related news, whether or not Mt. Gox personnel have sought to capitalize on their customers, cybercriminals have jumped upon the demise of the Bitcoin trading post in their own way to profit.
+
+According to a press release (.PDF) issued by Mt. Gox, phishing campaigns have been making the rounds. Within the spam emails, hackers have used Mt. Gox's identity and asked for the name, address, username, password and bank account numbers of those who have lost Bitcoin.

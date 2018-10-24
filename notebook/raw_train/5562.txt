@@ -1,0 +1,23 @@
+TechCrunch has learned that Airbnb, the fast-growing site that lets people become hoteliers by renting out sofas, rooms or entire private homes, has now closed its latest round of funding: $500 million, led by private equity firm TPG, at a $10 billion valuation, according to our sources. This brings the total raised by Airbnb to $826 million.
+
+Negotiations around the funding were previously reported by the Wall Street Journal, which reported that TPG and Dragoneer Investment Group were leading the round, and that mutual funds including T. Rowe Price were also involved. Update: WSJ is reporting that it¡¯s a $450 million round, same valuation, with Dragoneer, Sequoia and T. Rowe Price also named as investors.
+
+We understand from sources that Allen & Co. ¡ª known for its recent work advising Facebook on its $19 billion purchase of WhatsApp, working on Twitter¡¯s IPO, and helping Dropbox with its latest, $350 million round ¡ª has been helping to orchestrate this round for Airbnb.
+
+The deal is an interesting one for TPG . Its TPG Growth division is a key investor in Uber, another startup innovating at ¡°the edge of the forest¡± (Yammer¡¯s David Sacks¡¯ description of the group of companies applying tech to disrupt non-technical fields). Through TPG Capital, it has extensive holdings in the property and travel markets already, specifically through its ownership of RentPath; and part-ownership of Sabre/Travelocity.
+
+It¡¯s not clear how and if any of TPG¡¯s holdings will come into play in relation to Airbnb, but it¡¯s tempting to think of how they could.
+
+Airbnb¡¯s previous, $326 million of backing came from a fairly large pool of investors: Y-Combinator (where it was incubated in 2009), Sequoia Capital, Youniversity Ventures, Greylock Partners, SV Angel, Keith Rabois, Elad Gil, Jeremy Stoppelman, Andreessen Horowitz, General Catalyst Partners, Jeff Bezos, Digital Sky Technologies, CrunchFund (run by Michael Arrington, who founded TechCrunch), Ashton Kutcher, Eniac Ventures and Founders Fund.
+
+We understand that some past investors are also part of this latest round.
+
+Since opening for business five years ago, Airbnb has taken the travel accommodation industry by storm. Effectively, it created and now dominates a new market segment ¡ª private homeowners use its cloud-based platform to list and collect payments for their rooms and houses, with mobile apps and social integrations all greasing the wheels of the Airbnb machine.
+
+Airbnb now has over 600,000 listings across nearly 200 countries. The WSJ reported earlier this month that revenues in 2013 were about $250 million, more than double what it made the year before. Like Uber and other companies that have disrupted older and more established industries, that rapid growth has drawn a lot of heat from incumbent competitors ¡ª in Airbnb¡¯s case from the hotel industry ¡ª which have been played out on legal and regulatory fronts in different cities.
+
+Airbnb is not always fast to reveal what it is doing on the fundraising front. A $250 million round led by Peter Thiel¡¯s Founders Fund, which Airbnb raised in 2012, was only disclosed publicly in 2013 (at TC Disrupt in Berlin, as it happened). In other words, it isn¡¯t clear when the company when the company will announce this round, either.
+
+What it will mean is that Airbnb, now at a $10 billion valuation, may be less quick to run for the public markets. That¡¯s perhaps a sign of the times, with many pointing to an impending ¡°closing¡± of the IPO window for tech companies, evidenced by a trend among listing companies pricing their offerings below their expected ranges.
+
+Update: The WSJ and Re/Code are reporting the total raise to be $450 million instead of the $500 million we¡¯ve heard. While we¡¯re not sure of the exact reason for the reporting discrepancy, the last time we broke funding news like this, with an overage in raise amount, was Snapchat. In Snapchat¡¯s case, the missing $20 million in other outlets¡¯ coverage was due to a secondary sale of stock by the founders, which we had included in our total.

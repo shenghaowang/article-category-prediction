@@ -1,0 +1,16 @@
+Digging down into the specific names involved in this shift and the stock composition of the new sector, there are three things to know:
+
+1. Alphabet (GOOG/GOOGL) and Facebook are both moving to Comm Services from Technology. So are three smaller names: Activision (ATVI), Electronic Arts (EA) and Take Two (TTWO).
+
+Facebook's weighting in the new sector is 18.4 percent; GOOG/GOOGL is a combined 25.8 percent. Activision (4.5 percent) and Electronic Arts (4.2 percente) also have notable weightings.
+
+2. From Consumer Discretionary, the important names shifting to Comm Services are Disney and Comcast (both 5 percent weightings in the new sector). Netflix (3.9 percent) is also in the mix here, as are Twitter (2.2 percent) and CBS (1.9 percent).
+
+3. With all due respect to the folks at S&P Dow Jones Indices, the new Communication Services sector is an odd construction. Specifically:
+ Two companies ¡ª Google and Facebook ¡ª are 44.2 percent of the sector by weighting.
+ Four companies (adding Comcast and Disney) represent 52 percent of the sector. This will only grow once Disney completes its purchase of 21st Century Fox (a 3.0 percent weighting) early next year.
+ The top 10 positions (nine companies) are 77 percent of the sector.
+ As concentrated as the current S&P Technology sector may look, the top two names (Apple and Microsoft) are only 26.6 percent of the group. The top 10 positions are just 61 percent.
+ Even the current Consumer Discretionary sector, dominated by Amazon (23.7 percent weight), has less exposure to its top 10 names (62.8 percent) than the new Communication Services group.
+
+The upshot here is that Communication Services may not be as attractive an investment vehicle as the "old" Tech and Consumer Discretionary groups, and that has important implications because of the ETFs/"passive" assets that track these sectors.

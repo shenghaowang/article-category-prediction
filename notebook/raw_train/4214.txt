@@ -1,0 +1,19 @@
+The missing Malaysia Airlines jet sent at least two bursts of technical data back to the airline before it disappeared, New Scientist has learned. The data may help investigators understand what went wrong with the aircraft, no trace of which has yet been found.
+
+To aid maintenance, most airlines use the Aircraft Communications Addressing and Reporting System (ACARS), which automatically collates and files four technical reports during every flight so that engineers can spot problems. These reports are sent via VHF radio or satellite at take-off, during the climb, at some point while cruising, and on landing.
+
+Malaysia Airlines has not revealed if it has learned anything from ACARS data, or if it has any. Its eleventh media statement since the plane disappeared said: ¡°All Malaysia Airlines aircraft are equipped with¡­ ACARS which transmits data automatically. Nevertheless, there were no distress calls and no information was relayed.¡±
+
+This would suggest no concrete data is to hand. But New Scientist understands that the maker of the missing Boeing 777¡¯s Trent 800 engines, Rolls Royce, received two data reports from flight MH370 at its global engine health monitoring centre in Derby, UK, where it keeps real-time tabs on its engines in use. One was broadcast as MH370 took off from Kuala Lumpur International Airport, the other during the 777¡¯s climb out towards Beijing.
+
+As the engine data is filtered from a larger ACARS report covering all the plane¡¯s critical flight systems and avionics, it could mean the airline has some useful clues about the condition of the aircraft prior to its disappearance. The plane does not appear to have been cruising long enough to issue any more ACARS reports. It disappeared from radar at 1.30 AM local time, halfway between Malaysia and Vietnam over the Gulf of Thailand.
+
+Under International Civil Aviation Organisation rules, such reports are normally kept secret until air investigators need them.
+
+Meanwhile, the search for the airliner and the 239 people on board continues, with satellite technology being deployed. China has repurposed 10 satellites, some thought to have high-resolution imaging capabilities, to help the search effort, while other satellites are providing precision weather information to Chinese ships and aircraft involved in the search.
+
+The Comprehensive Nuclear Test Ban Treaty Organisation, which watches out for nuclear weapons tests worldwide, looked at its data for the last few days to see if its infrasound ¨C below the range of human hearing ¨C recordings, normally used to seek out the muffled crump of underground tests, contained any signature of an aircraft explosion. But it found nothing.
+
+And an ambitious attempt to crowdsource the search has also taken off. Satellite imaging firm Digital Globe has divided up high-resolution images of the region of interest so that web users can scan them for signs of the plane.
+
+A similar crowdsourcing effort was organised by Amazon when pioneer aviator Steve Fossett disappeared in 2007.

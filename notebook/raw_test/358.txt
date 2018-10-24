@@ -1,0 +1,3 @@
+This webpage uses the iframe tag and your browser does not support this tag. 
+
+ to view the content in another window.

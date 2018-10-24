@@ -1,0 +1,7 @@
+Source: U.S. Bureau of Labor Statistics
+
+ Note: More data series, including additional geographic areas, are available through the "Databases & Tables" tab at the top of this page.
+
+Maryland includes the following metropolitan areas for which an Economy At A Glance table is available:
+ Employment, Hours, and Earnings from the CES survey (State and Area)
+ Quarterly Census of Employment and Wages

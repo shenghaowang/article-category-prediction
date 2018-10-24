@@ -1,0 +1,65 @@
+Every six months for the past four years, some number of former customers of the defunct Mt. Gox bitcoin exchange have gathered in a small room in a Tokyo courthouse to hear an update from Nobuaki Kobayashi, the stoic Japanese attorney appointed as the trustee for the case.
+
+The number of creditors attending the meeting has dwindled over time: the first one reportedly drew more than 100 people, but the most recent one earlier this month drew fewer than 30, according to the estimates of one attendee.
+
+Mt. Gox has enough assets to pay off its claims with more than $1.4 billion worth of bitcoins left over
+
+That does not mean the Mt. Gox case has gotten any less strange ¡ª just the opposite. By definition, bankruptcy occurs when an entity cannot pay its debts. But as of this writing, Mt. Gox has enough assets to pay off its claims with more than $1.4 billion worth of bitcoins left over. The trouble is figuring out what to do with them.
+
+¡°This is absolutely unprecedented in Japanese law,¡± says Andy Pag, who got a group of creditors together under the name Mt. Gox Legal and hired an attorney to advocate for better terms. ¡°There¡¯s never been a bankruptcy like this in Japan or probably anywhere in the world.¡±
+
+Mt. Gox was started in 2010 by Jed McCaleb, a serial entrepreneur who is now the founder of the cryptocurrency-inspired financial services platform Stellar. The domain name was repurposed from a previous project, Magic: The Gathering Online Exchange, which was a platform for trading the playing cards. At the time, there were few options for buying and selling bitcoin, and the exchange grew fast. It got too big for McCaleb, who sold it to Mark Karpel¨¨s, a French entrepreneur who had moved to Japan in 2009.
+
+Mt. Gox handled an estimated 70 percent of all bitcoin transactions going into 2014, but the site¡¯s rise was never smooth. It suffered hacks, outages, a run-in with the US government, and a $75 million lawsuit. Karpel¨¨s¡¯ inability to manage a bizarre sense of priorities became legendary. (¡°He invested quite a large amount of money in an oven that was specifically built to cook quiche,¡± according to one former employee.)
+
+¡°Until close to the end it was, by far, the most functional and trustworthy Bitcoin exchange that existed.¡±
+
+In early 2014, customers started to complain that they had requested withdrawals from Mt. Gox but never received the money. Then, the site shut off all withdrawals. Its Twitter account disappeared. Behind the scenes, Karpel¨¨s had discovered that an attacker had slowly been draining all of Mt. Gox¡¯s bitcoins without being noticed. The company filed for bankruptcy in February 2014, citing $64 million in liabilities.
+
+Customers were in shock. ¡°When MtGox was operational, I generally had a great experience with the site,¡± one Minneapolis-based creditor said in an email. ¡°Until close to the end it was, by far, the most functional and trustworthy Bitcoin exchange that existed. I had a lot of faith in the site.¡±
+
+At first, Mt. Gox planned to restructure the business in a process called civil rehabilitation, but in April 2014, it changed its plans and asked the court for permission to liquidate, which was granted. Kobayashi was appointed trustee, and he set about tracking down all of Mt. Gox¡¯s assets as well as soliciting claims from customers and other creditors. He took over the Mt. Gox website, which is now used to post updates on the bankruptcy. The first creditors¡¯ meeting was held in July 2014.
+
+There are 24,750 approved claims totaling roughly 45 billion, or $432 million
+
+Kobayashi was flooded with claims from Mt. Gox users, which he reviewed for legitimacy. On May 25th, 2016, he announced the completion of the review process. There are 24,750 approved claims totaling roughly 45 billion ($432 million), almost all of them from former Mt. Gox customers. The trustee priced the bitcoins at their 2014 value of $483, a choice that upset many creditors since the price of a bitcoin is now roughly 18 times that. Some acknowledge that this price lock-in could prove beneficial if the price of bitcoin crashes before the bankruptcy is concluded, but it¡¯s still hard to watch the price of a bitcoin skyrocket to $20,000 when you know yours is stuck at $483.
+
+For these former customers, the bankruptcy proceedings have been agonizingly slow. Some creditors sold their claims at a discount, preferring to cash out rather than wait for the saga to play out.
+
+¡°There has been so little progress and so little information from the bankruptcy proceedings that it has seemed that we would be left in limbo, forever waiting to see if we will get any repayment for our lost coins,¡± says the Minneapolis creditor. ¡°Every six months I get my hopes up that the Trustee will announce at the next creditors¡¯ meeting some resolution to the case, and every six months I¡¯m disappointed by the scant information given at the meeting and the lack of progress.¡±
+
+It¡¯s not quite true that Mt. Gox¡¯s upside-down bankruptcy is unprecedented.
+
+Melissa B. Jacoby, a bankruptcy law scholar and professor at the University of North Carolina at Chapel Hill, pointed to a handful of cases where assets equaled or exceeded claims. In the 1990s, the New Valley Corporation of New Jersey went into bankruptcy and auctioned off Western Union. There was a bidding war, and Western Union eventually went for $1.153 billion, enough to pay creditors back in full. In 2011, Nortel Networks, a Canadian telecommunications and networking provider whose fortunes declined after the dot-com bubble burst, auctioned off a patent portfolio that was estimated to be worth $900 million but ended up selling for $4.5 billion. In January 2018, the court finally approved a plan to pay creditors back.
+
+¡°It is indeed rare for bankruptcy companies to be solvent, but the bankruptcy process is intended to maintain and enhance value relative to what might have happened outside of bankruptcy,¡± Jacoby said in an email.
+
+The Mt. Gox case is expected to stretch on for years. While they wait for news, creditors talk on private forums like the one run by Mt. Gox Legal and the subreddit r/mtgoxinsolvency. There are two major complaints. The first is that Japanese bankruptcy law says that any surplus will be redistributed to Mt. Gox¡¯s other shareholders including Karpel¨¨s, who owns 88 percent of the company. The second is the question of whether creditors will be repaid in bitcoin or fiat currency, which the trustee is still considering.
+
+Creditors grew angry when they found out Kobayashi had sold, with the approval of the court, roughly 35,841 BTC for 38 billion, or about $360 million
+
+Much of the chatter revolves around the motives of the trustee. Earlier this month, creditors grew angry when they found out Kobayashi had sold, with the approval of the court, roughly 35,841 BTC for 38 billion, or about $360 million, between December and February, accusing him of driving down the price through the sell-off. (As the trustee, Kobayashi is tasked with managing Mt. Gox¡¯s assets during the bankruptcy in order to maximize and protect value for creditors. He decided it would be prudent to sell some of the coins and lock in the fiat value while the price was high. Kobayashi sold the coins through a private offering and took care to structure the sale to minimize the impact on the market price, he told creditors. (It is undecided whether the cash will be disbursed to creditors immediately or held until the case is over.) And yet, other creditors appreciate his caution. ¡°Everybody is criticizing him. Everyone is calling him a crook,¡± says Jerry Folta, one of the creditors. ¡°In the meantime, I think he¡¯s just doing his job.¡±
+
+The moment when Mt. Gox¡¯s bankruptcy flipped upside down came in 2017 as the price started to climb past $2,000. At the September creditors¡¯ meeting, Kobayashi explained that assets in excess of the claims would go to the shareholders, including Karpel¨¨s.
+
+That spurred Pag to start Mt. Gox Legal, which has raised about $200,000 from around 900 creditors to hire its own attorney. The group is now trying to move the case out of bankruptcy and back into civil rehabilitation, which would allow the surplus coins to be redistributed to creditors instead of Karpel¨¨s and the shareholders, Pag says.
+
+¡°If we act together we can put the right sort of pressure to bear.¡±
+
+¡°This whole price rise has galvanized creditors that were fairly dormant over the last four years,¡± Pag says. ¡°If we act together we can put the right sort of pressure to bear.¡±
+
+There are at least two other groups of activist creditors. Kolin Burges, who had 311 bitcoins at Mt. Gox when it shut down, hired a lawyer and has been providing updates on the bankruptcy at mtgoxprotest.com and maintains a forum for creditors here. Another group of anonymous creditors provides updates at mtgox-creditors.com.
+
+Karpel¨¨s has written in favor of moving the case to civil rehabilitation. This makes sense since he would likely be besieged by lawsuits if the surplus were given to him. He wrote in an email that ¡°a lot of work remains for the bankruptcy to enter civil rehabilitation and successfully distribute assets, and I intend to help as much as I can.¡±
+
+¡°I only hope for the best resolution, which means as much assets possible distributed as soon as possible, for the benefit of all creditors,¡± he said.
+
+When Mt. Gox collapsed, there was the danger that it could have an outsize effect on the bitcoin economy. A leaked document from Mt. Gox labeled ¡°Crisis Strategy Draft¡± and published by the blogger Ryan Selkis read, ¡°The reality is that MtGox can go bankrupt at any moment, and certainly deserves to as a company. However, with Bitcoin/crypto just recently gaining acceptance in the public eye, the likely damage in public perception to this class of technology could put it back 5~10 years, and cause governments to react swiftly and harshly. At the risk of appearing hyperbolic, this could be the end of Bitcoin, at least for most of the public.¡±
+
+Obviously, that didn¡¯t happen. The Mt. Gox collapse doesn¡¯t seem to have deterred even its victims from buying bitcoin. All the creditors I spoke to told me that they had continued to invest in the cryptocurrency after the site shut down.
+
+¡°I don¡¯t have regrets,¡± one creditor, who asked to be identified only by his last name, Bartels, told me in an email. ¡°When you play with fire (which MtGox was from mid 2013 to collapse) sometimes you get burned.¡± ¡°It¡¯s an adventure,¡± Folta told me. ¡°I¡¯m emotionally disconnected from it.¡±
+
+Mt. Gox wasn¡¯t the first exchange to suffer a massive theft, and it wasn¡¯t the last. In 2016, 120,000 bitcoins worth $72 million at the time were stolen from the Hong Kong exchange Bitfinex. In January, 500 million tokens of a cryptocurrency NEM worth $400 million were stolen from Japan-based Coincheck. Mt. Gox isn¡¯t even the only exchange to file for bankruptcy: in December 2017, South Korea-based Youbit did so after a hacker stole a fifth of its holdings.
+
+¡°I think we still are in the early days of bitcoin,¡± Bartels said. ¡°I am sure there will be stubborn or lazy people and businesses repeating past mistakes, and I am also sure thorough, careful people and businesses will find new mistakes to make.¡±

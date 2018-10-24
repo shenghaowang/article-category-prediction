@@ -1,0 +1,27 @@
+WASHINGTON (AP) ！ Finding a missing Malaysia Airlines plane may hinge on whether searchers can narrow down where they need to look using satellite data that is inexact and has never been used for that purpose before, search and rescue experts say.
+
+Authorities now believe someone on board the Boeing 777 shut down part of the aircraft's messaging system about the same time the plane with 239 people on board disappeared from civilian radar. But an Inmarsat satellite was able to automatically connect with a portion of the messaging system that remained in operation, similar to a phone call that just rings because no one is on the other end to pick it up and provide information. No location information was exchanged, but the satellite continued to identify the plane once an hour for four to five hours after it disappeared from radar screens.
+
+Based on the hourly connections with the plane, described by a U.S. official as a "handshake," the satellite knows at what angle to tilt its antenna to be ready to receive a message from the plane should one be sent. Using that antenna angle, along with radar data, investigators have been able to draw two vast arcs, or "corridors" ！ a northern one from northern Thailand through to the border of the Central Asian countries Kazakhstan and Turkmenistan, and a southern one from Indonesia to the southern Indian Ocean. The plane is believed to be somewhere along those arcs.
+
+Air crash investigators have never used this kind of satellite data before to try to find a missing plane, but after pursing other leads it's the best clue left.
+
+"The people that are doing this are thinking outside the box. They're using something that wasn't designed to be used this way, and it seems to be working," said William Waldock, who teaches accident investigation at the Embry-Riddle Aeronautical University in Arizona. "In terms of search and rescue, they're probably going to have rewrite the book after this."
+
+Authorities generally believe the plane crashed into the ocean, although they can't rule out the possibility that it may be on land somewhere. Twenty-five countries are involved in the search for the plane, using at least 43 ships and 58 aircraft.
+
+"If it really is out there in the Indian Ocean, they're going to need a lot more than that," Waldock said. "It's immense. It takes a lot of effort, a lot of people, a lot of ships and airplanes."
+
+In order to narrow down the location, low-flying planes are searching broad swaths of water for any sign of debris. The search is complicated by the vast amount of trash floating in the world's oceans.
+
+If the airliner did crash into the ocean, some lighter-weight items such as insulation, seat cushions, and life jackets, as well as bodies not strapped to seats, are likely to be floating on the surface, Waldock said. The heavier parts of the plane would sink, with depths in some parts of the Indian Ocean at over 15,000 feet, he said.
+
+When suspected debris of a plane is found, the nearest ship ！ whether it's a search ship or a commercial vessel that happens to be in the area ！ is sent to the site. A small boat or life raft usually has to be lowered into the water for a closer look at the debris to judge whether it might have come from the missing plane.
+
+If searchers find airplane debris, ocean currents will have already moved away from where the plane went into the water. Searchers will then have to use their knowledge of currents in the region to estimate how far and from what direction the debris came, and work backward to that location.
+
+The airliner is equipped with two "black boxes" ！ a flight data recorder that contains hundreds of types of information on how the plane was functioning, and a cockpit voice recorder that contains pilots' conversations and noise in the cockpit. Both are equipped with underwater locator beacons, sometimes called "pingers," that emit a sonic signal that can only be heard underwater. Sonar on ships can sometimes pick up the pings, but they are best heard using a special pinger locator device that is lowered into the water.
+
+The U.S. Navy in the Indian Ocean region has a pinger locator. "It's boxed up, it's ready to be sent somewhere," said a U.S. official. "Right now, there just isn't enough evidence to tell us where to send it."
+
+The official agreed to speak only on condition anonymity because he wasn't authorized to speak publicly.

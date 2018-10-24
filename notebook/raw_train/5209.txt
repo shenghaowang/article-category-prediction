@@ -1,0 +1,11 @@
+GLOBAL investor confidence fell to an 18-month low in August on the back of weaker sentiment in North America and Asia, according to State Street Global Exchange.
+
+State Street's Investor Confidence Index (ICI) fell 7.4 points month-on-month to 94.3 in August, the lowest reading since February 2017, when the index was 91.2. A reading above 100 means that institutional investors are deploying more exposure to risky assets, while a reading below 100 means that they are reducing their exposure to risky asests.
+
+Confidence among North American investors slid to 92.5 from 103.1. In Asia, the index declined 0.9 point to 102.6. European confidence improved, with the index gaining 8.1 points to 99.5 in the region.
+
+"After a few months of caution and measured risk appetite, global institutional investors have started to display risk-averse behaviour as they navigate through elevated trade uncertainty and geopolitical turmoil," said index developer Kenneth Froot. "This sentiment was also seen across global equity markets as defensive sectors outperformed. The decline in confidence was particularly apparent for North American investors, with the North American ICI recording its lowest reading of the year."
+
+State Street head of investor behaviour research Rajeev Bhargava noted volatility in the European index.
+
+"President Trump¡¯s trade policies continue to stir up investor uncertainty, in addition to the renewed worries over Italy's debt burden," he said.

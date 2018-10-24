@@ -1,0 +1,19 @@
+After I spent about 1 month opening a trading account in Norvik bank, on October 25th I finally bought my first options. I chose Herbalife PUT options with the longest term and with the lowest strike price that were available: $35 strike price, expire date: 2019-01-18
+
+At first I tried to buy them for $4.3, but after a report (already deleted) was published on Zerohedge about possible use of Herbalife to launder money, I decided not to wait anymore and paid $4.7 to get two 100 share lots, so my cost was 4.7*2*100=$940
+
+Short explanation for those not familiar with options 每 I paid $940 for the right (but not obligation) to sell 200 Herbalife shares for the price of $35 per share until Jan 18th, 2019. So to get any profit from this trade, I would need to either:
+
+a) sell these options (rights) to someone else for higher price (premium) than I paid for them, or
+
+b) I would need Herbalife stock price to get below $35-4.7=$30.3 每 then I could buy 200 shares of $HLF, and execute my options (sell them for the fixed $35 price), and the difference would be my profit. Note that $HLF was trading at about $60 when I bought these options, so I would need the price to drop by 50+% till Jan 18th, 2019.
+
+I was planning to hold these options for quite a while 每 at least 6-9 months, because I don＊t expect to see a lot of good news after FTC asked them to pay $200 million and fundamentally restructure their business 每 by making sure people get commissions for selling products not recruiting other people.
+
+But after I got info 每 that I can also sign up to Interactive Brokers myself without any bank as intermediary, I decided to close my $HLF position, and also close Norvik bank and trading account.
+
+Got lucky with timing as well 每 yesterday Herbalife announced their past quarter results and that their CEO will depart soon. Reaction? Stock was down -10% during the day, and my options up 27%.
+
+I managed to sell them for $5.79 and get $1158, so profit before commissions: 1158 每 940 = $218 or +23%. But if I include 2*$20 commissions for buy/sell order and $10 monthly fee, then final profit: $168 or +18%.
+
+Not bad for first trade and 8 days, but the risk was quite high as well, because most options expire worthless. Probably will do some more trades but with 10 times lower commissions next time.

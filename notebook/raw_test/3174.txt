@@ -1,0 +1,27 @@
+Players on both sides of the fence on Friday got the chance to air their positions in front of an appellate court over whether to overturn a federal judge¡¯s ruling last summer that the 21-cent debit-interchange cap that took effect in 2011 was too high.
+
+ The Jan. 17 hearing in front of the three-judge panel in Washington, D.C., came as the results of a Federal Reserve appeal to U.S. District Judge Richard Leon¡¯s ruling. That ruling came in a lawsuit brought by the National Retail Federation and other groups, which challenged the Fed¡¯s debit-rate cap. The federation on Friday asked the court to uphold Leon¡¯s decision.
+
+¡°Nearly four years after the law was passed, debit-swipe fees are still far higher than they should be, and banks are raking in billions of dollars in unearned profits every year as a result,¡± Mallory Duncan, federation senior vice president and general counsel, said in a statement. ¡°Instead of doing what Congress ordered, the Fed gave in to pressure from big banks ¨C and retailers and their customers are paying the price. It¡¯s time for the Fed to follow the law instead of catering to the industry it is supposed to regulate.¡±
+
+Under the Durbin Amendment to the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, Congress required the Fed to adopt regulations that would reduce debit card swipe fees from an average 45 cents per transaction to a ¡°reasonable¡± level ¡°proportional¡± to banks¡¯ cost for processing the transactions. Leon ruled that the Fed didn¡¯t ¡®comply with those directions.
+
+The Fed, in a filing that urged the appeals court to defer to its judgment about which costs to consider in setting the cap, said Congress gave it ¡°broad discretion¡± to act ¡°as an arbiter in determining reasonable and proportional fees.¡±
+
+No one in the industry is happy with the state of debit interchange. When the Fed set its 21-cent cap. issuers complained it was too low, about half the 44 cents they earned on average before the cap was set. An earlier Fed staff recommendation could have cut interchange to about a dime, and the Fed appeared to compromise.
+
+The law allowed the Fed to consider the incremental costs of acquiring, clearing and settling each transaction. As such, merchants ultimately pay 24 cents in debit interchange on average. In a filing to the Fed, said Congress gave it ¡°broad discretion¡± to act ¡°as an arbiter in determining reasonable and proportional fees.¡±
+
+A study released last fall by Global Economics Group suggested that the Fed¡¯s rate cut under Durbin cost consumers between $22 billion and $25 billion. It found that, while merchants gave back to consumers some of the cost to accept debit cards, banks passed on some of the revenue they lost to consumers, who ultimately lost overall.
+
+David Evans, co-author of the report, tells PYMNTS.com that the appeals court should reverse Leon¡¯s decision.
+
+¡°The Fed decision may not be to anyone¡¯s liking¡ªI think they went too low¡ªbut they did the best they could interpreting a badly written law,¡± he said. ¡°Congress said that rates had to be reasonable. The Fed was almost certainly worried about whether it was reasonable to shift so much of the costs to consumers.¡±
+
+Another study last year found the 21-cent cap was saving merchants $8.5 billion a year, with more than two-thirds passed along to consumers. It also found that $12.5 billion could have been saved under a 12-cent cap.
+
+Following the Jan. 17 hearing, the Consumer Banking Association, which contends the Fed¡¯s cap is too low and wants Leon¡¯s decision overturned, released a statement from Richard Hunt, president and CEO, who called the event ¡°a positive step in preserving the current allowable interchange rate.¡±
+
+¡°While we still believe this rate is too low, ultimately rational minds will prevail on this issue and we look forward to the final decision of the appellate court,¡± he said. ¡°This is especially crucial given the recent data breaches at retailers such as Target and Neiman Marcus.¡±
+
+A study released in late 2013 explored the impact the interchange rule has had on consumers. Get the results of the study, penned by Dr. David S. Evans by clicking here.

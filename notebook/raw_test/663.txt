@@ -1,0 +1,15 @@
+MtGox said on Friday that it found 200,000 lost Bitcoins in an old-format online wallet on March 7, a week after the digital currency exchange filed for bankruptcy, reports Reuters. MtGox CEO Mark Karpeles said he believed the ¡°forgotten¡± wallet no longer held any Bitcoins until checking again after the bankruptcy protection filing.
+
+Tokyo-based MtGox claimed hackers were responsible for the exchange¡¯s loss of 850,000 Bitcoins (worth around $500 million today). But online sleuths soon discovered that around 200,000 Bitcoins were moving through the crypto-currency exchange after the bankruptcy filing, and its 127,000 creditors remain skeptical about Karpeles¡¯ explanation.
+
+The exchange confirmed in a statement that on March 14-15, it moved the 200,000 bitcoins from online to offline wallets and reported the new storage activity to the court and supervisor through counsels.
+
+Reuters says that on Thursday, ¡°a U.S. judge in Chicago overseeing a class action against MtGox revised a previous order, allowing some of the exchange¡¯s Bitcoin movements to be tracked.¡±
+
+According to another report today by Ars Technica, MtGox is updating its software to include five separate changes designed to make so-called transaction malleability attacks harder to pull off. Apparently, entries in the official Bitcoin blockchain can fall out of sync with the rest of the network and fund balances must be recalculated once mistakes become apparent.
+
+Malleability weaknesses have been fixed by tightening transaction rules that prevent ¡°mutated transactions¡± from being relayed or mined. And users have been given instructions for an installation executable for 64-bit versions of Windows:
+
+¡°If you are running an older version, shut it down,¡± Wednesday¡¯s release notes stated. ¡°Wait until it has completely shut down (which might take a few minutes for older versions), uninstall all earlier versions of Bitcoin, then run the installer (on Windows) or just copy over /Applications/Bitcoin-Qt (on Mac) or bitcoind/bitcoin-qt (on Linux). If you are upgrading from version 0.7.2 or earlier, the first time you run 0.9.0 your blockchain files will be re-indexed, which will take anywhere from 30 minutes to several hours, depending on the speed of your machine. On Windows, do not forget to uninstall all earlier versions of the Bitcoin client first, especially if you are switching to the 64-bit version.¡±
+
+MtGox was one of the world¡¯s largest digital currency exchanges.

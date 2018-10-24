@@ -1,0 +1,40 @@
+The turnaround story at Oracle Corporation (NYSE: ) is all about the cloud. So, ORCL stock holders should be plenty encouraged that the company¡¯s fiscal third-quarter earnings report, out Wednesday after the bell, showed some traction with that effort.
+
+Oracle stock is surging more than 6% in Thursday¡¯s premarket trading, on top of a 12% for the year-to-date.
+
+The overall report came in somewhat mixed. Earnings for fiscal Q3 came in at 69 cents per share, which beat the Street¡¯s estimate by 7 cents. However, the story was different on the top line; revenues of $9.21 billion came in short of the consensus mark of $9.26 billion.
+
+A few other highlights from the Oracle earnings report:
+ On an annualized basis, the total cloud business is running at $5 billion.
+ Operating margins were down 2 percentage points to 32% on a GAAP basis, but up 1 point to 43% on a non-GAAP basis.
+ The company purchased Apiary (a developer of API technologies) and Dyn (which manages core web systems).
+
+Oracle also announced a 27% increase in the quarterly dividend. ORCL stock will pay out 19 cents per share on April 26 to shareholders of record as of the close of business on April 12. That would knock the yield from 1.4% to 1.8% on current prices.
+
+UPDATE: The big irony with Oracle is that founder and executive chairman Larry Ellison was a vocal critic of the cloud ¡ª that is, until a couple years ago. He simply could not ignore the megatrend anymore, or the customers who saw the technology as a key priority.
+
+And there¡¯s another irony: Until Ellison got cloud religion, he liked to trash the pioneering leader of the industry, Salesforce.com, Inc. (NYSE: ).
+
+But Ellison has navigated the tech world well for the past four decades, building a company with a market cap of nearly $180 billion. And he¡¯s navigating the transition to the cloud well, too.
+
+In the latest earnings report, ORCL noted that it sold more new SaaS (software-as-a-service) and PaaS (platform-as-a-service) systems than CRM. Actually, the business saw an impressive 85% jump in revenues to $1.1 billion and non-GAAP margins came to about 65%.
+
+ORCL is also attacking Amazon.com, Inc. (NASDAQ: ). The company has launched its second-generation core cloud platform, which is faster and cheaper than AWS. Given ORCL¡¯s global customer base ¡ª which relies on sophisticated databases and other mission-critical software ¡ª there could be a nice opportunity to gin up more revenues. However, things are still in the early stages, with revenues at about $178 million; AMZN generated revenues of $3.5 billion.
+
+Finally, ORCL has lots of experience with tech M&A, understanding the complexities of integration and customer transitions. And perhaps the most notable deal was the recent $9.3 billion purchase of NetSuite, which instantly made ORCL a leader in the cloud-based enteprise resource planning (ERP) space for small- and mid-size companies.
+
+All in all, Ellison and his co-CEOs are making the right moves, especially with leveraging the company¡¯s enormous resources.
+
+But the problem for investors is it seems that much of the good news is already baked in.
+
+Technically speaking, shares are currently trading well above the major moving averages, but likely will creep into overbought territory if Wednesday¡¯s after-market gains play out come Thursday morning.
+
+Next overhead resistance for ORCL stock sits around just above $46 ¡ª Oracle¡¯s highs from late 2014, which marked the company¡¯s best price since the dot-com bubble.
+
+But more daunting: Oracle shares trade at more than 21 times earnings, which is too generous for a company that continues to grow at a mere 2% to 3%.
+
+If you were planning to jump in but haven¡¯t ¡­ now isn¡¯t the time.
+
+Please return later for updated analysis.
+
+Tom Taulli runs the InvestorPlace blog IPO Playbook and is the author of various books, including Taxes 2017: Saving A Bundle. Follow him on Twitter at @ttaulli. As of this writing, he did not hold a position in any of the aforementioned securities.

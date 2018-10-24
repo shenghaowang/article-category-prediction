@@ -1,0 +1,21 @@
+People Overload Website, Hoping To Help Search For Missing Jet
+
+A U.S. satellite company's call for help in finding a missing Malaysia Airlines jet brought a strong response on the Internet, as some people hoping to pitch in are finding a website struggling to handle all the web traffic.
+
+The company, DigitalGlobe, says it's working to fix the problem and aid the search for the airliner, which has now been missing for four days. The search area for signs of the jet was widened Tuesday.
+
+DigitalGlobe issued a call for volunteers to sift through satellite images of waters in the Gulf of Thailand and elsewhere that were taken after flight MH370 went missing this weekend. The company is continuing to put images on its Tomnod site, which it calls a "platform for crowdsourcing satellite imagery."
+
+Hours after the company's request for help went out Monday afternoon, the response brought "unprecedented load on our servers," the company said in an update on Twitter.
+
+The heavy server load is understandable. The images in question are high-resolution satellite photos, and by design, multiple volunteers are given access to the same area, to ensure that the data they enter is verified. The company's call for volunteers was echoed loudly by the Reddit community, increasing interest in the project.
+
+As of Tuesday afternoon, DigitalGlobe said it was adding new photos to widen the area that people can search. The company says it has had "an amazing response" to the crowdsource project.
+
+The Malaysian jetliner mystery isn't the first time the satellite company has turned to the Internet for help. From Canada's CTV:
+
+A satellite imagery expert notes that detailed images of the Earth's surface are hard to come by. John Amos of SkyTruth tells The Washington Post, "Despite the impression that people get when they use Bing and Google Earth and Google Maps, those high-resolution images are still few and far between."
+
+As the Two-Way reported today, the mystery of the airliner's fate has prompted other questions, as well ¡ª such as "how planes are tracked and if there are better ways to do it."
+
+Thanks to NPR's Carol Ritchie for flagging this story for us.

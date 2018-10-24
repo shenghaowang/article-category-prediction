@@ -1,0 +1,21 @@
+Revenue of$9.0 billion versus estimates $9.13 billion, so that¡¯s a miss.EPS of $0.64 versus estimates of $0.62, so that¡¯s a beat.
+
+The board also declared a dividend of $0.15 per share of outstanding common stock and authorized a an additional $10 billion to its buyback program.
+
+The buyback news is helping the stock rise in after-hours trading.
+
+Oracle is playing up the growth of its software cloud business, especially compared to its rival Salesforce.com.
+
+Oracle is generally playing catch up in the cloud world, but its cloud is selling well, so that¡¯s why it is touting impressive growth numbers. Total cloud revenues this quarter in the areas where it competes against Salsforce were $583 million.
+
+Cloud SaaS and PaaS Revenues Up 57% in U.S. Dollars and Up 61% in Constant Currency
+
+Cloud plus On-Premise Software Revenues were $7.1 billion, down 1% in U.S. dollars and up 3% in constant currency. Cloud software as a service (SaaS) and platform as a service (PaaS) revenues were $583 million, up 57% in U.S. dollars and up 61% in constant currency. Cloud infrastructure as a service (IaaS) revenues were $152 million, down 2% in U.S. dollars and up 2% in constant currency.
+
+Operating Income was $3.0 billion and Operating Margin was 34%. Non-GAAP Operating Income was $3.8 billion and non-GAAP Operating Margin was 42%. Net Income was $2.1 billion while non-GAAP Net Income was $2.7 billion. Earnings Per Share was $0.50, while non-GAAP Earnings Per Share was $0.64. Without the impact of the U.S. dollar strengthening compared to foreign currencies, Oracle¡¯s reported GAAP and non-GAAP Earnings Per Share would have been 4 cents higher.
+
+¡°Our Cloud SaaS and PaaS revenue growth rate accelerated to 61% in constant currency in Q3,¡± said Oracle CEO, Safra Catz. ¡°This dramatic revenue increase drove our non-GAAP SaaS and PaaS gross margins up to 51% in Q3 as compared with 43% in Q2. Our cloud business is now in a hyper-growth phase. Our gross margins are climbing toward our target of 80%. These two factors will ignite substantial EPS and cash flow growth over Oracle¡¯s next few quarters.¡±
+
+¡°Our SaaS and PaaS gross deferred revenue grew 96% in Q3 ¡ª twice as fast as Workday and three times faster than Salesforce.comreported in their most recent quarters,¡± said Oracle CEO, Mark Hurd. ¡°Q3 SaaS and PaaS bookings were up 77% in constant currency. We added 942 new SaaS customers in the quarter, including several customers that switched from Workday HCM to Oracle Fusion HCM. We had more than 250 customers go live on Fusion SaaS HCM and Fusion ERP in Q3 alone. We now have over 11,000 SaaS customers with nearly 2,000 Fusion ERP customers ¡ª ten times more ERP customers than Workday claims to have.¡±
+
+¡°In absolute dollar terms, Oracle is already selling more enterprise SaaS and PaaS new cloud revenue than any other company in the world ¡ª including Salesforce.com,¡± said Larry Ellison, Oracle Chairman and CTO. ¡°We are growing much faster than Salesforce.com. We also have many more SaaS products than Salesforce.com. In some of our most important SaaS markets, such as ERP, HCM, Supply Chain and Manufacturing, Salesforce.com does not participate at all. By successfully competing in all of these markets, Oracle has the ability to sustain its high growth over a long period of time. That should make it easy for us to pass Salesforce.com and become the largest SaaS and PaaS cloud company in the world.¡±

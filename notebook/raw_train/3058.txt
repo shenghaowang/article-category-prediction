@@ -1,0 +1,30 @@
+
+ Mt Gox, once the largest bitcoin exchange in the world, filed for bankruptcy in 2014.
+ Bankruptcy trustees have been selling the company¡¯s bitcoin since September to raise funds to pay creditors.
+ $400 million-worth of bitcoin has been sold so far and investors are concerned that the large trades could be affecting bitcoin¡¯s price.
+
+LONDON ¨C Angry bitcoin traders are railing against bitcoin sales by the trustees of funds from collapsed Japanese crypto exchange Mt Gox.
+
+Mt Gox was launched in 2010 and was one of the earliest cryptocurrency exchanges. It grew to become the world¡¯s biggest exchange but filed for bankruptcy in 2014 after being hit by a $450 million hack. Its remaining funds have been placed into a trust to help pay back creditors.
+
+Bloomberg reported on Wednesday that Nobuaki Kobayashi, the Tokyo attorney and bankruptcy trustee for Mt Gox¡¯s funds, disclosed in a creditor¡¯s meeting this week that he has sold $400 million of Mt Gox¡¯s bitcoin since last September. Kobayashi is in charge of liquidating Mt Gox¡¯s funds to pay back creditors of the business and controlled a pool of more than 166,000 bitcoins as of March 5.
+
+Bitcoin investor Alistair Milne subsequently pointed out on Twitter that over half of the bitcoin Kobayashi sold was transferred to an exchange on February 5, the day before bitcoin hit a three-month low of close to $6,000.
+
+Matt Odell, another bitcoin investor on Twitter, wrote:¡°They panicked and sold the bottom. Market absorbed it well.¡±
+
+But other bitcoin traders and investors have expressed anger at the fact that such a large amount of bitcoin was sold into the market at a time when prices were already under pressure. After hitting a high above $20,000 in December, bitcoin crashed below $10,000 in mid-January. The cryptocurrency, or the wider market, hasn¡¯t recovered since and is trading at just under $10,000 as of the morning of March 8.
+
+The most popular thread on the Bitcoin sub-Reddit on Thursday links to an article accusing Mt Gox¡¯s trustees of trying ¡°to crash bitcoin¡± and the highest rated comment says: ¡°Just give the people their money in BTC and let them decide what to do with it. This is horse¡ªt.¡±
+
+A follow up comment from the same user said: ¡°It¡¯s definitely having the effect of causing the price to drop with each sell period.¡±
+
+Another member said: ¡°Why didn¡¯t he sell the BTC at auction like other assets often get sold during bankruptcy? If he sold on the spot market only an idiot would think you wouldn¡¯t suffer slippage.¡±
+
+A separate thread on the Bitcoin sub-Reddit makes the same point, saying: ¡°Is there a way to ask this Mtgox trustee guy to use an OTC desk next time (or do an auction like the FBI did with Silk Road¡¯s 144,336 BTC)? And to NOT do market dumps?¡±
+
+A comment on that thread reads: ¡°For the sake of Bitcoin survival somebody gets a hold of the trustee asap to use a better mechanism to distribute those coins!¡±
+
+All the comments suggest traders are concerned that such large sales of bitcoin from the Mt Gox trustees are negatively affecting the price of the asset. Kobayashi still has $1.9 billion of bitcoin to offload, suggesting this theory could see further scrutiny.
+
+Any proceeds left after Mt Gox¡¯s creditors are paid will go to Mark Karpeles, the founder of Mt Gox. This quirk of Japanese bankruptcy law has angered many in the bitcoin community who think that Karpeles, currently on bail from prison in Japan where he faces embezzlement charges, shouldn¡¯t reap any benefit from the collapse of Mt Gox.

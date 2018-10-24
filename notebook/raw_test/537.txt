@@ -1,0 +1,69 @@
+SAN FRANCISCO (Reuters) - Earlier this year, engineers at Wal-Mart Stores Inc (WMT.N) who track rivals¡¯ prices online got a rude surprise: the technology they were using to check Amazon.com several million times a day suddenly stopped working.
+
+Losing access to Amazon.com Inc¡¯s (AMZN.O) data was no small matter. Like most big retailers, Wal-Mart relies on computer programs that scan prices on competitors¡¯ websites so it can adjust its listings accordingly. A difference of even 50 cents can mean losing a sale.
+
+But a new tactic by Amazon to block these programs - known commonly as robots or bots - thwarted the Bentonville, Arkansas-based retailer.
+
+Its technology unit, @WalmartLabs, was unable to work around the blockade for weeks, forcing it to retrieve Amazon¡¯s data through a secondary source, according to a person familiar with the matter who was not authorized to speak publicly.
+
+The previously unreported incident offers a case study in how Amazon¡¯s technological prowess is helping it dominate the retail competition.
+
+Now the largest online retailer in the world, Amazon is best known by consumers for its fast delivery, huge product catalog and ambitious moves into areas like original TV programming. But its mastery of the complex, behind-the-scenes technologies that power modern e-commerce is just as important to its success.
+
+Dexterity with bots allows Amazon not only to see what its rivals are doing, but increasingly to keep them in the dark when it undercuts them on price or is quietly charging more.
+
+¡°Benchmarking against Amazon is going to become hard,¡± said Guru Hariharan, a former Amazon manager who now sells pricing software to retailers as chief executive of Mountain View, California-based Boomerang Commerce.
+
+A Wal-Mart spokesman declined to discuss the January episode but said the company improves its technology regularly and has multiple tools for tracking items. He said the company offers value not only through pricing but from discounts for in-store pickup and other benefits.
+
+A spokeswoman for Amazon said the company is aware of competitors using bots to check its listings and denied any ¡°campaign¡± to stop them. ¡°Nothing has changed recently in how we manage bots on our site,¡± she said. Still, she said, ¡°we prioritize humans over bots as needed.¡±
+
+Bots can slow down a website, a big motivator for retailers to block them.
+
+Reuters interviewed 21 people familiar with bots and how they are deployed, including current and former Wal-Mart employees, former Amazon employees and outside specialists. Many spoke only on condition of anonymity because they were not authorized to discuss the issues publicly.
+
+Most pointed to Amazon's leadership in the burgeoning bot wars.
+
+The company¡¯s technological edge has been good for its profit margin, and it¡¯s proving a winning formula for investors. Shares of the internet powerhouse have risen about 15-fold since the market¡¯s bottom in March 2009, while the S&P 500 has more than tripled in value. Amazon hit $100 billion in annual sales in 2015 - faster than any company in history, it said.
+
+Bot-driven pricing has represented a massive change for the retail industry since Amazon helped pioneer the practice more than a decade ago.
+
+Traditionally, brick-and-mortar stores changed prices no more than weekly because of the time and expense needed to swap labels by hand.
+
+In the world of e-commerce, though, retailers update prices with ease, sometimes multiple times a day, helped by algorithms that consider inventory levels, sales forecasts and rivals¡¯ pricing data.
+
+To stay in the game, companies such as online wholesaler Boxed, based in New York, depend on a variety of methods including bots to ensure they do not lag others¡¯ price moves for even 20 minutes.
+
+¡°That¡¯s like a lifetime during Christmas,¡± said Chief Executive Chieh Huang, whose company sells bulk staples like toilet paper and pet food. ¡°If we¡¯re not decently priced, we¡¯ll see it almost immediately¡± in sales declines.
+
+Using bots to view massive amounts of data on public websites - a process known as crawling or scraping - has many purposes. Alphabet Inc¡¯s (GOOGL.O) Google, for example, constantly crawls the Web to gather information for its search engine results and to sell ads.
+
+In e-commerce, though, the use of bots has developed into a cat-and-mouse game. Companies try to thwart the practice on their own websites while aiming to penetrate their competitors' defenses. Third-party services abound to help less-savvy retailers.
+
+To protect data from rivals, some retail websites use what¡¯s known as a ¡°CAPTCHA¡± - typically a distorted string of letters and numbers that humans can read but most bots can¡¯t. Amazon shies away from the practice because it annoys some customers.
+
+For merchants seeking to evade such defenses, disguising their computer programs as real shoppers is key. Some pricing technology experts have programmed computer cursors to meander through a Web page in the way a person might, instead of going directly to the prized data. Another technique is to use multiple computer addresses so that retailers cannot track a barrage of clicks to a single source.
+
+¡°It is an arms race,¡± said Keith Anderson, a senior vice president at e-commerce analytics firm Profitero, based in Ireland. ¡°Every week or every month, there¡¯s some new approach from both sides.¡±
+
+Amazon¡¯s maneuver that halted Wal-Mart in January took aim at a specialized Web browser called PhantomJS. Unlike, say, Internet Explorer, this browser is designed specifically for programmers - a telltale clue that its users are not typical shoppers. Amazon put up a digital curtain to hide its listings from PhantomJS users, according to three people familiar with the situation.
+
+It was unclear how the move, which was not aimed at Wal-Mart in particular, affected other companies.
+
+Tests conducted in recent weeks for Reuters show that among major U.S. retail chains, Amazon had by far the most sophisticated bot detection in place, both for its home page and for two popular items selected by Reuters because they change price frequently - a De¡¯Longhi coffee maker and a Logitech webcam.
+
+The tests were run by San Francisco-based Distil Networks, which sells anti-bot tools. In one of the tests, Distil programmed bots to hit each retailer¡¯s website 3,000 times, but slowly enough to mimic a person clicking through listings. This tricked most retail behemoths, but not Amazon.
+
+Blocked bots would not have seen, for instance, that Amazon¡¯s price for the De¡¯Longhi espresso machine changed four times in a single 24-hour period starting on the morning of April 25, according to price tracking website camelcamelcamel.com. During that time, the price swung by more than 10 percent, from a low of $80.06 to $88.16.
+
+Despite Amazon¡¯s capabilities, the sheer volume of crawling on its site is staggering. At times, as many as 80 percent of the clicks on Amazon product listings have been from bots, people familiar with the matter say, compared with just a third or more of the traffic on other large sites.
+
+In addition to rivals seeking price data, that traffic includes bots from university researchers studying competition, search engines, advertising services and even fraudsters trying to break into Amazon accounts.
+
+For Wal-Mart, a small group in Silicon Valley directs its automated pricing strategy while dozens of engineers in India and around the world handle the code, current and former Wal-Mart employees said.
+
+Amazon had about 40 engineers who would covertly extract and organize rivals¡¯ data with bots as of several years ago, one of the people interviewed said. Amazon did not discuss the size or structure of its teams working with bots.
+
+According to one U.S. patent application, Amazon is working on encryption technology that would force bots, but not humans, to solve a complicated algorithm to gain access to its Web pages. [For full patent record - click tmsnrt.rs/2qXbYwp]
+
+¡°Amazon has both the competency to detect bot traffic and the wherewithal to do something about it,¡± said Scott Jacobson, a former Amazon manager and now managing director of Madrona Venture Group. That ¡°isn¡¯t the case for most retailers.¡±

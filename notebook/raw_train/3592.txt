@@ -1,0 +1,18 @@
+Martin recently received, from his company's legal team, a list of phrases that they don't like to see in documents the company creates. For instance, in most cases the phrase "solution will" should be, instead, "solution is intended to." Martin wonders if there is a way to have this new list of phrases checked and flagged automatically in Word, perhaps through the grammar checker.
+
+The grammar checker won't do it, unfortunately. There simply is no way, in Word, to add your own phrases so that the grammar checker can, well, "check" them.
+
+It sounds, though, like you may need two solutions¡ªone that will kick into play as you are composing new documents and another that can be used to check existing documents. The "as you compose" solution is actually quite easy¡ªall you need to do is to use AutoCorrect to automatically change the offending phrases for you.
+ Display the Word Options dialog box. (In Word 2007 click the Office button and then click Word Options. In Word 2010 and later versions display the File tab of the ribbon and then click Options.)
+ Click Proofing at the left side of the dialog box.
+ In the Replace box, enter your offending phrase.
+ In the With box type the preferred phrase.
+ Repeat steps 4 through 6 for each of the remaining offending phrases.
+
+Now, as you type in your document, whenever an offending phrase is entered and the space or punctuation mark after that phrase is pressed, Word should automatically replace the phrase with the preferred phrase.
+
+Of course, the AutoCorrect approach won't help with existing documents, nor will it help if blocks of text are copied from other documents and pasted into the current document. In those cases, you need a different approach. The simplest is to use the Find and Replace capabilities of Word to look for an offending phrase and make the determination if you want to replace it with the preferred phrase or not. This can work great if you have only a few phrases you need to correct.
+
+If your list of phrases is considerably longer, you may wan to consider using a macro to mark infractions. Here's a simple approach.
+
+This macro does a mass replacement of the values stored in the sBadPhrase array with the phrases stored in the sGoodPhrase array. All you need to do is to set up the arrays with your phrases and change iCount so that it is equal to the number of phrases you have defined. (If you go above 19 phrases, you'll also need to change the declaration of the two arrays so that they are large enough.)

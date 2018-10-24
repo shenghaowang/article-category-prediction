@@ -1,0 +1,33 @@
+Symantec did not end its fiscal year on a high note, based on its fourth quarter earnings report published after the bell on Thursday.
+
+The security software maker reported a net income of $176 million, or 25 cents per share (statement).
+
+Non-GAAP earnings were 43 cents per share on a revenue of roughly $1.52 billion.
+
+Wall Street was looking for earnings of 44 cents per share with $1.56 billion in revenue.
+
+In reflection of the miss, Symantec shares started to tumble in after-hours trading by initially three percent.
+
+Nevertheless, Symantec attributed the less-than-desired results to a common fallback this quarter: the currency flux spawned by a stronger U.S. dollar.
+
+"At the original guided exchange rate of $1.16 Euro/Dollar, Q4 non-GAAP revenue would have also been above analyst consensus," said a Symantec spokesperson in an email to ZDNet.
+
+Describing fiscal 2015 as a "transformative year" for Symantec, CEO Michael Brown touted in prepared remarks that endpoint protection, data loss prevention, NetBackup appliances and NetBackup software have "all outperformed the market this quarter."
+
+Looking forward, analysts expect Symantec to start off its next fiscal year with $1.62 billion in Q1 revenue with 45 cents in earnings per share.
+
+Symantec responded with a Q1 revenue guidance range of $1.5 billion to $1.54 billion with non-GAAP earnings between 41 and 44 cents per share.
+
+In October, Symantec made good upon rumors that the beleaguered tech brand would split, following a road being paved in Silicon Valley by the likes of eBay and Hewlett-Packard.
+
+Thanks to a unanimous decision by Symantec's Board of Directors, the plan became to divide the Mountain View, Calif.-based company into two brands: one business focused on security and one business focused on information management.
+
+The Information Management business will consist of backup and recovery, archiving, eDiscovery, storage management, and information availability services.
+
+At the start of the year, Symantec unveiled a new name for the IM business: Veritas Technologies. The Veritas business generated $2.5 billion in revenue for Symantec in fiscal 2014.
+
+The security business will retain consumer and enterprise endpoint security, endpoint management, encryption, mobile, Secure Socket Layer certificates, user authentication, data loss prevention, hosted and managed security, and mail, web and datacenter security services.
+
+CFO Thomas Seifert added in the Q4 report that the Veritas separation is "progressing on schedule."
+
+Symantec has staffed up on the security side with two executive additions to the division's leadership team in November. According to the mixed Q2 report published in November, the information management business spinoff was projected to be completed by the end of December 2015.
