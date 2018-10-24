@@ -1,0 +1,120 @@
+Supposedly, it began with hunting and gathering, which dominates over 90% of modern human history. During that epoch, humans were considered a jack-of-all-trades, learning all necessary skills for survival. Arguably, the image of the earliest supposed form of trading comes to mind: a cave man trying to initiate a trade by giving away his rabbit fur in exchange for what he really wants, some boar meat. Today, that exchange practice is called the barter system, and it is well-accepted as the earliest form of transaction.
+
+I say well-accepted because anthropologist David Graeber argues that the earliest supposed predecessor of money, bartering, didn¡¯t actually exist before money. But even if the barter system did exist, it wouldn¡¯t have been practical as a sustainable daily practice like the exchange of money; after all, imagine how hard it would be if no one wanted anything you had to offer ¡ª you wouldn¡¯t last very long. Or if your only bartering item was a dead mammoth ¡ª what would you do? Drag it around with you to trade for berries?
+
+Around the end of the Pleistocene Epoch (commonly referred to as the most recent ice age, which ended around 10,000 years ago), domestication of wheat, grains and animals emerged as humans spread across the globe. Domestication led to the emergence of farming, which centralized and increased population density. With centralized population density, it was no longer necessary to be the jack-of-all-trades that the hunting and gathering lifestyle demanded; instead, individuals began to start focusing on specialization.
+
+Some farmed, others tailored, and pretty soon, some became accountants because a barter system would not sustain a civilization of individuals with only one specialty to offer. A clothing trader could offer a farmer some clothes for wheat, but a farmer doesn¡¯t need new clothes every day like a clothing trader needs food. To get food through the barter system, a tailor would have to get pretty creative in exchanging one thing after another before seeing bread. It would become a game to try to win bread. Literally, bread-winning.
+
+The demand for a controlled transaction system paved the way for the emergence of money, which was used as both a measurement of value (money of accounting) and for transacting (money of exchange). But the emergence of money didn¡¯t start with the paper and coins we know and love today. Cowry shells were one of the first and most popular forms of money, and were used to conduct trade around Africa and Asia; in fact, these shells were used as a currency in Africa (Uganda, specifically) until the the 19th century (1801¨C1900).
+
+Prehistoric banks emerged in civilizations like Mesopotamia, where people could deposit their valuables for safekeeping and trading. With this new system came the necessity to record a history of all the transactions coming in and going out, which also resulted in the first known use of a ledger for recording transaction history.
+
+But the emergence of money wasn¡¯t a concerted effort initiated through global agreement that stemmed from Mesopotamia. Just like today there are different forms of currency, cowry shells were not the universal banknote. Grains, cloth, and other items were also used as money. While they all sound different, each had three major features in common:
+ They have to be physical. Ideas can¡¯t be money. Sure, they can make money, but they can¡¯t be money.
+ They have to be resilient. Just being tangible isn¡¯t enough. Any civilization transacting with leaves might be left bankrupt by a strong wind. Better yet, try to put 50 leaves in your pocket.
+ The community has to agree. After all, without consensus, the stability of the currency is undermined as individuals aren¡¯t sure if people they want to transact with will even accept the money.
+
+While the first two features could easily be found in items like shells, grains, and cloth, the third was a little trickier. Without some sort of overseeing entity that enforced acceptance, stability of the currency could not be guaranteed. In around 600 B.C., the last problem was solved with the emergence of the coin.
+
+There is a problem with using grains ¡ª you can just go farm more grains. Same with shells, just go to the beach! How could a currency system be truly trustworthy if anyone can just go out and make more of the currency at any time? This was one of the big issues that coins tackled.
+
+The Lydians of Ancient Greece were the first known group of people to start using coins. 500 years later, larger cities like Athens started to catch on. Unlike shells and grains, citizens couldn¡¯t just go out and find more gold and silver to melt and shape into coins with intricate stamps. Even in today¡¯s world, that¡¯s still quite a specialized task despite the abundance of tools at our disposal.
+
+With each coin came a literal stamp of approval on the coin itself. Rulers printed their faces or national symbols on them as guarantee that they and the civilizations they commanded would guarantee the worth of the coin; i.e., as long as their civilization existed, the currency would still be worth something. The shift to using coins made the circulation controllable by the rulers and the currency more trusted by the citizens.
+
+While the invention of coins solved many problems for money, there were still disadvantages. For one, coins were molded from precious metals including gold. Circulation and supply growth was limited by the availability of those precious metals. Furthermore, they took up space and were heavy, which made storing them and carrying them inconvenient. The inconvenience and lack of supply became a growing problem until the emergence of paper.
+
+In 100 B.C., the Chinese invented the first form of paper. Not long after, the first use case emerged. Rather than carrying coins everywhere, people could leave their valuables at the bank, and the bank would provide a signed note that verified the value of the item(s) a person had in the bank; i.e., the first banknote. This system was based on trust that the note could be exchanged for actual valuables. Instead of exchanging for the tangible valuables at any time, people could continue to exchange the notes.
+
+With Mongolia¡¯s invasion of China, the Mongol Empire picked up on the practice of paper currency as well. In the 13th century, Marco Polo brought paper money back to Europe. By the 17th century, Europe had caught on to the trend and goldsmiths adopted the practice of using notes as a security, backed by the goldsmiths¡¯ gold itself.
+
+Because people were using and holding the paper note rather than exchanging everything for the backed valuables, European banks started to issue more notes than could be all backed up at once, betting on the hypothesis that every individual holding their notes would not all come knocking on their door the next day asking for gold. This became the first practice of the expansion of money supply in what we would consider modern money.
+
+The Move Away from Gold
+
+Today¡¯s money is not redeemable for gold or silver. But this wasn¡¯t the case until the 1930s. Prior to that, every dollar printed was backed by $0.40 worth of gold. Just as the Europeans believed that the entire population wouldn¡¯t all withdraw at once, the US gave leniency on the amount of available gold supply to exchange for its dollars.
+
+But the early 1930s was not a good financial time for the United States. The Great Depression struck in 1929 with the stock market crash.
+
+In an effort to reinvigorate the US economy, Franklin D. Roosevelt (president at the time) decided to print money in an effort to initiate his spending program. Unfortunately, with the limited supply of gold, his hands were tied ¡ª he couldn¡¯t increase taxes during this economic tragedy, and he couldn¡¯t print more money because there wasn¡¯t enough gold. The Great Depression had turned individuals into gold hoarders in fear of a rush to the banks that would collapse the entire economy (the banks only had $0.40 of gold per dollar, so it couldn¡¯t possibly pay everyone).
+
+So in 1933, President Roosevelt made private ownership of gold illegal. To prevent any more gold from being withdrawn from banks, he closed their doors for three days. He then made it illegal for any citizen to privately own gold ¡ª it became a crime with a heavy sentence up to 10 years in prison. Citizens were instructed to turn over their gold back to the Federal Reserve, and the Federal Reserve would issue them paper money.
+
+Despite the arguably authoritarian move, the plan failed to curb the Great Depression, which lasted for another six years. The damage had been done, and in 1971, President Richard Nixon officially moved the US dollar away from any gold backing. It wasn¡¯t until 1977 that private ownership of gold was legalized again. Ironically, President Ford, the one who repealed the Gold Prohibition set forth by President Roosevelt, didn¡¯t even know that owning gold was illegal.
+
+Now we¡¯ve reached fairly modern-day monetary practices. We¡¯ve seen what started off as arguably a barter system transform into a currency system based on value with items such as grains, shells and cloth. The value was then guaranteed by an established government through the minting of coins. When coins became a burden, paper replaced it.
+
+With the majority of transactions handled primarily through paper, governments became more lenient on the ratio of paper-currency to precious metals available. Not long after, paper currency became completely dissociated with the precious metals that the currency derived value from; instead, paper currency became purely a promise from the government that it is worth something.
+
+Today, even paper currency is only arguably true currency anymore. In Sapiens (2011), Anthropologist Yuval Noah Harari states:
+
+In other words, 90% (perhaps even higher because this statistic was published in 2011) of the entire globe¡¯s currency is, in fact, digital currency.
+
+In 2009, an unknown person or group under the pseudonym Satoshi Nakamoto introduced a paper. Within the document contained the idea of a decentralized, trustless, peer-to-peer system of currency called Bitcoin. A few things to define:
+ Decentralized: there is no central authority; it¡¯s the participants in the economy that preserve the existence of the economy.
+ Trustless: an approach to guaranteeing accuracy and integrity without the need for trust. In traditional centralized systems, the community relies on trust; e.g., I trust that my bank will not lose my money.
+ Peer-to-peer: a transaction approach that cuts out the middle-man, so an exchange can be conducted directly between the parties.
+
+The document proposed using a proof-of-work system by Adam Back¡¯s Hashcash, which was actually invented back in 1997. If you didn¡¯t understand what that meant, basically, it means that Satoshi Nakamoto repurposed Adam Back¡¯s system to make Bitcoin work.
+
+The major value proposition with Bitcoin is not that it was the world¡¯s first digital currency. As mentioned before, 90% of the world¡¯s current existing money is already digital and only exists as digital. Just as the United States once backed $1 with only $0.40 worth of gold, today a similar situation exists such that only one physical dollar exists for every nine digital dollars. The concept of digital currency is already in use today when you swipe your debit or credit card.
+
+The major value proposition with Bitcoin, blockchain, and many other decentralized cryptocurrencies is how they manage the digital currency experience: decentralized, trustless, direct peer-to-peer transacting. This importance is often lost in the frenzy of price hype. When you peak beneath the hood, though, you can see the potential for the next shift in currency: movement away from circulation control by government.
+
+The New Money System Will Facilitate Global Growth
+
+As connected as we feel today with services such as the Internet, the reality is that much of the world is still isolated. Globalization is little more than a romantic vision at this point, but it is just available enough for us to believe it can be taken for granted as much as your phone¡¯s battery life; 39% of the world¡¯s population, which is almost 3 billion people, do not have access to banks. That¡¯s almost every other person in existence. We¡¯re just blessed to be part of the more privileged half.
+
+The inter-connectivity of the world and globalization of human interaction applies pressure for the need of a trusted currency on a global scale. Try to move large amounts of money across borders, and you can feel the friction depending on the country you¡¯re in, and you¡¯ll realize how expensive and slow it can be. Despite the fact that 90% of currency is all digital, the process of transferring it is still inefficient and creates inconvenient barriers that inhibit the growth of a global system.
+
+The evolution of money and transacting throughout human existence has historically trended towards optimization. Barter systems (arguably) became shell-based currencies to standardize value and facilitate easier exchange. Shell currencies were replaced by minted coins molded from precious materials to control supply and provide better guarantee of value. Coin transactions shifted to bank notes backed by precious materials for more convenience. Recently, bank notes have dissociated from valuable materials and backed by governments for easier control of money supply and inflation. Nowadays, bank notes are used less and less as currency is becoming digital.
+
+While borders still exist on a political level, they are beginning to break down on a social one. The human effort to connect extends beyond political or corporate relationships; this struggle will drive the existing monetary system, which is circulated by corporate and political institutions, to an inflection point where its users must decide to continue trusting or to abandon it. The latter requires an alternative solution to transition into the next system of money.
+
+Bitcoin May Not Be the Answer
+
+The blockchain methodology provided by Bitcoin is one alternative solution. Designed to be decentralized, Bitcoin essentially distributes a copy of every piece of transaction history to anyone who wants one. Those people can then participate in checking historical and future transactions. By doing so, it is no longer a single entity that is the deciding factor for the validity of supply and transaction history, but an entire community. Furthermore, participating in Bitcoin makes it more impervious to exploitation ¡ª the larger the community, the more secure Bitcoin¡¯s blockchain is against malicious intentions like hacks.
+
+As the first cryptocurrency, Bitcoin has reputation and early-stage value. It also set the stage for what a decentralized currency should look like, and proved that the concept can, in fact, work. Within a decade, it became a global experiment.
+
+That being said, Bitcoin may not be the answer. While Satoshi Nakamoto¡¯s original vision of Bitcoin was for ordinary citizens to participate in the transaction-updating process and be rewarded with Bitcoins using little more than an Internet-connected computer, some users realized that more powerful processors had an advantage of being faster in updating transactions (to be a little more technical, Bitcoin uses the SHA-256 hashing algorithm, which can be parallelized by the processors to speed up the hashing process), which would result in more rewards. Nowadays, only very expensive specialized computers called Application-specific Integrated Circuits (ASICs) have a chance at earning Bitcoin rewards.
+
+The downside of this hashing advantage, though, isn¡¯t that ordinary citizens can¡¯t participate; rather, it consumes a lot of energy. According to Digiconomist, maintaining the Bitcoin blockchain current consumes about the same amount of energy per year as the country of Algeria. The estimated costs are currently at a little under $3 billion. And the carbon footprint of a single Bitcoin transaction is equal to the same carbon footprint of about 510,000 VISA card transactions.
+
+The reality is, the Bitcoin blockchain does not need to consume this much energy. It is designed so that the race to update transactions will always result in a winner approximately every 10 minutes, whether it¡¯s one computer or a million computers. The energy consumption is largely driven by competition for profit, i.e., greed. If the Bitcoin blockchain can solve this issue, it can be a stronger candidate for global adoption.
+
+A separate common, but flawed, argument that critics reference to question the legitimacy of Bitcoin is that it is a money used for illicit activities. But illegal activities have existed long before Bitcoin, and will continue to exist regardless of Bitcoin¡¯s fate. The same tools can be an instrument of progress or destruction in different hands. Just as Bitcoin transacting is suspicious when buying drugs on the Internet, cash transactions are suspicious when buying guns of Craigslist. As the saying goes, when there¡¯s a will, there¡¯s a way.
+
+The Emergence of Value
+
+Despite no longer being backed by gold, the U.S. dollar is still worth $1 because the United States government¡¯s existence backs the U.S. dollar. The same argument is made for the existence of essentially every currency today ¡ª they are government-backed.
+
+Ultimately, though, the argument of value existing due to government consensus and promise is an argument of collective imagination and acceptance ¡ª it can be said that equally as important as government backing is the nation (in many cases today, global) agreement that the currency is worth something and therefore transact it.
+
+While the latter exists in the cryptocurrency world, there is no governing body of value that can guarantee the worth of cryptocurrency, and therefore, cryptocurrency has historically struggled to find an acceptable identity as a currency of value beyond speculation. But in late 2015, that started changing with the rapid emergence of smart-contract Initial Coin Offerings (ICOs) on Ethereum.
+
+An ICO is a fundraising event where early adopters of a new coin can get what they believe would be a special price by buying in on the early stages of the project using an existing cryptocurrency like Ethereum. For example, if I wanted to create a coin called FoodieCoin, I can launch an ICO to tell people about my vision for the importance of FoodieCoin, and set an early buy-in price of 500 FoodieCoins for 1 Ethereum. Investors who are interested and see the potential value can then buy in. Currently, ICOs walk a fine line between what can and can¡¯t be done under regulation, so if you do intend on participating, tread with caution ¡ª I¡¯m not a lawyer or accountant and this should not be misconstrued as legal or investment advice, I¡¯m simply providing a definition and example of what an ICO is.
+
+Today, when you browse CoinLib.io, you¡¯ll see over 3,300 different cryptocurrencies. A majority of them exist as an Ethereum token, born out of ICOs. While many of them can arguably be labeled as a ¡°shitcoin¡± (a coin with no actual value that was created for pure financial gain of its creators), new and interesting projects are emerging purely in the cryptocurrency space. From marketplaces similar to eBay to ride-share platforms similar to Uber, a new economy is being constructed that can only be used by transacting cryptocurrency. In its infancy, many of the ideas are likely to fail, and the majority of all ideas are not entirely original; rather, they are a transference of existing ideas from the existing realm of technology, ported over to the cryptocurrency economy.
+
+But this type of transformation layers the foundation for innovation moving forward. We have seen it many times in economic transformations of nations; the most recent example is China. After adopting an open-door policy in 1978 that enabled it to more easily trade with other nations, China became the world¡¯s industrial empire. As its economy grew, the nation started to become more technologically savvy, not initially through innovation, but from copying business models of existing technology companies in the rest of the world. Essentially, it had begun the process of transferring over existing technologies and ideas into its nation. Fast-forward to today, and China¡¯s technology innovation and prowess is what other countries are trying to replicate. It¡¯s not unusual to see a feature on Facebook that was in a similar Chinese app years before. Cryptocurrency innovation may soon become privy to the same fate.
+
+What are the Next Steps?
+
+Cryptocurrency is a barely regulated space that exists on a collective user consensus of value. Whether the future will be Bitcoin, some other existing cryptocurrency, or one that¡¯s yet to be created, the reality is that the turbulent path of the crypto market is on the right track for a potentially huge transformation for innovation on a global scale.
+
+Economically, money has evolved over thousands of years from trading shells to rectangular plastic, each to suit the needs of its time and population. Today¡¯s time involves not a national population, but a global one; as a result, the eventual replacement of a current money system is under pressure. That statement isn¡¯t a promise to Bitcoin hopefuls, or a threat to existing institutions. It¡¯s just an observation from a glimpse into the evolution of money.
+
+If you like what you¡¯ve read and want to help support my writing, please consider the following options:
+ Join EARN with my referral link. EARN is one of the best ways to participate in Airdrops. It has exclusive airdrops with some good partners, and the partners actually pay you $1 worth of BTC to participate in Airdrops, too. Also, you get $1 for signing up.
+ Sign up through my Binance Referral Link if you haven¡¯t gotten a Binance account yet. It gives me a percentage of trade fees, so at least you know some of your fees are going to a good cause!
+ Bitcoin donations are very cool, too: 345VJjDeu4c2L4QvcbTr3GZtW8Zwph2jUr
+
+Come find and chat with me!
+
+If you liked this article and are interested in topics related to cryptocurrency and cryptocurrency investing, give me a follow on Medium:
+
+You can also follow me Twitter to reach out to me:
+
+And you can always get my latest publications direct to your email by subscribing below:

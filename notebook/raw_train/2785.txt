@@ -1,0 +1,19 @@
+Bitcoin exchange MtGox is now displaying a login screen for users to check their balances, instead of the legal notices it has displayed for the past few weeks.
+
+Late last month the Tokyo-based service filed for bankruptcy protection, according to Japanese media reports. A lawyer representing the company made a statement at the Tokyo District Court on February 28 and claimed that the company had outstanding debts of 6.5 billion.
+
+Rumours also circulated that 744,000 bitcoin, the equivalent of 251 million , had been stolen. The amount equates to six per cent of all the coins in circulation.
+
+The website provided a way for customers to exchange US dollars for bitcoins, a digital cryptocurrency that has soared in price over recent years but remains largely unregulated.
+
+It remains unclear when users will be able to access their bitcoins.
+
+A message on the site read: ¡°This balance confirmation service is provided on this site only for the convenience of all users. Please be aware that confirming the balance on this site does not constitute a filing of rehabilitation claims under the civil rehabilitation procedure and note that the balance amounts shown on this site should also not be considered an acknowledgement by MtGox Co., Ltd. of the amount of any rehabilitation claims of users.¡±
+
+In the days leading up to MtGox's collapse, the exchange was reportedly attacked 150,000 times per second by hackers issuing distributed denial-of-service (DDoS) attacks.
+
+MtGox was founded in 2010 by programmer Jed McCaleb, who sold the company to Tibanne Co. in March 2011. It became the world¡¯s largest marketplace for bitcoins, handling an estimated 80 per cent of all transactions of the digital currency.
+
+Earlier this month more than 400 people signalled that they would join a class action lawsuit against MtGox, according to British law firm Selachii.
+
+It is the latest effort to try to reclaim some of the hundreds of thousands of lost bitcoins from the exchange.

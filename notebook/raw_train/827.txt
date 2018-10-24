@@ -1,0 +1,25 @@
+A crypto-currency exchange in South Korea is shutting down after it was hacked for the second time in less than eight months.
+
+Youbit, which lets people buy and sell bitcoins and other virtual currencies, has filed for bankruptcy after losing 17% of its assets in the cyber-attack.
+
+It did not disclose how much the assets were worth at the time of the attack.
+
+In April, Youbit, formerly called Yapizon, lost 4,000 bitcoins now worth $73m (55m) to cyberthieves.
+
+South Korea's Internet and Security Agency (Kisa) which investigates net crime, said it had started an enquiry into how the thieves gained access to the exchange's core systems.
+
+Kisa blamed the earlier attack on Youbit on cyber-spies working for North Korea. Separate, more recent, attacks on the Bithumb and Coinis exchanges, have also been blamed on the regime.
+
+No information has been released about who might have been behind the latest Youbit attack.
+
+In a statement, Youbit said that customers would get back about 75% of the value of the crypto-currency they have lodged with the exchange.
+
+It said it was "very sorry" that it had been forced to shut down.
+
+The exchange added that the hackers did not manage to steal all the digital cash it held because a lot was lodged in a "cold wallet" - a secure store used to hold the assets that were not being traded.
+
+Youbit was one of the smaller exchanges active in South Korea. The majority of Bitcoin trading in the country is done on the Bithumb exchange which has a 70% market share.
+
+More and more cybercriminals have tried to cash in on the boom in virtual currencies such as Bitcoin. Many have created malware that seeks to use victims' computers to create or "mine" valuable currencies. Others have simply attacked exchanges and other crypto-cash service firms to get at large numbers of bitcoins at once.
+
+Earlier this month, hackers got away with more than $80m in bitcoins from NiceHash, a Slovenia-based mining exchange.

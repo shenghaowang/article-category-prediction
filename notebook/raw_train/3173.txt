@@ -1,0 +1,23 @@
+So you＊ve created a video game. Naturally, you＊re proud of the result after months of all-nighters spent programming and debugging the source code. Your game includes ideas, puzzles, game concepts, and user interfaces that no game has ever had. You＊ve created artwork and graphics that are sure to enthrall even the most skeptical of gamers. Your game is most assuredly destined to be Game of the Year!
+
+Too bad someone stole it and published it before you did. All your ※guaranteed§ profits gone in a flash. But that＊s ok, because software is or at least should be free to copy, right? By becoming a software developer you have automatically bought into the notion that software should be open source, right? Who needs to be fairly compensated for their efforts when ramen noodles are 3 for $0.99?
+
+You disagree? Ok, if you are actually upset that someone would copy your work, and want to know how to stop them from such illicit behavior in the future, read on. This article discusses the basic types of intellectual property 每 patents, copyrights, trademarks and trade secrets 每 and how to use them effectively to protect your video game. With a little advanced planning and basic knowledge of intellectual property, your video game will be protected ＃ at least from a legal perspective.
+
+Patents, copyrights, trademarks and trade secrets each serve to motivate innovators to create new and exciting games by providing various protections for their efforts. For example, the patent system encourages innovation by promising inventors a short period of exclusivity if they come forward with their inventions.
+
+Without copyright protection, there is little incentive for authors and artists to create new creative works, because they naturally would be hesitant to create works that others could copy willy nilly without compensation to the artist (those ramen noodles sure are tasty, huh?).
+
+Trademarks help ensure that the name you＊ve made for yourself stays yours. And finally, trade secret law helps those who decide to keep their technology secret, like the famously secret formula for Coca-Cola. The discussion below is a short walk through these forms of intellectual property.
+
+Trademarks protect the goodwill and reputation associated with your company or video game as a brand. A trademark 每 any name or symbol indicative of a source of origin of a product or service 每 is arguably your most valuable business asset, and is perhaps also the most recognizable form of intellectual property. You can hardly drive down a major road without encountering a sign for a McDonalds restaurant, a Coca-Cola soda, or Nike shoes. Many consumers purchase goods and services based on name recognition alone, e.g., EA or MADDEN.
+
+There are two ways to protect your trademark from being copied. The first is through state trademark laws. Each state offers trademark protection based on the use of the trademark in that state. The second more common (and more effective) way is to register the trademark with the U.S. Patent and Trademark Office (USPTO), which provides protection throughout the United States.
+
+Registered trademarks offer advantages over non-registered trademarks, and allow you to use the  symbol. Once a trademark is registered, no other entity can use any name or mark that is identical to or is likely to cause confusion with your registered trademark anywhere in the U.S.
+
+An exception arises where the other entity proves that it was using its trade name or mark prior to your trademark registration, in which case the other entity might have limited rights to use their name or mark in their geographic location.
+
+How does this affect your video game? Your trademark serves as a source of origin for your game. It is your reputation, your lifeblood. You want gamers to hear your name and know that the game is going to be phenomenal. Without trademark protection, someone else can adopt the same name as you to produce games.
+
+However, you have no quality control over their games, and they could ruin your public reputation and the goodwill you have worked so hard to create. Trademark registration is relatively inexpensive (current registration fee is no more than $375 per class of goods and services), and is typically the first form of intellectual property protection any venture formally secures.

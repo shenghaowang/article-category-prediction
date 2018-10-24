@@ -1,0 +1,63 @@
+LONDON (Reuters) - In July 2006, during lunch at an upmarket restaurant overlooking the sprawling Smithfield meat market in the City of London, Bank of England officials and senior bank dealers discussed evidence of potential manipulation of the foreign exchange market. People at the lunch said the attempts to move the market meant the process of establishing official prices - known as ¡°fixing¡± - was becoming ¡°increasingly fraught¡±.
+
+It was two years before the issue was discussed again, according to minutes from the meetings, released after a Reuters freedom of information request, and seven years before the Financial Conduct Authority (FCA), Britain¡¯s financial regulator, kicked off a global investigation and banks started to suspend or layoff traders.
+
+The FCA probe focuses on whether traders used advance knowledge of customer orders to try and manipulate benchmark foreign exchange rates for their own gain, and is a blow to the ¡°hands off¡± approach to regulating the world¡¯s largest financial market.
+
+The fact that Bank of England officials knew about possible manipulation and seemingly did not act, raises questions for one of the world¡¯s most powerful central banks. A central bank employee has been suspended and an internal probe launched into allegations its staff condoned or were aware of market rigging.
+
+The Bank said that an internal review had so far found no evidence that its staff colluded in any manipulation or shared confidential client information.
+
+British lawmakers will next week question Bank of England boss Mark Carney, and other officials about their oversight of currency trading in London, the global hub for foreign exchange (FX).
+
+Regulators have compared the alleged manipulation to the rigging of benchmark interest rates, or Libor, two years ago. Back then, Barclays released an email written by its then chief executive, Bob Diamond, that appeared to suggest Paul Tucker, the former deputy governor of the Bank of England, had known that Barclays was submitting artificially low rates to the Libor-setting process during the financial crisis.
+
+Tucker later told a parliamentary committee that he did not know or approve of the ¡°low-balling¡± of Libor submissions.
+
+Of course, much has changed in the six years between that London lunch and now. Back then, ¡°financial centers were inclined to avoid excessive over-burdening of financial institutions in order to keep their centers competitive,¡± said Lorenzo Bini Smaghi, a former member of the executive board and governing council at the European Central Bank. Now ¡°the pendulum has changed from light touch to much more intrusive regulation.¡±
+
+But the latest scandal underscores that even in the new world of regulation and supervision that followed the 2007-08 financial crisis, the market for foreign exchange, with daily volumes of $5.3 trillion, remains one of the least regulated anywhere.
+
+Operating 24 hours a day, across all time zones, the foreign exchange market - unlike that for shares or commodities - does not have a centralized location for trading. Participants deal directly with one another either over the phone or electronically.
+
+Various financial centers have developed voluntary codes of conduct for FX trading but they are not legally binding. In FX, unlike on the stock market, short-selling or betting on a fall in the price of an asset is virtually unrestricted.
+
+This arrangement has worked on many levels. Despite the market¡¯s size, foreign exchange trading is really a cash transaction between two counterparties that does not create the sort of systemic risks seen in other markets, such as credit derivatives, which blew up in 2008.
+
+The ease of buying and selling foreign exchange has boosted global growth, helping to smooth the path of international trade. Daily foreign exchange volumes have trebled since 1998, according to data from the Bank for International Settlements.
+
+¡°The FX market is the world¡¯s biggest fruit and vegetable store,¡± said Jim O¡¯Neill, a former chief currency economist at Goldman Sachs and currently visiting Research Fellow at Bruegel, a Brussels-based think tank.
+
+¡°It is the most transparent and liquid market on the planet.¡±
+
+Some 40 percent of all FX trades take place in London. The British capital¡¯s heritage as the centre of a vast, trading empire, along with its English language and time zone between Asia and America make it a natural venue for FX dealing.
+
+The Bank of England does not have formal regulatory oversight of the FX market. The FCA is in charge of monitoring markets for misconduct such as insider trading and collusion. But the BoE does maintain close relations with senior foreign exchange dealers to ensure it knows what is going on in the market and to fulfill its remit to uphold financial stability.
+
+The Bank has chaired an industry committee made up of dealers, brokers and corporate treasurers since 1973. On the initiative of Bank of England chief dealer Martin Mallett, it created a smaller group in 2005 made up of senior dealers.
+
+This sub-group, chaired by Mallett, held its inaugural meeting at Imperial City, a Chinese restaurant close to the Bank of England, according to the minutes released this week.
+
+It continued to meet in a series of eateries, including an Argentinian steak house, until late 2007 when banks¡¯ offices were used instead.
+
+After 2006, concerns over manipulation around the fixing were only raised again in meetings in 2008 and April 2012.
+
+The meeting in April 2012 is now critical to the whole saga. It was held at the offices of French bank BNP Paribas as the UK media exposed electronic messages showing how traders colluded with each other to rig the Libor market. Traders told Mallett that currency dealers were using chat rooms to pool information before benchmark FX rates were fixed.
+
+A source familiar with the investigation said that Mallett told senior dealers at that meeting not to take notes and not to expect minutes about that part of the debate. Mallett could not be reached for comment. The Bank of England has said it has reviewed emails, minutes and other documents as part of its internal review into the FX allegations. It declined further comment.
+
+At least one trader has filed his own personal account of the meeting with Britain¡¯s Financial Conduct Authority (FCA), ¡°for safekeeping,¡± according to a person who has seen the notes. The FCA has declined to comment.
+
+The scandal has the potential to shake up the way the foreign exchange market operates.
+
+The fluid nature of FX markets suits governments and central banks which want the freedom to intervene in order to support their currencies. Many traders argue that itself amounts to market manipulation.
+
+The lack of regulation also makes the foreign exchange market susceptible to abuse from private traders. During the 1980s and 1990s, there were instances of traders and brokers trying to collude to manipulate the price of certain currency pairings.
+
+Traders expect the latest scandal to accelerate the trend towards more trading on electronic platforms and push more dealing on to exchanges.
+
+Official attitudes towards market misconduct have hardened since taxpayers had to pour trillions into saving the global financial system. Banks themselves have been quick to react to the FX probe, suspending or dismissing 24 traders, handing over reams of data to regulators and cracking down on the use of online chat rooms, where groups of traders allegedly hatched plans to rig rates using names such as ¡°The Cartel¡±, according to sources familiar with the matter.
+
+No one has been charged with any wrongdoing, but banks know the trouble they could face. The international investigation into Libor manipulation saw 10 financial firms fined $6 billion and 13 individuals charged.
+
+Martin Wheatley, chief executive of Britain¡¯s financial watchdog, said last month that the allegations in the FX probe were ¡°every bit as bad¡± as Libor, but warned that it would likely be next year before he is able to publish the findings of his review.

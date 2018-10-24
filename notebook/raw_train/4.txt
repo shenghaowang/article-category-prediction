@@ -1,0 +1,9 @@
+Anonymous hackers on Sunday claimed to have published evidence that Mt. Gox CEO Mark Karpeles lied about the theft of more than $500 million worth of bitcoin. According to the hackers, Karpeles still controls all of the cryptocurrency he says was stolen recently in the biggest heist of bitcoin¡¯s brief history. Mt. Gox was the world¡¯s largest bitcoin exchange until about 850,000 bitcoin were allegedly stolen during a breach, forcing the exchange to shut down and file for bankruptcy protection. According to new claims from anonymous hackers, however, the heist never occurred and Karpeles still controls nearly 1 million bitcoin worth approximately $596 million at Monday¡¯s exchange rate.
+
+According to a report from Forbes, the anonymous hackers took over Karpeles¡¯s blog and published a post supposedly exposing fraud committed by the CEO. The post was also published on Pastebin.
+
+¡°It¡¯s time that MTGOX got the bitcoin communities wrath instead of Bitcoin Community getting Goxed,¡± the hackers wrote. ¡°This release would have been sooner, but in spirit of responsible disclosure and making sure all of ducks were in a row, it took a few days longer than would have liked to verify the data.¡±
+
+The hackers¡¯ note was accompanied by a file containing what they claim to be evidence of fraud. They say that they have managed to obtain various personal data belonging to Karpeles, including what they claim to be evidence that Mt. Gox¡¯s current bitcoin balance is in fact 951,116, which would mean that the 850,000 bitcoin the exchange claimed was stolen is still in its control.
+
+As Forbes noted, however, the evidence may in fact simply reveal remarkably poor accounting practices at Mt. Gox, a former hub for trading ¡°Magic: The Gathering¡± cards, rather than fraud.

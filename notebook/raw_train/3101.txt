@@ -1,0 +1,19 @@
+Massive distributed denial-of-service (DDoS) attacks plagued Mt. Gox in early February, not long before the former world＊s biggest Bitcoin exchange was hit by an alleged separate attack that bankrupted the Tokyo-based company, according to a report.
+
+The Yomiuri Shimbun, a Japanese newspaper, reported on Sunday that Mt. Gox systems were accessed as much as 150,000 times per second over the span of several days, with most of the attacks coming from servers in the U.S. and Europe.
+
+The early February timeframe of when the DDoS attacks occurred coincides with when attackers began taking advantage of vulnerabilities in the exchange＊s system with the hopes of stealing Bitcoins, according to the report.
+
+One malicious party was able to do just that, according to Mt. Gox CEO Mark Karpeles, who revealed this month that the company lost 750,000 customer Bitcoins and 100,000 of its own Bitcoins in an attack 每 which adds up to more than half a billion dollars.
+
+The company filed for bankruptcy in Japan on Feb. 28. In the bankruptcy documents filed in the U.S. on Sunday, the exchange asserts that hackers took advantage of ※a flaw in the software algorithm that underlies Bitcoin.§
+
+Alleged hackers, who claimed to have nothing to do with stealing the Mt. Gox Bitcoins, posted a message from Karpeles＊ compromised blog on Sunday that called out the exchange＊s CEO as a liar. They provided evidence 每 which is considered authentic by some Bitcoin users 每 indicating Mt. Gox was in possession of more than 950,000 Bitcoins.
+
+In a Tuesday email correspondence, Frode Nilsen, a developer with five years of experience working on banking applications with money transactions, told SCMagazine.com that he wonders where the more than 100,000 Bitcoins have gone that Mt. Gox did not claim were lost.
+
+※Unlike regular banks, which practice fractional reserve banking, Mt. Gox was supposed to have backing of 100 percent of the deposited Bitcoins,§ Nilsen said. ※So when the balance says 951,116 Bitcoins, they＊re supposed to have ownership of 951,116 Bitcoins.§
+
+Nilsen pointed to a lengthy theory posted on Bitcointalk.org by a user named Peter R, in which Peter speculates that one million Bitcoins sent to Mt. Gox in 2011 were taken that year by hackers who gained access to the exchange＊s servers and executed fake trades 每 subsequently setting off the chain of events that led to today.
+
+※I still believe there has been a substantial theft of BitCoins at some point,§ Nilsen said. ※But maybe it＊s further behind in time than most people think. [Peter R＊s theory is] a more plausible theory than ※Mark Karpeles took it all,§ in my opinion.§

@@ -1,0 +1,19 @@
+Mt. Gox¡¯s former customers may¡ªamazingly¡ªend up with more money than they lost when the infamous bitcoin exchange collapsed into bankruptcy in 2014.
+
+In yet another surprising turn, a court decided last week (pdf) that creditors are entitled to receive their claims in bitcoin rather than the fiat equivalent at the time the bankruptcy began. The difference is potentially worth hundreds of millions of dollars, depending on how the value of bitcoin holds up in the coming months.
+
+Let¡¯s recap: Tokyo-based Mt. Gox began bankruptcy proceedings in 2014 (pdf) after then-CEO Mark Karpel¨¨s realized the exchange had lost its customers¡¯ holdings of 850,000 bitcoins, worth around $414 million. Hackers had been siphoning bitcoins out of the exchange in what became the biggest bitcoin theft in history.
+
+Karpel¨¨s later discovered that he had misplaced some 200,000 bitcoins that hadn¡¯t been stolen¡ªmoney that has been frozen by bankruptcy estate. The rest of the bitcoins were likely converted into fiat money and probably lost for good; the US Justice Department said in July (pdf) that Alexander Vinnik had been arrested for money laundering and linked him to the hack that felled Mt. Gox.
+
+Last week, Tokyo District Court halted Mt. Gox¡¯s bankruptcy and started a civil-rehabilitation process, which means creditors, as they had been hoping, can be repaid in Mt. Gox¡¯s actual assets (such as bitcoin) rather than the fiat cash they were owed in 2014.
+
+Bitcoin¡¯s stunning rally from about $485 at the time of the bankruptcy to $6,150 these days has made a big difference. Bankruptcy creditors were owed about 45 billion yen ($414 million) when the exchange imploded, but the value of the 166,344 bitcoins and 168,177 bitcoin cash, an offshoot, held by Mt. Gox¡¯s trustee as of March (pdf) is now worth more like $1.2 billion.
+
+Mind you, that¡¯s down from nearly $4 billion in December as this year¡¯s bear market grinds bitcoin steadily lower. As of March, the trustee also had 44 billion yen ($401 million) in fiat money after selling some bitcoin and bitcoin cash. In a sign of remarkably savvy market timing, the trustee sold bitcoin (pdf) between December and February when bitcoin¡¯s rally crested at about $19,000.
+
+As for Karpel¨¨s, he was arrested in 2015 and held in jail for almost a year on charges of embezzlement, manipulation of electronic data, and breach of trust. He¡¯s still on trial in Tokyo, according to Fortune, but told the publication he¡¯s glad the digital assets will go to Mt. Gox creditors via civil rehabilitation. Had a bankruptcy bonanza gone to Karpel¨¨s, it may have invited a wave of lawsuits.
+
+A few things still have to go right for former customers to get their Mt. Gox jackpot. The size of the unexpected gain will depend on the duration of bitcoin¡¯s latest bear market. Creditors have until October to file their proof of rehabilitation claims and a proposal plan is due by Feb. 14, 2019. Some have sold their claims to third-parties who speculated on the outcome, and so will no longer be entitled to the windfall.
+
+Forgotten passwords could also be an obstacle: Some creditors have forgotten or deleted the credentials needed to make a claim, if chatter on the sub-Reddit for Mt. Gox creditors is anything to go by.

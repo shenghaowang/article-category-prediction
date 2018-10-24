@@ -1,0 +1,5 @@
+Snapshot of data for a fixed period (data will not change even if updated on the site)
+
+Copy the URL to open this chart with all your selections.
+
+Use this code to embed the visualisation into your website.

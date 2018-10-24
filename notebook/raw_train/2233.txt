@@ -1,0 +1,32 @@
+Times are Eastern Standard Time (GMT -5 hours), and are calculated for the longitude and latitude of New York City. Note that they have not been corrected for Daylight Saving Time; at the time of this writing, that means adding an hour for those times between the first Sunday in April and the third Sunday in October.
+
+The reason why I have not made this correction (as I did in my earlier moon tables) is that Daylight Savings Time may change in 2007; then you'd add an hour between the second Sunday in March and the first Sunday in November. Since I've grown weary of maintaining and tweaking this page, I'm going to let you do the math.
+
+After these tables, I have some notes on blue moons and how to perform your own astronomical calculations.
+
+Surprise! The common definition of a blue moon is wrong!
+
+Along with many others, I used to believe that a "blue moon" was a month with two full moons. However, research by Sky and Telescope shows that this was due to an error made by the magazine in 1946. The original definition is the third full moon in a season with four full moons (instead of the usual three).
+
+For my part, I like the original definition better. It relates one astronomical event, a full moon, with another astronomical marker, the solstices and the equinoxes. The "new" definition uses an imposed time scheme, the Gregorian calendar, for its definition.
+
+So from now on, I'm going by the old definition. If you prefer the newer definition, or you want to look for a "black moon" (the second new moon in a month)... well, you've got eyes and you've got a mind. Look for yourself in the table above. For either definition, consult this chart from Sky and Telescope for the dates of the blue moons for the next twenty years; past 2020 there's this chart which will take you to the end of the century.
+
+There are other definitions of a "blue moon." Someone wrote me with an obscure astrological definition: the second full moon that occurs in the same sign. There is also a drink called the Blue Moon, but I have found more than one recipe. The moon can appear blue as a result of rare meteorological conditions. Of course, there's always the conversational meaning of "a rare occurrence."
+
+For my part, as you can read below, I have no plans to research other definitions of the term. I only plan to revise this web page further once in a blue moon.
+
+I first put up these moon tables in 1994, and updated them every year or so. Then I put up tables in 2001 for the following five years. I used to receive e-mails on them, but I no longer do. Presumably, folks have discovered other, superior resources for the same information. Since apparently this web page is not as useful as it used to be, I don't feel a strong need to revise it. That's why I went through ten years worth of calculation at once in 2005. In 2015, I'll decide if I want to keep making them.
+
+In the past, I received several messages from visitors to this page asking various calendar questions (e.g., "How often are there blue moons?" or "When will there be a full moon on Halloween?"). I'm sorry, but I don't have time to be an astronomical calendar calculation service. However, you can find any number of freeware or shareware calendar programs on the net to answer such questions. Some resources are:
+ There are lots of lunar links on the MoonMenu page of Selznick Scientific Software.
+ Some common blue moon questions are answered on Oliquity.
+
+You can also do what I did and write your own programs. My sources for my astronomical calculations were:
+ Astronomy With Your Personal Computer by Peter Duffett-Smith
+
+You probably already have the necessary tools on your computer. Even if you don't have a programming language like C, C++, BASIC, or FORTRAN on your machine, the calculations are well within the capabilities of any spreadsheet program. The web browser you're using probably supports Javascript or Java (arithmetic isn't their forte, but you can give it a shot).
+
+Even if you have no additional software for your computer, you can still program them to perform arithmetic calcuations. On Macs you can use AppleScript, and I imagine something similar can be done with .COM files in Windows. (I used IGOR, because it was convenient at the time.)
+
+So if you're looking for a project that will teach you the basics of programming, calendar calculations are a good way to start.

@@ -1,0 +1,37 @@
+Future generations of Bitcoin billionaires may someday look back on 2014 with knowing smiles. Here was a year when thefts spread, exchanges collapsed, rates gyrated like a teenager¡¯s moods. And yet the buying of bitcoins showed no signs of abating.
+
+The past week was particularly extreme. The apparent suicide of an American business executive in Singapore was investigated for possible ties to her Bitcoin investments. A California man fingered as the currency¡¯s mysterious inventor reacted to his sudden fame by asking that journalists buy him lunch. After finishing his meal at a sushi restaurant, he went on to deny any role whatsoever in Bitcoin.
+
+Perhaps the most surprising development was that the virtual currency, despite wild fluctuations in value, continued to weather the mayhem. As the humans involved in the adventure looked increasingly vulnerable, Bitcoin looked comparatively solid, trading nearly 10 percent higher Saturday than a week before. Each bitcoin is worth more than $600 in recent trading.
+
+¡°Bitcoin works really well,¡± said Matthew Green, a Johns Hopkins University cryptographer who is working to develop a different virtual currency. ¡°All this craziness around Bitcoin isn¡¯t around Bitcoin itself. It¡¯s around the people.¡±
+
+Bitcoin, first issued in 2009, has gradually gained acceptance as a digital currency that, unlike dollars or euros, can move through the global trade system with low fees, relative privacy and no regulation. That has helped it flourish among technology enthusiasts and libertarians, as well as on marketplaces for illicit drugs and weapons.
+
+¡°It¡¯s completely Wild West,¡± said Garth Bruen, a security fellow at the Digital Citizens Alliance, a Washington-based advocacy group that combats online crime. ¡°There are a lot of people getting rich, and there are a lot of people stealing.¡±
+
+Bitcoin enthusiasts like to point out that the currency has proved resistant to tampering. The total number in circulation can never go beyond a set amount, and each bitcoin is protected by a distinct cryptographic code. If that code is lost, as has sometimes happened, the bitcoin disappears forever.
+
+But criminals have targeted the computers that store bitcoins in encrypted code, in depositories known as ¡°hot wallets.¡± Over the past two weeks, it has become clear they have succeeded spectacularly in breaking those systems.
+
+The most famous example is Mt. Gox, the Tokyo-based exchange that filed for bankruptcy Feb. 28. It started as a site to trade cards for a popular game but shifted very profitably to Bitcoin, at one point becoming the biggest site for buying the virtual currency.
+
+Mt. Gox relied on technology that experts consider easy to use but hard to secure against hackers. When the exchange declared bankruptcy, it reported having lost more $400 million from theft.
+
+¡°The [Bitcoin] system and protocol itself was and is still sound,¡± Dustin D. Trammell, a Bitcoin investor and security expert, said in an e-mail exchange after the Mt. Gox bankruptcy. ¡°The currency exchange rate is holding stable during the fallout, and it really goes to articulate that Mt. Gox was simply a single bad actor, whether it be intentionally or just incompetence, in an otherwise solid fledgling financial industry.¡±
+
+Flexcoin, a Bitcoin bank based in Canada, followed with its own bankruptcy this past week, again reportedly because of losses to hackers. Criminals apparently relied on an old trick ¡ª once popular against ATMs ¡ª of trying to withdraw money faster than a bank can rectify accounts, allowing what amounts to a double-dipping of available funds.
+
+Hobbyists and speculators built the first generation of systems for storing and exchanging Bitcoin, despite having little of the expertise needed to run financial institutions, Green said. ¡°Look at it like somebody built a skyscraper out of wood,¡± he said. ¡°That¡¯s what happened.¡±
+
+Amid the bankruptcies, news reports said that the suicide of a 28-year-old American woman in Singapore may have been related to her job as chief executive of a company that traded virtual currencies, and to her personal investment in bitcoins.
+
+The currency was created by a man who called himself Satoshi Nakamoto. Though the name was long thought to be a pseudonym, a Newsweek reporter found the California home of a Japanese American computer engineer who once went by that name before changing it several years ago.
+
+Presented with evidence that he was the Bitcoin inventor, the man appeared to confirm the discovery in an article posted online Thursday. But he recanted ¡ª after asking for lunch ¡ª when a mob of journalists appeared at his home. Newsweek has said it is standing by its story, which included other evidence and interviews with several of the man¡¯s relatives.
+
+Rising interest in Bitcoin has brought a flood of investments from venture capitalists, allowing for the development of exchanges that, experts say, are more likely to survive the attacks of hackers and other threats to the currency¡¯s stability. The number of merchants accepting bitcoins, meanwhile, has steadily grown, and several cities now have ATMs that trade in them, making exchanges easier.
+
+Bitcoins are traded directly between individuals, without a bank to act as an intermediary. The transactions are recorded on a Web-based public ledger, called a ¡°block chain,¡± that provides a measure of transparency but also allows governments and others to potentially analyze transfers to determine who owns bitcoins and how they are being used. The exchanges are required by laws in the countries where they operate to record who buys bitcoins.
+
+The block chain is scrutinized so carefully that it may be difficult for those who have stolen bitcoins to trade them without being discovered. Experts say it also would be impossible for Nakamoto, the inventor, to cash in any of his personal trove of bitcoins ¡ª rumored to be worth hundreds of millions of dollars ¡ª without finally and definitively revealing his identity.

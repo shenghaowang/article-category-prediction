@@ -1,0 +1,17 @@
+Since Turkey banned Twitter, almost 2.5m tweets have been posted from the country - around 17,000 tweets a minute.
+
+But how are Turkish users getting around the ban? Here are the three main ways Turkey is still tweeting despite their prime minister¡¯s vow to ¡°root out¡± the social network.
+
+The simplest way to circumvent the Twitter ban is to send tweets via SMS - a method suggested by Twitter¡¯s policy team as news of the ban spread.
+
+According to Twitter¡¯s support page, users can send and receive tweets through short codes associated with supported networks - in Turkey, these are Avea, Vodafone and Turkcell. Only Turkcell supports MMS, which means only users on this carrier will be able to send pictures with their tweets.
+
+After Erdogan announced the Twitter ban, many Turkish news websites published instructions on how to change the domain name settings (DNS) on computers and mobile devices to conceal their geographic whereabouts. In short, using just two numerical codes, users are tricking their device into thinking they¡¯re using it from somewhere other than Turkey.
+
+Users can change their DNS by changing two codes which act as an identifier for the device they are using. Head of the webspam team at Google Matt Cutts tweeted the codes for Google¡¯s Public DNS:
+
+One tweeter found graffiti in Istanbul with the same DNS codes:
+
+A virtual private network allows internet users to connect to the web undetected, thus allowing them to access restricted sites like Twitter. A number of apps and third-party services offer this service. In June last year, as unrest in the country grew, more 120,000 people in Turkey downloaded Hotspot Shield, a free mobile app which provides a VPN.
+
+Are there more ways to get around Turkey¡¯s Twitter ban? Let us know in the comments below.

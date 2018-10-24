@@ -1,0 +1,63 @@
+A top four tech company recently approached the CEO of one of our B2B portfolio companies with a tremendous offer. This company, with buy-in from its world-famous CEO, believes the startup¡¯s core technology could help them catch up to a rival in an incredibly important space and wanted to discuss a $20M investment on extremely favorable terms. This partnership would allow the startup to grow 10X in a year and would provide invaluable validation.
+
+The founder was elated. I was terrified. This kind of deal is a classic ¡°whale hunt,¡± and most of the startups who engage in them are doomed to end up like Captain Ahab.
+
+While it¡¯s immensely gratifying to receive this kind of validation from a market leader, the startup is at an early and important developmental stage. I¡¯ve seen many promising startups blown up by ill-advised business development deals that swelled teams in a bout of euphoria only to see them wither if interest and focus from their partner wanes.
+
+In my experience, arrangements that pair a behemoth megacorp with a Seed/Series A stage startup have a success rate well below 50%. I didn¡¯t tell the founder to decline the offer outright, but I did suggest that the management team consider a few questions before pursuing it.
+
+How much MRR will it add to your business? The project with the large company is in line with the startup¡¯s long-term vision, but it¡¯s a departure from their current focus. A $20M investment is very nice indeed, but once that money is spent, what will the ongoing revenue be? And what is the opportunity cost of not supporting the current business plan? What discount rate will you apply to compensate for the small probability of this deal working out? My advice was that if he couldn¡¯t satisfactorily answer those questions, it was probably the right move to turn the deal down. Even if the deal was structured as $20M in revenue rather than equity I¡¯d hesitate.
+
+How, in detail, will this project help your core business? There¡¯s an argument for entering into an agreement like this even if the immediate revenue contribution is low. If the project will allow the startup to speed up the development of a core technology that is generally applicable to other customers, it would seem far more worthy of consideration but beware our human ability to rationalize (first and foremost to ourselves).
+
+These projects more often end up as bespoke development engagements where despite the initial intention, the startup is producing a custom application for the big co. Founders will rationalize the deviations from their product roadmap, but ultimately sell out their future for a long-shot opportunity to integrate with a worldwide leader.
+
+My advice is to not think magically about product/market fit, and instead, to try pre-selling it to other customers as a form of market development. If you can sell the product, great! If not, you¡¯re probably using venture capital to subsidize the R&D budget of a company worth hundreds of billions of dollars.
+
+What happens if this doesn¡¯t work out? It¡¯s easy to visualize success, but what happens if the deal doesn¡¯t lead anywhere? In this scenario, imagine the big tech company decides to change its priorities and abandons the initiative. SaaS startups face a similar failure mode when they go to great lengths to impress big companies during pilot programs only to see their project die due to lack of interest. When considering a high-risk, high-reward partnership, founders need to spend time envisioning a gruesome demise.
+
+¡ñ What will your pitch be for a bridge round of financing when you have no revenue, you just came up short during a prolonged engagement with the best possible customer in your industry?
+
+¡ñ How will you reassure your most talented team members that you know what you¡¯re doing when the deal fails, and capital is running short?
+
+¡ñ How quickly can you reorient the company to focus on other customers and how quickly will you start generating revenue from them?
+
+How well do you understand the Big Company? Founders with little exposure to big companies are susceptible to misreading cues. My partner Eric Paley wrote about how entrepreneurs regularly misread their likelihood of getting funding from VCs, and the pattern is similar with this kind of business development deal.
+
+When I started an ISP in South Africa in the 1990s, I had the chance to pitch the executive team at the country¡¯s equivalent to Walmart . We were talking about the upcoming Olympic Games, which they were sponsoring. I asked if they were bringing their biggest customers to the events. One of the VPs looked at me, bewildered, and said: ¡°Your mother may well be our biggest customer.¡±
+
+I instantly realized they didn¡¯t have big customers; they were a big customer. Their suppliers took them to the Games and fancy dinners. I felt silly at the moment but learned a valuable lesson about B2B power dynamics. Here are some other dynamics to be cautious of:
+
+Are You Aware of the Work Pace Differential?
+
+Startups measure their survival quarter to quarter while big companies plan in five-year increments. It¡¯s often shocking how slowly big company partners move on everything from email to product roll-outs. Decisions made by gut feel at startups have to navigate a maze of meetings and committees at a big company. Startups often drown in the number of process leviathans require to make the smallest of improvements.
+
+Who are the Internal Champions?
+
+Promising projects can die on the vine because the internal champion gets reassigned or leaves the company. Successful partnerships will involve multiple high-level people from the larger organization. They also typically involve the startup being paid a fair market rate or are paired with a strategic investment to help defray the burden of non-recurring expenses. If not, beware.
+
+Most sponsors will say their project is critical to the company, but it¡¯s the startups CEO¡¯s job to check that out. Founders should reference the opportunity in the same way they would reference an investor. This kind of deal is often an all or nothing bet on your company, don¡¯t make it too blithely.
+
+Is the Project a Priority for the CXO/VP?
+
+Partnerships between startups and big companies work best when it solves the problem of a VP or CXO level executive. Below that level, we¡¯ve seen startups spend large sums and risk their future on what amounts to a proof of concept project for a mid-level director with no real juice.
+
+This is especially common with startups who sell to retailers. Theoretically, the brick and mortar shops need a bulwark against Amazon, but in reality, we¡¯ve seen many of them default to more focused on protecting their physical retail turf rather than truly investing in online sales. They¡¯ll run pilots to assure investors that they have their eye on the future when in reality the efforts are more PR than a business plan.
+
+A $20M investment to a small startup is a massive deal. For a big company, it¡¯s essentially the size of an acquihire and can be shut down with no repercussions. In the context of a half-billion dollar company, $20M bets actually fail far more than a startup may appreciate.
+
+Are you competing with another startup?
+
+Is this project a ¡°bake-off¡± where multiple companies are competing? The most dangerous kind of whale hunting is when a startup is competing with one or more competitors to win a large book of business. Founders considering this kind of arrangement should give serious thought to skipping the process and building out a less concentrated revenue base with fewer impediments while your competitors fight to the death.
+
+Do you have a deep bench of vetted candidates ready to be hired? Founders often underestimate the challenge of growing 3-5X in short order. Every successful startup has to do this, but it usually happens more organically over time. The kind of business development deal our portfolio CEO is considering will change the company overnight.
+
+Entrepreneurs need to ask if they have a long list of former co-workers, peers, vetted candidates eager to join their company? If not, massively scaling the company to meet the demands of a major partner will likely lead to sub-par hires to fill an urgent need while slowly poisoning the company¡¯s culture. Money is rarely the most challenging part of hiring. Hiring fast when you control your destiny is hard enough, doing so in an uncertain arrangement can be very detrimental.
+
+Beyond hiring, it¡¯s important to view a partnership through the lens of Activity Based Costing.
+
+How much time will this take up? 50%? 80%? More? Will you have to drop existing customers or products to make the project work? Are you still able to grow the business outside of this partnership or is it genuinely all-consuming?
+
+Are You Ready for the ?
+
+If you can answer these questions confidently, then you may be ready to go whale hunting. When these projects work, they can be the first domino in a cascade that leads to growth and good places. More often, it results in a startup spending a year and a large chunk of its capital on a high-risk business development deal that more often fails to pan out. Chart your course accordingly.

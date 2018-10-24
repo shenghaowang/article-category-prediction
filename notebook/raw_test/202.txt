@@ -1,0 +1,27 @@
+Editor¡¯s Note: The following commentary originally appeared on the Financial Times website, and is based on data by the authors presented in the Financial Times¡¯ China Currency Tracker interactive feature.
+
+China is making steady progress on its path to making the renminbi an international currency. China continues to gradually open up its capital account, make offshore renminbi liquidity more easily available, and sign up more renminbi trading centers (London and Frankfurt most recently). To become a reserve currency, China also needs to let the renminbi¡¯s value be market-determined rather than being tightly managed relative to the U.S. dollar.
+
+On March 16th of this year, China took another step towards freeing up its currency. The daily trading band around the renminbi¡¯s central value relative to the U.S. dollar was widened from 1 percent to 2 percent in either direction. The reasonable expectation had been that this would lead to faster appreciation of the currency and more volatility. Instead, the opposite happened. Was the shift to a wider trading band just a head fake?
+
+First, some context. In the last two quarters of 2013 and the first quarter of 2014, China intervened massively in foreign exchange markets to prevent renminbi appreciation. Foreign exchange reserves increased by an average of $150 billion in each of those three quarters.
+
+So when the People¡¯s Bank of China (PBOC) took steps to increase currency flexibility, the natural presumption was that this was intended to ease the pressure on reserve accumulation by creating room for faster currency appreciation. This action was very much in line with the PBOC¡¯s longer-term objective of opening up the capital account and letting the currency float more freely.
+
+But the shift in policy created some short-term concerns. Fearing that market expectations could intensify the one-way bet on the currency and lead to faster appreciation than desirable, the PBOC tightened the screws. In March and April, reserves shot up by another $65 billion, hitting a total of nearly $4 trillion.
+
+This one-shot massive intervention sent a strong signal to markets that the PBOC would not hesitate to block what it regarded as too rapid appreciation. Markets got the message loud and clear. Short-term speculative money that had been betting on inevitable renminbi appreciation over the next year was swept off the table. From mid-March to the end of April, the renminbi depreciated relative to the dollar by about 2 percent. Reserve accumulation fell to less than $15 billion in May and June taken together.
+
+The story is not quite over, though. In August, China registered a record trade surplus of $50 billion (mainly due to weak import growth) and the renminbi hit a 6-month high against the dollar in mid-September. But appreciation pressures on the renminbi are likely to remain tempered as the economy seems to be losing growth momentum. The pricing of offshore nondeliverable forwards suggests that markets in fact expect the renminbi to depreciate modestly against the dollar over the next twelve months.
+
+Notes: The percent spread between the forward and spot exchange rates indicates market expectations of renminbi depreciation (positive) or appreciation (negative) relative to the dollar. Raw data from China Foreign Exchange Trading Center and Bank of China.
+
+However, the dollar¡¯s strength against other major currencies has lifted the renminbi¡¯s value against them as well. Since April, the renminbi has appreciated strongly against the euro (9 percent in nominal terms) and the yen (6 percent). Notwithstanding this recent appreciation, since the beginning of 2014 the renminbi has depreciated on a trade-weighted multilateral basis against its major trading partners by 2 percent in nominal terms and 4 percent in inflation-adjusted terms. See the China Currency Tracker for more details.
+
+Notes: An increase denotes depreciaton of the renminbi, decrease denotes appreciation. Raw data from China Foreign Exchange Trading Center.
+
+What has happened to renminbi volatility after the band was widened? Simple measures of volatility indicate that the day-to-day volatility in the renminbi¡¯s value relative to the dollar has in fact declined relative to its high level about a year ago. Since March 2014, the level of volatility has generally remained low although it has increased marginally this month. This is consistent with the pattern of volatility experienced by the G-3 currencies (dollar, euro, yen) over that period¡ªa calm summer followed by a recent uptick in volatility.
+
+Notes: Standard deviations of changes in daily exchange rates. Raw data from China Foreign Exchange Trading Center.
+
+Widening the trading band around the renminbi might not have had the effect expected by markets. But the PBOC seems to have accomplished its goal¡ªeasing up on its tight management of the currency while introducing two-way volatility and banishing the notion of a one-way bet on the currency. That certainly counts as progress.

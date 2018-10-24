@@ -1,0 +1,44 @@
+In the Philippines, more than 80% of shampoo from Unilever, Colgate and Procter & Gamble is sold in single-use sachets. This might seem puzzling to a Westerner who shops at Target or Costco and knows that the bigger the bottle, the greater the savings. After all, it¡¯s at least 20% cheaper to buy the same quantity in bottles.
+
+So why do low-income consumers tend to choose the more expensive option? The reason has to do with budgeting. Workers are paid weekly, and they figure their spending plans on a weekly basis too. If a consumable product contains more than is needed this week, they don¡¯t buy it. This focused behavior leads to novel innovation and marketing strategies, and if companies are under cost pressure, they would rather reduce the amount of product per sachet than abandon the price point.
+
+Ever since our Innosight Asia team opened our office in Singapore five years ago, we¡¯ve learned that when you enter an emerging market, you need to check your assumptions at the door. For unexpected reasons, a product or service that succeeds in the U.S. or Western Europe might not make any sense in Asia.
+
+Our article ¡°New Business Models in Emerging Markets¡± (HBR Jan-Feb 2011)1 showed that to build successful businesses in emerging markets, it is vital to integrate unique market needs into products and services. Here, we build on that study by emphasizing five practical insights that enable this kind of thinking. We¡¯ll illustrate these insights through the experiences of global corporations as they built their businesses in these markets.
+
+¡°The demand is so good, we run out of stock every day2¡°, says a mobile phone retailer in New Delhi, India. Most would associate this to a new blazingly-fast, sleek phone made by Apple, Samsung or LG, but this comment was for Nokia, that humbled giant of the mobile world. Nokia¡¯s Asha line of smartphones has touch screens, app stores, maps, camera and net connectivity¡ªall priced in the range of $70 to $110.
+
+So, what did Nokia do right with Asha? It began by studying the jobs-to-be-done of lower-income consumers and then building the value proposition around it. This led to some features that would make it unacceptable for the high-end users. For instance, the Asha screen is smaller than typical smart phones; the operating system is slower, and the chip powering it is not the fastest. But the price point is right for consumers who look to their phones as their main source of information and entertainment and to save on the expense of buying a radio or a camera.
+
+Making these trade-offs has been essential to deliver a phone that uniquely meets the needs of non-smartphone consumers. Contrast this with the approach that Nokia could have chosen to take. It could have simply stripped down its N90 smartphone rather than build up and create a hybrid model with features that match customer jobs.
+
+China has the world¡¯s largest number of diabetics¡ªwith more than 40 million patients. However, diabetes has been misunderstood in China. For instance, patients shun injecting insulin as it¡¯s associated with substance abuse. Physicians don¡¯t have the time to educate patients on risks and lifestyle changes needed to prevent complications from diabetes.
+
+Global healthcare leader Novo Nordisk recognized that it could only achieve the needed level of change in China by working together with a wide variety of stakeholders, including the Chinese government, physicians, and patients. The company built diabetes clinics, invested in community diabetes prevention programs, and launched several public-private initiatives in partnership with the Chinese Ministry of Health to develop diabetes guidelines, training, and health systems. The effort has resulted in Novo dominating the world¡¯s biggest diabetes market with 63%3 share¡ªdespite cheaper alternatives from other companies.
+
+Novo was able to pull off this development because of its global scale in resources, combined with understanding the local market challenges. The best companies balance the two extremes and beef up their local knowledge in two ways: First, by building a cadre of exceptionally well-grounded leaders in local markets who can credibly ¡°pitch¡± to the global organization for resources; and second, developing structures that enable conversations such as forums for deciding resource allocation.
+
+One of the clich¨¦s of successful businesses is to deliver superior value in products. However, as the shampoo sachet example shows, when operating in a low-income market, the short-term outlay for a service or product can be even more important than longer-term value. Across categories, the mindset of ¡®right price¡¯ is paramount and knowing these pricing cliffs will help make sure that the pricing/profit model is tuned to local contexts.
+
+The effects of outlay-conscious pricing can have significant impact on business models. Sachets, for example, require investments in more frequent replenishment systems, different distribution networks, and recurring payment mechanisms¡ªall of which are different from what would typically be the case in developed markets.
+
+4. Enable but don¡¯t force change in the environment
+
+Walmart and Carrefour entered China at similar times (mid-1990s), but Carrefour has had greater success, earning 40% higher revenue per store as compared to Walmart4 in 2011. One of the drivers for this difference in performance has been the way these companies approached the existing supply chain5,6.
+
+Walmart attempted to overcome logistical inefficiencies in China by implementing its famed centralized, highly controlled logistics system. This effort faltered due to unfamiliarity and resistance from local suppliers/distributers when it came to being monitored and controlled. By contrast, Carrefour was willing to adopt an ad-hoc, flexible supply system where goods are sourced directly from a revolving pool of local suppliers¡ªas long as orders met quality expectations and timeframes.
+
+The lesson: A more successful way to lead change is to do so only when the organization has earned the right from the market. This means giving other value chain participants the confidence that the ¡°cost¡± of going through the change is worth their while.
+
+General Motors has become China¡¯s leading car manufacturer, selling 2.5 million vehicles7 in 2011, despite its close shave with bankruptcy in the U.S. just a few years earlier. This success can be attributed to its partnership with SAIC, one of China¡¯s ¡°big four¡± automakers.
+
+By having a 49% stake in a GM joint venture7, SAIC had the incentive to do its best for its American partner. Despite concerns around IP protection, GM openly shared best practices and technology with SAIC8. This open stance has allowed GM to adapt faster to local needs than its competitors. By contrast, Toyota has not been nearly as successful in China (selling 800,000 cars9 in 2011) as it has tended to manage China operations from Japan. Until recently, R&D was conducted from Japan10, resulting in Toyota not being able to react as quickly to local needs.
+
+The key difference between a successful and failed partnership is having a trust-based mindset. If the going-in mindset is that the other party is out to take advantage of you, then there will always be conflict. Therefore, the role of leadership cannot be over-emphasized, as leaders set the tone for the organizations under them.
+
+To summarize, as more global corporations start doubling down on their investments in Asia¡¯s emerging markets, we believe that they need to build unique business models here. And to building the business models, be sure to design for the jobs of the emerging market consumers, leverage global scale to solve local needs, keep the pricing outlay in mind, earn the right to shape the market, and have the right mindset for building partnerships.
+
+Akshay Mehra is a Principal at Innosight. He has worked with clients in consumer product companies, medical devices and pharmaceuticals to identify disruptive innovation opportunities in their industries.
+ None Walmart and Carrefour in China (2011), Wuxia Wang and Isha Jha, University of Florida
+ None American Wheels, Chinese Roads: The Story of General Motors in China (2011), Michael Dunne
+ None Toyota reports sales of over 800,000 vehicles in China in 2011 (2012), http://in.news.yahoo.com/toyota-reports-sales-800-000-vehicles-china-2011-070604187.html

@@ -1,0 +1,35 @@
+The tech giant is expected to report adjusted EPS of $0.69 per share, up from $0.62 in the prior-year quarter, on revenue of $9.24 billion, according to third-party consensus analyst estimates. Revenue is projected to grow 1.1 percent year over year, the low end of management¡¯s guidance for 1 percent to 3 percent growth.
+
+Over the past eight quarters, ORCL has beat earnings estimates in seven of them. The only miss was during Q1 fiscal 2018. On the top-line, the company has either met expectations or beat them by a small margin in six out of the last eight quarters.
+
+The stock dropped following each of its four previous reports. The smallest move was a 3.8 percent decline the day after it reported Q2 fiscal 2018 results and the largest being a 9.4 percent decline the day after it reported Q3 fiscal 2018 results.
+
+Since this is typically ORCL¡¯s slowest quarter of the year, some analysts have indicated they¡¯re expecting this report to be a non-event, barring any unexpected surprises. Others are expecting to get more information about the company¡¯s cloud business at the Oracle OpenWorld conference taking place October 22 to 25.
+
+ORCL has been transitioning to more cloud-based services for several years now, although the path hasn¡¯t been as quick as management, or analysts, have been expecting.
+
+When the company last reported, it changed how it reported cloud results and they¡¯re no longer broken out separately from on-premise licenses and support. Management said they did this because of the launch of their ¡°build your own license¡± (BYOL) initiative that allows customers to transition on-premise licenses to Oracle Cloud, provided they continue to pay support for the licenses.
+
+In Q4 fiscal 2018, ORCL reported that revenue in the cloud services and license support segment increased 8 percent year-over-year to $6.8 billion, while cloud license and on-premise license revenues declined 5 percent year-over-year to $2.5 billion.
+
+President of product development Thomas Kurian, who was in charge of the company¡¯s cloud transition, just went on an extended leave, so analysts might be looking for some additional information about who will be running that division.
+
+These are two wild cards facing the company for tomorrow¡¯s report. The first one is the impact of the foreign currency exchange. When ORCL last reported, management said that unfavorable shifts in exchange rates would result in a 1 percent revenue headwind, when it was previously a 3 percent benefit. EPS is expected to be negatively impacted by three cents.
+
+Tariffs still represent a big point of uncertainty as some of them have been implemented, while others are still up for negotiation. While it¡¯s difficult to discern the end result, management might comment on how the business could be impacted under different scenarios.
+
+ORACLE 2018 CHART. Oracle dropped sharply following both of its previous earnings reports. The stock dropped $5.15 by the open the day after it reported in March, and it dropped $2.76 by the open in its most recent report in mid-June. It¡¯s since come back a decent ways from its 52-week low of $42.57, but has seen resistance as it gets closer to the $50 level. Chart source: thinkorswim by TD Ameritrade. Not a recommendation. For illustrative purposes only. Past performance does not guarantee future results.
+
+Options traders have priced in a 5.3 percent ($2.61) stock move in either direction around the ORCL¡¯s earnings release, according to the Market Maker Move indicator on the thinkorswim platform. Implied volatility was at the 70th percentile as of this morning.
+
+In short-term trading at the September 21 monthly expiration, calls have been active at the 49 and 50 strike prices. The 52.5 strike has also been heavily traded on the call side, although it¡¯s $3.25 higher than where the stock closed on Friday. Volume has been lighter on the put side, and concentrated at the 48 and 49 strikes.
+
+At the next few weekly expirations, as well as the October monthly expiration, there hasn¡¯t been much trading that stands out. Most of the activity has been at strikes right around the money.
+
+Note: Call options represent the right, but not the obligation, to buy the underlying security at a predetermined price over a set period of time. Put options represent the right, but not the obligation to sell the underlying security at a predetermined price over a set period of time.
+
+Outside of a few reports here and there, it¡¯s still pretty quiet for earnings. One of the next bigger companies coming up is Nike Inc. (NYSE: NKE), scheduled to release its results at 4:15 p.m. ET on Tuesday, September 25.
+
+That same week is the Fed¡¯s September meeting. The futures market is currently pricing in about a 95 percent chance that the Fed will hike the Fed Funds rate by a quarter-point. For a look at what else is going on, check out today¡¯s Market Update if you have time.
+
+Information from TDA is not intended to be investment advice or construed as a recommendation or endorsement of any particular investment or investment strategy, and is for illustrative purposes only. Be sure to understand all risks involved with each strategy, including commission costs, before attempting to place any trade.

@@ -1,0 +1,21 @@
+Symantec, the biggest maker of computer-security software, is replacing its technology chief with a Microsoft veteran as Chief Executive Officer Steve Bennett seeks to overhaul the company¡¯s offerings.
+
+Amit Mital, who worked at Microsoft for 20 years and holds 43 patents, will succeed Steve Trilling as chief technology officer, Symantec said Wednesday in a statement. Trilling is moving to an unspecified senior leadership role, the company said.
+
+Bennett, who was named CEO in July 2012 after the ouster of Enrique Salem, has cut jobs and restructured Symantec¡¯s sales organization as part of a turnaround plan. As sales of antivirus software decelerate amid a record slump in demand for personal computers, Bennett has shifted focus to developing new technologies that address new, more advanced security threats.
+
+¡°Amit is a leader with proven abilities to innovate, develop and execute new products,¡± Bennett said in the statement. ¡°Amit¡¯s expertise will help us move faster and more effectively in this stage of our transformation.¡±
+
+The faltering PC market has curbed a major distribution channel for Symantec¡¯s antivirus software, which is often sold with new PCs. Market researcher IDC said on Dec. 2 PC shipments will decline 10.1 percent this year, the biggest drop on record.
+
+To help compensate, Mountain View-based Symantec is focusing on areas such as mobile security and encryption, Bennett said in an interview last month. As evidence of changing security risks, he said half the attacks the company stopped last year weren¡¯t based on ¡°signatures¡± ¡ª the digital fingerprints left by malicious software that antivirus software is ideally suited to block.
+
+Mital, whose most recent role at Microsoft was as vice president for the startup business group, has experience in technologies including data analysis and serving websites to large numbers of users, according to Symantec¡¯s statement.
+
+The new technology chief¡¯s hiring follows the departure of some of Symantec¡¯s top corporate officers. Last month the company said Francis deSouza, president of products and services, was leaving. Symantec also said in September that James Beer, who had been chief financial officer since 2006, was departing to become CFO of McKesson Corp.
+
+Since Bennett¡¯s appointment, Symantec stock has risen by more than 50 percent, though the shares plunged in October after the company forecast profit and revenue that fell short of analysts¡¯ estimates.
+
+The CEO has revamped marketing to spend less on internal communications and more on selling businesses on the idea that Symantec can protect their networks and mobile devices ¡ª not just their PCs.
+
+¡°We¡¯ve done a terrible job of marketing and telling our story,¡± Bennett said last month.

@@ -1,0 +1,43 @@
+NEW YORK (Reuters) - Marketwired, a company that publishes and distributes corporate earnings and other market-moving news releases, said on Wednesday it would no longer sell directly to high-frequency trading companies.
+
+The change came as New York State Attorney General Eric Schneiderman investigates early access to information by technologically sophisticated traders. It followed a similar decision last month by Berkshire Hathaway Inc¡¯s Business Wire.
+
+Marketwired said in a statement it would no longer provide its distribution service to high-frequency trading firms to ¡°eliminate any perceived advantages gained through technology by certain customers.¡±
+
+¡°This is another important step forward in bringing an end to Insider Trading 2.0,¡± Schneiderman said in a statement Wednesday, referring to his wide-ranging crackdown on traders who exploit technology to obtain information fractions of a second earlier than others.
+
+¡°High-frequency traders who drain the value out of market-moving information in the milliseconds before it becomes widely available ... skim from the rest of the investing public, which hurts the entire market,¡± Schneiderman said.
+
+Marketwired, whose majority owner is the Toronto-based private equity firm Omers, distributes corporate press releases and financial disclosures to the media. Some are inconsequential while others are regulatory filings that push stocks higher or lower.
+
+By subscribing to Marketwired¡¯s direct-data feeds, high-frequency trading firms could take advantage of the split second difference between the time a company releases information to subscribers and when news wires send that information to the broader market, Schneiderman said.
+
+The time lag allows high-frequency trading firms to trade on the information ahead of other investors, Schneiderman said.
+
+Marketwired said in its statement it would ¡°continue to provide full and fair, simultaneous disclosure of information.¡±
+
+The company said it made its decision before consulting with Schneiderman and later notified him.
+
+Last month, Business Wire agreed to stop the sale of its releases to high-frequency trading companies after discussions with the attorney general¡¯s office, a source said at the time.
+
+Business Wire decided the practice could hurt the company¡¯s reputation, not because traders received a time advantage, Business Wire¡¯s chairwoman, Cathy Baron Tamraz, said in a statement.
+
+James Cox, a professor at Duke University School of Law, said Marketwired¡¯s decision was a reflection of the legal, social and political reality ¡°that everyone should have access at the same moment, whether or not it makes a big difference.¡±
+
+Columbia Law School professor John Coffee said getting Marketwired to stop selling to traders was much easier than effecting change to more critical practices such as stock exchanges allowing firms to use direct feeds that give them price data milliseconds earlier than others.
+
+Schneiderman said on Tuesday he was expanding his investigation to include high-tech services provided by U.S. stock exchanges and alternative trading venues that may give advantages to high-frequency traders.
+
+¡°The issues involving the release of price data are far more important and give a more material advantage to the favored recipient,¡± Coffee said.
+
+He added: ¡°I don¡¯t think it will motivate the New York Stock Exchange or Nasdaq to change their behavior because the stakes are higher for them.¡±
+
+Mark Gorton, chief executive officer of Tower Research Capital LLC, a high-frequency trading firm, said it was a ¡°noble goal¡± to make sure no one got a jump on data, but the markets were working ¡°quite well now.¡±
+
+¡°There is a level playing field in a way that never existed before,¡± Gorton said. ¡°The competition is driving the markets to incredible levels of efficiency. The high-frequency trading firms are bashing each others¡¯ brains over fractions of a penny.¡±
+
+Earlier in his probe, Schneiderman sought to end early access to analyst and consumer sentiment. BlackRock Inc, the world¡¯s largest asset manager, in January agreed to end its analyst survey program, which he said could be used to get information about upcoming revisions to published views on companies.
+
+Eighteen other financial companies, including UBS AG, Goldman Sachs Group Inc and JPMorgan Chase & Co, also agreed to temporarily stop responding to such surveys in relation to companies listed on U.S. exchanges.
+
+Last year, Thomson Reuters Corp suspended its early data release to a small group of clients of the widely watched Thomson Reuters/University of Michigan consumer sentiment data.

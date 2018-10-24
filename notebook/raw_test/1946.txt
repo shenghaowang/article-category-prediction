@@ -1,0 +1,7 @@
+Sally Beauty Holdings Inc., the Texas-based hair and beauty products retailer, said Monday that a recent data breach affected fewer than 25,000 payment cards.
+
+The company disclosed the breach earlier this month, but an investigation by a data forensics team from Verizon is now beginning to provide more information into how many customers were affected.
+
+Sally's data breach occurred only a few months after significant data breaches disclosed by other retailers, including Target Corp. and Neiman Marcus Group Ltd, in which payment data for millions of customers were stolen and some later sold on the black market.
+
+"We take this criminal activity very seriously," Sally Beauty Holdings said in a statement. "We continue to work diligently with Verizon on this investigation and are taking necessary actions and precautions to mitigate and remediate the issues caused by this security incident."

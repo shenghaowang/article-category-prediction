@@ -1,0 +1,71 @@
+¡°Twitter is banned in Turkey¡± screamed, ironically, a tweet from my ¡°Turkey¡± list. I did a double take. It had been a long day. I had just published an op-ed in the New York Times explaining some of the reasons why Twitter rattled Turkey¡¯s government, but also about its limitations for challengers. I had been discussing Twitter in the context of Turkey all day. I didn¡¯t expect it to become so newsworthy.
+
+During the day, Turkish Prime Minister Erdogan had said: ¡°Twitter, shmwitter; We¡¯ll wipe them all off. I don¡¯t care what the international community says.¡±
+
+I had muttered, ¡°You might care what the people in Turkey will think.¡±
+
+Twitter is not just a protest tool in Turkey, nor just a place where the growing corruption scandal is discussed. It¡¯s also used by large numbers of government supporters, including almost all of the leading officials and parliamentarians from the ruling party. It¡¯s an entrenched part of the networked public sphere.
+
+I honestly wondered if the ¡°ban¡± was a temporary technical glitch.
+
+¡°Twitter is blocked in Turkey by court order¡± showed a screenshot in Facebook. Then another. Reports came pouring in.
+
+I had been about to leave my office. I sat back down.
+
+But what happened next should be a lesson to any modern country that wants to ban social media after it¡¯s already been incorporated into everyday life and where there is sizable existing dissent.
+
+For the next three hours, I slowly watched my ¡°Turkey¡± list on Twitter go from quiet to resurgent to defiant to jubilant to very, very crowded. People circumvented, one by one, and then in a flood.
+
+First my Facebook lit on fire as Turkish friends shared tips and info on how to circumvent using proxies or DNS settings. Names of VPN companies started trending on Turkish Twitter because those who got on were discussing how to secure themselves for the next run. Hashtags started by expats started trending worldwide and then in places like Germany where there are a lot of people from Turkey.
+
+By the end of it all, most Trending Topics worldwide, and of course in Turkey, were about the blocking of Twitter, and of course, opposing it. Let alone be deterred, the number of Tweets in Turkish and from Turkey were close to record-breaking levels.
+
+People in Turkey had banned the ban.
+
+By the end of the evening, I repeated the same line in interviews and also on Twitter: the only people ¡°banned¡± from Twitter are pro-government supporters not wanting to openly circumvent. But then even some of them started popping up, arguing the ban must be a mistake or a devious plot by the opponents in the judiciary where they had been battling a faction. It was 3 am in Turkey and it seemed that many people on my Twitter list, who normally would be asleep by then, were awake, rejoicing in the freedom they¡¯d clutched. They were not going to let go. Jokes were proliferating about the weakness of the ban, the fact that pro-government supporters had mostly decided to stay away, and the fact that the prolific Tweeter and mayor of Ankara from the ruling party had not been able to resist the temptation. He had circumvented.
+
+And, in the morning the President of Turkey tweeted ¡°Such a wholesale ban of social media cannot be accepted.¡± Just weeks ago, he had signed a comprehensive bill expanding Internet censorship and surveillance (the President had asked for a few improvements but the core of the bill remains unacceptably broad). Thousands of users immediately chided him for having signed the bill, and for not being more vocal and effective. About fifteen thousand retweeted him. Now he was reducing to circumventing a court order in order to get his views out.
+
+One Twitter user immediately replied to the President: ¡°What DNS settings are you using to circumvent?¡± That said so much more than all the commentary. I laughed out loud. So much for the ban.
+
+At the moment, the legal reasoning behind the ban remains murky, and is somewhat irrelevant. First a court order was reported, and then the governing Internet Agency said it was a prosecutor, and the prosecutor¡¯s office had just been dissolved. The official statement from the Prime Ministry earlier had stated that Twitter had not responded to requests to delete accounts and that¡¯s why a wholesale ban may be unavoidable.
+
+Nonetheless, the prime minister has had a record of anti-social media proclamations. During the Gezi protests, Erdogan called Twitter ¡°a menace to society.¡± A few days ago, he said ¡°shutting Facebook and Youtube was on the table.¡± Yesterday, after proclaiming his intention to wipe off ¡°Twitter, schwmitter¡±, he had declared that they will see the power of the Republic of Turkey.
+
+It seems, citizens of Turkey also had something to show: the power of the people of Turkey.
+
+So far, the ban has had the following effects:
+ The only people not on Twitter at the moment are ardent pro-government supporters who do not want to circumvent, and people who may not have the fairly minimal skill required to circumvent. I suspect the latter camp will dwindle.
+ Turks are getting even more practiced and determined in circumvention. As a friend said, her 60-year-old mother, practiced from the days of the YouTube ban, was able to get right back on after being told ¡°do what you did for YouTube a few years ago.¡± Anyone too young to have figured things out through previous practice is doing so now.
+ Turkey now joins a sad list of countries including Iran and China; Mubarak comparisons are floating around. This is a disaster for the Turkish government, but also a great showing by the people of Turkey of their creative, resilient response.
+ People are backing up their networks to WhatsApp, Viber, Facebook and whatever else I probably don¡¯t even know about. The country is fairly wired, and massive media censorship of the past few years has meant social media is a lifeline that many have adopted.
+
+In short, no, it¡¯s not working. It has backfired, it has been defeated for all the purposes that matter.
+
+So, here are some questions and answers.
+ Why does social media bother the government in Turkey so much?
+
+Because it has become a means to oppose the massive censorship in Turkish mass media. It has also become the organizational backbone of protests. (Which I wrote about here). During the Gezi protests, at the height of the protests when things were so tumultuous that CNN International was broadcasting live from Taksim square, CNN Turkey was avoiding the news and showing a documentary about penguins. People flocked to social media. Recently, there has been a flood of ¡°leaked¡± alleged wiretap recordings from government opponents in the judicial system, to whom the government is responding by trying to remove them from their posts. Social media has been the key tool for dissemination of this explosive but unverified content. So, social media is at once part of the networked public sphere, a means to connect with others, a means to share content that would otherwise be invisible, and also a lively, humorous, boisterous part of many people¡¯s lives.
+ Why is it so easy to circumvent this ban?
+
+The new censorship and surveillance law in Turkey allows for stronger, URL-based blocking that merely tweaking DNS settings would not get around. The new infrastructure of censorship is being built, but it¡¯s not here yet. It¡¯s too late. The networked public sphere is entrenched and people are looking into VPN and other solutions en masse. The toothpaste is out of this tube. The only people who are not circumventing will be government supporters who want to respect the ban or maybe some elderly people who do not have relatives to show them how¡ªthe YouTube ban was widely circumvented. Future blocking infrastructure may be more aggressive but that probably won¡¯t work unless they also ban all VPNs in Turkey as well¡ªtherefore crippling businesses.
+ Didn¡¯t the government in Turkey anticipate the backlash?
+
+Remember, the ruling party still has a lot of support and when the prime minister said in a rally that he was going to wipe off Twitter, the crowd cheered. The last 12 years of their rule in Turkey had many positive aspects and there are large segments of society who appreciated the developments. However, the broad coalition that brought AKP to power has fallen apart, and my read is that the government is looking to win the upcoming local elections, or at least do respectably well, by exciting and entrenching its remaining base through polarization and ¡°us vs them¡± rhetoric. The elections are not national and cannot unseat the prime minister but are widely seen as a referendum since they are the first elections since the Gezi protests and the corruption scandal erupted. So the backlash hurts Turkey and the government in many ways, but the polarization also hardens the government¡¯s base, some of whom are on Twitter and social media but many of whom are not.
+ Is Twitter the only politicized social media in Turkey?
+
+Nope, in fact, as soon as Twitter became banned, people flocked to the alternatives and then came back on to Twitter. The content that the prime minister has derided is primarily on YouTube but also Vimeo, Facebook and Soundcloud¡­ any platform that can host sound, basically. Also, Twitter may have been targeted because, unlike Google/YouTube and Facebook, it does not have offices in Turkey and thus is less subject to pressure. Twitter functions as the link ecology in Turkey, but banning it would not limit the political uses of the Internet¡­ unless one unplugged the whole Internet. The latter is close to unthinkable in Turkey, businesses, people and the government itself depend on the Internet for most everything, day-to-day.
+
+I don¡¯t know, obviously. My hope is that the government realizes the futility of the ban and moves quickly and legally to undo this, and also to reconsider the massive censorship and surveillance bill which provides the basis for these kinds of acts.
+
+But here¡¯s what I do know. The president of Turkey had to circumvent a court order to tweet, and tens of thousands of citizens were right there to talk with him, give him support, chide him for his previous acts, and to generally comment. Twitter may be banned in Turkey legally, but in reality, the only thing that the government has managed to do is ban its own supporters from Twitter. That doesn't sound like a smart strategy.
+
+People in Turkey have banned the ban.
+
+So, a day later, here¡¯s a chart (via @venturebeat) that says it all. The Red is the Twitter usage in Turkey the day before the ban. The Blue bars are after the ban:
+
+Also, the record for irony, was once again broken with this tweet from the official government agency of Turkey:
+
+Also, Turks are spreading the methods for circumvention via multiple methods:
+
+Finally, the circumvention has become such normalized that I¡¯m once again seeing people tweet about food, cats and the weather!

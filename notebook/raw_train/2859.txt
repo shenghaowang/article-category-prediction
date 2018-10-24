@@ -1,0 +1,59 @@
+What Does Herbalife Ltd. (HLF)＊s New Regulatory Language Really Mean? by Quoth The Raven
+ Herbalife files Form 10-K yesterday, inclusive of brand new statements regarding FCPA and the FTC＊s investigation of the company
+ With the stock marked up after the company＊s guide down for Q1 and FY16, it＊s clear the market thinks this language is good news
+ Company now seems to know what direction the FTC wants to go in. I disagree that this is good news (surprise!), and here＊s my reasoning.
+
+Let me start off by saying these comments about the company＊s disclosure are not legal advice, they are not professional financial advice, and they are nothing more than my speculation after speaking with several legal minds last night and trying to draw conclusions with people on both sides of the Herbalife case.
+
+By now, investors have had the chance to take a look at Herbalife＊s fourth-quarter and full year results. The company beat on both lines, reporting $1.19 that was really $0.98, until you exclude a large series of recurring ※non-recurring§ expenses that look like this:
+
+And then the company came out and lowered their guidance for first-quarter and for full year 2016. Despite the fact that China is not falling off yet, there wasn＊t much else anomalous about the financials that we noticed.
+
+But the stock is up almost 15% in after-hours trading on some regulatory language that the company added into its annual report. Every year, people that follow this company look for new language in the annual filing which has been purposefully added or purposefully deleted, like this sleuthwork done by @mattintoronto on Twitter:
+
+So, Herbalife might know a little more about the ※scope§ of the FTC＊s case. What does this mean? We＊ll discuss this later.
+
+As someone who has written disclosures with securities lawyers for filings, and someone who worked extensively with another party who has done the same in reviewing Herbalife＊s annual report yesterday, we think that some of the additions to the company＊s annual report are very telling, even if they leave the company open to a wide range of outcomes that we can＊t yet speculate on.
+
+For all intents and purposes, there were two important additions to the company＊s annual report yesterday.
+
+First, there was the addition of this line, one talking about the FTC:
+
+Again, this line is key:
+
+Second, there was the addition of an entire new risk factor that talks about the Foreign Corrupt Practices Act in the section of the report where the company needs to report risks associated with the business. That part looked like this:
+
+Let＊s talk about the FTC language first. While this language seems to lead on that a wide range of outcomes are possible, my conversations last night with several legal minds have helped me shape a narrative of what could potentially be happening with Herbalife and the FTC. Here＊s some points I＊ve come to:
+ It looks as though we are going to see a resolution or a next step from the FTC very soon.
+ This language seems to mark the end of the document production phase for the company.
+ I found it interesting the company would include ※contested complaint ※in this language if there wasn＊t a serious chance of it happening.
+
+If the FTC was going to resolve things without taking any action, I don＊t feel we would have had this language put into the 10-K at all. What I believe is happening here is that the FTC has potentially told Herbalife what their intentions are, or perhaps even shown a copy of the complaint to the company. This would explain why they now know the ※scope§ of the outcome, which I pointed out earlier.
+
+I think the FTC may have tipped their hand to the company that they possibly want to apply the stringent Vemma standards to Herbalife. It is then my guess that Herbalife has come back to the FTC and said there is no way that they can comply with what the FTC wants, as it would be devastating for the business. The stage I believe they could be at now is with the company at odds with the FTC over what route to go down.
+
+The FTC may want an injunction, asset freeze, and equitable relief for victims, and Herbalife may just want to pay a monetary fine and move on with it. If this is the case, it will be a question of how much the FTC wants to hold their ground. Given the success that the FTC has had with Vemma, I believe this is a do or die situation for the FTC and will be the hallmark of Edith Ramirez＊ tenure as Chairwoman. If they let this company go and it collapses on its own, it would tarnish the reputation of the regulator for years to come. This is the last stand between MLMs and the FTC 每 either they＊re going to be allowed to continue as obvious pyramid schemes 每 with scholars and experts dissenting an FTC slap on the wrist 每 or the FTC will seek some true justice and long overdue equitable relief.
+
+Another point I would like to make is that if this is such good news, why would Herbalife not say something in the press release to the effect of ※we are working on a resolution§ or ※we are working on a settlement§. If they wanted to keep quiet about it, why read the boilerplate statement on the conference call? This comes off as very boilerplate, with the way that they buried it on page 100 of the 10-K, and the way that Michael Johnson (almost sadly) read the statement (starts around 24:00) at the end of the conference call verbatim, exactly the way it was in the filing, and without any editorialization.
+
+Right now, the company is controlling the narrative with the public and press. They made the statements and news media is picking up on them, which is fine. The FTC has not made a statement about this company since it has started its investigation, so I don＊t expect their end of the narrative to be pushed out into the public discourse. What I do believe is that if this were truly great news, the company would be trumpeting it in a little bit different fashion than it is doing. But that is fine 每 eventually we will have much more detail, when the FTC decides to make its move.
+
+The second addition to the company＊s annual report was the FCPA language, which was added to the risk factors. I will paste, once again, some of the more interesting language that has been included:
+
+Our policies mandate compliance with these anti-bribery laws, including the requirements to maintain accurate information and internal controls. We operate in many parts of the world that have experienced governmental corruption to some degree and in certain circumstances, strict compliance with anti-bribery laws may conflict with local customs and practices. Notwithstanding our compliance programs, which include annual training and certification requirements, there is no assurance that our internal control policies and procedures will protect us from acts committed by our employees or agents. Additionally, we cannot predict the nature, scope or effect of future regulatory requirements to which our international operations might be subject or the manner in which existing or new laws might be administered or interpreted. Alleged or actual violations of any such existing or future laws (either due to our own acts or our inadvertence, or due to the acts or inadvertence of others) may result in criminal or civil sanctions, including contract cancellations or debarment, and loss of reputation, which could have a material adverse effect on our business, financial condition, and results of operations.
+
+Do not write this off as just boilerplate language.
+
+FCPA violations are relatively serious and the company does not just add Risk Factors like these for no reason at all. While it is true that the DOJ and other regulatory bodies have been cracking down more significantly on FCPA violations, that in and of itself is not a reason to arbitrarily ad carefully crafted language to a company＊s annual report.
+
+Of course, as a bear, I am going to see the narrative that best fits the conclusion I want to draw. I can also see why those on the bull side of this case believe this is good news. Objectively, though, it is ※three items buried on page 100 that mean anything at all can happen to the company§ which has driven up the stock price. It was done in true Herbalspeak fashion, as critic Connor Davidson pointed out.
+
+Others may place the bets accordingly, but for me, I believe the company is probably in the process of butting heads with the FTC over the outcome of their investigation and I believe a civil complaint could be filed with the FTC in short order.
+
+I believe Herbalife now knows what the FTC is seeking, hence the removal of the ※scope§ language from the 10-K. Now, let＊s hear it from the company. Sing it, sister!
+
+Of course, if Herbalife makes some concessions and agrees to pay cash, there is a chance of a settlement. But you have to ask yourself whether or not the FTC went through the trouble of dismantling Vemma in order to set a precedent for Herbalife they would just ignore. Vemma was a huge win for the FTC, and QTR thinks the natural progression of things is that the FTC will try to act on similar circumstances with Herbalife.
+
+If the FTC goes the Vemma route with Herbalife, it will put a stranglehold on the business, it will ruin the company＊s reputation even further, and the stock would likely spike one more time, giving a fantastic short opportunity for those interested in riding out the final asphyxiation of the company＊s multilevel marketing model.
+
+What Does Herbalife Ltd. (HLF)＊s New Regulatory Language Really Mean? by Quoth The Raven

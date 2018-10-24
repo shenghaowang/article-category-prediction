@@ -1,0 +1,76 @@
+Bodies in motion often stay in motion.
+
+And the yuan¡ªafter appreciating in real terms in the first four months of 2018¡ªhas fallen sharply in the last five weeks, both against the dollar and against the basket. It increasingly looks like a yuan move, not a reflection of the dollar's gyrations through the mechanics of a basket peg.
+
+In very broad terms, the yuan¡¯s value against the dollar is now back at the level where it was pegged back in 2008, 2009, and the first part of 2010. The appreciation that occurred in the Obama Administration¡¯s first term has been reversed.
+
+And the yuan is currently a bit weaker against the CFETS basket than it was when it stabilized in the second half of 2016. It is now very close to the level it reached against the basket in spring and summer of 2017. And any further significant movement would push through the bottom edge of its trading range against the basket over the past two years. All told the trade-weighted yuan has now depreciated by more than 10 percent from its 2015 peak.
+
+China, has, I think three broad options now:
+ Hold the line, either against the basket or against the dollar (I assume China would prefer to hold the line against the basket) even as the ¡°trade war¡± escalates and the U.S. imposes tariffs on a growing share of China¡¯s exports.
+ Attempt another managed depreciation, moving the yuan down by enough¡ªagainst the basket I assume¡ªto offset the economic impact of Trump¡¯s tariffs on China. And perhaps to help offset the economic impact of China¡¯s own fiscal tightening and efforts to de-risk the financial sector. I have long worried that China¡¯s external surplus might rebound if China pulled back on its stimulus before adopting the structural policies needed to bring down its national savings rate.
+ Let the currency (more or less) float¡ªand end currency management with an ¡°exit down.¡± There isn¡¯t any real doubt that the yuan would float down in the face of weakening Chinese data and U.S. tariffs¡ªespecially if the PBOC tries to offset domestic weakness from a tightening of fiscal and credit policy with additional easing, and ultimately pulls Chinese rates below U.S. rates.
+
+And all are, in my view, very real options.
+
+I don¡¯t think China will be forced into a depreciation.
+
+The market pressure on China¡¯s currency to depreciate only materialized recently. Flows were quite stable earlier this year, back when the yuan was stable or appreciating (appreciating against the basket through May, and for much of the last 18 months, also appreciating against the dollar).
+
+If anything, Chinese policy makers had to tap on the market to keep the yuan from appreciating a bit more. I know that¡¯s not the conventional wisdom, but that¡¯s what the balance of payments data¡ªand the data on the foreign exchange settlement of the state banks¡ªshows.
+
+Chinese residents have been adding to their assets abroad over the last few quarters, squirreling private funds out¡ªhence the ongoing outflows through "errors and omissions" (and "tourism" imports). But those outflows¡ªand the outflows from the policy banks¡¯ continued external lending¡ªwere offset by the rising external borrowing of the Chinese state banks and inflows into the bond market. Effective controls limited non-strategic FDI outflows¡ªwhich previously had been an avenue of hot outflows. The swing in the FDI balance actually offset the deterioration in the current account balance, the so called basic balance (the current account plus FDI) has been rising recently.
+
+That suggests, at least me, that if China clearly signaled that it didn¡¯t want the yuan to depreciate further, it could hold the line relatively easily. In addition to $3.1 trillion in formal reserves at the PBOC, the state banks have a net foreign asset position of over $500 billion and the CIC has a $270 billion foreign portfolio (see pg. 67 of their 2017 annual report).
+
+The depreciation pressure right now stems, in large part, from expectations that China wants a weaker currency in response to Trump¡¯s tariffs and a slowing domestic economy¡ªnot uncontrolled outflow pressure.
+
+The impact of the tariffs on China's trade in the short-run appears manageable. 10% tariffs on $500 billion of trade¡ªas Trump has threatened¡ªmight reduce China¡¯s exports by $50 billion relative to baseline (assuming a short-run elasticity of around 1), and perhaps by a bit more over time (if the tariffs are expected to be permanent there is an incentive to re-organize supply chains and the like, the long-run elasticity is likely well over 1).
+
+But China¡¯s exports to the U.S. were on a strong upward trend prior to the trade war¡ªextrapolating from the numbers in the first half of the year would suggest a rise of about $50 billion in 2018. Net/net China's exports to the U.S. might fall back to their 2017 level in 2019.
+
+That¡¯s why China could, in my view, absorb the blow from 10% tariffs. The tariffs have been set at a level that isn¡¯t prohibitive. Especially if China pockets the roughly 5% depreciation of the past two months. Against the dollar, the yuan is back where it was ten years ago even though China¡¯s economy is far more productive and technologically sophisticated.
+
+Conversely, if China wanted to, it could take the plunge and shift to a floating currency and let its currency float down. A weaker yuan would add to the real burden of China¡¯s foreign currency debts. But those debts just aren¡¯t that big, at least not in relation to China¡¯s $12 trillion economy.
+
+The real risk for China is that a float would be interpreted as a signal that China¡¯s leaders have lost their ability to manage China¡¯s complicated finances, and thus it could prompt runs out of parts of China¡¯s own financial system into safe assets abroad (a point Robin Brooks has emphasized, see this FT Alphaville article). The PBoC, without any external constraint, would be free to provide liquidity as needed to keep the system from seizing up. But that observation understates the complexities of providing support to the weaker, more shadowy parts of the financial system¡ªas some institutions that lack sufficient high-quality assets to access the PBOC directly would still need support.
+
+A Chinese float down, of course, would also be a major shock to the world. China¡¯s well-reserved neighbors would likely respond by letting their currencies depreciate. But there would be a lot of collateral damage globally¡ªthe Europeans, for example, would be hurt by a weaker yuan, and a fall in other Asian currencies.
+
+Plus, well, there pretty clearly is a risk that the U.S. would view any sharp move down, even if it was truly a shift (at least for a time) to a market-determined exchange rate, as an escalation in the trade war. Ten percent tariffs might go to twenty, or more. And Europe, faced with a wave of exports from a highly competitive China, might face pressure to follow the U.S. and implement tariffs of its own (or to go back to QE in an effort to push the euro down too).
+
+An end to China¡¯s currency management thus might trigger a full shift to managed trade, mitigating the trade gains China would normally expect from a weaker currency.
+
+Finally, China historically hasn¡¯t managed its economy by letting prices go where they want. Stepping back from any currency management would be a huge shift in China¡¯s own broader economic management. It isn¡¯t clear China is willing to take that plunge.
+
+That leaves the middle ground of a controlled depreciation¡­
+
+Technically, a managed depreciation is one of the hardest things for any central bank to pull off.
+
+Controlling the move is the hard part, especially at a time when Chinese interest rates are close to U.S. interest rates. That means there isn¡¯t any large penalty to holding dollars rather than yuan (if, for example, you are a Chinese exporter), or borrowing yuan to buy dollars (if you are in a position to short the currency outright).
+
+If the yuan is expected to depreciate tomorrow, or next month, or next year, it basically makes sense to hold dollars rather than yuan until the move is over. That is why managed depreciations tend to burn through reserves. China has firsthand experience here¡ªas it lost about a trillion dollars of reserves managing its depreciation in 2015 and 2016. That said, about $500 billion of the fall in reserves is explained by Chinese banks and firms paying down their external debts: the change in reserves net of China¡¯s external debt is much smaller than the swing headline reserves. Even though some of the channels for outflows have subsequently been closed off and the level of domestic foreign currency debt has fallen, China faces a similar risk if expectations that the yuan is now a one way bet down are allowed to build.
+
+But if anyone can pull off a controlled depreciation, it is China.
+
+The controls of course play a role. Gaming the border is not impossible, but it takes a bit of work¡ªespecially if you don¡¯t have an export-import business that naturally transacts in foreign exchange. The entire monetary base cannot pick up and leave.
+
+And China still has a lot more external assets than anyone else, and far more external assets than external debt. The PBOC, the CIC and the big State banks have well over $4 trillion combined in external assets. And their debts are just under $1.5 trillion¡ªthat leaves a substantial position. The following graph sums of the reserves and the core assets of the state banks, compared to the banks' core debt and foreign holdings of Chinese bonds.
+
+The IMF¡¯s China team was right to argue that the IMF¡¯s own reserve metric is a poor guide to China¡¯s reserve need. They put the need somewhere between $1 and $3 trillion¡ªcall it $2 trillion (see paragraph 44 of the staff report: "The US$ 1 trillion threshold implied by the composite metric for a floating exchange rate with capital controls is too low and the US$ 2.9 trillion threshold for a fixed but open regime is too high.").
+
+That leaves a lot of ¡°free¡± foreign exchange to use if China wants too. And it is possible that China could say pull off another 10% move (against the basket) without burning through another trillion in reserves.
+
+Such a move would more than offset the projected impact of Trump¡¯s 10% tariffs. Exports to the U.S. are about 20-25% of China¡¯s total exports. So if the short-run elasticity of trade to the tariffs is 1 and the exchange rate elasticity is also 1, a 2 to 2.5% move (against the basket) would offset the U.S. tariffs (it might well more than offset the move, as a weaker exchange rate also would reduce China¡¯s imports). And even if the long-run elasticity is bigger for a tariff, the needed depreciation to counter the tariffs is probably less than 10%. Especially because Chinese productivity (in the traded sector) is increasing, and thus there should be a trend real appreciation in China¡¯s currency.
+
+Nonetheless trying to pull off a controlled depreciation is a risk. Outflows might put pressure on domestic asset prices, and trying to limit the incentive to move out ahead of the expected depreciation might end up limiting the PBOC¡¯s room to cut interest rates.
+
+From a purely technical point of view, the difficulty of such a move makes it interesting.
+
+And the currency choice that China now has to make also has enormous global implications.
+
+Personally, I would prefer than China hold the line.
+
+A weaker currency could be the first step toward some mix of a bigger Chinese surplus and an even larger retreat from the existing trade rules, as other parties around the world try to protect themselves from the combination of U.S. tariffs and a Chinese devaluation. It would also put additional pressure on those emerging economies that are struggling to cope with higher U.S. rates and the run-up in oil prices.
+
+Nonetheless I increasingly expect that China will test just how far it can let the currency move without triggering a broad market and political reaction.

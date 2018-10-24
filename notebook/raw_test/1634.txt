@@ -1,0 +1,3 @@
+To begin with, every trade is slowed down by 350 microseconds -- you can't just pay for a faster connection to beat the competition. Not that you could if you wanted to. IEX bans trading houses from paying for servers that live closer to the stock matching engine, so wealthier outfits can't just buy their way to success.
+
+Will it succeed? Not necessarily. There are 13 American stock exchanges now that IEX is around, and getting companies to trade there may be difficult when the the likes of NASDAQ and the New York Stock Exchange are more popular. But if it does catch on, it could be the key to changing a financial system that's often driven more by automation than human decisions.

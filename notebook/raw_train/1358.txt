@@ -1,0 +1,6 @@
+A comprehensive set of trading data from the Ring is available via licensed data distributors.
+
+Market users can access a wide range of price data directly from the LME's open outcry trading floor via our network of licensed data distributors.
+ Daily official cash, 3 month, 15 month, 27 month, DEC1, DEC2, DEC3 prompt date prices (where applicable) for metal futures contracts following the second morning Ring trading session
+ Daily official FX rates following the second morning Ring trading session
+ Daily unofficial prices for all contracts traded on the Ring following the second afternoon Ring trading session

@@ -1,0 +1,61 @@
+Will new network protocols improve the net? What will it take for any of them to gain acceptance?
+
+Will new network protocols improve the net? What will it take for any of them to gain acceptance?
+
+Do we really need new network protocols? The short answer is yes. Sure, the existing set of network protocols have worked surprisingly well, and attempts at improving them have frequently resulted in no improvement. However, some smart people have identified significant changes in fundamental protocols that can simplify networking. The real question is whether the changes are significant enough to justify their adoption.
+
+If what we have is working so well, why do we need new protocols? Just examine the layers of functionality that are required to implement security, NAT, QoS, and content management. It gets complicated very quickly as the layers interact with one another. Some of the proposed protocols potentially result in network simplification. IPv6 was supposed to improve security, but further examination revealed some significant security holes, such as neighbor discovery and automatic tunneling.
+
+The new protocols are:
+
+Named Data Networking
+
+ NDN is a relatively new network protocol that changes how our devices (computers, tablets, phones) retrieve the data that we want to view. It is a version of Content-Centric Networking. It retrieves data by name instead of identifying data based on the server on which it is located. For example, a popular online TV program could be referenced by its name instead of the servers on which it is hosted (i.e. netflix.com or amazon.com). While the program's name may still include the publisher's name, the data could be stored in multiple places on the Internet, making access faster. You can think of this as a scaled-up version of a content distribution network (CDN). Even better, different versions of the same data can have different names, allowing access to specific versions.
+
+To understand more about how it works and why it is needed, I highly recommend watching A New Way to Look at Networking, a presentation by Van Jacobson, one of the premier network researchers in the world. An ACM interview with Van Jacobson fills in some more of the operational details.
+
+Sorell Slaymaker's recent No Jitter blog, "IPv6 is Tactical, NDN is Strategic" suggests that NDN will play a different role than I envision. But regardless of the view, NDN fulfills an important role in the evolution of networking. To me, the combination of efficiency improvement and enhanced trustworthiness of the data are compelling arguments. A possible negative factor against NDN is the requirement to store state information about the possible location of named data (i.e. the Pending Interest Table, a feature that streamlines the process of finding content by name).
+
+A first look suggests that NDN is only useful for retrieving static content like web pages and streaming media (both video and audio). In his ACM interview (see link above) Jacobson described using NDN to replace UDP in two laptops for the purpose of conducting an audio call. The two endpoints were known by names, so when the Ethernet interface was unplugged, the call was able to continue by discovering an alternate path between the systems.
+
+The nice thing is that NDN runs over whatever infrastructure exists -- be that IPv4, IPv6, high-speed optical networks, or low-speed ad-hoc networks. All that's needed is to begin adding NDN routers to key parts of the Internet. We immediately begin to see the benefit as the data are distributed to locations closer to recipients. Slaymaker (see link above) reports that Gartner estimates that NDN is in the early phases of implementation and that it may take ten years to deploy. That's likely to be a reasonable figure, absent any reason to accelerate the process (i.e. congestion collapse of the Internet).
+
+I expect NDN to be the most viable of all the options because it looks like a clean transition with minimal bumps in the road. Its advantage is being able to operate over any transport. An interesting set of experiments were done with it in which interactive video conferencing sessions were run (see NDN-RTC). The testing was very successful and identified several areas for additional investigation and refinement.
+
+Recursive InterNetwork Architecture
+
+ The other new initiative is RINA, which is an effort to re-examine the fundamentals of networking and to simplify their operation. John Day, who was involved in the design of the Arpanet, examined the Internet protocol architecture in his book Patterns in Network Architecture. His analysis determined that network communications are really layers of the same function: inter-process communication (IPC). This observation results in great simplification. The same IPC mechanism can be used throughout the networking stack. The only requirement is to adjust the parameters to operate on different scopes.
+
+RINA uses nested scopes, where the higher layers have larger scope than lower layers. A good explanation of RINA can be found here from The IRATI Project, and current work is being reported by the Pouzin Society.
+
+The neat thing about RINA is that it addresses the need for functions like security, QoS, NAT, mobility, and multi-homing, without the need for extra features and protocols. My reading of the protocol found an interesting factoid. In 1982, Richard Watson proved that reliable transport only requires three timers that are based on the packet's maximum lifetime (the Delta-T protocol). The start and end of a connection are not needed, so we can dispense with the SYN and FIN parts of a TCP connection. This would improve the speed of reliable connection setup, which is a big factor on web pages that want to access many different components from multiple servers. The implication is that no SYN attacks are possible.
+
+I've written before about the need to simplify the plethora of network protocols that are required to build functional networks. Every network layer in the existing TCP/IP model has one or more unique protocols that must be properly configured and operating in order to support the applications, and ultimately the business that depends on the applications. Whenever we discover a new network problem to solve, we address it by creating a new mechanism and a protocol to distribute the protocol data.
+
+There are several organizations working on RINA (see the links above), but I rarely see any mention of it in general network reading. My reading tends to be more focused on operational things instead of research, so there's some amount of self-selection involved.
+
+I expect RINA to take many more years to be accepted, if it is accepted at all. The number of devices that use an IP stack would be a big impediment. We're already in a transition to IPv6, so executives will want to understand why we need to make a similar move to RINA. Whether or not it's worth the effort will depend on how well we can solve the problems that RINA addresses (QoS, NAT, security, mobility). Network security in particular will be a key factor. Until then, we'll continue to work with the set of mechanisms that we've developed to address the problems of TCP/IP.
+
+Enhanced IP
+
+ Enhanced IP (IETF doc) is more of an address expansion mechanism than it is a new protocol. It uses IP Option 26 to double the size of the IPv4 address space. Existing network equipment can easily handle the enhanced IP packets, except where forwarding packets containing options is explicitly denied. The result is 64bit IP addresses. Systems that do NAT will have to be patched to handle the conversion.
+
+Enhanced IP proponents claim that the IP code modifications are about 400 lines in length and are 100 times smaller than the code to do IPv6. I've not seen a security analysis of Enhanced IP. I would like to see several security studies to make sure that it doesn't expose something that the proponents haven't considered.
+
+Enhanced IP reminds me of TUBA (so-called TCP/UDP Using Big Addresses), which was one of the alternatives to the current IPv6 suite. The main objective of both Enhanced IP and TUBA was larger address space.
+
+The downside to Enhanced IP is that it also requires a modification to the IP stack in all end nodes. Proponents claim that the change is minimal and can be easily handled with loadable kernel modules or small patches. Getting these changes into the corporate computing world will be challenging, much less the work required to outfit all the other active personal computers on the Internet.
+
+Easy IP (EZIP)
+
+ Easy IP (slides) is also an address extension mechanism. It uses the existing IPv4 reserved address space of 240/4 and a set of Semi-Public Routers (SPR) to increase the address space. Conceptually, the addressing works similarly to local dialing in Central Office Exchange (CENTREX) telephone systems. The local numbers behind the SPR are not visible across the Internet. Global routing is only done on the 240/4 addresses.
+
+EZIP has the advantage of only needing the deployment of SPRs to handle the 240/4 address space. However, there are some network devices that don't expect to see packets from this address space and will discard them. These devices would have to be upgraded too. If all we need is more address space, this protocol might be the simplest to deploy.
+
+Summary
+
+ All four of these protocols are in active development. The problem as I see it is making the required changes to the impacted systems around the world. The solution doesn't have to encompass every single legacy endpoint, but any viable solution should work for a reasonable percentage of the global IPv4 systems.
+
+Will any of these really reach widespread adoption? It depends on the deployment of the enabling infrastructure. If the endpoint vendors (Microsoft, RedHat, Apple, Android, Linux, etc.) and network equipment vendors (Cisco, Juniper, Arista, etc.) provide the necessary functionality, then we have a chance of making something happen. In any case, it will be years before any of these solutions develop the critical mass necessary for widespread adoption.
+ Looking to a Future of Application-Centric Networking
+ Is the Data-Driven Network Next Step in Networking?

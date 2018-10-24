@@ -1,0 +1,21 @@
+New York Attorney General Eric Schneiderman vowed today to crack down on the technology that gives high frequency traders an unfair advantage in the market. And that's a very good thing for regular humans with money in the marketplace.
+
+Attorney General Schneiderman specifies some of the services that trading venues offer high speed trading organizations. Some exchanges offer co-location, letting high-frequency traders house their computer servers in the same facility as the trading venue. Others provide extra bandwidth, ultra-fast connections, or dedicated high-speed switches. All of this comes with an exorbitant price tag, and good luck trying to get yourself or your stock broker in on the game.
+
+Thus equipped, high frequency firms can basically get a tip on where the market is headed before it even starts moving. As the attorney general's statement puts it, "if a firm can detect a large order from an institutional investor每like a pension fund每it can instantaneously position itself on the other side of the trade, driving up the prices artificially."
+
+These advantages are measured in mere milliseconds. Today's stock market isn't just steered by frantic people on the trading floor barking orders into their phones like you see in the movies. More and more, the market moves thanks to high frequency trading organizations, using computer algorithms to perform a huge volume of purchases or sales in tiny fractions of a second.
+
+How fast are they? Back in September, traders in Chicago moved on a Federal Reserve announcement five milliseconds before the competition. In human terms, 0.005 seconds is incomprehensibly small〞one-sixtieth of the time it takes you to blink. But those Chicago traders got the news faster than it could have physically traveled from New York, launching an investigation into how traders managed to beat physics.
+
+High frequency trading makes boatloads of money〞one company recently revealed they've only had a single day of losses in the past four years. And companies spend huge money to get the tiniest time advantages, using microwave radios or rooftop lasers to transmit data as fast as possible.
+
+It's not just an unfair advantage for high frequency trading houses. These systems perform far too many transactions far too fast for any human to monitor, meaning the market can plunge maniacally before anyone takes notice. The textbook example was the "flash crash," where automated trading drove the Down Jones down 600 points in six minutes, the biggest one-day drop in the market's history.
+
+"Rather than curbing the worst threats posed by high-frequency traders, our markets are becoming too focused on catering to them," the attorney general said. "I am committed to cracking down on fundamentally unfair每and potentially illegal每arrangements that give elite groups of traders early access to market-moving information at the expense of the rest of the market."
+
+Bloomberg reports that Schneiderman's office is in discussions with Nasdaq and NYSE executives. The attorney general's staff is also investigating "dark pools," the less-regulated private trading venues where large investors conceal their trading from parasitic traders.
+
+The attorney general's suggestions include replacing the current continuous-trading model with a batch-trading model, processing orders at set times and letting price, rather than speed, decide who gets the trade.
+
+A market governed by price. What a novel idea. [New York Attorney General, WSJ, Bloomberg via The Verge]

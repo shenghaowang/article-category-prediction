@@ -1,0 +1,30 @@
+After-hours trading is the period of time after the market closes when an investor can buy and sell securities outside of regular trading hours. Both the New York Stock Exchange and the Nasdaq Stock Market normally operate from 9:30 a.m. to 4:00 p.m. Eastern Time. However, trades in the after-hours session can be completed through electronic exchanges anytime between 4:00 p.m. and 8:00 p.m. Eastern Time. These electronic communication networks (ECNs) match potential buyers and sellers without using a traditional stock exchange.
+
+Who can trade in the after-hours session?
+
+After-hours trading was used primarily by institutional investors up until the 1990s when ECNs became more widely available. After-hours trading is now accessible to most investors through accounts at brokers such Charles Schwab, Fidelity and TD Ameritrade.
+
+Extended trading has become increasingly popular over the past decade as investors have embraced electronic trading and financial markets have become more globalized.
+
+An ECN not only allows individual investors to interact electronically, but also lets large institutional investors interact anonymously, thereby hiding their actions.
+
+What are some of the risks and dangers?
+
+The development of after-hours trading offers investors the possibility of great gains, but you should also be aware of some of its inherent risks and dangers.
+ Less liquidity: There are far more buyers and sellers during regular hours. During after-hours trading there may be less trading volume for your stock, and it may be harder to convert shares to cash.
+ Wide spreads: A lower volume in trading may result in a wide spread between bid and ask prices. Therefore, it may be hard for an individual to have his or her order executed at a favorable price.
+ Tough competition for individual investors: While individual investors now have the opportunity to trade in an after-hours market, the reality is that they must compete against large institutional investors that have access to more resources than the average individual investor.
+ Volatility: The after-hours market is thinly traded in comparison to regular-hours trading. Therefore, you are more likely to experience severe price fluctuations in after-hours trading than trading during regular hours.
+
+Here's an example of some of the risks associated with after-hours trading:
+
+An investor who would like to sell her shares of Goldman Sachs (GS) for $250.00 in the session after the regular markets have closed. Due to the highly illiquid nature of the after-hours market, the highest bid price from the sparse number of buyers is $240.00. She can either change her limit price to $240.00 to sell right away or she can keep her original price and run the risk of a partial order or a 'not-filled' order. At the end of the trading session at 8:00 p.m., all orders that were not executed will be canceled.
+
+What are some of the benefits?
+
+After-hours trading comes with a number of risks, but you should be aware of some of the possible benefits too.
+ Trading on fresh information: Having the ability to trade after the normal markets are closed allows you to react quickly to breaking news stories or fresh information before the next day's market open.
+ Pricing opportunities: Although volatility is a risk associated with trading after hours, you may find some appealing prices during this time.
+ Convenience: Investors may prefer trading at off-peak times, and after-hours trading provides this added flexibility.
+
+After-hours trading has developed to the point where all interested investors, big or small, have an opportunity to do business outside of standard hours. Just remember that while there are benefits to participating in after-hours trading, you should also be mindful of the risks. There are a number of brokers that offer after hours trading. Check out Investopedia's list of the best stock brokers for day trading.

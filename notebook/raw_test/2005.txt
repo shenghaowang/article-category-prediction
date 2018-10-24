@@ -1,0 +1,37 @@
+TOKYO (Reuters) - Mt. Gox said on Friday it found 200,000 ¡°forgotten¡± bitcoins on March 7, a week after the Tokyo-based digital currency exchange filed for bankruptcy protection, saying it lost nearly all the 850,000 bitcoins it held, worth some $500 million at today¡¯s prices.
+
+Mt. Gox made the announcement on its website. Online sleuths had noticed around 200,000 bitcoins moving through the crypto-currency exchange after the bankruptcy filing.
+
+The exchange, headed by 28-year-old Frenchman Mark Karpeles, said the bitcoins were found in an old-format online wallet which it had thought no longer held any bitcoins, but which it checked again after its bankruptcy filing.
+
+¡°On March 7, 2014, MtGox Co., Ltd. confirmed that an old format wallet which was used prior to June 2011 held a balance of approximately 200,000 BTC,¡± the statement said.
+
+It added that ¡°for security reasons¡± it moved the 200,000 bitcoins from online to offline wallets on March 14-15.
+
+¡°These bitcoin movements, including the change in the manner in which these coins were stored, had been reported to the court and the supervisor by counsels,¡± Mt. Gox said.
+
+A lawyer representing the plaintiffs in a class action suit against the shuttered exchange disputed the claim that the bitcoins had been ¡°forgotten¡± in a dormant wallet.
+
+Many of Mt. Gox¡¯s 127,000 creditors, who feared they had lost their investments when the exchange filed for bankruptcy, are skeptical about what the exchange has said happened to the bitcoins it had. In its bankruptcy filing, Mt. Gox also said $28 million was ¡°missing¡± from its Japanese bank accounts.
+
+On Thursday, a U.S. judge in Chicago overseeing a class action against Mt. Gox revised a previous order, allowing some of the exchange¡¯s bitcoin movements to be tracked.
+
+¡°Today in court we got relief ... specifically to track the 180,000 bitcoins, which we¡¯ve been monitoring. Hours later, Mt. Gox claimed it ¡®found¡¯ these bitcoins ... it appears Mt. Gox realized we were close and decided to acknowledge that it owned these 180,000-200,000 bitcoins,¡± Steven L. Woodrow, a partner at law firm Edelson, told Reuters in emailed comments.
+
+Edelson is representing Illinois resident Gregory Greene, who proposed the class action over what he claims is a massive fraud. Mt. Gox blamed the loss of 750,000 bitcoins belonging to its customers and 100,000 of its own on hackers who attacked its software.
+
+Bitcoin is bought and sold on a peer-to-peer network independent of central control. Its value soared last year, and the total worth of bitcoins is now about $7 billion.
+
+In an interview on Friday, Woodrow said the claim that the newly discovered bitcoins had been in a long-dormant wallet was false, citing publicly visible information about the contents of Mt. Gox¡¯s bitcoin wallets, which can be viewed on the internet.
+
+¡°The idea that there were 200,000 or 180,000 bitcoins in a single wallet that they just discovered which had been dormant for years that contained 180,000 bitcoins is undercut by plain evidence on the blockchain,¡± Woodrow said.
+
+The blockchain is a public ledger recording every movement of each bitcoin in existence. Entries to the blockchain are made automatically, as part of Bitcoin¡¯s software.
+
+¡°On March 7th there¡¯s a transaction where transferred batches of bitcoins containing 40,000 and 50,000 each into a single address holding the 180,000.¡±
+
+Karpeles¡¯ lawyers did not immediately respond to a request for comment.
+
+Woodrow said the blockchain showed the 180,000 bitcoins were distributed in batches of 50 bitcoins each to separate wallets over a period of four days starting March 7.
+
+¡°At no point was the bankruptcy Court in Dallas notified of this at all, despite Mr. Karpeles supposedly informing his lawyers about it on March 8th and Mt. Gox seeking Chapter 15 protection on the 10th,¡± Woodrow said.
