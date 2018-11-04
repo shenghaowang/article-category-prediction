@@ -1,0 +1,49 @@
+Few red flags wave more prominently above a corporation than when two things happen: a) earnings and stock prices go south; and b) CEOs seem to be coming and going a little too quickly.
+
+Hewlett-Packard and Yahoo famously have suffered both these maladies. Symantec, the world's largest security software provider, has now stumbled into those footsteps.
+
+The Mountain View, Calif.-based data security and storage provider revealed March 20 that it has terminated the contract of chief executive Steve Bennett (pictured) after 20 months. Bennett, who came to Symantec as a board member in 2010 after CEO-ing Intuit to a $3 billion sales year, also resigned from the company's board of directors.
+
+Board member Michael Brown will serve as interim CEO while the company, best known for its Norton antivirus and BackupExec software, begins its search for a permanent day-to-day leader.
+
+Investors were not pleased by the development. The stock closed at $20.91 March 21 but plummeted 13 percent to $18.20 in after-hours trading.
+
+A number of industry analysts declared that they were surprised by the announcement. Symantec itself, however, contended that Bennett's exit was something the company had discussed for some months and did not happen as a result of anything inappropriate on his part.
+
+The reason Bennett was shooed out of his corner office so early in his tenure goes way beyond his personal on-the-job performance. Bennett has long proven himself to be a competent corporate CEO; he just wasn't the right one for this job. In fact, few people on Earth are right for this job. The company is the one with serious and deep-seated problems.
+
+In its simplest terms, Symantec is a well-established enterprise that didn't heed key trends and let new-gen IT slip by when it needed to retool several years ago. Its core business is protecting data and apps on desktop and laptop PCs; it didn't move quickly enough to invest in other lines of business when PC sales started slipping five years ago.
+
+Symantec also didn't move to the cloud quickly enough; some of its older competitors moved faster to build products that use it. Symantec only recently cloud-ized its product line, and it's having issues getting customers to buy into the new products.
+
+More than one person had been asleep at the wheel long before Bennett arrived.
+
+There are multiple sides to this story, of course. Like many old-school IT vendors, Symantec has built-in problems marshaling a large global installed base in the small and midsize enterprise market. It's extremely difficult to get all those customers to pay for regular upgrades to their software when they often think it's not required. Microsoft has, um, a modicum of experience in this department.
+
+The other major problem is the type of IT in which Symantec plays. No sector evolves faster or more thoroughly than security, which is always chasing the bad guys and never！and we do mean NEVER！getting ahead of them so as to cut them off at the pass.
+
+As a result, a great many new, less-expensive and more agile competitors from places like Eastern Europe and Israel have sprung up, and Symantec has been taking hits as a result.
+
+One of those competitors is Justin Moore, CEO of Axcient. The company has a well-known billboard up on the Bayshore Freeway！Interstate 101, which traverses the center of Silicon Valley and connects San Francisco on the north with San Jose on the south！that says: "R.I.P. Symantec BackupExec.cloud; Axcient Beyond Backup."
+
+While it's clear where Moore's loyalties lie, he also provides some cogent storage-business insider perspective.
+
+"When Steve Bennett turned around Intuit in his tenure from 2000 to 2007, the company's problem was mainly a core business and processes challenge. However, Symantec is different; the company has a technology problem," Moore told eWEEK.
+
+"Bennett was given a year and half to turn around a company that has much deeper challenges that relate to how it has been viewing technology, which is the core of its business. When Bennett announced his vision for Symantec 4.0, which was announced less than a year ago, he made the right choices！for the most part. Yet, Symantec was already too far behind the cloud/SaaS (software-as-a-service) curve to catch up. A change of this magnitude is impossible in less than 3 to 5 years," Moore said.
+
+Symantec is pinning the failure on Bennett！when, in reality, the core of its failing stems from decisions made years ago, Moore said.
+
+"Symantec lacks product focus and has spread itself too thin over a variety of product lines that spans security, productivity, protection, information management, business continuity and storage in the consumer and enterprise market. Like so many other enterprise software companies, it has struggled to transition to the enterprise cloud world proving that it is indeed a systemic issue that goes far beyond Bennett's control. Given his spectacular overhaul of Intuit's business, Bennett was the right person to tackle Symantec and had shown bold ideas to fix the company, but was ultimately thrown out by Symantec's stubbornness and shortsighted approach to its technological challenges," Moore said.
+
+Symantec has struggled in recent years against new-gen security companies such as Axcient, Palo Alto Networks and FireEye. Its $10.2 billion purchase of Veritas Software in 2005, crafted in an effort to become a serious data storage player, was widely critiqued as a mistake. Symantec's sales have been treading water for several years.
+
+Symantec's leadership turnover issues started back in 2005, when the company merged with storage provider Veritas to combine it with the Norton data protection product line. Co-CEOs John Thompson (then incumbent at Symantec) and Gary Bloom (from Veritas) didn't exactly see eye-to-eye on how to run the company, and Bloom soon left for other ventures. He now heads up database maker MarkLogic.
+
+Thompson, who was on the short list to be Secretary of Commerce in the Obama Administration in 2008, left in 2009 to do start up Virtual Instruments and is now chairman of the board of Microsoft. He was replaced by longtime Symantec executive Enrique Salem.
+
+However, the well-rounded Salem also was deposed as CEO a mere three years later (2012) in favor of Bennett. Now Bennett's out the door after less than two years.
+
+In its requisite thank you statement using Chairman Daniel Schulman's name, the board said: "We recognize Steve's contributions to Symantec, including developing and leading a series of successful initiatives focused on organizational realignment, cost reduction and process effectiveness. Our priority is now to identify a leader who can leverage our company's assets and leadership team to drive the next stage of Symantec's product innovation and growth."
+
+So the House of Norton and BackupExec is facing a real crossroads. A lot will be riding on the new face it selects to represent Symantec in the world market.

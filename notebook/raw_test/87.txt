@@ -1,0 +1,21 @@
+Troubled Bitcoin exchange MtGox was reportedly attacked 150,000 times per second by hackers in the days leading up to its collapse last month.
+
+The Tokyo-based exchange, which filed for bankruptcy protection in February, was hit with crippling distributed denial-of-service (DDoS) attacks, according to the Yomiuri Shimbun newspaper.
+
+During DDoS attacks, hackers take control of multiple computers to send a flood of data to the target, causing servers to crash and making websites unavailable.
+
+Lawyers for MtGox said that during the attacks, which lasted for several days, 750,000 Bitcoins belonging to customers were stolen, worth an estimated $575m (344m).
+
+Unlike traditional currencies, which are backed by central banks, Bitcoin is created by complex interactions between a large network of computers across the globe.
+
+Janet Yellen, head of the US Federal Reserve, said that it has no control over virtual currencies which are not backed by any central authorities. Several countries, such as Russia and China, have placed heavy restrictions on how Bitcoin can be used.
+
+MtGox was founded in 2010 by programmer Jed McCaleb, who sold the company to Tibanne Co. in March 2011. It became the world¡¯s largest marketplace for Bitcoins, handling an estimated 80pc of all transactions of the digital currency.
+
+Last week, more than 400 people signalled that they would join a class action lawsuit against MtGox, according to British law firm Selachii.
+
+It is the latest effort to try to reclaim some of the hundreds of thousands of lost Bitcoins from the exchange.
+
+Richard Howlett, co-founder of Selachii, said: ¡°On the back of the MtGox collapse, a lot of people say they feel the truth is not being stated.¡±
+
+Mark Karpeles, chief executive of MtGox, apologised for the collapse at a news conference earlier this month, blaming a ¡°weakness in our system¡±, but predicted that the market will grow.

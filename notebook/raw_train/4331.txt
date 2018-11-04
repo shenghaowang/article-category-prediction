@@ -1,0 +1,175 @@
+FORTUNE ¡ª eBay has started to go on the offensive.
+
+The e-commerce giant began taking swings of its own following the recent activity of billionaire activist investor Carl Icahn, who owns 2% of eBay (EBAY) shares. In late January, Icahn called for a PayPal spin-off and nominated two of his employees to eBay¡¯s board of directors. Then in an open letter to shareholders a month later, he accused eBay board members Marc Andreessen, founder of VC firm Andreessen Horowitz, and Intuit (INTU) founder Scott Cook of ¡°certain material conflicts of interest, which we believe could put the future of our company in peril.¡± eBay in turn, returned the favor, with company blog posts calling for an end to Icahn¡¯s ¡°charade.¡± Regardless, the emerging proxy fight has helped drive up company shares substantially from $52.45 a share in late January to $59.55 at Friday¡¯s close.
+
+eBay CEO John Donahoe sat down with on Friday to clear things up. The following interview was edited for length and clarity:
+
+In Silicon Valley, there are numerous examples of board members who are on multiple boards. Eric Schmidt, who was once on Apple¡¯s board, comes to mind.
+
+I think what every company wants to do is build a board with relevant experience and expertise and diverse experience that can add value to the company. Inevitably, in a fast-moving technology world ¡ª and even outside of technology ¡ª there are going to be conflicts. Potential conflicts. And that¡¯s particularly true with people who do investments as a full-time living because they¡¯re investing in multiple things.
+
+So a private equity person is sitting on a board, a venture capitalist or any other hedge fund person. And it¡¯s standard practice. The reason why they¡¯re on the board is because they have such good exposure.
+
+But what happens when a conflict arises?
+
+The standard practice is you recuse yourself. If the conflict got so big ¡­ Take Eric and Apple. What happened was, when it got to be competitive ¡ª a material conflict ¡ª then he stepped down.
+
+So let¡¯s take where Carl is accusing conflict: Scott Cook. He¡¯s saying Intuit and eBay compete.
+
+We look every year. The SEC has something called the Materiality Test. The competing portions is less than 1% of our revenues.
+
+So Carl¡¯s going to come out and show the PayPal Here swipe and Intuit¡¯s Swiper. For us, that¡¯s less than 1% of our revenues. PayPal Here is part of what we do.
+
+Yes. So we file a Materiality Test around Scott Cook every year. We have a standard process.
+
+Now what about Marc Andreessen?
+
+Marc recuses himself if we ever get to something where he is personally investing.
+
+Can you give me a specific example of that?
+
+Andreessen Horowitz invested in Boku. There were two digital micropayments companies: Zong and Boku. Marc invested in Zong and Boku long before we bought Zong. So we buy Zong. It¡¯s a couple-million-dollar acquisition. Zong¡¯s revenues were a tiny percentage of our overall.
+
+Marc had already invested in Boku. We looked at both Boku and Zong. Marc didn¡¯t know we looked at Boku and Zong. And should Marc step off the board because he made an investment in one of the things we invested in?
+
+So you¡¯re saying conflicts are inevitable.
+
+There are going to be conflicts, and when those happen, you recuse yourself. And if they¡¯re going to be material, you would step off the board.
+
+Give me a specific example of an instance where Marc didn¡¯t participate in a particular board meeting decision.
+
+So here¡¯s what happens ¡­ There¡¯s a process where when one of our board members is potentially investing in an entity where they think could conflict with PayPal or PayPal may want to invest in, they raise it. That includes Pierre Omidyar and Omidyar Network. That includes Andreessen Horowitz. That includes Elevation Partners. Fred Anderson. And we are made aware of it and we could communicate back that we saw that as a material conflict.
+
+And you feel that regardless of these instances, you feel they¡¯re able to balance their interests with what¡¯s best for the companies?
+
+Yes. I feel they add enormous value. And remember, they¡¯re doing seed investing. Who knows if the seed investment is going to take off or not? They¡¯re investing in tiny startups. Skype was the only big company I think Andreessen Horowitz invested in. They¡¯re investing in seed startups. Who knows who¡¯s going to have lightning in a bottle? Startups are ¡­ they¡¯re not trying to create the next PayPal or eBay.
+
+Andreessen Horowitz invested in Fab. Well, is Fab a competitor to eBay and Marketplaces? Andreessen Horowitz invested in Pinterest. Is Pinterest? Pinterest may do some advertising on it.
+
+Icahn himself has historically said in the past that he can deal with conflicts of interests. So is Icahn being hypocritical in saying he can deal with conflicts of interests but eBay, Marc, and Scott can¡¯t? After all, Icahn nominated two directors from Icahn Enterprises to eBay¡¯s board.
+
+For someone who really wants to dig on that, it¡¯s a question of whether they¡¯re an independent director on that. Comes in as an employee as the investor, who¡¯s got the answer. They are not bringing an open-mindedness to the board. They are bringing an agenda to the board.
+
+Have you had any direct contact with Icahn since your initial phone call before earnings?
+
+And how was that encounter?
+
+A frank exchange of views. It was a good conversation. I reached out to him as a shareholder, just as I¡¯ve met with our other large shareholders ¡ª
+
+When was this? Recently?
+
+¡ª when I want to have dialogue and I want to listen to their thoughts, ideas, and feedback. And I did that with Carl just as I did it with the others.
+
+And when was that?
+
+We agreed to have ground rules. We agreed it would be off the record. This allowed an open conversation, and it was a good, mutually respectful dialogue that¡¯s different than all that stuff going on in the media. It was an intelligent, informed, mutual discussion.
+
+Was there any gentleman¡¯s agreement to not criticize or ¡°bad-mouth¡± each other publicly?
+
+No! [laughs] But I¡¯ll say this about Carl. He said what he was going to do. We had different points of view. The irony is that we both share the view of driving up shareholder value. It¡¯s just a matter of a different perspective of timeframe that matters and how you get there from here.
+
+You¡¯re obviously long-term focused, but how much of a say do you think short-term traders should have? How valuable of a voice do they have compared with long-term shareholders?
+
+You get to the long-term with a thousand short-terms. You never create long-term value if you ignore the short term. You¡¯ve got to pay attention to the short term, whether it¡¯s each and every quarter. That¡¯s true with customers. That¡¯s true with innovation, and that¡¯s true with execution, and that¡¯s true with shareholder value. So that doesn¡¯t mean whether the issue short-term trade-offs that hurt the long term. That¡¯s what we don¡¯t want to do. But we want to do short-term intelligent decisions that help in the short term and the long term.
+
+And sometimes you have to make a decision in the short term that may not materialize immediately.
+
+We bet hard on mobile before it took off. We¡¯re betting right now in Russia, in Brazil, in India, in the emerging markets. We¡¯re betting in our local, online-to-offline efforts. Something like our eBay Now. PayPal offline. We¡¯re making bets that in the short term don¡¯t have payback but in the long term we think would. We¡¯re just not willing to make short-term decisions that hurt you in the long term.
+
+It¡¯s not like you¡¯re allowed to sit there, focus on the long term, and put your head in the sand. So I feel the pressure from our board and management team each and every day.
+
+So, to sum up, you think Carl is doing this to raise attention and temporarily have share value pop? Drive share value up and move on out?
+
+I think the evidence speaks for itself! Look at the track record.
+
+We¡¯ve spent a lot of time talking about Carl and spin-offs. What we haven¡¯t talked about is acquisitions. Let¡¯s talk about that.
+
+Obviously, you want to make acquisitions that help eBay in the long-term, but beyond that, can you expand or elaborate?
+
+One of the best, most recent examples is Braintree. We thought Braintree had enormous strategic value for PayPal and vice versa. That PayPal could help Braintree expand. So we paid an expensive premium.
+
+Braintree will dilute eBay¡¯s value 3 cents a share. It¡¯s 3 cents diluted. It¡¯s driving PayPal¡¯s margin. It¡¯s one of the reasons PayPal¡¯s margin is going down. We invested a lot of money in Braintree ¡ª $800 million to buy it ¡ª and we invested money into it, which we think is going to drive greater growth. And who are Braintree¡¯s customers? Its customers are third-party developers. They¡¯re the future.
+
+Look at the companies [who are Braintree¡¯s customers]. The sharing economy companies: Uber, Airbnb, LivingSocial. They¡¯re driving social. They¡¯re a really innovative platform. When it¡¯s really simple and easy to use, you combine the PayPal SDK and the Braintree SDK, we think it¡¯s an incredible market-leading product. That¡¯s what we¡¯re executing on. That is going to hurt our margins in the short term but it¡¯s going to drive our growth in the medium-to-longer term. Important, strategic sustainable growth.
+
+You¡¯ve made 37 acquisitions. One of the most controversial ones happened in September 2008, when you bought BillMeLater for $800 million during the financial crisis.
+
+It was the same month Lehman Brothers went under. We bought a credit business. We were widely criticized. It drove our margins down in PayPal for two years, but we integrated it into eBay. We integrated it into our portfolio. And now BillMeLater is growing significantly and has strategic value beyond financial values. We will continue to make acquisitions that have that effect.
+
+Do you think this experience with Icahn will have any impact ¡ª even subconsciously ¡ª on entrepreneurs deciding whether to take their companies public as opposed to getting acquired?
+
+I hadn¡¯t thought about that. It may make people to think about who they want their investors to be. If you want to build for the long term, you want to have long-term-oriented investors. Again, long-term-oriented investors care about the short term, but they say make intelligent trade-offs along the way. So I think any company cares about who they want their investors to be.
+
+Previously, when the first letter to shareholders came out, you guys were quieter with regards to speaking out. That has clearly changed in a myriad number of ways. Why the change?
+
+Our principle is not to play into the theatrics. Our principle is to try to get facts out. And when accusations are made about our directors, its individuals, our board, or our company, we¡¯re simply trying to get the facts back out. That was true in the first two releases last week. That was true in the first share letter to shareholders, and that was true in the Skype facts released earlier this week. So we¡¯ve tried to keep it factual. Marc has also decided to put his communications in a way that says he¡¯s speaking out as an individual. He¡¯s got significant constraints of what he can say as an eBay board member during this process. And Marc¡¯s being clear his postings on his blog are his perspectives. He¡¯s allowed to speak up as Marc Andreessen who is also a board member. I¡¯m trying to keep our focus and my focus on what shareholders want me focused on, which is not fighting some big proxy fight. It¡¯s driving up value, focusing innovation. I¡¯m working as hard as I can to keep my organization¡¯s focus and our focus on that.
+
+Here, you call Carl¡¯s actions ¡°theatrics.¡± Separately, a company post calls them a ¡°charade.¡± Is that indeed what this is? A charade?
+
+I believe the core question at hand is how to build the best sustainable shareholder value and build the best company to drive shareholder value. I believe people can disagree on the best path to get there. I happen to believe that a short-term financial engineering approach is not the best way to get long-term value. I believe we can drive greater value, greater sustainable value by working together focusing on customers, innovation and execution that will deliver growth, sustainable growth and sustainable shareholder value.
+
+So I¡¯m happy to debate that all day long. I¡¯m happy to listen to shareholders¡¯ perspectives, and have a back-and-forth dialogue. The board and I will make the best decisions [about] what¡¯s the best path for shareholder value. I believe a lot of the other issues are being played out in theatrical ways that don¡¯t have anything to do with that fundamental question.
+
+Saying eBay is a totalitarian state ¡­ You draw your own conclusion of that.
+
+Let¡¯s talk about PayPal. You¡¯ve said in the past that four key areas ¡ª mobile, global, local, and data ¡ª all feed off each other and help PayPal in the process.
+
+It¡¯s interesting to look at what¡¯s happening in the external environment now. There are lots of startups, but the big guy ¡­ I never wanted to be quoted naming another company. One of the biggest advertising companies is going into payments. One of the biggest social networking companies is expanding its reach. It¡¯s about scale. Scale gives you data. Scale helps you with global. Scale helps you stay relevant to consumers. So there¡¯s a convergence, not a divergence.
+
+And so, when we look at the best way to create sustainable value for customers and for shareholders, we believe it¡¯s in this environment, it¡¯s with these together.
+
+We have what others want: The only scale-payments platform in the digital area thus far. And one of the fundamental reasons PayPal has done what it¡¯s done is because it did it on top of eBay. Reid Hoffman¡¯s piece hit that beautifully.
+
+None of the other payments companies have had a flywheel to build on. Now, PayPal will be larger than the eBay Marketplace. PayPal has enormous potential. And we are completely capable of driving that potential.
+
+You¡¯ve said in the past PayPal will surpass Marketplaces in revenues.
+
+One of its strengths is it¡¯s on top of the eBay business. And this notion that somehow you could spin it out so one of these guys can buy it, that¡¯s just financial engineering. That¡¯s a short-term shareholder financial engineering move. That¡¯s not building sustainable value. The company it has the most synergy with is called eBay! And so we¡¯re investing in driving that.
+
+Well, let¡¯s talk about the ways that already may be evident.
+
+You know, four years ago, no one would have downloaded the PayPal mobile app. But 120 million people downloaded the eBay mobile app, because you wanted to buy something. And [eBay¡¯s mobile commerce app has] gone from zero to $22 billion in 4 years. Well, PayPal was the only way to pay. So it got PayPal¡¯s mobile payment volume going to where it was $600 million in 2010 and it rode the eBay flywheel, so now PayPal last year, it grew to $27 billion in mobile payments volume. So it has momentum that is growing rapidly off of eBay.
+
+We¡¯ve taken the strong balance sheet and cash flow and earnings eBay provides, and it¡¯s allowed us to invest heavily in PayPal. And make long-term investments. There¡¯s no one like us who can fund the BillMeLater receivables than our off-shore cash. The ability to move and buy a company like Braintree. There¡¯s nobody holding PayPal back from being part of eBay. In fact, it¡¯s the opposite. It¡¯s accelerating its growth.
+
+You¡¯re betting big on global expansion, particularly in BRIC markets.
+
+Take Russia. PayPal wants to go into Russia. No one¡¯s heard of PayPal in Russia. But eBay has over 1 million accounts [in Russia]. People in Russia shop on eBay. And they shop on eBay U.S., eBay Australia, and they get PayPal accounts. When PayPal went into Russia, it started with a million [users].
+
+It starts with consumers. It gets its payments license. We get our payments license. We convert the PayPal site into Russian, which helps the business, and that¡¯s getting that flywheel going into Russia. We¡¯re stronger going into these global markets together than we would be apart.
+
+As we extend into the offline world, we¡¯re stronger together than we are apart. And data is helping fuel a lot of this. The ability to add personalization, curation, demand generation. The ability to provide even greater risk management capabilities that allow a safe and clean experience. We¡¯re leveraging the combined data. It¡¯s a race for data. Together, we have $210 billion of closed transaction data which is what no one else has. It¡¯s not click-through data, it¡¯s the closed transaction data across 140 million consumers and 25 million active merchants. And that¡¯s an asset PayPal leverages and eBay leverages. It makes PayPal stronger. So I think the greatest path to shareholder value is to build a strong, sustainable company.
+
+The other thing I would say is there¡¯s a window of opportunity here. If I take your industry, there¡¯s a window of opportunity that started back here [2008] and now actually, it¡¯s still vibrant, but who the winners and losers are have become increasingly clear. There¡¯s still change, but ¡­
+
+And I don¡¯t believe the greatest path to shareholder value is distracting, financial engineering. I believe the best path to value is focusing and capitalizing on our opportunities, leveraging the scale, the synergies, and strengths. And I am completely in agreement that PayPal¡¯s upside potential is enormous. Its upside potential is bigger than the marketplace. The marketplace will be the one of the winners in commerce. PayPal can be a payments winner that helps power all of digital commerce.
+
+Here¡¯s an irony. I want to talk about Skype.
+
+You¡¯ve seen Carl criticize me for getting rid of Skype too early. That we would have had more shareholder value. I could argue it¡¯s the very same argument here. PayPal has PayPal Now. We¡¯re missing during a key period of time an enormous value creation that we can capitalize on, focus and execute. And that it¡¯ll be worth more three years from now together than by separating them today. I think the collective entity will be worth more together.
+
+But Carl is, as you like to say, ¡°financially engineered¡± and short-term sighted.
+
+And he¡¯ll be out. Drive it up. Get out. He won¡¯t be here! And so I have the responsibility. The best way to drive value, sustainable shareholder value is by focusing on customers, innovation, execution, and growth. And we¡¯re stronger and can do that better together. That¡¯s my fundamental belief.
+
+Someone recently said the 21st century equivalent of the gold rush and the gold is data because there¡¯s so much value in it. That sounds a lot like what you¡¯re saying.
+
+And because of current synergies, a lot of data is traded between eBay and PayPal.
+
+Why would you divide up the data?! Everyone is paying millions to get to the data. Why would you divide up the data? [sigh] On the surface, it¡¯s a very superficially simple thing to say, ¡°Oh, I¡¯ll just spin it out,¡± or, ¡°I¡¯ll just spin out a portion.¡± I believe that is a distraction in a key period of opportunity. What drove shareholder value in the last five years has been focus, innovate, customers, execution.
+
+You¡¯ve heard me tell everyone, the next few years isn¡¯t going to be any easier than the last few! You know? You¡¯ve heard me say that! Right?? But the best way is to drive real, sustainable shareholder value.
+
+My goal is to have that $50 share value be $100, depending on a time frame. People will be releasing our plans and blah blah blah blah blah [and] I can¡¯t be committed to any [timeline]. But it¡¯s leveraging our 120 million customers and 25 million active sellers in an environment where there¡¯s convergence.
+
+Everyone¡¯s like, you have to spin off PayPal. Everyone wants PayPal. We have PayPal! We have what everyone wants! Now, I believe this is the best way to grow PayPal. And part of my challenge and part of what I will be spending time on is getting this message out clearly.
+
+It¡¯s not a zero-sum game. I think Amazon can be a winner and Google can be a winner and eBay can be a winner. So I don¡¯t think it¡¯s a zero-sum game here. But it doesn¡¯t lend itself to superficial sound bytes. It¡¯s the fundamental direction and the fundamental opportunity we¡¯re going after.
+
+You don¡¯t like naming companies, and you don¡¯t like being compared to this particular one. But let¡¯s just say it: Amazon. If there¡¯s one thing you two have in common now, it¡¯s that perhaps there are misconceptions or misunderstandings about prioritizing the long term over the short term. For years, Amazon was misunderstood regarding Amazon Web Services.
+
+Yes, yes, yes. Or imagine giving away a free operating system. Or we¡¯re going to a $1 billion for a photo-sharing service that has no [revenue model]. It¡¯s what Reid said. I¡¯ll call it a long-term orientation vs. a short-term. And believe me long term doesn¡¯t mean you don¡¯t look at shareholder value. It¡¯s just a belief that the best way to getting to shareholder value ¡ª on the Internet or in the digital world ¡ª is being on regarding ongoing innovation and continuous execution. And there¡¯s no substitute. If you don¡¯t get those right, you don¡¯t drive shareholder value. But if you do, it drives enormous shareholder value in our sector. Our sector is not a mature industry.
+
+A significant number of eBay shareholders would agree with you.
+
+I think many of our shareholders understand the synergy. I think the long-term shareholders believe that PayPal and eBay together can drive greater growth and thus greater shareholder value over time. And they¡¯re looking to us to continue to innovate and execute. That¡¯s where I want 100% of my and our focus to be. Not on messy distraction separation or other short-term things that may look compelling on the short term. Maybe they create a pop, but I don¡¯t think they create sustainable value. They¡¯re just moving chess pieces around on a chessboard.

@@ -1,0 +1,17 @@
+Forbes reports that anonymous hackers took over community website Reddit, as well as the personal blog of MtGox CEO Mark Karpeles, on Sunday to allege that Karpeles had actually retained some of the Bitcoins that the company said had been stolen from its users.
+
+The blog post has since been removed, although the message can be viewed on Pastebin.
+
+"It's time that MTGOX got the bitcoin communities wrath instead of Bitcoin Community getting Goxed. This release would have been sooner, but in spirit of responsible disclosure and making sure all of ducks were in a row, it took a few days longer than would have liked to verify the data."
+
+The 716MB file dumps appears to include personal data 每 including Karpeles' home address and resume, as well as a purported screenshot of MtGox's Bitcoin balance.
+
+Hackers say that this ledger shows that the trading exchange still has a current balance of 951,116 BTC which would 每 if true 每 mean that customer Bitcoins have not been lost, but rather that fraud has been committed. MtGox filed for Japanese bankruptcy on 28 February and claimed at the time that it had lost around 850,000 Bitcoins, including 100,000 of its own, as well as approximately 16.41 million (US$ 27.3 million) in customer deposits.
+
+Forbes writer Andy Greenberg points out that it is possible that this could simply be a case of accounting mismatches, with the exchange counting Bitcoins as being safe even when they had already been stolen. However, it is worth noting that since MtGox has filed for bankruptcy protection, the public ledger of Bitcoin transactions 每 the Bitcoin blockchain (which tracks the movement of currency, while ensuring that the users are anonymous) 每 has not registered any movement of the ※stolen§ virtual coins.
+
+※I couldn't verify that Sunday's database dump was real, or that it showed any of the 'lying' that the hackers claimed. In fact, it may simply show how MtGox's accounting mismatched with its actual store of Bitcoins每that it was counting Bitcoins as being safe in its coffers when they had already been stolen by thieves,§ said Greenberg.
+
+In related news, MtGox recently issued a press release to say that phishing campaigns have been making the rounds. Hackers have used MtGox's identity and been asking for the name, address, username, password and bank account numbers of those who have lost virtual currency.
+
+Karpeles and other MtGox officials couldn't be reached for comment on this story.

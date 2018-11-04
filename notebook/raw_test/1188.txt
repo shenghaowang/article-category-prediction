@@ -1,0 +1,37 @@
+Turkey said on Saturday that Twitter was "biased" and had been used for "systematic character assassinations" of Prime Minister Tayyip Erdogan's government, a day after Turkey's ban on the site prompted an international outcry.
+
+The Turkish authorities blocked Twitter late on Thursday, hours after Erdogan vowed to "wipe out" the social media service during the campaigning period for local elections on March 30.
+
+Leading condemnation from Western governments and rights organisations, the White House said the Twitter ban undermined democracy and free speech.
+
+The site remained blocked in Turkey on Saturday. Those trying to access Twitter found an Internet page carrying court rulings saying that the site had been blocked as a "protection measure".
+
+Many Turks reported difficulties in accessing not just Twitter but the Internet as a whole, according to media reports and comments on social media.
+
+Erdogan's office said in a statement that the ban on Twitter was in response to the company's "defiance" in failing to comply with hundreds of court rulings since last January.
+
+"Twitter has been used as a means to carry out systematic character assassinations by circulating illegally acquired recordings, fake and fabricated records of wiretapping," the prime minister's office said.
+
+In recent weeks, audio recordings have been released via Twitter on an almost daily basis purporting to be telephone conversations between senior government members and businessmen that reveal alleged corruption.
+
+"It is difficult to comprehend Twitter's indifference, and its biased and prejudiced stance. We believe that this attitude is damaging to the brand image of the company in question and creates an unfair and inaccurate impression of our country," the statement from Erdogan's office said.
+
+Similar measures have been taken on the same grounds in other countries to prevent violations of personal rights and threats to national security, it added.
+
+Erdogan is battling a corruption scandal which he says is a plot to undermine him by a US-based, Turkish Islamic cleric Fethullah Gulen. Gulen is a former ally whose network of followers include influential members of Turkey's police and judiciary. Gulen denies orchestrating the graft investigation.
+
+Erdogan's government has responded to the scandal by tightening controls of the Internet and the courts and reassigning thousands of police and hundreds of prosecutors and judges, often demoting them.
+
+Erdogan, who is campaigning for his party in local elections next week, did not talk about the Twitter ban at rallies on Friday and Saturday.
+
+Many Turks have been able to get around the Twitter ban, either by using virtual private network (VPN) software or changing their Domain Name System (DNS) setting, effectively disguising their computers' geographical whereabouts.
+
+But on Saturday morning, many people reported that computers that had been set with DNS numbers widely circulated to help people get around the ban were unable to access the Internet.
+
+"Apparently alternate DNS servers are also blocked in Turkey. New settings are being circulated," wrote one Twitter user.
+
+There was no official comment on whether alternate servers had been blocked. By early afternoon many on Twitter were reporting that the alternative DNS settings were working.
+
+The Turkish government has said it is in talks with Twitter and that the ban would be lifted if the San Francisco-based firm appointed a representative in Turkey and agreed to block specific content when requested by Turkish courts.
+
+The company said in a subsequent tweet that it stood with its users in Turkey who rely on Twitter as a "vital" communications platform. It said it hoped to have full access returned soon.

@@ -1,0 +1,35 @@
+New York attorney general Eric Schneiderman has called for tough regulations to tackle practices such as co-location, which he claims give high-frequency traders unfair advantages and distort the market.
+
+Schneiderman - who has been investigating HFT practices as part of an 'insider trading 2.0' campaign - has homed in on services offered by trading venues that benefit HFT firms at the expense of other market participants.
+
+
+
+Speaking at a symposium in New York, the attorney general highlighted the practice of allowing traders to locate their computer servers within trading venues; providing extra network bandwidth to high-frequency traders; and attaching ultra-fast connection cables and special high-speed switches to their servers. 
+
+
+
+All of these practices are designed to give clients millisecond advantages, enabling them to make trades, often risk-free, before the market has time to react. 
+
+
+
+Co-location arrangements also help HFT firms to continuously monitor all the exchanges for large incoming orders. If a firm can detect a large order from an institutional investor - like a pension fund - it can instantaneously position itself on the other side of the trade, driving up the prices artificially.
+
+
+
+This, in turn, forces big investors into adopting complicated and expensive defensive strategies like fleeing to dark pools to conceal orders from "parasitic traders", says Schneiderman.
+
+
+
+The attorney general is calling on exchanges and regulators to look into changes that would see orders processed in batches rather than continuously to ensure that price rather than technology-driven speed decides who obtains a trade.
+
+
+
+"Rather than curbing the worst threats posed by high-frequency traders, our markets are becoming too focused on catering to them...It's long past time that we focus on structural reforms to help eliminate the unfair advantages enjoyed by high-frequency traders," says Schneiderman.
+
+
+
+The attorney general has already had some success in his crusade against HFT. Last July, under pressure from him, Thomson Reuters agreed to suspend its practice of providing traders with consumer survey results a couple of seconds before the information was given to other subscribers. 
+
+
+
+Since then, BlackRock, the world's largest asset manager, has agreed to end its practice of systematically surveying Wall Street analysts for their sentiments on firms it covers in order to obtain advance information.

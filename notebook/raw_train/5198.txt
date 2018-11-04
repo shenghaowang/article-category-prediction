@@ -1,0 +1,23 @@
+Oracle reports its third-quarter earnings on Tuesday and analysts have hopes for a good quarter.
+
+They are expecting 4% growth in revenue over the year-ago quarter, and EPS to be $0.70, up from $0.65.
+
+If the company exceeds these targets, it will be a two-in-a-row beat.
+
+Oracle could really use that. It missed revenue expectations for the prior three quarters in a row, an almost unheard of series of misses for the company as it struggled to stop its hardware business from shrinking.
+
+With revenue soft, Oracle spent most of 2013 in cost-cutting mode. That meant that many Oracle employees didn't get their bonuses, Wall analyst analyst Steve Koenig, of Wedbush said in a research note published last week:
+
+"Our checks suggest FY13 bonuses were trimmed or eliminated for many employees across the company , which augurs wells for cost control, but not so much for ORCL's ability to attract and retain talent."
+
+Koenig clarified to Business Insider, "It's anecdotal, but we heard from more employees that they are not getting their fiscal '13 bonuses, which ended [last] May. And it seems that that sort of thing is more frequent than it has been in the past. [This affects] people in marketing, internal development, etc."
+
+The company has been beefing up its revenue numbers with cloud acquisitions. However Koenig says that once those acquisitions get absorbed, Oracle hasn't been making much hay with them.
+
+"Some of the SaaS acquisitions they've done don't look they are generating a whole lot of growth. I've heard that RightNow is doing really well, but I conclude that Taleo is probably not growing well," he says. Oracle bought customer service cloud RightNow for $1.5 billion in 2011 and bought human resource cloud Taleo for $1.9 billion in 2012.
+
+He says that if you strip out the revenue from whatever cloud acquisition Oracle has most recently completed, "cloud revenue out stays flat."
+
+Still, Koenig isn't panning the stock altogether. He maintains a "neutral" rating and target price of $40. The stock is trading at about $38 now.
+
+He thinks Oracle is going to beat consensus expectations tomorrow, and that it's doing an especially good job in selling its the latest version of its bread-and-butter product, the database. Oracle released a new version of its database, 12c, last summer. 12c is designed for cloud computing applications, an area where enterprises are investing heavily.

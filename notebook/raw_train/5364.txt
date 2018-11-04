@@ -1,0 +1,23 @@
+Oracle Corp. shares declined in the extended session Monday after the enterprise software company¡¯s quarterly earnings report and forecast did not show the cloud-software growth Wall Street expected.
+
+Oracle ORCL, +0.10% shares fell 3.7% in immediate after-hours trading following release of the report, a gap that expanded to more than 6% after Oracle co-CEO Safra Catz provided the fourth-quarter forecast in a conference call. That forecast was short of expectations in total cloud sales, after the third-quarter numbers came up slightly short in cloud-software growth, fueling fears that Oracle¡¯s cloud transition is slowing down.
+
+Don¡¯t miss: Cloud reality is here for Oracle
+
+The software company reported a fiscal third-quarter net loss of $4.02 billion, or 98 cents a share, compared with a profit of $2.24 billion, or 53 cents a share, in the year-ago period. Excluding a $6.9 billion charge from the U.S. tax overhaul and other costs, adjusted earnings were 83 cents a share. Analysts surveyed by FactSet had estimated 72 cents a share on average.
+
+Revenue rose to $9.77 billion from $9.21 billion in the year-ago period. Adjusted revenue came in at $9.776 billion, just shy of the Wall Street estimate of $9.781 billion.
+
+Some of that weakness in revenue came from Oracle¡¯s Software-as-a-Service, or SaaS, business. Oracle reported a 12% increase in SaaS sales to $1.15 billion, but that fell short of the Wall Street estimate of $1.18 billion.
+
+In a statement, Oracle Chief Executive Mark Hurd said the company¡¯s SaaS business is in its¡¯s early days and is ¡°rapidly¡± approaching $5 billion annually.
+
+¡°We expect to more than double the size of our SaaS business very quickly,¡± Hurd said.
+
+Platform-as-a-service and Infrastructure-as-a-Service sales rose 4% to $415 million, while analysts were expecting $407 million. On the whole, cloud sales rose 16% to $1.57 billion, in-line with what analysts expected.
+
+That was not the case for the fourth-quarter cloud forecast, however. Oracle projected growth in total cloud sales of 19% to 23% year-over-year, but analysts on average were projecting growth of more than 27%, according to FactSet.
+
+New software license sales rose 14% to $1.39 billion, lower than the $1.42 billion consensus estimate from analysts. Meanwhile, software license updates and product support sales rose 52% to $5.03 billion versus the $4.97 billion Wall Street estimate.
+
+Total on-premise software revenue rose 66% to $6.42 billion, compared with the Wall Street consensus of $6.39 billion.

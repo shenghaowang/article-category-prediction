@@ -1,0 +1,63 @@
+Comcast's $45.2 billion acquisition of Time Warner Cable (TWC) is expected to be thoroughly scrutinized by the Department of Justice (DOJ) and Federal Communications Commission (FCC), and it could be blocked if the agencies decide the merger would significantly reduce competition and harm consumers.
+
+Even if Comcast wins approval, the merger might require consumer protection provisions that would make it harder for Comcast to wield its increased size in ways that make the TV and Internet markets less competitive. Comcast said it expects regulatory review to take nine to 12 months. For now, let's take a look at what authority the DOJ and FCC might use to block or alter the proposed acquisition.
+
+Telecom expert Harold Feld, senior VP of consumer advocacy group Public Knowledge, explained that the DOJ and FCC each have authority here, but the processes they use are quite different.
+
+The FCC's authority stems from the fact that Time Warner Cable would have to transfer Cable Television Relay Service licenses and telephone service licenses to Comcast.
+
+"The FCC is somewhat different because the FCC actually is the adjudicator," Feld said. "The FCC as a commission must determine whether the transfer of the licenses serves the public interest. The burden is on the applicants to show there are sufficient public interest benefits to offset any potential harms to the public interest."
+
+The FCC could approve the acquisition outright or approve it with conditions. If Comcast agrees to the conditions, it's smooth sailing. If the FCC wants to challenge, it wouldn't immediately reject the merger. The FCC would declare "that there are issues of material fact, questions we can't answer from the current state of the record on whether this serves public interest," Feld said. The FCC would refer the questions to an administrative law judge (ALJ), who would hold a full evidentiary hearing complete with cross-examination of witnesses.
+
+"If the FCC refers to an ALJ, that is generally considered to be the kiss of death for a merger because it takes several years to get through that process," Feld said. The ALJ hearing itself could take several months, and even after it's done the merger would go back to the FCC for review. The decision could be appealed regardless of who wins, potentially making the whole process too lengthy for Comcast to bother with.
+
+The FCC went the ALJ route in 2002 for the proposed Dish/DirecTV merger and in 2011 with AT&T/T-Mobile. Both acquisitions were doomed.
+
+Now that we've talked about the process, on what grounds could US authorities prevent Comcast from buying Time Warner Cable? The first and perhaps most important question is how to define the market or markets that would be affected by the transaction.
+
+Comcast has placed its focus on the multichannel video programming distribution (MVPD) market, saying that the acquisition of TWC would bring Comcast from 22 million to 30 million subscribers, or less than 30 percent of the nationwide total. Comcast offered to divest itself of three million subscribers in a bid to get under 30 percent and perhaps appease regulators.
+
+Additionally, Comcast has pointed out that it does not compete against Time Warner Cable in any individual cities or towns. That fact is illustrative of how little competition exists in the cable market, as the vendors have effectively divided up territories to the point where individual consumers have few choices. To Comcast's antitrust lawyers, it's a positive¡ªthe merger won't reduce the number of cable choices customers have.
+
+Comcast's market definition isn't the only one that will be proposed, though. Consumer advocacy group Free Press claimed that the merger would give Comcast control over "more than half of the US triple-play market for video, voice, and Internet service," and thus "unprecedented market power over consumers and an unprecedented ability to exert its influence over any channels or businesses that want to reach Comcast's customers."
+
+Comcast's increased size would make it easier to demand payments in the peering market from Internet bandwidth providers like Cogent or Level 3, instead of continuing to exchange traffic for free as has been the tradition. Comcast could also use greater negotiating power to get higher payments from other phone providers for the ability to complete calls to Comcast customers.
+
+Comcast's digital voice technology isn't regulated as extensively as the traditional phone service offered by the likes of AT&T. Thus, Comcast could say, "hey Sprint would you like to be able to complete your calls to people who live in homes that have Comcast digital voice? You will need to pay more than you already pay," Feld said. Rural telephone providers could also see their rates go up "because Comcast controls all the major cities and they're unregulated," Feld said.
+
+Comcast's buy of Time Warner would also strengthen its purchasing power for TV programming.
+
+"Right now, Comcast pays a third or half as much for programming as any upstart infrastructure provider," said Susan Crawford, a law professor, former tech policy advisor to President Obama, and author of Captive Audience: The Telecom Industry & Monopoly Power in the New Gilded Age. "This is the source of Comcast's secret strength because 91 percent of Americans who subscribe to high-speed Internet access also subscribe to pay-TV, so any prospective infrastructure competitor has to enter two markets at once: the market for programming, where the costs per subscriber will be sky-high compared to Comcast's, and the market for building physical infrastructure. Because the merger makes Comcast that much bigger, this gulf will widen, making competition even more unlikely than it was when Comcast was operating on its own."
+
+Comcast's advantage in buying programming is particularly problematic for sports networks, because pay-TV providers have been able to keep most major sports packages out of the hands of online video providers like Netflix. "Although Comcast claims its pay-TV programming competes with Netflix, YouTube, and Hulu, of which it's a part owner, its power to instruct programmers not to sell to those outlets will be increased as it gets bigger," Crawford told Ars.
+
+A bigger Comcast would also have greater negotiating power with cable modem equipment makers, she said.
+
+Comcast argued that its increased size will bring cost savings and efficiencies that can help it improve quality of service and technology offered to consumers. The Information Technology and Information Foundation, arguing in favor of approving the merger, wrote that "the economic benefits of the combined efficiencies and economies of scale will flow to consumers in the form of lower prices and/or higher quality service."
+
+Comcast itself won't promise lower prices, though. "We're certainly not promising that customer bills are going to go down or even increase less rapidly," Comcast Executive VP David Cohen said on the day the acquisition was announced.
+
+For the moment, let's assume the Comcast/Time Warner merger will be approved with conditions. What would those conditions look like?
+
+Comcast already offered to divest itself of three million subscribers and said net neutrality provisions it agreed to in its purchase of NBCUniversal in 2011 will be automatically extended to Time Warner. Those conditions, which expire in 2018, prevent Comcast from blocking or discriminating against Internet services like Netflix or YouTube.
+
+Those provisions could be extended or made permanent, Feld said. Other possible conditions could include a requirement to offer Internet service with unlimited data, at least in Time Warner Cable territory. Data caps might be a topic of merger proceedings, because Comcast has been moving more aggressively toward "usage-based billing" than its competitors.
+
+Device attachment requirements that go beyond existing "CableCARD" rules that let consumers use third-party equipment with cable services could also be on the table. The FCC and DOJ could also seek limits on what Comcast can charge for phone interconnection and use the merger as an opportunity to dive deeper into the peering market.
+
+Peering deals have generally been shrouded in secrecy. But we do know the failure of peering negotiations can harm the quality of home and business Internet service because it can lead to congestion in the links that pass traffic from one network to another.
+
+"If we were in a competitive world, Comcast would have every incentive to make those gateways [between networks] as wide as possible so as to respond to consumer demand," Crawford said.
+
+But the FCC hasn't publicly taken any major steps to investigate the peering market.
+
+"The merger makes this issue front and center because our argument is you're creating a company that will have the majority of residential subscribers in the United States, and that's market power in the peering market," Feld said. "Even if the FCC ultimately decides they don't need to do anything, they are going to demand to take a look at it, and the DOJ is going to demand to take a look at it, because it's a relevant market."
+
+Comcast has said this transaction won't negatively impact the peering market, and it pointed to the fact that it hasn't had a public peering dispute since a battle with Level 3 in 2010.
+
+Crawford suggested that Comcast could be required to divest ownership of sports content or make it easier for consumers to buy Internet access without also buying TV programming. Requirements to allow Netflix and other competing services on cable boxes may be unlikely, but it's a possible subject for discussion. Unbundling TV channels could make sense, "but again for very popular programming, especially sports, Comcast's volume pricing deals are the real problem," she said.
+
+Comcast could be forced to buy programming through collective rights associations, the way smaller operators do, putting Comcast on a level playing field with other companies that offer TV channels, she said.
+
+Then again, Comcast might get its merger approved without any major restrictions. Crawford didn't offer any predictions on whether the merger will be approved or denied, but she views the regulatory process as a chance to place a spotlight on the cable market and US communications policy. "My hope is that this is finally forcing Americans to pay attention to the power of the cable monopolists and that we'll have a genuine year of engagement on US policy toward communications in general," she said.

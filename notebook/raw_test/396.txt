@@ -1,0 +1,27 @@
+A currency is only as safe as the bank that stores it. Nowhere is this more apparent than in the recent turmoil in the bitcoin community.
+
+On 7 February of this year, Mt. Gox 每 a bitcoin exchange which essentially functioned as a depository (i.e., bank) for bitcoins 每 halted all withdrawals in the crypotcurrency. At the time I wrote two articles making a pretty clear case for Mt. Gox operating like a run-of-the-mill fractional-reserve bank (here and here).
+
+Fractional-reserve banks that existed before the advent of deposit insurance were constrained by some real pressures as they decreased their reserves. As depositors became less sure that they would be able to access their deposits on demand, they would start demanding the fractional-reserve bank＊s services at a discount to its competitors. As depositors started withdrawing their funds and endangered the liquidity and eventual solvency of the bank, the bank would react by either halting withdrawals outright (as Mt. Gox did on February 7), or temporarily delaying them while remunerating the client with an interest payment (i.e., enact a ※option clause§, something Mt. Gox effectively did by charging clients an extra fee if they wanted their withdrawals expedited.)
+
+The claim that Mt. Gox was operating with fractional reserves came as shocking to some. After all, the exchange functioned by providing a shared wallet for depositors. Each time a deposit was made in bitcoin, the proceeds were moved to the shared wallet. This wallet was safely stored offline (※cold storage§) so that hackers could not gain access to them. In addition, a very high percentage of bitcoin was supposedly stored in this way 每 up to 98% by some claims 每 with only a small amount held online to facilitate withdrawals and other transactions.
+
+In theory, since almost all of the bitcoin were held safely offline by Mt. Gox, the ※bitcoin bank§ should have been behaving like any standard full-reserve bank. The evidence over the past months proved this to be anything but the reality of the situation.
+
+On 28 February Mt. Gox filed for bankruptcy, with its liabilities amounting to about 2.65 trillion Japanese Yen ($25 billion) more than its assets. Also unaccounted for were about 750,000 of its customers＊ bitcoins and 100,000 of its own bitcoins. This amounted to 7% of the total bitcoins in existence at the time, with a dollar value of nearly $500 million.
+
+Mt. Gox believes ※there is a high possibility that the Bitcoins were stolen.§ As far as I am concerned, it doesnt matter too much if the bitcoins were stolen by a third party, or used in some way by Mt. Gox as would be the case with most other fractional-reserve banks. The fact of the matter is that the bitcoins are not in the vault, and that has created the difficulties the exchanges clients currently find themselves embroiled in.
+
+Of course, it wouldnt be the first time that a bank had its bitcoins stolen. Flexcoin 每 a Canadian outfit that actually referred to itself as a ※bitcoin bank§ 每 has just closed its doors for good. Apparently 896 BTC (over half a million dollars) were removed from its online storage. Hackers attacking coins held online are a continual and well-noted threat to the bitcoin community. For this reason many exchanges, like Mt. Gox and Flexcoin, secured their bitcoins in cold storage, an unconnected hard drive safe from the dangers lurking online.
+
+Indeed, Flexcoin has pledged to return all bitcoins that it held in cold storage provided that the identity of their true owner is confirmed. All at no cost, no less!
+
+Mt. Gox is a little different. Despite holding the vast majority of its bitcoin securely in cold storage, its claim is that somehow these were stolen by someone. In standard fractional-reserve banking theory, the reason a less than 100% reserve is held is because the bank has knowingly made use of the deposited goods, not because hackers have prevailed in cracking an impervious safe. The dust will settle on what happened to the bitcoins deposited with Mt. Gox. For now I will let Occams razor prevail in providing me with an answer to the whereabouts of the missing coins.
+
+Its neither here nor there what happened to the lost bitcoins. (Unless you are one of the unlucky ones who entrusted them to a bitcoin bank and lost them.) The real lesson is that the actual good used as ※money§ is largely inconsequential relative to the banking system that manages it.
+
+Bitcoin has been heralded as a free-market alternative form of money. We should hope so! Away from the central control of any one government, the cryptocurrency is an example of a free markets response to an imperfect publically provided good. This great achievement of bitcoin is largely lost on those who have lost their savings because of a fractional-reserve bank.
+
+When banks operate with fractional-reserves, whether those reserves are defined in fiat currency, bitcoins or gold, bad things happen. At the very least, that should be the real lesson we can take away from the misfortune befalling the empty-pocketed depositors of Mt. Gox.
+
+David Howden is Chair of the Department of Business and Economics, and professor of economics at St. Louis University, at its Madrid Campus, Academic Vice President of the Ludwig von Mises Institute of Canada, and winner of the Mises Institute＊s Douglas E. French Prize. Send him mail.

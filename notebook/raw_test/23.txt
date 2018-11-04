@@ -1,0 +1,51 @@
+A Miami judge has dismissed charges against a Florida-based bitcoin seller after he was indicted in 2014 on illegal money transmission and money laundering charges.
+
+Judge Teresa Mary Pooler sided with the defense's argument that bitcoin doesn't constitute a form of money within the confines of Florida's legal system, stating in a ruling issued today that Michell Espinoza doesn't qualify as a money transmitter as argued by the prosecution. The case was tried in the Eleventh Judicial Circuit of Florida.
+
+Observers say that the ruling exposes how state statutes don't account for bitcoin and digital currencies ¨C a gap that could ultimately lead to legislative action both in Florida and beyond.
+
+The case dates back to late 2013, when a task force involving the Miami Police Department and the US Secret Service began investigating bitcoin trading activity in the area. Espinoza was contacted by Detective Ricardo Arias and Special Agent Gregory Ponzi via bitcoin marketplace LocalBitcoins, arranging several meetings between January and February 2014.
+
+It was during those meetings that undercover agents indicated that they intended to purchase stolen credit card numbers with the digital currency. Espinoza was ultimately arrested during a planned sale of $30,000 in bitcoin, after selling $1,500 in bitcoin to the agents.
+
+Yet in her ruling, Judge Pooler rejected the idea that Espinoza was engaged in any illegal activity as it related to both the money laundering and money transmission charges.
+
+On the latter point, she said that the statute as it exists today accounts for financial intermediaries (citing Western Union in particular), whereas in her view, Espinoza was an individual selling his bitcoins directly.
+
+Elsewhere in the ruling, Pooler suggested that lawmakers in Florida may want to move to address how the statutes, as they exist today, do not account for bitcoin and digital currencies.
+
+"The Florida Legislature may choose to adopt statutes regulating virtual currency in the future," she wrote. "At this time, however, attempting to fit the sale of bitcoin into a statutory scheme regulating money services businesses is like fitting square peg in a round hole."
+
+Espinoza did not immediately respond to an emailed request for comment.
+
+In her ruling, Pooler argued that, at present, it is difficult for the court to accurately define bitcoin.
+
+"Nothing in our frame of reference allows us to accurately define or describe bitcoin," she wrote.
+
+She goes on to write that the digital currency "may have some attributes in common with what we commonly refer to as money" before going on to highlight its distributed nature, price volatility and adoption by merchants as characteristics that differentiate it from other kinds of currency.
+
+"This court is not an expert in economics, however, it is very clear, even to someone with limited knowledge in the area, that bitcoin has a long way to go before it is the equivalent of money," she wrote.
+
+Pooler noted in her ruling that the state could move, via legislative action, to craft a specific legal definition for bitcoin ¨C a move she indicated could prevent further cases like this from potentially impacting otherwise innocent people.
+
+"There is unquestionably no evidence that the defendant did anything wrong, other than sell his bitcoin to an investigator who wanted to make a case," she wrote, adding:
+
+Legal observers say that the case highlights apparent gaps in Florida's legal system as it relates to bitcoin, and, perhaps, the US more broadly.
+
+Pillsbury Winthrop Shaw attorney Marco Santori, who called the ruling "quite unexpected among the legal community", believes that the Espinoza outcome will likely be cited in the future if the government brings future cases like it.
+
+"It's absolutely going to be used as precedent in other cases," he said.
+
+Santori went on to note that the ruling highlights a split between regulators in Florida and the court on the question of bitcoin regulation.
+
+Baker Marquart attorney Brian Klein said he thinks the ruling could go as far as dissuade similar cases in the future as well.
+
+"This decision will reverberate throughout the country and hopefully cause federal and state prosecutors to think twice before pursuing similar criminal charges," he said.
+
+Drew Hinkes, a lawyer for Berger Singerman LLP, said he sees the legislative actions focused on digital currencies advocated by Pooler taking place.
+
+"The Court also correctly noted that while Florida's money laundering statutes do not apply cleanly to bitcoin, the Florida Legislature has the ability to provide 'a much needed update to the particularly language within [the money laundering] statute,'" he said, adding:
+
+The full ruling can be found below:
+
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies. CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

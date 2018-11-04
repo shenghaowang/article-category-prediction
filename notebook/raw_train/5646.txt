@@ -1,0 +1,13 @@
+Results from the Federal Reserve¡¯s fourth annual stress test were released today, and while the overall picture has improved dramatically in the last four years, Zions Bancorporation (NASDAQ:ZION) still has a long way to go, faring noticeably worse than the other 29 bank holding companies (BHC) included in this year¡¯s test.
+
+Changes to this year¡¯s stress test
+
+Starting in 2009 with the passage of the Dodd-Frank Act, the stress tests are something of a work in progress. Every year the conditions change (and hopefully improve) to give the government a better idea of how the financial system will hold up during the next financial crisis.
+
+This year the Federal Reserve stopped depending on banks¡¯ own balance sheet and risk-weighted asset growth projections, instead using independent estimates that should improve the consistency of the results. The stress tests were also expanded from the original 18 banks that have taken part since 2009 to include an additional 12 institutions with at least $50 billion in total assets.
+
+The revised capital framework that was approved by the Federal Reserve Board in 2013 was partially phased in during this round of stress tests, and eight institutions with the largest trading and custodial operations were also tested under a global trading shock scenario by estimating losses from their largest counterparty defaulting unexpectedly.
+
+The serious adverse scenario is meant to model a severe recession: a sharp rise in unemployment, equity markets down 50%, and housing prices down to 2001 levels lasting nine quarters. Under this scenario the 30 BHCs would have a combined $366 billion in loan losses, and the aggregate tier 1 common capital ratio would drop from an actual 11.5% to an estimated 7.6%. Considering that the actual tier 1 ratio was 5.5% when the first stress test was conducted in 2009, it¡¯s clear how much progress the financial system has made adjusting to the new capital requirements. Most BHCs fall in the range from just under 6%, still an improvement over the 2009 average, to more than 13%, but Zions Bancorporation (NASDAQ:ZION)¡¯s has just 3.5% tier 1 capital ratio at the end of the severe adverse stress test.
+
+Zions Bancorporation (NASDAQ:ZION)¡¯s was also the worst performer under the adverse scenario, which models a moderate recession, but the gap was less pronounced. Overall, the average tier 1 capital ratio falls from 11.5% to 9.7% under adverse conditions, giving some confidence that the financial system is better equipped to deal with unexpected shocks than it was before the last crisis.

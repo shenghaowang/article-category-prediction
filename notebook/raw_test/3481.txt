@@ -1,0 +1,59 @@
+The Fed Does Not Set Mortgage Rates
+
+Unless you work in finance, you might think mortgage rates are determined by what the Federal Reserve does ¡ª that when the Fed ¡°raises¡± or ¡°lowers¡± interest rates, mortgage prices change.
+
+What the Fed actually does, however, is set the rate it charges banks to borrow money for very short periods of time, so that cash is available for customer withdrawals. This tends to affect short-term interest rates, but not long-term financing like mortgages.
+
+In reality, investors decide if mortgage rates will rise or fall by buying ¨C or not buying ¨C MBS.
+
+Most mortgage lenders don¡¯t keep the loans they fund. They sell them to investors. A lender might make a $100,000 home loan, for example, which will ultimately yield $150,000 in payments, and sell it to investors at a discount ¡ª say, $125,000.
+
+This allows the lender to take its profit and turn around and fund another mortgage. The investors pay $125,000 for the right to collect $150,000 over time.
+
+However, most investors don¡¯t buy an entire individual mortgage. That would be risky and expensive.
+
+Instead, they buy shares in pools of similar mortgages ¡ª sort of like buying shares in a mutual fund comprised of several similar companies. This allows them to invest smaller amounts with less risk.
+
+These shares in pools of mortgages are called MBS, or mortgage-backed securities. The process of combining loans into pools and then breaking the pools into shares is called ¡°securitization.¡±
+
+Like bonds, MBS are sold in $100 increments, and their prices rise and fall continuously as demand for them increases and decreases.
+
+A $100 MBS priced at $100 is said to be ¡°at par.¡± If a particular MBS has a ¡°coupon rate¡± of 4.0 percent, its buyer will receive $4 interest each year.
+
+If investors consider $4 a fair return for the amount of risk in the pool, the MBS will sell at par. However, if investors become concerned about inflation, 4.0 percent may seem less attractive, and the MBS price will drop below $100. If the economy seems shaky, a safe four percent return can be more attractive, and the MBS price will rise higher.
+
+The price an investor pays for an MBS determines its yield. ¡°Yield¡± refers to the relationship between the MBS price and interest paid. If an MBS has a price of $100 and a 4.0 percent coupon rate, its yield is also 4.0 percent.
+
+What if investors become worried about inflation and don¡¯t want 4.0 percent MBS? The price falls. If it drops to $75, the buyers still receive $4 a year in interest, but their yield increases to something more acceptable.
+
+And if the economy weakens and investors really want 4.0 percent MBS? Its price will rise when demand is strong. If the price increases to $110, its yield drops.
+
+Note that this is a simplified illustration. MBS prices also incorporate the amount of risk associated with a pool of loans ¡ª those with mortgages allowing lower credit scores, for example, may be priced lower and have higher yields because of increased default risk.
+
+You¡¯re probably wondering how continual price changes in financial markets translate to the interest rates your mortgage lender sets.
+
+It¡¯s fairly simple. Mortgage lenders set their rates when financial markets open, and then they monitor MBS prices all day (or they pay a service to do this and alert them to significant changes).
+
+When MBS prices drop, lenders raise interest rates, and when prices rise, they drop their rates. In general, lenders are quicker to respond to price drops than increases, because lending at below-market rates costs them money.
+
+ Verify your new rate (Oct 23rd, 2018)
+
+No one wants to be stuck with a four percent return in a five percent world. The kind of events and indicators that make MBS prices fall include anything that points to increased economic activity, which fuels concerns about inflation. For example:
+
+As a mortgage shopper, watch the headlines. If unemployment is low, companies are hiring, and the stock market is up, it could mean mortgage rates are headed higher.
+
+Bad economic news can be good news for anyone looking for a mortgage. Economic uncertainty pushes investors into ¡°safe havens,¡± low-risk investments with less-than-spectacular returns. Bonds and MBS fall into that category.
+
+These indicators can predict rising MBS prices and falling mortgage rates:
+
+Foreign events can make big impacts on U.S. mortgage rates. In mid-2016, Brexit happened, pushing down mortgage rates for an extended period.
+
+Many mortgage borrowers follow yields for 10-year US Treasuries when watching mortgage rates. They¡¯re easier to find and understand than MBS prices ¨C CNNMoney and other sites put them front and center on their financial pages.
+
+Treasuries and MBS compete for the same investors, and they tend to move in the same direction. However, Treasuries carry less risk than MBS, because the Federal government does not default on its obligations, while mortgage borrowers sometimes do.
+
+If you have a mortgage in process and have not locked in your rate, you¡¯ll want to pay attention to financial markets.
+
+For example, the monthly Employment Situation Summary from the US Department of Labor is extremely important to investors and can cause mortgage rates to rise or fall sharply. If you can¡¯t afford a rate increase, you might want to lock in advance of the report¡¯s release. If you enjoy gambling, however, you can float your rate and perhaps grab a bargain.
+
+Mortgage rates can be complicated, and that¡¯s one reason it pays to choose an experienced loan professional to help you navigate them.

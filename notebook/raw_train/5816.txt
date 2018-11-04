@@ -1,0 +1,9 @@
+TOKYO, March 21 (UPI) -- Mt. Gox, a Bitcoin exchange in Tokyo, has said that it has found 200,000 bitcoins in an old-format wallet, or digital storage file, of the nearly 850,000 bitcoins it lost last month.
+
+Last month, Mt. Gox said that it had lost 750,000 of its customers' bitcoins and 100,000 of its own, worth, at that time, more than $450 million. At Friday's rates, the bitcoins it has retrieved are worth $114 million. The Bitcoin exchange, once the largest, informed a Japanese court overlooking its bankruptcy reorganization.
+
+Mt. Gox CEO Mark Karpeles issued a statement in English and Japanese on the company's website, saying that after it filed for bankruptcy it began investigating wallets that were used before 2011. It was during this investigation that the company found the missing bitcoins.
+
+¡°Please note that the reasons for their disappearance and the exact number of Bitcoins which disappeared is still under investigation,¡± the company concluded in its statement dated Thursday.
+
+The company said the missing bitcoins in old-format wallets have been taken down for security reasons. Bitcoins can be stored online or offline in what are called hot or cold wallets. A cold wallet could be a scrap of paper on which an access code is written or a thumb drive. Hot wallets have to be on a computer network and hackers can access hot wallets or just steal the storage device.

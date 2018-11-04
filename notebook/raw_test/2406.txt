@@ -1,0 +1,55 @@
+SINGAPORE - It has been a year since bike-sharing firms set up shop here, quietly rolling out their brightly-coloured two-wheelers on to local pavements.
+
+Singapore-based oBike rolled out about 1,000 bicycles in January last year, a number which has grown to 14,000. It now has more than a million active users here and has since expanded to 20 countries.
+
+oBike was soon joined by Mobike - which currently has eight million bikes in more than 200 cities - and ofo, which has 10 million bikes in more than 250 cities.
+
+Their emergence resulted in plans for a government-backed bike-sharing scheme - first proposed five years ago and to have been launched by the end of last year - being scuttled.
+
+Though the Land Transport Authority (LTA) said it would continue to monitor developments and "introduce new plans if necessary", Mr Francis Chu, co-founder of enthusiast group Love Cycling SG, believes the decision was the right one.
+
+The Government's plans were expected to have required bicycles to be rented from and returned to fixed docking stations.
+
+London's bike-sharing scheme, which follows this model, is said to have cost the city more than $300 million between 2010 and 2016.
+
+"(Shelving the LTA scheme) saved millions of dollars in taxpayers money and helped to facilitate the current dockless bike-share scene," said Mr Chu.
+
+However, soon after they were introduced, the bikes started making headlines for the wrong reasons.
+
+Town councils reported receiving complaints about the two-wheelers blocking pathways and dry risers.
+
+Photos also began circulating on social media of bicycles found in canals, or with their locks broken.
+
+And in June last year (2017), there were two cases of shared-bikes being flung from the upper floors of Housing Board blocks.
+
+Though operators are required to remove faulty bikes within a day, users said damaged bikes are still common. One user, Mr Mohamad Shah, said he encounters
+
+too many bicycles with issues such as no pedals or broken chains.
+
+"I don't really use shared bikes anymore as there are so many faulty ones. Sometimes when I scan the bikes, I'm not even able to unlock them," said the 35-year-old, who works in the aviation industry.
+
+Mr Tim Phang, general manager of oBike Singapore, admitted there were hiccups at the start.
+
+"The education and awareness process is ongoing," he said.
+
+Last October, the LTA announced that it had signed an agreement with bike-sharing operators here, as well as all 16 town councils and the National Parks Board, to "encourage responsible operation of bicycle-sharing services in public spaces".
+
+The deal requires the firms to introduce geofencing - which creates a virtual boundary that can send out an alert when a bike enters or leaves an area - to ensure that bikes are parked within designated areas.
+
+However, the technology has its limits, said Dr Roger Zimmermann, associate professor of computer science at the National University of Singapore. Though geofencing can be used to deactivate drones that fly into restricted areas, this may not be possible with bikes.
+
+"Bikes are not as sophisticated," he said, adding that programming bikes to brake or lock themselves if moved out of designated areas could pose a safety risk to users.
+
+Questions also remain about bike sharing's financial viability.
+
+Last November, China's Bluegogo - the third largest firm in a country with more than 13 million shared-bikes from more than 40 companies - went belly up, despite raising US$60 million (S$79.5 million) in funding.
+
+In emerging industries, firms may experiment with different strategies, not all of which will succeed, said transport economist Terence Fan of Singapore Management University. "Firms who are not able to operate profitably will be weeded out."
+
+It was reported last month that ofo and Mobike had begun diversifying their business by offering ride-hailing services - similar to those from Uber and Grab - in some Chinese cities.
+
+When asked if they would make a similar move here, ofo said it could not share any information at this point, while Mobike said it remained focused on "bringing more bikes to more cities".
+
+Despite this, all bike sharing here continues to grow, with firms such as SG Bike and GBikes trying to carve their own space in the market. However, Mr Chu is sceptical that all the operators will thrive.
+
+"The Singapore market is too small for five bike-share companies. I believe only the bigger ones will survive in the long term."

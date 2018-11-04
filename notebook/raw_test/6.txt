@@ -1,0 +1,15 @@
+TechCrunch reported earlier this week on a report issued by Goldman Sachs in which the bank concluded Bitcoin is not, in fact, a currency.
+
+¡°Bitcoin likely can¡¯t work as a currency, but ¡­ the ledger-based technology that underlies it could hold promise.¡±
+
+¡°We would argue that Bitcoin, and other digital currencies, lie somewhere on the boundary between currency, commodity and financial asset. ... Our best definition would be that it is currently a speculative financial asset that can be used as a medium of exchange.¡±
+
+¡°On net, more than taking off as a widely-used alternative currency, it is much more plausible that Bitcoin eventually has a significant impact in terms of its innovation on payments technology, by forcing existing players to adapt or coopt it.¡±
+
+The Goldman Sachs report goes on to speculate on the ability of cryptocurrencies as stores of value, similar to the role gold plays. Bank representative Jeffrey Curie is dubious.
+
+¡°Gold is not failing as a store of value as wood failed as a sources of energy in steam engines,¡± he writes. ¡°Steam locomotives could go farther and faster on coal. But Bitcoin does not improve upon gold.¡±
+
+Elsewhere, Circle founder Jeremy Allaire argues that Bitcoin has a huge role to play in the world¡¯s economy, but that some regulation will be necessary for it to grow into that role.
+
+¡°Ultimately what¡¯s going to be necessary is common supervision,¡± Allaire wrote. ¡°There need to be common rules for how digital currency exchanges, wallet services, etc., operate that are consistent around the world.¡±

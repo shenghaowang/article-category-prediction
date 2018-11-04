@@ -1,0 +1,45 @@
+The issue of the degree of labor market slack in the US economy is now a hot topic. Joe Weisenthal and Matthew Bosler at Business insider have been pushing the debate forward, see here and here, for example. This is an important concern for monetary policy as the general consensus on the Fed is sufficient slack will continue to justify an extended period of low interest rates. Hence, rate hikes can be delayed until mid- to late-2015, or even 2016 as suggested by Chicago Federal Reserve President Charles Evans. There exists, however, considerable uncertainty about the amount of slack in labor markets. My feeling is that path of rates currently expected by policymakers assumes a great deal of slack. As a consequence, indications that slack is less than expected will tend to move forward the timing of the first rate hike and, perhaps the pace of subsequent tightening. Wage pressures are likely to be an early indicator that slack is diminishing.
+
+I see two flavors of uncertainty regarding the amount of excessive slack. First is the question about the value of the unemployment rate as a signal of tightness. The decline in the labor force participation rate has clearly placed additional downward pressure on the unemployment, leading to speculation that the unemployment rate is signaling a tighter labor market than exists in reality. Under this scenario, an improving economy will trigger a flood of entrants into the labor force to provide additional slack. Thus, the unemployment rate is underestimating the degree of slack.
+
+This argument, however, is becoming less persuasive by the day. Evidence seems to be mounting (seehere and here) that retirement and illness/disability are a dominant reason for labor force exits since the recession began. Consequently, the decline in the labor force participation will be a persistent phenomenon. The Fed, I think, has largely moved in this direction.
+
+The next issue is the degree of underemployment with the labor market. The dovish view is that the underemployed and long-term unemployed represent considerable slack:
+
+The hawkish view is that this is not a cyclical problem but a structural one. The long-term unemployed, by this theory, simply lack the currently needed skills. This is countered by indications of discrimination against the long-term unemployed. Such discrimination effectively means that you need to have a job to get a job. The ability of firms to engage in such discrimination could be viewed as a cyclical problem. Firms could not be so choosy in a stronger labor market.
+
+Regarding underemployment, I see evidence of the structural explanation in a comparison in the reasons for part time employment:
+
+
+
+ Those employed part time for clearly cyclical reasons are falling. Those employed part time because they could not find full time work is holding steady. It may be that the skill set of those workers is not consistent with the current types of full time jobs.
+
+Doves will point to the lackluster data of the Jobs Openings and Labor Turnover (JOLTS) report to support the claim of weak labor markets with plenty of slack. The numbers are certainly not impressive:
+
+That said, the counterpoint is the number of unemployed to job openings:
+
+My view is that wage growth will ultimately settle the debate. Wage acceleration tends to occur as unemployment approaches 6%. If that wage acceleration does not occur, then the degree of labor market slack remains is high. The much longer and established data on hourly wages for production and nonsupervisory workers, however, appears to indicate some bubbling wage pressures:
+
+
+
+ My belief is that if this is happening for lower paid workers, it is only a matter of time before it happens for higher paid workers as well. That said, I am open to the possibility that the limited improvement we are seeing may not persist. It is, however, an issue that I think is of critical importance.
+
+How will 每 versus how should 每 indications of tighter labor markets influence Fed policy? As I have said in the past, the Fed typically tightens policy ahead of inflationary pressures. In practice, that has meant hiking rates around the time wage growth bottoms out:
+
+Is this time any different? Well, let＊s replace ※tightens§ policy above with ※reduces accommodation§ since the Fed would not claim that a 25bp increase in rates from 1% was tightening. They would describe it reducing the amount of financial accommodation to make policy less expansionary. This, arguably, describes what happened when the Fed began the tapering discussion. Inflation expectations fell:
+
+Higher real interest rates and lower inflation expectations looks like a less accommodative/expansionary policy. The Fed began make policy less accommodative in the context of below target inflation and above target unemployment, but unemployment had fallen far enough that they felt it necessary to alter the level of accommodation to prevent incipient inflation pressures. And soon after it became evident that wage growth had bottomed. Coincidence? Probably not. In other words, so far the Federal Reserve is behaving just as they would in any other tightening cycle, with the only difference being that the first step is ending asset purchases rather than raising interest rates.
+
+Moreover, it seems to be clear that the Evans rule was a diversionary tactic. The Fed never foresaw an instance where they would raise rates above as long as unemployment was above 6.5%. Moreover, as is clear from the tapering process, the inflation forecasts, and the interest rate forecast, there was never an intention to target inflation greater than 2.5%. The extra 0.5% was only an allowance for forecast error under the assumption that expected inflation would remain at 2%. They always expected inflation would hit its target from below, and never intended to risk overshooting on inflation.
+
+Simply put, the Fed began unwinding policy pretty much exactly where you would expect given the behavior of unemployment and wage growth. So it is reasonable to believe that if they continue unwinding policy in a historically consistent manner, then there will not be a substantial pause between the end of asset purchases and the beginning of rate hikes. The date of the first rate hike will need to be moved forward by this theory.
+
+They are more likely to move that date forward if they see less slack in labor markets than they currently believe. Furthermore, accelerating wage growth is likely to be the first conclusive evidence of that outcome. Hence my focus on wage growth. I suspect they will argue that if they don＊t move forward the date, they will be at risk of having to do more later.
+
+Is the Fed pursuing the right policy? Should they allow wage to rise further before reducing financial accommodation? Well, I would say it is already too late for that. But could they delay rate hikes? I would like to see them do so because absent running the labor market at a red hot pace, I don＊t see obvious way to shift the balance of power to labor and reverse this trend:
+
+That said, I would also add that the last two cycles leave me wary about the potential financial stability issues from such a policy. In the absence of a greater fiscal roll, however, we are left with leaning on monetary policy and risking the financial fallout.
+
+Bottom Line: The Federal Reserve＊s policy path is dependent on a particular view of a labor market suffering from excessive slack that will continue to be a problem long into the future. It is reasonable to expect that evidence that slack is dissapating more quickly than expected will trigger a fresh assessment among policy makers regarding the appropriate policy path. Next week is probably too soon; later meetings are more likely. Given that wages already appear to be on the rise 每 a key sign of tightening labor markets 每 that change could happen quickly. This is not a call for higher rates; it is a warning that higher rates might be coming. This is especially the case if the Fed wants to avoid overshooting. I would argue that their actions to date 每 the signaling of a shift in policy when still missing on both parts of the dual mandate 每 suggest an intention to avoid overshooting similar to that of previous cycles.
+
+This piece is cross-posted from Tim Duy＊s Fed Watch with permission.

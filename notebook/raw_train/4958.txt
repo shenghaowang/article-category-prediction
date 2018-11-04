@@ -1,0 +1,17 @@
+Shares of business software giant Oracle fell by more than four percent in after-hours trading after the company reported third-quarter earnings that were worse than what analysts had expected.
+
+Oracle reported per-share earnings of 68 cents on revenue of $9.3 billion. That compares with the 70 cents on $9.4 billion that analysts surveyed by Thomson Financial had predicted.
+
+Oracle shares rose 62 cents, or 1.65 percent, during the regular session, and closed at $38.22 a share. The shares have risen by about 28 percent since hitting a recent low in June.
+
+New software licenses rose by four percent. Hardware sales rose by eight percent. Software license updates and product support revenues rose five percent to $4.6 billion.
+
+Oracle said it expects to report earnings of 92 to 99 cents a share in Q4, which is more or less in line with the consensus view of 96 cents. It says it expects overall sales to grow between three and seven percent, but that¡¯s assuming the currency environment stays where it is today, which it won¡¯t.
+
+Speaking of currencies, Oracle took a hit on revenue growth thanks ¡ª or no thanks ¡ª to the stronger US dollar. After backing out the effect of currencies, Oracle said its sales would have grown by 10 percent, not four percent and earnings per share on a non-GAAP basis would have grown by seven percent instead of five percent.
+
+In a statement, Oracle President Mark Hurd said bookings for cloud applications rose by 60 percent and are now on a run-rate to $300 million per quarter. On a conference call with analysts, Hurd called it the ¡°best quarter ever,¡± for Oracle¡¯s cloud business.
+
+On the call CEO Larry Ellison talked about an up-and-coming cloud infrastructure business that will compete with Amazon Web Services and IBM Softlayer. Ellison said the service will be priced competitively with AWS. He went on to say Oracle sees it as a commodity business and that¡¯s in his words, ¡°not a bad thing.¡±
+
+While Amazon is still the king in terms of raw computing capacity and while IBM has argued ¡ª not persuasively ¡ª that it¡¯s the biggest cloud company by revenue Oracle will try to flood the zone and take some business away from both of them.

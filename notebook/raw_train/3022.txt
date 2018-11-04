@@ -1,0 +1,41 @@
+Bitcoin was a dream come true for computer geeks, libertarians and big government paranoids.
+
+Just imagine a digital currency untethered from government regulators, existing only in the virtual world of computer code and cheaper to use than credit cards.
+
+But the recent collapse of a leading bitcoin exchange, Mt. Gox, has raised concerns about the legitimacy of this virtual currency.
+
+A $470 million digital heist last month at the Tokyo-based exchange pushed the company into bankruptcy and left many bitcoin investors empty-handed with little recourse.
+
+Mt. Gox chief executive Mark Karpeles offered some hollow condolences during a late February press conference in Tokyo. He basically said, oops, there was a bug in the bitcoin software, which allowed thieves to hack their way into the system and fraudulently withdraw bitcoin.
+
+And to think this was supposedly the precursor to a digital Utopia.
+
+Investors in traditional currencies ¡ª U.S. dollar, Japanese yen or Swiss franc ¡ª need a cast iron stomach, a savvy trading strategy and a fat wallet because big losses are inevitable.
+
+Breaking news in these markets is like waving a biscuit at a mad dog. It comes fast, and it ain¡¯t pretty.
+
+But at least sovereign governments and regulatory authorities stand behind and monitor traditional currencies. While Bitcoin¡¯s exchange rate is even more volatile than traditional currencies, there is no oversight from the FDIC, Federal Reserve or U.S. Treasury.
+
+Tyler Moore, an SMU assistant professor in computer science and engineering, said he doesn¡¯t believe the Mt. Gox fiasco will spell the demise of bitcoin, but regulatory safeguards are needed. Moore co-authored a research report last year in which he examined the risks of investing in bitcoin.
+
+¡°The bitcoin ecosystem is in need of regulatory oversight and reform,¡± he wrote in an email response to my questions. ¡°Bitcoin currency exchanges act like de facto banks. Many customers leave the bitcoins in accounts at the exchanges, but there are no capital requirements as there are for traditional banks.¡±
+
+This makes bitcoin exchanges vulnerable to withdrawal spikes, otherwise known as bank runs. Moore said the security breach at Mt. Gox wiped out the capital reserves of the exchange. He examined the track record of 40 bitcoin exchanges and found that 18 have closed ¡°with customer account balances often wiped out.¡±
+
+Bitcoin was supposedly created about five years ago by a computer programming genius named Satoshi Nakamoto ¡ª probably a pseudonym. Nakamoto created 31,000 lines of computer code that essentially created bitcoin, according to The New Yorker magazine.
+
+Through this computer program, he set a limit on the amount of Bitcoin that would eventually be available in the system. Only 21 million bitcoins will be created over the next 20 years and currently about 12 million are in virtual circulation, meaning they are held in bitcoin ¡°wallets¡± inside computers all over the world.
+
+When I last wrote about the bitcoin phenomenon last summer, the exchange rate was $100 for one bitcoin. As it gained popularity it topped $1,100 in December.
+
+But with the bad publicity swirling around Mt. Gox, one bitcoin now fetches about $500. Some 850,000 bitcoins, or about 7 percent of the bitcoins in circulation, were stolen from Mt. Gox.
+
+Moore cited several examples of security breaches at bitcoin exchanges and other frauds. While it didn¡¯t involve an exchange, one of the largest bitcoin Ponzi schemes occurred here in North Texas
+
+The U.S. Securities and Exchange Commission alleged in a civil complaint dated July 23, 2013, that Trendon T. Shavers of McKinney operated a bitcoin denominated Ponzi scheme under the name Bitcoin Savings and Trust.
+
+The SEC is seeking monetary penalties and the return of the ill-gotten gains.
+
+Perhaps the government can get back some of the lost money for investors if in fact this was a Ponzi scheme. But for the long-term stability of bitcoin, or any digital currency for that matter, Moore advocates some kind of mechanism ¡°to reimburse customers for fraudulent transactions.¡±
+
+An article in The Atlantic probably summed it up best: ¡°No matter how perfect a technological concept is, when it enters the world of human beings, it becomes imperfect. Bitcoin is no exception.¡±

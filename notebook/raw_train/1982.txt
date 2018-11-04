@@ -1,0 +1,23 @@
+The opening of health care exchanges last year was roiled in controversy over technical glitches. Obamacare has since enrolled more than 5 million people, according to the White House. But the results of the survey appearing in the Proceedings of the National Academy of Sciences show that even people who were able to enroll in health insurance plans might not have had the basic knowledge with which to make good decisions. In a nationally representative snapshot of Americans, the researchers found shockingly low health insurance literacy overall, and particularly among younger and low-income Americans.
+
+Forty-two percent of Americans were unable to describe a deductible in late August and September 2013 when the survey was conducted, just weeks before exchanges opened to the public, including 68 percent of uninsured people.
+
+Sixty-two percent overall did not know a HMO plan had greater restrictions than a PPO. Thirty-seven percent of people did not know there was a penalty for not having health insurance, and only 41 percent of people who had incomes between 100 and 250 percent of the Federal Poverty Line knew they could be eligible for subsidies in the exchanges.
+
+In addition, just 17 percent of uninsured people described themselves as having a fair amount or a "great deal" of knowledge about the Affordable Care Act when the survey was conducted, along with 20 percent of people earning between 100 and 250 percent of the Federal Poverty Line, and 24 percent of people overall.
+
+"The results are worrisome because the success of the Affordable Care Act hinges on competition among insurers lowering premiums and increasing the quality of coverage," explained lead author Silvia Helena Barcellos, an economist with the USC Dornsife Center for Economic and Social Research. "This only happens when people know what they're choosing. There is no incentive for insurers to offer their best plans if people are not making informed decisions when choosing among those plans."
+
+"Simplifying options in the exchanges, developing and disseminating online decision aids that help people chose the most appropriate plan given their needs and nudging consumers toward better choices are ways policy-makers can deal with these low levels of literacy," Barcellos added.
+
+However, the researchers found that people in the least informed groups were also the most optimistic about the changes that health care reform could bring. The survey asked respondents whether they thought the Affordable Care Act would improve certain aspects of their personal health care experience, including waiting times and out-of-pocket spending. Lower-income and uninsured respondents were most likely to think the ACA would improve their personal health care experience.
+
+"Those who were lower in knowledge were also the most likely to expect things to improve, which seems surprising, but on the other hand it's not: these are also the people who do stand to benefit the most from new health care policies," Barcellos explained.
+
+Fully half of Americans did not know about the health care exchanges and more than 1 in 5 people had not even heard of healthcare reform when the survey was conducted. Younger people were less likely to be literate about health insurance: compared to older respondents, those younger than 26 years old were 62 percent more likely to have below-median knowledge about health care.
+
+As a group, older, male, white respondents were the most well-informed about the ACA, though the researchers found no difference in how political leanings affected health insurance literacy.
+
+The results are the first in a series of surveys that will track the same group of more than 3,500 Americans and their health care choices. The next survey will be conducted just after the exchanges close on March 31, and will measure not only rates of adoption but also whether people actually paid their premiums and gained coverage. The current results will also serve as an important baseline to see if knowledge about health care principles has improved due to recent education efforts such as President Obama's outreach about health care during March Madness.
+
+More information: Preparedness of Americans for the Affordable Care Act, www.pnas.org/cgi/doi/10.1073/pnas.1320488111

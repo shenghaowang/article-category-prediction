@@ -1,0 +1,13 @@
+DigitalGlobe, the Longmont, CO-based satellite imagery provider, has once again turned to the crowd to help analyze its images as part of a disaster recovery effort, this time for the missing Malaysia Airlines flight that disappeared Saturday.
+
+DigitalGlobe is participating in the search for Malaysia Airlines flight MH370, which disappeared Saturday while flying from Kuala Lumpur, Malaysia to Beijing. The Boeing 777 jetliner was carrying 239 people.
+
+For the search, DigitalGlobe is using its Tomnod platform, which crowdsources the analysis of satellite photos. Tomnod posts images and allows users to scan and tag features and landmarks. In this case, users would be looking for debris.
+
+Xconomy ran a story on Tomnod in November, when the company used it to evaluate damage in the Philippines in the wake of Super Typhoon Haiyan.
+
+According to the company¡¯s blog, two of Digital Globe¡¯s satellites on Sunday collected images of a 3,200-square-kilometer area in the Gulf of Thailand and South China Sea where the plane may have disappeared. The company has since expanded its search area as Malaysian authorities widen their search.
+
+The story about DigitalGlobe¡¯s involvement in the search was first reported in the Denver Post.
+ None Xconomy Awards 2018 Gala Honors the Best of Boston Life Science: Slideshow
+ None Tim Berners-Lee Building Inrupt to Fix the Web¡ªWill Users Come?

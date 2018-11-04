@@ -1,0 +1,5 @@
+Source: U.S. Bureau of Labor Statistics
+
+ Note: More data series, including additional geographic areas, are available through the "Databases & Tables" tab at the top of this page.
+ Employment, Hours, and Earnings from the CES survey (State and Area)
+ Quarterly Census of Employment and Wages

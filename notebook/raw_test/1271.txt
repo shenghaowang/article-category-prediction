@@ -1,0 +1,21 @@
+Defunct Bitcoin exchange Mt. Gox has found nearly a quarter of the bitcoins it previously reported missing in an old digital file.
+
+The Tokyo-based exchange filed for bankruptcy last month after 750,000 of its customers¡¯ bitcoins and 100,000 of its own bitcoins went missing.
+
+In the course of reviewing its books, the exchange claims to have stumbled on 200,000 bitcoins (worth about $119 million) in an online wallet that had not been used since June 2011 according to a document released Thursday.
+
+Bitcoins are virtual coins-not real coins. And bitcoin wallets are digital files storing the code that allows users to access their bitcoins.
+
+Mt. Gox found the lost wallet on March 7 then reported the discovery to attorneys and moved the bitcoins to offline storage.
+
+The discovery reduces the number of ¡°missing¡± bitcoins that led to the Mt. Gox shutdown from 850,000 to 650,000.
+
+Also on Thursday, a Chicago U.S. District Court judge presiding over a class action against Mt. Gox gave the plaintiff¡¯s lawyers permission to track 180,000 bitcoins they say were transferred piecemeal into accounts held by Mt. Gox executives.
+
+The Bitcoin community was abuzz with speculation that Mt. Gox was behind the mysterious transfer of 180,000 bitcoins on March 7. Mt Gox¡¯s discovery of the lost wallet with almost the same amount on that same day has further raised suspicions.
+
+¡°Today in court we got relief ¡­ specifically to track the 180,000 bitcoins, which we¡¯ve been monitoring. Hours later, Mt. Gox claimed it ¡°found¡± these bitcoins ¡­ it appears Mt. Gox realized we were close and decided to acknowledge that it owned these 180,000-200,000 bitcoins,¡± Steven L. Woodrow, a partner at law firm Edelson,¡± told Reuters.
+
+Edelson is representing Illinois resident Gregory Greene who was unable to withdraw his bitcoins from his Mt. Gox account when the exchange abruptly shut down on February 7 . Not long after, Mt. Gox filed for bankruptcy in both Japan and the U.S.
+
+Created in 2009, Bitcoin is a popular virtual currency traded anonymously online without banks acting as middlemen. It isn¡¯t tied to any country or controlled by a central bank, but it can be cashed in for dollars and other official currencies.

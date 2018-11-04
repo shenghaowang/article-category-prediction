@@ -1,0 +1,31 @@
+Symantec has fired CEO Steve Bennett, who was in the second year of a complete overhaul of the company's product and go-to-market strategy. Some of Symantec's top partners tell CRN that the move comes as a complete shock and signals continued turmoil at the company.
+
+The Symantec board of directors appointed Michael Brown as interim president and chief executive officer, effective immediately. The company said a special committee of the board will immediately begin the search for a permanent CEO with the assistance of a leading executive search firm. Symantec stock was halted temporarily following the announcement late Thursday. It dropped as much as 10 percent in after-hours trading.
+
+"We recognize Steve's contributions to Symantec, including developing and leading a series of successful initiatives focused on organizational realignment, cost reduction and process effectiveness," said Daniel Schulman, chairman of Symantec's board of directors, in a statement. "Our priority is now to identify a leader who can leverage our company's assets and leadership team to drive the next stage of Symantec's product innovation and growth. This considered decision was the result of an ongoing deliberative process, and not precipitated by any event or impropriety."
+
+Brown joined Symantec's board of directors following the company's merger with storage giant Veritas Software in July 2005, and previously served as chairman and chief executive officer of Quantum.
+
+Bennett was appointed CEO in July 2012, replacing Enrique Salem, who served in the position for three years but oversaw mediocre financial results. Bennett unveiled Symantec 4.0 in January 2013, which prompted a year of internal transition, including the layoff of hundreds of employees. He focused on overhauling the go-to-market strategy, impacting roughly 90 percent of the sales force. He told CRN last month that the company was preparing to unveil a product road map that included integrated parts of the security portfolio, but admitted that 2014 would be another year of transition. Symantec's third-quarter revenue, released in January, fell to $1.71 billion from $1.79 billion, a year earlier.
+
+A Symantec Platinum-level partner, speaking on condition of anonymity, had been enthusiastic about the changes instituted by Bennett. The company was transitioning to rely more heavily on a select group of 100 or so U.S. partners, including the partner's firm.
+
+"I admit this has me completely shocked. We have been getting so much about the need to buy into the 4.0 strategy," the partner told CRN. "The fact that there has been so much turnover and transition in such a short period of time will raise some question marks in the minds of our customers."
+
+Bennett's vision focused on creating a more integrated product portfolio but lacked specifics, said David Sockol, president and CEO of San Carlos, Calif.-based Emagined Security. Bennett focused on the transition rather than showing exactly where the company was truly going, Sockol said.
+
+"They focused on how cool it was that the company was changing rather than what they were changing to," Sockol said. "Even the employees were having trouble with the vision; it all focused with the fact that it was changing."
+
+Partners were growing increasingly frustrated that they haven't seen new products or more details about better integrated products, said Alex Moss, managing partner at Chicago-based consultancy Conventus, a Symantec partner. Products being introduced have long been on the road map and already anticipated, Moss said.
+
+"Bennett moves very slowly, and that affected the partners as well as the customers," Moss said. "I think everybody was getting tired of waiting."
+
+Jacob Tukuru, president of Tukuru Technologies, a Symantec partner based in New York, said there were some improvements, including internal streamlining, that made it easier for partners to do business with the company.
+
+"It's a little surprising. I know from our perspective as a partner, things have improved over the last year," Tukuru said. "They made it easier to do business with them as a partner, and we use their cloud products, which are great. Before, it was very difficult to work with Symantec. They made it hard to get information about simple things like software licenses, and it was really hard to find the right technical support."
+
+"This comes totally out of the blue. I'm shocked," said Michael Goldstein, president and CEO of LAN Infotech, a Symantec partner based in Fort Lauderdale, Fla. "From a partner perspective it's discouraging. We have just been hearing Symantec trumpet its turnaround plan, new products and how bright the future looked. Now, just as it feels like we are nearing the top of the Symantec mountain, Bennett is terminated? Now it feels like we are back to square one."
+
+Goldstein said he was unaware of what led to Bennett's departure or what interim CEO Michael Brown might be able to do to lead the company. Brown's storage background, Goldstein said, is encouraging however. "The only silver lining is Brown might bring Symantec's storage products up to date. Symantec's Backup Exec is way behind the times. It doesn't even support Microsoft Server 2012," Goldstein said.
+
+CRN reporters Rob Wright and Tom Spring Contributed to this report.

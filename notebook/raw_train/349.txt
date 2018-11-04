@@ -1,0 +1,11 @@
+Bitcoin Breaks Below $620, MtGox Allows Users to Login
+
+Bitcoin prices finally managed to stage a brakeout out of the six day range yesterday. The break happened in yesterday afternoon and prices quickly fell to hit a low of $608 before retracing. After overnight¡¯s trading session and a small bounce to $619.68, btc fell right back down today to hit a new low of $603.50. Purchasing one bitcoin will set you back $613.30 on BTC-E while buying that same btc will cost you $615.11 on BitStamp.
+
+MtGox just updated their website to include a login form. This allows current clients to check their ¡®¡¯balance¡¯¡¯ with the firm. The company does caution users that the numbers they see when they login are not real:
+
+¡®¡¯This balance confirmation service is provided on this site only for the convenience of all users. Please be aware that confirming the balance on this site does not constitute a filing of rehabilitation claims under the civil rehabilitation procedure and note that the balance amounts shown on this site should also not be considered an acknowledgment by MtGox Co., Ltd. of the amount of any rehabilitation claims of users. Rehabilitation claims under a civil rehabilitation procedure become confirmed from a filing which is followed by an investigation procedure. The method for filing claims will be published on this site as soon as we will be in situation to announce it.¡¯¡¯
+
+It remains to be seen what will be the next steps for the failed exchange. The leaked ¡®¡¯Crisis Strategy Draft¡¯¡¯ did mention that as a part of the restructuring and rebranding process clients with claims should be able to login and see their balance. If this is a prelude to starting up a rebranded Gox, Mark will have a hard time convincing new investors and old clients to jump on-board. In the past month, the company has done a very poor job of communicating to the public and has instead preferred to use the legal system to protect its assets from on-going lawsuits.
+
+Get our free guide to bitcoin trading here.

@@ -1,0 +1,17 @@
+Apparently frustrated by a lack of information about how Mt. Gox lost hundreds of millions of dollars in a security lapse, hackers hit the personal blog of Bitcoin exchange's chief executive to level charges of fraud.
+
+The Reddit account and personal blog of Mt. Gox CEO Mark Karpeles, MagicalTux.net, were hijacked Sunday and defaced with a post that alleged the exchange kept some of the coins allegedly stolen in fraudulent withdrawals. Hackers also posted a 716MB Zip file that allegedly contained data stolen from Mt. Gox servers on the sites as well as to Pastebin.
+
+The data dump claims that 951,116.21905382 bitcoins were deposited into Mt. Gox. The embattled exchange filed for bankruptcy last month, saying that Mt. Gox lost nearly 750,000 customer bitcoins, as well as 100,000 of the exchange's own bitcoins.
+
+"First and foremost, this is not Mark Karpeles," hackers wrote. "It's time that MTGOX got the bitcoin communities wrath instead of [the] Bitcoin Community getting Goxed." The phrase "getting Goxed" has become synonymous with the frustration felt by many Mt. Gox investors, who have suffered frequent outages, delayed trading, and suspended withdrawals.
+
+"Included in this download you will find relevant database dumps, csv exports, specialized tools, and some highlighted summaries compiled from data," the hackers wrote their profanity-laced diatribe. "No user database dumps have been included."
+
+CNET could not independently confirm the veracity of the claims, but some Reddit users said they were able to confirm that their personal account balances matched the data in the posting, which was posted in the form of an Excel spreadsheet.
+
+CNET has contacted Mt. Gox for comment and will update this report when we learn more.
+
+At its height, Mt. Gox was one of the largest and most popular Bitcoin exchanges. However, the troubled exchange suspended customer withdrawals on February 7, claiming a fundamental flaw existed in Bitcoin that affected all transactions. Mt. Gox later apologized for the issue and said it had developed a workaround that would allow it to resume service, but that has not yet happened.
+
+Due to the currency's encryption technology, it might be difficult, if not impossible, for the stolen bitcoins to be restored to their owners' accounts, leaving people across the globe with significant losses.

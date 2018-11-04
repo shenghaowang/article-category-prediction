@@ -1,0 +1,17 @@
+Now anonymous hackers believe they have the answer ¨C they're still in Mt Gox. "On Sunday," reports Forbes, "hackers took over the Reddit account and personal blog of Mark Karpeles, Mt. Gox¡¯s CEO, to post an angry screed alleging that the exchange he ran had actually kept at least some of the bitcoins that the company had said were stolen from users."
+
+The blog has since been taken down, but the hackers' message is available on Pastebin. "It¡¯s time that MTGOX got the bitcoin communities wrath instead of Bitcoin Community getting Goxed. This release would have been sooner, but in spirit of responsible disclosure and making sure all of ducks were in a row, it took a few days longer than would have liked to verify the data."
+
+The message provides a link to a zip file. "Included in this download you will find relevant database dumps, csv exports, specialized tools, and some highlighted summaries compiled from data. Keeping in line with fucking Gox alone, no user database dumps have been included."
+
+The hackers also provide what they claim to be the balances of virtual currencies still existent ¨C and it includes more than 950,000 bitcoins. This alone is proof of nothing. Forbes points out, "I couldn¡¯t verify that Sunday¡¯s database dump was real, or that it showed any of the 'lying' that the hackers claimed. In fact, it may simply show how Mt. Gox¡¯s accounting mismatched with its actual store of Bitcoins¨Cthat it was counting bitcoins as being safe in its coffers when they had already been stolen by thieves."
+
+Nevertheless, the lack of movement for the stolen bitcoins has puzzled the community. On Friday, however, writing in Coindesk, Danny Bradbury noted that a wallet most likely owned by Mt Gox had started to be active. This wallet had been dormant until July 2012, when it started receiving small transactions. "However," writes Bradbury, "no coins left that wallet, until today, when its 50,000 bitcoins were sent to another address, as part of outputs from various bitcoin addresses totaling 180,000 bitcoins ($113 million)."
+
+Since then, he continues, "these coins have been rapidly splitting, with coins being subdivided repeatedly. One branch was found to have been splitting every 30 minutes in what appeared to be an automated fashion. This suggests that there may be some code splitting the coins."
+
+Why this is happening is not so clear. "One explanation is that it makes the coins easier to use for a high volume of transactions," suggests Bradbury. Another possibility, of course, is that it also makes them harder to trace.
+
+It is not absolutely clear that the bitcoins concerned are still 'owned' by Mt Gox, but bitcoin developer Gregory Maxwell suggests they are. "Maxwell also argued that the splitting behavior is consistent with a function in the leaked source code from Mt Gox," writes Bradbury. "This suggests that some of the coins have been dropped into the Mt Gox online wallet, and that the system is now automatically breaking them up, he said."
+
+One thing is clear: the Mt Gox debacle is still posing more questions than it is providing answers.

@@ -1,0 +1,53 @@
+The 2018 plan year is the fifth year of operation for the Affordable Care Act (ACA, known as Obamacare) health insurance exchanges. For the third year in a row, insurer participation has declined. Obamacare exchange customers in more than half of all U.S. counties¡ªincluding all counties in 10 states¡ªhave no insurer choice.
+
+One way to measure insurer competition is to assess insurer participation on a state-by-state basis. That analysis, summarized in Table 1, shows the number of carriers in each state and the District of Columbia in the individual market in 2013, as well as in the exchanges each year since they began in 2014. Insurers that offer exchange coverage through more than one subsidiary in a state are counted as one carrier (the parent company), while insurers that offer coverage in more than one state are counted for each state (as exchange participation is a state-level decision).
+
+In 2013, the last year before Obamacare¡¯s implementation, 395 insurers sold coverage in the individual market across all states and the District of Columbia. In 2018, 181 insurers are offering coverage in the Obamacare exchanges. That makes the 2018 exchanges as a whole 54 percent less competitive than the individual market was before Obamacare was implemented.
+
+Relative to 2017, the number of insurers offering exchange coverage in 2018 declined in 27 states, increased in two states (Alabama and New Jersey), and remained the same in 21 states and the District of Columbia.
+
+Also, the number of states with only one or two insurers offering Obamacare exchange coverage increased between 2017 and 2018. In 2017 there were five states with only one exchange insurer, while there are eight such states for 2018. Similarly, 12 states and the District of Columbia had two exchange insurers in 2017, while 17 states and the District of Columbia have only two exchange insurers in 2018.
+
+As Table 1 shows, insurer participation in the Obamacare exchanges at the state level increased in 2015, but then declined in each of the subsequent three years. A more detailed view is provided in Chart 1, which shows the pattern of insurers entering and exiting the exchanges from year to year.
+
+Obamacare defenders claim that the Trump Administration¡¯s policies and congressional Republican efforts to repeal and replace Obamacare drove away insurers. The data show, however, that fewer insurers exited the exchanges in 2018 than left in either 2016 or 2017 under the Obama Administration. Moreover, a few insurers continue to expand their offering of Obamacare exchange coverage into more states.
+
+On net, as Chart 1 shows, in the past three years, the number of insurer exits far exceeded the number of entrances, with the Obamacare exchanges becoming less competitive overall as a result. Only in three states are more insurers offering Obamacare exchange coverage in 2018 than in 2014, while 13 states have the same number, and 34 states and the District of Columbia have fewer. (See Table 1.)
+
+Though state-level data are informative, for consumers, the most relevant measure of competition is at the county level. That is because health plans are offered (and priced) on a local basis. Because there are numerous instances of an insurer offering Obamacare exchange coverage in only part of a state, county-level figures provide a more precise picture of the actual choices available to consumers.
+
+Insurer competition in the Obamacare exchanges at the county level declined significantly in 2017 and further in 2018, as reflected by increases in the percentages of U.S. counties with only one or two insurers. (See Chart 2.) In 2017, nearly one-third of counties (32.8 percent) had only one insurer offering exchange coverage. In 2018, more than half (51.3 percent) of all counties face that situation. Furthermore, 10 states have no exchange competition in any county, and another 19 states and the District of Columbia have no more than two insurers offering exchange coverage in any county.
+
+The four large national insurers have now almost entirely exited the Obamacare exchanges. Aetna and Humana no longer offer exchange coverage in any state, while Cigna participates in just six states, and United Healthcare offers exchange coverage only in New York and Nevada. After experiencing several years of significant losses, those insurers left the market. Given that individual-market coverage represents a very small piece of their overall businesses, they are unlikely to resume offering exchange coverage.
+
+Anthem, while also a large multi-state insurer, is not a national carrier in the same sense as the other four; it is principally a collection of Blue Cross and Blue Shield licensees in 14 states. Historically, Blue Cross and Blue Shield insurers have had the largest share of individual-market coverage in most states. Market dominance is one reason why Blue Cross and Blue Shield licensees are the biggest group of insurers still participating in the exchanges. However, even local-market dominance has not been enough to entice all of them to enter or remain in the exchanges.
+
+Until this year, Anthem participated in the Obamacare exchanges in all 14 of the states where it is the Blue Cross carrier. In 2018, it exited five states. There are now 10 states that do not have a Blue Cross or Blue Shield carrier offering exchange coverage.[REF] In eight more states, the Blue Cross plan no longer offers exchange coverage statewide.[REF]
+
+Meanwhile some other carriers expanded their Obamacare exchange presence. The for-profit Medicaid managed-care insurer Centene expanded steadily from eight states in 2014 to 15 states in 2018. Two regional carriers¡ªMinnesota-based Medica and Ohio-based CareSource (a nonprofit Medicaid managed-care company)¡ªhave also expanded their exchange offerings to more states in the intervening years.
+
+Most of the remaining Obamacare exchange participating insurers are sponsored by provider systems (usually hospitals). Those insurers are local¡ªoffering exchange coverage only in a single state, or just the part of a state served by their network. The one exception is Kaiser Permanente, which is both an insurer and provider, and offers coverage in the District of Columbia and parts of eight states.
+
+To increase insurer competition, the ACA included a program of grants and loans to fund the creation of new so-called cooperative health insurers, or co-ops. Of the 24 co-ops funded by that program, only four are still in business.[REF] In contrast, one new insurer backed by private venture capital, Oscar, entered New York¡¯s Obamacare exchange in 2014 and has since expanded to offering exchange coverage in portions of six states.
+
+Why the ACA Has Produced Declining Competition and Choice
+
+Obamacare¡¯s subsidy structure of premium tax credits and payments to insurers to reduce enrollee cost sharing is targeted at a relatively narrow segment of lower-income individuals¡ªthose with incomes between 100 percent and 250 percent of the federal poverty level (FPL). The law also requires insurers to offer a comprehensive package of benefits. As a result, the exchanges have attracted predominantly lower-income enrollees. For instance, among enrollees receiving premium subsidies, two-thirds (67 percent) are also enrolled in reduced cost-sharing plans available only to enrollees with incomes below 250 percent of the FPL. Insurers have also found that exchange enrollees tend to be in poorer health and use more medical services than the general population. That has forced insurers to repeatedly raise rates.
+
+Given the basic structure of Obamacare¡¯s subsidies and coverage requirements and ongoing plan premium increases, there is no reason to expect the exchanges to attract a larger share of enrollees who are more affluent or healthier in the future.
+
+Insurers most likely to continue offering exchange coverage are those with experience providing subsidized health insurance to low-income individuals and controlling costs by limiting access to providers¡ªsuch as insurers with significant Medicaid managed-care business or ones owned by hospital systems. Indeed, a recent analysis found that since 2015 the share of exchange plans with restrictive provider networks has grown so that 73 percent of exchange plans now have more restrictive networks, while only 27 percent have less restrictive networks.[REF]
+
+The emerging norm appears to be one in which major metropolitan areas have two or three insurers offering exchange coverage but less populous areas have only one. However, Obamacare¡¯s subsidy structure makes it unlikely that parts of the country will have no insurers offering coverage. This past summer¡ªwhen it looked like a number of counties in several states would have no exchange insurer for 2018¡ªsome insurers stepped in to fill the gaps, notably Medicaid managed-care insurer Centene.
+
+Due to Obamacare¡¯s design, insurers can make money on Obamacare if they have a monopoly on offering taxpayer-subsidized coverage. While the enrollees will be costly, an insurer with an exchange monopoly does not have to worry about being underpriced by competitors and can set its rates high enough to cover those costs. State and federal regulators will face pressure to approve those requests for higher rates so as to avoid responsibility for creating ¡°bare counties¡± with no insurer offering coverage. Furthermore, thanks to the ACA¡¯s subsidy structure, those rate increases generate higher subsidy payments, meaning that the higher costs are mainly passed on to federal taxpayers with subsidized enrollees largely insulated from the effects.
+
+The data indicate that the number of individuals enrolled in subsidized exchange coverage has plateaued in the past couple of years.[REF] Largely due to Obamacare¡¯s basic design, enrollees are often in poorer health and use more medical services than the general population.
+
+Many insurers have exited the exchanges; ones that remain offer higher premiums and narrow network plans. Over half of the counties¡¯ Obamacare exchanges are now a monopoly, offering plans from only one insurer.
+
+A health insurance monopoly offering overly expensive coverage that pays for only a very limited set of providers is deeply unattractive, especially to customers who previously enjoyed choice in both their insurance and medical care.
+
+Not surprisingly, consumers are looking to Congress and the President for help in escaping the soaring costs and shrinking choices that characterize the ACA exchanges.
+
+¡ªEdmund F. Haislmaier is a Senior Research Fellow in Domestic Policy Studies, of the Institute for Family, Community, and Opportunity, at The Heritage Foundation.

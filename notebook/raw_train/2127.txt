@@ -1,0 +1,53 @@
+Hackers attacked the personal blog of Mt. Gox CEO Mark Karpeles on Sunday and posted what they claim is a ledger showing a balance of some 950,000 bitcoins based on records they obtained from the defunct exchange for the virtual currency.
+
+They said the sum contradicts Mt. Gox's claim in a Japanese bankruptcy protection filing Feb. 28 that it had lost about 850,000 bitcoins.
+
+Neither Karpeles nor Mt. Gox officials could immediately be reached to verify the claims.
+
+Karpeles has maintained a low profile since the filing in Tokyo District Court. Mt. Gox, which pulled the plug on its website three days before the court filing, had announced that about 750,000 customer bitcoins it held are missing along with 100,000 of its own bitcoins and $27.3 million in customer deposits.
+
+Karpeles' blog was titled "Magical Tux in Japan -- Geekness brought me to Japan!" Karpeles, who is French, often used the nickname "MagicalTux" when posting on public message or chat forums. His blog went offline Sunday shortly after it was attacked.
+
+Karpeles did not immediately answer a query sent to his personal email address.
+
+The attackers claim to have obtained database records containing transaction details from Mt. Gox. They wrote they purposely withheld users' personal data. Mt. Gox had as many as 1 million customers as of December.
+
+The data included a screenshot of what appears to be an internal SQL database administration tool, Karpeles' CV and a Windows executable called "TibanneBackOffice," among many others. Mt. Gox is a subsidiary of Tibanne, a company owned by Karpeles.
+
+The release of the data adds to the mysterious circumstances around Mt. Gox, which at one time was the largest exchange for buying and selling bitcoin.
+
+Mt. Gox's demise has enraged its out-of-pocket customers as efforts continue to derive clues from bitcoin's public ledger, called the blockchain, that might indicate the fate of its virtual currency holdings.
+
+Mt. Gox in part blamed a security issue called transaction malleability for its bitcoin losses. In some instances, transaction malleability can allow an attacker to manipulate transaction identification numbers in order to steal bitcoins.
+
+The long-known security problem is being addressed by the custodians of bitcoin's core software who've said it is usually only an issue if a bitcoin exchange has not coded its own software correctly.
+
+Meanwhile, intense efforts are underway to analyze the blockchain to figure out where large stashes of bitcoins once held by Mt. Gox may have been transferred.
+
+The blockchain records the movement of bitcoins from a user's public bitcoin "address" or "wallet," which is a 32-alphanumeric character. It is possible, for example, to attribute addresses to a person or company based on past transfers.
+
+Adam Levine, who writes a blog dedicated to bitcoin, investigated Mt. Gox's bitcoin balances along with four colleagues. The group found two addresses, one with 90,000 bitcoins and another with 200,000, that may belong to Mt. Gox.
+
+In a phone interview last week, Levine said those two stashes were found by analyzing a transaction Karpeles made in 2011 when Mt. Gox was pressured to prove the company was solvent.
+
+At that time, Karpeles is believed to have moved just over 424,242 bitcoins between two Mt. Gox addresses. Since the transaction was recorded in the blockchain, it would ostensibly be proof that Mt. Gox had the bitcoins.
+
+Levine, who wrote about their findings, cautioned though that their conclusion may not be accurate. There are a lack of technical tools to perform deep analysis of the blockchain that could make it easier to elicit more definitive conclusions, he said.
+
+"There's a lot of technical depth, but when it comes to attributing it to individuals, it's very, very difficult, and it's tempting to draw conclusions because sometimes it seems like it's just obvious," he said.
+
+The 850,000 bitcoins that were lost from Mt. Gox, 100,000 of which were its own, were worth an estimated US$474 million. If stolen, the incident would be one of the largest cybercrime thefts on record.
+
+An academic paper published last year that analyzed noted thefts of bitcoins found that following a trail of bitcoins was hard if a thief used certain techniques, including splitting balances into many other addresses, but few did.
+
+"For the thieves who used the more complex strategies, we saw little opportunity to track the flow of bitcoins (or at least do so with any confidence that ownership was staying the same), but for the thieves that did not there seemed to be ample opportunity to track the stolen money directly to an exchange," they wrote.
+
+Because bitcoin is just five years old, law enforcement may still be just catching up with how bitcoin works, let alone honing blockchain forensic techniques.
+
+"A lot of people think of bitcoin as funny money," said Bruce Fenton, board member of The Bitcoin Association, a nonprofit industry organization. "This is serious money for serious people."
+
+Another possible scenario that Mt. Gox simply lost the private keys to the bitcoins, which are required to transfer the virtual currency to another address, through a hardware failure or a software error.
+
+If that's the case, it would appear by looking at the blockchain that Mt. Gox would still have bitcoins sitting in an address known to be under its control, but transferring the bitcoins is impossible.
+
+Send news tips and comments to jeremy_kirk@idg.com. Follow me on Twitter: @jeremy_kirk

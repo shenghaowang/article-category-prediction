@@ -1,0 +1,27 @@
+Bitcoin exchange Mt. Gox suffered about 150,000 hacking attacks per second for several days before its collapse last month, according to a report.
+
+Japanese newspaper Yomiuri Shimbun reported that the exchange was hit by continued distributed denial-of-service (DDoS) attacks, during which hackers take control of computers to send large amount of data to a target, resulting in servers to crash.
+
+The attacks on MtGox lasted for several days and many bitcoins were stolen from Mt. Gox, according to the newspaper.
+
+Mt Gox, which once hosted 80% of the world's bitcoin trades, collapsed after losing about 850,000 bitcoins to DDoS attacks. The company has filed for bankruptcy protection in Japan on 28 February.
+
+The company noted that its liabilities totalled 6.5bn yen ($64m, 38m, 46.5m), while it has only 3.8bn yen of assets.
+
+Problems with the way Mt Gox's automated transaction system operates led to hackers reportedly manipulating transactions to withdraw more bitcoins.
+
+Known as "transaction malleability", the flaw is in the way bitcoin itself is coded and has been known about since 2011, but can be fixed by making relatively simple changes to the way exchanges handle transactions.
+
+The exchange's collapse questioned the reliability of bitcoin that suffered a plunge in prices subsequently.
+
+Separate investigations are underway in Japan and the US against Mt. Gox.
+
+UK-based law firm Selachii said earlier that more than 400 people are willing to join a class action in London against Mt. Gox and its owners.
+
+Bitcoin was launched in 2008 and is traded within a global network of computers. They can be transferred without going through banks or clearing houses, reducing fees involved in the services significantly.
+
+The digital currency gained more popularity and value as more and more merchants started accepting bitcoins, boosting investors' morale.
+
+However, a number of adverse incidents including the Mt. Gox debacle questioned the digital currency's reliability.
+
+Governments across the globe have made different decisions regarding businesses related to bitcoin. While some have banned all dealings in the currency, some others have come up with pro-active policies that consider bitcoin firms just like any other tax-compliant companies.

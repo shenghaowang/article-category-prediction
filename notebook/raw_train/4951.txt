@@ -1,0 +1,23 @@
+Symantec CEO Mike A. Brown will leave the company, after it today announced it will miss its projected Q4 2016 sales.
+
+Symantec has previously forecast sales of between US$885m and $915m. Advice released today suggested the actual result will be closer to $873m, a small but nasty miss.
+
+The company's tried to explain the miss (PDF) as follows:
+
+We think that's filing-speak for ¡°when people move to the cloud, we get 1/24 of the revenue we'll eventually receive, rather than lovely fat up-front payment for a two-year licence.¡± That's a problem Symantec's not alone in struggling to navigate.
+
+It's not the reason board chair Daniel H. Schulman says Brown's being asked to depart.
+
+Syamntec's canned statement depicts the move as a ¡°CEO Transition Plan¡± that's apposite because Brown did all that was asked of him by divesting Veritas and positioning Symantec for life as a pure-play security company.
+
+¡°Given our solid financial foundation and clear path forward as the leader in cybersecurity, this is the right time to transition leadership for Symantec¡¯s next chapter of growth,¡± Schulman writes.
+
+The Register met Brown last year and was a little surprised to learn his strategy was more and deeper product integration in Symantec's security product line, given that a very similar strategy of integrating security and storage software failed.
+
+Brown's also stepping down as Symantec president. Dr. Ajei S. Gopal will serve in that role and as chief operating officer, both in interim capacities.
+
+Brown took the CEO's chair in September 2014, after a six-month stint as interim CEO. His ascent meant Symantec had three CEOs in as many years. We're now looking at four in half a decade, nasty instability at a time demand for security wares have never been higher.
+
+Little wonder Symantec shares were down 6.9 per cent on the news. 
+
+Sponsored: Following Bottomline¡¯s journey to the Hybrid Cloud

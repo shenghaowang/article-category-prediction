@@ -1,0 +1,43 @@
+HONOLULU ¡ª The Hawaii State Department of Labor & Industrial Relations (DLIR) today announced that the seasonally adjusted unemployment rate for January was 2.1 percent, the same as the benchmark-revised rate of 2.1 percent for December. Statewide, 668,700 were employed and 14,400 unemployed in January for a total seasonally adjusted labor force of 683,050. Nationally, the seasonally adjusted unemployment rate was 4.1 percent in January, the same as in December.
+
+Both initial claims and weeks claims decreased by 21 or -1.4 percent and by 209 or -2.4 percent respectively for unemployment benefits compared to one year ago. Over-the-month both initial claims and weeks claims increased by 18.3 percent and 8.5 percent respectively in January 2018.
+
+The unemployment rate figures for the State of Hawaii and the U.S. in this release are seasonally adjusted in accordance with the U.S. Bureau of Labor Statistics (BLS) methodology. The not seasonally adjusted rate for the State was also 2.1 percent in January, compared to the revised rate of 1.8 percent in December.
+
+In another measure of employment, nonagricultural jobs increased by 1,900 over-the-month. Among the major sectors, job gains occurred in Trade, Transportation, & Utilities (+1,100), Professional & Business Services (+1,000), Leisure & Hospitality (+500), Other Services (+300) and Financial Activities (+100). Within the Trade, Transportation, & Utilities series, most of the rise is attributed to a smaller release of seasonal retail workers, following less seasonal hiring in the industry late last year. Jobs losses were experienced in Construction (-100), Manufacturing (-100), Information (-100) and Educational & Health Services (-300). Government employment declined by 500 jobs, with most of the drop in the University of Hawaii System. In comparison with one year ago, total nonfarm jobs have expanded by 6,600, or 1.0 percent.
+
+The seasonal fluctuations in the number of employed and unemployed persons reflect hiring and layoff patterns that accompany regular events such as the winter holiday season and the summer vacation season. These variations make it difficult to tell whether month-to-month changes in employment and unemployment are due to normal seasonal patterns or to changing economic conditions. Therefore, the BLS uses a statistical technique called seasonal adjustment to address these issues. This technique uses the history of the labor force data and the job count data to identify the seasonal movements and to calculate the size and direction of these movements. A seasonal adjustment factor is then developed and applied to the estimates to eliminate the effects of regular seasonal fluctuations on the data. Seasonally adjusted statistical series enable more meaningful data comparisons between months or with an annual average.
+
+A survey conducted for employment status in the week that includes the 12th day of each month generates the unemployment rate statistics, which is a separate survey from the Establishment Survey that yields the industry job counts. The CPS survey contacts approximately 1,000 households in Hawaii to determine an individual¡¯s current employment status. Employed persons consist of: 1) all persons who did any work for pay or profit during the survey reference week, 2) all persons who did at least 15 hours of unpaid work in a family-owned enterprise operated by someone in their household, and 3) all persons who were temporarily absent from their regular jobs, whether they were paid or not. Persons considered unemployed are ones that do not have a job, have actively looked for work in the prior four weeks and are available for work. Temporarily laid off workers are counted as unemployed, whether they have engaged in a specific job seeking activity. Persons not in the labor force are those who are not classified as employed or unemployed during the survey reference week.
+
+Statewide and substate data for 2013-2017 have been re-estimated to reflect revised population controls, model reestimation and for seasonally adjusted data, new seasonal adjustment for 1976-2017.
+
+This release incorporates revised job count figures from 1990 through 2017 for the seasonally adjusted series. The reconstructed data reflects data from historical corrections applied to unadjusted supersector or sector level series. For years, analysts with the State DLIR¡¯s Research and Statistics Office have developed monthly employment estimates for Hawaii and our metropolitan areas. These estimates were based on a monthly survey of Hawaii businesses and analysts¡¯ knowledge about our local economies. Beginning with the production of preliminary estimates for March 2011, responsibility for the production of State and metropolitan area (MSA) estimates was transitioned from individual state agencies to the U.S Bureau of Labor Statistics (BLS).
+
+For Hawaii, this means the transition of statewide, Honolulu and Kahului-Wailuku-Lahaina MSA areas. State agencies will continue to provide the BLS with information on local events that may affect the estimates, such as strikes or large layoffs/hiring at businesses not covered by the survey and to disseminate and analyze the Current Employment Statistics (CES) estimates for local data users. BLS feels this change is designed to improve the cost efficiency of the CES program and to reduce the potential bias in state and area estimates. A portion of the cost savings generated by this change is slated to be directed towards raising survey response rates in future years, which will decrease the level of statistical error in the CES estimates. Until then, state analysts feel this change could result in increased month-to-month variability for the industry employment numbers particularly for Hawaii¡¯s counties and islands.
+
+Seasonally Adjusted Labor Force and Unemployment Estimates for Honolulu and Maui County
+
+BLS publishes smoothed seasonally adjusted civilian labor force and unemployment estimates for all metropolitan areas, which includes the City and County of Honolulu and Maui County. BLS releases this data each month in the Metropolitan Area Employment and Unemployment news release. The schedule is available at http://www.bls.gov/news.release/metro.toc.htm.
+
+The six alternative labor underutilization state measures based on the Current Population Survey (CPS) and compiled on a 4-quarter moving average basis defined:
+
+U-1 persons unemployed 15 weeks or longer, as a percent of the civilian labor force;
+
+U-2 job losers and persons who completed temporary jobs, as a percent of the civilian labor force;
+
+U-3 total unemployed, as a percent of the civilian labor force (this is the definition used for the official unemployment rate);
+
+U-4 total unemployed plus discouraged workers, as a percent of the civilian labor force plus discouraged workers;
+
+U-5 total unemployed, plus discouraged workers, plus all other marginally attached workers*, as a percent of the civilian labor force plus all marginally attached workers; and
+
+U-6 total unemployed, plus all marginally attached workers, plus total employed part time for economic reasons, as a percent of the civilian labor force plus all marginally attached workers.
+
+* Individuals who want, and are available for work, and who have looked for a job sometime in the prior 12 months (or since the end of their last job if they held one within the past 12 months), but were not counted as unemployed because they had not searched for work in the four weeks preceding the survey, for such reasons as child care or transportation problems, for example. Discouraged workers are a subset of the marginally attached.
+
+Note that, the state unemployment rates (U-3) that are shown are derived directly from the CPS. As a result, these U-3 measures may differ from the official state unemployment rates for the latest 4-quarter period. The latter are estimates developed from statistical models that incorporate CPS estimates, as well as input data from other sources, such as state unemployment claims data.
+
+Auxiliary aids and services are available upon request to individuals with disabilities.
+
+TDD/TTY Dial 711 then ask for (808) 586-8866

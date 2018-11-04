@@ -1,0 +1,101 @@
+Apple's iPhones are pretty complex gadgets - filled with hidden tips and tricks you may not know about.
+
+Even if you've been using your device for years, Apple often includes new shortcuts with each software upgrade.
+
+Whether you've got the cutting-edge iPhone X or one of the earlier models, you can still make your day-to-day usage much easier with some of these feautres.
+
+Of course, it's always important to make sure you're running the latest version of iOS - especially when it comes to security. Apple has recently released a new upgrade to protect iPhones and iPads against the Spectre vulnerability found on processing chips.
+
+Here's some of the best iPhone secrets Apple may not have told you about.
+
+If the 'Screenshots' album in your Photos app is constantly filled with thousands of WhatsApp conversations, memes and funny Instagram photos to send to your mates, you might be excited to know that iOS 11 has a new, snazzier feature.
+
+The new software will allow you to do screen recordings - so if you want to show your mum how to change her Facebook settings you can just record a little video and send it to her.
+
+The feature was first spotted by 20-year-old Faiz Shakir from New York, who had access to a beta version of iOS 11 through Apple's developer programme, and shared details of the new function on his Twitter account.
+
+But while screen recording has a range of useful applications, Shakir pointed out that the feature could potentially be used in more sinister ways: "I was shocked because you could be recorded while on FaceTime or Snapchat without your knowing," he said.
+
+The set up screen recording, go to Settings > Control Center > Customise Controls, and then add "Screen Recording" to your "Include" list. You can then access the feature by swiping up from the bottom of the screen and pressing the record icon.
+
+iOS 11 includes an option to lock down your iPhone and get a hotline to the police whenever you find yourself in jeopardy.
+
+The new "Emergency SOS" feature, spotted by programmers with access to the iOS 11 beta, is launched by pressing the iPhone's power button rapidly five times, while the phone is locked.
+
+This prompts the phone to emit an siren sound, and start counting down from three, before automatically dialling 112 - the common emergency number in Europe.
+
+If you're worried about activating Emergency SOS by accident, you can adjust the settings on your phone to bring up a shortcut to dial the emergency services, rather than dialling them automaticaly.
+
+There is also the option to set up emergency contacts, who will be sent a message with your current location whenever you activate the feature.
+
+Scanning QR codes on an iPhone or iPad has traditionally required you to download an often poorly-made third-party app.
+
+But with iOS 11, there's a QR code scanner built right into the native Camera app - so all you have to do is open the Camera app, point the iOS device at a QR code, and tap on the drop-down notification to act upon it.
+
+This works whether the QR code is a shortcut to a webpage, a prompt to join a Wi-Fi network, or a code to add contact details to your address book.
+
+The feature is turned on by default, but can be toggled on or off within the Camera section of the Settings app .
+
+If you're the owner of an iPhone 6 or 7 "Plus", you'll know the struggle of trying to type one-handed on the massive 5.5-inch display.
+
+Now Apple has come up with a way to ease your pain. A new one-handed-keyboard mode in iOS 11 adjusts the size and position of the keyboard to make it easier to use with one hand.
+
+You can access the new one-handed mode by holding hold down the emoji (or globe) icon on the keyboard. This will bring up three little keyboard icons.
+
+If you select the one with an arrow pointing to the right, the keyboard will shift to the right. Select the one pointing to the left, and it'll go left.
+
+The result will be a keyboard closer in size to the one on the iPhone 7. Apple has made this work on a system level, so the keyboard will stay in the one-handed mode, across different apps, until you change it back.
+
+With the launch of iOS 10 last year, Apple introduced a range of new "screen effects" in messages - such as balloons, confetti, lasers and fireworks to emphasise the tone of what you are saying.
+
+Now, with iOS 11, Apple is adding two more screen effects - a new "Echo" option, which repeats your message in a flurry of text across the screen, and "Spotlight," which shines a beam of light around your message.
+
+You can add these effects by holding down on the send button, tapping the "screen" tab at the top, and then swiping right or left to select and effect.
+
+There's also now the option to mute conversations within Messages - so if you're stuck in a group chat and are sick of the incessant notifications, you can turn them off.
+
+Just go to the main messages screen, swipe left on the conversation you want to mute, and tap on "Hide Alerts". Problem solved.
+
+Longer battery life is what many iPhone users wish for.
+
+One of the main reasons for the short battery life is due to apps running in the background.
+
+But, there is now a way you can turn off Spotlight- which is Apple¡¯s service for connecting key data and services to help apps run.
+
+Go to Settings - General - Spotlight Search and you can limit what is pulling in the data in the background.
+
+Is there anything worse than being desperate to send that text but your signal is poor or being in the middle of a phone call and the connection breaks?
+
+Well, now you can find out where the best place for a strong signal is where ever you are.
+
+Type *3001#12345#* into your phone¡¯s dialling keypad and press call.
+
+This then will launch a hidden Field Test tool.
+
+At the top on the left hand side you will then see a ¡®-¡¯ sign followed by a number. It is the number which indicates if you have good signal where you are.
+
+A score of -50 is what you are aiming for, with -120 being pretty poor.
+
+Swipe upward from the bottom of your screen to open the Control Center.
+
+The brightness control works through 3D touch so instead of tapping the flashlight button, press on it to register a 3D touch.
+
+The 3D touch menu will appear with three options; Low Light, Medium Light, and Bright Light.
+
+Tap any one of these options to turn the flashlight on.
+
+Depending on which option you tapped, the flashlight will be bright or dim accordingly.
+
+How to activate the cursor
+
+This is only available on models starting from the iPhone 7.
+
+If you hold down on the screen you finger becomes like a cursor- making deleting letters from certain words that little bit easier.
+
+If you're in a hurry and want to quickly call someone back after just speaking to them, there's a faster way than typing in the number or hunting through your phone book.
+
+All you have to do is call up the Phone app (indicated by a green phone icon and usually stored bottom-left in your dock) and hit the green call icon in centre of the dialpad.
+
+The phone will then instantly call back the last number dialled.
+
+This can be extremely helpful if you hung up too quickly or needed to get back in touch after being cut off.

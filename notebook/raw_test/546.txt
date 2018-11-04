@@ -1,0 +1,19 @@
+Mt. Gox, the Tokyo-based bitcoin exchange that collapsed and filed for bankruptcy last month, said it had found 200,000 bitcoins that were held in an "old-format" wallet, or digital storage file.
+
+Mt. Gox's former chief executive, Mark Karpeles, issued a statement in Japanese and English on the company's website saying that after it filed for bankruptcy, it began researching these wallets that were used before June 2011. That is when the company discovered the 200,000 bitcoins, which represent about 24 percent of the coins that went missing when the site failed.
+
+Last month, Mt. Gox said it had lost 750,000 of its customers' bitcoin holdings and more than 100,000 of its own coins, or more than $450 million worth. Based on today's rates, the found coins are worth about $114 million.
+
+Since then, plaintiffs have filed a class-action lawsuit, seeking a temporary injunction to keep Karpeles or his company from moving any money outside of the United States. They also want a full accounting of any assets Mt. Gox has left. Mt. Gox said it reported the discovery of the coins to the bankruptcy court on March 10, and that it moved them to an offline site from March 14 to March 15.
+
+The latest announcement is likely to add to the questions about Mt. Gox's collapse. Even the company said it was still uncertain about what led up to its failure.
+
+"Please note that the reasons for their disappearance and the exact number of bitcoins which disappeared is still under investigation," the company concluded in its statement dated Thursday.
+
+Bitcoins can be stored online or offline, otherwise known as "hot" and "cold" wallets. A "cold" wallet can be nothing more than writing down a digital key to access one's bitcoin on a scrap of paper for later use, or storing data on a thumb drive.
+
+Thieves can steal bitcoin by accessing it through a computer network, or by taking the physical storage material.
+
+Many Bitcoin supporters have said that the collapse of Mt. Gox is part of the shake-out of the early, less sophisticated Bitcoin companies that have lost ground to newer, more well-oiled businesses.
+
+"I think that it's yet another illustration of how incompetently managed that hobbyist operation was," said Gil Luria, a managing director at Wedbush Securities who has written about Bitcoin.
