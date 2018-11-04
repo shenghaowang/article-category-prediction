@@ -6,8 +6,6 @@ import time
 from nltk.corpus import stopwords
 from logging.config import fileConfig
 
-#from newsplease import NewsPlease
-#import ssl
 
 #ssl._create_default_https_context = ssl._create_unverified_context
 logging.config.fileConfig(fname="logging.conf", disable_existing_loggers=False)
@@ -84,10 +82,22 @@ def main():
     and document frequency of words in articles.
 
     """
-    articles_dir = './raw'
+    #articles_dir = './raw'
+    articles_dir = 'notebook/raw_train'
     output_dir = './output'
+
+    # Create folder to store output if it doesn't exist
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
+    else:
+        # Remove all files from the folder
+        for article in os.listdir(output_dir):
+            article_path = os.path.join(output_dir, article)
+            try:
+                if os.path.isfile(article_path):
+                    os.unlink(article_path)
+            except Exeception as err:
+                logger.error("Error occurred when removing existing processed articles.")
     porter = nltk.PorterStemmer()
     stops = set(stopwords.words('english'))
     num_articles = len(os.listdir(articles_dir))
@@ -101,30 +111,35 @@ def main():
     for raw_article in os.listdir(articles_dir):
         article_id = raw_article.split('.')[0]
         paragraphs = []
-        with open(os.path.join(articles_dir, raw_article), 'r') as f:
-            for i, line in enumerate(f):
-                processed_words = []
-                paragraph = line.replace("\n", " ")
-                words = pre_process(paragraph, porter)
-                for word in words:
-                    word = word.strip()
-                    if word and word not in stops:
-                        processed_words.append(word)
-                        # Record statistics of the df and tf for each word
-                        # Format: {word: [tf, df, article index]
-                        if word in words_stat.keys():
-                            words_stat[word][0] += 1
-                            if article_id != words_stat[word][2]:
-                                words_stat[word][1] += 1
-                                words_stat[word][2] = article_id
-                        else:
-                            words_stat[word] = [1, 1, article_id]
-                paragraphs.append(' '.join(processed_words))
-        f.close()
-        processed_articles[article_id] = paragraphs
-        article_count += 1
-        if article_count % 100 == 0:
-            logger.info("%s out of %s articles have been processed.", article_count, num_articles)
+        if article_id.isdigit():
+            with open(os.path.join(articles_dir, raw_article), 'r',
+                     encoding='ISO-8859-1') as f:
+                for i, line in enumerate(f):
+                    processed_words = []
+                    paragraph = line.replace("\n", " ")
+                    words = pre_process(paragraph, porter)
+                    if words:
+                        for word in words.split(' '):
+                            word = word.strip()
+                            if word and word not in stops:
+                                processed_words.append(word)
+                                # Record statistics of the df and tf for each word
+                                # Format: {word: [tf, df, article index]
+                                if word in words_stat.keys():
+                                    words_stat[word][0] += 1
+                                    if article_id != words_stat[word][2]:
+                                        words_stat[word][1] += 1
+                                        words_stat[word][2] = article_id
+                                else:
+                                    words_stat[word] = [1, 1, article_id]
+                        paragraphs.append(' '.join(processed_words))
+            f.close()
+            processed_articles[article_id] = paragraphs
+            article_count += 1
+            if article_count % 100 == 0:
+                logger.info("%s out of %s articles have been processed.",
+                            article_count, num_articles)
+                #logger.info(paragraphs)
 
     # Save the statistics of td and df for each words into file
     logger.info("The number of unique words in the articles is %s.", len(words_stat.keys()))

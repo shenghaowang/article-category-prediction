@@ -1,43 +1,26 @@
-victoria woollaston
-publish
-bst 12 march 2014
-updat
-bst 13 march 2014
-view comment
-next time someon criticis play much candi crush tell actual solv complex mathemat problem
-australian research tobi walsh want test whether game wa call nphard difficult solv without comput
-test thi theori construct theoret board candi wa abl turn logic math puzzl mean strategi could classifi alongsid complex problem confirm np
-scroll video
-australian tobi walsh want test whether candi crush wa npcomplet difficult solv without comput test thi theori construct theoret board candi turn logic puzzl high number possibl outcom uncov prove game complex
-put simpli start board
-candi ha two instanc row three made player
-ha decid row complet first
-onc select thi row set chain reaction directli influenc candi fall game continu
-onc
-game solv player would need start thi time
-choos row option determin rout score highest
-point
-make
-inform mathemat decis row choos howev
-requir know candi appear onc row ha
-complet
-time candi fall creat number new row option increas number possibl outcom
-check best score player would go back
-possibl outcom row follow produc puzzl
-cant solv manual
-candi crush saga huge popular game player move differ colour candi around board creat line three row
-onc line three match candi complet disappear candi drop top screen fill gap
-earli round involv make number swap set timefram achiev minimum score
-due larg number variabl tobi walsh univers new south wale want see whether game wa p math problem np problem
-p problem puzzl easi solv np problem much difficult onli solv comput becaus larg amount data produc
-test thi theori walsh construct theoret board candi size board wa
-test whether wa possibl creat sequenc swap k obtain specif score
-board candi ha two instanc row three made player ha decid row complet first thi set chain reaction directli influenc futur move onc game solv player must start numer time tri possibl swap option
-thi turn game mathemat problem process tri solv thi formula walsh conclud variabl possibl outcom level high onli comput would abl process inform make puzzl onli np npcomplet
-npcomplet puzzl solut appli np problem find one solut difficult
-exampl walsh found solut candi crush problem theori thi solut could appli puzzl larg number variabl outcom
-strategi wa also use prove game includ super mario brother zelda also nphard
-part addict may candi crush comput hard puzzl solv conclud walsh
-remain includ sadiq khan march britain biggest protest sinc iraq war call peopl vote brexit
-publish associ newspap ltd
-part daili mail mail sunday metro media group
+official candy crush hard study reveals game belongs group complex mathematical problems
+none candy crush saga involves swapping candies make rows three
+none study wanted test whether game whats called nphard
+none np problem difficult check solved pc
+none test theory researcher constructed theoretical board candies
+none tried establish generic formula solving puzzle
+none involved trying prove whether certain score could achieved set number swaps
+none wasnt easy solve meaning game classified npcomplete
+next time someone criticises playing much candy crush tell youre actually solving complex mathematical problem
+australian researcher toby walsh wanted test whether game whats called nphard difficult solve without computer
+test theory constructed theoretical board candies able turn logical math puzzle meaning strategy could classified alongside complex problems confirming np
+game difficult
+put simply starting board candies two instances row three made player decide row complete first selected row sets chain reaction directly influences candies fall game continues game solved player would need start time choose row option determine route scored highest points make informed mathematical decision row choose however requires knowing candies appear row completed time candies fall create number new row options increasing number possible outcomes check best score player would go back possible outcome rows follow producing puzzle cant solved manually
+candy crush saga hugely popular game players move different coloured candies around board create lines three row
+line three matching candies completed disappear candies drop top screen fill gaps
+early rounds involve making number swaps set timeframe achieve minimum score
+due large number variables toby walsh university new south wales wanted see whether game p math problem np problem
+p problems puzzles easy solve np problems much difficult solved computer large amount data produced
+test theory walsh constructed theoretical board candies size board unrestricted
+tested whether possible create sequence swaps k obtained specific score
+board candies two instances row three made player decide row complete first sets chain reaction directly influences future moves game solved player must start numerous times try possible swap options
+turned game mathematical problem process trying solve formula walsh concluded variables possible outcomes level high computer would able process information c making puzzle np npcomplete
+npcomplete puzzles solutions applied np problems finding one solution difficult
+example walsh found solution candy crush problem theory solution could applied puzzles large number variables outcomes
+strategy also used prove games including super mario brothers zelda also nphard
+part may candy crush computationally hard puzzle solve concluded walsh

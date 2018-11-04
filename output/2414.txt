@@ -1,62 +1,8 @@
-var ssdl ssdl
-ssdleditorialmetadata countri us
-region united_st
-compani
-sector industry_headlin
-industry_sector
-audienc
-content_typ
-company_senti
-author associ press
-published_d 20140310
-tag
-longev
-content_origin
-washington ap four central european nation urg unit state boost natur ga export europ hedg risk russia could cut suppli ga ukrain white hous say move would take year
-ambassador hungari poland slovakia czech republ made appeal friday letter john boehner republican speaker us hous repres similar letter wa expect sent harri reid democrat leader senat
-letter four nation known visegrad group ask congress support speedier approv natur ga export note presenc us natur ga would much welcom central eastern europ
-ambassador say unrest ukrain ha reviv cold war memori energi secur threaten region resid daili
-gastoga competit region vital aspect nation secur interest region ambassador wrote letter obtain associ press
-ukrain heavili depend russian natur ga previou disput russia led suppli cut russian state compani gazprom ha increas pressur ukrain new govern alreadi owe 189 billion 136 billion euro past deliveri warn ukrain doesnt pay debt russia could retali cut wider suppli europ happen 2009
-recent advanc made possibl russian ga normal flow european union custom ukrain flow direct poland hungari could suppli ga ukrain russian suppli halt limit region remain vulner unless us make easier import american natur ga ambassador argu
-view full articl
-tweet
-functiond id
-var js fj dgetelementsbytagnames0 p dlocat http http
-dgetelementbyidid
-js dcreateel
-jsid id
-jssrc p platformtwittercomwidgetsj
-fjsparentnodeinsertbeforej fj
-document script twitterwj
-functiond id
-var js fj dgetelementsbytagnames0
-dgetelementbyidid return
-js dcreateel
-jsid id
-jssrc connectfacebookneten_ussdkjsxfbml1versionv23
-fjsparentnodeinsertbeforej fj
-document script facebookjssdk
-function
-socialbaremailinit
-email
-separ multipl email address semicolon
-email
-send email well
-subject
-comment
-charact limit
-adscreens adsizeshow1
-documentwrit
-documentwrit
-googletagcmdpushfunct googletagdisplaydivgptadlead
-think
-post comment
-gener reader comment includ herein reflect view opinion rigzon comment subject editori review offtop inappropri insult comment remov
-name
-email
-comment
-function
-newsarticlescommentinit
-newsarticledetailsloadcom
-gener reader comment includ herein reflect view opinion rigzon comment subject editori review offtop inappropri insult comment remov
+washington ap ª four central european nations urging united states boost natural gas exports europe hedge risk russia could cut supply gas ukraine white house says move would take year
+ambassadors hungary poland slovakia czech republic made appeal friday letter john boehner republican speaker us house representatives similar letter expected sent harry reid democratic leader senate
+letter four nations known visegrad group asks congress support speedier approval natural gas exports notes presence us natural gas would much welcome central eastern europe
+ambassadors say unrest ukraine revived cold war memories energy security threatens regions residents daily
+gastogas competition region vital aspect national security interest region ambassadors wrote letter obtained associated press
+ukraine heavily dependent russian natural gas previous disputes russia led supply cuts russian state company gazprom increased pressure ukraines new government ª already owes 189 billion 136 billion euros past deliveries ª warning ukraine doesnt pay debts russia could retaliate cutting wider supplies europe happened 2009
+recent advancements made possible russian gas normally flows european union customers ukraine flow direction poland hungary could supply gas ukraine russian supplies halted limited region remains vulnerable unless us makes easier import american natural gas ambassadors argued
+generated readers comments included herein reflect views opinions rigzone comments subject editorial review offtopic inappropriate insulting comments removed

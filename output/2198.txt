@@ -1,39 +1,26 @@
-use comma separ multipl email address
-messag ha sent
-wa error email thi page
-jeremi kirk
-australia correspond
-idg news servic
-mar 10 2014
-pt
-hacker attack person blog mt gox ceo mark karpel sunday post claim ledger show balanc 95000 bitcoin base record obtain defunct exchang virtual currenc
-said sum contradict mt gox claim japanes bankruptci protect file feb 28 lost 85000 bitcoin
-neither karpel mt gox offici could immedi reach verifi claim
-karpel ha maintain low profil sinc file tokyo district court mt gox pull plug websit three day befor court file announc 75000 custom bitcoin held miss along 10000 bitcoin 273 million custom deposit
-karpel blog wa titl magic tux brought japan karpel french often use nicknam magicaltux post public messag chat forum hi blog went offlin sunday shortli wa attack
-screenshot karpel hack blog click enlarg strong languag
-karpel immedi answer queri sent hi person email address
-attack claim obtain databas record contain transact detail mt gox wrote purpos withheld user person data mt gox mani 1 million custom decemb
-data includ screenshot appear intern sql databas administr tool karpel cv window execut call tibannebackoffic among mani mt gox subsidiari tibann compani karpel
-releas data add mysteri circumst around mt gox one time wa largest exchang buy sell bitcoin
-mt gox demis ha enrag outofpocket custom effort continu deriv clue bitcoin public ledger call blockchain might indic fate virtual currenc hold
-one file releas hacker claim compromis mt gox screenshot appear sql databas tool
-mt gox part blame secur issu call transact malleabl bitcoin loss instanc transact malleabl allow attack manipul transact identif number order steal bitcoin
-longknown secur problem address custodian bitcoin core softwar whove said usual onli issu bitcoin exchang ha code softwar correctli
-meanwhil intens effort underway analyz blockchain figur larg stash bitcoin onc held mt gox may transfer
-blockchain record movement bitcoin user public bitcoin address wallet 32alphanumer charact possibl exampl attribut address person compani base past transfer
-adam levin write blog dedic bitcoin investig mt gox bitcoin balanc along four colleagu group found two address one 9000 bitcoin anoth 20000 may belong mt gox
-phone interview last week levin said two stash found analyz transact karpel made 2011 mt gox wa pressur prove compani wa solvent
-time karpel believ move 424242 bitcoin two mt gox address sinc transact wa record blockchain would ostens proof mt gox bitcoin
-levin wrote find caution though conclus may accur lack technic tool perform deep analysi blockchain could make easier elicit definit conclus said
-lot technic depth come attribut individu veri veri difficult tempt draw conclus becaus sometim seem like obviou said
-85000 bitcoin lost mt gox 10000 worth estim 474 million stolen incid would one largest cybercrim theft record
-academ paper publish last year analyz note theft bitcoin found follow trail bitcoin wa hard thief use certain techniqu includ split balanc mani address
-thiev use complex strategi saw littl opportun track flow bitcoin least ani confid ownership wa stay thiev seem ampl opportun track stolen money directli exchang wrote
-becaus bitcoin five year old law enforc may still catch bitcoin work let alon hone blockchain forens techniqu
-lot peopl think bitcoin funni money said bruce fenton board member bitcoin associ nonprofit industri organ thi seriou money seriou peopl
-anoth possibl scenario mt gox simpli lost privat key bitcoin requir transfer virtual currenc anoth address hardwar failur softwar error
-case would appear look blockchain mt gox would still bitcoin sit address known control transfer bitcoin imposs
-pcworld help navig pc ecosystem find product want advic need get job done
-visit idg site
-copyright 2018 idg commun inc
+hackers attacked personal blog mt gox ceo mark karpeles sunday posted claim ledger showing balance 95000 bitcoins based records obtained defunct exchange virtual currency
+said sum contradicts mt goxs claim japanese bankruptcy protection filing feb 28 lost 85000 bitcoins
+neither karpeles mt gox officials could immediately reached verify claims
+karpeles maintained low profile since filing tokyo district court mt gox pulled plug website three days court filing announced 75000 customer bitcoins held missing along 10000 bitcoins 273 million customer deposits
+karpeles blog titled magical tux brought japan karpeles french often used nickname magicaltux posting public message chat forums blog went offline sunday shortly attacked
+karpeles immediately answer query sent personal email address
+attackers claim obtained database records containing transaction details mt gox wrote purposely withheld users personal data mt gox many 1 million customers december
+data included screenshot appears internal sql database administration tool karpeles cv windows executable called tibannebackoffice among many others mt gox subsidiary tibanne company owned karpeles
+release data adds mysterious circumstances around mt gox one time largest exchange buying selling bitcoin
+mt goxs demise enraged outofpocket customers efforts continue derive clues bitcoins public ledger called blockchain might indicate fate virtual currency holdings
+mt gox part blamed security issue called transaction malleability bitcoin losses instances transaction malleability allow attacker manipulate transaction identification numbers order steal bitcoins
+longknown security problem addressed custodians bitcoins core software whove said usually issue bitcoin exchange coded software correctly
+meanwhile intense efforts underway analyze blockchain figure large stashes bitcoins held mt gox may transferred
+blockchain records movement bitcoins users public bitcoin address wallet 32alphanumeric character possible example attribute addresses person company based past transfers
+adam levine writes blog dedicated bitcoin investigated mt goxs bitcoin balances along four colleagues group found two addresses one 9000 bitcoins another 20000 may belong mt gox
+phone interview last week levine said two stashes found analyzing transaction karpeles made 2011 mt gox pressured prove company solvent
+time karpeles believed moved 424242 bitcoins two mt gox addresses since transaction recorded blockchain would ostensibly proof mt gox bitcoins
+levine wrote findings cautioned though conclusion may accurate lack technical tools perform deep analysis blockchain could make easier elicit definitive conclusions said
+theres lot technical depth comes attributing individuals difficult tempting draw conclusions sometimes seems like obvious said
+85000 bitcoins lost mt gox 10000 worth estimated 474 million stolen incident would one largest cybercrime thefts record
+academic paper published last year analyzed noted thefts bitcoins found following trail bitcoins hard thief used certain techniques including splitting balances many addresses
+thieves used complex strategies saw little opportunity track flow bitcoins least confidence ownership staying thieves seemed ample opportunity track stolen money directly exchange wrote
+bitcoin five years old law enforcement may still catching bitcoin works let alone honing blockchain forensic techniques
+lot people think bitcoin funny money said bruce fenton board member bitcoin association nonprofit industry organization serious money serious people
+another possible scenario mt gox simply lost private keys bitcoins required transfer virtual currency another address hardware failure software error
+thats case would appear looking blockchain mt gox would still bitcoins sitting address known control transferring bitcoins impossible

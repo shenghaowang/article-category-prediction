@@ -1,19 +1,4 @@
-var ssdl ssdl
-ssdleditorialmetadata countri libya
-region
-compani
-sector industry_headlin
-industry_sector
-audienc
-content_typ
-company_senti
-author reuter
-published_d
-tag
-longev
-content_origin
-march 17 reuter us navi seal board took control oil tanker late sunday wa seiz earlier thi month libyan port three arm men us depart defens said
-one wa hurt board oper approv us presid barack obama request libyan cypriot govern conduct intern water southeast cypru said pentagon press secretari john kirbi
-morn glori carri cargo oil libyan govern nation oil compani ship cargo illicitli obtain libyan port assidra hi statement said
-report chri michaud edit andrew heaven
-gener reader comment includ herein reflect view opinion rigzon comment subject editori review offtop inappropri insult comment remov
+march 17 reuters c us navy seals boarded took control oil tanker late sunday seized earlier month libyan port three armed men us department defense said
+one hurt boarding operation approved us president barack obama requested libyan cypriot governments conducted international waters southeast cyprus said pentagon press secretary john kirby
+morning glory carrying cargo oil owned libyan government national oil company ship cargo illicitly obtained libyan port assidra statement said
+generated readers comments included herein reflect views opinions rigzone comments subject editorial review offtopic inappropriate insulting comments removed

@@ -1,22 +1,8 @@
-var ssdl ssdl
-ssdleditorialmetadata countri poland
-region
-compani
-sector industry_headlin
-industry_sector
-audienc
-content_typ
-company_senti
-author reuter
-published_d 20140310
-tag analysis_trend
-longev
-content_origin
-warsaw march 10 reuter poland prime minist said monday would ask chancellor angela merkel work reduc german european depend russian ga avert potenti aggress step russia futur
-merkel visit poland wednesday discuss crisi ukrain russia ha effect taken control southern crimean peninsula event highlight european relianc russian oil ga
-ukrain major ga transit nation suppli russia european reli russia quarter ga
-germani depend russian ga may effect decreas europ sovereignti doubt prime minist donald tusk told news confer
-increasingli expens energi europ due exorbit climat environment ambit may also mean greater depend russian energi sourcesh talk merkel primarili germani abl correct econom action depend russian ga doesnt paralys needsa decis stanc
-germani ha one strongest propon increas share renew energi sourc europ poland get nearli energi domest produc coal ha oppos effort past
-question ukrain question eu futur eu safeti correct eu energi polici tusk said
-gener reader comment includ herein reflect view opinion rigzon comment subject editori review offtop inappropri insult comment remov
+warsaw march 10 reuters polands prime minister said monday would ask chancellor angela merkel work reduce german european dependence russian gas avert potential aggressive steps russia future
+merkel visit poland wednesday discuss crisis ukraine russia effectively taken control southern crimean peninsula events highlighted european reliance russian oil gas
+ukraine major gas transit nation supplies russia european relies russia quarter gas
+germanys dependence russian gas may effectively decrease europes sovereignty doubts prime minister donald tusk told news conference
+increasingly expensive energy europe due exorbitant climate environmental ambitions may also mean greater dependence russian energy sourceshence talk merkel primarily germany able correct economic actions dependence russian gas doesnt paralyse needsa decisive stance
+germany one strongest proponents increasing share renewable energy sources europe poland gets nearly energy domestically produced coal opposed efforts past
+question ukraine question eus future eus safety correction eus energy policy tusk said
+generated readers comments included herein reflect views opinions rigzone comments subject editorial review offtopic inappropriate insulting comments removed

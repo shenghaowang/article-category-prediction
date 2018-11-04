@@ -1,268 +1,29 @@
-pleas provid search keyword
-saturday octob 20 2018
-reuter
-publish 20140313 030 bdst
-updat 20140313 030 bdst
-king hope benefit focu estim 17 billion market mobil game app avoid fate rival zynga inc ha struggl make game popular phone crush involv move candi make line three color wa download free app top revenuegross app 2013 game account nearli threequart king king said wednesday expect price ipo 2124 per share valu 76 billion slightli higher hasbro inc 90year old maker monopoli scrabbl think banker price deal way initi investor realiz firstday pop stock said josef schuster founder ipox schuster chicagobas ipo research invest inc success ipo novemb surg facebook inc share fuel specul tech firm could go public includ musicstream servic spotifi lodg websit airbnb mobil payment compani schuster analyst question king could maintain breakneck growth think valuat pe ratio 13 highgrowth compani inde reflect skeptic abil continu grow rapid pace said jay ritter professor ipo expert univers abil come futur game get peopl pay game big question zacconi ha led king sinc cofound compani sweden 2003 hold 95 percent stake king ipo zacconi 47 work onlin date site udatecom ltd till wa bought interact corp crush launch facebook april 2012 game wa releas appl devic novemb year follow app android devic month game ha download 500 million time sinc launch basic game free player must pay addon extra stellar popular ha help king revenu grow 602 million fourth quarter 2013 22 million first quarter growth wa fuel candi crush rather ani 180 game king provid mobil phone facebook 665 employe decemb 31 ha focus launch game mobil platform market analyst expect grow 17 billion thi year 6 billion stock price ha halv sinc ipo 2011 popular farmvil wane finland rovio ha struggl replic success angri acquir mobil game develop naturalmot 527 million cut 300 job thi year effort narrow focu mobil sure king revenu quarter end decemb 31 declin 3 percent preced quarter compani said wa due fall candi crush gross book rose game pet rescu saga farm hero saga 73 percent total book quarter came mobil five game mobil drawn substanti fan base zacconi said file us secur exchang commiss opportun front us excit mobil usag explod game command lion share time ipo schedul price march 25 two underwrit told reuter stock start trade new york stock exchang symbol king march 222 million share sale offer compani sell 155 million stockhold includ apax ventur sell 67 million share king tech compani gone public recent king profit ha debt gener posit cash flow oper last nine year post profit befor tax 7143 million februari averag 144 million daili activ user play compani game 14 billion time per topend plan rang ipo rais much 5328 million slightli 500 million placehold figur disclos first public file februaryent relat apax 442 percent compani follow offer accord ipo morgan credit suiss bofa merril lynch lead underwrit offer
-stori
-us like exit nuclear pact russia
-amnesti urg un investig khashoggi death
-uae support saudi king statement journalist death
-trump accept saudi explan khashoggi death
-afghan vote amid chao threat
-finland convict troll harass journalist
-guatemala migrant caravan block mexico border
-saudi arabia admit khashoggi death consul
-var
-var
-ifsectionnam lifestyl
-documentwritemor thi section
-els ifsectionnam bangladesh
-documentwritemor thi section
-els ifsectionnam polit
-documentwritemor thi section
-els ifsectionnam technolog
-documentwritemor thi section
-els ifsectionnam economi
-documentwritemor thi section
-els ifsectionnam world
-documentwritemor thi section
-els ifsectionnam scienc
-documentwritemor thi section
-els ifsectionnam environ
-documentwritemor thi section
-els ifsectionnam health
-documentwritemor thi section
-els ifsectionnam entertain
-documentwritemor thi section
-els ifsectionnam busi
-documentwritemor thi section
-els ifsectionnam sport
-documentwritemor thi section
-els ifsectionnam cricket
-documentwritemor thi section
-els ifsectionnam agricultur
-documentwritemor thi section
-els ifsectionnam campu
-documentwritemor thi section
-els ifsectionnam
-documentwritemor thi section
-els ifsectionnam automobil
-documentwritemor thi section
-var disqus_config function
-thi add custom function
-name bdnews24com
-button
-button
-icon
-url
-logout
-width 450
-height 520
-configur variabl edit befor past webpag
-var disqus_shortnam
-var disqus_identifi
-var disqus_titl candi crush maker eye 76 billion ipo
-var disqus_url
-dont edit thi line
-function
-var dsq documentcreateelementscript dsqtype textjavascript dsqasync true
-dsqsrc disqus_shortnam disquscomembedj
-documentgetelementsbytagnamehead0 documentgetelementsbytagnamebody0appendchilddsq
-pleas enabl javascript view comment power disqu
-comment power disqu
-p stylefontfamili arialfonts 9ptfontstyl normalfontweight boldcolor ff9900
-textdecor nonewarn p stylefontfamili arialfonts 9ptfontweight boldcolor 275572
-textdecor noneani unauthoris use reproduct bdnews24com content commerci purpos strictli prohibit constitut copyright infring liabl legal action
-slide_scrolltotopoutdiv bottom
-function
-100
-els
-slide_scrolltotopoutdiv
-0
-return fals
-p stylefontfamili arialfonts 9ptfontstyl normalfontweight boldcolor ff9900
-textdecor nonewarn
-p stylefontfamili arialfonts 9ptfontweight boldcolor 275572
-textdecor noneani unauthoris use reproduct bdnews24com content commerci purpos strictli prohibit constitut copyright infring liabl legal action
-divtitlesimpl fontsize14px lineheight12 color202d52
-fontfamilyhelvetica
-cursorpoint
-divtitlesimpl
-fontsize14px
-lineheight12
-color202d52
-fontfamilyhelvetica
-cursorpoint
-divtitlesimpl ahov
-divtitlesimpl h3
-lineheight12
-spain dismay saudi report khashoggi case
-amnesti urg un investig independ autopsi khashoggi death
-uae voic support saudi king statement journalist death
-trump break us intellig appear accept saudi explan journalist death
-three internet troll convict journalist finland
-afghan vote amid chao corrupt taliban threat
-migrant caravan halt mexicoguatemala border pressur turn back mount
-us said plan exit landmark nuclear pact russia
-saudi arabia admit khashoggi die consul trump say saudi explan credibl
-britain releas radic islamist preacher strict control
-googletagcmdpushfunct
-borderbottom solid 22b46
-margin 5px 18px 2px 0px
-fontsiz 16px
-fontfamili
-fontweight 400
-background 22b46
-color ff
-display inlineblock
-pad 4px 10px 2px 10px
-opinion_box
-margin 0px 0px 10px 0px
-borderbottom 2px solid
-5px
-opinion_box
-content
-display inlineblock
-height 2px
-width
-background 22b46
-opinion_box articl
-height
-marginbottom
-opinion_box h3
-paddingleft 2px
-opinion
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-horsefac chronicl
-khashoggi case show america collaps mideast clout
-khashoggi case bring saudi crown princ
-number 1971 rape victim underestim
-var opbox documentgetelementbyidopinion_boxqueryselectorallh3
-fori0 opboxlength
-var text opboxitext
-var len textlength
-iflen 40 var slice textslice0 34
-opboxitext slice
-consolelogful text befor slice text
-read
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-uproar dissid journalist khashoggi rattl saudi royal famili
-thousand fan pay last respect singer ayub bachchu
-saudi arabia admit khashoggi die consul trump say saudi explan credibl
-remain father marino rigon return bangladesh sunday
-ershad declar 18point manifesto elect loom
-ayub bachchu popularis rock music bangladesh die
-khashoggi crisi grow saudi king assert author check son power
-least 59 kill train hit crowd northern india
-mahi see bnp hand bikalpadhara split expel leader form new committe
-anoth extort case file zafrullah ashulia
-cdata
-documentreadyfunct
-tabs1 ultabstabstabs1 divtabpan divtabpan
-current current
-effect default
-event click
-initialindex 0
-adsbygoogl windowadsbygoogl push
-horsefac chronicl
-khashoggi case show america collaps mideast clout
-khashoggi case bring saudi crown princ
-number 1971 rape victim underestim
-var opbox documentgetelementbyidopinion_boxqueryselectorallh3
-fori0 opboxlength
-var text opboxitext
-var len textlength
-iflen 40 var slice textslice0 34
-opboxitext slice
-consolelogful text befor slice text
-read
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-prioritizepicturerel true thi tag first search imag articl picturerel similar relat
-search summari teaser articl teaser
-note usual search prioriti summari teaser articl teaser articl pictur
-uproar dissid journalist khashoggi rattl saudi royal famili
-thousand fan pay last respect singer ayub bachchu
-saudi arabia admit khashoggi die consul trump say saudi explan credibl
-remain father marino rigon return bangladesh sunday
-ershad declar 18point manifesto elect loom
-ayub bachchu popularis rock music bangladesh die
-khashoggi crisi grow saudi king assert author check son power
-least 59 kill train hit crowd northern india
-mahi see bnp hand bikalpadhara split expel leader form new committe
-anoth extort case file zafrullah ashulia
-cdata
-documentreadyfunct
-tabs1 ultabstabstabs1 divtabpan divtabpan
-current current
-effect default
-event click
-initialindex 0
-adsbygoogl windowadsbygoogl push
-read
+king hope benefit focus estimated 17 billion market mobile game apps avoid fate rivals zynga inc struggled make games popular phones online
+candy crush involves moving candies make line three color downloaded free app top revenuegrossing app 2013 game accounts nearly threequarters kings revenue
+dublinbased king said wednesday expects price ipo 2124 per share valuing 76 billion slightly higher hasbro inc 90year old maker monopoly scrabble nerf
+think bankers priced deal way initial investors realize firstday pop stock said josef schuster founder ipox schuster chicagobased ipo research investment house
+twitter incs successful ipo november surge facebook incs shares fueled speculation tech firms could go public including musicstreaming service spotify lodging website airbnb mobile payments company square
+however schuster analysts questioned king could maintain breakneck growth rate
+think valuation pe ratio 13 highgrowth company indeed reflecting skepticism ability continue growing rapid pace said jay ritter professor ipo expert university florida
+ability come future games get people pay game big question mark
+riccardo zacconi led king since cofounding company sweden 2003 hold 95 percent stake king ipo zacconi 47 worked online dating site udatecom ltd till bought interactive corp 2002
+another zynga
+candy crush launched facebook april 2012 game released apple devices november year followed app android devices month later
+game downloaded 500 million times since launch basic games free players must pay addons extra lives
+stellar popularity helped kings revenue grow 602 million fourth quarter 2013 22 million first quarter 2012
+growth fueled candy crush rather 180 games king provides mobile phones facebook website
+king 665 employees december 31 focused launching games mobile platforms market analysts expect grow 17 billion year 6 billion 2010
+zyngas stock price halved since ipo 2011 popularity farmville waned finlands rovio struggled replicate success angry birds
+zynga acquired mobile game developer naturalmotion 527 million cut 300 jobs year effort narrow focus mobile gaming
+sure kings revenue quarter ended december 31 declined 3 percent preceding quarter company said due fall candy crush gross bookings
+however bookings rose games pet rescue saga farm heroes saga 73 percent total bookings quarter came mobile users
+kings five games mobiles drawn substantial fan base zacconi said filing us securities exchange commission rreuterscombar57v
+opportunity front us exciting mobile usage exploding games commanding lions share time spent
+nyse debut
+kings ipo scheduled priced march 25 two underwriters told reuters stock start trading new york stock exchange symbol king march 26
+222 million shares sale offering company sell 155 million stockholders including apax ventures sell 67 million shares king said
+unlike tech companies gone public recently king profitable debt generated positive cash flow operations last nine years posted profit tax 7143 million 2013
+february average 144 million daily active users played companys games 14 billion times per day
+topend planned range ipo raise much 5328 million slightly 500 million placeholder figure disclosed first public filing february
+entities related apax 442 percent company following offering according ipo filing
+jp morgan credit suisse bofa merrill lynch lead underwriters offering

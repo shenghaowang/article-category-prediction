@@ -1,0 +1,12 @@
+martin recently received companys legal team list phrases dont like see documents company creates instance cases phrase solution instead solution intended martin wonders way new list phrases checked flagged automatically word perhaps grammar checker
+grammar checker wont unfortunately simply way word add phrases grammar checker well check
+sounds though like may need two kick play composing new documents another used check existing documents compose solution actually quite need use autocorrect automatically change offending phrases
+display word options dialog box word 2007 click office button click word options word 2010 later versions display file tab ribbon click options
+click proofing left side dialog box
+replace box enter offending phrase
+box type preferred phrase
+repeat steps 4 6 remaining offending phrases
+type document whenever offending phrase entered space punctuation mark phrase pressed word automatically replace phrase preferred phrase
+course autocorrect approach wont help existing documents help blocks text copied documents pasted current document cases need different approach simplest use find replace capabilities word look offending phrase make determination want replace preferred phrase work great phrases need correct
+list phrases considerably longer may wan consider using macro mark infractions heres simple approach
+macro mass replacement values stored array phrases stored array need set arrays phrases change equal number phrases defined go 19 phrases youll also need change declaration two arrays large enough

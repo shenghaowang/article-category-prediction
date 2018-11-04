@@ -1,0 +1,16 @@
+problems plaguing bitcoin worsened tuesday online attacks digital currencys software affected two exchanges
+get websites speed html5 today using techniques html5 deep dive pdf howto report quick smart take news youll talking check infoworld subscribe today
+last week mt gox another big exchange suspended bitcoin transfers wallets holds external bitcoin addresses noted bug bitcoin software could allow fraud
+attack uses transaction malleability temporarily disrupt balance checking sloveniabased bitstamp said website adding funds lost confident transactions back normal soon
+bitcoin withdrawals failed feb 10 11 canceled amounts added back customer accounts said
+btce another large exchange digital currency also wrote twitter ddos attack could cause delays crediting transactions two days
+denialofservice attack whoever stealing coins succeeding preventing transactions confirming gavin andresen chief scientist bitcoin foundation wrote blog important note dos attacks affect peoples bitcoin wallets funds
+andresen said developers working fix problem centers socalled transaction malleability underlying issue bitcoins software
+attacks involved flood false transaction records
+users reference implementation bitten bug may see bitcoins tied unconfirmed transactions andresen added need update software fix bug upgrade coins returned wallet available spend
+monday foundation provides funding support resources bitcoin technology said transaction malleability longstanding technical issue mt gox prepared
+mt gox cited problem suspending bitcoin withdrawals outside wallets stating give people ability change transaction details fact
+bitcoin trading around 660 wednesday sharply around 850 last week according coindesk
+members bitcoin industry emphasized expect problems resolved soon
+time next week expect issue correctly implemented major exchanges andreas chief security officer bitcoin wallet service blockchaininfo wrote late tuesday twitter
+bitcoin woes continued financial services firm jp morgan criticized currency vastly inferior fiat currencies according reports

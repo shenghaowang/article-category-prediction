@@ -1,0 +1,14 @@
+software driving bitcoins network upgraded wednesday security fixes addressing problem defunct bitcoin exchange mt gox blamed losing nearly half billion dollars worth bitcoins
+opensource software known bitcoinqt also rebranded bitcoin core highlight runs core infrastructure virtual currencys transaction verification network
+upgrading bitcoins software delicate operation many changes discussion months market capitalization bitcoins circulation roughly us8 billion according figures blockchaininfo mistake could costly
+virtual currency weathered innumerable negative events past five years still seeing growing adoption businesses retailers alternative payment platform
+value bitcoin wobbled slightly mt gox one time largest bitcoin exchange filed bankruptcy protection tokyo district court feb 28 us bankruptcy court northern district texas march 9
+early february mt gox said investigating longknown security problem called transaction malleability cases allow attackers make falsely appear havent received bitcoin payment exchange isnt properly validating transactions
+exchanges briefly halted trading inspecting code bitcoin experts said highly customized software written mt gox likely exacerbated problem
+filing bankruptcy mtgox said bug possibly responsible missing bitcoins valued us474 million time yet provided clearer explanation losses
+latest version bitcoins software 090 contains half dozen fixes transaction malleability according release notes software
+bitcoin core also contains new feature payment requests previously merchants couldnt attach note describing invoice people also could supply refund address merchant
+latest version automatically supplies refund address payment requests also cryptographically signed ensure bitcoins going intended recipient wrote wladimir van der laan bitcoin core development team
+improvements help make bitcoin usable commerce lann wrote future bitcoin core releases aim fine tune software improving functionality users experiences
+developers creating bitcoincompatible software advised incorporate software changes wallets software programs holding transferring bitcoins payments applications
+send news tips comments jeremy_kirkcom follow twitter
