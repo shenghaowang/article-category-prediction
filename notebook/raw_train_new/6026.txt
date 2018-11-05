@@ -1,0 +1,17 @@
+In the Wall Street Journal on Thursday, Laura Kusisto, Eliot Brown and Andrew Tangel kick off a report on the challenges facing New York City¡¯s rent-a-bike program with this gripping lead:
+
+Striking, but given the evidence in the rest of the piece, it has the air of a premature eulogy. Consider how the 10-month-old system has 100,000 annual members. Then there¡¯s the truly terrible winter New York has experienced ¡ª Brooklyn data engineer Abe Stanway has proven that Citi Bike weather is indeed a thing ¡ª and the fact that the system at rollout had design flaws that seemed almost intended to make sure no one, in the early going, developed a habit of riding Citi Bike.
+
+In other words, the Venn diagram overlap between ¡°Citi Bike works¡± and ¡°it¡¯s not crazy to ride Citi Bike in this weather¡± has been awfully small.
+
+For one thing, there was the botched software and hardware that made engaging with Citi Bike in the spring and summer enormously painful. In those days, it wasn¡¯t unusual to try five different bike stations before finding one capable of producing a working bike. The slot for putting your blue key fob in was hidden like an Easter egg, and the software interface built by troubled Montreal-based operating company Bixi was terrible (and still isn¡¯t terrific). Those design flaws caused several cities to withhold payment, and may have limited the capacity of the operating companies to improve the system.
+
+Casual daily or weekly Citi Bike users had their own issues. Indeed, the Wall Street Journal reports that while the number individual subscribers paying $95 a year has crept upward in the winter months, the number of short-term passes designed to appeal to tourists has dropped considerably.
+
+Again, there¡¯s the weather. But the system also hasn¡¯t been optimized for use by tourists. Short-term passes work like this: The kiosk spits out a paper slip with a code that you carry over to the bike rack, which may or may not then release a bike. The process introduces tourists to an experience that many visitors to New York are eager to avoid: Standing in the middle of a sidewalk looking intensely foolish.
+
+Perhaps the most enduring challenge for Citi Bike is where the Journal writes: ¡°Finding additional sponsors has proved challenging because the program has become so closely associated with its eponymous supporter, according to a person familiar with the matter.¡±
+
+¡°Closely associated¡± is an understatement. The Bloomberg administration went all in on mono-corporate sponsorship of its bike share program. The bikes are Citibank blue and branded with the company name on nearly every surface. MasterCard is also a Citi Bike sponsor, in particular for the payment system, but finding anyone who has ever referred to ¡°Citi Bikes with the additional sponsorship of MasterCard¡± is probably next to impossible. That reality is no doubt discouraging to other would-be partners. It¡¯s hard to say what the fix is, short of scrapping the program¡¯s identity altogether.
+
+We¡¯re approaching the time when Citi Bike¡¯s early adopters will decide whether to re-up their memberships, and that renewal rate will be telling. The system works better now and New York¡¯s weather will soon hit its gorgeous phase. That seems a far truer test of the system¡¯s prospects than these first 10 months have been.

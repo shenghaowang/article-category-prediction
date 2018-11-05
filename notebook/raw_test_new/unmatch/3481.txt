@@ -1,0 +1,49 @@
+The rise of inexpensive index funds, which has made stock diversification less costly for the average investor, isn¡¯t without its shortcomings. Notably, it could result in lower future returns, according to a financial blogger at Philosophical Economics.
+
+In a weekend blog post, the anonymous trader, who adopted the name of the legendary stock trader Jesse Livermore, explained why a 4% historical excess return of large-cap U.S. stocks over risk-free Treasurys is likely to become a thing of the past.
+
+The average annualized return on shares of the largest U.S. companies in terms of market capitalization from 1929 through March 2017 was 6.76% while annualized returns for Treasury bonds were 2.53%. Large-cap stocks were priced to return 4.2% and small stocks were priced to return 6.2% above the return over safe assets, such as Treasury bonds.
+
+The reason average stock returns historically are higher than bond returns is due entirely to investors demanding a premium for taking a risk on the unknown future of cash flows of individual companies. While equity diversification can reduce such risks, there is a cost associated with diversification, like paying managers to select the right stocks.
+
+But what if the idiosyncratic risk of equities was diversified away thanks to new technology and a market that has adapted and evolved? Cheap index funds have come close to achieving this, according to the blogger.
+
+He says, in theory, that as costs to diversify and reduce risk decline, so does the rate of return.
+
+When investors have an option to buy the whole market, such as the S&P 500, for a fee that is a fraction of a percentage point, they are more apt to pay whatever the market dictates for each individual share. That can have the effect of driving valuations ever higher.
+
+Read: How investors can learn to stop worrying and love a stock-market correction
+
+Mutual fund-fees have been steadily declining over the past few decades, according to Morningstar. In 1990, the average asset-weighted expense ratios were about 0.93%, and today they are 0.64%. The average expense ratio for Vanguard funds, which manages more than $3 trillion, decreased from 0.89% in 1975 to 0.19% in 2015, according to Vanguard.
+
+By comparison, the expense ratio of the SPDR S&P 500 ETF SPY, -0.59% ¡ªthe largest and most actively traded ETF¡ªis 0.1%.
+
+Meanwhile, Fidelity charges $4.95 for all equity trades, while E*Trade charges $6.95. Back in 1992, E*Trade charged customers $40 per transaction. Investors can even trade free now, with mobile apps such as Robinhood.
+
+Whether it¡¯s the proliferation of low-cost funds, free trading, low interest rates, low inflation, higher earnings, a shrinking equity pool or a combination of these factors, investors have bid up prices of equities to record levels, driving their valuations above historical averages. Investors are already willing to pay a multiple of more than 17 for the next year¡¯s earnings.
+
+Currently, the CAPE or Shiller PE, devised by Nobel Laureate Robert Shiller of Yale, which is a price-to-earnings ratio based on average inflation-adjusted earnings from the previous 10 years, is near 29. That is the CAPE¡¯s highest level since 2000.
+
+Meanwhile the S&P 500 SPX, -0.63% at 2,359 is trading less than 2% below its all-time high set in March.
+
+Historically, trading above the average CAPE of 16 has been associated with lower future long-term returns.
+
+Read: Why long-term U.S. stock returns look dismal
+
+The excess return of a stock, is a function of its price. The lower the price or the multiple, the higher the expected return in the future and vice versa. But what if prices of risky assets stay higher on average for longer?
+
+¡°This significant reduction in the cost of diversification warrants a reduction in the excess return that stocks are priced to deliver, particularly over safe assets like government securities that don¡¯t need to be diversified,¡± wrote the blogger.
+
+The reason Treasurys don¡¯t need to be diversified is because of the very low likelihood of a default by the U.S. government.
+
+He further suggests that stocks should offer only 2% excess returns over Treasurys for a total return of 4% going forward, with the caveat that it is uncertain how much investors will pay for stocks in the future.
+
+In a chart below, the popular blogger argues that the increased availability and adoption of securitization (by cheap indexing) caused valuations to climb in the past.
+
+¡°Increased availability and popularity of vehicles that allow for cheap, convenient, well-diversified market exposure increases the pool of money inclined to bid on equities as an asset class. It¡¯s reasonable to expect that the result would be upward pressure on valuations, which is exactly what we¡¯ve seen,¡± the blogger wrote.
+
+However, he doesn¡¯t think returns will be lower because valuations will revert to their mean, which is what most other bearish investors currently insist is likely to happen.
+
+Instead, he suggests valuations will be higher in the future and returns will be lower because of the market¡¯s expensiveness, as investors will be forced to reinvest dividends at a much higher price than they did in the past.
+
+Providing critical information for the U.S. trading day. Subscribe to MarketWatch's free Need to Know newsletter. Sign up here.

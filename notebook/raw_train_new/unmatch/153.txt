@@ -1,0 +1,21 @@
+As an increasing number of people get involved with cryptocurrencies in some way, particularly retail rather than professional investors, regulators have taken a keen eye on the industry.
+
+But it¡¯s not just bitcoin they are looking at. The crypto-space has continued to develop with initial coin offerings (ICO), as CNBC explained in its last feature, and blockchain technology beginning to be used in large corporations.
+
+The developments have brought a varied response from regulators across the world in a number of different areas. Each authority has looked at various parts of the crypto-world from mining to trading and assessed how they should be regulated. Here¡¯s a quick breakdown of each of the areas regulators have been looking at.
+
+Regulation around this relates to the way that cryptocurrencies are traded. There¡¯s a big debate in several jurisdictions about how to classify cryptocurrencies. Are they commodities or securities? The way they are classed will determine how they are regulated under current laws.
+
+Some countries have moved to introduce new regulation in this area.
+
+Another area of focus for regulators has been mining operations. Mining is the process CNBC explained in its previous feature on blockchain of how cryptocurrency transactions are validated on the blockchain. Mining involves purpose-built computers and large electricity consumption, something that has concerned governments, particularly in China.
+
+Initial coin offerings (ICOs) are a way for companies to raise money by issuing a new digital token in exchange for cryptocurrency such as bitcoin or ether. CNBC took an in-depth look at the process, which has often proved controversial due to a number of scams where founders of fake companies have run off with money.
+
+There is a clear risk with ICOs. Many of the companies are looking to raise money without having any products made yet. In several jurisdictions, regulation around ICOs is in a grey area, but some countries have looked to bring them into the regulatory fold.
+
+With the growth of cryptocurrencies, professional investors are looking to get into the space. But cryptocurrency exchanges have often been perceived as risky due to numerous hacks and the often unregulated nature of trading on these exchanges. As a result there¡¯s been a drive to bring regulated financial products onto the traditional market.
+
+An example is the bitcoin futures products in the U.S. offered by the CME and CBOE. But getting financial products on the market hasn¡¯t been easy. In the U.S., numerous attempts to get a bitcoin exchange-traded fund (ETF) launched have not been even successful.
+
+CNBC takes a look at how different countries are treating the emerging technology and how some smaller nations are trying to establish themselves as the new crypto hubs.

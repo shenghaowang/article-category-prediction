@@ -1,0 +1,23 @@
+Hackers have released what they claim are genuine documents which they say prove the stricken exchange still controls almost a million Bitcoins.
+
+As Bitcoin exchange MtGox was filing for bankruptcy in the US on Sunday, a group of hackers took over MtGox CEO Mark Karpeles' personal blog, which has since been taken down, and posted a 716MB file they claimed they had snatched from MtGox's servers.
+
+Although the document's veracity cannot be confirmed, it suggested the exchange was still in possession of 951,116 Bitcoins.
+
+MtGox's US bankruptcy case was filed under Chapter 15, which is used to handle bankruptcy cases where parties are based in more than one country. This comes two weeks after the exchange filed for bankruptcy in Japan.
+
+¡°It¡¯s time that MtGox got the bitcoin communities wrath instead of [the] Bitcoin Community getting Goxed,¡± the hackers wrote.
+
+However, even if the leaked docs are genuine, it does not necessarily prove wrongdoing. It is still unclear what exactly happened to MtGox that caused it to file for bankruptcy protection. It may be that its systems still show a huge balance even though the Bitcoins have all disappeared, because any theft may not been properly recorded.
+
+MtGox also released a statement (PDF) warning former users of a number of phishing attacks that may be directed at them.
+
+Meanwhile, Dorian Nakamoto, the man Newsweek controversially accused of being the inventor of Bitcoin, has kept a dignified silence whilst the world frantically debates whether or not he was wrongly identified as the creator of the cryptocurrency.
+
+Someone claiming to be Dorian's brother Arthur Nakamoto ¨C who was supposedly quoted in the Newsweek article ¨C took to Reddit and issued various bizarre statements about the alleged Bitcoin brainbox.
+
+"Mis-quoting and blatant lies are unfortunately the journalistic world that exist today," the other supposed Nakamoto wrote. "I am just a humble handsome Asian man who is confused as to how a female asshole can become transferred onto my brother's rear end. But I saw with my own eyes from released video that there is a surgeon operating without an ethical or moral license to do exactly that."
+
+He added: "I understand that I will be mis-quoted and that I will be made out to be the brother who is the asshole remark guy. What I wanted to do is to plead to allow Dorian to live whatever life he has left to live it in dignity, peace and in private. To let him play with his trains and obsess over being treated to free lunches that he craves for some reason since his stroke. What's a real bitch (I am welling with tears right now) is that I cannot physically go to to see him and my mother to be of family support or call for fear of my immediate family being in physical danger." 
+
+Sponsored: Following Bottomline¡¯s journey to the Hybrid Cloud

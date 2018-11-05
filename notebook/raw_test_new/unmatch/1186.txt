@@ -1,0 +1,51 @@
+WASHINGTON ¡ª The president¡¯s signature tax reform law muddled this year¡¯s stress test results, causing several banks to incur greater-than-expected losses and spurring the Federal Reserve to constrain capital distributions at a handful of banks.
+
+The Fed issued the results of its annual Comprehensive Capital Analysis and Review stress test Thursday, revealing that three banks ¡ª Goldman Sachs, Morgan Stanley and State Street ¡ª were unable to retain the minimum post-stress capital levels. All three banks fell below the 4% Tier 1 leverage ratio, while State Street also fell below the 4.5% common equity Tier 1 capital ratio.
+
+Those three banks faced ¡°conditional non-objections¡± to their capital plans, but required Goldman and Morgan Stanley to maintain last year¡¯s capital distribution plans again this year. State Street, meanwhile, is required to ¡°take certain steps regarding the management and analysis of its counterparty exposures under stress.¡±
+
+DB USA ¡ª the U.S.-based affiliate of Deutsche Bank ¡ª was the only bank to receive an objection to its capital plan. Though the bank retained capital levels well in excess of the required minimums, the Fed said the firm has ¡°material weaknesses in the firm¡¯s data capabilities and controls supporting its capital planning process, as well as weaknesses in its approaches and assumptions used to forecast revenues and losses under stress.¡± DB USA will have to resubmit its capital plan.
+
+Federal Reserve Vice Chairman for Supervision Randal Quarles struck an upbeat note in a press release, saying that the projected losses were attributable to ¡°one-time¡± challenges related to last year¡¯s tax overhaul, which lowered the value of tax-deferred assets and made it harder for banks to distribute losses over several tax years.
+
+¡°Even with one-time challenges posed by changes to the tax law, the CCAR results demonstrate that the largest banks have strong capital levels, and after making their approved capital distributions, would retain their ability to lend even in a severe recession,¡± Quarles said.
+
+Each bank is graded on four different ratios, each with its own minimum: Tier 1 leverage (4.0%), common equity Tier 1 ratio (4.5%), Tier 1 capital (6.0%), and the total capital ratio (8%).
+
+American Express and JPMorgan Chase also stumbled in this year¡¯s CCAR test, having to resubmit their capital plans after falling below one of the applicable capital standards on their first try. American Express¡¯ post-stress Tier 1 capital ratio came in initially at 5.7% (below the 6% minimum), and was raised to 6.3% on its resubmission. JPMorgan¡¯s initial submission yielded a 3.9% leverage ratio, which was raised to 4.1% on resubmission.
+
+M&T and KeyCorp also resubmitted their capital plans after falling below their Tier 1 capital ratios. M&T¡¯s initial post-stress submission fell to 5.2% and was later revised to 6.2%; Key¡¯s initial submission came in at 5.9%, while its revised submission rose to 6%.
+
+A senior Fed official said that the decision to issue ¡°qualified non-objections¡± to firms rather than simply failing them ¡ª especially since two of the firms faced capital restrictions as a result ¡ª was based on the unique circumstances of the tax reform law and its timing relative to their initial submissions. The law passed in December, just ahead of banks¡¯ submission of their balance sheets to the Fed, giving the companies little time to make adjustments, the official said, and so the Fed board did not think it appropriate to fail the firms given those circumstances.
+
+Thursday¡¯s results were foreshadowed by the results of the Dodd-Frank Act Stress Test, which were released last week. State Street, Goldman Sachs and Capital One each posted less than 6% CET1 post-stress capital in the DFAST results.
+
+The Fed said that, though no other firms faced qualitative objections, several of the banks reviewed have qualitative shortcomings, ¡°particularly in the area of internal controls.¡± Some of the specific weaknesses it identified were ¡°data and IT infrastructure, internal audit, and model risk management that support the capital planning processes.¡±
+
+Thirty-eight banks participated in this year¡¯s CCAR stress test, but only 35 had their results published. The Fed said after the DFAST results last week that it was withholding the results of three banks ¡ª Zions, Comerica and CIT ¡ª because of the passage of the Senate regulatory relief bill last month that raised the asset threshold for systemically important banks from $50 billion to $250 billion. The bill allowed the Fed to apply enhanced prudential standards on banks between $100 billion to $250 billion at their discretion. The Fed opted to release the CCAR results of banks within that band, while keeping back those with between $50 billion to $100 billion of assets.
+
+Another six U.S.-based subsidiaries of foreign banks participated in the stress tests for the first time in 2018: Barclays, UBS, Royal Bank of Canada, BNP Paribas, Credit Suisse and DB USA. DB USA replaces Deutsche Bank Trust, which had been subject to stress testing requirements in earlier years.
+
+Both DFAST and CCAR require systemically important banks to submit their balance sheets to the Fed annually. The Fed then uses proprietary models to determine how those banks would perform under baseline, adverse and severely adverse hypothetical economic conditions over nine consecutive future quarters. The two tests differ in that DFAST uses a standard capital plan, whereas CCAR uses each bank¡¯s own capital plan.
+
+The tests also differ in that there is no penalty for banks to fall below minimum capital standards for DFAST, whereas banks that fall below those capital minimums in CCAR can be prevented from issuing dividends. The Fed can also issue ¡°qualitative¡± objections to banks¡¯ internal risk management controls, though the central bank decided in January 2017 to reduce the universe of banks subject to those objections to only the largest and most complex institutions.
+
+The Fed has made a handful of proposals to modify the stress testing regime. Last December, the Fed proposed giving banks more insight into how its internal models perform ¡ª an idea that critics have charged would be tantamount to "teaching to the test" and would water down the stress tests unnecessarily. More recently, the Fed issued a proposal to replace many of the minimum capital standards with a ¡°stress capital buffer,¡± effectively using a bank¡¯s capital losses from the previous year¡¯s stress test as a metric for how much capital it must retain the following year.
+
+This year¡¯s results mark the first time that the Fed has issued a ¡°qualified non-objection¡± to a bank for its quantitative results of the test. Banks have received qualified non-objections before, but only with respect to qualitative aspects of the exam ¡ª the Fed objecting to a bank¡¯s internal modeling or risk management processes, for example.
+
+Art Angulo, Managing Director at Promontory Financial, said that the non-objections that Goldman, Morgan Stanley and State Street received are surprising, and he suspected that though Goldman and Morgan Stanley¡¯s losses are attributable to the tax changes and State Streets is more attributable to counterparty risk, the Fed didn¡¯t think it would be appropriate to pass one bank and not the others.
+
+¡°I thought the Fed was exceedingly fair ¡ª bordering on generous ¡ª to Morgan Stanley, Goldman Sachs and State Street,¡± Angulo said. ¡°My hypothesis ¡ª and it¡¯s just a hypothesis ¡ª is that the Fed felt that since they had given Morgan [Stanley] and Goldman the conditional non-objection based on one-time tax change effects, ¡­ they would have opened themselves up to criticism if they had failed State Street outright¡± even if it was for different reasons.
+
+Mike Alix, Principal and Financial Services Advisory Risk Leader at PricewaterhouseCoopers, said the Fed was likely attempting to thread a needle between being consistent from year to year while also taking into account the unique circumstances that led to these banks¡¯ heightened losses.
+
+¡°They¡¯re walking a bit of a tightrope of, from their perspective, being very consistent with the past rules and punishing firms for tax changes that don¡¯t really impact their performance and their real capacity to take loss,¡± Alix said.
+
+He added that the fact that as many firms submitted revised capital plans ¡ª known colloquially as ¡°mulligans¡± ¡ª is less surprising than the fact that the Fed opted not to object to those capital plans even though they fell below the regulatory minimums.
+
+¡°To me it¡¯s not a shock that there were so many mulligans, but what really was interesting was the softening of the quantitative test, given the special circumstances,¡± Alix said. ¡°That¡¯s interesting and that reflects some logical rational thought or ¡­ reconsideration of the strictness of the test under these circumstances.¡±
+
+Angulo said that softening could also be viewed as a possible erosion of the integrity of the test ¡ª if special circumstances led to this quantitative loss, banks could expect that if they can cite special circumstances in the future they can avoid failing the stress test.
+
+¡°The quantitative test was pretty much cut-and-dried: you passed or you didn¡¯t,¡± Angulo said. ¡°The numbers don¡¯t lie, right? In this case, they created some wiggle room, and that does create that slippery slope.¡±

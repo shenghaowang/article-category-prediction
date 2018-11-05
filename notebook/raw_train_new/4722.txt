@@ -1,0 +1,17 @@
+The Federal Aviation Administration (FAA) and Boeing Co. (NYSE: BA) released their joint critical systems review of Boeing¡¯s 787-8 Dreamliner Wednesday. The review was initiated in January 2013, after a series of problems with the plane¡¯s electrical system and batteries surfaced and eventually caused the entire fleet of 787s to be grounded for three months.
+
+The review team consisted of six FAA officials and seven Boeing employees, who spent six months validating the 787¡¯s certification process. The review committee¡¯s report stated:
+
+The CSRT [critical systems review team] determined the B787 meets its intended level of safety based on (1) the fundamental soundness of the airplane¡¯s overall design and (2) the effective processes that have been defined and implemented to correct issues that arose during and after certification.
+ Boeing should establish a means to ensure suppliers identify program risks and complementary mitigation plans.
+ Boeing should continue to implement and mature the gated design and production processes with sufficient resources for development programs, and to minimize risks throughout the life cycle of the program. (¡°Gated¡± design establishes a series of programmatic criteria (gates) that must be met before moving to the next development phase.)
+ Boeing should ensure suppliers are fully aware of their responsibilities, including integration responsibilities and accountability for subtier performance.
+ Boeing should require its suppliers to follow industry standards for the training, qualification and certification of supplier personnel performing Boeing-required (non-FAA) inspections.
+
+The panel also recommended that the FAA make three changes to its policy and guidance documents.
+
+The CEO of Boeing¡¯s commercial airplane division said:
+
+The findings validate our confidence in both the design of the airplane and the disciplined process used to identify and correct in-service issues as they arise.
+
+Boeing stock was down about 0.1% in the noon hour Wednesday, at $123.89 in a 52-week range of $83.80 to $144.57.

@@ -1,0 +1,11 @@
+Two weeks after Mt. Gox, once the world's highest-volume Bitcoin exchange, filed for bankruptcy, angry currency traders are questioning the company's claim that it sank because of a theft.
+
+They're also contesting the numbers that former Mt. Gox CEO Mark Karpeles logged in the exchange's ledger at the time it shuttered.
+
+On Sunday, hackers broke into Karpeles' now-erased now-defunct blog to find the exchange's balance sheets, which, the hackers say, suggest that Karpeles fleeced his clientele. In a profanity-sluiced screed that quickly made the rounds on Reddit and other social networks, the hackers accused Karpeles of squirreling away Bitcoins he'd reported stolen.
+
+To bolster that point, they posted tables detailing all the currency in Mt. Gox's reserves, including 951,116.21905382 in Bitcoin ¡ª more than Karpeles claimed were in the company's coffers. The hackers also published links to a zip file that allows anyone to download all of Karpeles' blog posts.
+
+According to the post ¡ª which was removed, along with Karpeles' blog ¡ª this file includes ¡°relevant database dumps, csv exports, specialized tools, and some highlighted summaries compiled from data,¡± ¡ª all of which appear to be part of Gox's internal accounting system.
+
+Now they'll be deployed as swords against the disgraced CEO.

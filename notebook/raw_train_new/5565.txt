@@ -1,0 +1,9 @@
+Bankrupt Bitcoin currency exchange, Mt. Gox, has reportedly tracked down 200,000 missing bitcoins after searching through wallets which were using an old storage format.
+
+Last month, Mt. Gox, announced that it had lost 850,000 bitcoins in a theft. The total value of the lost bitcoins, which also included the company's own 100,000 bitcoins, was estimated to be $473 million. The company revealed the theft and soon after filed for bankruptcy.
+
+Now, as part of Mt. Gox's bankruptcy proceedings, the company claims to have found 200,000 bitcoins in "old format" electronic wallets. These recovered bitcoins are worth $120 million at the current exchange rate. According to the announcement posted by the Japanese exchange on its website, it now holds a total of 202,000 bitcoins out of which 2000 bitcoins were with the company prior to the civil rehabilitation filing.
+
+The investigations for the remaining 650,000 bitcoins are being carried out and the company will be updating users with new developments. Mt. Gox reopened its website recently so that users who have their money stored with the exchange's wallet service could check their balance. It may also be looking to rebrand itself and recover from the theft once the investigations conclude, but for now it is still far from recovering the lost money.
+
+Source: Mt. Gox via CBC | Image via Shutterstock - Bitcoins and dollar bill

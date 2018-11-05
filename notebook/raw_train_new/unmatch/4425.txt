@@ -1,0 +1,47 @@
+WASHINGTON (Reuters) - A U.S. appeals court upheld the Federal Reserve¡¯s controversial rules for debit card ¡°swipe fees¡± on Friday, disappointing merchants who had argued the charges were too high.
+
+Businesses pay the fees to banks when customers use debit cards to purchase goods or services. The fees reimburse banks for costs involved in offering debit cards.
+
+At the instruction of Congress, the Fed in 2011 limited the fees to 21 cents per transaction. A U.S. district court in July 2013 agreed with a group of retailers that lawmakers intended the cap to be lower and overturned the Fed¡¯s rule.
+
+The three-member panel of the U.S. Court of Appeals for the District of Columbia Circuit sided with the Fed on Friday, saying the law¡¯s ¡°ambiguity¡± gave regulators leeway to set a higher fee cap.
+
+¡°Because neither agencies nor courts have authority to disregard the demands of even poorly drafted legislation, we must do our best to discern Congress¡¯s intent,¡± the panel wrote in its opinion.
+
+It said the rules ¡°generally rest on reasonable constructions of the statute.¡±
+
+The appeals panel did direct the Fed to better explain the way it treated costs to banks of monitoring transactions for potential fraud.
+
+A Fed spokesperson said the agency was pleased with the outcome.
+
+The National Retail Federation, whose members include Wal-Mart and JCPenney, and the National Restaurant Association, and other groups sued the Fed in 2011 over the fee cap. Representatives of the groups said they were disappointed with the ruling and were considering appealing the decision.
+
+¡°To have fees that continue to be so unreasonable in the debit card space is detrimental to the folks that we represent as well as ultimately their customers,¡± said Liz Garner, director of commerce and entrepreneurship at the restaurant group.
+
+¡°We are absolutely considering an appeal. Our lawyers are still kind of digging through the opinion that came out today and seeing what our options are,¡± she said.
+
+The groups could appeal to the full appellate court or directly to the U.S. Supreme Court.
+
+Swipe fees, also known as interchange fees, are set by Visa, MasterCard and other card networks. Before Congress intervened, the fees paid by retailers were about 44 cents per transaction.
+
+Hoping that lower fees would result in lower prices for consumers, lawmakers called for a cap in the 2010 Dodd-Frank law.
+
+They directed the Fed to set a limit that would cover the costs to banks to provide the cards, ignoring any expenses that were not tied to specific debit transactions.
+
+The Fed decided network processing fees, costs to monitor transactions for fraud and other expenses were relevant, even though they were not specifically mentioned in the law, and it incorporated them into the 21-cent cap.
+
+Merchants argued those costs went beyond what was allowed under the law.
+
+The appeals panel said Dodd-Frank¡¯s language was ¡°confusing and its structure convoluted¡±, but determined that it did leave room for the Fed to consider additional costs.
+
+Banks, which opposed capping fees and supported the Fed¡¯s defense of its higher limits, applauded the appeals court¡¯s decision.
+
+¡°Reasonable minds have prevailed in vacating the district court¡¯s ruling to affirm the existing rule,¡± Richard Hunt, chief executive of the Consumer Bankers Association, a lobby group for banks, said in a statement.
+
+¡°This drawn-out fight should put on notice those members of Congress who insist upon interfering with the free market.¡±
+
+The panel also sided with the Fed on a rule related to networks that process debit transactions. Retailers argued the Fed did not do enough to promote competition among those networks, as Dodd-Frank required.
+
+Visa¡¯s shares were up 1.9 percent after the release, while those of MasterCard were down 2.3 percent.
+
+The case is NACS v. Board of Governors of the Federal Reserve System, U.S. Court of Appeals for the District of Columbia, 13-5270.

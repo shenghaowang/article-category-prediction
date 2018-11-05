@@ -1,0 +1,29 @@
+To understand how MBS work, it's important to understand how they're created. Let's assume you want to buy a house, so you get a mortgage from XYZ Bank. XYZ Bank transfers money into your account, and you agree to repay the money according to a set schedule. XYZ Bank may then choose to hold the mortgage in its portfolio (i.e., simply collect the interest and principal payments over the next several years) or sell it.
+
+[If you're ready to buy a home, use our Mortgage Calculator to see what your monthly principal and interest payment will be.]
+
+If XYZ Bank sells the mortgage, it gets cash to make other loans. So let's assume that XYZ Bank sells your mortgage to ABC Company, which could be a governmental, quasi-governmental, or private entity. ABC Company groups your mortgage with similar mortgages it has already purchased (referred to as pooling the mortgages). The mortgages in the pool have common characteristics (i.e., similar interest rates, maturities, etc.).
+
+ABC Company then sells securities that represent an interest in the pool of mortgages, of which your mortgage is a small part (called securitizing the pool). It sells these MBS to investors in the open market. With the funds from the sale of the MBS, ABC Company can purchase more mortgages and create more MBS.
+
+ 
+
+When you make your monthly mortgage payment to XYZ Bank, they keep a fee or spread and send the rest of the payment to ABC Company. ABC Company in turn takes a fee and passes what's left of your principal and interest payment along to the investors who hold the MBS.
+
+ 
+
+There are two kinds of MBS. The first, called pass-throughs or participation certificates (PCs), represent a direct claim on the pool of mortgage loans. The second kind, called collateralized mortgage obligation mortgage obligations (CMOs) or real estate mortgage investment conduits (REMICs) are more complicated. These securities essentially take the interest and principal payments from several MBS and create additional securities with varying maturities and coupons.
+
+ 
+
+For investors, an MBS is much like a bond. Most offer semi-annual or monthly income, and this payment frequency enhances the compounding effects of reinvestment. Prepayment risk is a large concern for MBS investors. When people move, for example, they sell their houses, payoff their mortgages with the proceeds, and buy new houses with new mortgages. When interest rates fall, many homeowners refinance their mortgages, meaning they obtain new, lower-rate mortgages and pay off their higher-rate mortgages with the proceeds. Like bonds, changes in interest rates affect MBS prices, but the change is exacerbated by the fact that MBS investors are more likely to get their principal back early. They might have to reinvest that principal at rates below what their MBS were yielding.
+
+ 
+
+The Role of the Government in MBS
+
+Although several private institutions (brokerage firms, financial institutions, and even construction companies) create and sell MBS, the Federal National Mortgage Association (FNMA, or "Fannie Mae") and the Federal Home Loan Mortgage Corporation (FHLMC, or "Freddie Mac") purchase a very large portion of mortgages. Freddie Mac and Fannie Mae (both government- sponsored entities) guarantee the timely payment of interest and principal on the MBS they issue -- that is, if the borrowers do not make their mortgage payments on time, Freddie Mac and Fannie Mae will still make their payments to their MBS investors. It is important to note that the U.S. government does not guarantee Freddie Mac or Fannie Mae. That is, if these entities cannot fulfill their obligations to their MBS investors, the federal government has no responsibility to rescue them. However, both entities have lines of credit with the government, and investors generally believe that the government would not actually let them default on any of their securities.
+
+ 
+
+The Government National Mortgage Association (GNMA, or "Ginnie Mae"), on the other hand, is a governmental entity that does not purchase mortgages but does guarantee (with the full faith and credit of the U.S. government) the mortgage-backed securities of certain MBS issuers. GNMA MBS have the lowest risk of the three, because they carry an explicit guarantee from the federal government.

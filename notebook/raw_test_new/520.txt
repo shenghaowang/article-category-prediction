@@ -1,0 +1,45 @@
+The results of the Dodd-Frank Act Stress Test are in, with Bank of America (NYSE:BAC) coming in 28th.
+
+While Mr. Market digests that news, let's take a moment to reflect on how far Bank of America has come in recent times, and how much it has rewarded us as shareholders.
+
+My own adventure with Bank of America began in August of 2011, the month I accumulated my first shares of the bank. Days after my initial purchase, the business press broke the news that Berkshire Hathaway was going to provide $5 billion dollars worth of capital to the bank in exchange for a batch of preferred shares yielding $300 million per year as well as 10-year warrants that gave Berkshire Hathaway the option to buy up to 700 million new Bank of America shares for $7.14 each. Reading that story during a work break, I turned to a coworker and said, "I'm going to make a lot of money on this investment."
+
+Of course, not everyone interpreted the news the same way I did. Some felt, rightly, that Buffett had inked an incredible deal for Berkshire, which lead them to mistakenly conclude that he had harmed Bank of America's shareholders. Chalk that up to a zero-sum fallacy. Deals such as this can benefit both parties.
+
+On page seventeen of Warren Buffett's most recent (2013) annual letter to Berkshire Hathaway's shareholders, he wrote:
+
+Berkshire has one major equity position that is not included in the table: We can buy 700 million shares of Bank of America at any time prior to September 2021 for $5 billion.
+
+The naysayers used to claim that Buffett's investment couldn't be likened to an equity position, but the Oracle cleared that up:
+
+It is important for you to realize that Bank of America is, in effect, our fifth largest equity investment and one we value highly.
+
+I've always thought of these warrants as being a bit like stock options. While Warren Buffett did not acquire shares of Bank of America for Berkshire directly, the warrants have nonetheless incentivized him to act on the bank's behalf, similar to the way a stock option incentivizes an employee. Considering Warren Buffet's financial aptitude, expertise, personal clout, and the business empire that he leads, I can think of no one I would rather have cheering for our company's success (barring those who would have clear conflicts of interest, that is).
+
+On June 1st, 2012, I wrote my first article for Seeking Alpha, titled Considering JPMorgan Chase? Buy Bank Of America Instead. By that date, I had more of my net worth invested in shares of Bank of America than any other security, and the shares were trading for $7.02 apiece. The shares now trade for more than twice that amount: $17.92 each at yesterday's close. A screenshot of Google Finance showing the steady upward trajectory of the share price speaks a thousand words:
+
+The graph ends on May 20th, 2014 (yesterday's trading session). Of course, my argument in 2012 was not simply a recommendation to buy shares of Bank of America, but also to buy them instead of buying shares of JPMorgan Chase (NYSE:JPM). I believed both banks were undervalued, but Bank of America was more so. Let's see how the price of each company's shares has changed since then:
+
+Judging by the change in price of each bank's shares, Bank of America appears to have been a better investment, but we still need to account for dividends. Importantly, JPMorgan Chase has had a significantly higher dividend yield than Bank of America during the entire time interval. To account for this, I've created a bar chart to show the return of each bank's shares, with the percentage increase in the price of the shares in blue and the total dividends returned per share, as a percentage of the original purchase price, in red:
+
+Shares of Bank of America remained the better investment during the time interval by a wide margin, even after accounting for JPMorgan Chase's higher dividend yield. Note that I did not account for taxes on the dividends, which would have made Bank of America's shares appear even better relative to those of JPMorgan Chase, nor did I show the effects of reinvesting the dividends automatically, which would have made shares of JPMorgan Chase shares look slightly more appealing, though still significantly less appealing than those of Bank of America.
+
+We're not done celebrating Bank of America's performance just yet, though. Let's add this: Bank of America has outperformed virtually every comparable depository institution in the United States since June 2012:
+
+For fun, I've also made a chart showing what $100,000 from June 1st, 2012 would look like today (without considering inflation) if held under a mattress, if invested in a fund that mimics the performance of the S&P 500 (NYSEARCA:SPY), if invested in shares of JPMorgan Chase, and if invested in shares of Bank of America:
+
+New authors interested in covering Bank of America face different challenges today than I faced in 2012. On one hand, the future appears more certain for the bank now, and much of the truly irrational criticism aimed at the institution has yielded to truth. On the other hand, it is easier recommending shares when they can be bought for seven dollars than when they cost over seventeen dollars.
+
+That being said, I never sold my shares, and in fact I added to the position several times on the way up. Anyone that follows me closely here knows I've had several exchanges with other authors when they recommended selling the shares at far lower prices than they trade at today.
+
+Of course, we must thank our bank's critics. Were it not for them, we never would have been able to buy the shares at such favorable prices. Remember Benjamin Graham's allegory of fickle Mr. Market: there to serve us but not to inform us. Which brings me back to the stress tests.
+
+I won't bother trying to predict exactly how Mr. Market will react to the Dodd-Frank Act Stress Test (DFAST) results over the next several trading sessions or how the market will react to the Comprehensive Capital Analysis and Review (CCAR) after March 26th. That being said, even a negative reaction to Bank of America's results should not devastate long-term shareholders.
+
+Imagine what might happen if, hypothetically, the Federal Reserve were to reject Bank of America's capital action plan, and Bank of America were to then re-submit one that proposed to return less capital through dividends. The market might react to this by sending the shares lower in the medium term. That would in fact have the effect of making the bank's share repurchases even more accretive to per-share book value (if this isn't intuitive, see the diagram I created).
+
+At this point, shareholders have learned to stomach a bit of volatility and to put headlines in their proper perspective. We may recall that Bank of America was founded by a man who rescued his bank's funds during the 1906 San Francisco earthquake and set up a desk made out of barrels and a couple pieces of wood so that he could start lending to the devastated city residents within days of the disaster.
+
+More than a century and two financial crises later, Bank of America has one of the greatest deposit bases in the history of American finance. If the crisis couldn't erode that deposit base, investors might be wondering what has changed since the financial crisis. To them, I would say that there is at least one major difference between the pre-crisis Bank of America and Bank of America today: today's Bank of America owns Merrill Lynch.
+
+Disclosure: I am long BAC. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

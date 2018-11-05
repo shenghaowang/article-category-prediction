@@ -1,0 +1,33 @@
+Late this week, Canadian Bitcoin holders filed a class-action suit against defunct online Bitcoin exchange MtGox. The suit named MtGox, its affiliates, and its two major shareholders, Mark Karpeles and Jed McCaleb, as well as Japan's second largest bank, Mizuho Bank, where MtGox kept an account.
+
+In the US, a class-action suit that was filed in late February was amended late Friday afternoon to name another primary plaintiff as well as several new defendants, including ¡°John Doe defendants¡± and Mizuho Bank. MtGox KK filed for Chapter 15 bankruptcy protection in February, shielding it from lawsuits in the US, but MtGox's executives, its parent company Tibanne KK, and its US subsidiaries are not protected, Reuters notes.
+
+MtGox found itself in dire straits last month, when it appeared to have lost 750,000 bitcoins belonging to its customers as well as 100,000 of its own Bitcoins after weeks of DDOS attacks and ¡°transaction malleability¡± problems. In total, MtGox is estimated to have lost $468 million worth of bitcoins. In mid-February, the exchange halted all withdrawals, and plaintiffs in both Canadian and US cases suspect large-scale fraud.
+
+The proposal for the class-action suit in Canada names four plaintiffs who are demanding $500 million from the defunct company, its affiliates, and its shareholders on behalf of ¡°all persons in Canada who paid a fee to Mt. Gox to buy, sell, or otherwise trade bitcoins.¡± The class will also include ¡°all persons in Canada who had bitcoins or fiat currency stored with Mt. Gox on February 7, 2014.¡± The complaint accuses MtGox (which originally stood for "Magic the Gathering Online Exchange") of negligence, breach of contract, breach of trust and/or fiduciary duty, fraudulent and negligent misrepresentation, conversion, and unjust enrichment.
+
+The filing gives no estimate of how many Canadians may have lost bitcoins in MtGox's fall, but it does briefly describe the four plaintiffs, who are each owed some combination of bitcoins, US dollars, and Canadian dollars.
+
+As defendants, the complaint names MtGox Inc, Mt. Gox North America Inc., Mt. Gox KK, and Tibanne KK. Tibanne is the parent company of Mt. Gox KK, and Mt. Gox KK is the parent of MtGox Inc and Mt. Gox North America Inc. The complaint also names Mark Karpeles, who is the CEO and the sole shareholder of all of the companies except for Mt. Gox KK, of which he owns 88 percent. Jeb McCaleb holds 12 percent of the rest of Mt. Gox KK's shares, and he is also named in the complaint.
+
+Finally, Mizuho Bank is also named as a defendant. The complaint states its inclusion is because ¡°All non-bitcoin currency received by the Mt. Gox Defendants from its users was held in an account or accounts with Mizuho Bank Ltd.
+
+In the United States, the class-action suit that was filed in late February (Gregory Greene v. Mt. Gox Inc et al ) was amended to include a number of other defendants, including MtGox Chief Marketing Officer Gonzague Gay-Bouchery and John Doe firms that ¡°upon information and belief, knowingly rendered professional services to Mt. Gox Defendants in furtherance of the fraud alleged in this Complaint.¡± The filing also named one new plaintiff, Joseph Lack. Lack claims to have lost $40,000 through MtGox.
+
+Friday's amended complaint takes a much stronger tone in alleging fraud perpetrated by MtGox executives than it had before.
+
+¡°Rather than safeguard users¡¯ property, Mt. Gox¡ªaided and abetted by Mizuho and John Doe Defendants¡ªdevised a scheme whereby they stole the money and bitcoins of its users, claimed that the property had been lost due to security flaws, and then sought bankruptcy protection so as to buy time for it to hide and transfer the stolen bitcoins and money,¡± the complaint reads.
+
+Specifically, the plaintiffs allege that MtGox was still taking customers' money and assuring them that it would be operationally strong as late as February 23 and 24, well after it had stopped allowing withdrawals from its accounts, and only four days before the exchange filed for bankruptcy.
+
+A leaked conversation between a Mizuho Bank representative and Karpeles that the Wall Street Journal published last week also made its way into the plaintiffs' allegations. In the conversation, the bank representative urged Karpeles to close his account with Mizuho, but Karpeles resisted.
+
+¡±Mizuho knew of irregularities and serial complaints regarding Mt. Gox and eventually, long after it had profited from its illicit partnership, asked Mr. Karpeles to close his accounts with Mizuho voluntarily at some unspecified point in the future,¡± the plaintiffs allege.
+
+Finally, the complaint said that there had been some proof that small amounts of Bitcoin reported to belong to MtGox were being transferred either to new accounts or to accounts held by MtGox executives.
+
+On March 7, 2014, reports began surfacing that 180,000 bitcoins believed to be associated with Mt. Gox (worth approximately $113 million dollars) were being moved through the ¡°Block Chain¡± (the public ledger that records all Bitcoin transactions) and broken down into different accounts in preparation for mixing or tumbling them to avoid detection. Upon information and belief, some of these bitcoins have been transferred into active accounts associated with Mt. Gox Defendants.
+
+ ... Further upon information and belief, Mt. Gox Defendants have already hidden and/or transferred funds associated with Mt. Gox, and continue to do so, during the pendency of its bankruptcy proceedings.
+
+The suit will proceed in a Chicago federal court.

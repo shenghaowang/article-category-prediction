@@ -1,0 +1,1376 @@
+2,1.0,original_found,Hertz to Exit Equipment Rental Business in $2.5B Spinoff,Hertz to Exit Equipment Rental Business in $2.5B Spinoff
+3,0.8695652173913043,original_found,Gold ETF inflows return,Gold-ETF Inflows Return
+4,0.971830985915493,original_found,Hackers call Mt. Gox CEO a liar, say he still controls 'stolen' bitcoin,Hackers call Mt. Gox CEO a liar, say he still controls ＆stolen＊ bitcoin
+9,0.8611111111111112,original_found,Vodafone Agrees to Acquire Spain's Ono,Vodafone agrees to buy Spain's Ono
+16,0.9090909090909091,original_found,New York Metro-North worker struck and killed by train,Metro-North worker struck and killed by train
+17,1.0,original_found,Plane search expands from Australia to Kazakhstan,Plane search expands from Australia to Kazakhstan
+20,1.0,original_found,Futures Pointing To Continued Weakness On Wall Street,Futures Pointing To Continued Weakness On Wall Street
+30,0.7769784172661871,original_found,US Navy Seals take control of oil tanker hijacked in libya,US Navy SEALs take control of oil tanker hijacked in Libya: Pentagon - World News
+37,0.9615384615384616,original_found,US lags as commercial drones take off around the globe,US lags as commercial drones take off around globe
+54,0.7272727272727273,original_found,GM offers $500 cash allowance to owners of 1.3 million recalled cars,GM offers $500 discount, free loaners to owners of recalled cars
+56,0.7101449275362319,original_found,China's CSI 300 Index Plunges to Five-Year Low on Export Slump,MACAU DAILY TIMES - China＊s CSI 300 plunges to five-year low on export slump
+58,0.6226415094339622,original_found,Carney Faces Foreign Exchange Scandal,Bank of England's Carney faces grilling over foreign exchange scandal
+60,0.8941176470588236,original_found,EU delays political talks with Russia on planned South Stream pipeline amid  ...,EU delays political talks with Russia on planned South Stream pipeline amid Ukraine crisis
+62,0.6388888888888888,original_found,Mt. Gox hit by massive DDoS attacks,Bitcoin exchanges hit by DDoS attacks
+66,1.0,original_found,Oil prices ease on weak Chinese trade data,Oil prices ease on weak Chinese trade data
+75,0.6190476190476191,original_found,Delta plane loses part of wing en route to Atlanta,Delta Plane Loses Part of Its Wing
+84,0.6666666666666666,original_found,Herbalife Target of Unusually High Options Trading (HLF),Herbalife Rises On Unusually High Volume (HLF)
+93,1.0,original_found,GM Staff, Media Flagged Ignition Fault Long Before Recall,GM Staff, Media Flagged Ignition Fault Long Before Recall
+101,0.6857142857142857,original_found,Urban Outfitters (URBN) Releases Quarterly Earnings Results,,Urban Outfitters, Inc. (URBN) Earnings Report
+103,0.7704918032786885,original_found,Gold firm on fund inflows as worry about Ukraine provides support,Gold firm on fund inflows; China, Ukraine worries support
+106,0.6136363636363636,original_found,Oil falls below US$108 on China data,Oil slips below US$108 on China, higher supply weigh
+107,1.0,original_found,Harsh winter hits US consumer sentiment,Harsh winter hits US consumer sentiment
+108,1.0,original_found,Navy SEALs Take Oil Tanker From Libyan Rebels,Navy SEALs Take Oil Tanker From Libyan Rebels
+111,0.9850746268656716,original_found,Men's Wearhouse to Pay $1.8B for Jos. A. Bank, Ending Buyout Battle,Men＊s Wearhouse to Pay $1.8B for Jos. A. Bank, Ending Buyout Battle
+114,0.9655172413793104,original_found,US stocks slip on discouraging news from Asia,Stocks slip on discouraging news from Asia
+124,0.9719626168224299,original_found,Get on the bus, Gus: US posts record public transit use,Get on the bus, Gus: posts record public transit use
+131,1.0,original_found,Chinese e-commerce giant Alibaba gears for US IPO,Chinese e-commerce giant Alibaba gears for US IPO
+134,0.6046511627906976,original_found,Morning Glory pops out,Kurenai Morning Glory
+145,0.672566371681416,original_found,EBay asks shareholders to vote against Carl Icahn board nominees,EBay to shareholders: Vote 'no' on Icahn nominees
+150,0.6428571428571429,original_found,China to Double Yuan's Trading Band Against Dollar to 2%,China to widen yuan trading band to 2% against US dollar
+151,0.918918918918919,original_found,Markets are watching Yellen not Putin,Markets Are Watching Yellen Not Putin
+152,0.6216216216216216,original_found,Stocks Struggle Ahead on Wednesday,Stocks Struggle As Trump Drama Continues
+154,0.743801652892562,original_found,Distrust adding to Malaysian jet confusion, say analysts,Analysts: Distrust adding to Malaysian jet confusion | Malay Mail
+156,0.7384615384615385,original_found,Do you tip your Starbucks barista? Now there's an app for that, too,Want To Tip Your Starbucks Barista? Now There's An App For That
+158,0.9361702127659575,original_found,Chinese e-commerce giant Alibaba set for US IPO,China e-commerce giant Alibaba set for U.S. IPO
+165,0.8903225806451613,original_found,EUROPE MARKETS: European Stocks Slide To One-month Low On China Fears,EUROPE MARKETS: European Stocks Slide To One-month Low On China Fears | MarketScreener
+167,0.6206896551724138,original_found,U.S. Stocks Fluctuate as Investors Weigh Economy, Ukraine Crisis,U.S. Stocks Fluctuate While Europe Slumps on Ukraine
+171,0.6808510638297872,original_found,5 things to know about Illinois' primary election,5 things to watch for in the Illinois primary
+172,1.0,original_found,Cabinet to mull bitcoin regulation 'if necessary',Cabinet to mull bitcoin regulation 'if necessary'
+180,1.0,original_found,Chiquita Merges With Fyffes To Form World's Top Banana Firm,Chiquita Merges With Fyffes To Form World's Top Banana Firm
+190,0.6206896551724138,original_found,Jos. A. Bank Clothiers Inc.: Men's Wearhouse To Acquire Jos. A. Bank For  ...,Men's Wearhouse To Acquire Jos. A. Bank For $65.00 Per Share In Cash
+191,0.7671232876712328,original_found,Sbarro Files Second Bankruptcy as Mall Traffic Dwindles (1),Bloomberg: Sbarro Files Second Bankruptcy as Mall Traffic Dwindles - News | ABL Advisor
+199,0.9174311926605505,original_found,McDonald's February same-restaurant sales fall 0.3%,McDonald's February same-restaurant sales fall 0.3 percent
+200,0.8740740740740741,original_found,Sbarro pizza chain files for bankruptcy, second time in three years,Sbarro Pizza files for bankruptcy for the second time in three years
+201,0.7964601769911505,original_found,Candy Crush Saga maker seeks $7.6-billion valuation from IPO,＆Candy Crush＊ game maker seeks $7.6B valuation in IPO
+204,0.6571428571428571,original_found,Libya Parliament Votes Out Prime Minister,Libya parliament votes PM out
+206,0.7524752475247525,original_found,What to Expect From Yellen's First Fed Meeting,What to expect from Janet Yellen＊s farewell Fed meeting
+214,0.9896907216494846,original_found,Iditarod: 5 memorable ends to the 1000-mile race,Iditarod: 5 memorable ends to the 1,000-mile race
+219,0.8549618320610687,original_found,Quiznos files for bankruptcy amid heightened competition,Quizno's files for bankruptcy amid heightened competition - Chicago Tribune
+223,0.945054945054945,original_found,Stocks lower on discouraging news from Asia,Stocks open lower on discouraging news from Asia
+228,0.608,original_found,Dick's Sporting Goods, Inc. (DKS) Reports In-Line Q4 EPS; Issues Mixed Q1  ...,Dick's Sporting Goods Inc (DKS) Earnings Report
+229,1.0,original_found,Satellite firm turns to crowdsourcing in search for missing Malaysia plane,Satellite firm turns to crowdsourcing in search for missing Malaysia plane
+232,0.7560975609756098,original_found,Finally: Men's Wearhouse buys Jos. A Bank,Men＊s Wearhouse finally buys Jos. A. Bank
+233,0.8292682926829268,original_found,Chiquita, Fyffes to create world's largest banana company,Chiquita and Fyffes Merge to Create World's Largest Banana Company
+240,0.8670520231213873,original_found,American Airlines, JetBlue ending interline sales agreement and reciprocal  ...,American Airlines, JetBlue ending interline sales agreement and reciprocal frequent flier deal
+244,0.7166666666666667,original_found,Malaysia Airlines found, missing flight MH370 video is Facebook scam,'Malaysia Airlines flight MH370 found' Facebook hoax
+250,0.6382978723404256,original_found,Men's Wearhouse Ties Deal,Sale | Men's Wearhouse
+258,0.90625,original_found,Virtu's one trading loss in four years 'incredible', experts say,Virtu＊s one trading loss in five years ＊incredible＊, experts say
+262,1.0,original_found,Delta plane flying from Orlando to Atlanta loses wing panel,Delta plane flying from Orlando to Atlanta loses wing panel
+263,1.0,original_found,Crimea parliament declares independence after vote,Crimea parliament declares independence after vote
+269,0.9896907216494846,original_found,UniCredit Posts Record Loss, Plans 8500 Job Cuts,UniCredit Posts Record Loss, Plans 8,500 Job Cuts
+270,0.8023952095808383,original_found,China needs tough measures, regulations to fight pollution: Premier,China needs tough measures, regulations to fight pollution: Premier_China National People's Congress
+279,1.0,original_found,Business Highlights,Business Highlights
+280,1.0,original_found,EC to delay Russian South Stream gas pipeline talks-paper,EC to delay Russian South Stream gas pipeline talks-paper
+283,0.8979591836734694,original_found,Men's Wearhouse to buy Jos. A. Bank for $1.8B (Video),Men＊s Wearhouse to buy Jos. A. Bank for $1.8B
+287,0.9322033898305084,original_found,Gap Falling out of Fashion as Abercrombie Picks up the Pace,Gap falling out of fashion as Abercrombie picks up the pace
+288,0.6521739130434783,original_found,VIDEO: Submarined By Debt, Quiznos Files for Bankruptcy,Toasted: Quiznos files for bankruptcy
+291,1.0,original_found,Fyffes and Chiquita to create biggest banana firm,Fyffes and Chiquita to create biggest banana firm
+293,1.0,original_found,2 key senators agree on Fannie-Freddie overhaul,2 key senators agree on Fannie-Freddie overhaul
+297,1.0,original_found,Marijuana study in veterans wins federal backing,Marijuana study in veterans wins federal backing
+298,0.9574468085106383,original_found,Weighing the Week Ahead: Yellen Takes the Stage,Weighing The Week Ahead: Yellen Takes The Stage
+301,0.7326732673267327,original_found,Candy Crush' Maker Seeks Valuation Up to $7.6 Billion,Candy Crush Maker Thinks It's Worth $7.6 Billion
+303,0.6021505376344086,original_found,U.S. forces seize control of rogue tanker,Navy SEALS board, take control of rogue Libya tanker
+311,0.9090909090909091,original_found,Starbucks adds digital tipping to iPhone app,Starbucks Adds Digital Tipping to iPhone App
+312,0.6194690265486725,original_found,Posted by Shoaib-ur-Rehman Siddiqui,Posted by Shoaib-ur-Rehman Siddiqui | GhHeadlines Total News Total Information
+314,0.6917293233082706,original_found,Chiquita OKs Fyffes merger creating world's largest banana supplier,Chiquita and Fyffes Merge to Create World's Largest Banana Company
+315,0.6956521739130435,original_found,Yuan weakens slightly after PBOC widens trading band,Yuan eases after PBOC widens trading band[1]- Chinadaily.com.cn
+318,0.6888888888888889,original_found,China doubles yuan trading band,China doubles yuan trading band, seen as sign of confidence
+321,0.6825396825396826,original_found,Was the missing Malaysian Plane flown into area controlled by Taliban?,Was missing flight flown into a Taliban controlled area?
+328,0.8205128205128205,original_found,Vodafone buys Spanish cable firm,Vodafone buys Spanish cable firm Ono for 7.2b
+330,1.0,original_found,GM might not pay for recall deaths,GM might not pay for recall deaths
+332,0.6666666666666666,original_found,HIGHLIGHTS-Bank of England's Carney faces questions about foreign  ...,BoE's Carney faces questions about foreign exchange scandal
+333,0.8936170212765957,original_found,EU aims for deal on tackling failing banks,EU aims for deal on tackling failing banks next week
+336,1.0,original_found,Chiquita buys Fyffes to create world's biggest banana supplier,Chiquita buys Fyffes to create world's biggest banana supplier
+337,1.0,original_found,US urged to export more LNG in response to Russia-Ukraine crisis,US urged to export more LNG in response to Russia-Ukraine crisis
+340,0.7194244604316546,original_found,European Stocks Slide to One-Month Low on China Fears,EUROPE MARKETS: European Stocks Slide To One-month Low On China Fears | MarketScreener
+341,0.9203539823008849,original_found,US February consumer inflation muted despite food price spike,US consumer inflation muted despite food price spike
+350,1.0,original_found,GM Now Says It Detected Ignition Switch Problem Back in 2001,GM Now Says It Detected Ignition Switch Problem Back in 2001
+355,1.0,original_found,Sun Pharma hit by FDA ban on Gujarat plant, shares fall,Sun Pharma hit by FDA ban on Gujarat plant, shares fall
+358,1.0,original_found,Geopolitical uncertainty clouds view on Fed outlook: CNBC survey,Geopolitical uncertainty clouds view on Fed outlook: CNBC survey
+361,0.75,original_found,Search intensifies for missing jet,Search intensifies for missing 6-year-old Maddox Ritch
+366,0.9241379310344827,original_found,Euro at 2 1/2 year high as China, Ukraine jitters boost safe havens,Reuters: Euro at 2 1/2 year high as China, Ukraine jitters boost safe havens
+367,0.9122807017543859,original_found,Comex Gold Falls On Profit-Taking After US Jobs Data,Comex Gold Falls On Profit-Taking After U.S. Jobs Data - Video
+372,0.7817258883248731,original_found,WRAPUP 1-US inflation muted despite food price increases; housing starts slip,WRAPUP 1-US inflation muted despite food price increases; housing starts slip | GhHeadlines Total News Total Information
+374,0.6771653543307087,original_found,Missing Malaysian plane: Search expands from Australia to Kazakhstan,Search for missing jet expands from Australia to Kazakhstan
+376,0.7631578947368421,original_found,Men's Warehouse Buying Jos. A. Bank,Men＊s Wearhouse finally buys Jos. A. Bank
+380,1.0,original_found,Ebay to Shareholders: Vote Against Icahn Nominees,Ebay to Shareholders: Vote Against Icahn Nominees
+381,0.6440677966101694,original_found,Sbarro closes Oak Court Mall eatery, files for bankruptcy protection,Pizza chain Sbarro files for bankruptcy protection
+382,0.9850746268656716,original_found,Sbarro files for bankruptcy again,Sbarro files for bankruptcy, again
+387,0.9259259259259259,original_found,Shares capped by China data, Ukraine worries linger,World shares capped by China data, Ukraine worries linger
+395,0.9666666666666667,original_found,Disappointing Chinese exports halt stocks, hammer commodities,Disappointing China exports halt stocks, hammer commodities
+398,1.0,original_found,Push on in Kansas and Missouri for final days of Obamacare enrollment,Push on in Kansas and Missouri for final days of Obamacare enrollment
+400,1.0,original_found,US House committee investigating GM recall,US House committee investigating GM recall
+406,0.6607142857142857,original_found,GM now says first sign of switch problem was in 2001,GM Now Says It Detected Ignition Switch Problem Back in 2001
+410,0.7476635514018691,original_found,US employers posted more open jobs in January,U.S. employers posted more jobs in January and quitting jumped
+414,0.9182389937106918,original_found,Wonkbook: With 2 weeks to enrollment deadline, March Madness sets in for  ...,Wonkbook: With 2 weeks to enrollment deadline, March Madness sets in for Obamacare
+416,0.84,original_found,Men's Wearhouse finalizes deal to buy rival Jos. A. Bank,Men's Wearhouse seals deal to buy Jos A Bank
+417,0.6618705035971223,original_found,US Public Transit Ridership At Its Highest Level Since 1956,Use of Public Transit in U.S. Reaches Highest Level Since 1956, Advocates Report
+425,0.7,original_found,US consumer sentiment weakens in March; harsh weather eyed,consumer sentiment slips; bad weather eyed
+426,0.7032967032967034,original_found,No sign of Malaysia jet 'debris',No sign of Malaysia jet 'debris' spotted by China satellite
+427,0.7246376811594203,original_found,The return of big bonuses,Chart of the week: The return of big bonuses
+428,0.9043478260869565,original_found,Libya orders special force to 'liberate' rebel-held ports,Libya orders military force to 'liberate' rebel-held ports
+429,0.7777777777777778,original_found,Pizza chain Sbarro files Ch. 11 bankruptcy for second time,Pizza chain Sbarro files for bankruptcy protection
+439,0.6590909090909091,original_found,Beat the Amazon Prime price hike with this trick!,How To Beat The Amazon Prime Price Hike
+440,0.9514563106796117,original_found,Malaysia: No engine data sent after plane went missing,Malaysia: No engine data after plane went missing
+444,0.6933333333333334,original_found,German Court Clears Euro-Zone Bailout Fund,German court clears Greek bailout
+451,0.9230769230769231,original_found,New SEC regulations of municipal advisors and underwriters take effect in July,New SEC Regulations of Municipal Advisors and Underwriters Take Effect in July
+454,0.6746987951807228,original_found,China: PBoC Widens Daily Trading Band To +/- 2%,China: PBOC widens yuan trading band
+456,1.0,original_found,German court rejects case against eurozone bailout scheme,German court rejects case against eurozone bailout scheme
+466,0.9245283018867925,original_found,Malaysia: No airline debris at spot shown on China images,Malaysia: No debris at spot shown on China images
+477,1.0,original_found,EU aims for deal on tackling failing banks next week,EU aims for deal on tackling failing banks next week
+478,0.631578947368421,original_found,US: Quiznos, Sbarro File For Bankruptcy,Toasted: Quiznos files for bankruptcy
+486,0.7967479674796748,original_found,Men's Wearhouse Agrees to Buy Jos. A. Bank for $1.8 Billion,Men's Wearhouse to buy Jos. A. Bank in a deal worth $1.8 billion
+487,0.9054054054054054,original_found,Vodafone Wins Deal To Buy Spanish Cable Operator Ono For EUR7.2 Bln  ...,Reports: Vodafone Wins Deal To Buy Spanish Cable Operator Ono For EUR7.2 Bln
+491,0.8245614035087719,original_found,Quiznos Files for Chapter 11 Bankruptcy Protection -- 3rd Update,Quiznos files for Chapter 11 bankruptcy protection
+494,0.7289719626168224,original_found,Colorado hauls in $2M in 1 month of pot taxes,Money to Burn: Colorado Hauls in $2M in One Month of Pot Taxes
+498,1.0,original_found,Top Banana: Chiquita And Fyffe Announce Merger,Top Banana: Chiquita And Fyffe Announce Merger
+510,0.9523809523809523,original_found,DICK'S Sporting Goods Reports Fourth Quarter and Full Year 2013 Results  ...,DICK'S Sporting Goods Reports Fourth Quarter and Full Year 2016 Results
+514,0.6915887850467289,original_found,Fannie Mae, Freddie Mac Shares Fall on Senate Wind-Down Plan,Fannie and Freddie shares plunge on Senate bill
+520,0.9401709401709402,original_found,VIDEO: FTC Investigates Herbalife After Billionaire's Campaign,FTC Investigates Herbalife After Billionaire's Campaign
+529,0.782608695652174,original_found,Fed's Yellen seen to stick to taper path,New Fed Chair Yellen expected to stick to taper path
+546,0.8285714285714286,original_found,How many have paid Obamacare premiums?,How many have paid ACA premiums?
+551,0.8166666666666667,original_found,GM Staff Join Media Flagging Ignition Fault Before Recall: Cars,GM Staff, Media Flagged Ignition Fault Long Before Recall
+555,1.0,original_found,Congresswoman Clarke's Statement on ACA Enrollment of Five Million,Congresswoman Clarke's Statement on ACA Enrollment of Five Million
+558,1.0,original_found,Vodafone agrees $10 billion deal to buy Spain's Ono,Vodafone agrees $10 billion deal to buy Spain's Ono
+560,0.9019607843137255,original_found,MtGox faced 150000 attacks per second, says report,MtGox faced 150k DDoS attacks per second says report
+562,0.7522935779816514,original_found,China's Jan.-Feb. fixed-asset investment growth slows,China's 2014 fixed-asset investment growth further cools
+573,1.0,original_found,13 things we'll miss most about Sbarro,13 things we'll miss most about Sbarro
+575,1.0,original_found,5 Questions: Joe Swedish at forefront of health care with WellPoint,5 Questions: Joe Swedish at forefront of health care with WellPoint
+582,0.7608695652173914,original_found,Winners and losers of the bull market,Winners and losers in the longest U.S. bull market ever
+583,0.7804878048780488,original_found,Chiquita/Fyffes merger creates world's biggest banana supplier,Chiquita and Fyffes merge to make world's biggest banana firm
+589,0.8222222222222222,original_found,Toledo Jeep plant hiring part-time workers,Toledo Jeep Plant Hiring 1,000 Part-Time Workers
+596,1.0,original_found,Alibaba snub puts Hong Kong exchange on the defensive,Alibaba snub puts Hong Kong exchange on the defensive
+599,0.9655172413793104,original_found,Vodafone Shares Up In ??6bn Spanish Ono Deal,Vodafone Shares Up In 6bn Spanish Ono Deal
+600,1.0,original_found,Oil down after Crimea votes to split from Ukraine,Oil down after Crimea votes to split from Ukraine
+601,0.825,original_found,Health insurance signup deadline looms,Health insurance enrollment deadline looms
+602,0.6,original_found,The wheels on the bus are going around more often,The wheels on the bus
+605,0.6074074074074074,original_found,Public transportation reaches highest levels since 1956,Use of Public Transit in U.S. Reaches Highest Level Since 1956, Advocates Report
+606,1.0,original_found,US stock market struggles to a mixed finish,US stock market struggles to a mixed finish
+607,0.627906976744186,original_found,Committee to probe GM, NHTSA response to recall,U.S. House committee to probe GM recall
+609,0.8,original_found,Consumer Sentiment in US Unexpectedly Falls on Outlook (2),Consumer Sentiment in U.S. Unexpectedly Drops as Outlook Sours
+612,0.6333333333333333,original_found,Starbucks set to add digital tipping to iOS app,Starbucks adds digital tipping, shake to pay to iPhone mobile payment app
+619,1.0,original_found,This is the biggest decision Janet Yellen will have to make at her first Fed meeting,This is the biggest decision Janet Yellen will have to make at her first Fed meeting
+621,0.6170212765957447,original_found,American Airlines, JetBlue end interline pact,American, JetBlue terminating frequent-flier pact
+628,0.631578947368421,original_found,World stock markets mostly flat,Global Markets Mostly Flat
+629,1.0,original_found,GM to offer loaner cars, cash to small-car owners,GM to offer loaner cars, cash to small-car owners
+634,0.6382978723404256,original_found,US stocks turn mixed after a weak start,Stocks turn mixed after open as retail leadership fades
+656,0.9577464788732394,original_found,Vodafone in ??6bn Spanish cable deal,Vodafone in 6bn Spanish cable deal
+660,0.816,original_found,Major Averages Climb Off Lows But Remain In The Red,Major Averages Climb Well Off Lows But Remain In The Red - U.S. Commentary
+663,0.65625,original_found,Aust dollar falls at noon,Australian dollar falls to two-year low
+664,0.608,original_found,Alibaba working with six banks to lead planned U.S. IPO: sources,Alibaba picks for IPO; in talks with six banks for lead roles
+666,0.6105263157894737,original_found,ECB's Christian Noyer says 'not happy' with euro's rise,ECB's Noyer not Happy With Euro Strength
+668,0.7096774193548387,original_found,These Bull Market Funds May Have Room to Run,Does the U.S. Bull Market Still Have Room to Run?
+669,0.6607142857142857,original_found,Health insurance deadline approaching,Health insurance deadline is approaching: Your Health Idaho has you covered
+677,0.631578947368421,original_found,S&P 500 Falls From Record Levels as Commodity Shares Drop,Falls From Record Levels As Commodity Shares Drop Photos et images de collection | Getty Images
+679,0.7951807228915663,original_found,Men's Wearhouse agrees to buy Jos. A. Bank,Men＊s Wearhouse finally buys Jos. A. Bank
+682,0.9333333333333333,original_found,Food: McDonald's game plan to win back customers,McDonald's game plan to win back customers
+684,0.7676767676767676,original_found,Rest-stop pizza chain Sbarro files for bankruptcy,Pizza chain Sbarro files for bankruptcy protection
+687,0.8225806451612904,original_found,Mt. Gox updates website, allows clients to check balances,Mt. Gox updates website, allows customers to check bitcoin balances
+688,0.8837209302325582,original_found,Tanker with Libyan 'rebel' oil heads to sea,Tanker With Libyan 'Rebel' Oil Heads to Sea
+693,0.8461538461538461,original_found,Canada-Mexico flight makes emergency Montana stop,Canada-Mexico flight makes emergency landing in Montana
+696,0.8076923076923077,original_found,Toyota Closes India Production As Pay Dispute Drags,Toyota suspends India production as pay dispute drags
+699,0.738255033557047,original_found,Malaysian official denies report that missing jet may have flown for hours after  ...,Malaysian Official Denies Report That Missing Jet Flew for Hours
+700,0.7128712871287128,original_found,Satellite finds 'suspected crash area',Satellite eyeing Malaysia flight detects 'suspected crash area'
+705,1.0,original_found,Candy Crush-maker King eyes $7.6bn IPO valuation,Candy Crush-maker King eyes $7.6bn IPO valuation
+708,1.0,original_found,Herbalife wilts on news of FTC investigation,Herbalife wilts on news of FTC investigation
+716,0.6666666666666666,original_found,Pizza Chain Sbarro Back in Bankruptcy Court,Pizza chain Sbarro files for bankruptcy protection
+717,0.8805970149253731,original_found,Carney Faces Leadership Test as Currency Scandal Snares BOE,Carney Faces Leadership Test as Currency Scandal Snares BOE @ Forex Factory
+722,1.0,original_found,Herbalife Responds to Pershing Square's Presentation,Herbalife Responds to Pershing Square's Presentation
+723,0.7166666666666667,original_found,The First Lady Encourages Military Families to Get Covered,The First Lady Celebrates Military Families Stationed in Italy
+724,0.8860759493670886,original_found,US Consumer Prices Tick Up Just 0.1%,US Consumer Prices Tick Up Just 0.1 Percent
+725,1.0,original_found,Fed official says weak data caused by weather, should not slow taper,Fed official says weak data caused by weather, should not slow taper
+726,0.7547169811320755,original_found,Metro-North Worker Struck and Killed by East Harlem Train,Metro-North Worker Killed by Train in East Harlem
+732,0.6285714285714286,original_found,Posted by Parvez Jabri,International Cooperation Posted by Parvez Jabri
+733,1.0,original_found,Dick's Sporting Goods Scores 7% 4Q Profit Bump,Dick's Sporting Goods Scores 7% 4Q Profit Bump
+738,1.0,original_found,Soft touch FX regulation falls under harsh glare,Soft touch FX regulation falls under harsh glare
+739,1.0,original_found,Malaysia rejects jet 'debris' images and 4-hour flight report,Malaysia rejects jet 'debris' images and 4-hour flight report
+741,0.6226415094339622,original_found,Colorado Harvests $2M in Marijuana Sales Taxes in One Month,Colorado harvests $2M in recreational pot taxes
+747,1.0,original_found,Libyan PM Zeidan has lost confidence vote in parliament: spokesman,Libyan PM Zeidan has lost confidence vote in parliament: spokesman
+754,1.0,original_found,German court confirms legality of euro zone bailout scheme,German court confirms legality of euro zone bailout scheme
+756,0.9655172413793104,original_found,Comcast Makes TWC Case At FCC,Comcast Makes TWC Case at FCC
+769,0.717948717948718,original_found,China widens trading band for yuan,China widens yuan trading band to 2% from 1%
+772,1.0,original_found,GM recalls 1.18 million SUVs for air bag problem,GM recalls 1.18 million SUVs for air bag problem
+774,0.8172043010752689,original_found,Pizza chain Sbarro has filed for bankruptcy,Pizza chain Sbarro files for bankruptcy protection
+776,1.0,original_found,10 Things to Know for Today,10 Things to Know for Today
+777,1.0,original_found,FTC Hits Herbalife with Civil Investigative Demand,FTC Hits Herbalife with Civil Investigative Demand
+779,0.8531468531468531,original_found,US investigators suspect missing Malaysian plane flew for hours past last  ...,investigators suspect missing Malaysian plane flew for hours -WSJ
+785,0.6857142857142857,original_found,GM recall raises oversight questions,GM Recall Raises Ethical Questions
+792,0.9047619047619048,original_found,Libyan Prime Minister Ousted by Parliament,Libyan prime minister ousted by parliament
+798,0.704,original_found,Malaysian official: No engine data received from plane after it went missing,Malaysia: No engine data after plane went missing
+801,0.903954802259887,original_found,Stocks shake off an early slump, close mixed; S&P 500 narrowly avoids its third  ...,Stocks shake off an early slump, close mixed; S&P 500 narrowly avoids its third straight loss
+806,1.0,original_found,China's Li says debt defaults 'hardly avoidable',China's Li says debt defaults 'hardly avoidable'
+813,1.0,original_found,Libyan parliament sacks prime minister after rebels export oil,Libyan parliament sacks prime minister after rebels export oil
+814,1.0,original_found,RBS Could Move HQ to England if Scotland Joins EU,RBS Could Move HQ to England if Scotland Joins EU
+816,0.6304347826086957,original_found,Colorado pot taxes total $2 million,Colorado marijuana taxes brought in $2 million in January
+817,0.9285714285714286,original_found,US Seals take control of Libya oil ship,US Seals take control of rogue Libya oil ship
+822,0.8939393939393939,original_found,US Navy SEALs take control of hijacked oil tanker in Mediterranean waters,Navy SEALs take control of hijacked tanker in Mediterranean
+826,1.0,original_found,Search planes find no sign of missing airliner at spot located by China,Search planes find no sign of missing airliner at spot located by China
+827,0.64,original_found,Hackers attacked bankrupt Bitcoin exchange,Hack attack shuts Youbit exchange
+832,1.0,original_found,UK shakes up Bank of England with two new deputy governors,UK shakes up Bank of England with two new deputy governors
+833,0.92,original_found,Colorado collects $2 millio in recreational pot taxes,Colorado collects $2M in recreational pot taxes
+836,0.9028571428571428,original_found,Malaysian police: 1 passenger using stolen passport on missing jet was Iranian  ...,Malaysian police: 1 passenger using stolen passport on missing jet was Iranian asylum seeker
+838,1.0,original_found,Sweet - Candy Crush Creator King Undervalued At $24 A Share,Sweet - Candy Crush Creator King Undervalued At $24 A Share
+842,0.7889908256880734,original_found,Hertz to spin off equipment rental business for 1.50 billion pound,Hertz to spin off equipment rental business
+843,0.9421487603305785,original_found,EBay rejects Icahn board nominees, urges investors to do same,EBay rejects Icahn board nominees, asks investors to do same
+847,1.0,original_found,Malaysia failing credibility test as flight confusion deepens,Malaysia failing credibility test as flight confusion deepens
+856,1.0,original_found,US Seals take control of rogue Libya oil ship,US Seals take control of rogue Libya oil ship
+867,1.0,original_found,Chiquita combines with Fyffes to be top banana,Chiquita combines with Fyffes to be top banana
+876,1.0,original_found,Asian shares decline on weak China data,Asian shares decline on weak China data
+879,1.0,original_found,World stocks tumble on weak China trade, lower estimate of Japan growth,World stocks tumble on weak China trade, lower estimate of Japan growth
+884,0.875,original_found,Flight MH370: Plane search expands from Australia to Kazakhstan,Plane search expands from Australia to Kazakhstan
+885,0.9774436090225563,original_found,Fyffes and Chiquita merger to create world's largest banana company,Fyffes and Chiquita merge to create world＊s largest banana company
+893,0.9774436090225563,original_found,US investigators suspect missing Malaysian plane flew for hours -WSJ,investigators suspect missing Malaysian plane flew for hours -WSJ
+894,1.0,original_found,Metro-North worker struck and killed by train,Metro-North worker struck and killed by train
+902,0.9395973154362416,original_found,Toyota shuts 2 India plants in lockout of workers demanding wage hikes; no  ...,Toyota shuts 2 India plants in lockout of workers demanding wage hikes
+910,1.0,original_found,S&P 500 Erases Loss as Investors Weigh Economy, Ukraine,S&P 500 Erases Loss as Investors Weigh Economy, Ukraine
+914,0.8958333333333334,original_found,Hertz Spinning Off its Equipment Rental Business,Hertz spinning off its equipment rental business
+919,1.0,original_found,Fed chair Yellen faces first leadership test,Fed chair Yellen faces first leadership test
+921,0.8245614035087719,original_found,Chinese PM Li Keqiang admits 'friction' with United States,Chinese premier admits 'friction' with the United States
+922,0.8333333333333334,original_found,Quiznos sandwich chain files for bankruptcy protection,Sandwich chain Quiznos files for bankruptcy protection
+930,0.9827586206896551,original_found,Bitcoin exchange Mt. Gox files for US bankruptcy protection,Bitcoin exchange MtGox files for US bankruptcy protection
+935,1.0,original_found,Stocks open lower on discouraging news from Asia,Stocks open lower on discouraging news from Asia
+936,0.7213114754098361,original_found,'Candy Crush' Maker King Prices IPO at as Much as $24 a Share,Candy Crush Maker King Digital Prices IPO At $22.50 Per Share
+940,0.6557377049180327,original_found,Fannie, Freddie could send $179.2 bln to taxpayers -White House,US estimates Fannie, Freddie to repay $179.2bn to taxpayers
+949,0.6153846153846154,original_found,U.S. Stocks Decline as Investors Weigh Economy, Ukraine Crisis,S&P 500 Erases Loss as Investors Weigh Economy, Ukraine
+959,1.0,original_found,Developers Slump as Yuan Drop Closing Fund Window: China Credit,Developers Slump as Yuan Drop Closing Fund Window: China Credit
+967,1.0,original_found,OECD: Growth in advanced economies gains momentum,OECD: Growth in advanced economies gains momentum
+968,0.8828828828828829,original_found,North Korean ship slips away from Libyan military,David Icke | North Korean ship slips away from Libyan military
+979,1.0,original_found,Putting People First: The Yellen Era Begins at the Fed,Putting People First: The Yellen Era Begins at the Fed
+990,0.8571428571428571,original_found,Urban Outfitters Sees Unusually High Options Volume (URBN),Urban Outfitters Rises On Unusually High Volume (URBN)
+994,1.0,original_found,Stocks end slightly lower on China growth worries,Stocks end slightly lower on China growth worries
+995,0.7254901960784313,original_found,US consumer prices rise slightly in February,U.S. consumer prices rose a modest 0.2 percent in February
+997,0.9425287356321839,original_found,Ohio Jeep Plant To Hire 1000 Part-Time Workers,Ohio Jeep Plant To Hire Part-Time Workers
+1005,0.9655172413793104,original_found,US consumer sentiment slips; bad weather eyed,consumer sentiment slips; bad weather eyed
+1010,0.7424242424242424,original_found,Denver-based Quiznos has filed for Chapter 11 bankruptcy protection to reduce  ...,Quiznos files for Chapter 11 bankruptcy protection
+1013,1.0,original_found,J.C. Penney shares jump on Citi upgrade,J.C. Penney shares jump on Citi upgrade
+1014,0.8405797101449275,original_found,US Inflation Muted Despite Food Price Increases; Housing Starts Slip,U.S. inflation muted despite food price increases; housing starts slip
+1015,0.8421052631578947,original_found,VIDEO: Vivendi Hunts For The Right Telecom Exit,Vivendi Hunts For The Right Telecom Exit - Video
+1017,0.7238095238095238,original_found,Herbalife Discloses Civil Probe by Federal Trade Commission,Herbalife faces Federal Trade Commission probe
+1025,0.8256880733944955,original_found,Candy Crush' Maker King Sees IPO Pricing at $21-$24 a Share,'Candy Crush' maker King sees IPO at $21-$24/share
+1026,0.6542056074766355,original_found,American Airlines, JetBlue end interline agreement,American Airlines to end ticketing agreement with JetBlue
+1027,0.7,original_found,SAC Capital Renames Itself Point72 Asset Management,SAC Capital Advisors is changing its name to Point72 Asset Management
+1032,1.0,original_found,More than 5 million now enrolled in health exchanges,More than 5 million now enrolled in health exchanges
+1033,1.0,original_found,Ackman outspent by Herbalife in lobbying battle,Ackman outspent by Herbalife in lobbying battle
+1034,0.9215686274509803,original_found,China vows to clean up 60 percent of cities by 2020,China Vows to Clean up 60 Percent of Cities by 2020
+1038,1.0,original_found,EBay rejects Icahn slate of directors,EBay rejects Icahn slate of directors
+1040,0.7142857142857143,original_found,Pizza-maker Sbarro filing for Chapter 11,Pizza-maker Sbarro files Chap. 11 bankruptcy
+1045,0.796875,original_found,EBay asks shareholders to vote against Icahn board nominees,EBay Asks Shareholders To Vote Against Lcahn Board Nominees | THEWILL
+1053,0.9682539682539683,original_found,Bitcoin exchange MtGox faced 150000 attacks per second - report,Bitcoin exchange MtGox faced 150,000 attacks per second: report
+1064,0.8571428571428571,original_found,Shares capped by Chinese data, Ukrainian worries linger,World shares capped by China data, Ukraine worries linger
+1065,0.7333333333333333,original_found,The future has arrived 10:05am ET,The future has arrived!!! 〞
+1071,0.8225806451612904,original_found,Noyer Says Stronger Euro Creates Unwarranted Pressure on Economy,Noyer Says Strong Euro Creates Unwarranted Economic Pressure
+1078,0.6601941747572816,original_found,Men's Wearhouse to Buy Jos. A Bank (MW),Men's Wearhouse to buy Jos. A. Bank in a deal worth $1.8 billion
+1081,1.0,original_found,Europe car sales up for sixth straight month as crisis-hit states recover,Europe car sales up for sixth straight month as crisis-hit states recover
+1084,0.6111111111111112,original_found,JetBlue adds nonstop service to Washington, DC,JetBlue Adds 3 Non-Stop Routes from Washington D.C. to Florida
+1088,1.0,original_found,German court clears euro bailout funds,German court clears euro bailout funds
+1089,0.9752066115702479,original_found,China Doubles Yuan's Trading Band Giving Markets Greater Role,China Doubles Yuan＊s Trading Band Giving Market Greater Role
+1092,0.6153846153846154,original_found,Libya says its forces intercepted oil tanker,NATO sinks Gaddafi ships, intercepts oil tanker
+1106,0.7301587301587301,original_found,Will America heed the wake-up call of Ukraine?,Condoleezza Rice: Will America heed the wake-up call of Ukraine? - Mar. 09, 2014
+1108,0.7757575757575758,original_found,Ars Technica: MtGox class-action suits in US and Canada allege fraud, drag in  ...,MtGox class-action suits in US and Canada allege fraud, drag in Japan＊s Mizuho Bank
+1112,1.0,original_found,Asian stock market steady after sell-off,Asian stock market steady after sell-off
+1116,0.6923076923076923,original_found,U.S. Projects $179 Billion Profit From Fannie Mae, Freddie Mac,Government Projects Profit From Fannie Mae, Freddie Mac To Top $179B
+1119,1.0,original_found,Unemployment rates drop in 43 US states in January,Unemployment rates drop in 43 US states in January
+1126,0.958904109589041,original_found,US stocks edge lower in choppy trading,Stocks edge lower in choppy trading
+1129,0.9322033898305084,original_found,UK expected to name next BoE deputy governor on Tuesday,UK expected to name next BoE deputy governor on Tuesday: source
+1135,0.8787878787878788,original_found,Amazon hikes Prime membership,Amazon hikes cost of Prime membership
+1143,0.7862068965517242,original_found,Final words from missing Malaysian jet came after communications system had  ...,Final words from missing Malaysia jet came after systems shutdown
+1145,1.0,original_found,Satellite Images Point to Possible Crash Site for Missing Jet,Satellite Images Point to Possible Crash Site for Missing Jet
+1146,0.7659574468085106,original_found,Justice Department probing GM recall: AP source,AP Source: Justice Department probing GM recall
+1149,1.0,original_found,Mt. Gox, Mark Karpeles Targeted In Alleged Bitcoin Hack,Mt. Gox, Mark Karpeles Targeted In Alleged Bitcoin Hack
+1150,0.8305084745762712,original_found,Five Guys, Chipotle continue to take bites out of McDonald's sales,Rivals continue to take bite out of McDonald's sales
+1152,1.0,original_found,Wise Decisions with Retirement in Mind,Wise Decisions with Retirement in Mind
+1155,1.0,original_found,Gold Ticks Higher on Chinese Growth Worries,Gold Ticks Higher on Chinese Growth Worries
+1161,0.8804347826086957,original_found,Pershing Square to Present Information Highlighting Herbalife's Illegal Business  ...,Pershing Square to Present Information Highlighting Herbalife's Illegal Business Practices in China
+1163,0.7272727272727273,original_found,Co-pilot spoke MH370's last words,Plane co-pilot 'spoke last words'
+1164,0.6909090909090909,original_found,Gold Under Pressure After China Data,Gold Under Pressure
+1165,0.963855421686747,original_found,Why eBay Spinning Off Paypal Makes Sense,Why eBay Spinning Off Paypal Makes Sense --
+1167,0.7796610169491526,original_found,Alibaba prepares for US IPO,Alibaba Prepares for IPO in U.S.
+1172,0.704,original_found,China's premier warns on economic slowdown, 'severe' challenges,China premier warns on economic slowdown | IOL Business Report
+1176,0.7283236994219653,original_found,Hertz to spin off equipment business to raise 1.5 billion pound,Hertz Global Holdings, Inc. : Hertz to spin off equipment business to raise 1.5 billion pound | MarketScreener
+1180,1.0,original_found,US consumer prices tick up just 0.1 percent,US consumer prices tick up just 0.1 percent
+1182,0.8907563025210085,original_found,Malaysia rejects report plane flew on, Chinese photos,Malaysia rejects report plane flew on, Chinese photos - World News
+1190,1.0,original_found,US stocks mixed in afternoon trading,US stocks mixed in afternoon trading
+1191,1.0,original_found,Hertz Drives 8% Higher on Spinoff Buzz,Hertz Drives 8% Higher on Spinoff Buzz
+1197,0.9565217391304348,original_found,Japan says Bitcoin's not currency, but taxable,Japan says Bitcoin not a currency, but taxable
+1202,0.8711656441717791,original_found,Herbalife (HLF) Responds to Pershing Square Presentation; Confident of  ...,Herbalife (HLF) Responds to Pershing Square Presentation; Confident of Business in China
+1204,0.6165413533834586,original_found,Majority of Chinese Cities Don't Meet Government Pollution Standards,Hundreds of Chinese Cities Don＊t Meet Air Standards, Report Finds
+1205,0.7526881720430108,original_found,How Yahoo! Benefits From Alibaba's US IPO,How Does Yahoo Benefit From Alibaba's U.S. Strategy?
+1206,0.9333333333333333,original_found,10 things to know for Thursday,10 Things to Know for Thursday
+1209,0.8723404255319149,original_found,Vodafone agrees 7.2 billion euro deal to buy Ono,Vodafone agrees $10.03 billion deal to buy Ono
+1212,0.8396946564885496,original_found,Fox executive raises questions on Comcast-Time Warner Cable merger,Fox Executive Raises Issues With Comcast-Time Warner Cable Merger
+1220,1.0,original_found,BoE's Carney says UK economy not close to overheating,BoE's Carney says UK economy not close to overheating
+1222,0.970873786407767,original_found,How the Dow Jones industrial average fared Tuesday,How the Dow Jones industrial average fared on Tuesday
+1229,0.7272727272727273,original_found,Carney says BoE will never fully unwind QE,Mark Carney: 'Bank of England will never fully unwind QE'
+1240,0.8985507246376812,original_found,Comcast's Smit: MSO, Time Warner Cable are 'very well aligned',Comcast's Smit: MSO, Time Warner Cable are 'very well aligned' | FierceVideo
+1246,0.7288135593220338,original_found,'Candy Crush' Maker Eyes Sweet IPO Valuation of $7.6B,Candy Crush Maker King Sets IPO Valuation As High As $7.6 Billion
+1252,0.8536585365853658,original_found,Sbarro files for chapter 11 bankruptcy again,Sbarro Files for Chapter 11 Bankruptcy
+1257,0.9411764705882353,original_found,US employers advertised more jobs in January, a sign hiring should remain steady,US employers advertised more available jobs in January, a sign hiring should remain steady
+1258,0.9814814814814815,original_found,China's Alibaba to file for biggest IPO since Facebook,China＊s Alibaba to file for biggest IPO since Facebook
+1259,0.7126436781609196,original_found,Billionaire in life insurance record,Billionaire buys $201 million life insurance policy
+1263,0.9447852760736196,original_found,World has new top banana as fruit giants Chiquita of US and Fyffes of Europe  ...,World has new top banana as fruit giants Chiquita of US and Fyffes of Europe merge
+1264,1.0,original_found,Obamacare was supposed to make insurance markets more competitive. Has it?,Obamacare was supposed to make insurance markets more competitive. Has it?
+1267,0.9448818897637795,original_found,VIDEO: China's rubber stamp parliament makes some notable omissions,China's rubber stamp parliament makes some notable omissions
+1272,0.9166666666666666,original_found,Chinese Premier: "zero tolerance" for corruption,Chinese premier: 'Zero tolerance' for corruption
+1279,0.6031746031746031,original_found,Hertz Global Holdings (HTZ) Posts Quarterly Earnings, Misses Estimates By  ...,Hertz Global Holdings, Inc (HTZ) Earnings Report
+1284,0.7407407407407407,original_found,West hurries to loosen Russia's grip on gas,West Tries To Loosen Russia's Gas Grip
+1287,0.8108108108108109,original_found,China e-commerce giant Alibaba says it's gearing up for US IPO,Chinese e-commerce giant Alibaba gears for US IPO
+1288,0.6346153846153846,original_found,Will Amazon Prime Fee Increase Affect Merchant Sales?,Impacts of the Amazon Prime Fee Increase on Sellers
+1290,0.8080808080808081,original_found,McDonald's Reports Drop In February Global Sales,McDonald's Reports February Global Comparable Sales
+1291,1.0,original_found,Time Warner Cable Sued by Los Angeles for Nearly $10 Million,Time Warner Cable Sued by Los Angeles for Nearly $10 Million
+1292,0.9473684210526315,original_found,Fyffes and Chiquita to create largest banana firm,Fyffes, Chiquita to create largest banana firm
+1298,1.0,original_found,Urban Outfitters Reports Record Q4 Net Income,Urban Outfitters Reports Record Q4 Net Income
+1299,0.7924528301886793,original_found,American Airlines, JetBlue Ending Itinerary Extension Agreement,American Airlines, JetBlue ending agreement
+1304,0.8155339805825242,original_found,Bank of England names two new deputy governors,Bank of England names Dave Ramsden as new deputy governor
+1307,0.6764705882352942,original_found,Silicon Valley Billionaire purchases the most expensive life insurance,Mystery Billionaire Buys the World's Most Expensive Life Insurance
+1308,1.0,original_found,Report: NHTSA head blames GM for recall delay,Report: NHTSA head blames GM for recall delay
+1315,1.0,original_found,American Eagle 4Q plunges; stock falls on outlook,American Eagle 4Q plunges; stock falls on outlook
+1317,0.784,original_found,Herbalife Ltd. (HLF) news: Short Seller Targets Herbalife's China Operations,Short Seller Targets Herbalife's China Operations
+1318,1.0,original_found,Can $7.6 billion valuation take Candy Crush to next level?,Can $7.6 billion valuation take Candy Crush to next level?
+1319,0.6172839506172839,original_found,Copper plunges on Chinese default,Copper Plunge Continues Despite Chinese Stimulus
+1329,0.9272727272727272,original_found,Tanker laden with Libyan rebel oil 'escapes naval escort',Tanker laden with Libyan rebel oil slips naval escort
+1332,0.8301886792452831,original_found,Comcast-Time Warner Cable Deal May Be Bad News For Roku Owners,Comcast Deal May Be Bad News For Roku Owners
+1334,0.6597938144329897,original_found,Cost of living in Israel higher than in OECD,Cost of living higher in Israel than rest of the OECD
+1336,0.9032258064516129,original_found,GM under criminal investigation,GM Under Criminal Investigation
+1340,0.6917293233082706,original_found,US stocks mostly lower amid concerns about slowdown in China, Ukraine tensions,Stocks mostly lower amid caution over US-China tensions
+1341,0.7945205479452054,original_found,Alibaba to kick off IPO in US,Alibaba to kick off IPO in US - Global Times
+1343,1.0,original_found,Sbarro again files for Ch. 11 reorganization,Sbarro again files for Ch. 11 reorganization
+1348,1.0,original_found,Stocks move lower on discouraging news from Asia,Stocks move lower on discouraging news from Asia
+1356,1.0,original_found,AP Source: Justice Department probing GM recall,AP Source: Justice Department probing GM recall
+1357,0.6666666666666666,original_found,Share this on:,Share Buttons
+1366,0.6728971962616822,original_found,China, Ukraine Jitters Boost Safe Havens,Euro at 2 1/2 year high as China, Ukraine jitters boost safe havens
+1367,0.7647058823529411,original_found,Wednesday's Mortgage Interest Rates at Wells Fargo Mar 12,Current Mortgage Interest Rates | Wells Fargo
+1368,0.7391304347826086,original_found,Why I Do Not Trust Bitcoin,Don't Trust Bitcoin!
+1370,0.928,original_found,China's January-February economic activity cools to multi-year lows,China's Jan-Feb economic activity cools to multi-year lows
+1374,1.0,original_found,Maker of "Candy Crush" sees $613 million in IPO,Maker of "Candy Crush" sees $613 million in IPO
+1378,1.0,original_found,China's premier vows action against smog,China's premier vows action against smog
+1405,0.7256637168141593,original_found,Premier Li positive about Chinese economy,Premier Li positive about Chinese economy - Business - Chinadaily.com.cn
+1407,0.819672131147541,original_found,US jobs growth last month hit by weather:Fed President Charles Plosser,jobs growth last month hit by weather: Fed's Plosser
+1413,1.0,original_found,Pizza-maker Sbarro files Chap. 11 bankruptcy,Pizza-maker Sbarro files Chap. 11 bankruptcy
+1423,0.6521739130434783,original_found,Men's Wearhouse buys Jos A Bank for 1.8B,Men's Wearhouse stitches up deal to buy Jos. A. Bank
+1426,0.7017543859649122,original_found,UPDATE: European car sales grow for sixth consecutive month,European car sales in sixth consecutive year of decline
+1430,0.6136363636363636,original_found,Chinese web giant's massive US IPO,China's online service giant Meituan plans massive IPO
+1431,0.9484536082474226,original_found,Americans using public transit in record numbers,Americans riding public transit in record numbers
+1436,0.6748466257668712,original_found,Recall: Fiat 500L, Jeep Grand Cherokee, Dodge Durango for transmission  ...,Chrysler Recalls: 2014 Fiat 500L, 2012-2013 Jeep Grand Cherokee & Dodge Durango Affected
+1442,0.6055045871559633,original_found,Radar blips baffle officials in Malaysian jet hunt,Signals on Radar Puzzle Officials in Hunt for Malaysian Jet
+1447,0.8431372549019608,original_found,Candy Crush maker thinks it's worth up to $7.6 billion,Candy Crush Maker Thinks It's Worth $7.6 Billion
+1453,0.6991869918699187,original_found,Men's Wearhouse reaches deal to buy Jos. A. Bank for $1.8B (Video),Video: Men's Wearhouse to purchase Jos. A. Bank for $1.8B
+1456,0.9774436090225563,original_found,Omega's Cooperman says eBay should spin off portion of PayPal: CNBC,Omega's Cooperman says eBay should spin off portion of PayPal-CNBC
+1457,0.7543859649122807,original_found,Gold Rises to Six-Month High on Ukraine, China Worries,Gold price hits fresh 6-month high on Ukraine, China worries
+1462,1.0,original_found,Chiquita and Fyffes join to make world's biggest banana firm,Chiquita and Fyffes join to make world's biggest banana firm
+1464,0.60431654676259,original_found,EBay rejects Carl Icahn's director nominees, urges reelection of its 4 directors,eBay rejects Carl Icahn's board nominees as 'inexperienced'
+1478,0.6857142857142857,original_found,'Candy Crush' company expects to be worth $7.6B,Candy Crush maker expects to be worth more than $7 billion
+1479,0.6601941747572816,original_found,China Industrial Data Weaker Than Expected,UPDATE 1-China May industrial output weaker than expected,...
+1480,0.6902654867256637,original_found,Bank of England announces three senior appointments,Chancellor announces three senior Bank of England appointments
+1482,0.9016393442622951,original_found,Ship leaves Libya rebel port carrying oil, official says,Ship leaves Libya rebel port carrying oil, official and gunmen say
+1487,0.9629629629629629,original_found,Candy Crush Owner Aims For ??4.75bn Value,Candy Crush Owner Aims For 4.75bn Value
+1493,0.611764705882353,original_found,Gold climbs on Ukraine concerns,At the open: TSX climbs despite fresh Ukraine concerns
+1494,0.6326530612244898,original_found,US stocks open lower on weak Asian data,US STOCKS-Wall St set to open lower after weak Chinese data
+1498,0.8536585365853658,original_found,Quiznos Follows Sbarro Into Bankruptcy Court,Quiznos follows Sbarro into bankruptcy
+1499,0.7936507936507936,original_found,Vodafone snaps up Spain's Ono,Vodafone agrees to buy Spain's Ono
+1503,0.780952380952381,original_found,Metro-North employee killed by train in Manhattan,Metro-North Railroad Worker Killed by Train in Manhattan
+1509,1.0,original_found,How Subway Toasted Quiznos In The Sandwich Wars,How Subway Toasted Quiznos In The Sandwich Wars
+1514,0.6201550387596899,original_found,Hackers Claim Mt. Gox CEO Mark Karpeles Held 'Stolen' Customer Bitcoins,Hackers allege Mt. Gox CEO still controls 'stolen' Bitcoin
+1517,0.6382978723404256,original_found,Vodafone pulls off major deal with Spain's Ono,Vodafone agrees $10 billion deal for Spain's Ono
+1527,0.8243243243243243,original_found,Australia Stands With Malaysia At This Difficult Time - Tony Abbott,Australia stands with Malaysia at this difficult time - Tony Abbott | Astro Awani
+1534,1.0,original_found,Colorado makes $3.5M in pot revenue in January,Colorado makes $3.5M in pot revenue in January
+1536,1.0,original_found,Chiquita and Fyffes to create world's leading banana company,Chiquita and Fyffes to create world's leading banana company
+1538,0.6776859504132231,original_found,Urban Outfitters continues to struggle with fashion sales,Urban Outfitters brands struggling to catch up to fashion trends
+1539,0.6666666666666666,original_found,Missouri lawmakers debate legalizing marijuana,Missouri House votes to legalize medical marijuana
+1546,0.6666666666666666,original_found,US opens probe into GM recall,SEC opens probe over GM ignition switch recall
+1553,0.7228915662650602,original_found,McDonald's Not Lovin' US Sales,McDonald's, I'm Not Lovin' Its Zero U.S. Sales Growth
+1564,0.6829268292682927,original_found,China reveals new urbanisation plans,China reveals blueprint to expand urbanisation
+1565,0.6666666666666666,original_found,Delta plane loses wing panel during flight, forced to make emergency landing in  ...,Delta plane loses wing panel during flight
+1569,0.7391304347826086,original_found,Defense: General's deal drops sex assault charge,General's Plea Deal Drops Sex Assault Charge
+1574,1.0,original_found,Colorado Gets $2 Million in First Month of New Pot Taxes,Colorado Gets $2 Million in First Month of New Pot Taxes
+1576,0.6595744680851063,original_found,Biz to Go: 7000 Starbucks to add digital tips,50 cents, $1 or $2? Starbucks to add digital tips
+1577,0.8095238095238095,original_found,Merger creates world's biggest banana supplier,Merger creates world's top banana firm
+1579,0.8817204301075269,original_found,Wall St cuts losses as diplomacy ramps up in Ukraine,Wall St cuts losses as diplomacy ramps up
+1580,0.8607594936708861,original_found,Libyan pm Zeidan has lost confidence vote,Libyan PM Zeidan loses confidence vote
+1585,1.0,original_found,Questioning Bill Ackman's Herbalife profit motive,Questioning Bill Ackman's Herbalife profit motive
+1590,0.6796116504854369,original_found,China central bank to allow Yuan more flexibility,China central bank eyes freer yuan, policy flexibility
+1595,0.7526881720430108,original_found,Men's Wearhouse to Buy Jos. A. Bank,Men's Wearhouse Wasted $1.8 Billion Buying Jos. A. Bank --
+1599,0.616822429906542,original_found,Plane search expands from Australia to Kazakhstan - KPTV - FOX 12,Cheap Flights from Australia to Kazakhstan
+1603,0.6756756756756757,original_found,McDonald's US sales fall 1.4 per cent in February as chain looks to adapt to  ...,McDonald's sales decline as chain looks to adapt to changing tastes
+1607,0.6031746031746031,original_found,Starbucks will soon let customers leave tips with its mobile payment app.,Starbucks adding tipping option to mobile payment app
+1614,0.7610619469026548,original_found,Vodafone Said to Reach $10 Billion Deal to Acquire Spain's Ono,Vodafone agrees $10 billion deal to buy Spain's Ono
+1636,1.0,original_found,GM waited on Ion recall despite awareness of fatal crashes,GM waited on Ion recall despite awareness of fatal crashes
+1642,0.6666666666666666,original_found,MtGox faced 150??000 attacks a second,Bitcoin exchange MtGox 'faced 150,000 hack attacks every second'
+1649,0.7761194029850746,original_found,Sbarro Again Files for Bankruptcy,Sbarro Files For Bankruptcy, Again
+1651,1.0,original_found,US: American Airlines got $425M for landing rights,US: American Airlines got $425M for landing rights
+1652,0.9230769230769231,original_found,Stocks end slightly lower on China worries,Stocks end slightly lower on China growth worries
+1655,0.6548672566371682,original_found,GM Faces Criminal Probe Over Ignition-Switch Recall,GM Facing a Snowstorm of Suits Over Its Ignition Switch Recall
+1657,1.0,original_found,Morning MoneyBeat: Will Bull Market Make It to Six?,Morning MoneyBeat: Will Bull Market Make It to Six?
+1669,1.0,original_found,McDonald's sales dip amid shifting eating habits,McDonald's sales dip amid shifting eating habits
+1670,0.6481481481481481,original_found,Regulators Question Bank Of England Chief Over Forex Scandal,Bank of England chief grilled over forex scandal
+1679,1.0,original_found,OMB Projects Bigger Returns on Fannie and Freddie,OMB Projects Bigger Returns on Fannie and Freddie
+1680,0.7837837837837838,original_found,Men's Wearhouse buying Jos A Bank,Men＊s Wearhouse finally buys Jos. A. Bank
+1681,0.608,original_found,King Digital Entertainment sees up to $7.6 bn IPO valuation,Another Zynga? 'Candy Crush' maker sees up to $7.6bn IPO valuation
+1688,0.7142857142857143,original_found,Gold Most Bullish Since 2012 as Goldman Sees Slump,Gold most bullish since '12; Goldman sees slump | Arabian Post
+1691,0.6534653465346535,original_found,Gold price flat as Nato deploys Awacs to monitor Ukraine's borders,Nato jets to monitor Ukraine border
+1694,1.0,original_found,Feds: Limit marathon suspect's view of gory photos,Feds: Limit marathon suspect's view of gory photos
+1695,0.8,original_found,US STOCKS SNAPSHOT-Wall St opens lower after S&P's record close,US STOCKS SNAPSHOT-Wall St opens lower after last week's rally
+1699,0.7933884297520661,original_found,Business Digest: Men's Wearhouse to buy Jos. A. Bank for $1.8 billion,Men's Wearhouse To Buy Jos. A. Bank For $1.8 Billion
+1702,0.8837209302325582,original_found,Russian news agencies: Crimean parliament declares region independent state  ...,Russian news agencies: Crimean parliament declares region independent state after referendum
+1710,0.8333333333333334,original_found,Pilots of missing Malaysian plane under scrutiny,Pilots of Malaysian mystery plane under scrutiny
+1711,1.0,original_found,China able to keep economic operation in proper range: Premier,China able to keep economic operation in proper range: Premier
+1715,1.0,original_found,10 Things to Know for Today,10 Things to Know for Today
+1720,0.9401709401709402,original_found,S&P 500 Erases Loss as Investors Weigh Economy, Ukraine Crisis,S&P 500 Erases Loss as Investors Weigh Economy, Ukraine
+1732,0.75,original_found,Bank to appoint new deputy governor,People: Thailand appoints new deputy governor
+1736,0.6075949367088608,original_found,Colorado makes millions in pot taxes,Colorado passes a milestone for pot revenue
+1743,0.6060606060606061,original_found,Here's What Obamacare Might Do to Your Tax Refund,Here's How Obamacare Is Going To Affect Your Taxes
+1744,0.8636363636363636,original_found,Amazon hikes Prime membership to $99 a year,Amazon Hikes Prime Membership to $99 Per Year
+1746,1.0,original_found,German court upholds eurozone rescue fund,German court upholds eurozone rescue fund
+1751,0.8421052631578947,original_found,China vows to clean up 60% of cities by 2020,China Vows to Clean up 60 Percent of Cities by 2020
+1759,0.9333333333333333,original_found,What Role Did the BOE Play in Alleged FX Rigging?,What Role Did the BOE Play in Alleged FX Rigging?: Video
+1765,0.7912087912087912,original_found,'Candy Crush' maker sees $613 million in IPO,Maker of ※Candy Crush§ sees $613 million in IPO
+1770,0.7868852459016393,original_found,Men's Wearhouse buying rival Jos. A. Bank for $1.8 billion,Men's Wearhouse to buy Jos. A. Bank in a deal worth $1.8 billion
+1775,1.0,original_found,Chiquita Brands and Fyffes Announce Merger to Create Banana Behemoth,Chiquita Brands and Fyffes Announce Merger to Create Banana Behemoth
+1779,0.7543859649122807,original_found,Men's Wearhouse Bid Now Suits Jos. A. Bank Just Fine,Men's Wearhouse bid of $1.8 billion suits Jos A Bank just fine
+1780,1.0,original_found,Coutts Adds Gold as Demand in China Climbs With Ukraine Risk,Coutts Adds Gold as Demand in China Climbs With Ukraine Risk
+1784,1.0,original_found,Starbucks iPhone App Will Start Asking for Tips Soon,Starbucks iPhone App Will Start Asking for Tips Soon
+1786,0.6551724137931034,original_found,Starbucks app allows you to tip your barista with shake-to-pay feature,Starbucks app update lets you tip your barista
+1787,0.9221556886227545,original_found,Germany's constitutional court upholds participation in rescue fund for euro  ...,Germany's constitutional court upholds participation in rescue fund for euro countries
+1790,0.9393939393939394,original_found,Congress to investigate GM recall,Congress to Investigate GM Recall
+1796,0.9176470588235294,original_found,China to continue search for missing plane as long as there is glimmer of hope  ...,China to continue search for missing plane as long as there is glimmer of hope: Premier
+1801,0.9180327868852459,original_found,Carney faces leadership test,Carney faces bank leadership test
+1803,1.0,original_found,Libya MPs oust PM after rebel oil shipment,Libya MPs oust PM after rebel oil shipment
+1804,0.8709677419354839,original_found,Gold hits near 6-month high as equities fall on China, Ukraine,Gold Hits Near 6-Month High As Equities Fall On China, Ukraine
+1813,0.7727272727272727,original_found,UK's first bitcoin machine opens in London cafe,Bitcoin machine opens in East London Cafe
+1823,0.9,original_found,Gold drops,Gold Drops
+1830,0.927710843373494,original_found,Colorado Made $4M Off Marijuana in One Month. They're on Track for $134M by  ...,Colorado Made $4M Off Marijuana in One Month. They're on Track for $134M by Next Year.
+1842,0.6506024096385542,original_found,Pizza-Make Sbarro Filing for Chapter 11,Pizza-maker Sbarro files Chap. 11 bankruptcy
+1843,0.6166666666666667,original_found,Silver Up to $21 an Ounce as Investors Seek Safe Haven,Silver tops US$21 for first time since '14 as investors seek haven
+1849,1.0,original_found,Men's Wearhouse to buy Jos. A. Bank for $1.8 bn,Men's Wearhouse to buy Jos. A. Bank for $1.8 bn
+1854,0.6206896551724138,original_found,U.S. Stocks Fluctuate as Investors Weigh Economy, Ukraine Crisis,U.S. Stocks Fluctuate While Europe Slumps on Ukraine
+1861,0.762589928057554,original_found,Candy Crush maker King.com is seeking $7.56 billion valuation through IPO,Candy Crush Saga Maker King Seeks $7.56 Billion Valuation From IPO
+1863,1.0,original_found,Bank Of England In Deputy Governor Shake-Up,Bank Of England In Deputy Governor Shake-Up
+1867,1.0,original_found,McDonald's struggles worsened by snow,McDonald's struggles worsened by snow
+1868,1.0,original_found,Chiquita, Fyffes to blend, to create top banana,Chiquita, Fyffes to blend, to create top banana
+1869,0.9767441860465116,original_found,US consumer sentiment edges lower in March,U.S. consumer sentiment edges lower in March
+1882,0.6666666666666666,original_found,Commercial drones ready for business in U.S.,Are commercial drones ready for takeoff?
+1892,0.9010989010989011,original_found,Hong Kong, China shares sink on weak data,Hong Kong, China shares sink on weak mainland data
+1894,1.0,original_found,German court confirms euro zone bailout scheme is legal,German court confirms euro zone bailout scheme is legal
+1896,0.8131868131868132,original_found,LA sues Time Warner cable for nearly $10 million,L.A. Sues Time Warner Cable for $10 Million
+1898,0.6274509803921569,original_found,US stocks move higher in morning trading,Stocks Move Mostly Higher In Morning Trading - U.S. Commentary
+1907,0.9465648854961832,original_found,Gold near six-month high as Ukraine, China prompt safe-haven bids,Gold up at six-month high as Ukraine, China prompt safe-haven bids
+1912,0.6728971962616822,original_found,China Central Bank to allow the yuan more flexibility,China central bank eyes freer yuan, policy flexibility
+1918,0.75,original_found,Consumer sentiment unexpectedly falls on outlook,Consumer Sentiment Unexpectedly Falls to a Six-Month Low
+1928,0.8085106382978723,original_found,Toyota suspends Indian auto production,Toyota suspends Indian auto production amid labor unrest
+1939,0.6944444444444444,original_found,Job openings rise in January,job openings surge to record high in January
+1956,0.7433628318584071,original_found,King's Candy Crush Tapping Towards a $7.6 Billion IPO Valuation,Candy Crush Maker Seeks $7.6 Billion IPO Valuation
+1961,1.0,original_found,Malaysia plane search straddles continent as police focus on crew,Malaysia plane search straddles continent as police focus on crew
+1964,0.8468468468468469,original_found,Vodafone agrees 7.2 billion euro deal to buy Spain's Ono,Vodafone agrees 6.02 billion pound deal for Spain's Ono
+1967,1.0,original_found,Chinese e-commerce giant Alibaba picks United States for initial public offering,Chinese e-commerce giant Alibaba picks United States for initial public offering
+1979,1.0,original_found,Metro-North Railroad Worker Killed by Train in Manhattan,Metro-North Railroad Worker Killed by Train in Manhattan
+1980,0.9833333333333333,original_found,China Doubles Yuan's Trading Band Giving Market Greater Role,China Doubles Yuan＊s Trading Band Giving Market Greater Role
+1983,1.0,original_found,Sbarro files for second bankruptcy in three years,Sbarro files for second bankruptcy in three years
+1986,0.6111111111111112,original_found,Job postings rise in January,job openings surge to record high in January
+1990,0.60431654676259,original_found,Americans Riding Public Transit At Highest Level Since 1956,Use of Public Transit in U.S. Reaches Highest Level Since 1956, Advocates Report
+1993,0.6185567010309279,original_found,Colorado marijuana sales more than $3.5M in January,Colorado makes $3.5M in pot revenue in January
+2000,0.6732673267326733,original_found,Feds open investigation into GM recall,Feds open investigation into GM pickups and SUVs - May. 3, 2005
+2002,0.7394957983193278,original_found,European car sales up for sixth straight month,Europe car sales up for sixth straight month as crisis-hit states recover
+2010,1.0,original_found,German shares outpace rest of Europe after trade data beats forecast,German shares outpace rest of Europe after trade data beats forecast
+2013,0.8837209302325582,original_found,Gorbachev: Crimean referendum "happy event",Gorbachev: Crimean Referendum 'Happy Event'
+2014,0.9090909090909091,original_found,Timeline: Last Known Moments Of Flight MH370,Timeline: Last known moments of flight MH370
+2017,0.6097560975609756,original_found,Mercedes-Benz to assemble S 500 locally,Mercedes-Benz S 500 to be locally assembled
+2025,1.0,original_found,Germany's top court clears euro bailout fund,Germany's top court clears euro bailout fund
+2027,1.0,original_found,Libya says halts tanker outside rebel port, plans military offensive,Libya says halts tanker outside rebel port, plans military offensive
+2029,1.0,original_found,US stock head lower for a third day straight,US stock head lower for a third day straight
+2033,0.9043478260869565,original_found,WINDFALL | Colorado made $3.5 million in pot tax in first month,Colorado made $3.5 million in pot tax in first month
+2034,0.96,original_found,Americans riding public transport in record numbers,Americans riding public transit in record numbers
+2036,1.0,original_found,HIGHLIGHTS-Bank of England's Carney, other policymakers speak in parliament,HIGHLIGHTS-Bank of England's Carney, other policymakers speak in parliament
+2041,0.8695652173913043,original_found,Poll: Fed seen hiking US rates in second half of 2015 as jobless rate falls,Fed seen hiking rates in second half of 2015 as jobless rate...
+2042,1.0,original_found,Libya says will bomb North Korean ship if it exports seized oil,Libya says will bomb North Korean ship if it exports seized oil
+2047,1.0,original_found,Stocks down on discouraging news from Asia,Stocks down on discouraging news from Asia
+2049,0.6260869565217392,original_found,Chiquita Brands to Merge With Fyffes to Create Banana Leader,Chiquita to Buy Fyffes Creating Biggest Banana Supplier
+2052,0.9836065573770492,original_found,$1.8 billion deal will merge Men's Wearhouse and Jos. A. Bank,$1.8 billion deal will merge Men＊s Wearhouse and Jos. A. Bank
+2055,0.8376068376068376,original_found,MALAYSIA AIRLINES: Searchers relying on satellite data to find plane,Searchers relying on satellite data to find plane
+2059,0.9111111111111111,original_found,Alibaba Plans Equal Sway for Banks in IPO: Update,Alibaba Plans Equal Sway for Banks in IPO
+2061,0.75,original_found,Bitcoin Tracker: March 14,Bitcoin Tracker
+2063,0.8735632183908046,original_found,Toyota shuts 2 India plants in lockout,Toyota shuts 2 India plants in lockout over wages
+2067,1.0,original_found,Chiquita to merge with Irish produce company,Chiquita to merge with Irish produce company
+2068,0.8709677419354839,original_found,Malaysian jet search expands from Australia to Kazakhstan,Malaysia Airlines plane search expands from Australia to Kazakhstan
+2080,0.6065573770491803,original_found,Colorado Collects $2 Million in Taxes Off Recreational Marijuana in January,Colorado collects $2M in recreational pot taxes
+2081,0.8551724137931035,original_found,CORRECTED-Bank of England's Carney faces grilling over foreign exchange  ...,Bank of England's Carney faces grilling over foreign exchange scandal
+2087,0.84,original_found,Chrysler recalls SUVs to fix brake pedal problem,Chrysler recalls SUVs worldwide to fix brake problem
+2089,0.8666666666666667,original_found,Last words from jet after systems shutdown,Final words from jet came after systems shutdown
+2090,0.8205128205128205,original_found,Health Crisis is Real,The Crisis is Real
+2103,0.9428571428571428,original_found,Stocks To Watch For March 13, 2014,8 Stocks To Watch For March 13, 2018
+2105,1.0,original_found,China loosens grip on yuan,China loosens grip on yuan
+2111,0.9710144927536232,original_found,'Candy Crush' maker King Digital sees up to $7.6 billion IPO valuation,Candy Crush-maker King Digital sees up to $7.6 billion IPO valuation
+2115,1.0,original_found,World stocks, copper and oil hit by weak China exports,World stocks, copper and oil hit by weak China exports
+2118,0.7126436781609196,original_found,Alibaba Group Confirms Plans for US IPO (YHOO),China's Alibaba confirms plans for US IPO
+2121,1.0,original_found,Toyota suspends India production as pay dispute drags,Toyota suspends India production as pay dispute drags
+2122,0.8131868131868132,original_found,Gold prices to move in a range to higher: Emkay,Gold prices likely to move in a range: Emkay
+2129,0.9111111111111111,original_found,Attorney: Joe McGinniss, author of 'Fatal Vision,' 'Selling of the President,' dies at  ...,Attorney: Joe McGinniss, author of ＆Fatal Vision,＊ ＆Selling of the President,＊ dies at 71
+2143,0.8301886792452831,original_found,Administration says Obamacare signups top 5 million,administration says Obamacare enrollment tops 5 million
+2147,0.6216216216216216,original_found,Sun Pharma - Import Alert for Karkhadi unit from US FDA,Press Release Import Alert for Karkhadi unit from US FDA | Sun Pharmaceutical Industries Ltd.
+2154,0.6226415094339622,original_found,Today's Rates for Home Mortgages at Wells Fargo Mar 11,Compare Home Mortgage Loans Calculator | Wells Fargo
+2165,1.0,original_found,Bouygues lifts bid for French mobile operator SFR,Bouygues lifts bid for French mobile operator SFR
+2170,1.0,original_found,Yellen to put Fed's new leadership on display,Yellen to put Fed's new leadership on display
+2173,1.0,original_found,Weak China exports weigh in on stocks, hit commodities,Weak China exports weigh in on stocks, hit commodities
+2184,0.8547008547008547,original_found,Mt. Gox allows customers to check bitcoin balances,Mt. Gox updates website, allows customers to check bitcoin balances
+2186,0.9285714285714286,original_found,China slam Malaysia for 'contradictory' jet information,Chinese slam Malaysia for ＆contradictory＊ jet information
+2188,1.0,original_found,Paris takes drastic measures to fight toxic smog,Paris takes drastic measures to fight toxic smog
+2192,0.7529411764705882,original_found,Federal Trade Commission opens inquiry into Herbalife,FTC opens inquiry into Herbalife
+2204,0.9285714285714286,original_found,Stocks fall on discouraging news from Asia,Stocks slip on discouraging news from Asia
+2213,1.0,original_found,Libya PM ousted after tanker escapes to sea with rebel oil,Libya PM ousted after tanker escapes to sea with rebel oil
+2230,0.9253731343283582,original_found,Fannie, Freddie Could Send $179.2 Billion To Taxpayers: White House,Fannie, Freddie could send $179.2 billion to taxpayers: White House
+2232,0.8636363636363636,original_found,'Mafia Fugitive' Wins Extradition Battle,Mafia Fugitive Rancadore Wins Extradition Battle
+2235,1.0,original_found,China doubles yuan trading band, brings more risk to FX market,China doubles yuan trading band, brings more risk to FX market
+2237,0.6545454545454545,original_found,China's yuan currency weakens after market reform push,Yuan weakens after PBC market reform push - Global Times
+2241,0.6865671641791045,original_found,Colorado collects $2 million in recreational pot taxes in January, the first month  ...,Colorado collects $2M in recreational pot taxes
+2242,0.7964601769911505,original_found,Metro-North worker struck and killed by train bound for Poughkeepsie,Metro-North worker struck and killed by train
+2247,0.8990825688073395,original_found,Americans said to be riding public transit in record numbers,Americans riding public transit in record numbers
+2255,1.0,original_found,Vodafone agrees $10.03 billion deal to buy Ono,Vodafone agrees $10.03 billion deal to buy Ono
+2259,0.8,original_found,Mt. Gox faced 150000 attacks per second: Report,Bitcoin exchange MtGox faced 150,000 attacks per second: report
+2262,0.8349514563106796,original_found,UK's first bitcoin machine opens in London tech hub,UK＊s first bitcoin machine opens in east London cafe
+2264,0.9333333333333333,original_found,Hertz spinning off equipment rental business into a separate publicly traded  ...,Hertz spinning off equipment rental business into a separate publicly traded company
+2267,0.6779661016949152,original_found,Herbalife Faces Federal Inquiry,Herbalife facing FTC inquiry
+2279,1.0,original_found,UNL's Great Plains Art Museum names curator,UNL's Great Plains Art Museum names curator
+2285,1.0,original_found,Europe reaches crunch point on banking union,Europe reaches crunch point on banking union
+2291,1.0,original_found,TOP NEWS: Vodafone Buys Cable Firm Ono In Spain For EUR7.2 Billion,TOP NEWS: Vodafone Buys Cable Firm Ono In Spain For EUR7.2 Billion
+2302,0.6666666666666666,original_found,McDonald's sales decline as chain looks to adapt to changing tastes,McDonald's adapting to changing tastes
+2310,0.7422680412371134,original_found,Malaysia rejects jet 'debris' images,Malaysia rejects jet 'debris' images and 4-hour flight report
+2312,0.9791666666666666,original_found,US Attorney investigating General Motors recall,U.S. Attorney investigating General Motors recall
+2313,0.9696969696969697,original_found,DLA and Weil lead on Vodafone's ???7.2bn acquisition of Spain's Ono,DLA and Weil lead on Vodafone's 7.2bn acquisition of Spain's Ono
+2318,0.9247311827956989,original_found,US stocks move lower on gloomy news from Asia,U.S. stocks close lower on gloomy news from Asia
+2321,0.8740740740740741,original_found,Vodafone to buy Spanish telecoms company Ono for $10 billion, expanding  ...,Vodafone to buy Spanish telecom company Ono for $10 billion
+2328,0.8791208791208791,original_found,Sbarro files for 2nd bankruptcy in 3 years,Sbarro files for second bankruptcy in three years
+2332,0.6721311475409836,original_found,'Candy Crush' Maker King Seeks as Much as $533 Million in IPO,Candy Crush game developer seeks to raise $533 million in IPO
+2334,0.9333333333333333,original_found,Business briefs,Business Briefs
+2337,0.9935483870967742,original_found,Health insurance up 39% to 56% under Obamacare, reach $2604 a month in Calif.,Health insurance up 39% to 56% under Obamacare, reach $2,604 a month in Calif.
+2338,0.6363636363636364,original_found,Candy Crush maker hopes to raise $532 million in IPO,Candy Crush maker expects to be worth more than $7 billion
+2339,1.0,original_found,Starbucks app for iPhone going digital tipping, shake-to-pay,Starbucks app for iPhone going digital tipping, shake-to-pay
+2340,1.0,original_found,Malaysia: Stolen passport user was asylum seeker,Malaysia: Stolen passport user was asylum seeker
+2342,1.0,original_found,Carney looks to maintain BOE's integrity over FX probe,Carney looks to maintain BOE's integrity over FX probe
+2353,1.0,original_found,China to curb housing speculation: Premier Li,China to curb housing speculation: Premier Li
+2357,0.816,original_found,ChiquitaFyffes to merge to create world's biggest banana company,Chiquita and Fyffes merge to make world's biggest banana firm
+2359,0.8633093525179856,original_found,Pot pays: Colorado posts first official marijuana tax totals,Pot pays: Colorado posts first official marijuana tax totals | The Daily Caller
+2365,0.7083333333333334,original_found,Morning Glory seized,MV Morning Glory - Wikipedia
+2368,0.7777777777777778,original_found,Plane search expands from Australia to Kazakhstan - WBTV 3 News, Weather  ...,Plane search expands from Australia to Kazakhstan
+2375,0.6813186813186813,original_found,Two Weeks Remain for Healthcare Enrollment in Fla.,Two weeks remain for 2018 Open Enrollment
+2378,0.7066666666666667,original_found,Insuring Your Health: Warning: Opting Out Of Your Insurance Plan's Provider  ...,Warning: Opting Out Of Your Insurance Plan＊s Provider Network Is Risky
+2379,0.9583333333333334,original_found,Q&A: Ice Cube on his box-office hit 'Ride Along',Q&A: Ice Cube on his box-office hit Ride Along
+2395,1.0,original_found,Final words from jet came after systems shutdown,Final words from jet came after systems shutdown
+2404,1.0,original_found,Hackers Claim to Have Evidence of Fraud Surrounding Mt. Gox Closure,Hackers Claim to Have Evidence of Fraud Surrounding Mt. Gox Closure
+2405,0.9032258064516129,original_found,Mens Wearhouse Nears Deal For Jos. A. Bank,Men＊s Wearhouse Nears Deal For Jos. A. Bank - Video
+2411,1.0,original_found,Bank of England chief grilled over forex scandal,Bank of England chief grilled over forex scandal
+2412,0.6285714285714286,original_found,Posted by Parvez Jabri,International Cooperation Posted by Parvez Jabri
+2415,1.0,original_found,Virtu Filing Shines Light on High-Frequency Trading Business,Virtu Filing Shines Light on High-Frequency Trading Business
+2417,1.0,original_found,Ackman wins a round as FTC starts Herbalife probe,Ackman wins a round as FTC starts Herbalife probe
+2418,0.693069306930693,original_found,FACTBOX: China's urbanization plan 2014-2020,China's urbanization plan 2014-2020[1]- Chinadaily.com.cn
+2432,0.925,original_found,Bank of England governor Mark Carney names IMF official to post of deputy  ...,Bank of England governor Mark Carney names IMF official to post of deputy governor
+2449,0.74,original_found,China widens yuan daily trading band to 2%: central bank,China widens yuan trading band to 2% from 1%
+2460,1.0,original_found,Pot sales spark warehouse boom in Colorado,Pot sales spark warehouse boom in Colorado
+2462,0.9841269841269841,original_found,Bank of England moving "relentlessly" on FX allegations - Carney,Bank of England moving relentlessly on FX allegations - Carney
+2464,1.0,original_found,International markets roundup,International markets roundup
+2471,0.845360824742268,original_found,China industrial output, retail sales rise,China industrial output and retail sales rise in August
+2475,0.7457627118644068,original_found,Starbucks to allow digital tips,r/starbucks - digital tips??
+2483,0.6947368421052632,original_found,Los Angeles sues Time Warner Cable,Los Angeles County Sues Time Warner Cable for Not Paying Bill
+2487,0.9655172413793104,original_found,Malaysia rejects jet "debris" images, 4-hour flight report,Malaysia rejects jet ＆debris＊ images, 4-hour flight report
+2494,0.723404255319149,original_found,Men's Wearhouse, Jos. A. Bank suit up in $1.8B deal,Men＊s Wearhouse buys Jos. A. Bank for $1.8B
+2495,1.0,original_found,China Premier downplays debt risk, hints at growth tolerance,China Premier downplays debt risk, hints at growth tolerance
+2498,0.6610169491525424,original_found,Chiquita, Fyffes Agree to $1.07 Billion Merger Deal -- 2nd Update,Banana Giants Chiquita, Fyffes Agree to $1.07B Merger
+2500,0.8607594936708861,original_found,Metro-North Worked Killed in Harlem,Metro-North Worker Killed By Train In Harlem
+2505,0.7719298245614035,original_found,Mt. Gox updates website, allows customers to...,Mt. Gox updates website, allows customers to check bitcoin balances
+2512,0.7931034482758621,original_found,Retail Stock News: JC Penney Company Inc (NYSE: JCP), American Eagle  ...,Retail Stock News: J.C. Penney Company Inc (NYSE: JCP), American Eagle Outfitters (NYSE: AEO) - Video
+2514,0.8130081300813008,original_found,GLOBAL MARKETS-Shares capped by China data, Ukraine worries linger,World shares capped by China data, Ukraine worries linger
+2516,0.9166666666666666,original_found,Oil Falls to Around $101 After China, Japan Data,Oil falls to around $101 after China, Japan data
+2517,0.676923076923077,original_found,Delta flight from Orlando lands safely in Atlanta missing panel on wing,Delta plane flying from Orlando to Atlanta loses wing panel
+2519,1.0,original_found,Gold rises in Europe,Gold rises in Europe
+2520,0.7378640776699029,original_found,Bouygues Raises Bid for Vivendi's SFR Unit,Bouygues and Altice Raise Bids for SFR, Vivendi's Mobile Unit
+2522,0.6808510638297872,original_found,GLOBAL MARKETS-World stocks, oil steady but eyes still on Ukraine, China,GLOBAL MARKETS-World stocks flat, oil and gold edge up on Ukraine,...
+2524,1.0,original_found,Griffin's 37 points help Clippers beat Suns,Griffin's 37 points help Clippers beat Suns
+2526,1.0,original_found,BoE to create deputy governor position for markets and banking,BoE to create deputy governor position for markets and banking
+2533,0.9090909090909091,original_found,Stocks mixed in afternoon trading,Stocks Mixed in Afternoon Trading
+2534,1.0,original_found,German deputy finance minister greets court ruling on ESM bailout fund,German deputy finance minister greets court ruling on ESM bailout fund
+2536,0.8490566037735849,original_found,Toyota suspends plant operations in India after labor unrest,Toyota suspends operations after labour unrest
+2537,1.0,original_found,Hertz Board Approves Separation Of Equipment Rental Business,Hertz Board Approves Separation Of Equipment Rental Business
+2539,1.0,original_found,World's Largest Banana Company Is Born,World's Largest Banana Company Is Born
+2544,0.7889908256880734,original_found,Candy Crush maker sees $7.6bn IPO valuation,Another Zynga? 'Candy Crush' maker sees up to $7.6bn IPO valuation
+2548,0.6601941747572816,original_found,Men's Wearhouse cuts $1.8 billion deal,Men's Wearhouse Reaches $1.8 Billion Deal To Acquire Jos. A. Bank
+2557,0.9433962264150944,original_found,Wall Street edges lower after record; Boeing drags,Wall Street edges lower after record; Boeing drags - .es
+2559,1.0,original_found,Hackers dox Mt. Gox CEO, say they have proof of fraud,Hackers dox Mt. Gox CEO, say they have proof of fraud
+2560,0.7073170731707317,original_found,Brent Slides Towards $108 On Chinese Exports,Brent slips towards $108 on China data
+2572,0.845360824742268,original_found,Wall Street cuts losses as diplomacy ramps up in Ukraine,Wall St cuts losses as diplomacy ramps up
+2576,1.0,original_found,Alibaba reveals US flotation plan,Alibaba reveals US flotation plan
+2581,0.8758169934640523,original_found,Hertz spinning off equipment rental unit into publicly traded company,Hertz spinning off equipment rental business into a separate publicly traded company
+2585,0.9230769230769231,original_found,ECB to reveal bad loan hurdles for euro zone bank test,ECB to reveal bad loan hurdles for euro zone bank test: sources
+2590,1.0,original_found,US MIDDAY: gold surges,US MIDDAY: gold surges
+2591,0.6771653543307087,original_found,Emerging-Market Stocks Decline With Commodities as China Weakens,Emerging Stocks Drop With Commodities as Growth Concern Lingers
+2594,0.7155963302752294,original_found,Choosing the right health plan for your family,Picking the right health insurance for your family in Singapore
+2595,1.0,original_found,Fed set to ditch 'threshold' guidance under Yellen,Fed set to ditch 'threshold' guidance under Yellen
+2596,0.9090909090909091,original_found,China widens yuan daily trading band,China widens yuan trading band
+2603,0.7412587412587412,original_found,ECB member Noyer is 'very open to all kinds of tools',ECB member Noyer is 'very open to all kinds of tools' - ShareCast News - London South East
+2605,1.0,original_found,Flight 370: Investigators Seek Help, Motive For Jet's Disappearance,Flight 370: Investigators Seek Help, Motive For Jet's Disappearance
+2606,0.6851851851851852,original_found,Report: Missing plane flew low to avoid radar,Missing Malaysian plane MH370 flew low to avoid radar detection
+2618,0.8888888888888888,original_found,Herbalife Says FTC Opens Inquiry Long Sought By Ackman,Herbalife says FTC opens inquiry long sought by Ackman
+2619,0.6904761904761905,original_found,China eases exchange rate controls,China's central bank eases exchange rate mechanism
+2620,0.9,original_found,Copper Slips With Asian Stocks After China Data; Ringgit Weakens,Copper Slips With Asian Stocks on China; Ringgit Weakens
+2622,1.0,original_found,BoE picks senior IMF official in management shake-up,BoE picks senior IMF official in management shake-up
+2624,0.7906976744186046,original_found,Mt Gox faced 150000 attacks per second,REPORT: Mt. Gox Faced 150,000 Attacks Per Second
+2629,0.8440366972477065,original_found,Sun Pharma gets import alert from USFDA for Karkhadi unit,Sun Pharma gets USFDA import alert for Karkhadi unit
+2634,0.6666666666666666,original_found,China's industrial output growth at five-year low,China growth slows to five-year low
+2637,0.9900990099009901,original_found,Urban Outfitters 2013 net sale increase 10 percent,Urban Outfitters 2013 net sales increase 10 percent
+2639,1.0,original_found,Chiquita-Fyffes merge to make top bananas,Chiquita-Fyffes merge to make top bananas
+2655,1.0,original_found,Jack Daniel's opposes changing Tenn. whiskey law,Jack Daniel's opposes changing Tenn. whiskey law
+2656,0.6947368421052632,original_found,Herbalife Hit with Civil Investigation by FTC,FTC Hits Herbalife with Civil Investigative Demand
+2660,0.845360824742268,original_found,Alibaba says IPO plan remains unconfirmed,Alibaba says IPO plan remains unconfirmed - China.org.cn
+2663,1.0,original_found,Boeing and Chiquita are big market movers,Boeing and Chiquita are big market movers
+2664,0.6883116883116883,original_found,US Stocks Retreat With Emerging Equities on China Data,Deep Blue Group LLC: U.S. Stocks Retreat with Emerging Equities on China Data - jannousbin - Wattpad
+2667,0.7010309278350515,original_found,Copper falls to eight-month low on China fears,Copper hits 9-month low on US-China trade war fears
+2669,0.6666666666666666,original_found,Malaysian military: missing jet made it to Malacca Strait, far from last reported  ...,Malaysian jet made it to Malacca Strait, far from last reported position, military says - The Boston Globe
+2671,1.0,original_found,Malaysian plane probe spotlights cockpit crew,Malaysian plane probe spotlights cockpit crew
+2673,1.0,original_found,Libyan navy attacks ship carrying oil from rebel port; PM sacked,Libyan navy attacks ship carrying oil from rebel port; PM sacked
+2678,0.7863247863247863,original_found,Candy Crush maker seeks IPO price at $21-$24 per share,'Candy Crush' game maker seeks to price US IPO at $21-$24/share
+2680,0.6779661016949152,original_found,Herbalife says it is facing civil inquiry from FTC; shares plunge after halt,Herbalife facing US inquiry; shares plunge
+2682,0.6111111111111112,original_found,My business accepts Bitcoins,Advertise That Your Business Accepts Bitcoin
+2698,0.8636363636363636,original_found,Toyota shuts 2 Indian plants over wages,Toyota shuts 2 India plants in lockout over wages
+2702,1.0,original_found,Ship leaves Libya rebel port carrying oil, official and gunmen say,Ship leaves Libya rebel port carrying oil, official and gunmen say
+2705,0.7714285714285715,original_found,Alibaba confirms US listing,Alibaba confirms preparation for US listing
+2708,0.6101694915254238,original_found,China could set economic weather despite US Federal Reserve, Ukraine,China may make the weather despite Fed and Ukraine
+2736,0.8378378378378378,original_found,Gold Reaches 19-Week High as China, Ukraine Raise Haven Demand,Gold Reaches 19-Week High as China, Ukraine Raise Haven Demand - Precious Metals Forum
+2740,0.7719298245614035,original_found,Toyota India unit suspends auto production amid labour unrest,Toyota halts Indian car production amid labour unrest
+2768,1.0,original_found,US Seals take control of rogue Libya oil ship: Pentagon,US Seals take control of rogue Libya oil ship: Pentagon
+2771,0.943089430894309,original_found,Alibaba picks US for IPO; in talks with 6 banks for lead roles,Alibaba picks for IPO; in talks with six banks for lead roles
+2773,0.7022900763358778,original_found,Americans hopping aboard public transit in record numbers; ridership recovers  ...,Americans riding public transit in record numbers
+2776,0.6486486486486487,original_found,China to Keep Growth in 'Reasonable Range',China to keep economic growth in reasonable range: vice premier - .es
+2785,0.8484848484848485,original_found,Mt. Gox allows users to check Bitcoin balances,MtGox returns to allow users to check Bitcoin balance
+2794,0.8431372549019608,original_found,Fannie Mae, Freddie Mac stocks fall sharply,Fannie Mae, Freddie Mac stocks fall sharply - Partner banka
+2797,0.8372093023255814,original_found,Chiquita Brands acquires Fyffes to create world's biggest banana seller,Chiquita and Fyffes to create world's biggest banana group
+2799,0.8648648648648649,original_found,GLOBAL MARKETS-Asian shares find support amid China uncertainty,Asian shares find support amid China uncertainty
+2802,1.0,original_found,European car sales up for sixth month as economies recover,European car sales up for sixth month as economies recover
+2804,1.0,original_found,Malaysia: No debris in area shown on China images,Malaysia: No debris in area shown on China images
+2809,0.8682170542635659,original_found,Hackers Leak Mt. Gox Database, Reveal Blog of Former CEO,Hackers Leak Mt. Gox Database, Reveal Blog of Former CEO - March 10, 2014
+2819,1.0,original_found,Yahoo!: $150B Alibaba Valuation Could Be Big Payoff in US IPO, Says Topeka,Yahoo!: $150B Alibaba Valuation Could Be Big Payoff in US IPO, Says Topeka
+2820,0.7647058823529411,original_found,Charlotte-based Chiquita to merge with Irish fruit company,Chiquita to merge with Irish produce company
+2823,0.9622641509433962,original_found,Vodafone agrees ???7.2 billion deal to buy Spain's Ono,Vodafone agrees 7.2 billion deal to buy Spain's Ono
+2836,1.0,original_found,Obamacare campaign highlights sports injuries to enroll young people,Obamacare campaign highlights sports injuries to enroll young people
+2841,1.0,original_found,Libya intercepts tanker loaded with rebel oil,Libya intercepts tanker loaded with rebel oil
+2842,0.6019417475728155,original_found,NHTSA wants GM records, emails, pictures in recall investigation,NHTSA admits faults in GM investigation
+2850,0.6290322580645161,original_found,China's CSI300 index at near 9-month low, Hong Kong sinks too,China shares hit 6-month low after holiday, Hong Kong sinks too
+2856,1.0,original_found,Tanker escapes to sea with cargo of Libyan rebel oil,Tanker escapes to sea with cargo of Libyan rebel oil
+2857,1.0,original_found,Franchise operators wait, watch as Quiznos files for Chapter 11 reorg,Franchise operators wait, watch as Quiznos files for Chapter 11 reorg
+2859,0.6060606060606061,original_found,Herbalife Ltd. (HLF) news: Herbalife At Risk: The FTC Can't Ignore  ...,Herbalife At Risk: The FTC Can't Ignore Demonstrable Evidence
+2863,0.8666666666666667,original_found,Navy SEALs seize control of hijacked tanker,Navy SEALs take back control of hijacked tanker
+2865,0.6666666666666666,original_found,Los Angeles Sues Time Warner Cable Over Fees,Los Angeles, Time Warner Cable Going to Court Over Franchise Fees (Again)
+2869,0.6285714285714286,original_found,Australia takes up search for Malaysia Airlines flight,Search for Malaysia Airlines Flight 370 - Wikipedia
+2870,1.0,original_found,Weak Data Signal China Slowdown,Weak Data Signal China Slowdown
+2875,0.6213592233009708,original_found,Stocks, commodities hammered as China's data disappoints,Asian stocks deflate as China trade disappoints
+2877,0.8648648648648649,original_found,MISSING MH370: Chinese official: No proof to link debris to jet,Chinese official: No proof to link debris to jet
+2878,0.8064516129032258,original_found,Missing Malaysia Jet Said to Have Flown West With Beacon Off,Missing Malaysia airline said to have flown west with beacon off
+2880,0.7207207207207207,original_found,'Candy Crush' Maker King Seeks IPO Valuation Up to $7.6 Billion,Candy Crush Maker Thinks It's Worth $7.6 Billion
+2883,0.7901234567901234,original_found,China CSI300 share index at 5-year closing low on slowdown fears,China CSI300 share index at 5-year closing low on slowdown fears - Business News | The Star Online
+2891,0.8648648648648649,original_found,MISSING MH370: Final words from jet came after systems shutdown,Final words from jet came after systems shutdown
+2895,0.6095238095238096,original_found,Hertz Will Spin Off Equipment Rental Unit to Focus on Cars (2),Hertz to spin off equipment rental business
+2897,0.6666666666666666,original_found,American Eagle Outfitters (AEO) to Release Quarterly Earnings on Tuesday,What to Expect When American Eagle Outfitters (AEO) Releases Earnings Tomorrow
+2898,0.75,original_found,Mortgage Interest Rates at Wells Fargo Today Mar 13,Current Mortgage Interest Rates | Wells Fargo
+2901,0.6190476190476191,original_found,Candy Crush Saga ?? Tips and Tricks to Ace Those Levels,Best Candy Crush Saga Cheats, Tips, and Hints to Climb the Leaderboard
+2902,0.9,original_found,Bon-Ton CEO to resign,Bon-Ton CEO resigns
+2905,0.6153846153846154,original_found,Herbalife says it is facing civil inquiry from FTC; shares plunge after halt | The  ...,Herbalife facing FTC inquiry; shares plunge
+2906,0.6896551724137931,original_found,American Eagle's forecast disappoints, shares slip,American Eagle Outfitters' profit outlook disappoints, shares slip
+2909,0.9863013698630136,original_found,Toyota suspends Indian car production,Toyota suspends India car production
+2913,0.9496402877697842,original_found,Men's Wearhouse merger offer of $1.8 billion suits Jos. A. Bank just fine,Men's Wearhouse offer of $1.8 billion suits Jos. A. Bank just fine
+2916,0.6666666666666666,original_found,Public Transit Use At Highest Level Since 1956,Use of Public Transit in U.S. Reaches Highest Level Since 1956, Advocates Report
+2918,0.9722222222222222,original_found,Starbucks' app to allow barista tips,Starbucks＊ app to allow barista tips
+2919,1.0,original_found,China widens currency's fluctuation vs. dollar,China widens currency's fluctuation vs. dollar
+2925,1.0,original_found,Fannie Mae, Freddie Mac Shares Fall on Wind-Down Measure,Fannie Mae, Freddie Mac Shares Fall on Wind-Down Measure
+2926,0.875,original_found,Men's Wearhouse buying Jos. A. Bank Clothiers for $1.8 billion,Men＊s Wearhouse buying Jos A Bank for $1.8 billion
+2927,0.8235294117647058,original_found,Sbarro files for bankruptcy reorganization for second time in 3 years,Sbarro files for bankrupcy for 2nd time in 3 years
+2931,0.9219858156028369,original_found,UK Financial Conduct Authority says not investigating BoE over FX rigging,UK Financial Conduct Authority says not investigating BoE over FX...
+2932,0.6666666666666666,original_found,All eyes on Ukraine and the Fed,All Eyes On Ukraine  Blackthorn
+2933,1.0,original_found,Stocks meander as China, Ukraine worries weigh,Stocks meander as China, Ukraine worries weigh
+2936,1.0,original_found,London open: Stocks edge higher ahead of UK data,London open: Stocks edge higher ahead of UK data
+2940,0.9302325581395349,original_found,Consumer Price Index up,Consumer Price Index
+2941,0.835820895522388,original_found,Copper falls on China concern,Copper Falls on China Economy Concerns
+2942,0.6218487394957983,original_found,Federal Prosecutors Investigating Criminal Probe against GM,Federal prosecutors open criminal probe of GM recall: source
+2944,0.9263157894736842,original_found,Many Uninsured Still Unaware About Obamacare,Many Uninsured Still Unaware About Obamacare | .com
+2946,0.7326732673267327,original_found,Men's Wearhouse Finally Successful In Acquiring Jos. A. Bank,Men＊s Wearhouse finally buys Jos. A. Bank
+2961,0.6382978723404256,original_found,Bouygues Raises Bid for Vivendi's SFR, Says Spokesman,Bouygues Improves Offer for Vivendi's SFR
+2962,1.0,original_found,Questions Of Trust As Bank Quizzed Over Forex,Questions Of Trust As Bank Quizzed Over Forex
+2968,0.845360824742268,original_found,MISSING MH370: Chinese site may show plane debris images,Chinese site may show plane debris images
+2971,0.925,original_found,To Understand What's Really Happening in Ukraine, Follow the Gas Lines on  ...,To Understand What's Really Happening in Ukraine, Follow the Gas Lines on This Map
+2978,0.6071428571428571,original_found,Gold price down as safe-haven demand wanes, focus on China,Gold inches up on safe-haven demand amid China worries
+2987,1.0,original_found,Candy Crush Game Maker Aims to Hit $7.6 Billion IPO Sweet Spot,Candy Crush Game Maker Aims to Hit $7.6 Billion IPO Sweet Spot
+2988,0.672566371681416,original_found,Malaysian official denies report on missing plane,Malaysian Official Denies Report That Missing Jet Flew for Hours
+2994,0.75,original_found,Herbalife defends business,Herbalife Again Defends Business Model
+2995,0.6595744680851063,original_found,Sbarro reportedly preparing for Ch. 11 bankruptcy,Report: Sbarro may file for Ch. 11 bankruptcy
+3003,0.6338028169014085,original_found,Malaysia says searches for missing plane in both northern, southern corridors  ...,Search for MH370 intensifies in northern, southern corridors
+3004,0.9894736842105263,original_found,Final words from jet came after system shutdown,Final words from jet came after systems shutdown
+3012,1.0,original_found,Toyota shuts 2 India plants in lockout over wages,Toyota shuts 2 India plants in lockout over wages
+3014,0.6,original_found,Malaysia jet search expands from Australia to Kazakhstan; last words from co  ...,Search for missing jet expands from Australia to Kazakhstan
+3015,0.7291666666666666,original_found,Europe: New car sales jump 8 pct in February,European new car sales rise 7 pct in February - ACEA
+3017,1.0,original_found,Asian stocks tumble on weak China, Japan data,Asian stocks tumble on weak China, Japan data
+3018,0.9803921568627451,original_found,China's E-Commerce King Alibaba to Go Public in US,China's E-Commerce King Alibaba to Go Public in U.S.
+3020,0.6987951807228916,original_found,Ingenious way to still get Amazon Prime for $79,10 ways to get Amazon Prime for less
+3024,0.7142857142857143,original_found,World stocks, copper, oil decline after weak China export data,GLOBAL MARKETS-World stocks, copper, oil dip after weak China...
+3026,1.0,original_found,Capitol Update: A look at HB 2553, opting out of Affordable Care Act,Capitol Update: A look at HB 2553, opting out of Affordable Care Act
+3032,1.0,original_found,Gold up at six-month high as Ukraine, China prompt safe-haven bids,Gold up at six-month high as Ukraine, China prompt safe-haven bids
+3033,0.6707317073170732,original_found,U.S. Stocks Retreat With Emerging Equities, Metals on China Data,Deep Blue Group LLC: U.S. Stocks Retreat with Emerging Equities on China Data - jannousbin - Wattpad
+3034,0.6338028169014085,original_found,Australia leads Malaysia plane search in Indian ocean as police focus on crew,Malaysia Plane Search Straddles Continent as Police Focus on Crew
+3047,0.6436781609195402,original_found,Is Starbucks an Attractive Investment?,Is Starbucks a Safe Investment?, by Malcolm Berko
+3052,0.8245614035087719,original_found,Quiznos Files for Chapter 11 Bankruptcy Protection -- 2nd Update,Quiznos files for Chapter 11 bankruptcy protection
+3062,0.6229508196721312,original_found,How Will Rising Mortgage Rates Affect the Phoenix Housing Market?,Will Rising Washington Mortgage Rates Affect Home Prices?
+3064,0.7321428571428571,original_found,GM offering $500 rebates on new cars to replace recalled models,GM Offering $500 Rebates To Replace Recall Models
+3069,0.7581699346405228,original_found,Fed risks falling 'behind the curve', Charles Plosser says,Fed risks falling 'behind the curve', Charles Plosser says - ShareCast News - London South East
+3077,1.0,original_found,EU delays talks on new Russian pipeline,EU delays talks on new Russian pipeline
+3079,0.8085106382978723,original_found,Malaysia denies reports missing plane flew for hours after contact,Malaysia denies missing plane may have flown for hours after losing contact
+3081,0.8571428571428571,original_found,Inflation Signs Lurk In Broader Labor Data Yellen Seeks,Inflation Signs Lurk in Broader Labor Data Yellen Seeks @ Forex Factory
+3086,1.0,original_found,Premier says China flexible on growth target,Premier says China flexible on growth target
+3092,0.8163265306122449,original_found,Amazon raising price of prime membership by $20,Amazon to increase price of Prime membership by 20%
+3097,0.8888888888888888,original_found,Toyota Suspends Indian Auto Output After Labour Unrest,Toyota suspends Indian auto output after labour unrest
+3098,0.6890756302521008,original_found,SAC Capital's New Name is Point72 Asset Management,SAC Capital Advisors is changing its name to Point72 Asset Management
+3106,0.8461538461538461,original_found,Final words from Malaysia Airlines Flight 370 came after systems shutdown,Final words from Flight MH370 came after systems shutdown
+3109,0.6068965517241379,original_found,Vodafone Group plc: VODAFONE TO ACQUIRE GRUPO CORPORATIVO ONO  ...,VODAFONE TO ACQUIRE GRUPO CORPORATIVO ONO, S.A. 每 Company Announcement - FT.com
+3119,0.8636363636363636,original_found,Libyan leader ousted after tanker escapes to sea with rebel oil,Libyan PM ousted after N. Korean tanker escapes to sea with rebel oil
+3122,0.8888888888888888,original_found,J.C. Penney Company, Inc. (JCP) Upgraded To Buy By Citi,J.C. Penney Company, Inc. (JCP) Debt Upgraded By Citi
+3125,0.7848101265822784,original_found,China will not give up on missing plane search,China 'will not give up' on plane
+3127,1.0,original_found,GM creates new post to spearhead safety issues,GM creates new post to spearhead safety issues
+3131,0.8235294117647058,original_found,China widens yuan trading band to 2 percent from 1 percent,China widens yuan trading band to 2% from 1%
+3157,0.9454545454545454,original_found,Vodafone buys Spanish cable firm Ono for 7.2 billion euros,Vodafone buys Spanish firm Ono for 7.2 billion euros
+3164,0.696969696969697,original_found,Obamacare Hits 5 Million Enrollees,Obamacare Sign-Ups Hit 5 Million
+3170,0.810126582278481,original_found,Stocks Close Mostly Higher After Shaky Start,Stocks End Higher After Shaky Start
+3176,1.0,original_found,Co-pilot spoke last words heard from missing Malaysian plane,Co-pilot spoke last words heard from missing Malaysian plane
+3181,0.7339449541284404,original_found,House Republicans to Unveil Obamacare Alternative,House Republicans unveil healthcare alternative to Obamacare
+3186,0.828125,original_found,UniCredit Posts Record Loss on Bad Loans, Goodwill Writedown,Italy's UniCredit posts record loss on bad loans, goodwill writedown
+3192,0.6355140186915887,original_found,Starbucks adds digital tips to app,Starbucks adds digital tipping, shake to pay to iPhone mobile payment app
+3197,0.9672131147540983,original_found,Bouygues Increases Cash Portion of SFR Bid to $15.8 Billion (2),Bouygues Increases Cash Portion of SFR Bid to $15.8 Billion
+3201,0.7169811320754716,original_found,Satellite images of possible crash site,China releases satellite images of possible Malaysia jet crash site
+3202,1.0,original_found,Fyffes shares soar as investors go bananas for Chiquita deal,Fyffes shares soar as investors go bananas for Chiquita deal
+3203,0.675,original_found,Stocks slip on disappointing Asia news,Stocks slip on discouraging news from Asia
+3204,0.9090909090909091,original_found,Vivendi Hunts For The Right Telecom Exit,Vivendi Hunts For The Right Telecom Exit - Video
+3205,0.6338028169014085,original_found,Hertz to spin off equipment business to raise $2.5 billion,Hertz spinning off equipment rental business into a separate publicly traded company
+3207,0.7596899224806202,original_found,NAPLES, Fla. - Hertz plans to spin off its equipment rental business into a  ...,Hertz plans to spin off equipment rental business
+3208,1.0,original_found,S&P 500 - China Disappointment Unable To Derail Bull Train,S&P 500 - China Disappointment Unable To Derail Bull Train
+3211,0.8817204301075269,original_found,Quiznos files for bankruptcy protection (Video),Quiznos files for bankruptcy protection | News
+3216,0.6601941747572816,original_found,Central Europeans want US gas to cut dependence on Russia,US: Europe should cut dependence on Russia gas
+3218,1.0,original_found,Romania: Putin is creating Black Sea barrier,Romania: Putin is creating Black Sea barrier
+3220,0.6201550387596899,original_found,Today's Stock market DJIA Dow Jones Industrial Average, Nasdaq, S&P 500;,Stock Market Data - Dow Jones, Nasdaq, S&P 500 - CNNMoney
+3222,0.9722222222222222,original_found,Colorado reaps $2m in marijuana taxes,Colorado reaps $2m in marijuana tax
+3225,0.6024096385542169,original_found,Next up at Starbucks: digital tips,50 cents, $1 or $2? Starbucks to add digital tips
+3228,0.96875,original_found,Malaysia plane search straddles continent, police focus on crew,Malaysia plane search straddles continent as police focus on crew
+3229,0.74,original_found,inflation holds despite spike in energy, food prices,Inflation holds firm despite rise in fuel prices
+3230,0.9245283018867925,original_found,Italy's UniCredit in stunning $21B loss, plans turnaround,UniCredit in stunning $21B loss, plans turnaround
+3234,1.0,original_found,American Eagle warns on profit as cold weather hits demand,American Eagle warns on profit as cold weather hits demand
+3239,0.98,original_found,Men's Wearhouse buying Jos A Bank for $1.8 billion,Men＊s Wearhouse buying Jos A Bank for $1.8 billion
+3245,1.0,original_found,Nigerian leader orders audit of missing billions,Nigerian leader orders audit of missing billions
+3248,0.6545454545454545,original_found,Quiznos Follows Sbarro to Bankruptcy Amid Competition,Toasty Or Toasted? Quiznos Follows Sbarro Into Bankruptcy
+3249,0.9894736842105263,original_found,Final word from jet came after systems shutdown,Final words from jet came after systems shutdown
+3255,1.0,original_found,Colorado raises $2M in first month of marijuana taxes,Colorado raises $2M in first month of marijuana taxes
+3264,0.6194690265486725,original_found,Posted by Shoaib-ur-Rehman Siddiqui,Posted by Shoaib-ur-Rehman Siddiqui | GhHeadlines Total News Total Information
+3269,1.0,original_found,Toyota declares lockout at Bidadi as labour trouble lingers,Toyota declares lockout at Bidadi as labour trouble lingers
+3271,0.8983050847457628,original_found,Colorado collects US$2 million in recreational marijuana taxes,Colorado collects US$2 million in recreational pot taxes
+3275,1.0,original_found,GM focuses on customers amid recall investigations,GM focuses on customers amid recall investigations
+3284,0.9722222222222222,original_found,Why I'd Still Stay Away from Bitcoin,Why I＊d Still Stay Away from Bitcoin
+3299,0.8299319727891157,original_found,Asian and European industrial health under scrutiny this week,GLOBAL ECONOMY WEEKAHEAD-Asian and European industrial health under scrutiny this week
+3301,0.8468468468468469,original_found,Vodafone agrees to buy Spain's Ono in 6.02 billion pounds deal,Vodafone to buy Spain＊s Ono in 6.02 billion deal
+3302,0.6714285714285714,original_found,Dick's Sporting Goods Inc. (DKS) Releases Q1 Earnings Guidance,Dick's Sporting Goods Inc (DKS) Q2 2018 Earnings Conference Call Transcript --
+3303,0.8345323741007195,original_found,Quiznos Follows Sbarro to Bankruptcy Citing Growing Competition,Quiznos follows Sbarro to bankruptcy citing growing competition | Malay Mail
+3316,1.0,original_found,Americans board public transit in booming numbers,Americans board public transit in booming numbers
+3317,0.9814814814814815,original_found,Quizno's bankruptcy yanks chain's future into question,Quizno's bankruptcy yanks chain＊s future into question
+3329,0.625,original_found,Fannie Mae and Freddie Mac,Fannie Mae - Wikipedia
+3331,0.8478260869565217,original_found,Sbarro Files For Chapter 11 Reorganization Again,Sbarro files for Ch. 11 reorganization again
+3333,0.6666666666666666,original_found,India steps up search for missing Malaysia Airlines plane,Ships searching for missing Malaysia Airlines wreckage make unexpected find
+3338,0.9777777777777777,original_found,Chinese e-commerce giant Alibaba sets US IPO,Chinese e-commerce giant Alibaba sets U.S. IPO
+3351,0.9915966386554622,original_found,Quizno's follows Sbarro into bankruptcy as competition grows,Quiznos follows Sbarro into bankruptcy as competition grows
+3353,1.0,original_found,Noyer Says Strong Euro Creates Unwarranted Economic Pressure,Noyer Says Strong Euro Creates Unwarranted Economic Pressure
+3364,0.8321167883211679,original_found,Search for missing Malaysian plane search expands from Australia to Kazakhstan,Search for missing jet expands from Australia to Kazakhstan
+3365,0.7676767676767676,original_found,Billionaire buys record-high life insurance policy,Tech billionaire buys $201M life insurance policy
+3367,0.8888888888888888,original_found,US Navy SEALs board tanker hijacked in Libya,US Navy SEALs board tanker hijacked in Libya - Pentagon
+3368,0.6,original_found,Best dressed: Men's Wearhouse to buy Jos. A. Bank after months of negotiations,Men's Wearhouse To Buy Jos. A. Bank For $1.8 Billion
+3371,0.9147286821705426,original_found,Silicon Valley billionaire buys record-breaking life insurance policy,Silicon Valley billionaire buys record life-insurance policy
+3373,0.7272727272727273,original_found,Hong Kongers hold parody Communist rally,Hong Kongers hold parody Communist rally to protest mainland influence
+3382,1.0,original_found,A bid of $1.8 billion suits Jos A Bank just fine,A bid of $1.8 billion suits Jos A Bank just fine
+3392,0.6444444444444445,original_found,Urban Outfitters (URBN) - Daily Trading Review,Urban Outfitters - URBN - Stock Price & News
+3400,0.6126126126126126,original_found,L.A. Sues Time Warner for Shortchanging the City of Franchise Fees,LA Sues Time Warner Cable for "Stiffing" City
+3406,0.9911504424778761,original_found,Malaysia Airlines Flight MH370 search stretches 16000 km,Malaysia Airlines Flight MH370 search stretches 16,000 km
+3408,0.8928571428571429,original_found,FTC launches Herbalife inquiry; Target shoppers stay away after data breach,FTC launches Herbalife inquiry; Target shoppers stay away after data breach - Washington Post
+3410,0.972972972972973,original_found,Herbalife says US FTC opens inquiry long sought by Ackman,Herbalife says FTC opens inquiry long sought by Ackman
+3414,0.8172043010752689,original_found,Amazon hikes rate of Prime service to $99 per year,Amazon Hikes Price of Prime to $99 per Year
+3416,0.7596899224806202,original_found,Plane search expands from Australia to Kazakhstan - WNCN: News, Weather for  ...,Plane search expands from Australia to Kazakhstan
+3418,0.7592592592592593,original_found,Chinese premier Li Keqiang admits 'friction' with US,Chinese premier admits 'friction' with the United States
+3424,1.0,original_found,Spotlight on London's Growing Tech Scene,Spotlight on London's Growing Tech Scene
+3427,0.9152542372881356,original_found,Quiznos Follows Sbarro Into Bankruptcy as Competition Grows,Quiznos follows Sbarro into bankruptcy as competition grows
+3432,0.8857142857142857,original_found,REPEAT: China Unveils Urbanization Plan,China Unveils Urbanization Plan
+3437,0.6222222222222222,original_found,MARKET SNAPSHOT: U.S. Stocks Edge Lower In Choppy Trading,MARKET SNAPSHOT: U.S. Stocks Edge Lower As Japanese Yen Jumps | MarketScreener
+3450,0.9333333333333333,original_found,Chinese Premier Li says debt defaults 'hardly avoidable',Chinese Premier Li Keqiang says debt defaults 'hardly avoidable'
+3455,0.9714285714285714,original_found,Obamacare enrollments hit 5 million,Obamacare enrollment hits 5 million
+3457,0.6857142857142857,original_found,Chiquita merges with Fyffes of Ireland to become world's largest banana supplier,Chiquita and Fyffes join to make world's biggest banana firm
+3461,0.7938931297709924,original_found,Recall roundup: Dodge Durango and Jeep Grand Cherokee,Recall Roundup: Honda Odyssey, Fiat 500, Dodge Durango and Jeep Grand Cherokee
+3463,0.8163265306122449,original_found,Virtu IPO filing reveals European growth,Virtu IPO filing reveals European growth | Investment News
+3466,1.0,original_found,Vietnam says possible debris area already searched,Vietnam says possible debris area already searched
+3471,0.6172839506172839,original_found,Malaysian aviation chief: No sign of missing plane at spot shown by Chinese  ...,Malaysia: no debris found of missing plane at spot shown on China satellite images
+3472,0.6031746031746031,original_found,Armchair warriors wage a phoney war,Armchair warrior - Wikipedia
+3477,1.0,original_found,McDonald's February same-restaurant sales fall 0.3 percent,McDonald's February same-restaurant sales fall 0.3 percent
+3478,0.9343065693430657,original_found,UPDATE 3-Libyan navy attacks ship carrying oil from rebel port; PM sacked,Libyan navy attacks ship carrying oil from rebel port; PM sacked
+3491,0.9672131147540983,original_found,ECB's Coeure: No Deflation in the Euro Zone, But Risk Remains,ECB＊s Coeure: No Deflation in the Euro Zone, but Risk Remains
+3492,0.7228915662650602,original_found,US stocks fall on concerns about Ukraine,US stocks fall on correction fears, Ukraine
+3494,0.6464646464646465,original_found,New Car Sales in Bulgaria Up 27%,New Car Sales in Bulgaria Up 27% - Novinite.com - Sofia News Agency
+3496,0.7164179104477612,original_found,Stocks end day on mixed note,US stocks end strong week on mixed note
+3513,0.9322033898305084,original_found,European Car Sales Jump 7.6% as Price Cuts Help Renault, VW (3),European Car Sales Jump 7.6% as Price Cuts Help Renault
+3514,0.8817204301075269,original_found,Men's Wearhouse buys Jos. A. Bank for $1.8 billion,Men＊s Wearhouse buys Jos. A. Bank for $1.8B
+3515,1.0,original_found,AP News in Brief at 5:58 a.m. EDT,AP News in Brief at 5:58 a.m. EDT
+3522,0.9344262295081968,original_found,Final words from missing Malaysia jet came after systems shutdown,Final words from Malaysia jet came after systems shutdown
+3525,0.7058823529411765,original_found,Top 10 Current Uses of Drones,12 Best Uses of Drones
+3532,0.9541284403669725,original_found,Gold falls for second session, US growth optimism weighs,Gold falls for 2nd session, US growth optimism weighs
+3540,0.8920863309352518,original_found,China rates, yuan slide after exports surprise, fuels monetary easing talk,China rates, yuan slide after exports surprise, fuels monetary...
+3542,0.6356589147286822,original_found,Candy Crush maker King's IPO could be worth up to US$7.6-billion,Candy Crush Maker King Sets IPO Valuation As High As $7.6 Billion
+3548,0.9285714285714286,original_found,Russia open to 'equal' dialogue with West on Ukraine,Russia open to 'equal' dialogue with West on Ukraine: Lavrov
+3552,1.0,original_found,Gold climbs toward four-month high on Ukraine crises,Gold climbs toward four-month high on Ukraine crises
+3558,0.9782608695652174,original_found,McDonald's February Sales Slip on US Weakness,McDonald's February Sales Slip on U.S. Weakness
+3564,0.6666666666666666,original_found,McDonald's Blames Weak Sales On Weather,McDonald's Blames Ads For Weak Sales, Puts Shops in Hot Seat
+3572,0.7333333333333333,original_found,Vodafone buys Spain's Grupo Corporativo Ono,Vodafone to acquire Grupo Corporativo Ono, S.A.
+3573,0.6133333333333333,original_found,Job Openings Were Up In January,job openings surge to record high in January
+3582,0.704225352112676,original_found,Militant Sunni group claims latest Lebanon bombing,Militant Sunni group claims latest Lebanon bombing as retaliation for Hezbollah's Syria role
+3594,0.6666666666666666,original_found,China Stocks Hit New Low,E-House China Stock Hits New 52-Week Low (EJ)
+3598,0.6095238095238096,original_found,Jos. A. Bank to Be Bought by Men's Wearhouse,Buying Jos. A Bank Has Been a Catastrophe for Men's Wearhouse
+3603,1.0,original_found,Senate banking leaders sketch out Fannie, Freddie bill,Senate banking leaders sketch out Fannie, Freddie bill
+3611,0.9024390243902439,original_found,Strokes drummer Scott Asheton dies at 64,Stooges drummer Scott Asheton dies aged 64
+3616,1.0,original_found,Trading firm Virtu Financial plans to raise up to $100 million in IPO,Trading firm Virtu Financial plans to raise up to $100 million in IPO
+3624,0.640625,original_found,What Colorado's Recreational Marijuana Tax Revenue Means for Massachusetts,Where Is Our Recreational Marijuana Tax Revenue Going?
+3629,0.7183098591549296,original_found,Ukraine and US Economics The fiscal consequences of conflict between Russia  ...,The fiscal consequences of conflict between Russia and Ukraine
+3630,0.8682170542635659,original_found,Fed seen hiking US rates in 2nd half of 2015 as jobless rate falls,Fed seen hiking rates in second half of 2015 as jobless rate...
+3643,0.873015873015873,original_found,Fed Seen Adopting Qualitative Rate Guidance as Job Market Gains,Fed seen adopting qualitative rate guidance as job market gains
+3653,1.0,original_found,Chinese Premier vows to stabilise growth, use 'iron fist' against pollution,Chinese Premier vows to stabilise growth, use 'iron fist' against pollution
+3657,0.6444444444444445,original_found,Officials deny report on missing plane,Officials Deny Engine Data Report From Missing MH370
+3658,1.0,original_found,GM recommends light key rings after recall,GM recommends light key rings after recall
+3663,0.6129032258064516,original_found,Starbucks to allow tipping by app,r/starbucks - Tipping Via App
+3664,0.6451612903225806,original_found,Chiquita, Fyffes in $1.07 Billion Merger Deal -- Update,Chiquita, Fyffes Announce $1.1B Merger
+3665,1.0,original_found,Gold climbs in Europe,Gold climbs in Europe
+3670,0.6231884057971014,original_found,More Countries Join Search for Missing Malaysia Flight,25 countries are now involved in the search for the missing Malaysia Airlines flight
+3676,0.62,original_found,Colorado pot taxes rake in $2 million,Colorado marijuana sales rake in $2 million in taxes in January
+3678,0.9032258064516129,original_found,US stocks end mostly higher after weak start,US stocks finish mostly higher after a weak start
+3679,1.0,original_found,Starbucks adding tipping option to mobile payment app,Starbucks adding tipping option to mobile payment app
+3682,0.7208121827411168,original_found,SG, LLC breaks a new Guinness World Record for the 'Most Valuable Life  ...,SG, LLC breaks a new Guinness World Record for the 'Most Valuable Life Insurance Policy' valued at a historic $201 million
+3694,0.7254901960784313,original_found,'Candy Crush' Maker Seeks Valuation Up to $7.6 Billion,Candy Crush Maker Thinks It's Worth $7.6 Billion
+3696,0.9523809523809523,original_found,Federal prosecutors reportedly open criminal probe of GM recall,Federal prosecutors reportedly open criminal probe of GM rec...
+3705,0.8354430379746836,original_found,Herbalife faces FTC investigation,Herbalife faces FTC investigation - snopes.com
+3707,0.845360824742268,original_found,Chinese premier admits 'friction' with US,Chinese premier admits 'friction' with the United States
+3710,1.0,original_found,100 million Chinese to get greater city benefits,100 million Chinese to get greater city benefits
+3714,0.6231884057971014,original_found,Colorado gets $2.1 million profit after first month of cannabis sales,Pot profit: Colorado collects $3.5 million from first marijuana sales
+3715,1.0,original_found,FTC inquiry into Herbalife prompts big share selloff,FTC inquiry into Herbalife prompts big share selloff
+3717,0.8653846153846154,original_found,US employers posted more open jobs in January than December,US employers posted more open jobs in January
+3721,0.9774436090225563,original_found,UniCredit posts shock 2013 loss of ??11.66 billion after writedowns,UniCredit posts shock 2013 loss of 11.66 billion after writedowns
+3724,0.7184466019417476,original_found,Malaysia rejects report plane flew on,Malaysia rejects reports plane flew a few hours after contact lost
+3728,0.6027397260273972,original_found,Co-pilot 'uttered last words' from MH370,Plane co-pilot 'spoke last words'
+3729,1.0,original_found,Toyota suspends Indian auto production amid labour unrest,Toyota suspends Indian auto production amid labour unrest
+3731,1.0,original_found,Transit ridership reaches highest level since 1956,Transit ridership reaches highest level since 1956
+3741,0.6785714285714286,original_found,The best ways to invest in silver,How to Invest in Silver
+3753,1.0,original_found,Lockout at 2 Toyota India Plants,Lockout at 2 Toyota India Plants
+3756,1.0,original_found,Vieira hosts inspirational book awards event,Vieira hosts inspirational book awards event
+3761,0.9,original_found,Chiquita Brands to Buy Fyffes to Form Biggest Banana Company,Chiquita brands to buy Fyffes to form biggest banana company
+3770,0.7924528301886793,original_found,McDonald's Reports February Global Comparable Sales,McDonald's Reports Global Comparable Sales For February
+3774,0.6486486486486487,original_found,Quiznos files for bankruptcy, plans company restructuring,Sandwich chain Quiznos files for bankruptcy protection
+3781,1.0,original_found,German reliance on Russian gas threatens Europe: Poland,German reliance on Russian gas threatens Europe: Poland
+3783,0.6504065040650406,original_found,How the Dow Jones industrial average did Monday,What Is Disturbing About the Dow Jones Industrial Average's Epic Dive Monday
+3791,0.6724137931034483,original_found,Search Operation for Malaysian Airlines Aircraft MH 370 Suspended,Search for Malaysia Airlines Flight 370 - Wikipedia
+3792,1.0,original_found,It's No Toke: Colorado Pulls In Millions In Marijuana Tax Revenue,It's No Toke: Colorado Pulls In Millions In Marijuana Tax Revenue
+3793,1.0,original_found,Germany's dependence on Russian gas poses risks for Europe - Polish PM,Germany's dependence on Russian gas poses risks for Europe - Polish PM
+3794,1.0,original_found,Breaking the Connection: American Airlines, JetBlue Sever Agreement,Breaking the Connection: American Airlines, JetBlue Sever Agreement
+3796,0.8888888888888888,original_found,Libyan commander whose militia seized oil ports seeks US help amid standoff  ...,Libyan commander whose militia seized oil ports seeks US help amid standoff with government
+3798,1.0,original_found,RBS might have to leave an independent Scotland - BoE's Carney,RBS might have to leave an independent Scotland - BoE's Carney
+3799,0.898876404494382,original_found,Satellites join search for missing plane,Satellite guardians join search for missing plane
+3802,0.9152542372881356,original_found,Senators Release Details of New Bill Eliminating Fannie Mae,Senators release details of new bill eliminating Fannie Mae
+3807,0.6304347826086957,original_found,RBS might be forced out of an independent Scotland,Could RBS stay in an independent Scotland?
+3819,0.6296296296296297,original_found,Malaysia Airlines: Where's the plane?,Malaysia Airlines
+3822,1.0,original_found,US Navy SEALs seize tanker hijacked in Libya: Pentagon,US Navy SEALs seize tanker hijacked in Libya: Pentagon
+3827,0.6835443037974683,original_found,GM recall prompts investigation,GM Recall Failures Prompt Criminal Investigation
+3828,1.0,original_found,Belated recall deals GM, new CEO a fresh image challenge,Belated recall deals GM, new CEO a fresh image challenge
+3829,0.9380530973451328,original_found,Vodafone agrees 6.02 billion pound deal to buy Spain's Ono,Vodafone agrees 6.02 billion pound deal for Spain's Ono
+3838,0.6164383561643836,original_found,Urban Outfitters Rating Reiterated by Morgan Stanley (URBN),Urban Outfitters quarter-to-date comps 'impressive,' says Morgan Stanley URBN - The Fly
+3839,0.6730769230769231,original_found,Metro-North Worker Killed Working On Tracks In NYC,Metro-North Worker Struck, Killed by Train in NYC: MTA
+3840,0.9859154929577465,original_found,Libya threatens to bomb N.Korean tanker if it ships oil from rebel port,Libya threatens to bomb N Korean tanker if it ships oil from rebel port
+3845,0.896551724137931,original_found,GLOBAL MARKETS-World stocks, copper, oil decline after weak China export data,GLOBAL MARKETS-World stocks, copper, oil decline after weak China...
+3849,0.9038461538461539,original_found,Chiquita, Fyffes merger to create top banana company,Chiquita, Fyffes Merger to Create Top Banana Company
+3861,0.967741935483871,original_found,A Busy Week In The Forex Market,A Busy Week in The Forex Market
+3865,0.9156626506024096,original_found,Navy SEALs take oil tanker from rebels,Navy SEALs take oil tanker from Libyan rebels
+3877,0.7413793103448276,original_found,Gold at six-month high amid geopolitical tension,Gold jumps to 11-month high amid geopolitical tension - Global Times
+3879,1.0,original_found,January Tax Haul in Colorado Less Than Projected,January Tax Haul in Colorado Less Than Projected
+3891,0.6593406593406593,original_found,European stocks slide on China fears,European stocks slide as US-China trade tensions simmer
+3893,1.0,original_found,American Eagle Outfitters Reports Fourth Quarter and Fiscal 2013 Results,American Eagle Outfitters Reports Fourth Quarter and Fiscal 2013 Results
+3894,0.9577464788732394,original_found,Australia leads plane southern search,Australia leads plane south search
+3903,0.7833333333333333,original_found,Men's Wearhouse To Acquire Jos. A. Bank For $1.8 Billion,Men's Wearhouse to buy Jos. A. Bank in a deal worth $1.8 billion
+3906,0.8412698412698413,original_found,Gold hits near six-month high as equities fall on China, Ukraine,Gold Hits Near 6-Month High As Equities Fall On China, Ukraine
+3912,0.6666666666666666,original_found,Michigan Consumer Sentiment Disappoints,University of Michigan: Consumer Sentiment
+3914,0.8780487804878049,original_found,Gold / Silver / Copper futures - weekly outlook: March 10 - 14,Gold / Silver / Copper Prices - Weekly Outlook: March 12 - 16
+3920,0.9438202247191011,original_found,Men's Wearhouse, JA Bank sew up $1.8B deal,Men's Wearhouse, Jos. A. Bank sew up $1.8B deal
+3924,1.0,original_found,7 Big Brands That Are Struggling,7 Big Brands That Are Struggling
+3926,0.6608695652173913,original_found,Starbucks adds digital tipping to its menu,Starbucks adds digital tipping, shake to pay to iPhone mobile payment app
+3931,0.6407766990291263,original_found,Can Men's Wearhouse and Jos. A. Bank Make Nice?,Men's Wearhouse and Joseph A Bank: suited to each other?
+3945,1.0,original_found,Italy's UniCredit posts record $19 billion loss after writedowns,Italy's UniCredit posts record $19 billion loss after writedowns
+3948,0.7457627118644068,original_found,Mt. Gox CEO's personal blog hacked,Mt. Gox CEO＊s Blog Hacked
+3949,0.972972972972973,original_found,Franken Says Merged Comcast, Time Warner Cable 'Will Be Bad for Consumers',Franken Says Merged Comcast, Time Warner Cable ＆Will Be Bad for Consumers＊
+3957,0.8983050847457628,original_found,Chiquita to Acquire Fyffes Creating Biggest Banana Supplier (4),Chiquita to Buy Fyffes Creating Biggest Banana Supplier
+3962,1.0,original_found,Navy SEALs board and take control of oil tanker commandeered by Libyan rebels,Navy SEALs board and take control of oil tanker commandeered by Libyan rebels
+3965,0.8588957055214724,original_found,GM excluded crash deaths from inquiry into deadly ignition switches, company  ...,GM excluded crash deaths from inquiry into ignition switches, company document say
+3966,1.0,original_found,Colorado harvests $2M in recreational pot taxes,Colorado harvests $2M in recreational pot taxes
+3972,0.9900990099009901,original_found,Mt. Gox Chief Stole 100000 Bitcoins, Hackers Claim,Mt. Gox Chief Stole 100,000 Bitcoins, Hackers Claim
+3979,0.8672566371681416,original_found,Quiznos bankruptcy, an opportunity for rebranding,Quiznos bankruptcy, an opportunity for rebranding > AlixPartners
+3980,0.9242424242424242,original_found,Wall St little changed as Ukraine, China concerns brushed off,US STOCKS-Wall St little changed as Ukraine, China concerns brushed off
+3985,0.6917293233082706,original_found,Missouri House committee considers bill to legalize, regulate marijuana usage,Missouri House passes bill to legalize medical marijuana
+3994,0.7,original_found,Amazon Ups Annual Prime Membership Fee to $99,Amazon raising price of annual Prime membership to $119
+3996,0.7424242424242424,original_found,Men's Wearhouse acquiring rival Jos A Bank Clothiers for $1.8 billion,Men＊s Wearhouse agrees to acquire Jos. A. Bank for $1.8 billion
+3997,1.0,original_found,Media executives question Comcast-Time Warner Cable deal,Media executives question Comcast-Time Warner Cable deal
+3998,0.6024096385542169,original_found,Merger makes ChiquitaFyffes top banana,Chiquita-Fyffes merger creates new top banana
+4000,1.0,original_found,Senate Banking Leaders Outline Plan to Dump Fannie, Freddie,Senate Banking Leaders Outline Plan to Dump Fannie, Freddie
+4002,0.711864406779661,original_found,Malaysia not sure which way lost jet was headed,Malaysia says not sure which way jet was headed - The Malta Independent
+4017,0.7906976744186046,original_found,Gold prices may move in range today: Emkay,Gold prices likely to move in a range: Emkay
+4018,1.0,original_found,US Navy Seals free freighter with six Pakistanis on-board,US Navy Seals free freighter with six Pakistanis on-board
+4021,1.0,original_found,HIGHLIGHTS: Comments from Chinese Premier Li Keqiang,HIGHLIGHTS: Comments from Chinese Premier Li Keqiang
+4022,1.0,original_found,Libya orders military force to 'liberate' rebel-held ports,Libya orders military force to 'liberate' rebel-held ports
+4023,0.6415094339622641,original_found,US Navy Seals release freighter with six Pakistanis on-board,US frees oil freighter carrying six Pakistanis
+4024,1.0,original_found,Justice Department Probing GM Recall,Justice Department Probing GM Recall
+4036,0.768,original_found,Bank of England chief grilled over forex scandal - WBOC-TV 16, Delmarvas  ...,Bank of England chief grilled over forex scandal
+4038,0.8648648648648649,original_found,Quiznos files for Ch. 11 bankruptcy,Quiznos Files for Chapter 11 Bankruptcy
+4040,1.0,original_found,US home construction fell for a 3rd month in February but building permits rose,US home construction fell for a 3rd month in February but building permits rose
+4053,0.9591836734693877,original_found,Asian shares find support amid Chinese uncertainty,Asian shares find support amid China uncertainty
+4057,0.875,original_found,US regulator launches Herbalife investigation,US launches Herbalife investigation
+4066,0.6938775510204082,original_found,Will Amazon Prime Price Hike Drive Mass Exodus?,Will Amazon Prime See a Mass Exodus of Subscribers?
+4074,1.0,original_found,EBay rejects Icahn slate of directors,EBay rejects Icahn slate of directors
+4089,0.8205128205128205,original_found,Bank unveils new leadership team,Bank unveils new leadership team for Newcastle
+4093,0.71875,original_found,Repairs for recalled GM cars to start in April,Repairs for recalled GM cars to start in April, once needed parts become available
+4098,1.0,original_found,European car sales grow for 6th month,European car sales grow for 6th month
+4101,1.0,original_found,American Airlines to end ticketing agreement with JetBlue,American Airlines to end ticketing agreement with JetBlue
+4102,0.6972477064220184,original_found,EBay urges shareholders to vote against Icahn board nominees,EBay to shareholders: Vote 'no' on Icahn nominees
+4103,0.8703703703703703,original_found,UniCredit posts stunning Q4 loss of $21 billion,r/Economics - UniCredit posts stunning Q4 loss of $21 billion
+4114,0.8505747126436781,original_found,SEC Launches Enforcement Cooperation Initiative for Municipal Issuers and  ...,SEC.gov | SEC Launches Enforcement Cooperation Initiative for Municipal Issuers and Underwriters
+4115,0.7967479674796748,original_found,Malaysia: Kazakhstan joins search for missing jet,Malaysia: Kazakhstan joins search for missing jet - Democratic Underground
+4117,0.9763779527559056,original_found,ECB to reveal bad loan hurdles for euro zone bank test - sources,ECB to reveal bad loan hurdles for euro zone bank test: sources
+4119,1.0,original_found,China 'will not give up' on plane,China 'will not give up' on plane
+4120,0.98,original_found,New deal makes Chiquita world's top banana company,New deal makes Chiquita world＊s top banana company
+4131,0.8172043010752689,original_found,US consumer prices rose as expected in February,US consumer prices increase as expected in May
+4132,0.963855421686747,original_found,Stock market struggles to a mixed finish,US stock market struggles to a mixed finish
+4134,0.7706422018348624,original_found,China: Satellite images show possible plane debris,New satellite images from France show possible plane debris
+4142,0.6545454545454545,original_found,The state can only destroy Bitcoin,Let＊s destroy Bitcoin
+4143,0.859504132231405,original_found,Major U.S. Airlines Tote Up Effects of Winter Storms,Major U.S. Airlines Tote Up Effects of Winter Storms | MarketScreener
+4150,0.8923076923076924,original_found,GM Now Says It Detected An Ignition Switch Problem Dating Back to 2001,GM Now Says It Detected Ignition Switch Problem Back in 2001
+4151,0.9105691056910569,original_found,Hertz Will Spin Off Equipment Rental Unit to Focus on Cars,Hertz/Donlen Will Spin Off Equipment Rental Unit To Focus On Cars
+4153,0.6299212598425197,original_found,Last words from jet from co-pilot: airline,Malaysian jet mystery: Last words from Malaysia plane believed from co-pilot: airline
+4158,0.7722772277227723,original_found,US consumer sentiment deteriorates in March,U.S. Consumer Sentiment Unexpectedly Deteriorates In March
+4162,0.968421052631579,original_found,Stocks finish mostly higher after a weak start,US stocks finish mostly higher after a weak start
+4166,0.7636363636363637,original_found,Survey: 1/3 of Uninsured Do Not Plan to Buy Insurance, Despite 'ObamaCare  ...,Survey: One-third of uninsured do not plan to buy insurance, despite ObamaCare deadline
+4180,0.8260869565217391,original_found,Gold falls as US growth optimism weighs,Gold falls for 2nd session, US growth optimism weighs
+4181,1.0,original_found,Weak China exports weigh on stocks, hit commodities,Weak China exports weigh on stocks, hit commodities
+4186,1.0,original_found,The Switchboard: Comcast is spending liberally to woo lawmakers,The Switchboard: Comcast is spending liberally to woo lawmakers
+4192,1.0,original_found,European stocks push lower after weak E.Z. data; Dax tumbles 1.28%,European stocks push lower after weak E.Z. data; Dax tumbles 1.28%
+4202,0.8764044943820225,original_found,Pizza chain Sbarro files for bankruptcy,Pizza chain Sbarro files for bankruptcy protection
+4204,0.6153846153846154,original_found,Amazon Hikes Prime Fee to $99 - Analyst Blog,Amazon hiking US Prime fee to $119
+4209,0.8412698412698413,original_found,U.S. Stock-Index Futures Are Little Changed After S&P 500 Record,U.S. Stock-Index Futures Little Changed After Rally in S&P 500
+4219,0.6782608695652174,original_found,Euro zone February inflation drops back to lowest level in four years,Euro zone inflation drops to lowest since 2009
+4221,0.717948717948718,original_found,Anonymous hackers claim MtGox still has 'stolen' Bitcoins,Hackers claim bankrupt Mt. Gox still has customers' bitcoins
+4225,1.0,original_found,Candy Crush Maker King Digital Sets IPO Price,Candy Crush Maker King Digital Sets IPO Price
+4235,0.8823529411764706,original_found,Silicon Valley billionaire buys record $201M insurance policy,Silicon Valley billionaire buys record US$201 million life insurance policy
+4243,1.0,original_found,Business Highlights,Business Highlights
+4245,0.625,original_found,RBS might have to move says Carney,RBS might have to leave an independent Scotland - BoE's Carney
+4256,1.0,original_found,Asian stocks tumble on weak China, Japan data,Asian stocks tumble on weak China, Japan data
+4257,1.0,original_found,Repealing health care law would mean higher costs,Repealing health care law would mean higher costs
+4284,1.0,original_found,Stocks move lower on discouraging news from Asia,Stocks move lower on discouraging news from Asia
+4285,0.7301587301587301,original_found,News in Pictures - 10 March, 2014,Day in pictures: 18 March 2015
+4303,0.6301369863013698,original_found,Bitcoin exchange faced hacker onslaught,Bitcoin exchange fears $400m theft
+4304,0.7086614173228346,original_found,China's new plan targets quality urbanization,China Focus: China's new plan targets quality urbanization - People's Daily Online
+4306,1.0,original_found,Sandwich chain Quiznos files for bankruptcy protection,Sandwich chain Quiznos files for bankruptcy protection
+4307,0.684931506849315,original_found,PBOC Sharply Widens Yuan Trading Band,China: PBOC widens yuan trading band
+4310,0.7843137254901961,original_found,Pilots of Malaysian plane under scrutiny after mystery,Pilots of Malaysian mystery plane under scrutiny
+4311,0.7967479674796748,original_found,King, Candy Crush Saga Maker Asks $7.56 Billion Valuation,Candy Crush Saga Maker King Seeks $7.56 Billion Valuation From IPO
+4313,1.0,original_found,Sbarro Files Second Bankruptcy as Mall Traffic Dwindles,Sbarro Files Second Bankruptcy as Mall Traffic Dwindles
+4316,0.725,original_found,'Candy Crush' CEO sees $613 million in IPO,Maker of Candy Crush sees $613m in IPO
+4317,0.7575757575757576,original_found,Quiznos Files For Bankruptcy,Quiznos sub chain files for bankruptcy
+4319,1.0,original_found,World's Largest Banana Company Is Born,World's Largest Banana Company Is Born
+4322,0.803030303030303,original_found,Stocks See Initial Weakness Amid Overseas Worries - US Commentary,Stocks Seeing Continued Weakness Amid Fed Worries - U.S. Commentary
+4328,0.9622641509433962,original_found,US Seals take control of rogue Libya ship: Pentagon,US Seals take control of rogue Libya oil ship: Pentagon
+4331,1.0,original_found,eBay's John Donahoe talks Icahn, conflicts, and $100 stock price (someday),eBay's John Donahoe talks Icahn, conflicts, and $100 stock price (someday)
+4334,0.8767123287671232,original_found,Gold higher as Ukraine tensions mount,Gold higher as Ukraine tensions rise
+4335,1.0,original_found,US markets finish flat in lacklustre trade,US markets finish flat in lacklustre trade
+4336,0.6216216216216216,original_found,Consumer Sentiment Dips,U.S. Consumer Sentiment Dips Due to Tariff Concerns
+4337,0.972972972972973,original_found,Banking on Bitcoins,Banking on Bitcoin
+4339,0.9183673469387755,original_found,Prosecutors oppose McDonnell bid for more details,Prosecutors Oppose McDonnell Bid for More Details
+4348,0.9928057553956835,original_found,Libya says its forces seize disputed oil tanker; militia denies claim,Libya says its forces seized disputed oil tanker; militia denies claim
+4356,0.7891156462585034,original_found,2012-13 Jeep Grand Cherokee and Dodge Durango, 2014 Fiat 500L All Set to  ...,Recalls: 2012-2013 Jeep Grand Cherokee & Dodge Durango, 2014 Fiat 500L
+4359,0.7792207792207793,original_found,Symantec says it terminated CEO Steve Bennett,Symantec Fires CEO Steve Bennett
+4361,0.6666666666666666,original_found,Kansas unemployment dropped slightly in January,Kansas unemployment rate drops to lowest in 18-years
+4362,1.0,original_found,European Markets Mixed, Resolution Declines,European Markets Mixed, Resolution Declines
+4363,0.7560975609756098,original_found,SC jobless rate falls to 6.4% in January,Japan jobless rate falls to 2.4% in August
+4364,0.96875,original_found,Rockwell Automation Named One of World's Most Ethical Companies,Rockwell Automation Named One of ＆World＊s Most Ethical Companies＊
+4365,0.85,original_found,Strong showing: Nearly all major U.S. banks pass Fed's 'stress tests',Nearly all major U.S. banks pass Fed 'stress tests'
+4367,1.0,original_found,Symantec CEO ouster raises questions about turnaround,Symantec CEO ouster raises questions about turnaround
+4368,0.6764705882352942,original_found,Toyota, US nearing $1B unintended acceleration settlement: report,Toyota nearing $1B settlement of unintended acceleration criminal probe
+4373,0.6326530612244898,original_found,Wal-Mart Stores, Inc. (WMT) are now buying used video games,Wal-Mart will buy your used video games
+4378,0.7207207207207207,original_found,CO Governor signs two marijuana saftey bills into law,Hickenlooper signs marijuana edibles safety bills into law
+4381,0.9577464788732394,original_found,New ??1 coin designed to beat fakers,New 1 coin designed to beat fakers
+4384,1.0,original_found,FOREX-Yen slides as Russia sanctions seen as modest,FOREX-Yen slides as Russia sanctions seen as modest
+4393,1.0,original_found,EM Morning Roundup: Russia, China Gain On Crimea, Urbanization,EM Morning Roundup: Russia, China Gain On Crimea, Urbanization
+4396,1.0,original_found,U.S. lawmakers want Gilead to explain Sovaldi's hefty price,U.S. lawmakers want Gilead to explain Sovaldi's hefty price
+4399,0.6323529411764706,original_found,Indianapolis Colts owner Jim Irsay was released Monday afternoon after his  ...,Colts owner Jim Irsay released from jail after DUI arrest
+4412,0.7213114754098361,original_found,Wal-Mart's new tool gives competitors prices on 80000 food, household products,Wal-Mart's new tool gives competitors prices
+4417,0.8372093023255814,original_found,Mt. Gox exchange says it found 200000 missing bitcoins,Mt. Gox exchange says it found 200,000 missing bitcoins - Los Angeles Times
+4419,0.86,original_found,Russian Stocks Down As Banks Suffer Amid Sanctions,Russian stocks down as banks suffer amid sanctions
+4439,0.8817204301075269,original_found,Alabama unemployment rate remains at 6.1 percent,Alabama Unemployment Rate Remains 6.1 Percent
+4440,0.8292682926829268,original_found,NY AG: Fast stock trade advantages unfair,Fast stock trade advantages unfair: NY AG
+4448,1.0,original_found,Yuan at weakest in more than a year as sell-off accelerates,Yuan at weakest in more than a year as sell-off accelerates
+4454,0.6086956521739131,original_found,New ??1 Coin To Combat Counterfeiting,New 1 coin to curb counterfeits
+4459,0.7238095238095238,original_found,Court upholds Fed rules on debit-card swipe fees,Appeals court upholds Fed's debit card 'swipe fee' limits
+4467,0.6990291262135923,original_found,Visa, MasterCard end ties with 2 Russian banks,Visa and MasterCard enforce US sanctions on Russian banks
+4469,0.7238095238095238,original_found,Court upholds Fed rules on debit-card swipe fees,Appeals court upholds Fed's debit card 'swipe fee' limits
+4472,0.86,original_found,Russian Stocks Down As Banks Suffer Amid Sanctions,Russian stocks down as banks suffer amid sanctions
+4478,0.7792207792207793,original_found,Symantec says it terminated CEO Steve Bennett,Symantec Fires CEO Steve Bennett
+4482,0.9473684210526315,original_found,New satellite image boosts Malaysia plane search hopes,New satellite image boosts Malaysia plane search hopes,Perth
+4485,0.8613138686131386,original_found,Comcast's Arbogast: TWC Deal Reflects Reality That Regional,Comcast's Arbogast: TWC Deal Reflects Reality That Regional Model Is Untenable
+4492,0.6862745098039216,original_found,Slight increase in state's January unemployment rate,Delaware sees slight increase in unemployment rate
+4494,0.875,original_found,BMW Targets Significant Profit Gain Lifted by New Models,BMW targets significant profit gain lifted by new models
+4504,0.96875,original_found,Rockwell Automation Named One of World's Most Ethical Companies,Rockwell Automation Named One of ＆World＊s Most Ethical Companies＊
+4507,0.9047619047619048,original_found,Colorado unemployment rate down in January,Colorado Unemployment Rate Down In January
+4510,0.6896551724137931,original_found,EUR/USD - Stable As German, Eurozone Economic Sentiment Slide,EUR/USD - Euro dips as German economic sentiment slides
+4513,0.7289719626168224,original_found,Toyota recall: Settlement Over, set to pay $1 Billion in US Probe,Toyota Set to Pay $1 Billion in U.S. Probe
+4515,1.0,original_found,AP News in Brief at 5:58 p.m. EDT,AP News in Brief at 5:58 p.m. EDT
+4521,1.0,original_found,Walmart dips into trade-in market this month, selling used games in summer,Walmart dips into trade-in market this month, selling used games in summer
+4530,0.6666666666666666,original_found,Kansas unemployment dropped slightly in January,Kansas unemployment rate drops to lowest in 18-years
+4532,0.8292682926829268,original_found,NY AG: Fast stock trade advantages unfair,Fast stock trade advantages unfair: NY AG
+4539,0.6129032258064516,original_found,BMW expands US, Chinese output, plans to sell 2-million vehicles in 2014,BMW Group sells more than 2 million vehicles in 2014
+4542,0.7213114754098361,original_found,Wal-Mart's new tool gives competitors prices on 80000 food, household products,Wal-Mart's new tool gives competitors prices
+4544,0.6511627906976745,original_found,Walmart Goes into the Used Video Game Business,Why Is Walmart Selling Used Video Games?
+4557,0.8505747126436781,original_found,Russian shares fell sharply on Friday,Russian shares fell sharply on Friday | News Ghana
+4558,1.0,original_found,US navy hands rogue oil tanker back to Libya,US navy hands rogue oil tanker back to Libya
+4560,0.8372093023255814,original_found,Mt. Gox exchange says it found 200000 missing bitcoins,Mt. Gox exchange says it found 200,000 missing bitcoins - Los Angeles Times
+4561,0.9217391304347826,original_found,Objects in satellite pics could be from missing Malaysia plane,Objects in satellite pics could be from missing plane
+4563,0.7961165048543689,original_found,Symantec CEO firing raises doubts about turnaround,Symantec CEO ouster raises questions about turnaround
+4567,0.6390532544378699,original_found,Colorado Governor signs legislation to protect children from recreational marijuana,Colorado governor signs law to let school nurses treat students with medical marijuana
+4568,0.8867924528301887,original_found,Wal-Mart to let shoppers exchange used videogames,Walmart to let shoppers exchange used video games in U.S.
+4582,0.9130434782608695,original_found,Sanctions-hit Bank Rossiya says Visa, MasterCard stop providing services,Sanctions-hit Bank Rossiya says Visa, MasterCard stop providing...
+4596,0.7032967032967034,original_found,Wal-Mart stores to take video game trade-ins,Wal-Mart expands video game trade-ins to stores
+4599,1.0,original_found,Zions Bank fails to pass Federal stress test,Zions Bank fails to pass Federal stress test
+4600,1.0,original_found,Oracle Earnings Signal Tech-Spending Rebound,Oracle Earnings Signal Tech-Spending Rebound
+4604,0.7786259541984732,original_found,Toyota reaches $1-billion US settlement over unintended acceleration: reports,Toyota in settlement over unintended acceleration: CNN
+4616,1.0,original_found,Grain mostly higher, livestock mostly lower,Grain mostly higher, livestock mostly lower
+4621,0.7032967032967034,original_found,Wal-Mart stores to take video game trade-ins,Wal-Mart expands video game trade-ins to stores
+4622,0.9830508474576272,original_found,Airbnb prepares for check-in at Silicon Valley's $10bn club,Airbnb prepares for check-in at Silicon Valley＊s $10bn club
+4625,0.8493150684931506,original_found,MH370: New images of 'possible debris',New images of 'possible jet debris'
+4626,0.616822429906542,original_found,Toyota Said to Reach $1.2 Billion US Criminal Settlement (2),Toyota to Pay $1.2 Billion to Settle U.S. Probe
+4634,0.9,original_found,Wal-Mart Entry Into Used Videogames Trade Threatens GameStop,Wal-Mart entry into used videogames trade threatens GameStop
+4646,1.0,original_found,Indiana unemployment rate drops to 6.4 percent,Indiana unemployment rate drops to 6.4 percent
+4647,0.88,original_found,Walmart launches video game trade-in program,Walmart launches video game trade-in program on March 26
+4648,0.6666666666666666,original_found,New report says Florida's January unemployment rate dipped to 6.1 percent  ...,Florida＊s unemployment rate drops to 3.8 percent
+4656,0.907563025210084,original_found,Fired Symantec CEO may get $18.5 million in severance payment,Ousted Symantec CEO may get $18.5 mln in severance payment
+4658,0.8333333333333334,original_found,Eyewitness News,Eyewitness News | EWN
+4663,0.7927927927927928,original_found,Visa and MasterCard block Russian bank customers,Crimea Crisis: Visa and Mastercard Block Russian Bank Customers
+4668,1.0,original_found,'Increasing hope' over search for missing flight MH370, says Australian PM,'Increasing hope' over search for missing flight MH370, says Australian PM
+4670,0.6764705882352942,original_found,Toyota, US nearing $1B unintended acceleration settlement: report,Toyota nearing $1B settlement of unintended acceleration criminal probe
+4672,0.6285714285714286,original_found,Big international search continues for missing plane,Search continues for missing plane parts in Indonesia
+4683,0.9777777777777777,original_found,Credit Suisse in $885M US lawsuit settlement,Credit Suisse in $885M U.S. lawsuit settlement
+4687,0.6129032258064516,original_found,BMW expands US, Chinese output, plans to sell 2-million vehicles in 2014,BMW Group sells more than 2 million vehicles in 2014
+4692,0.625,original_found,Symantec in Search of a New Chief After Firing CEO Steve Bennett,Symantec Fires CEO Steve Bennett
+4707,0.8867924528301887,original_found,Wal-Mart to let shoppers exchange used videogames,Walmart to let shoppers exchange used video games in U.S.
+4711,0.6666666666666666,original_found,Health care stocks drag indexes down,5 Health Care Stocks Dragging The Sector Down
+4719,1.0,original_found,Vladimir Putin laughs at sanctions by asking for monthly salary transferred to bank,Vladimir Putin laughs at sanctions by asking for monthly salary transferred to bank
+4721,0.9696969696969697,original_found,Britain hopes to foil fraudsters with new ??1 coin,Britain hopes to foil fraudsters with new 1 coin
+4727,0.7157894736842105,original_found,Va.'s jobless rate falls to 5 pct in January,Va.'s Jobless Rate Falls To 4.9 Percent in February
+4732,0.8712871287128713,original_found,US navy hands rogue oil tanker back to Libyan authorities,US navy hands rogue oil tanker back to Libya
+4735,0.8372093023255814,original_found,Mt. Gox exchange says it found 200000 missing bitcoins,Mt. Gox exchange says it found 200,000 missing bitcoins - Los Angeles Times
+4736,0.96875,original_found,Rockwell Automation Named One of World's Most Ethical Companies,Rockwell Automation Named One of ＆World＊s Most Ethical Companies＊
+4742,0.9836065573770492,original_found,Airbnb's $10 billion value a sign of sharing-economy momentum,Airbnb＊s $10 billion value a sign of sharing-economy momentum
+4747,0.9047619047619048,original_found,German investor confidence slips on Ukraine crisis, but economic upturn not  ...,German investor confidence slips on Ukraine crisis, but economic upturn not seen at risk
+4748,0.7207207207207207,original_found,German ZEW economic sentiment tumbles to 46.6 in March,German ZEW Economic Sentiment Index Deteriorates in March
+4750,1.0,original_found,Symantec Fires CEO In Surprise Move,Symantec Fires CEO In Surprise Move
+4757,0.6071428571428571,original_found,Nearly all major US banks pass annual Federal Reserve 'stress tests',Nearly All U.S. Banks Pass Fed＊s Stress Test
+4766,0.8059701492537313,original_found,Ahead of the Bell: GameStop,Ahead of the Bell: GameStop shares slump
+4767,1.0,original_found,New satellite image boosts Malaysia plane search hopes,New satellite image boosts Malaysia plane search hopes
+4771,0.6666666666666666,original_found,Health care stocks drag indexes down,5 Health Care Stocks Dragging The Sector Down
+4776,1.0,original_found,WellPoint says new hepatitis c drug prices are too high,WellPoint says new hepatitis c drug prices are too high
+4786,0.8282828282828283,original_found,Credit Suisse Settles Mortgage Litigation,Credit Suisse Settles Mortgage Litigation for $885 Million
+4787,0.9217391304347826,original_found,Objects in satellite pics could be from missing Malaysia plane,Objects in satellite pics could be from missing plane
+4790,0.9333333333333333,original_found,Wal-Mart's new tool gives competitor's pricing,Wal-Mart's new tool gives competitors prices
+4794,0.75,original_found,Oracle's Neutral Rating Reaffirmed at Credit Suisse (ORCL),Oracle＊s (ORCL) ※Buy§ Rating Reaffirmed at Credit Suisse Group
+4796,0.8666666666666667,original_found,UK hopes to foil fraudsters with new coin,Britain hopes to foil fraudsters with new 1 coin
+4803,0.6379310344827587,original_found,Watch out GameStop: Walmart launching game trade-ins in US,Watch out, GameStop: Walmart gets into used-games business
+4805,0.6185567010309279,original_found,New Jersey Herald - Mt. Gox finds 200000 of its missing bitcoins,MtGox finds 200,000 lost bitcoins
+4808,0.9696969696969697,original_found,Britain hopes to foil fraudsters with new ??1 coin,Britain hopes to foil fraudsters with new 1 coin
+4812,0.7313432835820896,original_found,Nearly all major US banks pass annual Fed 'stress tests;' Zions Bancorp falls short,Nearly all major U.S. banks pass Fed 'stress tests'
+4814,1.0,original_found,eBay's Donahoe Beats Amazon in CEO Ratings,eBay's Donahoe Beats Amazon in CEO Ratings
+4820,0.8837209302325582,original_found,Fla. unemployment rate drops to 6.1 percent,Fla. Unemployment Rate Drops To 6.1 Percent
+4821,0.7605633802816901,original_found,Toyota, US may reach settlement,US, Toyota may reach settlement in probe
+4822,1.0,original_found,Russian sanctions ripple through corporate boardrooms,Russian sanctions ripple through corporate boardrooms
+4834,1.0,original_found,EM Morning Roundup: Russia, China Gain On Crimea, Urbanization,EM Morning Roundup: Russia, China Gain On Crimea, Urbanization
+4847,0.8282828282828283,original_found,Credit Suisse Settles Mortgage Litigation,Credit Suisse Settles Mortgage Litigation for $885 Million
+4848,0.8131868131868132,original_found,NC January Unemployment Rate Falls To 6.7%,NC January unemployment rate falls to 6.7 percent
+4851,0.6896551724137931,original_found,EUR/USD - Stable As German, Eurozone Economic Sentiment Slide,EUR/USD - Euro dips as German economic sentiment slides
+4853,1.0,original_found,EM Morning Roundup: Russia, China Gain On Crimea, Urbanization,EM Morning Roundup: Russia, China Gain On Crimea, Urbanization
+4857,0.6390532544378699,original_found,Colorado Governor signs legislation to protect children from recreational marijuana,Colorado governor signs law to let school nurses treat students with medical marijuana
+4859,0.6428571428571429,original_found,Pueblo County starts year with unemployment under 10 percent,Pueblo County unemployment rate back above 5 percent
+4867,0.9830508474576272,original_found,Airbnb prepares for check-in at Silicon Valley's $10bn club,Airbnb prepares for check-in at Silicon Valley＊s $10bn club
+4878,0.85,original_found,Strong showing: Nearly all major U.S. banks pass Fed's 'stress tests',Nearly all major U.S. banks pass Fed 'stress tests'
+4879,0.8571428571428571,original_found,Walmart Goes into the Used Video Game Business,Walmart Entering the Used Video Game Business
+4883,0.85,original_found,Valley farms may get some drought relief,Valley Farms May Get Some Drought Relief
+4885,0.7027027027027027,original_found,Wal-Mart opens first convenience store format,Walmart opens first ＆To Go＊ convenience store concept 每 RetailWire
+4891,1.0,original_found,Grain mostly higher, livestock mostly lower,Grain mostly higher, livestock mostly lower
+4892,1.0,original_found,Russian sanctions ripple through corporate boardrooms,Russian sanctions ripple through corporate boardrooms
+4894,0.711864406779661,original_found,Symantec fires CEO, shares plunge,Symantec fires CEO Bennett
+4895,0.9130434782608695,original_found,Sanctions-hit Bank Rossiya says Visa, MasterCard stop providing services,Sanctions-hit Bank Rossiya says Visa, MasterCard stop providing...
+4900,1.0,original_found,Sanctions-hit SMP says Visa, MasterCard stop providing services,Sanctions-hit SMP says Visa, MasterCard stop providing services
+4901,0.625,original_found,Symantec in Search of a New Chief After Firing CEO Steve Bennett,Symantec Fires CEO Steve Bennett
+4902,0.8,original_found,Symantec Dismisses CEO Bennett - Analyst Blog,Symantec Dismisses CEO Bennett
+4903,0.7207207207207207,original_found,German ZEW economic sentiment tumbles to 46.6 in March,German ZEW Economic Sentiment Index Deteriorates in March
+4905,1.0,original_found,Indiana unemployment rate drops to 6.4 percent,Indiana unemployment rate drops to 6.4 percent
+4906,0.6764705882352942,original_found,Toyota, US nearing $1B unintended acceleration settlement: report,Toyota nearing $1B settlement of unintended acceleration criminal probe
+4908,0.7027027027027027,original_found,Wal-Mart opens first convenience store format,Walmart opens first ＆To Go＊ convenience store concept 每 RetailWire
+4910,0.6216216216216216,original_found,Florida loses 2600 jobs in January, but unemployment rate falls to 6.1 percent,Florida sees jobs losses, but unemployment rate improvement in January
+4913,0.7378640776699029,original_found,Asian shares down after Fed hints at rate hike,Asian stocks wobble after Fed hints at December rate hike
+4915,0.8791208791208791,original_found,Va.'s jobless rate falls to 5 pct in January,Va.'s jobless rate falls to 4.9 pct in February
+4917,0.8757396449704142,original_found,Here are the new names on the list of those being sanctioned over Russia's  ...,Here are the new names on the list of those being sanctioned over Russia＊s moves in Crimea
+4918,1.0,original_found,Grain mostly higher, livestock mostly lower,Grain mostly higher, livestock mostly lower
+4926,1.0,original_found,Bitcoin exchange Mt. Gox finds $119 million in missing bitcoins,Bitcoin exchange Mt. Gox finds $119 million in missing bitcoins
+4928,0.9512195121951219,original_found,Unemployment Rate Rises in Corridor, Iowa,Unemployment rate rises in Corridor, Iowa
+4929,0.6491228070175439,original_found,Colorado unemployment rate down in January,Colorado＊s unemployment rate in January remained below the national rate
+4954,0.6862745098039216,original_found,Slight increase in state's January unemployment rate,Delaware sees slight increase in unemployment rate
+4956,0.907563025210084,original_found,Fired Symantec CEO may get $18.5 million in severance payment,Ousted Symantec CEO may get $18.5 mln in severance payment
+4962,0.6862745098039216,original_found,Slight increase in state's January unemployment rate,Delaware sees slight increase in unemployment rate
+4964,0.7333333333333333,original_found,Airbnb valued at $US10bn in funding talks,Airbnb valued at $31 billion in new funding round
+4969,0.64,original_found,Wal-Mart Games,Board Games
+4971,1.0,original_found,WellPoint says new hepatitis c drug prices are too high,WellPoint says new hepatitis c drug prices are too high
+4974,1.0,original_found,Fed finds 29 banks can outlast severe crisis,Fed finds 29 banks can outlast severe crisis
+4976,0.676056338028169,original_found,Symantec Dismisses CEO Bennett - Analyst Blog,Symantec fires CEO Bennett
+4979,1.0,original_found,US navy hands rogue oil tanker back to Libya,US navy hands rogue oil tanker back to Libya
+4989,0.6071428571428571,original_found,Nearly all major US banks pass annual Federal Reserve 'stress tests',Nearly All U.S. Banks Pass Fed＊s Stress Test
+4996,0.7157894736842105,original_found,Va.'s jobless rate falls to 5 pct in January,Va.'s Jobless Rate Falls To 4.9 Percent in February
+5001,1.0,original_found,WellPoint says new hepatitis c drug prices are too high,WellPoint says new hepatitis c drug prices are too high
+5002,1.0,original_found,Yuan at weakest in more than a year as sell-off accelerates,Yuan at weakest in more than a year as sell-off accelerates
+5010,1.0,original_found,Indiana unemployment rate drops to 6.4 percent,Indiana unemployment rate drops to 6.4 percent
+5013,0.6095238095238096,original_found,IRS watchdog says phone scam has targeted more than 20000 people,IRS Watchdog Says Phone Scam Largest Ever
+5014,1.0,original_found,German ZEW economic sentiment tumbles to 46.6 in March,German ZEW economic sentiment tumbles to 46.6 in March
+5018,0.7032967032967034,original_found,Wal-Mart stores to take video game trade-ins,Wal-Mart expands video game trade-ins to stores
+5024,0.6808510638297872,original_found,200000 missing Bitcoins found in wallet,Mt. Gox finds 200,000 missing bitcoins in unused wallet
+5031,1.0,original_found,Fed finds 29 banks can outlast severe crisis,Fed finds 29 banks can outlast severe crisis
+5033,0.7786259541984732,original_found,Toyota reaches $1-billion US settlement over unintended acceleration: reports,Toyota in settlement over unintended acceleration: CNN
+5035,0.616822429906542,original_found,Big international search continues for missing plane,Search continues for two people and their missing plane
+5038,0.6095238095238096,original_found,IRS watchdog says phone scam has targeted more than 20000 people,IRS Watchdog Says Phone Scam Largest Ever
+5039,0.8666666666666667,original_found,UK hopes to foil fraudsters with new coin,Britain hopes to foil fraudsters with new 1 coin
+5040,1.0,original_found,Walmart Doubles Down On Video Gaming,Walmart Doubles Down On Video Gaming
+5044,0.8059701492537313,original_found,Ahead of the Bell: GameStop,Ahead of the Bell: GameStop shares slump
+5049,0.625,original_found,Symantec in Search of a New Chief After Firing CEO Steve Bennett,Symantec Fires CEO Steve Bennett
+5052,0.7207207207207207,original_found,CO Governor signs two marijuana saftey bills into law,Hickenlooper signs marijuana edibles safety bills into law
+5053,0.6813186813186813,original_found,Walmart launches video game trade-in program,Wal-Mart expands video game trade-ins to stores
+5055,0.7333333333333333,original_found,Airbnb valued at $US10bn in funding talks,Airbnb valued at $31 billion in new funding round
+5056,0.6666666666666666,original_found,New report says Florida's January unemployment rate dipped to 6.1 percent  ...,Florida＊s unemployment rate drops to 3.8 percent
+5058,0.9836065573770492,original_found,Abundant water in California's Imperial Valley belies drought,Abundant water in California＊s Imperial Valley belies drought
+5064,1.0,original_found,UPDATE 1-Ukraine crisis worries hammer German investor morale,UPDATE 1-Ukraine crisis worries hammer German investor morale
+5071,1.0,original_found,World shares slip ahead of Fed, investors eye Russia-Ukraine,World shares slip ahead of Fed, investors eye Russia-Ukraine
+5073,0.7786259541984732,original_found,Toyota reaches $1-billion US settlement over unintended acceleration: reports,Toyota in settlement over unintended acceleration: CNN
+5080,0.7272727272727273,original_found,Wal-Mart taking on GameStop in used games,Wal-Mart to challenge GameStop in used video game business
+5083,0.821917808219178,original_found,Mt. Gox finds 200K missing bitcoins,Mt. Gox Finds 200,000 Missing Bitcoins
+5084,0.6129032258064516,original_found,BMW expands US, Chinese output, plans to sell 2-million vehicles in 2014,BMW Group sells more than 2 million vehicles in 2014
+5086,0.8613138686131386,original_found,Comcast's Arbogast: TWC Deal Reflects Reality That Regional,Comcast's Arbogast: TWC Deal Reflects Reality That Regional Model Is Untenable
+5090,0.9878048780487805,original_found,Banks pass stress test but they're not taking regulations seriously: Simon Johnson,Banks pass stress test but they＊re not taking regulations seriously: Simon Johnson
+5093,0.8059701492537313,original_found,Ahead of the Bell: GameStop,Ahead of the Bell: GameStop shares slump
+5098,0.6511627906976745,original_found,Walmart Goes into the Used Video Game Business,Why Is Walmart Selling Used Video Games?
+5103,1.0,original_found,This is What Twitter Users See in Turkey,This is What Twitter Users See in Turkey
+5105,1.0,original_found,Malaysia says French satellite images show possible debris from missing flight,Malaysia says French satellite images show possible debris from missing flight
+5111,0.6666666666666666,original_found,Health care stocks drag indexes down,5 Health Care Stocks Dragging The Sector Down
+5115,1.0,original_found,Malaysia says French satellite images show possible debris from missing flight,Malaysia says French satellite images show possible debris from missing flight
+5118,0.8613138686131386,original_found,Comcast's Arbogast: TWC Deal Reflects Reality That Regional,Comcast's Arbogast: TWC Deal Reflects Reality That Regional Model Is Untenable
+5124,1.0,original_found,Russian sanctions ripple through corporate boardrooms,Russian sanctions ripple through corporate boardrooms
+5129,0.9577464788732394,original_found,New ??1 coin designed to beat fakers,New 1 coin designed to beat fakers
+5143,0.8985507246376812,original_found,Symantec fires CEO Steve Bennett, names Michael Brown as interim replacement,Symantec fires CEO Bennett, names Brown as interim replacement
+5151,0.9836065573770492,original_found,Abundant water in California's Imperial Valley belies drought,Abundant water in California＊s Imperial Valley belies drought
+5152,0.7619047619047619,original_found,French data show possible plane debris,French data show possible debris from jetliner
+5155,0.821917808219178,original_found,Mt. Gox finds 200K missing bitcoins,Mt. Gox Finds 200,000 Missing Bitcoins
+5157,0.6666666666666666,original_found,Symantec Fires CEO Amid Transition,Symantec fires CEO Bennett
+5158,0.6185567010309279,original_found,New Jersey Herald - Mt. Gox finds 200000 of its missing bitcoins,MtGox finds 200,000 lost bitcoins
+5165,0.6896551724137931,original_found,EUR/USD - Stable As German, Eurozone Economic Sentiment Slide,EUR/USD - Euro dips as German economic sentiment slides
+5170,0.6990291262135923,original_found,Visa, MasterCard end ties with 2 Russian banks,Visa and MasterCard enforce US sanctions on Russian banks
+5176,1.0,original_found,U.S. lawmakers want Gilead to explain Sovaldi's hefty price,U.S. lawmakers want Gilead to explain Sovaldi's hefty price
+5185,0.780952380952381,original_found,Wisconsin's unemployment rate falls to 6.1%,Wisconsin's unemployment rate falls to lowest level ever: 2.9%
+5191,0.6470588235294118,original_found,EXTRA: US hands over illegal oil tanker to Libya,U.S. Navy hands over oil tanker Morning Glory to Libya
+5193,0.7560975609756098,original_found,SC jobless rate falls to 6.4% in January,Japan jobless rate falls to 2.4% in August
+5194,0.9454545454545454,original_found,FOREX-Yen slides as modest Russia sanctions soothe worries,Yen slides as modest Russia sanctions soothe worries
+5200,0.86,original_found,Russian Stocks Down As Banks Suffer Amid Sanctions,Russian stocks down as banks suffer amid sanctions
+5201,1.0,original_found,Mulberry chief Guillon quits two months after profit warning,Mulberry chief Guillon quits two months after profit warning
+5204,0.7333333333333333,original_found,Airbnb valued at $US10bn in funding talks,Airbnb valued at $31 billion in new funding round
+5210,0.7777777777777778,original_found,Iowa Unemployment Rate Ticks Up,Ohio's Unemployment Rate Ticks Up to 4.6%
+5213,1.0,original_found,Yuan at weakest in more than a year as sell-off accelerates,Yuan at weakest in more than a year as sell-off accelerates
+5214,0.9777777777777777,original_found,jet search area: Distant, dangerous, dazzling,Jet search area: Distant, dangerous, dazzling
+5217,0.8867924528301887,original_found,Wal-Mart to let shoppers exchange used videogames,Walmart to let shoppers exchange used video games in U.S.
+5224,0.8666666666666667,original_found,UK hopes to foil fraudsters with new coin,Britain hopes to foil fraudsters with new 1 coin
+5231,0.6666666666666666,original_found,Symantec Fires CEO Amid Transition,Symantec fires CEO Bennett
+5237,1.0,original_found,Malaysia says French satellite images show possible debris from missing flight,Malaysia says French satellite images show possible debris from missing flight
+5238,1.0,original_found,Symantec CEO ouster raises questions about turnaround,Symantec CEO ouster raises questions about turnaround
+5247,1.0,original_found,Vladimir Putin laughs at sanctions by asking for monthly salary transferred to bank,Vladimir Putin laughs at sanctions by asking for monthly salary transferred to bank
+5254,0.6,original_found,Objects spotted in ocean may be plane debris,122 objects spotted in search for MH370 debris
+5265,0.6379310344827587,original_found,Watch out GameStop: Walmart launching game trade-ins in US,Watch out, GameStop: Walmart gets into used-games business
+5266,0.8712871287128713,original_found,US navy hands rogue oil tanker back to Libyan authorities,US navy hands rogue oil tanker back to Libya
+5276,0.8636363636363636,original_found,Walmart launches video game trade-in program,Walmart Launches Video Game Trade-In Program
+5279,0.8757396449704142,original_found,Here are the new names on the list of those being sanctioned over Russia's  ...,Here are the new names on the list of those being sanctioned over Russia＊s moves in Crimea
+5286,0.6666666666666666,original_found,Unemployment rates,Unemployment - Wikipedia
+5288,0.6666666666666666,original_found,Unemployment rates,Unemployment - Wikipedia
+5293,0.75,original_found,Oracle's Neutral Rating Reaffirmed at Credit Suisse (ORCL),Oracle＊s (ORCL) ※Buy§ Rating Reaffirmed at Credit Suisse Group
+5295,1.0,original_found,Oracle Earnings Signal Tech-Spending Rebound,Oracle Earnings Signal Tech-Spending Rebound
+5298,1.0,original_found,Zions Bank fails to pass Federal stress test,Zions Bank fails to pass Federal stress test
+5303,0.8837209302325582,original_found,Fla. unemployment rate drops to 6.1 percent,Fla. Unemployment Rate Drops To 6.1 Percent
+5308,0.6229508196721312,original_found,SC unemployment down in January,SC Unemployment Rate Down 0.2%
+5316,0.875,original_found,BMW Targets Significant Profit Gain Lifted by New Models,BMW targets significant profit gain lifted by new models
+5317,0.9836065573770492,original_found,Airbnb's $10 billion value a sign of sharing-economy momentum,Airbnb＊s $10 billion value a sign of sharing-economy momentum
+5320,0.9333333333333333,original_found,Wal-Mart's new tool gives competitor's pricing,Wal-Mart's new tool gives competitors prices
+5323,0.9830508474576272,original_found,Airbnb prepares for check-in at Silicon Valley's $10bn club,Airbnb prepares for check-in at Silicon Valley＊s $10bn club
+5326,0.6896551724137931,original_found,BMW Targets Significant Profit Gain as New Models Lift Sales,BMW targets significant profit gain lifted by new models
+5331,0.7961165048543689,original_found,Symantec CEO firing raises doubts about turnaround,Symantec CEO ouster raises questions about turnaround
+5334,0.7961165048543689,original_found,Symantec CEO firing raises doubts about turnaround,Symantec CEO ouster raises questions about turnaround
+5335,0.8990825688073395,original_found,Indian Ocean search for missing jet enters third day,Video: Indian Ocean search for missing jet enters 3rd day
+5339,1.0,original_found,Declined: Visa, MasterCard Freeze Out Targeted Russian Banks,Declined: Visa, MasterCard Freeze Out Targeted Russian Banks
+5344,0.6095238095238096,original_found,IRS watchdog says phone scam has targeted more than 20000 people,IRS Watchdog Says Phone Scam Largest Ever
+5351,0.8333333333333334,original_found,Eyewitness News,Eyewitness News | EWN
+5360,0.6122448979591837,original_found,Russian stocks down as banks feeling Western sanctions,Russian Banks Feeling Pain Of U.S. Sanctions
+5365,0.9777777777777777,original_found,jet search area: Distant, dangerous, dazzling,Jet search area: Distant, dangerous, dazzling
+5367,0.8,original_found,Symantec Dismisses CEO Bennett - Analyst Blog,Symantec Dismisses CEO Bennett
+5368,0.64,original_found,Wal-Mart Games,Board Games
+5374,0.9047619047619048,original_found,Colorado unemployment rate down in January,Colorado Unemployment Rate Down In January
+5380,1.0,original_found,US appeals court upholds Fed's cap on 'swipe' fees,US appeals court upholds Fed's cap on 'swipe' fees
+5382,0.8131868131868132,original_found,NC January Unemployment Rate Falls To 6.7%,NC January unemployment rate falls to 6.7 percent
+5393,0.9777777777777777,original_found,jet search area: Distant, dangerous, dazzling,Jet search area: Distant, dangerous, dazzling
+5394,1.0,original_found,Symantec Fires CEO In Surprise Move,Symantec Fires CEO In Surprise Move
+5401,0.9777777777777777,original_found,Credit Suisse in $885M US lawsuit settlement,Credit Suisse in $885M U.S. lawsuit settlement
+5402,0.7433628318584071,original_found,Airbnb Said to Be Raising Funding at $10 Billion Valuation (1),Airbnb Takes New Funding At A $10 Billion Valuation
+5403,0.6326530612244898,original_found,Wal-Mart Stores, Inc. (WMT) are now buying used video games,Wal-Mart will buy your used video games
+5404,1.0,original_found,Bitcoin exchange Mt. Gox finds $119 million in missing bitcoins,Bitcoin exchange Mt. Gox finds $119 million in missing bitcoins
+5407,0.6086956521739131,original_found,New ??1 Coin To Combat Counterfeiting,New 1 coin to curb counterfeits
+5411,0.907563025210084,original_found,Fired Symantec CEO may get $18.5 million in severance payment,Ousted Symantec CEO may get $18.5 mln in severance payment
+5413,0.7272727272727273,original_found,Wal-Mart taking on GameStop in used games,Wal-Mart to challenge GameStop in used video game business
+5416,0.9836065573770492,original_found,Abundant water in California's Imperial Valley belies drought,Abundant water in California＊s Imperial Valley belies drought
+5417,0.9577464788732394,original_found,New ??1 coin designed to beat fakers,New 1 coin designed to beat fakers
+5418,0.9333333333333333,original_found,Wal-Mart's new tool gives competitor's pricing,Wal-Mart's new tool gives competitors prices
+5420,0.6,original_found,Toyota Said to Reach $1.2 Billion US Criminal Settlement (2),Toyota set to pay $1.2 billion to settle U.S. criminal probe
+5421,0.711864406779661,original_found,Symantec fires CEO, shares plunge,Symantec fires CEO Bennett
+5433,0.6808510638297872,original_found,200000 missing Bitcoins found in wallet,Mt. Gox finds 200,000 missing bitcoins in unused wallet
+5438,0.8571428571428571,original_found,State hosting congressional drought hearing,California hosting congressional drought hearing
+5453,0.6,original_found,Objects spotted in ocean may be plane debris,122 objects spotted in search for MH370 debris
+5457,0.821917808219178,original_found,Mt. Gox finds 200K missing bitcoins,Mt. Gox Finds 200,000 Missing Bitcoins
+5459,0.9473684210526315,original_found,New satellite image boosts Malaysia plane search hopes,New satellite image boosts Malaysia plane search hopes,Perth
+5460,0.875,original_found,BMW Targets Significant Profit Gain Lifted by New Models,BMW targets significant profit gain lifted by new models
+5462,1.0,original_found,Declined: Visa, MasterCard Freeze Out Targeted Russian Banks,Declined: Visa, MasterCard Freeze Out Targeted Russian Banks
+5465,0.6185567010309279,original_found,New Jersey Herald - Mt. Gox finds 200000 of its missing bitcoins,MtGox finds 200,000 lost bitcoins
+5468,0.6666666666666666,original_found,Unemployment rates,Unemployment - Wikipedia
+5471,0.8817204301075269,original_found,Alabama unemployment rate remains at 6.1 percent,Alabama Unemployment Rate Remains 6.1 Percent
+5477,0.8712871287128713,original_found,US navy hands rogue oil tanker back to Libyan authorities,US navy hands rogue oil tanker back to Libya
+5489,0.8333333333333334,original_found,Eyewitness News,Eyewitness News | EWN
+5493,0.7605633802816901,original_found,Toyota, US may reach settlement,US, Toyota may reach settlement in probe
+5501,0.75,original_found,Oracle's Neutral Rating Reaffirmed at Credit Suisse (ORCL),Oracle＊s (ORCL) ※Buy§ Rating Reaffirmed at Credit Suisse Group
+5505,0.8505747126436781,original_found,Russian shares fell sharply on Friday,Russian shares fell sharply on Friday | News Ghana
+5509,1.0,original_found,'Increasing hope' over search for missing flight MH370, says Australian PM,'Increasing hope' over search for missing flight MH370, says Australian PM
+5510,1.0,original_found,Oracle Earnings Signal Tech-Spending Rebound,Oracle Earnings Signal Tech-Spending Rebound
+5516,0.9047619047619048,original_found,German investor confidence slips on Ukraine crisis, but economic upturn not  ...,German investor confidence slips on Ukraine crisis, but economic upturn not seen at risk
+5517,0.8757396449704142,original_found,Here are the new names on the list of those being sanctioned over Russia's  ...,Here are the new names on the list of those being sanctioned over Russia＊s moves in Crimea
+5521,0.6216216216216216,original_found,Florida loses 2600 jobs in January, but unemployment rate falls to 6.1 percent,Florida sees jobs losses, but unemployment rate improvement in January
+5526,0.6666666666666666,original_found,Symantec Fires CEO Amid Transition,Symantec fires CEO Bennett
+5529,0.7289719626168224,original_found,Toyota recall: Settlement Over, set to pay $1 Billion in US Probe,Toyota Set to Pay $1 Billion in U.S. Probe
+5533,1.0,original_found,AP News in Brief at 5:58 p.m. EDT,AP News in Brief at 5:58 p.m. EDT
+5534,0.95,original_found,Airbnb Said to Be Raising Funding at $10 Billion Valuation (1),Airbnb Said to Be Raising Funding at $20 Billion Valuation
+5536,1.0,original_found,eBay's Donahoe Beats Amazon in CEO Ratings,eBay's Donahoe Beats Amazon in CEO Ratings
+5539,0.6990291262135923,original_found,Visa, MasterCard end ties with 2 Russian banks,Visa and MasterCard enforce US sanctions on Russian banks
+5567,0.9836065573770492,original_found,Airbnb's $10 billion value a sign of sharing-economy momentum,Airbnb＊s $10 billion value a sign of sharing-economy momentum
+5569,1.0,original_found,Walmart Doubles Down On Video Gaming,Walmart Doubles Down On Video Gaming
+5574,0.8282828282828283,original_found,State unemployment rate falls to 6.7 percent,Portugal unemployment rate falls to 6.7 percent in June
+5576,1.0,original_found,European Markets Mixed, Resolution Declines,European Markets Mixed, Resolution Declines
+5580,1.0,original_found,Dorothy Leland: UC Merced aims high with water,Dorothy Leland: UC Merced aims high with water
+5582,1.0,original_found,FOREX-Yen slides as Russia sanctions seen as modest,FOREX-Yen slides as Russia sanctions seen as modest
+5583,0.6373626373626373,original_found,January unemployment dropped in 43 states,Unemployment rates drop in 43 US states in January
+5587,0.9,original_found,Wal-Mart Entry Into Used Videogames Trade Threatens GameStop,Wal-Mart entry into used videogames trade threatens GameStop
+5588,1.0,original_found,Boeing Oversight of Dreamliner Contractors Faulted by FAA,Boeing Oversight of Dreamliner Contractors Faulted by FAA
+5598,0.7792207792207793,original_found,Symantec says it terminated CEO Steve Bennett,Symantec Fires CEO Steve Bennett
+5613,0.7619047619047619,original_found,French data show possible plane debris,French data show possible debris from jetliner
+5614,0.7027027027027027,original_found,Wal-Mart opens first convenience store format,Walmart opens first ＆To Go＊ convenience store concept 每 RetailWire
+5616,0.9047619047619048,original_found,German investor confidence slips on Ukraine crisis, but economic upturn not  ...,German investor confidence slips on Ukraine crisis, but economic upturn not seen at risk
+5619,0.9777777777777777,original_found,Credit Suisse in $885M US lawsuit settlement,Credit Suisse in $885M U.S. lawsuit settlement
+5620,0.6390532544378699,original_found,Colorado Governor signs legislation to protect children from recreational marijuana,Colorado governor signs law to let school nurses treat students with medical marijuana
+5623,0.6122448979591837,original_found,Russian stocks down as banks feeling Western sanctions,Russian Banks Feeling Pain Of U.S. Sanctions
+5625,1.0,original_found,US appeals court upholds Fed's cap on 'swipe' fees,US appeals court upholds Fed's cap on 'swipe' fees
+5628,0.780952380952381,original_found,Wisconsin's unemployment rate falls to 6.1%,Wisconsin's unemployment rate falls to lowest level ever: 2.9%
+5631,1.0,original_found,SC umemployment down again in January; Beaufort County's rate increases,SC umemployment down again in January; Beaufort County's rate increases
+5634,0.6323529411764706,original_found,Indianapolis Colts owner Jim Irsay was released Monday afternoon after his  ...,Colts owner Jim Irsay released from jail after DUI arrest
+5638,0.8131868131868132,original_found,NC January Unemployment Rate Falls To 6.7%,NC January unemployment rate falls to 6.7 percent
+5640,0.711864406779661,original_found,Symantec fires CEO, shares plunge,Symantec fires CEO Bennett
+5654,1.0,original_found,Dorothy Leland: UC Merced aims high with water,Dorothy Leland: UC Merced aims high with water
+5664,0.6808510638297872,original_found,200000 missing Bitcoins found in wallet,Mt. Gox finds 200,000 missing bitcoins in unused wallet
+5665,0.7967479674796748,original_found,Nearly all major US banks pass annual Federal Reserve 'stress tests',Nearly all major U.S. banks now pass Fed 'stress tests'
+5672,0.6666666666666666,original_found,BMO Harris, Suntrust Mortgage Interest Rates Mar 22,Current Mortgage Interest Rates | Mortgage
+5675,0.6122448979591837,original_found,Russian stocks down as banks feeling Western sanctions,Russian Banks Feeling Pain Of U.S. Sanctions
+5678,1.0,original_found,Mulberry chief Guillon quits two months after profit warning,Mulberry chief Guillon quits two months after profit warning
+5689,1.0,original_found,Sanctions-hit SMP says Visa, MasterCard stop providing services,Sanctions-hit SMP says Visa, MasterCard stop providing services
+5690,0.8505747126436781,original_found,Russian shares fell sharply on Friday,Russian shares fell sharply on Friday | News Ghana
+5692,0.6229508196721312,original_found,SC unemployment down in January,SC Unemployment Rate Down 0.2%
+5693,0.8282828282828283,original_found,State unemployment rate falls to 6.7 percent,Portugal unemployment rate falls to 6.7 percent in June
+5700,0.9696969696969697,original_found,Britain hopes to foil fraudsters with new ??1 coin,Britain hopes to foil fraudsters with new 1 coin
+5702,0.7207207207207207,original_found,CO Governor signs two marijuana saftey bills into law,Hickenlooper signs marijuana edibles safety bills into law
+5704,1.0,original_found,Walmart Doubles Down On Video Gaming,Walmart Doubles Down On Video Gaming
+5711,1.0,original_found,US appeals court upholds Fed's cap on 'swipe' fees,US appeals court upholds Fed's cap on 'swipe' fees
+5714,0.6,original_found,Toyota Said to Reach $1.2 Billion US Criminal Settlement (2),Toyota set to pay $1.2 billion to settle U.S. criminal probe
+5719,0.6229508196721312,original_found,SC unemployment down in January,SC Unemployment Rate Down 0.2%
+5720,0.6086956521739131,original_found,New ??1 Coin To Combat Counterfeiting,New 1 coin to curb counterfeits
+5724,0.9915966386554622,original_found,Mt. Gox has found 200000 bitcoins worth around $114 million,Mt. Gox has found 200,000 bitcoins worth around $114 million
+5725,0.8571428571428571,original_found,Walmart's New Tool Gives You Competitors' Prices,Walmart＊s New Online Tool Gives Competitors Prices
+5734,0.8571428571428571,original_found,Walmart's New Tool Gives You Competitors' Prices,Walmart＊s New Online Tool Gives Competitors Prices
+5736,0.64,original_found,Wal-Mart Games,Board Games
+5737,0.7272727272727273,original_found,Wal-Mart taking on GameStop in used games,Wal-Mart to challenge GameStop in used video game business
+5745,0.7289719626168224,original_found,Toyota recall: Settlement Over, set to pay $1 Billion in US Probe,Toyota Set to Pay $1 Billion in U.S. Probe
+5755,1.0,original_found,Possible plane debris spotted off Australia,Possible plane debris spotted off Australia
+5761,1.0,original_found,Dorothy Leland: UC Merced aims high with water,Dorothy Leland: UC Merced aims high with water
+5764,0.8666666666666667,original_found,New 'threepenny' ??1 coin to fight fraudsters revealed,Budget 2014: New 'threepenny' 1 coin to fight fraudsters revealed
+5768,0.9607843137254902,original_found,Indian Ocean search for missing jet enters third day,Indian Ocean search for missing jet enters 3rd day
+5772,1.0,original_found,NJ unemployment rate falls to 7.1 percent,NJ unemployment rate falls to 7.1 percent
+5773,1.0,original_found,Symantec CEO ouster raises questions about turnaround,Symantec CEO ouster raises questions about turnaround
+5774,0.6373626373626373,original_found,January unemployment dropped in 43 states,Unemployment rates drop in 43 US states in January
+5776,0.9217391304347826,original_found,Objects in satellite pics could be from missing Malaysia plane,Objects in satellite pics could be from missing plane
+5788,1.0,original_found,Walmart dips into trade-in market this month, selling used games in summer,Walmart dips into trade-in market this month, selling used games in summer
+5791,0.9130434782608695,original_found,Sanctions-hit Bank Rossiya says Visa, MasterCard stop providing services,Sanctions-hit Bank Rossiya says Visa, MasterCard stop providing...
+5796,1.0,original_found,Bitcoin exchange Mt. Gox finds $119 million in missing bitcoins,Bitcoin exchange Mt. Gox finds $119 million in missing bitcoins
+5797,0.616822429906542,original_found,Big international search continues for missing plane,Search continues for two people and their missing plane
+5799,1.0,original_found,eBay's Donahoe Beats Amazon in CEO Ratings,eBay's Donahoe Beats Amazon in CEO Ratings
+5807,0.7777777777777778,original_found,Iowa Unemployment Rate Ticks Up,Ohio's Unemployment Rate Ticks Up to 4.6%
+5808,1.0,original_found,Jobless rate falls to 6.4 percent in Indiana,Jobless rate falls to 6.4 percent in Indiana
+5816,0.9915966386554622,original_found,Mt. Gox has found 200000 bitcoins worth around $114 million,Mt. Gox has found 200,000 bitcoins worth around $114 million
+5817,0.8837209302325582,original_found,Fla. unemployment rate drops to 6.1 percent,Fla. Unemployment Rate Drops To 6.1 Percent
+5829,1.0,original_found,Vladimir Putin laughs at sanctions by asking for monthly salary transferred to bank,Vladimir Putin laughs at sanctions by asking for monthly salary transferred to bank
+5838,0.6470588235294118,original_found,EXTRA: US hands over illegal oil tanker to Libya,U.S. Navy hands over oil tanker Morning Glory to Libya
+5844,0.7433628318584071,original_found,Airbnb Said to Be Raising Funding at $10 Billion Valuation (1),Airbnb Takes New Funding At A $10 Billion Valuation
+5847,0.8292682926829268,original_found,NY AG: Fast stock trade advantages unfair,Fast stock trade advantages unfair: NY AG
+5851,0.8282828282828283,original_found,State unemployment rate falls to 6.7 percent,Portugal unemployment rate falls to 6.7 percent in June
+5854,0.6470588235294118,original_found,EXTRA: US hands over illegal oil tanker to Libya,U.S. Navy hands over oil tanker Morning Glory to Libya
+5856,1.0,original_found,U.S. lawmakers want Gilead to explain Sovaldi's hefty price,U.S. lawmakers want Gilead to explain Sovaldi's hefty price
+5857,0.7605633802816901,original_found,Toyota, US may reach settlement,US, Toyota may reach settlement in probe
+5860,0.7777777777777778,original_found,Iowa Unemployment Rate Ticks Up,Ohio's Unemployment Rate Ticks Up to 4.6%
+5861,0.7238095238095238,original_found,Court upholds Fed rules on debit-card swipe fees,Appeals court upholds Fed's debit card 'swipe fee' limits
+5864,0.7313432835820896,original_found,Nearly all major US banks pass annual Fed 'stress tests;' Zions Bancorp falls short,Nearly all major U.S. banks pass Fed 'stress tests'
+5866,1.0,original_found,Fed finds 29 banks can outlast severe crisis,Fed finds 29 banks can outlast severe crisis
+5896,1.0,original_found,European Markets Mixed, Resolution Declines,European Markets Mixed, Resolution Declines
+5897,0.7213114754098361,original_found,Wal-Mart's new tool gives competitors prices on 80000 food, household products,Wal-Mart's new tool gives competitors prices
+5901,0.6666666666666666,original_found,BMO Harris, Suntrust Mortgage Interest Rates Mar 22,Current Mortgage Interest Rates | Mortgage
+5902,0.6428571428571429,original_found,Pueblo County starts year with unemployment under 10 percent,Pueblo County unemployment rate back above 5 percent
+5903,0.7560975609756098,original_found,SC jobless rate falls to 6.4% in January,Japan jobless rate falls to 2.4% in August
+5913,0.8282828282828283,original_found,Credit Suisse Settles Mortgage Litigation,Credit Suisse Settles Mortgage Litigation for $885 Million
+5914,0.6373626373626373,original_found,January unemployment dropped in 43 states,Unemployment rates drop in 43 US states in January
+5916,0.8571428571428571,original_found,State hosting congressional drought hearing,California hosting congressional drought hearing
+5918,1.0,original_found,Symantec Fires CEO In Surprise Move,Symantec Fires CEO In Surprise Move
+5919,0.6379310344827587,original_found,Watch out GameStop: Walmart launching game trade-ins in US,Watch out, GameStop: Walmart gets into used-games business
+5924,1.0,original_found,Mulberry chief Guillon quits two months after profit warning,Mulberry chief Guillon quits two months after profit warning
+5928,0.6326530612244898,original_found,Wal-Mart Stores, Inc. (WMT) are now buying used video games,Wal-Mart will buy your used video games
+5934,1.0,original_found,US navy hands rogue oil tanker back to Libya,US navy hands rogue oil tanker back to Libya
+5942,0.8493150684931506,original_found,MH370: New images of 'possible debris',New images of 'possible jet debris'
+5946,1.0,original_found,Sanctions-hit SMP says Visa, MasterCard stop providing services,Sanctions-hit SMP says Visa, MasterCard stop providing services
+5953,0.780952380952381,original_found,Wisconsin's unemployment rate falls to 6.1%,Wisconsin's unemployment rate falls to lowest level ever: 2.9%
+5958,1.0,original_found,Declined: Visa, MasterCard Freeze Out Targeted Russian Banks,Declined: Visa, MasterCard Freeze Out Targeted Russian Banks
+5959,0.8817204301075269,original_found,Alabama unemployment rate remains at 6.1 percent,Alabama Unemployment Rate Remains 6.1 Percent
+5961,0.782608695652174,original_found,Walmart's New Tool Gives You Competitors' Prices,Wal-Mart's new tool gives competitors prices
+5962,0.6428571428571429,original_found,Pueblo County starts year with unemployment under 10 percent,Pueblo County unemployment rate back above 5 percent
+5963,0.7313432835820896,original_found,Nearly all major US banks pass annual Fed 'stress tests;' Zions Bancorp falls short,Nearly all major U.S. banks pass Fed 'stress tests'
+5964,1.0,original_found,Zions Bank fails to pass Federal stress test,Zions Bank fails to pass Federal stress test
+5966,1.0,original_found,Possible plane debris spotted off Australia,Possible plane debris spotted off Australia
+5968,0.8571428571428571,original_found,State hosting congressional drought hearing,California hosting congressional drought hearing
+5970,0.9,original_found,Wal-Mart Entry Into Used Videogames Trade Threatens GameStop,Wal-Mart entry into used videogames trade threatens GameStop
+5971,1.0,original_found,FOREX-Yen slides as Russia sanctions seen as modest,FOREX-Yen slides as Russia sanctions seen as modest
+5973,1.0,original_found,Possible plane debris spotted off Australia,Possible plane debris spotted off Australia
+5975,0.85,original_found,Strong showing: Nearly all major U.S. banks pass Fed's 'stress tests',Nearly all major U.S. banks pass Fed 'stress tests'
+5976,0.6666666666666666,original_found,BMO Harris, Suntrust Mortgage Interest Rates Mar 22,Current Mortgage Interest Rates | Mortgage
+5989,0.7619047619047619,original_found,French data show possible plane debris,French data show possible debris from jetliner
+5993,0.6323529411764706,original_found,Indianapolis Colts owner Jim Irsay was released Monday afternoon after his  ...,Colts owner Jim Irsay released from jail after DUI arrest
+6002,0.9915966386554622,original_found,Mt. Gox has found 200000 bitcoins worth around $114 million,Mt. Gox has found 200,000 bitcoins worth around $114 million
+6006,0.6216216216216216,original_found,Florida loses 2600 jobs in January, but unemployment rate falls to 6.1 percent,Florida sees jobs losses, but unemployment rate improvement in January
+6009,1.0,original_found,Jobless rate falls to 6.4 percent in Indiana,Jobless rate falls to 6.4 percent in Indiana
+6012,1.0,original_found,AP News in Brief at 5:58 p.m. EDT,AP News in Brief at 5:58 p.m. EDT
+6017,0.6666666666666666,original_found,Kansas unemployment dropped slightly in January,Kansas unemployment rate drops to lowest in 18-years

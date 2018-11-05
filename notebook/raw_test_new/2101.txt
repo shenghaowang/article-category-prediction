@@ -1,0 +1,19 @@
+By Sneha Shankar - Mt. Gox found 200,000 forgotten bitcoins, a week after the online currency exchange filed for bankruptcy claiming that all its bitcoins had been stolen, the company said in a statement Thursday.
+
+Japan-based bitcoin exchange Mt. Gox said that the bitcoins were found in an old electronic wallet that the company had previously believed was empty and was last used in June 2011. Mt. Gox, which filed for bankruptcy on Feb. 28, stating that it had lost all of its 850,000 bitcoins, said that it moved the newly-found bitcoins into offline wallets due to ¡°security reasons.¡± The discovery of the bitcoins was made known to the courts, lawyers and other authorities, the company said.
+
+¡°Taking into account the existence of the 200,000 BTC (balance of bitcoins), the total number of bitcoins which have disappeared is therefore estimated to be approximately 650,000 BTC,¡± Mt. Gox said in the statement.
+
+When the company filed for bankruptcy, it had said that, due to a technical issue, its customers were able to make fraudulent withdrawals on the exchange. While Mt. Gox claimed it had fallen victim to a technical problem due to which one of the largest exchanges of the digital currency had to declare bankruptcy, others had speculated about the possibility of fraud on the exchange¡¯s part.
+
+On Thursday, a U.S. judge in Chicago, supervising a lawsuit against Mt. Gox, revised a previous order and allowed some of the exchange's bitcoin movements to be tracked.
+
+"Today in court we got relief ... specifically to track the 180,000 bitcoins, which we've been monitoring. Hours later, Mt. Gox claimed it "found" these bitcoins ... it appears Mt. Gox realized we were close and decided to acknowledge that it owned these 180,000-200,000 bitcoins," Steven L. Woodrow, a partner at law firm Edelson, told Reuters.
+
+Jonathan Waller, an investor who develops bitcoin-related projects said, according to Financial Times: ¡°It¡¯s good they¡¯ve found some of the Bitcoins but I think it was a badly run system which lost control of their Bitcoins."
+
+Earlier in March, the Japanese government had struggled to explain how the world¡¯s largest bitcoin exchange lost about nearly a billion units of the digital currency. A London-based firm, Selachii LLP, also filed a lawsuit against Mt. Gox CEO Mark Karpeles, raising further doubts about the exchange's claims of a hack.
+
+Last week, Karpeles¡¯ Reddit account and his personal blog were breached and the hackers claimed that they found some discrepancies in the number of bitcoins deposited compared to the number of bitcoins that Mt. Gox claimed was stolen.
+
+The hackers claimed that 951,116.21905382 bitcoins were deposited into Mt. Gox¡¯s accounts while the exchange reported that 750,000 bitcoins belonging to its clients and 100,000 bitcoins of its own had been lost in the hack.

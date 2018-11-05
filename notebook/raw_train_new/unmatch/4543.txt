@@ -1,0 +1,33 @@
+Gilead Sciences (NASDAQ:GILD) has been locked in a heated battle against AbbVie Inc. (NYSE:ABBV) for market share in hepatitis C treatment. And that battle, which has gone on for years, has taken a big toll on Gilead Sciences' pricing power and profits.
+
+This week, Gilead Sciences announced its latest strategy to avoid racing to $0 in the pricing of its hepatitis C products. Beginning next year, it's two top-selling hepatitis C drugs will go generic, years before they're set to lose patent protection.
+
+Gilead Sciences' hepatitis C research and development has been game-changing. Before the company launched its first hepatitis C drug, Sovaldi, in 2014, the disease required up to 48 weeks of treatment that produced as little as a 50% chance at a functional cure. Furthermore, prior treatment regimens included the side-effect-laden adjunct therapies Ribavirin and peg-interferon, making these regimens even more taxing on patients.
+
+Instead, Sovaldi ushered in an era of treatments that tossed aside the need for ribavirin and peg-interferon, reduced patient treatment duration to as little as eight weeks for some people, and delivered functional cure rates of nearly 100%.
+
+But the revolutionary treatments came at a steep cost. Gilead Sciences' first treatments launched with list prices of about $1,000 per pill. And it launched Epclusa, its most advanced hepatitis C therapy, in 2016 with a list price of nearly $75,000.
+
+Because hepatitis C can cause life-threatening liver failure, alternative treatment options were burdensome with low cure rates, and there are millions of people with hepatitis C, Gilead Sciences' drugs became instant megablockbusters. At their peak, they were selling at a nearly $20 billion annualized rate.
+
+It didn't take long for competitors to notice. Eager to capture their fair share of this market, AbbVie and Merck & Co. (NYSE:MRK) launched competitive solutions at slightly lower price points, forcing Gilead Sciences to lower its prices to maintain its market share.
+
+Merck eventually dropped out of the battle, but AbbVie remained. And last year, it launched Mavyret, its most competitive product yet. Mavyret matched Gilead Sciences' functional cure rates, reduced treatment to as little as eight weeks for most patients, and removed the need to test for genotypes to determine the best course of treatment. And it did all that at a lower cost than Gilead Sciences' most advanced drugs.
+
+Given the shifting landscape and price cutting, it's not hard to understand why Gilead Sciences' sales have fallen considerably. Since competition has heated up in the space, the company's hepatitis C sales have tumbled from their peak annualized pace to a quarterly pace of only $1 billion in the second quarter of 2018, down from $2.9 billion in Q2 2017.
+
+Unlike many products, drugs carry prices that are anything but transparent.
+
+Drugmakers create list prices for their drugs, and then negotiate rebates to payers via a competitive process that can cause some to pay more for the same medicine. In exchange for favorable placement on drug formularies that determine which drugs are reimbursed to customers at the lowest cost-sharing levels, drugmakers can offer even better rebates to the largest payers -- like insurers, government programs, and self-insured companies -- creating even bigger dislocations in the marketplace.
+
+Many payers -- including individuals who pay cash and government programs hamstrung by rules that prevent them from negotiating the lowest price possible from drugmakers -- don't benefit directly from this current pricing approach. Additionally, because price changes can hurt inventory and underwriting assumptions, contracts between payers and drug companies can create supply-chain barriers that keep prices higher than they otherwise might be.
+
+All this price complexity brings us to Gilead Sciences' latest decision on how to compete in hepatitis C.
+
+Beginning in January 2019, a new subsidiary, Asegua Therapeutics LLC, will sell generic versions of its hepatitis C drugs at a list price of $24,000 for the most common treatment course. These generics will get their own reimbursement code, thereby allowing companies to sell existing inventory at the prices originally intended, while also giving payers a lower-cost treatment alternative. Perhaps the biggest beneficiaries of this scheme will be managed Medicaid programs that don't currently reap benefits associated with rebates negotiated by their third-party administrators.
+
+Gilead Sciences' $24,000-per-year price tag is about what these drugs sell for on an after-rebate basis now, so this price shouldn't put too much downward pressure on Gilead Sciences' sales and profit in 2019. In fact, if this decision unleashes pent-up demand from payers, including Medicaid systems, then volume growth could provide a tailwind to the company's top line and bottom line next year.
+
+However, I wouldn't expect that AbbVie is going to roll over and cede back this market to Gilead Sciences -- especially since AbbVie's hepatitis C sales were $973 million in the second quarter. I suspect AbbVie is already working on its competitive response to Gilead Sciences' announcement, and investors will want to watch how this battle shakes out in terms of prescription volume over the coming quarters.
+
+Overall, this is an intriguing test case other drugmakers might embrace to maintain market share in highly competitive indications. But I don't expect it to do much for Gilead Sciences' financials beyond stabilizing its hepatitis C revenue so that other drugs can return it to top-line and bottom-line growth.

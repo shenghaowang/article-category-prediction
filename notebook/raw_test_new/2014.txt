@@ -1,0 +1,13 @@
+Embattled Japan-based bitcoin exchange Mt. Gox has released a new press release confirming that it found an old-format bitcoin wallet on 7th March containing 199,999.99 BTC ($113.9m at press time).
+
+Mt. Gox further confirmed it reported the finding to its bankruptcy counsels as required by its civil rehabilitation proceedings.
+
+The exchange revealed it now has a total amount of 202,000 BTC, a figure which includes the 200,000 BTC recently found, as well as an additional 2,000 BTC ($1.1m) in funds.
+
+The release, penned by CEO Mark Karpeles, indicated that the wallets were moved from online wallets to offline storage from 14th March to 15th March. Further, he confirmed that the courts were aware of this activity.
+
+The confirmation would suggest reports that Mt. Gox funds have been moving through the blockchain were valid, though the dates of the movement do not coincide.
+
+Mt. Gox indicated that with the finding, the amount of bitcoins it reported as lost or stolen needs to be revised, suggesting that this wallet, and the funds therein, were factored into the original estimate.
+
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies. CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.

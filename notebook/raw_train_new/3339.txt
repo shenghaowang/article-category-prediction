@@ -1,0 +1,52 @@
+A couple of weeks ago I took a swipe at Bank of England over a speech by its Governor Mark Carney that was unrealistic about the dangers of a bloated financial sector (Godzilla is good for you? March 3). Today I¡¯m doing the opposite: I¡¯m doffing my cap to the researchers at Threadneedle Street for a new paper ¡°Money creation in the modern economy,¡± which gives a truly realistic explanation of how money is created, why this really matters, and why virtually everything that economic textbooks say about money is wrong.
+
+The bank is going gangbusters to get its message across, with an introductory paper on what money is, and two short videos on what money is and money creation, both shot in its gold vault. It clearly wants economic textbooks to throw out the neat, plausible but wrong rubbish they currently teach about money, and connect with the real world instead.
+
+Economic textbooks teach students that money creation is a two-stage process. At the start, banks can¡¯t lend because of a rule called the ¡°Required Reserve Ratio¡± that specifies a ratio between their deposits and their reserves. If they¡¯re required to hold 10 cents in reserves to back every dollar in deposits, then if deposits are $10 trillion and reserves are $1 trillion, the banking sector can¡¯t lend any money to anyone.
+
+Stage one in the textbook money creation model is that the Fed (or the Bank of England) gives the banks additional reserves -- say $100 billion worth. Then in stage two, the banks lend this to their customers, who then deposit it right back into banks, who hang on to 10 per cent of it ($10 billion) and lend the remaining $90 billion out again. This process iterates until an additional $1 trillion of deposits are created, so that the reserve ratio is restored ($1.1 trillion in reserves, $11 trillion in deposits).
+
+That model goes by the name of ¡°Fractional Reserve Banking¡± (aka the ¡°Money Multiplier¡±), and depending on your political persuasion it¡¯s either outright fraud (If you¡¯re of an Austrian persuasion like my mate Mish Shedlock) or just the way things are if you¡¯re a mainstream economist like Paul Krugman. In the latter case, it lets conventional economists build models of the economy that completely ignore the existence of banks, and private debt, and in which the money supply is completely controlled by the Fed.
+
+In this new paper, the Bank of England states emphatically that ¡°Fractional Reserve Banking¡± is neither fraud, nor the way things are, but a myth -- and it rightly blames economic textbooks for perpetuating it. The paper doesn¡¯t beat about the bush when it comes to the divergence between reality and what economic textbooks spout. In fact, as the paper explains it:
+ Rather than banks receiving deposits when households save and then lending them out, bank lending creates deposits. (p. 1)
+ In normal times, the central bank does not fix the amount of money in circulation, nor is central bank money ¡®multiplied up¡¯ into more loans and deposits¡­ (p. 1)
+ Rather than banks lending out deposits that are placed with them, the act of lending creates deposits ¡ª the reverse of the sequence typically described in textbooks¡­ (p. 2)
+ While the money multiplier theory can be a useful way of introducing money and banking in economic textbooks, it is not an accurate description of how money is created in reality¡­ (p. 2)
+ As with the relationship between deposits and loans, the relationship between reserves and loans typically operates in the reverse way to that described in some economics textbooks. (p. 2)
+
+Now if I believed in the tooth fairy, I would hope this emphatic denunciation of the textbook model would cause macroeconomics lecturers to drastically revise their lectures for next week. But I¡¯m too long in the tooth to have such a delusion. They¡¯ll ignore it instead.
+
+Their dominant ¡°tactic¡± -- if I can call it that -- will be ignorance itself: most economics lecturers won¡¯t even know that the bank¡¯s paper exists, and they will continue to teach from whatever textbook bible they¡¯ve chosen to inflict upon their students. A secondary one will be to know of it, but ignore it, as they¡¯ve ignored countless critiques of mainstream economics before. The third arrow in the quill, if they are challenged by students about it (hint hint!), will be to argue that the textbook story is a ¡°useful parable¡± for beginning students, and a more realistic vision is introduced in more advanced courses.
+
+Here the Bank of England has unfortunately given them a useful ¡°out¡±, by politely pretending that the money multiplier model ¡°can be a useful way of introducing money and banking¡±. But of course this feint will be pure malarkey. Firstly, the model is utterly misleading -- it¡¯s about as useful an introduction to the nature of money and banking as the Book of Genesis is an introduction to the theory of evolution. Once people believe the money multiplier model, they can rarely get their heads around the reality that bank lending creates money, and that this has drastic effects on the level of economic activity.
+
+Secondly, the undergraduate lecturer¡¯s ¡°it gets better higher up¡± line is a ruse. Masters and PhD level courses continue to ignore banks, and though mainstream modellers are introducing all sorts of ¡°financial frictions¡± into their DSGE models (as Noah Smith pointed out recently), none of them -- with the sterling exception of Michael Kumhof of the IMF -- are actually incorporating banks and their capacity to both create and destroy money into their models.
+
+Why? Because if you admit the reality that banks create money by lending, and that money is destroyed by debt repayment (a point I have to admit that I took some time to appreciate), all the simple equilibrium parables of conventional economics fly out the window. In particular, the level of economic activity now depends on the lending decisions of banks (and the repayment decisions of borrowers). If banks lend more rapidly, or if borrowers repay more slowly, there will be a boom; if the reverse, there will be a slump. As the Bank of England puts it, if new loans simply make up for old ones being repaid, then there is no effect, but if new loans exceed repayment then aggregate demand will increase.
+
+¡°There are two main possibilities for what could happen to newly created deposits,¡± the bank says. ¡°First, as suggested by Tobin, the money may quickly be destroyed if the households or companies receiving the money after the loan is spent wish to use it to repay their own outstanding bank loans¡­
+
+¡°The second possible outcome is that the extra money creation by banks can lead to more spending in the economy (p. 7).¡±
+
+So from a realistic, hands-on perspective, the Bank of England declares that money matters in macroeconomics because it affects the level of economic activity. This really shouldn¡¯t be a big deal -- it¡¯s what most people actually believe anyway -- but incredibly, mainstream economics pretends that money only affects prices, that it has no impact (or only temporary one) on real activity, and that monetary disturbances are all the fault of the government (read central bank) anyway, because a quintessential market institution like a bank couldn¡¯t do anything wrong, could it?
+
+Leading economists can¡¯t just ignore this paper, or blithely dismiss it as the foot-soldiers of the profession will do. But I seriously doubt that they will let it challenge their current position.
+
+I will in particular be curious to see whether Paul Krugman notes this paper, and how he reacts to it. Krugman has been the most visible and aggressive defender of the proposition that banks don¡¯t matter, with this including throwing a haymaker at me for making the case that the Bank of England is now making.
+
+¡°In particular, he [Keen] asserts that putting banks in the story is essential,¡± Krugman wrote in 2012. ¡°Now, I'm all for including the banking sector in stories where it's relevant; but why is it so crucial to a story about debt and leverage?
+
+¡°Keen says that it's because once you include banks, lending increases the money supply. OK, but why does that matter? He seems to assume that aggregate demand can't increase unless the money supply rises, but that's only true if the velocity of money is fixed; so have we suddenly become strict monetarists while I wasn't looking? In the kind of model Gauti and I use, lending very much can and does increase aggregate demand, so what is the problem?¡±
+
+Since then Krugman has continued to press the belief that banks are ¡°mere intermediaries¡± in lending, that they can be ignored in macroeconomics.
+
+¡°Yes, commercial banks, unlike other financial intermediaries, can make a loan simply by crediting the borrower with new deposits, but there¡¯s no guarantee that the funds stay there,¡± he said in the article Commercial Banks As Creators of ¡°Money¡±.
+
+And in the same piece he wrote: ¡°Banks are just another kind of financial intermediary, and the size of the banking sector ¡ª and hence the quantity of outside money ¡ª is determined by the same kinds of considerations that determine the size of, say, the mutual fund industry.¡±
+
+Now that he has been directly contradicted on these points, not by some Antipodean heterodox economist, but by Threadneedle Street itself, I expect Krugman¡¯s riposte will be the KISS principle: that while the ¡°loans create deposits¡± argument is technically true, it doesn¡¯t make any real difference to macroeconomics.
+
+After all, Krugman certainly can¡¯t just dismiss the Bank of England as being staffed by ¡°Banking Mystics¡±, as he has brushed off the contrary views of others.
+
+Steve Keen is author of Debunking Economics and the blog Debtwatch and developer of the Minsky software program.

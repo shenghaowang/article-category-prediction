@@ -1,0 +1,13 @@
+Read about the Fly America Act, federal regulation that requires the use of U.S. carriers for travel that will be reimbursed from federal grants and contracts, including federal-flow-through contracts and grants.
+
+Before making arrangements for air travel for UC San Diego business, find out about the funding type and, if applicable, ensure the booking is in accordance with the Act. If you feel an exception applies, consult with your business office as certification may be required. Compliance with the Fly America Act is the responsibility of each department.
+
+Exceptions to the Fly America Act: Travel that is to be reimbursed from federal grants and contracts must be booked through U.S. carriers except in the following circumstances:
+
+How to check if a city pair fare exists: Review the fare finder. If no city pair exists the fare finder response reads ¡°Awards not found for the given criteria.¡±
+
+Note: When one or more of the above circumstances apply, an explanation indicating the appropriate exception must be provided on the MyTravel request.
+
+Code-sharing agreements with foreign air carriers comply with the Fly America Act Regulations. The ticket, or documentation for an electronic ticket, must identify the U.S. carrier's designator code and flight number generally stated as ¡°U.S. Air Carrier flight XXXX operated by Foreign Air Carrier.¡± For example:
+
+Note: Some funding sources may not recognize code-sharing as being compliant with Fly America Act regulations. When fund source policy is more restrictive than UC San Diego travel policy, the more restrictive policy applies.

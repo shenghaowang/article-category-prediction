@@ -1,0 +1,65 @@
+Washington: The battery fire that led to the grounding of ¡¯s 787 Dreamliner jets for more than three months last year was caused by inadequate design and testing, investigators concluded.
+
+Boeing had certified that overheating in one cell of the lithium-ion battery couldn¡¯t spread to others and the Federal Aviation Administration (FAA) approved the design and testing. The National Transportation Safety Board faulted both in a final report for not anticipating how the power packs might fail, and cited battery maker GS Yuasa Corp. for poor manufacturing.
+
+The findings bring to a close the probe into events that triggered the longest grounding of a large commercial aircraft by US regulators since jets were introduced in the 1950s. It also prompted a re-examination of the dangers of lithium-ion power packs that have helped drive advances in personal electronic devices and electric cars.
+
+¡°That¡¯s the new technology that requires time for the industry to get on board to manage safety appropriately,¡± said Dan Doughty, a battery testing consultant in Albuquerque, New Mexico.
+
+Japanese battery maker GS Yuasa said it will decide on how to respond after examining the report, spokesman Hiroharu Nakano said by phone on Tuesday. Shares in the company fell 2.3% to 556 yen as of 9:54am in Tokyo, boosting this year¡¯s decline to 8.1%.
+
+The fire occurred on 7 January 2013, while a Japan Airlines Co. 787 Dreamliner sat at Boston¡¯s Logan International Airport. Boeing uses two lithium-ion batteries in the Dreamliner to power electronics and other equipment. A short circuit in one of the battery¡¯s eight cells triggered a runaway failure that engulfed the entire power pack, the NTSB said.
+
+¡°The investigation identified deficiencies in the design and certification processes that should have prevented an outcome like this,¡± NTSB acting chairman Christopher Hart said in an e-mailed statement. ¡°Fortunately, this incident occurred while the airplane was on the ground and with firefighters immediately available.¡±
+
+The incident resulted from Boeing¡¯s failure to understand how the batteries would fail and the inability of FAA inspectors to recognize those deficiencies, the NTSB concluded.
+
+The NTSB issued 16 new recommendations calling on the FAA to tighten its watch over new technology and improve guidance to its inspectors. It also asked Boeing to improve oversight of subcontractors and revise how it conducts safety assessments.
+
+The FAA, in an e-mailed statement, said it has already implemented many of NTSB¡¯s battery recommendations and will evaluate the latest ones. The Boston fire ¡°was a significant event that helped the FAA and the industry to better understand installed lithium-ion batteries in aircraft design and operations,¡± the agency said.
+
+Boeing agrees with the findings that a short circuit triggered the failure and spread to other cells, Doug Alder, a company spokesman, said in an e-mail.
+
+Boeing has already redesigned the battery to include more protection around the cells to contain overheating, a steel case to prevent any fire from spreading and a tube that vents fumes outside the fuselage.
+
+¡°We remain confident in the comprehensive improvements made to the 787 battery system following this event, and in the overall performance of the battery system and the safety of the airplane,¡± Alder said.
+
+Even with those measures, the NTSB said its testing found the large lithium-ion batteries were vulnerable to failure. Cells may overheat when large amounts of power are being drawn and better protections should be installed, the NTSB said.
+
+The battery tested for possible failure by GS Yuasa wasn¡¯t the same as the ones installed on the Dreamliner fleet and the tests didn¡¯t anticipate the most severe conditions seen in service, the investigation found.
+
+An inspection of GS Yuasa¡¯s manufacturing plant by the NTSB found evidence that foreign debris was allowed to contaminate batteries, ¡°which could lead to internal short circuiting.¡±
+
+GS Yuasa continues to believe ¡°in the quality and safety of our batteries, our state-of-the-art manufacturing processes and our highly skilled and trained employees,¡± Kenneth Quinn, a lawyer in Washington who represents the Kyoto, Japan-based company, said in an email.
+
+The NTSB¡¯s findings are part of the growing pains of the battery industry as it tries to improve quality and reduce risks from lithium-based products, Doughty said.
+
+Boeing¡¯s new 787 battery case are similar to how risks are controlled in other applications, said Doughty, who is helping the National Aeronautics and Space Administration (Nasa) develop safety measures for astronauts.
+
+Japanese investigators reached similar conclusions as the NTSB while probing another battery incident that occurred during a flight and forced an emergency landing at Takamatsu Airport on 16 January 2013. The Japan Transport Safety Board found in a 25 September report an internal short-circuit ¡°was probably¡± at fault though it was impossible to say what prompted it.
+
+The 2013 battery failures came as Boeing struggled to move past the design and production miscues that plagued development of the Dreamliner, the Chicago-based planemaker¡¯s first all-new jet of the century. The 787 entered the market three-and-a-half years behind schedule in 2011, slowed by issues ranging from an in-flight electrical fire to shortages of titanium fasteners.
+
+The negative publicity has died away this year as Boeing reached a steadier production tempo. Boeing had delivered 207 Dreamliners to 23 customers as 19 of November, its website shows.
+
+While supplier issues helped lead to Dreamliner delays and the battery design, Boeing has revamped how it does business, Howard Rubel, an analyst at Jefferies Llc, said in an interview.
+
+¡°The supply chain management at Boeing today is more rigorous than it¡¯s ever been,¡± Rubel said.
+
+The Dreamliner was the first commercial jetliner built with a carbon-fiber air frame instead of aluminum and uses more electricity than earlier models to produce efficiency gains. A division of France¡¯s Thales SA was contracted by Boeing to design the electrical system. Giaime Porcu, a spokesman for Thales, declined to comment in an interview.
+
+As part of that design, Boeing installed two lithium-ion batteries, which hold more energy and last longer than older technology. Those factors also make them potentially more dangerous because they are made with flammable chemicals and contain enough energy to self-ignite if they malfunction.
+
+They have been linked to other aviation incidents and accidents. A smaller lithium-ion battery used to power an emergency-locator beacon caught fire on a 787 on the ground in London on 12 July 2013.
+
+Boeing had estimated that the chances of a single cell on one of its 787 batteries failing and venting flammable chemicals was one in 10 million. When the second failure occurred in Japan, the aircraft had flown just 52,000 hours, according to the NTSB.
+
+This miscalculation was part of a cascading series of failures in the design and certification process, the safety board concluded.
+
+Boeing didn¡¯t even consider the potential for a single cell overheating and igniting adjoining cells, according to the report.
+
+The FAA didn¡¯t give its inspectors sufficient guidance on overseeing the battery design and the agency lacked expertise, according to the NTSB.
+
+The safety board has no regulatory authority and must rely on non-biding recommendations to improve safety.
+
+An FAA review of the Dreamliner¡¯s certification concluded the plane was safe and the agency had processes in place to identify and correct issues that emerged after its certification. Bloomberg

@@ -1,0 +1,13 @@
+With the mystery over what happened to Malaysia Airlines Flight MH370 still raising questions for the world＊s air crash investigators, one company are hoping that the power of crowds might be able to help solve the most basic of problems: where did the plane crash?
+
+With thousands of miles of ocean to scour, narrowing down where the wreckage is makes for a challenge 每 but according to ABC News, DigitalGlobe have a potential solution. They＊ve trained five satellite cameras on to the region and have split up the resulting high-resolution images into thousands of smaller ones. To sort through all of this data quickly, they want to enlist the general public to help.
+
+If you head over to the Tomnod website, you can start to sift through some of the images picked at random 每 marking any that look suspicious or as though they may contain debris. If thousands of people do this then the firm can then use an algorithm to figure out which images are provoking the most interest, and hand them over to the experts for them to check out.
+
+※We＊ll say, ＆Here are our top ten suspicious or interesting locations,'§ the ABC article quotes DigitalGlobe＊s Luke Barrington as saying. ※Is it really an aircraft wing that＊s been chopped in half or is this some other debris floating on the ocean? We may not be 100 percent sure, but if this is where I had to go pick a location to go looking for needles in this big haystack, this is where I＊d start.§
+
+This isn＊t the first time this sort of crowdsourcing has been used to tackle problems involving large volumes of data 每 the website Galaxy Zoo has long pioneered this technique for the somewhat happier task of identifying and classifying new galaxies from photos taken by space telescopes.
+
+In fact, DigitalGlobe have also tried this once before 每 when they partnered with Amazon to attempt to locate adventurer Steve Fossett, who went missing when flying over Nevada in 2007. Shortly after, many critics of the crowdsourcing dubbed it a waste of time.
+
+So will this latest effort help solve the Malaysia mystery? Obviously we hope so. Head over to

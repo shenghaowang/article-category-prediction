@@ -1,0 +1,19 @@
+CANBERRA, Australia, Dec. 1, 2015 /PRNewswire/ -- Lockheed Martin (NYSE: LMT) and Electro Optic Systems Pty Ltd (ASX: EOS) have broken ground on a new space object tracking facility in Australia that aims to provide commercial and government customers an unprecedented view of orbital space debris fields.
+
+It is estimated that there are hundreds of thousands of debris objects in orbit, ranging from spent rocket parts to pieces of defunct satellites. These objects pose a major threat to satellites in orbit that power everything from smartphones and weather prediction to national security and global financial markets. The new space object tracking site will give satellite operators a clearer picture of the debris that could damage their networks, and how they can avoid potential collisions.
+
+"The expansion of space debris tracking by EOS and Lockheed Martin is expected to make a significant contribution to the preservation of the space environment, by providing data which will enable cost-effective debris manoeuvre for satellites," said Mark Valerio, Lockheed Martin vice president and general manager of Military Space. "The accuracy of our optical sensor network, combined with an ability to reschedule tracking operations according to commercial priorities, will provide a trusted source of critical space data to commercial and government operators."
+
+The network developed by EOS and Lockheed Martin, called Optical Space Services (OSSTM), was formed in August 2014. Electro optical systems like OSSTM serve as a complement to radar-based systems like the U.S. Air Force's Space Fence, which will sweep the sky tracking 200,000 objects.
+
+"The strategic collaboration with Lockheed Martin has allowed a critical mass of sensors, data and services to be assembled, enabling OSSTM to deliver the suite of asset protection services requested by customers," said Dr. Ben Greene, EOS Chief Executive Officer. "This new tracking capacity will provide unique data which is exclusively available to EOS and Lockheed Martin, enabling each organisation to offer both data and services to meet global market needs. Based on current contracts and active negotiations, EOS expects to commence the delivery of data and services by late 2016."
+
+Sensors, lasers and optic systems will be fused together by software enabling OSSTM to hone-in on, characterise and track human-made objects orbiting the depths of space. That data will then be quickly and accurately delivered to customers allowing them to manoeuvre satellites and prevent collisions. The system can also predict the paths of debris, giving operators advance warning of potential collisions.
+
+About Lockheed Martin 
+
+Headquartered in Bethesda, Maryland, Lockheed Martin is a global security and aerospace company that ¨C with the addition of Sikorsky ¨C employs approximately 126,000 people worldwide and is principally engaged in the research, design, development, manufacture, integration and sustainment of advanced technology systems, products and services.
+
+About Electro Optic Systems 
+
+EOS is based in Canberra, Australia and employs 100 staff in two sectors: Space Systems and Defense Systems. The EOS Space Systems sector focuses on both commercial and defense requirements for space information. EOS specializes in obtaining space information based on the use of EOS-developed optical instruments and sensors to detect, track, classify and characterize objects in space. This information is required for both military and commercial space applications, and particularly for managing space assets to avoid collisions in space with space debris.

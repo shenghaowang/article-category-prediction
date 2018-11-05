@@ -1,0 +1,87 @@
+In a growing trend, traditional payment methods of dollar bills and checks are being replaced by digital currencies that can be used to pay for goods and services.
+
+One of the leaders in this budding technology is Bitcoin, a form of electronic money created in 2009. Its currency depends on a network of computers that deal with complicated mathematical problems to form and record the details of each bitcoin transaction, according to an article by Reuters, an international news website.
+
+Bitcoins are created by ¡°mining,¡± according to the Bitcoin Foundation. Bitcoin miners use specialized hardware to process transactions and secure the network, which then rewards the network with a certain number of new bitcoins and money collected from a transaction fee.
+
+James Dow, CSUN professor from the department of finance, said it is difficult to use bitcoins because the process is complicated.
+
+¡°Using bitcoins requires a certain number of computer expertises, while using regular money ¡ª anybody on the street can do that,¡± Dow said.
+
+Bitcoins are kept in a ¡°digital wallet,¡± a type of virtual bank account permitting people to send or receive bitcoins, purchase goods or save their money, all free from the government¡¯s control and central banks¡¯ intervention, according to a CNN Money article about the cryptocurrency.
+
+Bitcoin¡¯s value lies not in physical properties and central authorities, but people¡¯s confidence and their willing to accept them as payment, according to the Bitcoin Foundation.
+
+Several online retailers like Overstock.com and TigerDirect have already started accepting bitcoins, but its adoption is not common, according to the Reuters¡¯ article.
+
+Francesco Giartosio, CEO of GlassUp, smart eyeglass store that deals in bitcoins, said the main purpose of his company accepting bitcoins as an alternative payment is to test customers¡¯ reactions.
+
+¡°It is an experiment to see if it attracts interest from people who want to spend bitcoins,¡± Giartosio said.¡°I would say the experiment has failed because we have sold only one unit.¡±
+
+On Feb. 25, Mt. Gox, an industry leader in bitcoin exchange, where people can purchase or sell bitcoins under different currencies, shut down its site and closed all transactions, sparking off a host of prospective investors¡¯ anxiety and wavering their confidence in the digital currency, according to an article by the Los Angeles Times.
+
+Mt. Gox users might have lost more than $300 million worth of bitcoins, which was the latest and biggest failure in the virtual currency.
+
+Giartosio said the closure of a bitcoin exchange company was not an isolated incident, and it would happen again in all likelihood.
+
+¡°Fortunately, our account at Mt. Gox was empty,¡± Giartosio said. ¡°It would be wise for people to keep little money in bitcoins.¡±
+
+Dennis Halcoussis, CSUN professor of economics, said the incident at Mt. Gox had a great impact on bitcoin customers and investors.
+
+¡°Bitcoin has a problem now because people will not feel confident about its future,¡± Halcoussis said.
+
+Dow said the incident illustrates that the monetary system relies on a number of different institutions to build confidence and support it.
+
+¡°A new digital currency might not have those institutions to establish, which makes more speculative and risky,¡± Dow said.
+
+Marin Dajak, co-founder of www.btcgate.com, an online electronics store that accepts bitcoins, said he doesn¡¯t expect a large number of companies to suffer the same fate as Mt. Gox.
+
+¡°There is a large number of scammers and hackers out there praying on businesses and users, and while this is bad in the end, it will help strengthen the bitcoin economy,¡± Dajak said. ¡°I believe the incident of Mt. Gox is a good thing, and it will help bring forward a better, more transparent exchange like Bitstamp.¡±
+
+Dajak added that the main problem with Mt.Gox was poor customer support and lack of transparency and security.
+
+¡°While Mt.Gox was extremely important in the beginning phases of bitcoins, it simply did not keep up with its potential and grew too big and too fast,¡± Dajak said.
+
+Claudio Levrini, manager of Bitroad, a bitcoin exchange company selling electronics, said while bitcoin exchange companies take advantages of the digital currency, it is also their duty to make wise decisions an d take security measures.
+
+¡°Mt. Gox was on the brink of bankruptcy from November last year, and it was known in the community,¡± Levrini said. ¡°You are responsible to keep your money safe.¡±
+
+Dajak said the companies that take special precautions regarding security will survive and grow.
+
+Nancy Virts, professor of economics at CSUN, said there are no reasons for merchants to accept bitcoins because it is a very risky investment.
+
+¡°Money has no intrinsic values, not like gold and coins,¡± Virts said. ¡°Money is not useful unless people are willing to accept them in payment.¡±
+
+Virts pointed out that bitcoins are not accepted worldwide partly due to lack of the United States government¡¯s support.
+
+¡°The advantage of dollar bills is that the US government is willing to accept in payment for taxes, and as a result, businesses are willing to accept in payment not just in the US, but all around the world,¡± Virts said.
+
+Halcoussis said a currency¡¯s stability comes from the level of people¡¯s confidence rather than the government.
+
+¡°The dollar is relatively stable because people believe that the U.S. government is stable and the dollar will continue to have value for a long time,¡± Halcoussis said. ¡°A currency doesn¡¯t have to have a government backing it, but people have to believe it will continue to have value in the future.¡±
+
+Bitcoin transactions are instant, and its users do not need to have a bank account and disclose their own personal data to third party, Levrini said.
+
+Dajak said there are a variety of advantages of using bitcoins because they are decentralized.
+
+¡°We are firm believers in bitcoin, and we use it both personally and have decided to use it on our site exclusively to help make it the future of money,¡± Dajak said. ¡°An added benefit is bringing down processing costs and in turn, offering the lowest possible prices for our customers.¡±
+
+Dow said the biggest advantages of bitcoins are anonymity and the avoidance of government regulation, which would make it more useful for illegal transactions.
+
+Levrini said the future of bitcoin exchange companies will become more competitive.
+
+¡°Bitcoin companies are starting to evolve, and some will grow, while others will fall,¡± Levrini said. ¡°This process will hopefully create a competitive market and push many serious players to participate.¡±
+
+Levrini said many people are only concerned about bitcoin itself, while the true innovation is the ¡°blockchain¡± concept, which synchronizes transactions between the digital currency record transactions.
+
+The Bitcoin network depends on the ¡°blockchain,¡± an electronic ledger that keeps all confirmed transactions of a specific amount of currency from one person to another, according to a blog about bitcoins. Once these transactions spread on the bitcoin network, they will be synchronized and updated on every participant¡¯s computer.
+
+¡°We accept bitcoin because we believe that this technology will redefine ecommerce and retail payments,¡± Levrini said. ¡°The blockchain is an innovation that will change many aspect of the financial world forever, and the bitcoin is just the beginning.¡±
+
+Levrini added that failures are inevitable, but they will be the evolution of new technology.
+
+¡°Bitcoin is just the tip of the iceberg, and we will see many different applications coming from this technology,¡± he said. ¡°In years to come we will see how big the impact of this innovation will be and what road will the progress take.¡±
+
+Giartosio said the bitcoins will evolve into other forms of digital money in the future.
+
+¡°Some bigger projects will replace bitcoins if they do not make partnerships with other countries,¡± he said. ¡°Like Facebook has replaced MySpace, and Android is replacing iOS.¡±

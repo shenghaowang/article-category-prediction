@@ -1,0 +1,43 @@
+Oracle Corp posted higher third-quarter revenue and profit that failed to satisfy investors looking for signs of a sustained turnaround and its shares fell about 4 percent.
+
+Shareholders had grown more optimistic after Oracle¡¯s previous quarterly results, but still worried about slow IT spending and growing competition from smaller, nimble rivals.
+
+On Tuesday, the company also forecast current-quarter results roughly in line with investors¡¯ targets.
+
+Chief Financial Officer Safra Catz forecast fourth-quarter revenue growth of between 3 percent and 7 percent in constant dollars, equivalent to between $11.3 billion and $11.7 billion. Wall Street had expected $11.5 billion.
+
+She told analysts on a conference call that she expected current quarter earnings of 92 cents to 99 cents per share, versus analysts¡¯ consensus estimate of about 96 cents. New software and sales and subscriptions should grow between zero and 10 percent, she said.
+
+¡°They still have heavy lifting ahead in order to declare this a turnaround story,¡± said Dan Ives, an analyst with FBR. ¡°Investors need to see more. It continues to be a ¡®prove me¡¯ stock in the eyes of investors.¡±
+
+The company said new software sales and Internet-based software subscriptions in its fiscal third quarter ended February 28 rose 4 percent from the year-ago period.
+
+The company had forecast that new software sales and subscriptions would be up between 2 percent and 12 percent in the current quarter. New software sales are scrutinized by investors because they generate high-margin, long-term maintenance contracts and are an important indicator of future profit.
+
+Revenue from Oracle¡¯s hardware systems products grew 8 percent to $725 million, the first increase since the software company¡¯s $5.6 billion purchase of Sun Microsystems in 2010.
+
+The hardware business recovery is a good sign but much less important than the company¡¯s core software business, said Ives.
+
+Smaller, aggressive companies like Salesforce.com Inc and Workday Inc have been offering competitive software and Internet-based products at prices that often undercut Oracle.
+
+In response, four-decade-old Oracle has been rolling out its own cloud-based products and acquiring smaller cloud companies like marketing software maker Responsys Inc.
+
+¡°They moved in this direction significantly later than Microsoft for example,¡± said Bernstein analyst Mark Moerdler. ¡°They¡¯re playing catch up, but they¡¯re working quickly and they¡¯re starting to make some progress.¡±
+
+On Tuesday¡¯s call, Catz said revenue from cloud software subscriptions was up by about 24 percent in the quarter to $292 million, equivalent to about 3 percent of Oracle¡¯s total revenue.
+
+On the conference call, President Mark Hurd said Oracle is getting better at selling cloud services, thanks partly to a reorganization of the company¡¯s salesforce last year.
+
+¡°We thought we knew a lot a year ago or a couple years ago. We just know a lot more now,¡± Hurd said. ¡°We obviously have more feet on the street than we had and ¡­ they¡¯ve been in place longer.¡±
+
+Cloud computing, which refers to the delivery of services via the Internet from remote data centers, is becoming popular with corporate buyers because it is faster to implement and has lower upfront costs than traditional software.
+
+Most of Oracle¡¯s business relies on selling database software and hardware that customers install in their own data centers. Customers pay extra maintenance contracts that are highly profitable to Oracle and provide a steady stream of cash.
+
+Global IT spending is likely to increase just 3 percent this year, while spending on cloud services is expected to grow 18 percent, according to market research firm Gartner.
+
+For the third quarter, Oracle said overall revenue rose 4 percent to $9.31 billion. That was a little below the $9.36 billion analysts had expected on average.
+
+Net income was $2.56 billion, up 2 percent. Earnings per share, which reflected a decrease in the number of shares outstanding, rose 8 percent to 56 cents. On an adjusted basis, Oracle earned 68 cents per share.
+
+Shares of Oracle fell 4 percent to $37.32 in extended trade, after closing at $38.84 on the New York Stock Exchange.

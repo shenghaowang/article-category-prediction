@@ -1,0 +1,51 @@
+(Reuters) - Mt. Gox, once the world¡¯s largest bitcoin exchange, received U.S. bankruptcy protection on Monday to temporarily halt U.S. legal action against the Japanese company by traders who allege the operation was a fraud.
+
+Judge Harlin Hale in Dallas granted temporary bankruptcy protection to Mt. Gox, which had filed for bankruptcy protection in Japan in February. Attorneys for Mt. Gox said without bankruptcy protection the company would be irreparably harmed by a proposed class action in Chicago federal court and a breach of contract case in Seattle federal court.
+
+Mt. Gox filed for bankruptcy in Japan last month after it said it may have lost 750,000 of its customers¡¯ bitcoins as part of an attack by hackers.
+
+The plaintiff leading the Chicago lawsuit was scheduled on Tuesday to ask a federal judge to freeze Mt. Gox¡¯s U.S.-based servers and other computer equipment and to set up a trust over Mt. Gox¡¯s assets. Mt. Gox¡¯s founder, Mark Karpeles, was scheduled to be deposed later this month in the Seattle lawsuit.
+
+The attorney leading the class action blasted the bankruptcy as a ruse.
+
+¡°This case involves a massive fraud,¡± said Steven Woodrow, an attorney leading the class action, told Hale. ¡°They claim incredibly that they will preserve assets and protect assets by entrusting the servers and other property to Mr. Karpeles. Respectfully, your honor, that is the definition of the fox guarding the henhouse.¡±
+
+Mt. Gox said in papers filed with the Dallas court that the hacking attack was the subject of an intense investigation that indicated so far the bitcoins were lost as a result of a flaw in the software algorithm that underlies bitcoin, the digital currency.
+
+An attorney for Coinlab Inc, which sued Mt. Gox in Seattle for breaching a contract last year, said her client was troubled by what appeared to be fraudulent behavior by Karpeles in the days leading up the U.S. bankruptcy filing.
+
+¡°We don¡¯t have proof yet but we do have concerns about the movement of hundreds of millions of dollars in bitcoins over the weekend, moved by Mr. Karpeles,¡± said Jane Pearson, an attorney with Foster Pepper.
+
+Mt. Gox¡¯s attorney, David Parham, denied there was any fraud and said he believed Karpeles and Mt. Gox were complying with the Japanese bankruptcy proceeding.
+
+The Chapter 15 filing allows Mt. Gox to ask the U.S. Bankruptcy Court to recognize its foreign bankruptcy and to assist in the Japanese proceedings by protecting its U.S.-based assets.
+
+Hale¡¯s order protects Mt. Gox¡¯s U.S. assets until April, when the parties will return to court and Mt. Gox will seek a permanent stay of U.S. litigation. Hale said his order staying litigation did not apply to non-debtors, presumably Karpeles.
+
+Karpeles was named in a proposed class action filed in late February by Gregory Greene, an Illinois resident. The lawsuit proposes to represent all U.S. residents who paid a trading fee to Mt. Gox and those who had bitcoins or other currency with the exchange when it halted bitcoin withdrawals on February 7.
+
+Greene is seeking to recoup millions of dollars lost when the mtgox.com website went down and prevented traders from selling as bitcoin prices plummeted.
+
+Mt. Gox is also defending a lawsuit in federal court in Seattle by CoinLab Inc for breach of contract. CoinLab is seeking damages of $75 million from Mt. Gox.
+
+Mt Gox¡¯s tangled web of shell corporations brings turns the spotlight back to an issue U.S. law enforcement authorities have perennially raised with Congress. Several states, including Delaware, where Karpeles had at least two registered corporations, let foreigners register new corporations without ever setting foot in the United States, relying instead on agents to act as conduits for the companies¡¯ owners.
+
+The agents send along documents like lawsuits and other business communications addressed to the companies but keep no records themselves. They do not keep track of who the company¡¯s true beneficial owner may be. When investigators want to find out more about these companies¡¯ activities, the only information they can get from the agents is contact information for whatever overseas entity has been designated to receive correspondence about the company.
+
+Such is the structure of Mutum Sigillum, a company Karpeles registered in Delaware. He used it to interact with a U.S. bank through Dwolla, an online payment network. Real money passed through Mutum Sigillum (which means ¡°worthless little symbol¡± in Latin) but it left almost no paper trail in the United States.
+
+It was registered in Delaware by Vincent Allard, a French Canadian lawyer who for the past 13 years has been living in Dover, Delaware and, along with his daughter, running a business acting as a registered agent for Delaware corporations.
+
+Allard specializes in creating companies for people from Francophone countries, since he speaks French.
+
+When reached by phone on March 5, Allard said he had not heard of Mt. Gox¡¯s bankruptcy in Japan and would nevertheless have almost nothing to offer investigators if any were to come knocking.
+
+He was not in the office Monday and did not immediately respond to a request by email for comment on the Texas filing.
+
+Representatives from the Federal Bureau of Investigation and other law enforcement agencies have been lobbying Congress for years to pass a bill that would prohibit states from allowing the incorporation of shell companies without better documentation and more oversight.
+
+The Incorporation Transparency and Law Enforcement Assistance Act, introduced in 2011 by Sen. Carl Levin, is before the Senate Judiciary Committee awaiting a markup.
+
+The bill would require states to record the identities of the beneficial owners of corporations they register and keep a corresponding driver¡¯s license or passport number, or a copy of a foreign passport on hand, ready to turn over to law enforcement officials if necessary.
+
+The case is Mt. Gox Co Ltd, U.S. Bankruptcy Court, Northern District of Texas, No. 14-31229.

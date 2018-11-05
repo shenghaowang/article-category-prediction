@@ -1,0 +1,51 @@
+Retail Environment Has Significantly Improved Since Last Year
+
+The retail environment has suffered tremendously between 2016 and 2017, due to a combination of negative factors that affected foot traffic and the pricing power of many brands and third-party retailers. Spending from tourists declined suddenly as a result of weakness in the emerging markets and concerns about terrorism, and retailers found themselves with excess inventories that they had to dump at significant discounts, generating margin pressures in the whole retail industry.
+
+In the sportswear and sports equipment industry, the closures of players like Sports Authority, Sports Chalet and others exerted further margin pressures and flooded the market with discounted offerings. However, the operating landscape has improved significantly in 2018 and the excess inventories in key areas for Dick¡¯s Sporting Goods (DKS) such as footwear, apparel, and hunting seem to be a thing of the past for most retailers.
+
+Inventories look quite clean at the current levels and the environment is much less promotional if we exclude some brand-specific weakness at players such as Under Armour (NYSE:UA) (NYSE:UAA), which is still facing a problem of excess inventories and weaker-than-expected brand traction.
+
+DKS¡¯s inventory position looks relatively solid as well, with inventory as a percentage of last twelve-month revenue being around 21% as of Q1, compared with 24% in Q1 2017 and Q1 2016, and 23% in Q1 2016.
+
+Margin Trends Improving But Not Enough
+
+The relatively better inventory levels and the improved conditions in the industry should indicate a higher probability of structural improvements in terms of gross margins, which have been a key area of weakness for DKS in the past years. Since 2013, DKS¡¯s gross margin has been in a constant decline, falling from around 31.5% to 28.9%:
+
+This has been quite a significant decline, especially considering the strong growth of the sportswear/footwear market in the meantime. A quick comparison with other peers in the industry shows that only Finish Line (FINL) has done worse in terms of gross margin contraction:
+
+Besides the moderately improved inventory position and the more favorable conditions in the industry, there were other signs of potential improvements in gross margins. In Q1¡¯s earnings call, DKS¡¯s management declared that merchandise margins were up 18 basis points vs. Q1 2017.
+
+The main drivers of the merchandise margin expansion seem to be:
+ The positive comps in the private brands segment, which should be significantly accretive to gross margin. Private brand comps were up double digits in Q1 and drove an estimated 100 basis-point increase in penetration that has generated a 50¨C80 bps tailwind in merchandise margins.
+ Sales in lower margin categories declined. For example, firearms sales declined in Q1 and the company exited the electronics business, which is another lower-margin category.
+
+The second factor is a short-term phenomenon and not very important for an assessment of DKS¡¯s attractiveness as an investment. However, the increasing penetration of private brands is a positive force, as I have often highlighted how the increasing penetration in the segment was one of the few margin-accretive forces in today¡¯s environment and something that DKS and other retailers should work on.
+
+That said, other sources of potential margin pressure still exist and can affect DKS's profitability in the long term. One of these factors is the expansion of the eCommerce channel at the expense of traditional stores. It¡¯s important to understand the impact of eCommerce growth given the secular growth nature of the channel and the increasing market share at the expense of traditional stores. Unfortunately, the secular growth of eCommerce is not a positive force for companies such as Dick¡¯s Sporting Goods, due to the lower marginality of the segment.
+
+In particular, the expansion of the digital segment inevitably carries higher variable costs related to free shipping, fulfillment costs and customer care, to name a few, while occupancy deleverage generates margin dilution as sales decline too fast for the company to adjust its fixed costs accordingly. Moreover, merchandise margins are usually lower in the online segment as customers are more price-savvy and retailers face the fierce competition of online pure players that engage in aggressive practices such as Amazon (AMZN), which is willing to run its first-party sales at a loss in order to gain market share.
+
+The long-term margin scenario is still highly variable, as several forces are active in several directions. On one side, the company¡¯s expansion of the private brands segment, which currently accounts for just 12% of sales, is a positive force for gross margin.
+
+On the other side, it¡¯s probably not strong enough to offset the dilutive effect of eCommerce growth and occupancy deleverage. The overall conditions that will determine the margin direction have improved a bit, but they are not strong enough to determine a reversal. Per management¡¯s own admission, gross margin will continue to decline this year despite the expected improvements in merchandise margins:
+
+In addition to the moderately negative gross margin trend, the management confirmed its previous view that operating margin is expected to decline year-over-year driven by SG&A deleverage due to strategic investments in the business and a return to average historical levels for incentive compensation plans, confirming the long-term negative trend started in 2013.
+
+Dick¡¯s Sporting Goods has reported negative comps for four quarters in a row:
+
+However, the recent improvements in the industry and alternative data suggest some improvements may be coming. Data from SpendTrend suggest that an improvement in comps variation is arriving this quarter:
+
+That¡¯s a positive sign for sure, but nothing particularly exciting as it¡¯s just a sign of short-term relief and not an indication that long-term trends are improving.
+
+Since we are talking about organic growth, there is something else I liked to see in DKS¡¯s recent results. After a few years of aggressive store expansion that allowed the company to take a big chunk of the displaced market share left by the competitors¡¯ bankruptcies, DKS¡¯s growth is becoming less dependent on store expansion. The gap between revenue and comps growth, although still sizable, has significantly contracted in the past few quarters, declining from over 1,700bps to just 700bps:
+
+We have recently seen positive signs and negative signs. While the conditions of the retail environment have improved in the recent past and inventory levels have declined moderately, some important sources of margin pressure continue to affect the business and will continue to pressure profitability for the foreseeable future.
+
+On the other side, there is no particular source of strength that could offset the negative margin trends. With basically 100% of its revenue generated in the United States, Dick¡¯s Sporting Goods has basically no exposure to high growth geographical markets and faces the rising competitive pressures of eCommerce players and the brands¡¯ own direct-to-consumer channels, which are gaining market share at the expense of traditional third-party retailers.
+
+I still believe the risk of a significant margin dilution in the long term is still too high to make the stock attractive even at 11x last twelve-months EPS. The secular growth of eCommerce and its margin dilutive force still make a value trap case strong and justify a neutral rating.
+
+Disclosure: I/we have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours.
+
+I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it (other than from Seeking Alpha). I have no business relationship with any company whose stock is mentioned in this article.

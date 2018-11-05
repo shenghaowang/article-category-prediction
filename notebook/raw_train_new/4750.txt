@@ -1,0 +1,27 @@
+Analysts question security and storage giant's turnaround after the board fires its second CEO in two years.
+
+In a surprise move, Symantec's board of directors announced Thursday that CEO Steve Bennett had been terminated, effective immediately. In his place, board member Michael Brown has been installed as interim president and CEO. "This considered decision was the result of an ongoing deliberative process, and not precipitated by any event or impropriety," according to a statement released by Symantec.
+
+A number of information security industry watchers reacted with surprise to Bennett's ouster after just 18 months on the job, not least because in recent quarters Symantec's revenue has often exceeded expectations.
+
+"I was very surprised by this," said Forrester analyst Rick Holland, speaking by phone. "I just don't think it's the right time for a company that's not seen as innovative, that's been struggling to rebound, to have a leadership change. If you count the interim CEO, this makes three CEOs in less than two years' time. That has an impact on morale."
+
+Furthermore, the company appeared to be making good progress with its turnaround, which has included consolidating products and reorganizing sales teams. "I've heard positive things officially and unofficially from Symantec employees -- you can even tell the difference from Symantec employees' demeanor," Holland said. "The restructure and eliminating operational friction: The employees thought that was the right move."
+
+[In security, technology is the easy part. See Target's Weak Points, Examined.]
+
+
+
+In recent years, antivirus giant Symantec has struggled to reinvent itself as a modern and innovative information security player. Last year, for example, the company's image suffered after Chinese attackers hacked The New York Times, using malware that bypassed Symantec's signature-based antivirus software. Of course, signature-based products can only spot malware that's already been seen before, and the Times failed to tap technology for blocking unknown threats.
+
+But that situation speaks to the real-world security demands that have lead many businesses to use technology from newer players such as FireEye, which recently bought Mandiant for $1 billion, and Palo Alto Networks. Both sell technology that helps spot and block unknown malware, and many would-be buyers have come calling. "What I can tell you anecdotally is that if they had the chance to meet with Palo Alto Networks, FireEye, or Symantec, my suspicion is that Symantec would be last on the list of who you'd take a meeting with," said Forrester's Holland.
+
+Other analysts have long argued that Symantec can only save itself by choosing to focus on either security or storage. "I have thought the same thing: spin off one of those businesses so there's more of a focus in each area, the buyers are completely different -- infrastructure and operations, versus security people," said Holland.
+
+A year ago, Bennett had acknowledged some of these challenges. "We've had to reprogram the brains of our employees because they thought about our company as 150 different point solutions," he said in an interview, noting that he was trying to reposition the company's products as ways to "solve a higher-level problem."
+
+In fact, some market watchers think Symantec's continuing woes date to its $13.5 billion acquisition of storage vendor Veritas in 2005, which was championed in part by then-Symantec consumer business president Enrique Salem, who later served as CEO before being fired by the board in July 2012. He now sits on FireEye's board of directors. Meanwhile, Symantec's new interim chief, Michael Brown, cut his teeth in the storage sector, having come to the Symantec board from the board of Veritas. He previously served as the CEO of backup-technology vendor Quantum.
+
+If Symantec continues to struggle, its next step might not just be a new CEO, but -- following in the footsteps of Blue Coat, Websense, and McAfee -- either to go private or get acquired. "If you're trying to rebuild, if you need to reset, going private is not a bad idea," said Holland.
+
+Next-gen intrusion-prevention systems have fuller visibility into applications and data. But do newer firewalls make IPS redundant? Also in the The IPS Makeover issue of Dark Reading Tech Digest: Find out what our 2013 Strategic Security Survey respondents have to say about IPS and firewalls. (Free registration required.)

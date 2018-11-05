@@ -1,0 +1,9 @@
+Bitcoin exchange Mt. Gox is in a bit of a quandry. Last month CEO Mark Karpeles reported 850,000 Bitcoins missing, where Bitcoins were mysteriously moved to online wallets and then to offline wallets where they disappeared, but some has been found. Mt. Gox revealed today that they found an old online wallet that hadn't been used since 2011 and still had some change in it. The company announced in Japan that it found 200,000 Bitcoins in said wallet, which is worth just over $115 million at this morning's exchange rate.
+
+There's still a ton missing and a lot of people lost money on the now-closed company, but it's something.
+
+Of course, no one knows exactly what happened to all that money- was it straight theft? Why did the company keep trading long after it had knowledge of the theft? Was it outside forces or someone within?
+
+Whatever the case stories like this don't help the new currency's reputation, especially when compounded of stories about suicides, a mysterious creator who may or may not have been finally revealed, and a rapidly fluctuating exchange rate. Still, Bitcoin remains popular, as does Bitcin mining, the process by which new Bitcoins are created by utilizing your computer's power.
+
+It did fall under $600 for the first time yesterday, but it's been pretty stable around $600 for months. We'll see if the price drops any further- you can bet the thousands of people with money on the line will be doing so as well.

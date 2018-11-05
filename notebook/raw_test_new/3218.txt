@@ -1,0 +1,11 @@
+Bankrupt bitcoin exchange Mt. Gox, which filed for bankruptcy protection in Tokyo last month, and raised doubts about the viability of the virtual currency, has announced stumbling upon a stash of about 200,000 bitcoins kept in offline wallets.
+
+The Tokyo-based company has not yet explained how the huge amount of bitcoins, currently valued at about $120 million had moved to ¡°old format¡± wallets. The company said only that the bitcoins were found in an old-format wallet which it thought no longer held any bitcoins. With the discovery, the number of bitcoins missing from the exchange comes down from 850,000 to 650,000.
+
+Mt. Gox was not supervised by local regulations in Japan and thus user¡¯s deposits were uninsured by government entities. Following news of the controversy, in U.S., District Judge Gary Feinerman had frozen the assets belonging to Mt. Gox, but later loosened his restraint on March 11 to allow movement of small amounts of the digital crypto-currency.
+
+The records and offline wallets were searched as part of Mt. Gox¡¯s bankruptcy proceedings, the company said in a statement posted on its website. It said the bitcoins rediscovered now had been moved to its offline wallets. Though it did not specify the nature of the offline wallets, normally USB sticks and paper documents are used as such.
+
+The statement mentioned further, ¡°For security reasons, the 200,000 BTC which were at first on the 7th moved to online wallets, were moved between the 14th and 15th to offline wallets. These bitcoin movements, including the change in the manner in which these coins were stored, had been reported to the court and the supervisor by counsels.¡±
+
+When the company filed for bankruptcy protection it said that nearly all of its 850,000 bitcoins were missing, and said the most likely reason was theft. Out of the 850,000 bitcoins, about 750,000 belonged to those who used the exchange.

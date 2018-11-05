@@ -1,0 +1,35 @@
+The Alibaba Group, the Chinese ecommerce juggernaut founded in 1999, is likely to become the largest U.S. IPO of all time. The company earlier this month filed papers to begin selling stock on the New York Stock Exchange.
+
+The Alibaba Group has six primary businesses. All of the businesses facilitate sales between buyers and sellers; none of them holds inventory.
+
+Together they generate 11.3 billion annual orders from 231 million buyers. The three Chinese retail sites account for over 80 percent of Alibaba¡¯s revenues. Many major American brands sell on Tmall Global. Alibaba had 20,884 full-time employees as of December 2013. Taobao is similar to Amazon in most aspects.
+
+Alibaba is the largest ecommerce company in the world and is still growing at a rapid pace. China has 302 million Internet shoppers but they represent only eight percent of total Chinese consumption according to iResearch; there is plenty of room for expansion in the Chinese ecommerce market. The company has been profitable for several years and is expected to be valued between $150 and $200 billion. It wants to raise $1 billion through the IPO.
+
+Unlike some American companies that were close to peaking when they went public, Alibaba envisions massive growth. China has the largest Internet user population at 618 million, but less than half shop online, leaving considerable room for expansion.
+
+Alibaba touts the network effects of its multiple marketplaces ¡ªthe increasing number of suppliers attracts more customers and the expanding number of consumers attracts more manufacturers and retailers. It has an enviable profit margin of about 45 percent.
+
+Furthermore, as indicated in Alibaba¡¯s 343-page F-1 filing with the U.S. Securities and Exchange Commission, ¡°China¡¯s offline retail market faces significant challenges due to few nationwide brick and mortar retailers, an underdeveloped physical retail infrastructure, limited product selection, and inconsistent product quality. These challenges in China¡¯s retail infrastructure, which we believe are particularly acute outside of tier 1 and 2 cities, are causing consumers to leapfrog the offline retail market in favor of online and mobile commerce.¡±
+
+Alibaba also dominates mobile commerce in China, with over 76 percent of that country¡¯s mobile retail gross merchandise volume, according to iResearch, led by the Taobao mobile application.
+
+As for international sales, Alibaba states that it will grow its international business by connecting overseas branded retailers to Chinese consumers via Tmall Global, established earlier this year. It will connect Chinese suppliers to international retail markets through AliExpress and reach more international wholesale markets through Alibaba.com.
+
+As China becomes more prosperous, the demand for foreign goods increases. Chinese goods have a reputation for being shoddy, counterfeit, or dangerous. A few years ago, a scandal erupted over tainted domestic baby formula. Chinese parents searched frantically for reliable, quality suppliers overseas. In 2011 Tmall partnered with European formula manufacturer Nutricia Early Life Nutrition, a wholly owned subsidiary of Danone Group, to provide high-quality formula to Chinese families. The manufacturer ships directly to consumers from the manufacturing site in Europe so origin is verifiable. In 2013, Nutricia sold approximately three million packs of baby formula on Tmall.
+
+However, Alibaba has not been impervious to accusations that many vendors on Tmall and Taobao are selling counterfeit goods and products of poor quality. (See our interview, ¡°Alibaba Attorney on Intellectual Property Theft,¡± for more.)
+
+China¡¯s financial payment and shipping systems are quite rudimentary outside the main cities so Alibaba offers both a payment and escrow system, Alipay, that facilitates domestic, cross-border, and mobile payments. Alibaba also owns 48 percent of China Smart Logistics, a shipping affiliate.
+
+Revenue is primarily generated from merchants through online marketing services (via Alimama, a proprietary online marketing platform), commissions on transactions, and fees for online services. Alibaba offers a suite of technology tools on a subscription fee basis that helps sellers on Taobao Marketplace in upgrading and managing their storefronts. Alibaba, like Amazon, also offers cloud computing for its marketplace sellers as well as other value added services.
+
+Revenue for the nine months ending December 31, 2013, was $6.5 billion, up 57 percent year over year. Net income over that same period was $2.9 billion, up 305 percent year over year. From January 2013 through December 2013, although international sales grew, the percentage contribution to total revenue fluctuated quarterly from a high of 12 percent of total revenue in in the first quarter, to a low of 6.7 percent in the fourth quarter.
+
+Despite its sound financials and excellent prospects for continued growth, many troubling factors beyond normal market risk exist.
+ China economic slowdown. Revenue and net income may be materially and adversely affected by any economic slowdown in China.
+ Government interference. In a Communist country the possibility always exists that the state or state-owned banks will try taking over a company. Alibaba¡¯s take on this is, ¡°The regulatory and legal system in China is complex and developing, and future regulations may impose additional requirements on our business.¡±
+ Corporate governance. As it is a foreign company, Alibaba plans to exempt itself from some U.S. corporate governance requirements. One major red flag is the fact that stockholders would not have much influence on company decisions, which would be handled by the ¡°Alibaba Partnership,¡± a group comprising current senior management. Alibaba Partnership would have the right to nominate a majority of the company¡¯s directors. The NYSE has allowed this.
+ Insider activity. The company conducts business through investment arrangements known as variable interest entities that let it take money from foreign investors through offshore entities. Jack Ma, the founder and executive chairman of Alibaba, is the majority owner of many of these entities. The F-1 states, ¡°Conflicts of interests may arise due to dual roles both as directors and executive officers of the variable interest entities and as directors of our company, and may also arise due to dual roles both as variable interest entity equity holders and as directors of our company.¡±
+
+Despite the concerns, Alibaba is not expected to have any trouble attracting investors. The IPO market has been in the doldrums lately after a healthy start at the beginning of the year. Alibaba will be a tough act to follow for other companies planning to go public later this year.

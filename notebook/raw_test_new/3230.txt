@@ -1,0 +1,21 @@
+You know how it is: you¡¯re in a tight spot financially and in one last ditch effort to find some petty cash you go to scrape around for coins in an old purse or coat pocket¡ªand come up with $100 million or so. No? That¡¯s pretty much the latest in the saga of embattled Bitcoin exchange Mt. Gox.
+
+After having announced the alleged theft of 744,408 bitcoins¡ªabout $350 million at the time¡ªin late February, and filed for bankruptcy in Japan, the exchange has apparently stumbled upon a forgotten stash of 199,999.99 BTC. That¡¯s around $116 million in old-school money.
+
+The news was announced in a filing posted on the company's site dated 20 March. The report explained Mt. Gox had happened upon the trove of bitcoins in an old wallet it thought was empty. ¡°MtGox Co., Ltd. had certain old format wallets which were used in the past and which, MtGox thought, no longer held any bitcoins. Following the application for commencement of a civil rehabilitation proceeding, these wallets were rescanned and their balance researched,¡± the filing reads.
+
+Mt. Gox confirmed the unexpected contents of the old wallet on March 7 and reported it to the Court, then moved it to offline wallets for security reasons . They wouldn't want to lose it again, now, would they?
+
+While coming across an unsuspected fortune of forgotten cryptocurrency is the stuff of dreams for Bitcoiners¡ªit¡¯s certainly been known to happen among those who took a punt on Bitcoin early on¡ªthis discovery isn¡¯t all cause for celebration.
+
+On the one hand, it does make the chances of some kind of refund for those who lost money when the exchange went down look a bit more likely; there¡¯s more in the pot. But while 200,000 BTC is a lot of money, it¡¯s only a fraction of what was lost. As the filing states, ¡°Taking into account the existence of the 200,000 BTC, the total number of bitcoins which have disappeared is therefore estimated to be approximately 650,000 BTC.¡±
+
+And what¡¯s perhaps most worrying about the whole scenario is the fact that Mt Gox managed to ¡°lose¡± 200,000 bitcoins in the first place. It¡¯s one thing for an individual miner to absent-mindedly chuck their personal Bitcoin wallet in a landfill, but it¡¯s another for a company trusted to deal with other people¡¯s money to just ¡°forget¡± about a $100 million cache.
+
+As Motherboard¡¯s Alex Pasternack has previously written, despite all of the faith in Bitcoin¡¯s math, trust in humans (first and foremost those running the exchanges and other Bitcoin businesses) is still essential to using the cryptocurrency. Surprises¡ªeven good ones¡ªdon¡¯t exactly fill people with confidence when it comes to dealing with their finances.
+
+This latest episode will only raise more questions about quite how poor record-keeping at Mt. Gox was, and will do little to raise the company¡¯s reputation. One look at the Reddit Bitcoin community¡¯s reactions makes it clear people aren¡¯t exactly jumping for joy at Mt. Gox¡¯s sudden windfall.
+
+The details of the whole debacle are still mired in mystery right now as court proceedings continue, and this latest twist comes with a disclaimer on the initial reported loss: "Please note that the reasons for their disappearance and the exact number of bitcoins which disappeared is still under investigation and that the above figures may still change depending on the results of the investigation."
+
+The only really good surprise for those who lost money through Mt. Gox's collapse right now would be if they got all of their bitcoins back. Unfortunately, it's still looking like that really would be a surprise.

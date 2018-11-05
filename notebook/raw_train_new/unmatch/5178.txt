@@ -1,0 +1,59 @@
+You may not have any signs or symptoms of coronary artery disease while you are just sitting there quietly reading this post. In fact, your symptoms may occur only during exertion, as narrowed arteries struggle to carry enough blood to feed a heart muscle that＊s screaming for oxygen under increased demand. Enter the diagnostic stress test, used to mimic the cardiac effects of exercise to assess your risk of coronary artery disease.
+
+During stress testing, you exercise (walk/run on a treadmill or pedal a stationary bike) to make your heart work harder and beat faster. An EKG (aka ECG) is recorded while you exercise to monitor any abnormal changes in your heart under stress, with or without the aid of chemicals to enhance this assessment.
+
+But consider this blunt warning from Dr. Kevin Klauer:
+
+Dr. Klauer adds that despite clear clinical guidelines about using stress tests, concern and confusion apparently exist among physicians, according to his Special Report: The Truth About Stress Tests that he co-authored for the journal, Emergency Physicians.
+
+For instance, he cites guidelines from the National Institute for Health and Clinical Excellence that state:
+
+Cardiologist Dr. Richard Fogoros also explains another potential limitation to the exercise stress test:
+
+※The stress test can only help to diagnose coronary artery disease (CAD) that is producing partial blockages in the arteries 每 so-called obstructive CAD. But CAD often produces plaque in the arteries that may not actually be causing obstruction, and these non-obstructive plaques can (and do) rupture, causing acute blood clot formation, which produces an acute obstruction of the artery, often leading to myocardial infarction (heart attack). ※So it is certainly possible to have a ＆normal＊ stress test while still having CAD. ※In some patients, EKG changes can occur even in the absence of CAD. (In other words, ＆false positive＊ stress tests are not uncommon.) In other patients, no significant EKG changes are seen even in the presence of CAD. (So ＆false negative＊ stress tests can be seen.) ※False positive and false negative studies can significantly limit the usefulness of the stress test in many patients. ※By adding a nuclear perfusion study to the stress test, this limitation may be minimized, and the diagnostic capacity of the stress test is greatly improved.§**
+
+It almost seems counter-intuitive, but preventive cardiologists like Dr. Seth Baum confirm that most heart attacks actually happen in what is called non-obstructive CAD (i.e. in vessels that are less than 70% blocked). He adds:
+
+And speaking of both false positive and false negative results, Kentucky electrophysiologist and writer Dr. John Mandrola has this to say about cardiac stress tests:
+
+※Many non-cardiac conditions can cause the heart to look as though it is having trouble when it is actually not 每 things like abnormal electrolytes, fluctuations in blood pressure, breathing too fast, and certain medications. Not surprisingly then, false positive stress tests are a common problem. ※The opposite problem also occurs. False negatives happen when the stress test fails to reveal a potentially dangerous blockage. The supply/demand challenge of stress tests only identifies major blockages. But, the vexing way heart disease works is that most often it is the minor 每 not major 每 blockages that cause heart attacks or sudden death. Stress tests can＊t see these minor blockages. ※The next sentence is not a typo: You can pass a stress test and have a major heart attack the next day.§
+
+And cardiologist Dr. Martha Gulati, director for preventive cardiology and women＊s cardiovascular health at the Ohio State University Medical Center, warns:
+
+More recently, some researchers who have specifically studied accuracy in stress tests for female patients have made some interesting observations unique to women. For example:
+ None In pre-menopausal women, EKG results taken during exercise appear to vary with the women＊s . (2)
+ None Post-menopausal women receiving are more likely to have exercise-induced EKG changes than
+ None Women are when they undergo stress testing and may have decreased exercise tolerance, limiting the ability to accurately identify women with coronary artery disease (4)
+
+Here＊s how the National Heart Lung & Blood Institute lists the most common types of stress tests (and for a glossary of cardiac terminology, read this):
+
+
+
+One of the most serious concerns about tests that are commonly used despite important diagnostic accuracy issues is that, as in my own case when first presenting to the Emergency Department, an initial ※normal§ test may lead to misdiagnosis.
+
+No further tests will be ordered.
+
+Doctors like Duke University＊s Dr. Pamela Douglas call this phenomenon ※verification bias§. As she warned in her editorial called ※Is Non-invasive Testing for Coronary Artery Disease Accurate?§ in the journal Circulation:(5)
+
+Dr. Douglas then added that, in populations with sex-based differences in disease prevalence and extent, there will be sex-based differences in the accuracy of test results:
+
+※The stress test is the elemental unit of diagnostic cardiology, and patients know of stress tests all too well. Unfortunately, both doctors and laypeople have been taught and trained wrong. ※I, for instance, was trained to believe in the general utility of stress testing. This was wrong. I was taught to obtain a stress test history, and to be comforted by normal results. Also wrong. I was taught to believe in the power of stress tests to establish safety and identify disease in low risk chest pain patients before they leave the hospital. Wrong. ※Sensitivities and specificities for stress tests are often reported as being between 70% and 90%, but these numbers are misleading. Studies of stress tests have rarely used a proper gold standard (i.e. coronary angiography), and in the one reasonably sized, high quality study to be performed rigorously, the test＊s sensitivity for coronary stenosis was only 45%.§
+
+.* stable angina: chest pain or discomfort that comes on with exertion and lessens during rest, due to poor blood flow through narrowed or blocked coronary arteries
+
+
+
+** See my glossary for no-jargon, patient-friendly definitions of cardiac terminology
+
+
+
+(1) Hoilund- Carlsen, P.F. et al. Usefulness of the exercise electrocardiogram in diagnosing ischemic or coronary heart disease in patients with chest pain. Am J Card 95:96, January 1, 2005
+
+(2) Grzybowski A et al. How to improve noninvasive coronary artery disease diagnostics in premenopausal women? . 2008;156:e961每e965
+
+(3) Morise AP et al. The specificity of exercise electrocardiography in women grouped by estrogen status. . 1997;60:55每65
+
+(4) Mieres JH et al. Role of noninvasive testing in the clinical evaluation of women with suspected coronary artery disease. American Heart Association. . 2005;111:682每696.
+
+Q: Have you ever had a ※normal§ stress test despite being later diagnosed with heart disease, as I was?
+ None Do you know the difference between V.T. and T.V?

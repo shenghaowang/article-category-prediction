@@ -1,0 +1,125 @@
+As the search for missing Malaysia Airlines flight MH370 continues in the southern Indian Ocean, some key questions remain unanswered.
+
+Here are 10 questions about what happened to the Boeing 777 that disappeared after leaving Kuala Lumpur bound for Beijing on 8 March, with 239 people on board.
+
+1. Why did the plane make a sharp left turn?
+
+Military radar logs show flight MH370 turned unexpectedly west when it diverted from its planned flight path, by which time the plane's transponder had already been switched off, and its last ACARS datalink transmission sent.
+
+Sudden turns like this are "extremely rare", according to Dr Guy Gratton of Brunel University's Flight Safety Lab. He says the only real reason pilots are likely to make such a manoeuvre is if there's a serious problem on the plane which makes them decide to divert to a different destination, to get the aircraft on the ground.
+
+That could be a fire or sudden decompression, according to David Barry, an expert on flight data monitoring at Cranfield University.
+
+Malicious intent - by a pilot or intruder - is another possibility.
+
+But unless the "black box" flight recorders are found, whatever happened in the cockpit at that moment will remain in the realms of speculation.
+
+2. Is it reasonable to speculate that a pilot could have intended to kill himself?
+
+There has been much speculation in the media that suicide might have been behind the loss of the plane.
+
+It wouldn't be the first time it's happened. The crashes of Egypt Air flight 990 in 1999 and Silk Air flight 185 in 1997 are both thought to have been caused deliberately by a pilot, though the view has been contested. The Aviation Safety Network says there have been eight plane crashes linked to pilot suicide since 1976.
+
+So far, no evidence has been released from searches of the homes of Captain Zaharie Ahmad Shah and his co-pilot Fariq Abdul Hamid that back up any similar explanation for MH370. There has been speculation that Shah may have been upset after breaking up with his wife, but there is so far no reliable source for his state of mind. It's been reported police are still examining a flight simulator found in the captain's home.
+
+Barry says the apparent turning off of certain systems might give weight to the theory, but "pilot suicide is a theory like any other". Gratton agrees. "There simply isn't any evidence to prove or disprove it," he says.
+
+3. Is a hijack scenario even possible?
+
+Airliners have been fitted with strengthened flight deck doors - intended to prevent intruders from taking control - since 9/11. David Learmount, safety editor at Flight International magazine, says they are "bulletproof" and "couldn't be penetrated with an axe".
+
+Sylvia Wrigley, light aircraft pilot and author of Why Planes Crash, agrees it's unlikely anyone would be able to force their way in. "Even if the door was being broken down, they wouldn't be able to get in before there'd been a mayday call, unless the pilots were incapacitated," she says.
+
+However, one former pilot, who did not wish to be named, has suggested there is theoretically a way to disable the lock and get into the flight deck.
+
+But in any case, however secure the door, there are times when the door is open - when a member of the crew either visits the toilet or has to check on something in the cabin. It's always been pointed out that it would be possible to rush the cockpit when this is the case. Some airlines, including Israel's El Al, have double doors to guard against this scenario. Gratton says there's a procedure which requires a member of the cabin crew to guard the door when it's opened.
+
+But even in the event of hijackers rushing the cockpit, it would be easy for either crew member to send a distress signal.
+
+The security of the cockpit door offers protection against intruders, but it also prevents action being taken if something does go wrong. Last month the co-pilot of an Ethiopian Airlines flight waited for the pilot to go to the toilet before hijacking the aircraft and flying it to Switzerland.
+
+There's also the possibility that a pilot invited a passenger in. Photographs have emerged of the co-pilot of MH370 entertaining teenage tourists in an aircraft cockpit during a previous flight.
+
+Boeing said it would be inappropriate to comment on an ongoing investigation.
+
+4. Is there an accidental scenario that stands up to scrutiny?
+
+So far most theories have been based on the assumption that the communications systems and the plane's transponder were deliberately disabled, a view endorsed by Malaysian officials.
+
+However, Wrigley believes it's possible a sequence of events may have taken the plane so far off course by accident. "Something could have gone wrong in stages. A fire could have taken out part of the plane, or led to some systems failing, but left the plane intact. Then there could have been decompression - not an explosive decompression, but a gradual one," she says.
+
+Wrigley cites the Helios Airways flight 522 which crashed into a mountain in Greece in 2005 after a loss of cabin pressure and lack of oxygen incapacitated the crew, but left the plane flying on autopilot, as an example. "I'm not saying it's a likely scenario, but it's not impossible," she says.
+
+Pilots have pointed out that one of the very first actions in many emergency drills is to send a message to air traffic control or some other form of signal. For a purely accidental scenario to make sense, whatever initial event took place must have simultaneously knocked out all regular means to communicate with the ground.
+
+5. Why was no action taken when the plane's transponder signal went off?
+
+MH370's transponder - which communicates with ground radar - was shut down as the aircraft crossed from Malaysian air traffic control into Vietnamese airspace over the South China Sea.
+
+If a plane disappeared in Europe, Barry says someone in air traffic control would have noticed and raised the alarm pretty quickly. Gratton agrees. "In Europe handover is extremely slick.
+
+"At the very least I'd expect air traffic controllers to try and contact a nearby aircraft to try and establish direct contact. Pilots frequently use TCAS [traffic collision avoidance system], which detects transponders of other aircraft to ensure they aren't too close to each other," he adds.
+
+However Steve Buzdygan, a former BA 777 pilot, says that from memory, there's a gap or "dead spot" of about 10 minutes in the VHF transmission before the plane would have crossed into Vietnamese airspace.
+
+Learmount says it's also perfectly feasible that nobody on the ground noticed the plane's disappearance. "Malaysian air traffic control had probably handed it over to the Vietnamese and forgotten about it. There could have been a five-minute delay before anyone noticed the plane hadn't arrived - a gap in which nobody pressed the alarm button," he says.
+
+Even if air traffic control did notice the plane was amiss, they wouldn't necessarily have made it public, he adds.
+
+The Civil Aviation Authority of Vietnam says the plane failed to check in as scheduled at 0121 with air traffic control in Ho Chi Minh City. However, an unnamed pilot flying a 777 heading for Japan says he briefly established contact with MH370 minutes after he was asked to do so by Vietnamese air traffic control.
+
+6. Why isn't it easier to track missing planes by military satellite?
+
+The search effort on seas some 2,500km (1,500 miles) to the south-west of the Australian city of Perth has relied on images provided by commercial satellite companies.
+
+Dan Schnurr, chief technology officer at Geospatial Insight, says there are 20 known satellites that have a resolution capable of obtaining these images in the "vast tracts of the ocean passing over the poles". Of those, probably about 10 of them capture images on a daily basis.
+
+The images are beamed down from the satellites in very near real time, and are probably on the ground within two or three hours of image capture, he says. The delay in detecting valuable images is down to the time it takes to analyse the large volume of imagery.
+
+There are also satellite sources owned by the military and government, but these have not been prominent in the search. This has led to some speculation that the fate of the plane was known about earlier in the search, but not revealed.
+
+Laurence Gonzales, author of flight 232: A Story of Disaster and Survival, says some nations are bound to have more sophisticated surveillance systems than they are letting on. "A very small, fast ballistic missile can be picked up easily, so how can they lose a big, slow-moving object like a jumbo jet? It tells me somewhere in the angles of power in the world someone knows where the plane is but doesn't want to talk about it, probably for reasons of national security because they don't want to reveal the sophistication of the material they have... that their satellite technology is so good it can read a label on a golf ball," he says.
+
+But Gratton says military satellites looking for ballistic missiles probably wouldn't have thrown up much useful data because they wouldn't have been calibrated to pick up aircraft of this size.
+
+"This aircraft was seven miles up and travelled at three-quarters of the speed of sound. Ballistic missiles go up to four or five times the speed of sound, and 30 to 50 miles up - they have very different profiles," he says.
+
+7. Did the plane glide into the sea or plunge after running out of fuel?
+
+The MH370's final moments seem to depend on whether the plane was still being flown by a pilot.
+
+"If it was under control, the plane was capable of being glided. The Airbus that went into the New York's Hudson River lost both engines - which is an identical outcome to running out of fuel - and the pilot managed to land on the water," Gratton says.
+
+Barry agrees there could have been a gentle descent. "Aircraft of this size will normally fly or glide over 50 miles before they hit the sea if they run out of fuel," he says. However, if no-one was at the controls, he says the descent could have been "pretty severe".
+
+8. Would the passengers have known something was wrong?
+
+If a major malfunction had not occurred, it is unclear whether passengers would have known anything was awry, especially if there were no obvious signs of a struggle onboard. Joe Pappalardo, senior editor at Popular Mechanics magazine, says in most scenarios where a plane flies off course for hours, passengers can remain oblivious. At 01:00, many would probably have been asleep. In the morning, the astute might have worked out the Sun was in the wrong position.
+
+Malaysian authorities have said the plane rose to 45,000ft, before falling to 23,000ft, after it changed course. If that's the case, passengers might have felt the loss of altitude, according to Pappalardo.
+
+However one theory is that the plane's apparent climb could have been designed to induce hypoxia - oxygen deprivation - which could have knocked people unconscious and even killed them.
+
+Wrigley thinks it could have played out in one of two ways. "In the horror story version passengers would have realised something was wrong as the plane climbed - and a decompression event would have led to oxygen masks coming down, and an awareness that oxygen was limited. A better scenario is they didn't know anything had happened until impact," she says.
+
+9. Why didn't passengers use their mobile phones?
+
+One commonly asked question is why, if it had been obvious something was wrong, passengers wouldn't have used mobile phones to call relatives and raise the alarm. This seems especially puzzling in light of the example of United flight 93, where passengers communicated with people on the ground after the plane was hijacked during 9/11.
+
+It's been stated that it's extremely unlikely that anyone could get mobile signal on an airliner at 30,000ft. Barry agrees the chances of a mobile phone working on the plane were "virtually impossible". "It can be hard to get a signal on a remote road, let alone seven miles up, away from mobile phone masts, travelling at 500mph," he says.
+
+10. Why can't planes be set up to give full real-time data to a satellite?
+
+Arguably the most baffling thing to a layperson about the disappearance of MH370 is how it is even possible for a plane of this size to disappear so easily. In an era when people are used to being able to track a stolen smartphone, it's perplexing that switching off a couple of systems can apparently allow an airliner to vanish.
+
+Barry says the technology exists to allow planes to give off full real-time data. The problem is planes are "snapshots in time from when they are designed".
+
+"We're doing research into devices that will allow aircraft to start transmitting information by satellite when something unusual like a fire or decompression happens, but it's hard to fit things into a plane retrospectively.
+
+"The 777 went into service in the early 90s... the technology is of that era," he says.
+
+However, Gratton says ACARS would have done the job if it hadn't been turned off. A more complex satellite system would also be open to that risk, he argues, unless the industry wanted to go with a system that couldn't be manually switched off, and that would come with other risks.
+
+"It's not a particularly easy question. Is the bigger risk an aircraft going missing, or electronics overheating? Both situations can't be met," he says.
+
+Follow @BBCNewsMagazine on Twitter and on Facebook

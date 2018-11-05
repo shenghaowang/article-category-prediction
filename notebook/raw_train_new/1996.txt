@@ -1,0 +1,35 @@
+Bitcoin exchange Mt. Gox filed for Chapter 15 U.S. bankruptcy protection on March 9, a follow up to a similar filing in Japan in late February.
+
+Chapter 15 protection allows for insolvent international companies to benefit from the U.S. court system. It is not exactly clear yet how this will benefit Mt. Gox. The purpose of Chapter 15, and the Model Law on which it is based, is to provide effective mechanisms for dealing with insolvency cases involving debtors, assets, claimants and other parties of interest involving more than one country.
+
+"Generally, a chapter 15 case is ancillary to a primary proceeding brought in another country, typically the debtor's home country," according to the U.S. Federal Court bankruptcy statute.
+
+Another report has the Mt. Gox system being hacked over the weekend with someone breaking into Mt. Box CEO Mark Karpeles blog. The hackers allegedly pulled a spreadsheet showing that 950,000 Bitcoins were still on the books. Other tidbits include that Mt. Gox had around 1 million customers as of December, although no personal data was released by these tech hounds.
+
+Karpeles has blamed his company's weak security system for the original Bitcoin loss.
+
+This is just the latest in a string of moves surrounding Mt. Gox and the Bitcoin world during the last week.
+
+Bitcoin itself has been the center of controversy since it was created in 2009. Banks and nations have fretted over what it could do to traditional currencies and the bankruptcy of Bitcoin exchange Mt. Gox last month is causing further worries over the viability of the currency and the fact that the largest such exchange simply lost or could not find 850,000 Bitcoins priced at the time at around $500 billion.
+
+That is a lot of money, real or digital.
+
+Then, last week the burner was turned on full blast with the revelation by Newsweek that the mysterious man behind Bitcoin was an unassuming, retired engineer named Dorian Satoshi Nakamoto. Nakamoto has denied he is the brains behind Bitcoin and that until recently he had never even heard about Bitcoin, but Newsweek is sticking by its story.
+
+Since then Nakamoto has had to lead a life more akin to a Hollywood celebrity, with dozens of reporters chasing his every move.
+
+The urge to discover who truly is the founder of the digital currency is understandable. That person could potentially be worth hundreds of millions of dollars, and if a face could be connected with the service it could help make it even more successful or at least save it from an early death.
+
+A famous definition of money is that it's an idea backed by confidence, something that is lacking right now. A currency depends on people believing that it is a safe haven and there is little reason for any confidence to be placed on Bitcoin now with the only names associated with Bitcoin either denying their affiliation or trying to explain why their firm went bankrupt or dying.
+
+The most important failure may well be that the entire Bitcoin universe is nothing but a house of cards waiting to topple.
+
+"Mt. Gox is not alone. Forty-five percent of Bitcoin exchanges to date have failed, in most cases with their customers' money. The digital currency industry's track record on fiduciary responsibility is abysmal," wrote Ken Griffith.
+
+The other aspect of this that has to be studied is whether or not a currency, digital or otherwise, can be sustainable without being governed and backed by a national entity.
+
+At Hackingdistributed.com Bitcoin exchanges were compared to the infamous Nigerian prince Internet scams, but these are actually targeted at tech-savvy people.
+
+"Even if the Bitcoin protocol were perfect, and it isn't, our computing infrastructure is not up to the task of handling high-value transactions. The exchanges are built on the latest hyped technologies that have incredibly poor guarantees, and routinely run into technical problems," the site wrote.
+
+ 2018 TECHTIMES.com All rights reserved. Do not reproduce without permission.

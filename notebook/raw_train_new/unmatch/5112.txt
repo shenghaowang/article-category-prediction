@@ -1,0 +1,33 @@
+As Microsoft (MSFT) prepares to report earnings on Thursday, the software giant has some trends in its favor and one against it.
+
+In particular, IT spending trends should be a tailwind, but currency trends could work against Microsoft, as they have for other global tech firms. The company's June quarter (fiscal fourth quarter) earnings report arrives after the close on Thursday, and an earnings call that's likely to feature the release of September quarter sales guidance will start at 5:30 P.M. Eastern Time.
+
+TheStreet will be live blogging Microsoft's earnings report and call after the close on Thursday, July 19. Please check our home page then for more details.
+
+On average, analysts polled by FactSet expect June quarter revenue of $29.21 billion (up 18% annually) and non-GAAP EPS of $1.08. The consensus for September quarter revenue is at $27.38 billion (up 12%).
+
+It's worth noting that Microsoft has a history of issuing conservative sales guidance that it winds up having little trouble topping. And with shares up roughly 23% so far in 2018 and 44% over the last 12 months, investor expectations are somewhat high.
+
+Microsoft is a holding in Jim Cramer's Action Alerts PLUS member club. Want to be alerted before Jim Cramer buys or sells MSFT? Learn more now.
+
+In addition to sales and EPS figures, keep an eye on the following:
+
+Judging by recent estimates from industry research firms, PC demand improved a bit in calendar Q2. IDC believes global PC shipments rose 2.7% annually in Q2 to 62.3 million units, an improvement from Q1's flat growth and also better than the firm's forecast for 0.3% growth. Gartner, whose methodology is slightly different from IDC's, believes PC shipments rose 1.4% to 62.1 million units; the firm notes that based on its estimates, Q2 was the first quarter since Q1 2012 for which positive annual shipment growth was recorded.
+ Apple's 2018 Macs and iPads Could Prove Strong Enough to Lift Flagging Sales
+ Why Apple Is Not as Threatened by the Brewing Trade War With China
+
+All of this bodes well for Microsoft's June quarter Windows revenue. And so does the fact that demand for business PCs, which on average produce more Windows revenue per device for Microsoft, was reported by both IDC and Gartner to be stronger than consumer PC demand.
+
+As it is, Microsoft's Windows revenue has been stronger than industry shipment growth in many recent quarters. In the March quarter, the company's Windows OEM revenue (driven by license fees paid by PC OEMs) rose 4%, while its Windows commercial revenue (driven by business deals) rose 21%, thanks partly to the signing of many new multi-year deals during the quarter.
+
+2. Cloud Momentum -- and not Just for Azure and Office 365
+
+Given both their competitive strengths and a healthy IT spending environment, there's little reason to think that demand for Microsoft's Azure public cloud platform and Office 365 productivity suite weakened last quarter. Azure revenue rose 93% in the March quarter, and thanks to Office 365, Microsoft's Office commercial and consumer revenue rose 14% and 12%, respectively. Similar growth rates are likely for the June quarter.
+
+However, Microsoft's cloud growth story isn't just about Azure and Office 365 anymore. Last quarter, revenue growth for the company's Dynamics business apps (used by many small and mid-sized businesses) improved to 17% from the December quarter's 10%, thanks in large part to 65% growth for its Dynamics 365 cloud apps. And LinkedIn turned in the strongest quarter since Microsoft's late-2016 acquisition of the company, with revenue rising 37% and user sessions growing over 30%.
+
+Going forward, GitHub will also be part of Microsoft's cloud story. Microsoft's $7.5 billion deal to buy the code-sharing/hosting platform is expected to close by year's end.
+
+Much like many other U.S. multinationals, a weak dollar has boosted Microsoft's sales in recent quarters. During the March quarter, the company's revenue rose 13% annually in constant currency (CC), but 16% in dollars. June quarter sales may have also benefited to some degree from forex trends.
+
+However, with the dollar having strengthened meaningfully since mid-April, forex could very well act as a headwind rather than a tailwind for Microsoft's September quarter sales. In June, Oracle, Red Hat and Akamai Technologies each warned that a strengthening dollar will ding their top lines in the coming months.

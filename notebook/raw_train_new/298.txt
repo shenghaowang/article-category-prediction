@@ -1,0 +1,114 @@
+Rightly or wrongly, markets continue the Fed fixation. Many expect (or demand?) a change in Fed policy. This week marks the first FOMC meeting with Janet Yellen as the Chair. Since there will also be an update to forecasts, the announcement will include a press conference. With some fresh data and plenty of news since the last meeting, my theme for this week:
+
+I expected last week's theme (in the absence of much real data) to be focused on a parade of pontificating pundits. That was very accurate. As predicted, there were many articles of the laundry list type. That is where the pundit or journalist starts with a scary theme that can be expected to be popular and then looks back to find some similarities with the past. What a joke! Suppose you had a group of summer interns. Ask them to take any year in history and read newspapers, listing anything that is similar to current times. They will deliver.
+
+Most people have a low bar for research findings, particularly when it suits their own conclusions.
+
+This is a perfect illustration of the reason for my weekly post - planning for the week ahead. Readers are invited to play along with the "theme forecast." I spend a lot of time on it each week. It helps to prepare your game plan for the week ahead, and it is not as easy as you might think.
+
+How should we get ready for this week's Fed announcement? There are three basic positions:
+ Rate hikes might come faster than expected. This is for one of two main reasons:
+ There is plenty of labor slack from cyclical forces, suggesting the need for patience. Fed expert par excellence Tim Duy explains in a thoughtful article with many charts. It defies summary, so those who want to understand need to read it.
+
+We will probably start the week with breaking news from Ukraine, but by Wednesday our focus will, once again, be on the Fed.
+
+I have some thoughts that I will share in the conclusion. First, let us do our regular update of the last week's news and data. Readers, especially those new to this series, will benefit from reading the background information.
+
+Each week I break down events into good and bad. Often there is "ugly" and on rare occasion something really good. My working definition of "good" has two components:
+ The news is market-friendly. Our personal policy preferences are not relevant for this test. And especially - no politics.
+ It is better than expectations.
+
+In a light week for data, there was some good news.
+ Earnings growth remains solid - both reported and forecast. The last quarter of 2013 approached the 10% growth predicted by Brian Gilmartin and few others. In Brian's most recent update he highlights the three time frames you should use when thinking about earnings growth:
+ Retail sales beat expectations with a gain of 0.3% and 1.5% YoY. The monthly result was less impressive when considering revisions to the prior months. Calculated Risk notes that the YoY gain is 2.2% if you exclude gasoline sales. Doug Short has a great chart package. This one shows why the most recent update is (perhaps) not so exciting:
+ The number of US millionaires is at a new high - 9.63 million versus 9.2 million in 2007. (LA Times).
+ Initial jobless claims hit a new low - 315,000. It is a noisy series, but this is encouraging.
+ Job turnover data remains positive. It was in line with expectations, but as Calculated Risk notes, it confirms a positive trend. The two things to watch are job openings and the quit rate (higher quits are very positive). You can see both from this chart:
+
+There was also some bad news.
+ High frequency indicators continue to be weaker. I always read carefully the fine weekly summary from New Deal Democrat. He collects many concurrent indicators that each might seem minor, but collectively are quite significant. He documents a continuing overall soft patch.
+ Copper prices are in a dramatic decline. The market seems to be reacting to this news. Some even infer a global recession from the recent message from "Dr. Copper." The current pricing is heavily influenced by China - important, but not necessarily the only global factor. Dr. Ed prefers the CRB to copper, and discusses other factors as well. Here is the Yardeni chart:
+ More Americans see Russia as a threat - 69% according to a CNN poll. 40% also fear a nuclear war with Russia. (If you share this fear, how should you invest? Answer in the conclusion.)
+ Michigan sentiment disappointed. I regard this as an important indicator for both employment and consumption. It is time for a fresh look at my favorite chart of this data series, one that combines the history, GDP, recessions, and the average level. Naturally, it is from Doug Short.
+ Ukraine developments. Regardless of one's interpretation of events, the market will definitely interpret added tensions as negative. Stories about troop movements to the Crimean border will definitely rile the markets. As has been the case for the last two weeks, anything I write can be obsolete by the time you read it. Separate your interest as a citizen from your decisions as an investor. I have heard several stories about people who sold all of their stocks because of these events. In addition to the excellent sources I have provided over the last two weeks, I recommend this article by William A. Watts of MarketWatch. It emphasizes the investment perspective. I love the comment from my friend and colleague Scott Rothbort, who writes a daily "Gut Feeling" column on the markets: This is a game of chess, not battleship.
+
+9/11 planner released in a prisoner swap - now moved to Germany where the statute of limitations on terrorism is ten years. (Full story at The XX Committee).
+
+We all deserve some laughs. Some of the most popular blog posts provide the humor that lends perspective to what is happening.
+
+Bespoke's premium service analyzed the over-reaction to small market moves (via Dorsey Wright).
+
+And Josh Brown's list of "explanations" for Thursday's selling was a big hit. Check out his full list, but here are my favorites:
+
+If you are a regular reader of these sources, you will be laughing.
+
+Whether a trader or an investor, you need to understand risk. I monitor many quantitative reports and highlight the best methods in this weekly update. For more information on each source, check here.
+
+Georg Vrba: Updates his newest recession indicator, maintaining an increase in the "weeks to recession" from 26 to 27. This does not mean that there will be a recession in 27 weeks. Instead, it shows that the chance is "statistically remote" that a recession would start during that time. Georg's BCI index also shows no recession in sight. For those interested in gold, Georg also sees a possible buy signal next month. Stay tuned!
+
+RecessionAlert: Sees improvement in leading indicators for US growth, while highlighting danger areas worth monitoring. See the article for detailed charts on each indicator.
+
+Doug Short: An update of the regular ECRI analysis with a good history, commentary, detailed analysis and charts. If you are still listening to the ECRI, you should be reading this update.
+
+Bob Dieli does a monthly update (subscription required) after the employment report and also a monthly overview analysis. He follows many concurrent indicators to supplement our featured "C Score." One of his conclusions is whether a month is "recession eligible." None so far - and Bob has been far more accurate than the high-profile punditry.
+
+David Rosenberg's indicators suggest no recession and probably two more years of growth. His analysis will sound familiar to our regular readers, since it has been our message for almost three years:
+
+After a week of light data, this week is more normal.
+
+The "A List" includes the following:
+ Initial jobless claims (Th). Best concurrent read on the most important subject. Confirmation for new lows?
+ Housing starts and building permits (T). Housing could be an economic driver. These are leading indicators.
+ Existing home sales (Th). Less important than new construction, but still a good measure.
+ CPI. With no signs of inflation, this remains a secondary indicator.
+ Fed stress test results (Th - after the close). Some background here.
+
+The FOMC announcement on Wednesday followed by Yellen's first press conference will be the big event for the week. I am less interested in the regional Fed results.
+
+How to Use the Weekly Data Updates
+
+In the WTWA series I try to share what I am thinking as I prepare for the coming week. I write each post as if I were speaking directly to one of my clients. Each client is different, so I have five different programs ranging from very conservative bond ladders to very aggressive trading programs. It is not a "one size fits all" approach.
+
+To get the maximum benefit from my updates you need to have a self-assessment of your objectives. Are you most interested in preserving wealth? Or like most of us, do you still need to create wealth? How much risk is right for your temperament and circumstances?
+
+My weekly insights often suggest a different course of action depending upon your objectives and time frames. They also accurately describe what I am doing in the programs I manage.
+
+Three weeks ago Felix made a dramatic switch from neutral to bullish adding trading positions throughout the week. That has worked pretty well. We remain fully invested. Many sectors have returned to the penalty box, reflecting reduced overall confidence in the three-week forecast.
+
+It has been tougher than ever for traders, and that is saying a lot. This Taiwan Stock Exchange study says that "Less than 1% of the day trader population is able to predictably and reliably earn positive abnormal returns net of fees."
+
+I review the themes here each week and refresh when needed. For investors, as we would expect, the key ideas may stay on the list longer than the updates for traders. The current "actionable investment advice" is summarized here.
+
+This is still an important time for long-term investors. We all know that market corrections of 15% or so occur regularly without any special provocation. Recent years have been the exception. Over the last several weeks I have emphasized the need to maintain perspective, using market declines to add to positions.
+
+It helps if you have been actively rebalancing your portfolio and trimming winners. Then you have some cash. Some readers have asked me to write more on this topic, so I have placed it on the agenda. For now, let me do a quick summary.
+ Review your holdings regularly. (For me, that means at least weekly, but it is my job. Quarterly is probably enough for most people, perhaps with some price alerts). Make sure that your original reasons for the investment are still valid. Revise your fair value and price target estimates.
+ Do not fall in love with a position. If hanging on to a disappointing holding, make sure your reasons are sound.
+ Sell if your price target is hit.
+ Rebalance by trimming if a stock appreciates massively, but remains below the price target.
+
+Each week I highlight some of the best advice I see. Here are some highlights.
+
+Eddy Elfenbein has a typically level-headed analysis about what long-term investors can expect from stocks: 5% in real terms, half from capital appreciation and half from dividends. If you expect some inflation, you need to add that. Stocks are a good inflation-fighter. Read the full post for comparisons with some recent bearish arguments. If you are a good picker of stocks, you might add a little to that.
+
+Value Line's famous strategist, Sam Eisentadt, sees another 12% in stocks before September. No guarantees of course, but he asks if anyone has a method with a better track record for six-month changes. (Via Mark Hulbert).
+
+Barry Ritholtz addresses the issue: How Market Tops Get Made
+
+This is a good analysis of key factors developed over decades of research, so read about each. Here is a key quote:
+
+Steven Russolillo of the WSJ takes on the same topic with a checklist from Strategas Research Partners:
+
+Why choose these sources to highlight? Integrity. Using indicators that have worked for years. This is in sharp contrast to those who start with a viewpoint and switch whenever the indicator no longer works. In a continuing exercise in futility, I wrote about this topic last week here and here. Most people would prefer to be scared witless (TM OldProf). Which leads to¡­
+
+And finally, most Americans have missed the rally - so far - according to Bloomberg. If that describes you, you have company. This is one of the problems where we can help. It is possible to get reasonable returns while controlling risk. Check out our recent recommendations in our new investor resource page - a starting point for the long-term investor. (Comments and suggestions welcome. I am trying to be helpful and I love and use feedback).
+
+I am well aware of the difference between perceptions and reality. The former is of greater interest to traders. Many of them have been caught off base (switching metaphors for the new season) and blame the Fed for their own mistakes. (See Fed as a Fig Leaf).
+
+The reality is that the current QE rendition is having only a small economic effect and it will matter little when it goes. (See my QE summary.)
+
+One of my regular themes is the over-emphasis on the Fed rather than economic fundamentals - earnings, recession risk, and potential financial stress. That focus will pay off for long-term investors.
+
+Too easy, perhaps, but the answer comes from Art Cashin. He was a trainee during the Cuban Missile Crisis (1962). I remember reading the story nearly thirty years ago - and it was old then!! (See Paul Vigna). You might as well buy, since if they don't find a solution, it won't matter!
+
+Disclosure: I have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours. I wrote this article myself, and it expresses my own opinions. I am not receiving compensation for it. I have no business relationship with any company whose stock is mentioned in this article.

@@ -1,0 +1,23 @@
+Here is the Fed's report on the Dodd-Frank Act Stress Test 2014. It is long, but the good news is that you don't have to read it. Not because I've Read It So You Don't Have To, hahaha, no, that would be dumb, I haven't read it either. Rather, you don't have to read it because it's really just the preview to next week's Comprehensive Capital Analysis and Review. That's the exciting stress test that determines which banks can return capital. (Apparently not BofA! Maybe? I don't know.) This one is mostly just for practice.
+
+Still we could take a quick glance through the DFAST to whet our appetite for the CCAR, and also to get used to using those acronyms. One thing to notice about the DFAST is that the banks and the Fed differ pretty strongly about how severely and adversely a "severely adverse" scenario will affect the banks. These differences go about as you'd expect: The banks think that they'll do pretty well and be pretty well capitalized; the Fed is more of a worrier.
+
+
+
+Neither the banks nor the Fed are entirely transparent about the models they use to get to these results, so you can't really say who's right and who's wrong, though there is an obvious and important sense in which the Fed is necessarily right and each bank is wrong in proportion to how far it differs from the Fed, which is not final because it is infallible but rather infallible because it is final. If the Fed tells you you can't buy back shares, the arguable greater accuracy of your model will be little consolation.
+
+Exactly how the banks think they outperform the Fed is all over the map. Goldman Sachs thinks its stressed net revenue would be twice what the Fed thinks ($11.3 billion versus $4.9 billion). JPMorgan's revenue estimate is lower than the Fed's, but it makes up for that with lower expected loan-loss provisions and trading losses.
+
+For giggles I just aggregated data for five big banks -- Bank of America, Citigroup, Goldman Sachs, JPMorgan and Wells Fargo -- and looked at how their capital ratios changed in the stress tests' severely adverse scenario. Like so:
+
+In the aggregate, the Fed and the banks seem to be on the same page about net pre-provision revenue (though, again, individual banks have higher or lower revenue numbers than the Fed), and on similar enough pages about trading losses and miscellanea. The two big and consistent differences are loan provisions -- the Fed thinks that these five banks will have $235 billion of loan losses; the banks think it's only $187 billion -- and risk-weighted assets. The five banks think that their total tier 1 common equity will shrink by $135 billion in severely adverse scenario, but that this will be somewhat offset by shrinking their risk-weighted assets by $462 billion. The Fed thinks that these five banks will lose $215 billion in common equity, and that their RWAs will go up by $182 billion.
+
+That difference alone accounts for a good chunk -- 1.1 percentage points out of 2.6 -- of the differences in final capital estimates between the Fed and the banks. In other words, a little over half of the difference is that the banks think they'll perform better than the Fed does; the other half is that the banks think they'll be smaller than the Fed thinks.
+
+What do we think? The Fed explains its thinking in Box 2 of the stress test results, and its thinking is very top-down. It "begins with a set of models that relate total assets in the banking industry ... to nominal GDP and other macroeconomic factors, including a measure of loan supply." It assumes that loan supply will not go down, and then allocates assets to each bank "based on its shares of those positions at the beginning of the planning horizion." Here is the handy chart:
+
+Each of these five banks, on the other hand, expects its risk-weighted assets to go down in a severely stressed scenario. They don't explain their reasoning in much detail, but there is an obvious appeal to this expectation: If you're writing off loans and losing money on trading, your assets do tend to go down. It seems a bit harsh to tell banks that their stress scenarios should assume they lose business, have lower income and write off assets -- but also assume that they magically acquire more assets from somewhere.
+
+On the other hand! Here's what happened to the assets of those banks in the last crisis:
+
+That's a little unfair; a lot of these banks spent a lot of the crisis acquiring other banks. Still, empirically, it's hard to fault the Fed for concluding that, even as financial stresses eat away at the value of big banks' assets, somehow those banks end up with more assets anyway.

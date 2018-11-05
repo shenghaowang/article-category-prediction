@@ -1,0 +1,17 @@
+Tokyo-based Bitcoin exchange Mt Gox found $116 million worth bitcoins. The catch? These bitcoins were presumed to be lost. The find that could provide some relief to the scandal hit exchange.
+
+Time reported the bitcoins were found in an old-format wallet, previously thought to be empty. The two hundred thousand bitcoins that were found on March 7 may help the exchange weather the crisis caused after it had "lost" 850,000 bitcoins. Following the loss, the exchange filed bankruptcy.
+
+According to a letter dated March 20, posted on Mt Gox's website, the company decided to scan all old wallets.
+
+"Following the application for commencement of a civil rehabilitation proceeding, these wallets were rescanned and their balance researched. On March 7 MtGox Co confirmed that an old format wallet which was used prior to June 2011 held a balance of approximately 200,000 BTC," it said.
+
+"For security reasons, the 200,000 BTC were moved from online wallets between March 14 and 15 to offline wallets," the letter further stated.
+
+The company said in the letter the total number of bitcoins originally presumed to be lost have now come down by 200,000. The exact number of coins that disappeared, though, is under investigation and the figures may change.
+
+Financial Times pointed out Mt Gox was seeking a debt restructuring of $64 million.
+
+Reuters said that several creditors were skeptical about the Mt Gox's explanations of how the bitcoins had vanished. It also expressed reservations over the find from a plaintiff who filed a class action against the exchange agency. The judge in Chicago overseeing the matter allowed for tracking of bitcoin exchange.
+
+Steven L. Woodrow, one of the partners at Edelson representing the plaintiff, said, "Today in court we got relief ... specifically to track the 180,000 bitcoins, which we've been monitoring. Hours later, Mt. Gox claimed it 'found' these bitcoins ... it appears Mt. Gox realized we were close and decided to acknowledge that it owned these 180,000-200,000 bitcoins."

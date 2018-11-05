@@ -1,0 +1,9 @@
+Troubled Bitcoin exchange Mt. Gox disappeared from the Internet last month and subsequently filed for bankruptcy protection in Tokyo, causing panic among users who feared that they had lost all their Bitcoins ¡ª but now Mt. Gox is finally letting users log in to check their wallet balances (via Engadget).
+
+However, it comes with a disclaimer that confirming the balance on the site doesn¡¯t equate to a filing or any confirmation of rehabilitation claims ¡ª essentially warning users that they may not necessarily get back all the Bitcoins they have. Under the civil rehabilitation procedure that Mt. Gox is currently subscribed to, rehabilitation claims can only be confirmed after a filing and an investigation. Mt. Gox says it will announce the method for filing claims in the near future.
+
+At least this means that Mt. Gox users will probably get back some of their Bitcoins, even if not all.
+
+ Mt. Gox login page returns, but only lets users check their balance [Engadget]
+
+Read next: Amazon will reportedly ship its video-streaming Android-based device early next month

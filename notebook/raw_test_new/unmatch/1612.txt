@@ -1,0 +1,25 @@
+(Reuters) - A U.S. federal judge on Tuesday temporarily froze the U.S. assets of Mt. Gox chief Mark Karpeles and allowed alleged victims of the shuttered bitcoin exchange to demand evidence of what they claim is a massive fraud.
+
+The market for the digital currency was rocked last month when Mt. Gox, once the world¡¯s largest bitcoin exchange, ceased operations, and soon after filed for bankruptcy. Mt. Gox said it may have lost 750,000 bitcoins, worth hundreds of millions of dollars, in a hacking attack.
+
+The freeze on Karpeles¡¯ assets, issued by Judge Gary Feinerman in Chicago, also applies to Mt. Gox¡¯s U.S. affiliate and the Japanese parent company, Tibanne, according to Christopher Dore, an Edelson attorney who represents U.S. customers of the bitcoin exchange.
+
+The judge¡¯s order did not apply to the Tokyo-based Mt. Gox KK, which was shielded from litigation after it filed for bankruptcy protection in Japan and the United States.
+
+Mt. Gox suspended withdrawals on February 7, leaving customers unable to recover their funds.
+
+In a bankruptcy hearing on Monday, parties suing Mt. Gox said there are growing concerns that Karpeles moved millions of dollars of bitcoins in recent days based on information gleaned from the Internet.
+
+Dore represents Gregory Greene, an Illinois resident, who brought a proposed class action over what he claims is a massive fraud. Mt. Gox blamed the loss of hundreds of millions of dollars in bitcoins on a flaw in the software algorithm that underlies the digital currency.
+
+¡°The main thing we hope to achieve is to finally see what the web of things that Karpeles has put together over the last few years and to start unwinding it as to where things are and what happened,¡± said Dore.
+
+Bitcoin is bought and sold on a peer-to-peer network independent of central control. Its value soared last year, and the total worth of bitcoins minted is now about $7 billion.
+
+Investors were warned on Tuesday that the lure of a quick profit trading the volatile currency should not blind them to bitcoin¡¯s risk of theft, fraud and significant losses, according to an alert by the Financial Industry Regulatory Authority.
+
+Dore said the judge¡¯s order freezing Karpeles¡¯ assets will expire in 14 days, when the parties return to court to decide if it should be extended.
+
+John Murphy, a Baker McKenzie attorney for Mt. Gox KK, the bankrupt company, declined to comment. Dore said the U.S. affiliate, Karpeles and Tibanne were not represented at the hearing.
+
+The case is Gregory Greene v Mt. Gox Inc et al, U.S. District Court, Northern District of Illinois, No. 14-01437

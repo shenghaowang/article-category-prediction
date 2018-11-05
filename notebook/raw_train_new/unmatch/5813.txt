@@ -1,0 +1,72 @@
+For many entrepreneurs, especially first-time founders, raising outside capital can be daunting. Between all of the new vocabulary 每 like ※term sheets,§ ※capitalization tables,§ ※pro rata,§ and different valuation metrics 每 and the very real legal implications of the agreements being signed, it＊s easy to get overwhelmed.
+
+When you＊re first starting out (or just need a refresher), it＊s often best to learn from examples. So, that＊s what we＊re going to do today. We＊re going to explain the basic mechanics of the first rounds of funding, some of the key terms involved, and how different types of financial instruments and deal structures work. Let＊s start a company and build a capitalization table! And, for the sake of keeping this accessible, we＊re going to try to keep the terms simple.
+
+Let＊s start at the beginning. Imagine two founders, Jack and Jill. Their idea: The Internet of Wings, a buffalo chicken restaurant featuring drone delivery to all of Silicon Valley and beyond.
+
+They work with a lawyer to set up a corporation. The two decide to split their stakes at a 60-40 ratio, with the majority going to Jill because she＊s going to serve as CEO and has the technical background to make the scalable part of the business 每 drone-based delivery 每 a reality. They also decide to set aside 20 percent of the shares in an equity pool for future employees. So, here＊s how the ownership stakes break down at the start:
+
+Internet of Wings Inc. (abbreviated IoW, like IoT but involving poultry) was established as a Delaware C corporation 每 the standard type of legal entity for venture-backed startups 每 with 10,000,000 shares of Common Stock outstanding, issued at a par value of $0.001 per share. With this, in the eyes of the law, the company is now valued at $10,000. Here is the capitalization table for the company at this point:
+
+Jack sets to work developing a chicken sandwich that appears to be lovingly hand-crafted, even when produced at industrial scale. And he may or may not have taken ※inspiration§ from Apple＊s patented pizza boxes when creating packaging to keep the sandwiches intact and warm, but not soggy, during the short airlift from IoW＊s rented kitchen space to the customer. Meanwhile, Jill hacks together a drone capable of flying chicken sandwiches hither and yon.
+
+After months of working nights and weekends, they go to a park 每 their Kitty Hawk 每 and successfully make their first flight, which was captured on video and subsequently went viral on Periscope. With demonstrated demand for the novel idea but no cash to cover the costs of the business, Jill determines it＊s time to raise some outside capital in a Seed round.
+
+Seed rounds come in two main flavors: priced and unpriced. A priced Seed round is much like any other round of funding in that the company is given a valuation, and shares in the company are purchased for cash by investors at a price determined by that valuation.
+
+But today, due to their popularity relative to their priced cousins, as well as their unique structures and financial instruments, we＊re going to focus on unpriced seed rounds in this section.
+
+As the name suggests, in an unpriced round, the company is not given a valuation, and the investor isn＊t necessarily purchasing a known amount of equity at the time of investment. Rather, it＊s an agreement between the investor and the company to issue shares in a future, priced round in exchange for an infusion of cash at the time the unpriced Seed deal is struck.
+
+The two most common financial instruments used in unpriced seed rounds are convertible notes and so-called Simple Agreements for Future Equity (or ※SAFE notes§). A convertible note is a financial instrument that is issued first as debt, but then converts to equity under predetermined conditions, such as raising a priced round. A SAFE note is like a convertible note, except it＊s not a debt instrument, meaning that SAFE notes don＊t carry an obligation to pay interest. Introduced in late 2013 by Y Combinator, the prominent Silicon Valley-based incubator program, SAFE notes are generally thought to be more founder-friendly than convertible notes precisely because they aren＊t treated like debt, so they don＊t have a maturity date or interest payments associated with them. And as an added point of convenience, the agreements tend to be short, and there are comparatively fewer terms for founders to negotiate.
+
+Because Seed investors take on a lot of risk by investing in very early-stage companies, they＊ll oftentimes add a number of provisions to their investment agreements to ensure they get a sufficiently large piece of the company to justify that risk. Two of the most common provisions in unpriced rounds are ※discounts§ and ※valuation caps.§
+
+True to its name, a discount provision grants investors the right to purchase shares at a discount from the price of shares in the next funding round. In this case, the next round is Series A, which is typically the first priced funding round a company experiences (and the point at which the convertible note or SAFE would convert to shares). Separately, a valuation cap puts a ceiling on the valuation of the company such that the investor can ensure they get a certain percentage share of a company. This helps to prevent a runaway valuation from squeezing the percentage share they＊d be able to purchase in the company.
+
+Back to Jack and Jill. They decide to raise capital in an unpriced Seed round for their startup. They figure they need to raise $5 million to get their company off the ground. After soliciting introductions from their network, and lots of back and forth, they find two investors eager to commit the entirety of the round.
+
+Opaque Ventures agrees to a $2.5 million SAFE with a 20% discount provision, and BlackBox Capital will invest $2.5 million in a SAFE that has a $10 million valuation cap on the company＊s pre-money valuation. Agreements are signed, money is wired to the company＊s bank account, and Jack and Jill resume the process of building their venture.
+
+It＊s important to note that, at this time, no new shares have been created, and the value of the company remains the same because, again, this is an ※unpriced§ round where no new value is assigned.
+
+Fast forward 18 months. Business is booming, with a fleet of drones buzzing all around the Bay Area delivering chicken sandwiches to hungry customers. Jill and Jack have marshalled the financial resources from their Seed round well, having invested heavily in R&D, a few good engineering hires, and a few agreements with drone manufacturers overseas. But despite rapid growth, the company isn＊t profitable and only has eight months left before it runs out of cash.
+
+It＊s time to raise a Series A round. If a company hasn＊t already raised a priced round, Series A is typically when the shares of a startup receive their first valuation.
+
+Amongst venture capitalists and other startup investors, it＊s common to hear two types of valuations mentioned: ※pre-money§ and ※post-money.§ Put simply, a pre-money valuation is the value of the company prior to (hence ※pre-§) the round＊s infusion of capital. The post-money valuation is the value of the company after the round is complete, and it＊s usually calculated by adding the amount of money raised in the round to the pre-money valuation.
+
+Jack and Jill went to Sand Hill to raise their Series A. They want to raise $7 million. They meet with many, many investors, and ultimately work out a deal with two new firms. One of their previous investors, BlackBox, opted to participate in the round. Here＊s the breakdown:
+ Cormorant Ventures will lead the round by investing $4 million
+ Provident Capital is participating with its investment of $2 million
+ BlackBox Capital rounds out the round with $1 million
+
+Analysts at Cormorant Ventures determine that Internet of Wings Inc. is worth $15 million prior to any investment. This is its ※pre-money valuation.§ Although it＊s tempting to think that the company＊s post-money valuation would be $22 million (by summing the pre-money valuation and the amount being raised here) we＊ll see that the post-money valuation is actually a bit higher due to the discount and cap provisions used by the seed investors.
+
+The final signing of checks and legal paperwork sets off a cascade of conversions and capitalization table adjustments as the company issues new shares to its investors.
+
+Let＊s start with our Seed investors whose investments will convert to equity at this stage.
+
+Opaque Ventures invested $2.5 million in a SAFE with the ability to purchase shares at a 20% discount to the pre-money valuation at Series A. The Series A price is $1.50 per share ($15 million pre-money valuation divided by 10 million shares, the number of shares originally created when the firm was incorporated, which we noted earlier), so at a 20% discount ($1.20 per share), Opaque Ventures＊ $2.5 million investment converts to 2,083,333 shares ($2.5 million divided by $1.20 per share) valued at $3.125 million, a 1.25x multiple on invested capital.
+
+In the Seed round, BlackBox Capital invested $2.5 million in a SAFE with a valuation cap of $10 million. This allows them to purchase shares at $1.00 per share ($10 million cap / 10 million shares outstanding), resulting in the purchase of 2.5 million shares from their seed investment. At the new $1.50 share price, BlackBox Capital＊s Seed investment is now valued at $3.75 million, a 1.5x multiple on invested capital.
+
+At a Series A stock price of $1.50, Cormorant Ventures purchased 2,666,666 shares with its $4 million investment. Provident Capital purchased 1,333,333 shares with its $2 million investment. And with its $1 million follow-on funding in the Series A round, BlackBox Capital purchases an additional 666,666 shares of Series A stock.
+
+Here＊s how the ownership of the company breaks down after the Series A round. Let＊s start first with our capitalization table after the Series A funding round is complete.
+
+The post-money valuation of the company after raising its Series A round is roughly $28.875 million. Recall our temptation to say the post-money valuation should be $22 million ($15 million pre-money valuation plus $7 million raised in the round), but that would be incorrect in this case.
+
+Clauses like valuation caps and discounts allow investors to purchase shares at a price lower than the prevailing price per share. This increases the number of shares they are able to purchase, and thus results in more shares being created.
+
+To further illustrate that, let＊s think about what would have happened if IoW＊s Seed investors didn＊t implement caps or discounts. They would have been issued stock at the regular share price of $1.50 and, accordingly, wind up with a smaller percentage of the company. The terms they put into their investment agreements both raised the post-money valuation of the company by generating more shares, and they served to give these investors a larger chunk of the company than they＊d otherwise be entitled to if they purchased shares at the $1.50/share price paid by Series A investors.
+
+Here＊s the percentage breakdown of the company＊s different share classes between Seed and Series A rounds.
+
+One of the other important things to note is that, on a percentage basis, Jack, Jill, and the employee equity pool＊s relative share of the company has decreased on a percentage basis. This is known as dilution. Financially, dilution isn＊t really a big deal, because even a shrinking slice of the proverbial pie is still valuable if the size of the pie 每 the value of the company 每 continues to grow. For example, although holders of Common Stock own just 52 percent of the company after its Series A round, their collective stake is now valued at $15 million. And so long as share prices continue to increase in subsequent rounds, the value of their stock will continue to increase as well even as they continue to be diluted.
+
+Where dilution does matter, though, is in the control and voting structure of the company. In most voting agreements, voting power is often tied to the number and type of shares held by a given shareholder, founders and other investors can find themselves outnumbered during key votes as their percentage ownership of the company is diluted. This is the principal reason why many investors include anti-dilution provisions, to maintain their control in a company.
+
+Raising outside money is one of the more esoteric aspects of being an entrepreneur, but it doesn＊t need to be confusing. Although we used relatively simple terms here, we discussed the differences between pre- and post-money valuations, saw how different types of deal terms affect valuation and percentage ownership, and explained how raising new rounds of funding can lead to dilution of founders＊ and early investors＊ stakes in a company over time.
+
+Things are often considerably messier in the real world, but the underlying mechanics discussed here still hold.

@@ -1,0 +1,59 @@
+In last week＊s article Is IBM Watson A ＆Joke＊?, I quoted Social Capital CEO and founder Chamath Palihapitiya bad-mouthing Big Blue on the May 8th edition of Closing Bell on CNBC.
+
+Palihapitiya＊s didn＊t heap his scorn solely on , however. was also in his gun sights. ※Oracle＃is not a business that is going to win tomorrow,§ Palihapitiya told CNBC. ※It has an unbelievable sales and marketing machinery that will figure out how to tax its existing customers in umpteen numbers of Byzantine ways.§
+
+We may argue over Oracle＊s future prospects, but its current ones are quite rosy, as the enterprise software behemoth is coming off of a fabulous quarter. ※Total cloud revenues in the quarter were $1.4 billion, up 66% from last year,§ crowed Oracle co-CEO Safra Catz on the company＊s June 18, 2017 earnings call (from Seeking Alpha). ※Total on-premise software revenues were $7.5 billion essentially unchanged from last year and while new software license revenues were $2.6 billion, down 4% reflecting the increasing preference of customers for cloud.§
+
+Taxing customers in Byzantine ways or no, Oracle must be doing something right to make such numbers. Why, then, is Palihapitiya so bearish on its long-term prospects?
+
+Customer lock-in has been an enterprise software vendor strategy since the dawn of enterprise software 每 and in the early days, the fact that software was proprietary and lacked open interfaces essentially required companies to buy much of their gear from the same vendor.
+
+Today, in contrast, the prevalence of open source software and open APIs empowers companies to purchase the best tool for the job 每 and thus, vendors must compete on quality and overall customer value.
+
+Not Oracle. In fact, customer lock-in is one of its explicit strategies. ※In the product called Exadata, our engineered systems, we actually build the hardware and the software together to optimize it for Oracle IP [intellectual property],§ explained Oracle co-CEO Mark Hurd on CNBC on October 26, 2015.
+
+Engineering underlying hardware systems to optimize for the software running on them is the reverse of what most other vendors do. Oracle＊s biggest nemesis in the public cloud space, AWS from , would have never got off the ground if it optimized its infrastructure for its own software.
+
+Analyst firm 451 Research concurs. ※Oracle＊s approach to cloud-based data services is essentially to provide an Oracle cloud for Oracle customers,§ the firm wrote in the 451 Alliance＊s Global Digital Infrastructure Trends newsletter from June 30, 2017. ※As such, most Oracle cloud database and analytics services are directly related to on-premises software products.§
+
+Many Oracle customers have caught on to this strategy. ※What I truly dislike about Oracle is their ＆Business is war＊ mentality,§ opined Sebastiaan Peters, Engineer at Orderbird. ※Oracle tries to dominate the market with aggressive sales practices, massive lock-in mechanisms and above all litigations. Oracle depends on lock-in and their legal department. A modern company lives on quality and cooperation.§
+
+For its part, Oracle emphasizes the value its cloud has for its existing customers in particular. ※ has agreed to migrate thousands of existing Oracle databases containing petabytes of data plus their associated applications workloads to the Oracle Cloud,§ said Oracle Chairman and CTO, Larry Ellison. ※In the coming year, I expect more of our big customers to migrate their Oracle databases and database applications to the Oracle Cloud.§
+
+Oracle insiders have a term for this strategy: the ＆nuclear option.＊ ※It involves pressuring some of its customers to add cloud to their contracts that they neither want nor plan to use,§ explained Julie Bort, chief tech correspondent for Business Insider. ※It refers to something known as a ＆breach notice.＊§
+
+Here＊s how the scheme works: Oracle licenses its software under complex 每 some would say ＆Byzantine＊ 每 legal conditions. Complex software licenses are common for enterprise vendors, but Oracle takes this strategy further than most of its competition.
+
+The secret: tricking customers into using features they haven＊t licensed. ※Oracle＊s licensing policies are notoriously vague and confusing,§ said Robert Sheldon, technical consultant writing for TechTarget＊s SearchOracle. ※One misstep and you can end up owing thousands of dollars in audit fees. Yet Oracle software, with its dazzling array of management packs and pre-installed options, is easy to misuse.§
+
+Sheldon continues: ※The challenge with Oracle software, in particular, is that product options and management packs are installed with the main products and enabled by default.§
+
+Once a customer has fallen into this trap, Oracle sends it a breach notice, and then sends in a team to conduct a software license audit. Bringing a customer into compliance, however, isn＊t Oracle＊s primary goal 每 selling them services they may not want or need is. ※These days, to make the breach notice go away 〞 or to reduce an outrageously high out-of-compliance fine 〞 an Oracle sales rep often wants the customer to add cloud ＆credits＊ to the contract,§ Bort said.
+
+The fact that this strategy is tantamount to extortion is not lost on Oracle customers and consultants. ※Customers are buying cloud services to make the Oracle issue go away, not because they have any intention of using cloud services,§ according to Craig Guarente, CEO of Palisade Compliance.
+
+Oracle touted the benefits of this strategy on its December 15, 2016 earnings call. ※Our pivot to the cloud has been phenomenal, said Catz. ※We continue to see accelerating growth rates in our cloud business, while our key competitors are slowing down, but more importantly, the increase in revenue from our cloud business is starting to overtake our new software license business decline.§
+
+No one can blame Oracle for charging as much for its products as the market can bear. After all, that＊s basic business sense. Some of its pricing moves, however, have customers crying foul.
+
+Fellow Forbes contributor Dan Woods recently called out Oracle for one such move. ※In January, Oracle changed the fine print on some of its license terms, essentially doubling the cost of running Oracle software on AWS and Azure, while leaving the cost of running on the Oracle Cloud unchanged,§ Woods wrote.
+
+The price change specifically targets Amazon＊s AWS and Azure. ※An 8 core physical box requires 4 cores of licensing,§ explained Tim Hall, Oracle database expert and thought leader. ※Now on the cloud, an 8 core VM (16 vCPUs on AWS or 8 vCPUs on Azure) requires 8 cores of licensing.§
+
+However, Woods believes Oracle may be making a mistake. ※While the impact of this is obvious, making it cheaper to run the same Oracle footprint on Oracle＊s cloud compared to AWS and Azure, it is not at all clear that Oracle is going to benefit in any significant way from making it more expensive to run on other clouds,§ he said. ※Whatever this policy change is intended to be, it certainly isn＊t a show of strength by Oracle. It seems more like a show of weakness and an attempt to grab a sliver of revenue.§
+
+There are two sides to this coin, of course 每 what is gouging customers from one point of view means healthy margins from another.
+
+And healthy margins are what Oracle＊s cloud strategy is all about. ※When a customer who is on-prem paying us support moved to the cloud, they pay us more money,§ Hurd explained on the most recent earnings call. ※They don＊t pay us one to one, they don＊t pay us two to one, they pay us more like three to one. In some cases more than three to one.§
+
+Given that for most customers, one of the primary business benefits of the Amazon and Microsoft public clouds is a lower cost as compared to on-premises alternatives, Oracle＊s pronouncement that it will actually triple the profits it extracts from its customers as they move to the cloud should give anyone pause.
+
+Ask an Oracle employee 每 either current or former 每 and they will likely agree that the company has always had a ruthless focus on the bottom line. As a public company, its management＊s remit is to maximize shareholder value, and if ruthlessness works, then so be it.
+
+However, while many of its competitors put innovation and customer value high on their lists of strategic priorities, for Oracle, these core goals are secondary to delivering on the margins necessary to drive short-term profitability and growth.
+
+For many of its existing customers, however, sticking with Oracle in spite of its anti-customer policies is preferable to switching to another vendor 每 not because Oracle＊s products are necessarily any better, but because Oracle has done such a good job putting up roadblocks for any company considering such a move.
+
+In the final analysis, however, the customer is the king here. Anti-customer strategies can only take a company so far before people simply won＊t put up with them anymore. Oracle may be winning business today, but it＊s clear why Palihapitiya believes it won＊t be winning in the future.
+
+Intellyx publishes the Agile Digital Transformation Roadmap poster, advises companies on their digital transformation initiatives, and helps vendors communicate their agility stories. As of the time of writing, none of the organizations mentioned in this article are Intellyx customers. Image credit: Oracle PR.

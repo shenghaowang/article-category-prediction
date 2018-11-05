@@ -1,0 +1,15 @@
+A Japanese newspaper is reporting that during the spectacular collapse of the Mt Gox Bitcoin exchange, the operation's servers were also suffering a large-scale DDOS attack.
+
+The Yomiuri Shimbun's English-language Japan News reports that the attacks in early February reached 150,000 DDOS hits per second, ¡°mostly from servers in the United States and Europe¡±.
+
+Japan News notes that it doesn't require any special skill to launch a DDOS attack, citing Tetsutaro Uehara, a professor of information security at Ritsumeikan University: ¡°DDoS attacks can be done without high-level hacking techniques.¡±
+
+Referring to attacks on Slovenian Bitstamp and Canada's Flexcoin, Uehara said: ¡°It is possible that copycats turned their eyes on other exchanges after weaknesses in Mt. Gox¡¯s system were found.¡±
+
+By February 10, Mt Gox threw its hands up in the air and suspended Bitcoin withdrawals. It later emerged that attackers had found a way to exploit the Mt Gox code to steal 850,000 Bitcoins worth hundreds of millions of dollars.
+
+Of the stolen Bitcoins, 750,000 belonged to customers and 100,000 were Mt Gox's own holdings.
+
+Mt Gox is under investigation in the US and Japan. 
+
+Sponsored: Following Bottomline¡¯s journey to the Hybrid Cloud

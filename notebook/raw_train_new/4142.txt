@@ -1,0 +1,85 @@
+In 2009, Satoshi Nakamoto served the world an entirely new kind of currency. It was one that people could move over the internet instantaneously and nearly free of charge. Issued and distributed not by a central bank but by its own users, it drew the drapes of privacy around financial transactions while making forgery¡ªin theory, at least¡ªimpossible.
+
+It¡¯s nine years later, and there are now 24 million active Bitcoin wallets in use around the world. The value of a single bitcoin has risen from about a dollar in 2011 to as high as $19,700 in late 2017.
+
+But success, of course, breeds competition. And Bitcoin is now clearly the dominant cryptocurrency; as of this writing, in early April, its market cap was three times that of Ethereum, its nearest competitor, and roughly equal to those of all other cryptocurrencies combined.
+
+Yet while Bitcoin has established an economy in which it¡¯s impossible to forge transactions, it provides no defense against replication of the idea itself. No one can copy an individual bitcoin, but anyone can copy the idea of Bitcoin. So how might a government, or a corporation, or even ordinary people, go about doing so in a way that makes Bitcoin useless or redundant? Here are a few scenarios.
+
+The year is two-thousand-something-big, and it¡¯s the day your taxes are due. But you don¡¯t file them. Instead an algorithm automatically makes a withdrawal from your electronic wallet, in a currency called Fedcoin.
+
+It¡¯s the digital version of those crunchy bills you only vaguely remember from many years ago, back before the central banks began taking paper cash and redeeming it for fedcoins. Over the years, you¡¯ve seen less and less hard currency. You don¡¯t need it anymore, not when you can walk into a local bank, verify your identity, and set up a wallet on your phone. Sure, you still have a few dollar bills. But they are tucked away as souvenirs.
+
+This hypothetical technology¡ªa central-bank-issued digital currency built with a tweaked version of the Bitcoin blockchain¡ªwas described by David Andolfatto, a researcher at the Federal Reserve Bank of St. Louis, and later refined by Sahil Gupta, who as an undergraduate at Yale wrote a study on how a currency like Fedcoin would work. With some colleagues, he wrote code to test a simulation.
+
+In their system, a blockchain records transactions, just the way it happens with Bitcoin. Instead of being updated by a network of unaffiliated peers, however, the Fedcoin ledger is managed by institutions certified by the Federal Reserve. ¡°These authorized nodes could be things like Bank of America, JP Morgan¡ªbasically, trusted institutions,¡± Gupta told me.
+
+Each bank is responsible for a chunk of addresses on the blockchain. When new transactions come through, the bank validates them in a new block and sends it to the Fed. The Fed then acts as the final arbiter, checking the entries and unifying the blocks into a master version of the blockchain that it makes public.
+
+To use fedcoins, people must first show proof of identity and set up a wallet with the Federal Reserve or an affiliate bank, at which point they can buy the new currency with US dollars at a one-to-one ratio. A scheme like this, says Gupta, might gain popularity and ultimately result in the slow disappearance of physical cash.
+
+¡°I¡¯d imagine people first get comfortable spending Fedcoin on things like groceries and movie tickets,¡± he says. ¡°As people realize it¡¯s easier than cash, as businesses realize it¡¯s cheaper than credit cards, and as banks realize it¡¯s literally more secure, so goes the process by which dollars are phased out of the money supply and Fedcoin phased in.¡±
+
+This isn¡¯t just an academic thought experiment. The Bank of Canada built a simulation for such a currency, on a blockchain similar to Ethereum¡¯s, in 2016.
+
+What such researchers are finding is that a digital version of state-run currencies could match or even improve upon the efficiencies of Bitcoin. Gupta believes that transactions should be processed much faster when a central bank is behind the system (as opposed to the peer-to-peer network that currently records Bitcoin transactions). This efficiency could add up to a lot of saved money. The Bank of England, which has been furiously researching blockchain technology, reported in 2016 that even partial adoption of a central-bank-issued digital currency would result in a 3 percent increase in GDP as the cost of taxes and transaction fees went down.
+
+A shift away from cash would also make it easier for governments to collect taxes and enact monetary policy, says Campbell Harvey, a professor of finance at Duke University. For example, if a government wanted to disburse stimulus payments, it could simply deposit money into people¡¯s Fedcoin wallets. ¡°You drop five hundred dollars in everybody¡¯s wallet, a single line of code. You¡¯re done ¡­ there¡¯s nothing in the mail, no mail being intercepted. There¡¯s no people trying to fraudulently take the money,¡± he says. ¡°It¡¯s no surprise that every major central bank in the world has got a team looking at the possibilities of moving to a blockchain-based crypto national currency.¡±
+
+Let¡¯s voyage once more into the future, but not so far this time. Because this scenario could happen tomorrow if the right people got their acts together. This time Bitcoin is usurped by a social-media behemoth. To make it easy, let¡¯s choose the one that claims to have over two billion users worldwide.
+
+To imagine how Facebook could use its popularity to topple Bitcoin, look at how another large network, Telegram, approached the issue. In January of this year, the company, whose secure-messaging app has over 200 million users worldwide, announced that it would create its own app-specific cryptocurrency, called Grams, that users could send each other or use to pay for services within the network. By February, Telegram had raised $850 million from investors by selling the currency in advance in an initial coin offering. By late March it had raised another $850 million in a second round.
+
+So Facebook, like Telegram, could issue its own native currency. Or it could take the more insidious route: adopt Bitcoin itself and take it over.
+
+Today, the rules of Bitcoin are enforced by a triad of network operators: the users who make transaction requests, the miners who process those requests and write them into the blockchain, and the validators who watch the blockchain to make sure everything is up to snuff. All of them are using interoperable software, which is what keeps them united on a single version of the blockchain.
+
+Any subset of these network actors can decide at any moment to use another version of the Bitcoin software with slightly different rules to split off from the rest and form a parallel currency. Exactly that happened last year with the creation of Bitcoin Cash, an alternative blockchain with slightly different specifications that allow it to process more transactions in each block.
+
+If Facebook could persuade a large enough fraction of Bitcoin users and miners to run its own proprietary version of the Bitcoin software, the company would thereafter control the rules. It could then refashion Bitcoin as a corporate version of the Fedcoin described above.
+
+But there¡¯s an even better way that doesn¡¯t involve converting a bunch of true believers: Facebook could pull off a takeover before most people even realized what it had done. If you¡¯re reading this, Mark, here¡¯s how to do it.
+
+First, spend a month building a user-friendly, secure, Facebook-hosted Bitcoin wallet. A Bitcoin wallet is exactly what it sounds like¡ªa container for your digital currency. There are many different kinds¡ªsome in hardware, some in software¡ªvarying in their level of security and ease of use. Facebook, with its vast engineering resources and expertise in user experience design, would have no trouble making its wallet slick as hell.
+
+Then, overnight, integrate it into every single Facebook account¡ªall 2.2 billion of them. The next morning, Facebook users wake up to find a new goodie tucked into their profiles: a little button that says ¡°Send Bitcoin.¡± The wallet eliminates all the wonky quirks that make other Bitcoin wallets confusing. The address of every Facebook user is presented as a real name rather than a meaningless alphanumeric string.
+
+For those who already use Bitcoin, the experience is so vastly superior to what they¡¯ve previously experienced that they immediately migrate their funds to their Facebook wallet. Those who don¡¯t yet own any bitcoins, or have never heard of them, could be given the option of earning some on the site, either by watching advertisements or by writing Facebook posts for others to see.
+
+For those tired of watching ads, you mix in another fun feature. In exchange for a clean, ad-free experience, users can choose to let Facebook mine bitcoins with their computer¡¯s unused processing power. (Other media outlets, like Salon, are already experimenting with this.) On the side, and with very little fanfare, you build a data center and begin mining bitcoins on your own.
+
+Now let your users absorb these remarkable new tools into everyday life. Give them time to delight in the ability to send money instantaneously over Facebook to any of their friends on the global platform. (Contrast that with Facebook¡¯s existing system, which allows payments through Facebook Messenger, but only in a few currencies and countries.) Sit back and watch as the assets of Facebook¡¯s implicit reputation economy¡ªthe likes, the comments, and all the other metrics by which people get credit for keeping their eyeballs glued to the screen¡ªtake on real, transactional value. Give them time to get addicted. Give them time to settle in to the new career paths that emerge as personal brands turn into commodities. And all the while, credit yourself with ushering Bitcoin into the mainstream.
+
+Then take control. Now that most of the people holding bitcoins and many of the people mining bitcoins are using your software, you¡¯re at liberty to change it as you see fit. As with Bitcoin Cash, a rebellious few will choose to stop using your wallet and will instead send their transactions to the few ideologically driven miners who continue working on the old Bitcoin blockchain. Don¡¯t worry about them. The real Bitcoin, the one that nearly everyone in the world is using, is now yours.
+
+Now you have the same powers the Federal Reserve would have over its own centrally issued currency. Now you can mint, block, and reassign coins at will.
+
+Option three: Go forth and multiply
+
+There¡¯s another way to make Bitcoin irrelevant, one that simply follows the natural progression of what¡¯s already unfolding today. In this near future, goods and services are increasingly represented by tokens, which can be exchanged with anyone. You¡¯re in the checkout line at the grocery store. Inside your phone¡¯s digital wallet you find not only Fedcoin and FacebookCoin but also AppleCash, ToyotaCash, and a coin specific to the store you¡¯re standing in. There¡¯s also a coin redeemable for babysitting services, and another that gets you rides on your local subway system. You decide to pay with a fraction of a share of Apple stock, which you send as a coin to the grocer¡¯s wallet.
+
+¡°My vision of the future is that there would be thousands if not millions of ways to pay for stuff,¡± says Duke University¡¯s Harvey. If the Federal Reserve can create a token representing the US, he says, then there¡¯s nothing stopping people from backing tokens with whatever they want: ¡°This idea of collateralizing with dollars or gold is a pretty general idea. Why not instead of a million ounces of gold in the vault, you drop a million shares of Apple in the vault?¡±
+
+This ¡°future¡± is already happening. The trend among blockchain startups is to build services that function only with the use of a native cryptocurrency, one specifically designed for the application. Even companies that predate the blockchain are catching on. In January, Kodak announced a new coin that people could use to license the rights to their photography.
+
+These tokens are not unlike the points systems and gift cards that companies have used to hem in their customers for decades. What changes when you record these assets on a blockchain is that they become easily and securely transferable.
+
+¡°Think of this as an incredibly efficient barter system,¡± says Harvey. ¡°Barter is generally inefficient, but if you have a network and you tokenize the goods and services and enable it with a blockchain, it can become very efficient.¡±
+
+Facilitating trades between distinct digital assets would require a whole ecosystem of innovations. For assets that live on separate blockchains, there will need to be reliable ways to transfer tokens on one chain at exactly the same moment that another token moves elsewhere. Third parties will need to quickly match buyers and sellers¡ªif your grocer doesn¡¯t accept Apple stock, for example, you¡¯ll need to find someone to broker that deal and deliver a coin your grocer will accept.
+
+¡°Without a network, you have to find the person that wants to trade four goats for the cow. That¡¯s very difficult, to find that person. But with a network and with collateralization of blockchain-based tokens, it¡¯s much easier,¡± says Harvey. ¡°We¡¯re not there yet in this world, but that¡¯s where we¡¯re headed.¡±
+
+What¡¯s left for Bitcoin to do?
+
+So under those scenarios, would there be advantage left to the original Bitcoin? Maybe it¡¯s the one thing Bitcoin enthusiasts tout as the technology¡¯s greatest strength: Bitcoin transactions are anonymous and impossible to censor. These qualities would disappear the moment transactions were yielded to the Federal Reserve, or to Facebook, or to a network of brokers coordinating the sale of bartered assets.
+
+But if all Bitcoin can offer in our hypothetical future is privacy and censorship resistance, then we have to ask¡ªis it actually giving us those things right now?
+
+There are no real names stored on the Bitcoin blockchain, but it records every transaction you make, and every time you use the currency, you risk exposing information that can tie your identity to those actions. We know from documents leaked by Edward Snowden that the US National Security Agency has sought ways of connecting activity on the Bitcoin blockchain to people in the physical world. The NSA has been tapping fiber-optic cables, monitoring internet activity, and luring people onto compromised platforms by falsely promising to secure their privacy¡ªall in an effort to collect every bit of data that might link addresses to names and real identities.
+
+Should governments seek to create and enforce blacklists, they will find that the power to decide which transactions to honor lies in the hands of just a few Bitcoin miners. Some of these crucial players are already feeling the pressure of travel bans imposed by the Chinese government, though it remains unclear whether any specific demands have been made.
+
+Bitcoin¡¯s early adopters have held fast to the dream of a single world currency that is private, free for all to use, and under the control of the masses. But the seven billion people not yet using Bitcoin might not care about any of that. With networks, convenience wins, and convenience is based on size. It¡¯s the reason you¡¯re on Facebook rather than some other social-media site¡ªbecause everyone else is. If cryptocurrencies are to be widely used, it will be the habits of the masses, not the wishes of Bitcoin¡¯s early adopters, that determine what becomes of Satoshi Nakamoto¡¯s vision.
+
+Morgen Peck is a freelance writer based in New York City. Her work has appeared in Wired, Scientific American, and IEEE Spectrum.

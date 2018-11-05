@@ -1,0 +1,429 @@
+The transcript from this week¡¯s MIB: Torsten Slk, Deutsche Bank is below.
+
+You can stream/download the full conversation, including the podcast extras on iTunes, Bloomberg, Overcast, and Stitcher. Our earlier podcasts can all be found on iTunes, Stitcher, Overcast, and Bloomberg.
+
+This Masters in Business with Barry Ritholtz on Bloomberg Radio.
+
+BARRY RITHOLTZ, HOST, MASTERS IN BUSINESS: This week on the podcast, I have an extra special guest. His name is Torsten Slok, and he is the chief economist at Deutsche Bank Securities. But more importantly he is someone I¡¯ve been reading for I don¡¯t even know how many years and I consistently find his research and his writing to be among the most interesting and useful and contextualizing economic data of pretty much anyone I¡¯ve seen.
+
+He is, to me, the modern incarnation of Ed Hyman of ISI. He sees the world from a very holistic perspective, he looks at the world of markets and the economy just from a very, very broad perspective and I just find he¡¯s one of the few economists that I¡¯ll look at a chart and I will look at what he writes and kind of scratch my head and say that¡¯s fascinating, how do I not see that before? How do I not understand this relationship between what otherwise is thought of as a small little piece, a little corner of the economy and it turns out to be much more complicated and much more sophisticated and much more interesting.
+
+I think you¡¯ll find this a tour de force conversation not only on the world of economics but how economics intersects with markets, with stock investing, with bond investing, and how we should think about what drives the economy and what drives the longer-term cycles that affect pretty much everything.
+
+So strap yourself in, get ready, my conversation with Torsten Slok.
+
+My special guest today is Torsten Slok, he is the chief economist at Deutsche Bank Securities where he has been toiling away since 2005. The Deutsche Bank team led by Mr. Slok has been top ranked by Institutional Investor for both fixed income and equities for the past five years running. Previously he worked at the Organization of Economic Cooperation and Development in Paris, and before that, he was at the IMF. He is a member of the economic club of New York, educated at both the University of Copenhagen and Princeton University, Torsten Slok, welcome to Bloomberg.
+
+TORSTEN SLOK, CHIEF ECONOMIST, DEUTSCHE BANK SECURITIES: Thanks for having me, Barry.
+
+RITHOLTZ: So your background is really quite fascinating. You worked at the IMF, you worked at the OECD, what was it like transitioning to Wall Street?
+
+SLOK: Well, that is a very important, very good question and it was a bit of a culture shock coming from the IMF and the OECD where you have a lot of time to sit and think in closed door office about very conjugated problems and you need to write papers for committees, you need to write reports for managers and for board meetings and that process of really having a lot of time and a lot of resources available to investigate something a was a real luxury viewed today the sense that you have in some cases, several months to come up with an answer to why we had a crisis, why did home prices go down in one country? Why did the health care system not work in one country?
+
+So the short answer is that the OECD and IMF, you really have time and energy and a lot of the various my colleagues that you can debate things with and getting to Wall Street of course was quite a turnaround where you suddenly have clients asking 24/7 questions that you have to answer in a few sentences so in that sense, it was quite a different but in my view and in my personal opinion, I thought incredibly stimulating that you had to use what you learn and what you were taught at OECD and IMF to come up with answers to incredibly difficult questions with a very few number of sentences.
+
+RITHOLTZ: Very, very ¡ª so what I¡¯m hearing from you is a very different sense of urgency and an emphasis on brevity so a very busy fund manager, trader, fill in the blank, can digest the response quickly and then either add, subtract, or whatever, change a portfolio, based on your take?
+
+SLOK: Exactly. Because the whole problem is that ¡ª and this is really important when you think about how the financial service industry is organized that the sell side is really offering services and what I do and we do in my group is that we offer the service of having a view on what the economy will do, what markets will do and we also have great colleagues I have in Deutsche Bank who offer views on rates, FX, equities, and the bottom line of that is that the that is just a lot of competition for air space, for customers, so clients get 300 emails every day, so if you in some cases write long, winded explanations, that say there is a 50-50 chance that something might happen and many customers would just not find that particularly helpful.
+
+So in some cases we have to sharpen the pencil and come up with answers that are particularly helpful for saying what is it exactly that you¡¯re asking about and it all boils down to the analysts have tracked (ph), here is the answer, are we buying or are we selling which sometimes can be a frustrating process but nevertheless turns out to be very important for getting your message across to clients in terms of helping them.
+
+RITHOLTZ: And I get your research in my office and I notice two specific things just about every day you put out a specific chart often not just here is the S&P 500, but typically, it¡¯s a somewhat unusual aspect of the economy that also sheds a lot of light on what¡¯s going on.
+
+And I¡¯m always fascinated how you find these really eclectic OG I thought about that sort of thing but they¡¯re very interesting and they make you stop and think, hey, what is really going on at the 30,000 foot view level as opposed to kind of getting lost in the weeds and getting too specific and then lacking the ability to show the context but you also do the big context pieces, the big monthly and quarterly chart books.
+
+Tell us how you developed that approach?
+
+SLOK: Yes, that¡¯s a very important issue. I mean to ¡ª in my view, to be successful, you need to get people¡¯s attention not by saying I think the S&P 500 will go to some extreme level, either hire or low, but rather to add some value to the thought process and how do you add value to the thought process? If I just send you a chart saying, oh, the unemployment rate is going down, it¡¯s 4.1, you would say, okay thank you very much, I already know that. So why should I open this email if I already know that the inflation ¡ª UPI is 2.1 and unemployment is 4.1, so why should I care?
+
+So in some of the goals I¡¯m very pleased to hear what you¡¯re saying, some of the goal of ¡ª with what I¡¯m doing is that there is supposed to be crazy, it is supposed to be a little bit wild and unusual because there¡¯s a lot of things going on that actually are very relevant.
+
+If I only send you charts with inflation and unemployment, you would say, okay, I already know those things, but there are so many other things going on that are incredibly difficult to quantify and very difficult to assess, but nevertheless, actually play a role for where the markets are going up or down. So yes, we try to have a mix of both having things that are sort of punchy and informative and sort of factoids if you will and tell you in a few sentences, this went up, and you can then say well why did this go up and you can say this is obvious, I already knew that, or you could say I didn¡¯t know that, but that whole process of getting you stimulated and getting some value to how you think about your investment process in your firm turns out to be quite important in terms of the of the goal of what we¡¯re doing.
+
+RITHOLTZ: And you¡¯re also an economist who sort of ventures into the world of equity and fixed income. A lot of economists certainly fixed income is more common but a lot of economists steer a bit clear, I can think of three, Rosenberg, Yardeni, and Ed Hyman, but most of the economists whose work I see, they really want to talk about the economy and not necessarily the market.
+
+So what led you to focus to a large degree on the intersection between markets and the economy?
+
+SLOK: Well, that was a lot driven by understanding who your customers is and so certainly we also have ¡°customers¡± from the fed and the ECB, and the IMF and OECD who read our research and all those, of course, have similar minds as to when I sat down in that my chair in 2005, but if the customer has to translate whatever we are saying about the economy to something that¡¯s useful for are we buying stocks, are we selling stocks? Are we buying rates or selling rates? Is the dollar going up or down? Is all prices ¡ª is any other commodity price going up or down?
+
+I mean the input into that process I feel that you can stop short of not giving investment advice as much as that¡¯s very interesting on its own because the problem is that the economy is just not only the driver of financial markets, there are so many other things going on that are relevant.
+
+And just because our Ph.D (ph) economic models as interesting as they are, just because they are living their own life and have some limitations to what they can do and what you can talk about, that doesn¡¯t mean that that¡¯s the way that financial markets are functioning. We have so many things outside those Ph.D (ph) and fed models that actually turns out to be quite important. So to your good question, I think it¡¯s very important to come up with additional value than just talk about a real business cycle models or other complicated things.
+
+I mean if I ¡ª it¡¯s no problem for me to tell you something that is really complicated, but the whole challenge for me really is to tell you something that is easy to understand, where you still will say, wow, I actually find it useful and also find it quite interesting.
+
+RITHOLTZ: I want to talk a little about the many factors that go into the equity markets. But I have to lead with something you wrote, I think it was late last year, ¡°30 Market Risks for 2018¡± Let¡¯s discuss that.
+
+SLOK: Yes, so we try and the beginning of every year to think hard about what are the risks both to the economy but the risks more broadly that market participants should be worrying about and a we have been making a list for the last few years and this year, it actually grew to 30 because we thought that there were so many things going on that if we miss something out, it would be a shame.
+
+But it¡¯s clear that those risks can be categorized into different buckets and one risk of cause which is the traditional risk or I will call it the organic risk is economic risks which have to do with where are we in the business cycle, is there a higher risk of overheating, is there a higher risk of a recession and what sectors of the economy are out of balance? Is consumption out of balance, is CapEx out of balance, are financial markets out of balance, is the banking sector ¡ª is the case that you have the housing market out of balance? So many of the risks we had in our list, we are focusing first of all on some of the traditional old-school macroeconomic risks in terms of where are we in the cycle, what¡¯s next over the coming quarters, is it overheating, is it recession?
+
+And the short answer to that first bucket was that we worry still today a lot more about overheating and inflation than we were about recession. So those risks of course, are still slowly playing out. The second part of the list¡­
+
+RITHOLTZ: Wait, let me stop you right there before we get to the second part.
+
+RITHOLTZ: So this is now five months, four months later, we see the Fed is saying rates are going to continue to tick up, that we have a variety of indications that if we¡¯re not at full employment, we are certainly very, very close with unemployment at 4% ,we may even see a three handle sometime coming soon.
+
+RITHOLTZ: And yet inflation while there are signs of inflation and signs of some wage pressure, it is slight and we haven¡¯t seen inflation tick up like you might imagine would happen in a full employment on the verge of overheating economy. How do you explain that and what does that do to the risk for 2018 of an overheating economy?
+
+SLOK: Absolutely. This has been one of the big mysteries of this expansion that we have still not quite seen the inflationary upward pressure that we¡¯ve been waiting for so long. So the Fed has been crying wolf, inflation is about to go up, rates is about to go up and the market pricing in fed fund futures and most of that matter what the street expectations have been for long-rates have also been crying wolf and say rates are going, rates are going up, but rates didn¡¯t go up for the last four or five years as expected.
+
+So you could certainly ask the question why should we expect that to be now, why are we still saying that this is a risk, what makes today different from a few years ago, the following things, namely first of all, today the issue is that unemployment rate is now so low, relative to where it was a few years ago, so that is suggesting that we have an economy that is close to overheating relative to the Congressional Budget Office, we are at all close to full capacity by some metrics, we¡¯re actually a little bit above full capacity so that¡¯s number one reason was different today relative to a few years ago.
+
+The second reason why also we see upward pressure in inflation is that the dollar is actually going down now and remember when the dollar goes down, you see inflation goes up, so that¡¯s also a second reason¡­
+
+SLOK: Absolutely that is also adding to what¡¯s happening with the upward pressure on inflation. A third reason why we still think that we will have inflation in 2018 and coming potentially already in the next few months is that we just did an enormous fiscal expansion¡­
+
+SLOK: And the fiscal expansion was also not something that we did a few years ago, that should also be putting some upward pressure. And the fourth and final argument now why now is different and why we think the wolf will finally come to is that we do believe that all the discussion about trade war and tariffs will also be having some more modest upward pressure on prices.
+
+So if I add these things together of we are at full capacity, the dollar is going down, we did a fiscal expansion, the trade war and tariffs talk is also lifting prices modestly, we do think that by the end of this year, inflation and here, we are talking about core PCE will be well above the fed¡¯s 2% target because the fed has a 2% target, that we have been below for the last five years, so many people you meet in rates say we have been below the target for so long, why should we overshoot?
+
+Well, the risks are now that we could be getting very close to that inflation data we just got from core CPI which is a different inflation indicator, it was 2.1, but the bottom line is that the trend is not your friend when you look at what¡¯s happening on inflation. So we do get worried about the fed actually raising rates as many times as they are saying and potentially also resulting in the steepening of the yield curve later this year as long rates could¡­
+
+RITHOLTZ: Which would quiet down all the people who were saying the flattening is causing recession but let¡¯s hold that and come back to it. I want to push back on inflation not because I necessarily agree with this but here¡¯s the ¡ª here¡¯s the counterargument and I want to hear your response.
+
+So three pieces. A, we have full employment but compare the current full employment to 20 years ago, and a lot of people who lost good, high-paying, or middle-class jobs have been replaced with mediocre, low-paying jobs in the hospitality industry, food and beverage service, the low-end of healthcare, so while we have full employment, the wage picture has skewed dramatically across most of the middle class that that¡¯s bullet point one.
+
+And then two and three is you still have technology driving the price down of everything, you have automation making things faster, cheaper, better, and lastly, even with the trade war, globalization continues to drive prices down, and drive labor cost down as we have a global labor arbitrage.
+
+How do you respond and by the way, just off the top my head I¡¯m sure a real economist unlike myself who is a faux economist could give you even more but how credible is the counter arguments to inflation?
+
+SLOK: Well, the first observation is that the Fed is saying that they want to hike rates three times this year and four times next year, you got to think really hard about what is their thought process, why they are saying that rates will go up so much, if they were worried that the all these forces from globalization or Amazon and other things could be holding inflation down more permanently, then they wouldn¡¯t have this firm view among these incredibly smart people in the FMC (ph) that rates will go up so much over the next few years.
+
+I think one thing that¡¯s really important to keep in mind to your very good points is remember what the CPI is. CPI inflation, the weight in the CPI to goods is about a third and the weight in the CPI to services is about two thirds, so what is really critical about that is that it is true that China is holding US inflation down, is true that Amazon is holding US inflation down very modestly, but is also true that Mexico and other countries are having competitive pressure holding inflation down the US but goods only make up a third, in other words tradable goods only make up a third of the index, whereas non-tradable stuff in the index, meaning services, makes up two thirds and what is services? That is first of all, housing, and housing is not on the downward competitive pressure globally. Housing makes up 40% of the CPI overall, core CPI so that means that it actually is a very important part of that¡­
+
+SLOK: Healthcare makes up about 20% of the CPI so that¡¯s also not something healthcare cost also at the moment are now going up, also is not on the globalization pressures or Amazon pressures as such.
+
+And finally education costs also make up a significant share of CPI so the complaint that you often hear among hedge funds and others that well, prices will never go up except on healthcare, education, and on housing. Well, wait a minute, but those components make up two thirds of the CPI.
+
+So I think the reason why if you look at the actual inflation rates for services have been around 2 1/2, 3%, now almost for the last decade where as inflation for goods has indeed been negative, it¡¯s a very important part of the arguments you just listed and a very critical part of the discussion with customers about whether we¡¯ll ever see inflation is that the weight to goods only being a third, think about how much of your money you actually spend going to strip malls and going to Amazon and going elsewhere and shopping.
+
+The share you spent on goods is actually relatively small compared to how much you spend on your mortgage or your rent, how much you spend on healthcare, how much you spend on education.
+
+RITHOLTZ: So what I¡¯m hearing from you is deflation in the things we want and inflation in the things we need.
+
+SLOK: That¡¯s a good way to put it.
+
+RITHOLTZ: Let¡¯s jump into the rest of your ¡°30 Market Risks for 2018¡± we talked about the economic risks before, what are some of the noneconomic risks that you¡¯re considering for this year to the market?
+
+SLOK: Well, they basically fall in a very big bucket which is called political risk or geopolitical risks and this includes everything that we¡¯re talking about in markets and have been talking about for a while from what is happening in US politics, what¡¯s happening in European politics, more recently we also discussed quantitatively what is happening in Japanese politics.
+
+We have also been debating for quite some time what is happening, of course, with North Korea. More recently, we started debating again the Syria situation. All those risks are incredibly difficult to quantify but nevertheless turn out to be pretty important for how markets are moving so the problem is that nobody really has a great tool box for political risks, we have a great tool, we have a great light post to give us a lot of light on the economics problems, therefore we spend enormous amount of time trying to look at the individual economic indicators, but that is ¡ª they suddenly something very unquantifiable comes in political risk from just left field, we just didn¡¯t expect it and suddenly we need to have a view on is this good news, is it bad news? How big is this story?
+
+Is it a big story, is it a small story? What can I quantify just like more recently, we got the trade war stuff has come into the radar screen, is that a big deal, is that not a big deal? We have discussions with equity investors who think that¡¯s a big deal, rates investors think this is not a big deal because the macro implications are relatively limited.
+
+So the whole noneconomic list of risks that we have is just ¡ª has the distinguished features that we just don¡¯t really have a good understanding and good way of really assessing this which actually in some cases, makes it very exciting to discuss.
+
+RITHOLTZ: So I completely agree with you, it¡¯s fascinating to discuss, but I always find myself pushing back on the here are the political risk from the market and I want to throw a couple of ideas at you and get your thoughts on it.
+
+So 2017 was by most measures, the most politically volatile year certainly in recent memory certainly my memory, I didn¡¯t live through the 30s and live through World War 2, so I can¡¯t tell you what the politics were like then, but 2017 was just a ¡ª it was like the campaign never ended and it just got louder and more volatile.
+
+And yet at the same time, the market volatility was the lowest we¡¯ve seen in like 30 years, it was just a slow modest wind up every day, and at the end of the year, the S&P 500 had gained all in, 22% including dividend.
+
+That¡¯s a huge, huge contradiction to how we should contextualize politics and markets.
+
+So if you could explain that.
+
+SLOK: Yes, absolutely, I mean you are right to say that there were predictions ahead of many elections including the US election that things would have gone completely different than what actually happened, it just tells you how difficult it is in some cases to get some good quantification and assessment of what¡¯s actually going to happen. I think what is very important to keep in mind that from the economics broader textbook, there are the politicians who really are accountable for what generally speaking can be called fiscal policy and structural policy, and then there is the central bank in this case the fed, which is basically only responsible for basically one thing, namely interest rates and monetary policy but really keeping interest rates at a level that they think is relevant for where the economy is.
+
+And what I think is a very important backdrop also to what happened in 2017 is that monetary policy has for many, many years been very, very easy, so in some sense, was driving markets, it might not be fiscal policy or structural policy or just about politicians are doing, it could be that the dominating force for many, many years has actually been the Fed and the ECB and the BOJ and maybe that was the reason why stock market did so well for so long since 2009 essentially, the equities have done incredibly well simply because the amount of support that has been coming, not only from the fed also from the ECB, BOJ, S&P even PBOC in China, we¡¯ve seen significant money printing that needed to find a home outside of fixed income in many cases and outside of fixed income basically in most cases means equities and equities probably also benefited and this was the intention from the significant amount of money printing.
+
+RITHOLTZ: Even in 2017 when the Fed was tightening and quantitative easing was ending and their balance sheet was, I don¡¯t want to say it was getting ¡ª it was shrinking but it was certainly not expanding the way it had been.
+
+SLOK: But the global central bank, that¡¯s true Barry, you are right to say that the Fed actually was pulling after he wasn¡¯t putting in liquidity but if you look at the global central bank balance sheet, the ECB was still popularly speaking, printing money, the BOJ was still printing money. Also what happen again and China was also supporting the economy.
+
+RITHOLTZ: So let me ask you on that point and I apologize for interrupting but this cycle globally seem to be very much with the major economic centers, very much out of step, out of sync with each other, normally it¡¯s a global everybody cuts rates together, everybody raises but it seemed like the US did what they did and then Japan did Abenomics, and Europe eventually said hey these guys seem to be onto something.
+
+RITHOLTZ: And they started ¡ª how unusual is that and what does this mean for the economy and the markets going forward?
+
+SLOK: Well, what¡¯s really unusual about this cycle, exactly, to the way you just outlined and then sequenced it is that remember that the central banks are now buying assets specifically of course, the ECB and the BOJ are still buying assets and the fed did this for many years, they are buying basically government bonds. I used to work at the IMF where we would fly to countries and say ¡°Don¡¯t buy your own government bonds, that¡¯s crazy, you¡¯re monetizing your own death and the market will not think that you¡¯re credible if you do that.
+
+The central bank, and now the Fed has been buying their own government bonds, the ECB has been buying their own government bonds, the BOJ has been buying their own government bonds and now we all sit here and say, Oh, yes, now it¡¯s fine. They can get away with it.¡±
+
+So the issue is that it really is true that markets are distorted by the very significant amount of asset purchases or QE that is being carried out by the three major central banks, and therefore, the exit which is what we are beginning slowly to go through with the fed raising rates, next year the ECB will raise rates and eventually the BOJ will also raise rates, the exit will be associated with some unwinding of those distortions.
+
+So a lot of my client discussions are exactly about what you just said namely ¡°What kind of distortions were created and that sequencing that we saw? What would the endgame be as we get back to ¡°a more normal situation¡± and is it possible to get back to a more normal situation where asset prices not heavily distorted by central bank asset purchases or Q.E.¡±
+
+RITHOLTZ: So you mentioned ECB and the Fed. Over in Japan, their central bank are actually buying equities, we don¡¯t we don¡¯t see that in the US and I don¡¯t believe we see a lot of it in Europe.
+
+RITHOLTZ: What is the Central Bank of Japan doing and what is the impact on Japanese markets? Is Abenomics working or is it just one giant distortion we can tell?
+
+SLOK: Yes, so Abenomics has three arrows, namely monetary policy, fiscal policy, and then structural policies which is an attempt to say ¡°Let¡¯s make the economy more competitive. Let¡¯s make it easier to fire in Japan. Let¡¯s make it easier to hire. Let¡¯s get more women into the labor force. Let¡¯s try to get the economy more flexible and dynamic.¡±
+
+And the answer is that on the fiscal side, the debt level is just enormous. Monetary policy has now tried many different things and it hasn¡¯t really created a significant amount of success stories. Unfortunately despite that we are now almost 20 years plus and counting¡­
+
+RITHOLTZ: And that is why 200% to GDP something like that?
+
+SLOK: This is the debt to GDP level, exactly which makes them very vulnerable to high interest rates, so the answer today to your question is that it just hasn¡¯t really worked quite yet and of course it opens up a lot of questions, is the US also going down the road of being Japan eventually? We don¡¯t think so at all because the problem with Japan is that the economy just not dynamic enough and there are just some very ingrained reasons why it has been very difficult to create inflation whereas as we spoke about earlier, we are already seeing some signs of inflation in the US and the CPI and PCE, it¡¯s only very small upward moves but as I mentioned, the list of reasons why we think that now is a bit different and also the labor market is more dynamic in the US, which is why the employment cost index is trading higher.
+
+We¡¯ve seen median weekly earnings trending higher, we¡¯ve seen even your label cost have also starting move up a bit, so I get it that average hourly earnings hasn¡¯t really moved up as much at least more recently but at the end of the day, we do think that we will get more wage pressure and we will get therefore get a different situation in the US with higher rates which is why the fed is hiking and also a different level of interest rates compared to what Japan has been going through.
+
+RITHOLTZ: When you discuss the structural issues in Japan, are you referring to the Kyoritsu? Are you referring to their post office essentially being their retirement accounts, what ¡ª how is Japan so different than the US? We know it¡¯s very different but what do you mean structurally?
+
+SLOK: One extremely important difference is demographics that the Japanese population is ageing and therefore you actually have a shrinking labor force, whereas in the US we actually still have a growing labor force, it may grow a little bit less quickly than it did earlier but we still have a significant amount of immigration, we have still population growth in the US, so one very important structural ¡ª very in very simple terms, structural differences that the amount of tax payers in Japan is falling whereas in the US, the amount of taxpayers is still growing because we are adding in a labor force, more people that pay taxes that could help for the aging population, help for paying for retirement payments and transfers to older generations in Medicare and Medicaid, whereas you don¡¯t really have that in Japan which is really weighing both of the government finances, but also weighing on the economy more broadly.
+
+RITHOLTZ: You know, I want to talk a little about your career because your path is somewhat, I don¡¯t want to say unusual, because lots of people go from government institutions and banks to Wall Street, but yours meandered through Europe, through Paris, to New York, tell us right out of graduate school, that was Princeton, correct?
+
+SLOK: Yes. So I did get my Ph.D from Copenhagen but I did spend a year in Princeton where I got Americanized and opened up my eyes for what this wonderful country can do.
+
+RITHOLTZ: So where ¡ª tell us about the career path. Did you go from Copenhagen to the OECD?
+
+SLOK: Yes, so first, I did my Ph.D in Copenhagen and as part of the program in most European countries they ask you to go to a US University, and let¡¯s just say the way it is that the quality of the Ph.D programs in several European countries, if not most, is nowhere near what you get in the US, so that is why they encourage people say go and take a year somewhere and the government said we will pay the tuition, we will pay your room and board, why don¡¯t you go with this¡­
+
+RITHOLTZ: I¡¯m sorry, your tuition and room and board was paid by ¡ª at graduate level?
+
+SLOK: Absolutely, it was paid by ¡ª education is free in actually all Nordic countries but then¡­
+
+RITHOLTZ: What else is free in Nordic countries?
+
+SLOK: Tax, of course are higher¡­
+
+SLOK: So average tax rates are roughly around 55% to 57%.
+
+RITHOLTZ: It¡¯s not that much though.
+
+SLOK: It¡¯s about 10 to 15 percentage points higher than here.
+
+SLOK: But you do get free healthcare, free education, which I was so lucky to benefit from which brought me therefore in my one year to New Jersey to Princeton where I got to work with the various professors, I worked with Michael Bodo who was visiting there at the time, Barry Eichengreen was actually also visiting there.
+
+SLOK: I was a research assistant for them and they basically said that ¡°You should go and try and get an internship at the IMF¡± and I said ¡°Okay, and that could be fun.¡± And I did an internship with the IMF the following summer and I figure out quickly the internships in this country is about figuring out if you want to do that job more permanently if they want to keep you and I was so lucky that they offered me a job.
+
+So in 1998, I started in the economies program, the PSP (ph) program at the IMF.
+
+RITHOLTZ: And by the way, if memory serves, Princeton¡¯s economics department was a powerhouse.
+
+SLOK: Well at the time¡­
+
+SLOK: Bernanke was chair of the department, and you also had, Ken Rogoff was also there at the time and I didn¡¯t interact with them all the time but I mean they were then you know, professes want to talk to Ph.D students of which I was so incredibly lucky that they also wanted to talk to me.
+
+So yes, that is true. It was a really interesting ground for just getting again, an academic overview of what¡¯s going on in different areas and specializing in the areas that I wrote about.
+
+RITHOLTZ: So the IMF to OECD, was that the next step?
+
+SLOK: Yes. I did spend a year at the Bank of America here in New York, but after that, then I did go to the OECD in Paris and at the OECD in Paris, some of my former managers from the IMF had moved to Deutsche Bank and the specifically David Folkerts-Landau who I still have the pleasure of working with today, and my great colleague, Binky Chadha asked if I wanted to come to work for Deutsche Bank in New York and in 2005, I said yes to that and I¡¯ve been sitting in the chair for the last 12 ,13 years and counting and enjoying every moment of it.
+
+RITHOLTZ: So that¡¯s pretty fascinating, so you are now on Wall Street for a dozen years. How different is it today that it was when you joined right in the middle of the credit and housing boom?
+
+SLOK: Well, I think one very important difference is that the in 2005 and 2006, obviously there was much fewer worries about the all the things that actually turned out to be really important. We have gotten much more humble at first of all in terms of our forecasting ability but also in terms of what is actually that we need to look at that which also gets back to why do I have my little business model today after sending a chart and a few sentences. Well, some of the idea is that I cannot just only look at a certain small set of indicators because if I do that, I risk that I¡¯m missing something that actually could turn out to be extremely important.
+
+So the straw that breaks the camel¡¯s back here is not only necessarily inflation and employment, but could be something coming out of the blue that I just not appreciated enough. So inflation risks can come from different sources but most importantly, recession risks can now come from a whole range of different sources.
+
+So I would say that over the last the at least decade, a very important change in the way that the economic professions on the street is working is that you got to open your eyes more to risks that are out there and asking constantly, are these risks important, how are these risks playing out? Is this something I should be spending more time on?
+
+RITHOLTZ: So let¡¯s delve in that into that a little bit. What do you think and I¡¯m going to ask this question in a little bit of a skewed way, what do you think are potential risks that much of either the investor class or the economist class might be overlooking?
+
+SLOK: Well, I think the sort of the number one organic risk that we spoke about earlier is that there are some upside risks to inflation. You could then say we economic profession and also the Fed have been crying wolf all these years, and invasion, why should it come now?
+
+So maybe there are some uncertainty about that risk, but there are two also other risks that I think are very important. First of all, the fiscal expansion requires a lot of net issuance of treasuries and if you expand the amount of safe assets in the world, if you expand the amount of treasuries that are outstanding, you are basically beginning to compete with the risk-free asset with more risky assets, this is exactly what we¡¯re seeing in some sense with the T-bill issues that is competing with LIBOR that is competing with commercial paper, probably even competing with IG that if you suddenly offer to investors a lot more risk-free assets, meaning assets that have basically no risk associated with them in this case, US treasuries, then investors will of course say I would rather have a risk-free asset rather than have a risky asset with a credit risk that has risk credit rating.
+
+So the more that the amount of risk-free assets is expanded, the higher is the risk that investors will start to pick risk-free assets relative to the risky assets, it may sound very abstract but what it means in practical terms is that if the US government needs to essentially double the issuance of treasuries over the next 18 months, which is what is in the pipeline from 2017 to 2019, the risks associated with that for risky assets meeting IG high-yield loans, CLOs, even mortgages, the risks for those fixed income assets begin to increase simply because there will be a crowding out off other spread product fixed income assets relative to what¡¯s happening in treasuries.
+
+RITHOLTZ: There has been a line of thought that¡¯s existed for a while that suggests there¡¯s been a shortage of high quality sovereign debt over the past 10 or 20 years.
+
+RITHOLTZ: Isn¡¯t this new set of issuance kind of getting back to a more normal supply and that seems to be a theme normalizing rates, normalizing inflation, and normalizing sovereign treasury supply.
+
+SLOK: Absolutely, but think about it, let¡¯s say that they you and I were a pension fund or an insurance company and we have been begging for high interest rates for many, many years, now high interest rate suddenly begin to appear because 10 year treasury rates have moved up modestly, the consensus if you look at your Bloomberg screen, you will see consensus expected to move through three later this year, all this suggest that if the risk-free asset suddenly gives a high return, then the question becomes, well, how does that crowd out the willingness to invest in investment grade credit and other risky assets and therefore the risk is in my view, that yes, it¡¯s true that we need to see some normalization, but in 2007, in round numbers, total US government debt was around 9 trillion and we are going towards that the total amount of government debt outstanding will be 21 trillion meaning we have expanded dramatically over the last decade the amount of treasuries outstanding, and that¡¯s beginning again to compete.
+
+And this is where you really will test the market, this is really IMF page 1, is there enough demand for US treasuries? Will he get into some and so of course this is a bit extreme, but will we get into some situation like Venezuela or Zimbabwe or other emerging markets where you suddenly have problems financing your government finances?
+
+Obviously, the US were nowhere near any of the problems that many emerging markets have, but you really are beginning to ask EM style question to the U.S. namely, what happened to countries that expand the fiscal situation as much as the US has been doing? What happens to the credit rating? What happens to the exchange rate? Will the dollar go down more? What happened to interest rates? And what happens for that matter politically when you have a situation where your certain needs (ph) that you have such an incredible increase in financing needs.
+
+And if you have a recession, of course the financing needs will go up because then we also need to pay more on unemployment benefits, et cetera. So the short answer to the question is that it is true that you want to see some normalization in a treasury issuance, and of that matter in treasury yields, but that normalization is now coming at the same time while we¡¯re doing a big expansion which I think is at a very significant risk to financial markets over the coming quarters.
+
+RITHOLTZ: So earlier, you referenced possibility of a trade war, let¡¯s discuss these tariffs and that issue. Lots of folks have looked at these new tariffs on steel and aluminum and the arguments back and forth with China almost as if it¡¯s a big surprise but, come on, let¡¯s be honest, then candidate Trump campaigned on protectionism, his whole slogan ¡°Make America First.¡± every whistle stop was ¡°We are going to erect tariffs and we are going to get rid of NAFTA, and we are going to throw out all of these trade agreements.¡± Can we really say we¡¯re surprised?
+
+And we know this process takes like a year to implement, can we really say the markets are surprised by a president who campaigned on this, talked about it consistently, still talks about it constantly, actually did what he said he was going to do?
+
+SLOK: I completely agree with what you¡¯re saying, it is not a surprise in the sense that globalization has been benefiting tremendously people in China and Mexico and emerging markets because they benefited tremendously from a more open US economy and a more global open trading system.
+
+You also saw tremendous benefits to consumers and others living in the US who buy goods and people in Europe who buy goods and you saw cheaper goods than what you had ever seen before on so many different fronts, basically anywhere and anything that you bought in the goods spectrum.
+
+But what we also need to recognize and this is of course what is a very important part of this is that there were certainly some people in West Virginia and in Pennsylvania and Ohio who basically lost out because they didn¡¯t produce these goods anymore, they didn¡¯t produce steel anymore and this is what this political process is now telling us and what we¡¯re going through. How do you put up on the scale the benefits that you might have had from cheaper goods and someone in China who got a job, he goes there to produce goods for us buying stuff, relative to the unfortunate situation that many people in the US and in Europe lost their jobs because of open trade and because of globalization.
+
+So it¡¯s in some sense, not a surprise that we¡¯ve gotten to where we are and that¡¯s of course the main problem that the politicians are struggling with, how do we compensate those who lost out in the name of globalization in Europe and in the US and how do we make sure that they don¡¯t fall through now that we have gotten to a point where it looks like it¡¯s point of no return, but politicians are doing everything they can not only the US but also in Europe, to try to find some solutions to making sure that those who lost out in the global trading system that was so open and is benefiting so much in cheaper goods that that was hurting them so much.
+
+RITHOLTZ: I recently had a conversation with someone who started their career in the 1970s and I had to ask them how did that period scar them in terms of inflation and low returns in the stock market and spiking interest rates.
+
+So you started your career, or at least on Wall Street right in the midst of what would later turn out to be a credit bubble, and a housing collapse, how has that colored your view of the world or has it not?
+
+SLOK: Yes, I would say that going through now having spent most of my time and on the street and in a period of crisis or basically a period of trying to figure out what was wrong with economics textbook, what was wrong with the financial system, what was wrong with the way that we analyze things and why didn¡¯t ¡ª why couldn¡¯t we predict this better? And we did ¡ª and Deutsche Bank have the number of warning pieces out ahead of the crisis, but the rest is that there was really nobody anywhere who predicted that this crisis would be coming in particular not the force and the magnitude of what actually happened.
+
+So a lot of the way that we think about things and a lot of the agenda for how we think about things and how we try to help clients think about what¡¯s going on is very much colored by the fact that there cannot be as stone unturned, we have to make sure that we lift every area that we cover, every base, so we are actually absolutely sure that there¡¯s nothing in terms of risks that we¡¯re missing out in the world, that has also created, I mean, let¡¯s just say the way it is in markets and much more stressed situational also on the buy side because people are now seeing crisis everywhere.
+
+SLOK: Constantly, someone is saying ¡°Oh my God, there is something happening over here and we got to make sure that this is not turning everything down and creating the next recession.¡±
+
+RITHOLTZ: The old expression is every general fights the last war.
+
+SLOK: And that¡¯s so true I don¡¯t know how many times over the last 10 years, essentially in 2009 when we left the recession, I have not received emails from clients saying the next recession is just around the corner and it wasn¡¯t, and now we are sitting here, ¡°Well maybe you should.¡± And this is a really important investment notifications (ph) of in my view of how we should think about things today is that the risks of overheating today are much higher than the risk of recession, most importantly because of the significant tailwind from the fiscal expansion.
+
+So yes, we¡¯re still watching ¡ª and to your question, we are still watching a lot of different risks and I think we need as investors, to constantly monitor everything that is going on but that¡¯s just also created a much more confusing environment where we just in some cases just don¡¯t have whatsoever any toolbox for understanding the type of risk.
+
+RITHOLTZ: We have been speaking with Torsten Slok, he is the chief international economist for Deutsche Bank Securities.
+
+If you enjoyed this conversation be sure and check out the podcast extras where we keep the tape rolling and continue discussing all things economic wonkery, you can find those were ever finer podcasts are sold, iTunes, Bloomberg.com, or Overcast.
+
+We love your comments, feedback, and suggestions, write to us at MIBPodcast@Bloomberg.net. Be sure and check out my daily column on Bloomberg.com, you can follow me on Twitter @Rithotlz.
+
+I¡¯m Barry Ritholtz, you¡¯re listening to Masters in Business on Bloomberg Radio.
+
+Welcome to the podcast.
+
+Torsten, thank you so much for doing this, I have been looking forward to having this conversation.
+
+SLOK: Thank you for having me.
+
+RITHOLTZ: I¡¯ve mentioned I¡¯m a fan of your research, I¡¯ve to figure out a way with the new MIFID rules, I¡¯m only getting some of it now. I have to figure out way to get back on the full ¡ª the full plan that ¡ª we will talk about that afterwards.
+
+I have so many questions but I only have so much time, so let me let me choose the ones that I think are really worthwhile.
+
+Tell us about your favorite economic indicator what do you think is most important and I¡¯ll ask you what¡¯s most underrated and what what¡¯s most overrated?
+
+SLOK: So I think the ISM has historically proven to be the highest correlation with GDP so I would say that from despite that it is only every month is a long time to go and wait for another economic indicator, that¡¯s definitely at the top of the list.
+
+Of course nonfarm payrolls and how many jobs we are creating and what the unemployment rate is doing is a close second in terms of the employment report just as a wealth of information about what¡¯s going on in the economy, what sectors are doing better, what sectors are doing worse¡­
+
+RITHOLTZ: So not the headline numbers but what¡¯s beneath that?
+
+SLOK: I think there is more value so the headline has some value but I think it has more value underneath in terms of informing you about where is the US economy going.
+
+And the third and final indicator of course is the thing that we worry most about at the moment and various indicator of inflation specifically core PCE which is a first preferred measure of inflation, because that tells you are the indicators we spoke about first, namely ISM, unemployment, are they overheating? Do we need more stimulus? Where are we in the business cycle and informing you about where you are in the cycle turns out to be quite important. So from a pure macro perspective, those would be the three areas and the three indicators that a we look most at.
+
+RITHOLTZ: What you think is an indicator that people rely on too much and is probably overrated?
+
+SLOK: I think that ¡ª I mean there are a number of things that people pay a lot of attention to, I mean one area where at least generally speaking where people pay maybe too much attention is jobless claims, some indicators like jobless claims are really derived of how many people show up which is what jobless claims measures of the new jobless claims is how many people show up at the unemployment office this week and asked to claims for the first time.
+
+RITHOLTZ: Is that affected by weather, is that effect by holidays? What drives that.
+
+SLOK: There are many things that go into that, but I mean the general trend in that is generally helpful but I still think that ¡ª it does get a good deal of attention mainly because it¡¯s high-frequency but I still think that it doesn¡¯t have anywhere near the amount of wealth of information that you get in the employment report.
+
+So I¡¯m willing to wait for another month to see where the economy is. Maybe it¡¯s just my long-term patience as an economist relative to someone who is managing money.
+
+RITHOLTZ: So let¡¯s talk about equities a little bit. You mentioned you look at the world as a continuous cycle. Where are we in the market cycle?
+
+SLOK: Yes, so it¡¯s clear that first of all, the business cycle is indeed getting old and the problem with that argument is that there the business cycle doesn¡¯t run on a clock, it¡¯s not the case that after six years to 10 years in the business cycle, it starts to die out.
+
+For the business cycle to slow down, you need some imbalance to rollover and the normal three imbalances that starts recessions,, that starts the business cycle to slow down and therefore start to have a big impact in equities is either because we have too much consumption or because we have too much CapEx meaning imbalance is in consumption, imbalance is in CapEx, or imbalance is in financial markets.
+
+And if you look at consumption at the moment, we don¡¯t really have much imbalance in the contrary, we really don¡¯t understand why consumption still is on the more weak side likewise with CapEx and business fixed investment, we need private investment for companies, we don¡¯t really have imbalances there either.
+
+And finally fourth quarter financial markets, the big question which essentially what you¡¯re asking about is that we have imbalances in equities, do we have imbalances in rates, do we have imbalances in credit, or do we have imbalances in FX, generally speaking, I think the answer to that is no and I think that the fact that we got a huge fiscal tailwind more recently suggest that we should see solid GDP growth for the rest of this year.
+
+We should see solid consumption growth of the rest of this year, we should see solid CapEx growth because CapEx also got incentivized by the design of the fiscal package to also grow continuously. So the answer to your question is that we still think equities will do well, we still think rates will slowly go higher, the fed will gradually hike rates, we think because of all these problems we spoke about earlier with trade, because of some of the issues generally on the relative value of assets in the US we do think the dollar will down but that generally speaking and equity should continue to do well and the P/E ratio got some adjustment, more recently with the downside, so there is definitely still more room for equities to rise from here mainly because the economy is not about to enter recession, if anything, the risk either begin when the economy is about to overheat.
+
+RITHOLTZ: So I heard the trade wars are a good thing and they are easy to win, I don¡¯t recall where I read that but I read that someone recently. How true is that and what does a trade war with China or a possible trade war with China? What might that mean?
+
+SLOK: The risk from a market perspective is really interesting because a trade law is putting on essentially higher prices on either things that you import or higher prices on things that you export if they¡¯re ¡ª in this case the Chinese retaliate, but think about what that means. That means first of all that if prices of things that you import start to go up and if you don¡¯t know where they¡¯re going, then what does the whole question become for corporate is well what does the playing field look like in the future, what are the prices of my inputs? What are the prices of the product I¡¯m selling? What kind of inputs can I buy and can I substitute for things that might have gone up because of tariffs coming in.
+
+So the uncertainty associated with we don¡¯t know which kind of tariffs are coming next and even if we don¡¯t know the list of tariffs that already are coming, we don¡¯t know what the retaliation will be and all that is probably for companies meaning that they are holding back with a little bit with hiring, holding back a little bit with investment as a result of uncertainty, what does the playing field look like for me as I plan ahead as a corporate?
+
+So the downside to the trade wars really is that equities in particular, equity names when it comes to airplanes, cars, soybeans you suddenly have very specific names in equities that benefit and some who doesn¡¯t benefit.
+
+So from an equity perspective, it makes sense that equities go down when trade wars come in but what is also important about that is the remember that this size of tariffs is about 50 billion in total imports in the US is about 2.2 trillion, so the total magnitude of tariffs is actually relatively small from a macro perspective so that¡¯s probably why rates haven¡¯t moved and that is probably also why, and some say the dollar hasn¡¯t moved as much simply because rates really don¡¯t move much because it¡¯s only the macroeconomic conditions that would have to change for rates to move.
+
+So it makes sense in my view in summary that equities are not liking trade balls whereas you are not really seeing much movement on the rates front, meaning interest rates really haven¡¯t moved much because the macro impact of tariffs is probably going to be relatively small.
+
+RITHOLTZ: And you mentioned earlier that P/E ratios are coming down which makes me ask we are at pretty record high corporate profits, is that sustainable? Why are profits so high? How much of it should be credited to really low borrowing costs? What you see the future of corporate profits looking like over the next couple of quarters?
+
+SLOK: Yes, companies have become extremely efficient in so many ways since the financial crisis and we have seen significant amounts of cost cutting which has been a very important part of why they become so efficient. So across the sectors in the S&P 500, increased efficiency in the form of cost-cutting basically making things more lean and mean and generally more competitive both domestic in the US, but also globally, have certainly benefited corporate America tremendously. So a very important first answer to your question is the cost have come down and companies have become more efficient.
+
+So looking ahead, of course now with a tailwind of the Trump tax cut that we got in December for corporate, that¡¯s going to boost earnings even more so if we from the¡­
+
+RITHOLTZ: In fact we just saw that in a lot of the early earnings that have been released over the past few weeks.
+
+RITHOLTZ: A big surprise like I wasn¡¯t expecting upside surprise for Bank of America, or this ¡ª the financial seem to be doing well and number of other companies seem to be doing much better than expected, and a lot of that goes to the new lower corporate rates.
+
+SLOK: Absolutely, Barry. Because we just lowered the corporate rates to 21% from the 35 at a high level that we just have been struggling with for many years so in that sense, we got into a situation where corporates are both benefiting from being incredibly efficient and lean and now also getting a huge tailwind from higher profits and on top of that, of course repatriation and incentivizing them to invest.
+
+So the key conclusion is earnings growth would continue to be strong, at least for the rest of this year.
+
+All right, let me jump to my favorite questions, these are what we ask all of our guests and it creates a sort of interesting frame of reference when we look across a variety of different people.
+
+So what¡¯s the most important thing that most people don¡¯t know about you?
+
+SLOK: Well, one very important secret to what I do is that we have a team in India that actually produces all the charts and all the work that I do¡­
+
+SLOK: So from a business perspective, this has been extremely efficient and extremely helpful and when I go to bed every evening, I think about what should the chart be, what should I write about tomorrow? I sent an email to the team in India and when I wake up and look at my phone and I see the chart right there, and most cases it looks perfect, in some cases, they need to work a little bit more when I get to the office, it is literally right there ready to send out.
+
+And that that¡¯s at least from a business perspective, something that has been incredibly helpful and very efficient that they work e in a different time zone in getting things done.
+
+RITHOLTZ: Are these economists? Data analysts? Or chart people or everything?
+
+SLOK: We have five people on our team and they have a Masters degree in economics and we even have people that have Ph.D in economics from the Delhi School of Economics and they are incredibly helpful. So if they are listening here, thank you very much guys, it¡¯s hugely appreciated what you do every day.
+
+RITHOLTZ: That¡¯s what I did not know that about you and that¡¯s quite fascinating.
+
+Tell us about your mentors, who helped shape your career?
+
+SLOK: So my advisers on the Ph.D thesis would always be someone who is very important in my case a professor in Copenhagen called Neil Stigeson (ph) but when I came to Princeton, of course, I got hugely inspired by Ken Rogoff also, I didn¡¯t communicate much with Ben Bernanke but a number of the Princeton professors were just the way that they spoke about things and the way that they discuss things and most importantly, very generally speaking, now I may offend someone in Europe, but in Europe a lot of the Ph.D economics programs are fairly theoretical and conceptual and live their life in models that are somewhat disconnected from the data whereas in US Ph.D programs, the effort is constantly to try to make it relevant.
+
+In many cases, you don¡¯t succeed but at least you try constantly to plug it into what is exactly the problem that you see on your Bloomberg screen or your Bloomberg website and how can I try to understand these things better? So those people including people also at the IMF, Mike Mussa and a guy called Flemming Larsen who have been also very helpful and of course at Deutsche Bank, Binky Chadha and David Folkerts Landau have really been very and informative for me in terms of how do you succeed and how do you adjust whatever you¡¯re doing to be more successful and refine your own skills and constantly learn and get better and better at what you do?
+
+RITHOLTZ: What about investors? Who influenced your thought processes about the markets?
+
+SLOK: So the issue is that my job I have about 400 client meetings every year so I sit down and discuss the outlook and also on conference calls with people every day constantly both in the US and Europe, Asia, Latin America so I meet a lot of very, very smart people, also people that are not known at all, some people want to fly under the radar screen so that is a number because they don¡¯t ¡ª they don¡¯t have any ambition in terms of getting even on the front page of the of the Wall Street Journal or for that matter, as a top story Bloomberg, they basically want to be very good at what they do and they want to discuss these things that are going on, but there are a number of people there who shall remain unnamed in the investment community who are extremely skilled including a number of hedge funds and of course, most importantly here in Manhattan and in London who are really, really good at what they do but just have very little ambition in terms of becoming public names.
+
+RITHOLTZ: Totally understandable. Let¡¯s talk about books what are your favorite books be they finance, non-finance, fiction, nonfiction, what are you reading now and what have you really enjoyed reading in the past?
+
+SLOK: Well one book that helped me a lot was ¡°Superforecasting¡± by Tetlock who basically told you that you got to update your prize and update your forecast constantly, which is also again, a humbling experience because that is basically telling you that you got a revised constantly as new information comes in what your forecast is, sometimes it is tempting for sell side analyst to just have a forecast and stick with that there for a long, long time, but as investors and again helping customers think about what will equities do? Well I can¡¯t just walk around and say ¡°Oh, equities will go up¡± and then play golf for 12 months and come back and see if they went up or down.
+
+I got I have constant evaluation, constant thinking every day what is the reasons why I¡¯m right, what are the reasons that have come into today why I am wrong. So books around forecasting and books around the what¡¯s happening on how do you refine your forecasting skills, it turns out to be very, very important, and at least a very important inspiration for me.
+
+RITHOLTZ: Any other books? Anything else you want to mention?
+
+SLOK: Unfortunately, I don¡¯t have as much time to read fiction is a really wanted to but I would say that that¡¯s the main thing that I¡¯ve been ¡ª and of course I spent a lot of time reading at newspapers and again Bloomberg stories and everything that¡¯s going on but it¡¯s not as much as I wish.
+
+I used to read Kierkegaard which as you know is a very important Danish philosopher but I haven¡¯t done that then now for a little while but there sometimes it is important to think really hard about what is it that we do you and I and our finance industry and think about what it is exactly? The psychology behind what we¡¯re doing.
+
+Because it is really not rocket science, it really is just stories that come around and as those stories come around, the question becomes how important is the story, why is this story getting so much weight and as stories come and go, sometimes it is important to lean back and think about what is the story and it almost sounds like fiction but what is the story that we are telling each other at the moment? What are the questions that we are asking each other and those are the things that get the most attention.
+
+RITHOLTZ: That¡¯s fascinating. One of things that I was so impressed with in the Tetlock book is questioning what your assumptions are and questioning what you already know that might apply to figuring out some sort of forecast.
+
+SLOK: As you know and some of your former guests have also said that the most significant skill you have as a market participant is that you got be willing to change your mind.
+
+SLOK: And if you just stick to a view, this is so tempting both as a sell side analyst and also on the buy side, stick to the view that something¡¯s going up, it¡¯s got to go up, it¡¯s got to go up, if it¡¯s not happening, you got to back down and say that is not happening, I got to revise and I got to change my mind why this is not going.
+
+RITHOLTZ: So what excites you right now? What are you looking at the world and saying this is just amazing?
+
+SLOK: Well, other than inflation which we have spoken about not at great length, I do still think that this very broad concept of what is it that we just have been through if you really take a cup of coffee and sit in your chair, you always say and think hard about what is it that we been through in terms of what central banks have been doing? What is the endgame to this and I know it sounds very fluffy and like hot air, arm wavy stuff to say ¡°What do you mean by endgame?¡± But how do we get out of easy money? How can the fed raise interest rates? What are the implication of these distortions that were made by negative interest rates in your area which should never have happened that created an enormous amount of distortions. How can we reverse this and can we just snapping around and say ¡°Okay, you know what? We will just go to positive industries and we will just stop doing Q.E. or will there be more profound indications?
+
+So I spend a lot of time at a very 30,000 feet level thinking about what are the implications in terms of the exit and how should I think about asset classes, what will stocks do, what will rates do, what will FX do as we get closer to the exit when the ECB will be raising rates next year and the BOJ ultimately also will be raising rates.
+
+What will the new economy, meaning what will the economy and the global financial market picture look like on the other side of that exit? That is a really difficult question.
+
+RITHOLTZ: And quite fascinating. Tell us about a time you failed and what you learned from the experience.
+
+SLOK: So this is really tough but them, I mean anyone of course who not only in the financial service industry but then anyone who works hard and works in what you and I do, Barry, will of course at some point realize, well, there is only 24 hours a day so a you come to the conclusion am I spending too much work on the right things? Should I be working as much as I do? Should I be working harder?
+
+And so everything that has to do and what I have done in my career with the right work life balance and I have been through a number of different jobs where I have seen a number of different things at the OECD and the IMF and things were relatively slow-paced and you had a lot of time to think about things, so there is a different set of problems in terms of their how you spend your time and what you do.
+
+And for the last the 12, 13 years in the job I have today, it is tempting to say the sky is the limit I can travel around the world and do something 24 hours a day but I would say the failure will and what I also have on myself is that if you spend too much time on your job and too little time on other things which can be ¡ª and I¡¯m not only talking about family and spouse and children on likewise but also on friends and sports and doing things that are fun, it¡¯s very important and one very important lesson that has taken me some time to learn is that you got to have a balanced life, it¡¯s not only a balanced diet but also a balanced life in terms of what do I think is fun because I love talk about inflation and unemployment in markets, but I can¡¯t do that like you and we had this conversation often, you and I, but we can¡¯t do that like all day long, you got to do other things and sometimes, you also got to go and I play soccer once a week on the Brooklyn Bridge Pier Five¡­
+
+RITHOLTZ: That was my next question so what do you do for fun?
+
+SLOK: I try to have fun with the some good friends and go and do something else just to freshen your mind.
+
+SLOK: Yes, so it is, we are completely hopeless, but it is fun and we play to win, I should say that, but it is to get some exercise to hang out with some good friends and get to do something else that I think is a lot of fun other than just ¡ª otherwise I mean I¡¯m not kidding, I get emails 24 seven, I wake up in the morning and I respond to emails from people in Asia and Europe who want to discuss things.
+
+Sometimes I just respond with a sentence or two but that that constant flow you can look at your phone literally 24 seven and there¡¯s just no end to how many people want to talk about whether inflation is going up, whether the fed will hike rates or whether the dollar is going down.
+
+RITHOLTZ: So if a recent college grad or a millennial came up to you and said I¡¯m thinking about pursuing a career in economics, what sort of advice might you give them?
+
+SLOK: I would say which would be general career advice not only for economics, you got to get good at something that you are just really good at and once you are really good like you at investing, once you are really good at whatever, if it¡¯s playing soccer, once you are really good at a certain type of economics, then you just got to figure out how can I translate this skill into something that I both find is interesting but also someone else might find valuable.
+
+I could sit in my chair and close my door and say oh I¡¯m so smart, you can ask me any question, but if I didn¡¯t get out on the dance floor myself and try to reach out to people and talk about things and discuss things and have an approach of saying let me be open-minded to what it is that I¡¯m good at and how I can maneuver that in a changing world, then I wouldn¡¯t be doing well.
+
+And so the answer to the question is as again to respond directly to that kind of discussion is still find out what you are really good and do that really, really well and then find out who can use this skill, how can I get the skill translated into something that I think is fun for the rest of my life, and also that others might be willing to even pay me a salary for.
+
+RITHOLTZ: And then lastly, what is it that you know about the world of markets, economics, investing today that you wish you knew 20 plus years or so ago when you first started your career?
+
+SLOK: I think that there on the financial crisis I wish I had understood better in 2008 and 2009 the significant importance of what the central banks were doing, in other words asset prices for the last day since 2009 for the last nine years, in particular including also equities but rates in particular have been driven very, very importantly by central bank action which is why this issue of the exit become so important.
+
+So I wish that I had spend less time if you will on my old school economic textbooks and has spent more time reading literally Rogoff¡¯s book ¡°This Time is Different¡± because this time is not different, this was exactly the same thing. What was different was that the sheer size of easing, the sheer size of money printing that central banks were willing to throw at the system just happened to be absolutely by far the most important driver of stock prices, interest rates, and exchange rates for a very, very long period.
+
+And that¡¯s what we are exiting now and that¡¯s why that issue of the power of what central banks did turned out to be a much more significant driver of markets and I wish I had that appreciated that earlier.
+
+We have been speaking with Torsten Slok, he is the chief international economist at Deutsche Bank Securities.
+
+If you enjoyed this conversation, be sure to look up an inch or down an inch on Apple iTunes, or Overcast or Bloomberg.com and you could see any of the other 200 or so such interviews that we¡¯ve conducted over the past four years.
+
+We love your comments, feedback, and suggestions. Write to us at MIBPodcast@Bloomberg.net. I would be remiss if I did not thank the crack staff who helps to put together this podcast each week, Michael Batnick is my head of research, Taylor Riggs is my booker producer, Medina Parwana is our producer engineer, I¡¯m Barry Ritholtz, you have been listening to Masters in Business on Bloomberg Radio.

@@ -1,0 +1,13 @@
+Looking at the main components of euro area inflation, energy had the highest annual rate in October (10.6 %, compared with 9.5 % in September), followed by food, alcohol & tobacco (2.2 %, compared with 2.6 % in September), services (1.5 %, compared with 1.3 % in September) and non-energy industrial goods (0.4 %, compared with 0.3 % in September).
+
+Euro area annual inflation was 2.2 % in October 2018, up from 2.1 % in September 2018.
+
+The euro area inflation flash estimate is issued on the last day of each reference month or shortly after. It is computed from preliminary data provided to Eurostat by all euro area Member States. When the full set of harmonised indices of consumer prices (HICP) is released around the middle of each month following the reference month, preliminary data are replaced by the final Member States figures. Table 2 compares the flash estimate and the final HICP annual rates for the same reference month. The table represents data at the time of the first publication, without any consequent reviews. This table is updated once a month, with the release of the full data.
+
+Each of the main components contributes in varying degree to the headline inflation in the euro area. In terms of weights for 2018, 100 % for the headline HICP, services is the largest component, accounting for around 44.4 % of household monetary consumption expenditure in the euro area. It is followed by non-energy industrial goods with around 26.3 %.
+
+Food, alcohol & tobacco and energy account for 19.6 % and 9.7 %, respectively. Together, they comprise less than one third of euro area expenditure, but they can have significant impacts on the headline inflation as their prices tend to fluctuate significantly more than the other components'.
+
+The weights of the main components for of the euro area for 2018 are presented in Figure 3. Table 3 shows their relative weights for 2018.
+
+The breakdown of the HICP into four main components does not follow the standard COICOP classification, but groups items from different expenditure classes into four broad product categories. For further details on the composition/sub-indices, please see Eurostat's COICOP/HICP classification.

@@ -1,0 +1,15 @@
+But don't go clicking any links found in the spreadsheet the hackers posted, for There Be Trojans.
+
+Update: Mt Gox has filed for US bankruptcy protection. CEO Karpales says, in the statement accompanying the bankruptcy protection documents, that it would "allow Mt Gox a necessary breathing period for it to focus on its restructuring efforts without the distraction that would result if certain litigation currently pending in the United States were allowed to proceed."
+
+According to Karpales, Mt Gox has $63.9 million in liabilities and approximately $37.7 million in assets. Karpales also claims that the hack which took down Mt Gox stole approximately 7% of the world's Bitcoin supply.
+
+One of the things that's been puzzling the Bitcoin community is, if the Mt Gox wallet really was emptied by person or persons unknown, where did all the coins go? You'd think a transaction of that size would show up in the public ledger of transactions, runs the theory. Those of you following all things Bitcoin related may remember that other self-appointed investigators followed a very similar theory searching for Sheep Marketplace's Bitcoin, with dismal results. Now some of Mt Gox's customers have hacked the personal blog and Reddit account of Mt Gox CEO Mark Karpales, posting what they claim is evidence of fraud. Or, as they prefer to put it, evidence that they've been Goxed.
+
+The hackers posted messages, since removed from Karpales' blog and Reddit, claiming that they had discovered where Karpales stored the loot. The hackers claim Karpales kept back 951,116 Bitcoin, though this claim may not be all it seems.
+
+For one, as Forbes points out, the spreadsheet posted by the hackers may simply indicate how badly Mt Gox dropped the ball; that all those figures show is what Mt Gox thought it had, not what it actually possessed.
+
+For another, the information posted seems to be infested with Trojans. The posts included genuine Mt Gox data mixed in with a healthy helping of .exe and Mac.app files, some of which are actually Bitcoin stealing viruses disguised as back office tools. Should you go looking for the files yourself, you're advised not to open them.
+
+One poster says that the data was obtained by installing a rootkit months ago on one of Mt Gox's servers via known Gentoo Linux distribution flaws, and the installation was successful because Karpales didn't bother to update. This same poster, nanashi, claimed to have access to much of Mt Gox's customer data in a 20GB stolen database, possibly including bank details, passwords, usernames, even passport scans. Nanashi offered this database for sale for 100 Bitcoin. "Selling it one or two times to make up personal loses from gox closure," he says.

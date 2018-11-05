@@ -1,0 +1,21 @@
+Update March 12, 11 a.m.: Yesterday DigitalGlobe saw an ¡°unprecedented level of web traffic and interest in supporting the search,¡± and Tomnod said their new satellite ¡°images (were) captured around 10:30am local time.¡±
+
+Malaysian authorities expanded the search area for Flight 370 to the Straight of Malacca, one of the ¡°most heavily traveled waterways in the entire world,¡± a U.S. Navy 7th Fleet spokesman said yesterday.
+
+At least 250 tons of evidence from Malasyia Flight 370 should be out there somewhere. Two hundred and 39 people, parts of the plane, suitcases, seat cushions that are supposed to float ¡ª it just seems that something, even the smallest shred of evidence, must be out there waiting to be spotted.
+
+At least, that¡¯s the thinking behind the DigitalGlobe effort; the aerial imaging company has fixed their orbiting satellite cameras on the Gulf of Thailand and surrounding regions where the missing Boeing 777 was last tracked.
+
+The Colorado-based company says crowdsourcing the search is the best solution to finding clues. By making their high-resolution images available to the public, potentially hundreds of thousands of eyes can inspect the search areas and help to look for yet-unspotted traces of the flight.
+
+¡°For people who aren¡¯t able to drive a boat through the Pacific Ocean to get to the Malaysian peninsula, or who can¡¯t fly airplanes to look there, this is a way that they can contribute and try to help out,¡± Luke Barrington, senior manager of Geospatial Big Data for DigitalGlobe, told ABC News.
+
+The images being gathered will be made available for free to the public on a website called Tomnod. Anyone can click on the link and begin searching the images, tagging anything that looks suspicious. Each pixel on a computer screen represents half a meter on the ocean¡¯s surface, Barrington said.
+
+According to ABC, DigitalGlobe will use a computer algorithm to determine whether users start tagging certain regions more than others. In-house satellite imaging experts will follow up on leads, Barrington said.
+
+¡°We¡¯ll say, ¡®Here are our top ten suspicious or interesting locations,¡¯¡± Barrington said. ¡°Is it really an aircraft wing that¡¯s been chopped in half or is this some other debris floating on the ocean? We may not be 100 percent sure, but if this is where I had to go pick a location to go looking for needles in this big haystack, this is where I¡¯d start.¡±
+
+DigitalGlobe has used this technique to assess damage after other natural or manmade disasters, including the tornado that leveled the Plaza Elementary School in Moore, Okla., and the devastating damage to Seaside Heights, N.J. after Superstorm Sandy.
+
+¡°In many cases the areas are so large or the things are are looking for are so hard to find that without the help of hundreds of thousands of people online we¡¯d never be able to find them,¡± Barrington said.

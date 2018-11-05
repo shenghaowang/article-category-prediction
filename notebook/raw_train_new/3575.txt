@@ -1,0 +1,7 @@
+Finding a missing Malaysia Airlines plane may depend on whether searchers can narrow down where they need to look using satellite data that is inexact and has never been used for that purpose before, search and rescue experts say.
+
+Authorities now believe someone on board the Boeing 777 shut down part of the aircraft¡¯s messaging system at about the same time the plane disappeared from civilian radar. But an Inmarsat satellite was able to automatically connect with a portion of the messaging system that remained in operation, similar to a phone call that keeps ringing because no one picks it up. No location data were exchanged, but the satellite continued to identify the plane once an hour for four to five hours after it disappeared from radar screens.
+
+Based on the hourly connections with the plane, described by a U.S. official as a ¡°handshake,¡± the satellite knows at what angle to tilt its antenna to be ready to receive a message from the plane should one be sent. Using that antenna angle plus radar data, investigators have been able to draw two vast arcs from northern Thailand to Kazakhstan and Turkmenistan, and from Indonesia to the southern Indian Ocean. The plane is believed to be somewhere along those arcs.
+
+Air crash investigators have never used this kind of satellite data before to try to find a missing plane, but after pursuing other leads, it is the best clue left.

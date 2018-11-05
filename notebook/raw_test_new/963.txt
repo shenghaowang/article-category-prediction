@@ -1,0 +1,9 @@
+Mt. Gox has discovered 200,000 missing bitcoins in a wallet no longer in use, the troubled Bitcoin exchange announced Thursday, reducing the number of missing bitcoins from 850,000 to 650,000.
+
+"We believed there were no bitcoins left in old wallets, but found 199,999.99 bitcoins on March 7," Mt. Gox Chief Executive Officer Mark Karpeles said in a document (PDF) released Thursday. Mt. Gox said it reported the discovery to attorneys on March 8 and moved the newfound bitcoins to offline storage.
+
+Once one of the largest and most popular Bitcoin exchanges, Mt. Gox filed for bankruptcy protection last month, saying it had lost nearly 750,000 customer bitcoins, as well as 100,000 of the exchange's own bitcoins, as a result of a security lapse. The discovery of the overlooked bitcoins apparently occurred before hackers hijacked and defaced Karpeles' Reddit account and personal blog with charges of fraud.
+
+Hackers accused the exchange of secretly keeping some of the coins allegedly stolen in the fraudulent withdrawals and posted data allegedly lifted from Mt. Gox servers they said backed up their claims. The data purportedly showed that 951,116 bitcoins had been deposited with the exchange, more than 100,000 more than Mt. Gox claimed to have lost.
+
+The troubled exchange suspended customer withdrawals on February 7, claiming a fundamental flaw existed in Bitcoin that affected all transactions. Soon afterward, the exchange shut down altogether. Although Mt. Gox later apologized for the issue and said it had developed a workaround that would allow it to resume service, customers are still unable to make withdrawals.
