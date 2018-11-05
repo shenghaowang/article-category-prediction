@@ -49,12 +49,20 @@ def main():
             if paragraphs:
                 article_body = ' '.join(paragraphs)
                 part_of_speech = {}
+                word_bag = []
+                for paragraph in paragraphs:
+                    words = paragraph.split(' ')
+                    word_bag.extend(words)
                 part_of_speech['article_id'] = article_id
+                part_of_speech['char_count'] = sum([len(word) for word in word_bag])
+                part_of_speech['word_count'] = len(article_body.split(' '))
+                part_of_speech['paragraph_count'] = len(paragraphs)
                 part_of_speech['noun_count'] = check_pos_tag(article_body, 'noun')
                 part_of_speech['verb_count'] = check_pos_tag(article_body, 'verb')
                 part_of_speech['adj_count'] = check_pos_tag(article_body, 'adj')
                 part_of_speech['adv_count'] = check_pos_tag(article_body, 'adv')
                 part_of_speech['pron_count'] = check_pos_tag(article_body, 'pron')
+                part_of_speech_features.append(part_of_speech)
 
             article_count += 1
             if article_count % 100 == 0:
@@ -64,8 +72,13 @@ def main():
     # Write part of speech features into file
     if not os.path.exists(features_dir):
         os.makedirs(features_dir)
-    part_of_speech_df = pd.DataFrame(part_of_speech)
-    part_of_speech_df = part_of_speech.sort_values(by=['article_id'])
+    num_valid_articles = len(part_of_speech_features)
+    part_of_speech_df = pd.DataFrame(part_of_speech_features,
+                                     columns=['article_id', 'char_count', 'word_count',
+                                              'paragraph_count', 'noun_count', 'verb_count',
+                                              'adj_count', 'adv_count', 'pron_count'],
+                                     index=list(range(num_valid_articles)))
+    part_of_speech_df = part_of_speech_df.sort_values(by=['article_id'])
     part_of_speech_df.to_csv(os.path.join(features_dir, 'part_of_speech.csv'), index=False)
     logger.info("Part of speech features have been written in file.")
     logger.info("Elapsed time: %s seconds...",
