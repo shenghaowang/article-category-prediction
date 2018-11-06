@@ -83,8 +83,8 @@ def main():
 
     """
     #articles_dir = './raw'
-    articles_dir = 'notebook/raw_train'
-    output_dir = './output'
+    articles_dir = 'notebook/raw_test_new'
+    output_dir = './output_test'
 
     # Create folder to store output if it doesn't exist
     if not os.path.exists(output_dir):
@@ -119,7 +119,8 @@ def main():
                     paragraph = line.replace("\n", " ")
                     words = pre_process(paragraph, porter)
                     if words:
-                        for word in words.split(' '):
+                        #for word in words.split(' '):
+                        for word in words:
                             word = word.strip()
                             if word and word not in stops:
                                 processed_words.append(word)

@@ -32,7 +32,8 @@ def check_pos_tag(text, flag):
 
 
 def main():
-    articles_dir = './output'
+    #articles_dir = './output'
+    articles_dir = './output_test'
     features_dir = './features'
     n_articles = len(os.listdir(articles_dir))
     part_of_speech_features = []
@@ -79,7 +80,7 @@ def main():
                                               'adj_count', 'adv_count', 'pron_count'],
                                      index=list(range(num_valid_articles)))
     part_of_speech_df = part_of_speech_df.sort_values(by=['article_id'])
-    part_of_speech_df.to_csv(os.path.join(features_dir, 'part_of_speech.csv'), index=False)
+    part_of_speech_df.to_csv(os.path.join(features_dir, 'part_of_speech_test.csv'), index=False)
     logger.info("Part of speech features have been written in file.")
     logger.info("Elapsed time: %s seconds...",
                 round(time.time() - start_time, 4))

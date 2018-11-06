@@ -482,7 +482,8 @@ class SentimentIntensityAnalyzer(object):
 
 def main():
     classifier = SentimentIntensityAnalyzer()
-    articles_dir = './output'
+    #articles_dir = './output'
+    articles_dir = './output_test'
     features_dir = './features'
     senti_probs = []
     article_count = 0
@@ -517,7 +518,7 @@ def main():
         os.makedirs(features_dir)
     senti_probs_df = pd.DataFrame(senti_probs)
     senti_probs_df = senti_probs_df.sort_values(by=['article_id'])
-    senti_probs_df.to_csv(os.path.join(features_dir, 'sentiment.csv'), index=False)
+    senti_probs_df.to_csv(os.path.join(features_dir, 'sentiment_test.csv'), index=False)
     logger.info("Sentiment probability and scores written in file.")
     logger.info("Elapsed time: %s seconds...",
                 round(time.time() - start_time, 4))

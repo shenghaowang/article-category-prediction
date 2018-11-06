@@ -2,12 +2,14 @@ import os
 import logging
 import numpy as np
 import pandas as pd
-import xgboost as xgb
 import time
 from logging.config import fileConfig
+from xgboost import XGBClassifier
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import KFold
-from sklearn.naive_bayes import MultinomialNB
+#from sklearn.naive_bayes import MultinomialNB
+from sklearn.model_selection import train_test_split
+from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import (classification_report, accuracy_score,
                              precision_score, recall_score, f1_score)
 
@@ -37,21 +39,19 @@ def main():
     avg_r = 0
     avg_f1 = 0
     start_time = time.time()
-    for train, test in kf.split(x):
-        #model = MultinomialNB().fit(x[train], y[train])
-        model = xgb.XGBClassifier(max_depth=5, learning_rate=0.1,
-                                  n_estimators=140).fit(x[train], y[train])
-        predicts = model.predict(x[test])
-        logger.info(classification_report(y[test], predicts))
-        avg_a += accuracy_score(y[test], predicts)
-        avg_p += precision_score(y[test],predicts, average='macro')
-        avg_r += recall_score(y[test],predicts, average='macro')
-        avg_f1 += f1_score(y[test],predicts, average='macro')
 
-    logger.info('Average Accuracy is %f.' %(avg_a/10.0))
-    logger.info('Average Precision is %f.' %(avg_p/10.0))
-    logger.info('Average Recall is %f.' %(avg_r/10.0))
-    logger.info('Average F1 score is %f.' %(avg_f1/10.0))
+    # Split training and validation datasets
+    x_train, x_val, y_train, y_val = train_test_split(x, y, test_size = .2,
+                                                      random_state=12, stratify=y)
+    #model = MultinomialNB().fit(x[train], y[train])
+    model1 = XGBClassifier(max_depth=5, learning_rate=0.1,
+                           n_estimators=140).fit(x_train, y_train)
+    predicts = model1.predict(x_val)
+    logger.info("Precision: %s" %round(precision_score(y_val, predicts, average='macro'), 4))
+    logger.info("Recall: %s" %round(recall_score(y_val, predicts, average='macro'), 4))
+    logger.info("F1 score: %s" %round(f1_score(y_val, predicts, average='macro'), 4))
+    logger.info("Accuracy: %s" %round(accuracy_score(y_val, predicts), 4))
+
     logger.info("Elapsed time: %s seconds...",
                 round(time.time() - start_time, 4))
 
