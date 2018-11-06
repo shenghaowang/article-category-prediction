@@ -1,7 +1,7 @@
 japanese newspaper reporting spectacular collapse mt gox bitcoin exchange operations servers also suffering largescale ddos attack
 yomiuri englishlanguage japan news reports attacks early february reached 15000 ddos hits per second mostly servers united states europe
-japan news notes doesnt require special skill launch ddos attack citing uehara professor information security ritsumeikan university ddos attacks done without highlevel hacking techniques
-referring attacks slovenian bitstamp canadas flexcoin uehara said possible copycats turned eyes exchanges weaknesses mt goxs system found
+japan news notes doesnt require special skill launch ddos attack citing uehara professor information security university ddos attacks done without highlevel hacking techniques
+referring attacks bitstamp canadas flexcoin uehara said possible copycats turned eyes exchanges weaknesses mt goxs system found
 february 10 mt gox threw hands air suspended bitcoin withdrawals later emerged attackers found way exploit mt gox code steal 85000 bitcoins worth hundreds millions dollars
 stolen bitcoins 75000 belonged customers 10000 mt goxs holdings
 mt gox investigation us japan

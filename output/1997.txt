@@ -34,7 +34,7 @@ note purposes consideration nonmonetary therefore entity may receive considerati
 one requirements entity must make supply course carrying enterprise gst liability may arise individuals use bitcoins payment method private domestic capacity
 however individual carries enterprise involves trading bitcoins depending whether individual exceeds gst registration threshold individual may need register gst could potentially liable gst bitcoin trades
 example gst applying bitcoin payment
-white co gst registered company based australia decided purchase apartment pyrmont rebecca 55000 apartment converted office acquired part white cos business enterprise rebecca gst registered apartment selling used principal place residence
+white co gst registered company based australia decided purchase apartment rebecca 55000 apartment converted office acquired part white cos business enterprise rebecca gst registered apartment selling used principal place residence
 rebecca agreed accept either 55000 australian currency equivalent value bitcoins exchange apartment supply apartment made rebecca private capacity gst liability arise sale regardless whether paid australian currency bitcoins
 white co paid apartment using australian currency money defined gst act payment would treated supply therefore white co would liable gst respect payment
 however white co instead paid apartment using bitcoins may qualify money defined white co may treated making taxable supply bitcoins triggers gst liability consideration supply bitcoins 55000 apartment transferred rebecca triggering gst liability 5000 white co
@@ -42,18 +42,18 @@ example white cos gst liability would offset input tax credit gst credit white c
 gst registered entity accepts bitcoins payment taxable supply may give rise practical issues arise australian currency accepted payment specifically
 entity need determine market value bitcoins received calculate amount gst payable taxable supply
 tax invoice issued entity need show amount gst payable taxable supply australian dollars tax invoice notwithstanding total invoice amount may paid bitcoins
-entity need australian dollars available pay gst taxable supplies ato accept bitcoins payment
+entity need australian dollars available pay gst taxable supplies accept bitcoins payment
 issues generally manageable additional practical considerations entities intended accept bitcoin payments issues arise payments received australian dollars
 could gst apply bitcoin exchanged australian currency australia
 foreign exchange transactions occur within australia treated financial supply financial supplies input taxed subject gst
 purposes item 9 regulation new tax system goods services tax regulations 199 gst regulations provides supply input taxed financial supply involves interest
 unlikely regulation could apply exchange transaction involving bitcoins bitcoin neither australian currency currency foreign country rather virtual currency associated country therefore transactions could involve taxable supplies requirements outlined section 4 satisfied
-note discussed section 9 gst may apply bitcoins supplied nonresident counter party australia
+note discussed section 9 gst may apply bitcoins supplied counter party australia
 example gst applying twice bitcoins accepted payment
 white co sold equipment worth 1100 including gst 100 australian customer white co agreed accept equivalent amount bitcoins instead australian currency payment equipment
 white co gst liability 100 sale equipment notwithstanding received bitcoins instead australian currency
 following sale white co decides convert 1100 worth bitcoins received australian currency white co sells bitcoins purchaser within australia 1100 sale bitcoins may treated taxable supply triggering second 100 gst liability white co
-white co accepted australian currency first instance would need convert bitcoins second potential gst liability would arisen
+white co accepted australian currency first instance would need convert bitcoins second potential gst liability would
 would gst apply bitcoin supplied someone outside australia
 bitcoin supplied either payment trade entity outside australia supply may gstfree subject gst export exemption provisions section gst act
 section 95 gst act provides supply gstfree taxable gstfree treatment prevail

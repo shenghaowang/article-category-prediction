@@ -1,4 +1,4 @@
-university michigan released preliminary reading consumer sentiment survey came 99 october 1001 september missing estimates 1004
-gmt dollar index rose 031 basket major rivals intraday high lowest since september 28
-current economic conditions gauge survey receded well 1144 economic outlook gauge receded 905
-oneyear inflation outlook rose 28 27 fiveyear expectations receded 23 25
+request source data delayed 1 month obtain historical data prior january 1978 please see fred data series
+data cited follows surveys consumers university michigan university michigan consumer sentiment umcsent retrieved fred federal reserve bank st louis accessed date
+copyright 2016 surveys consumers university michigan permission
+university michigan university michigan consumer sentiment umcsent retrieved fred federal reserve bank st louis november 4 2018

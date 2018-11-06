@@ -6,7 +6,7 @@ none test theory researcher constructed theoretical board candies
 none tried establish generic formula solving puzzle
 none involved trying prove whether certain score could achieved set number swaps
 none wasnt easy solve meaning game classified npcomplete
-next time someone criticises playing much candy crush tell youre actually solving complex mathematical problem
+next time someone playing much candy crush tell youre actually solving complex mathematical problem
 australian researcher toby walsh wanted test whether game whats called nphard difficult solve without computer
 test theory constructed theoretical board candies able turn logical math puzzle meaning strategy could classified alongside complex problems confirming np
 game difficult

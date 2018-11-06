@@ -1,1 +1,1 @@
-get pencils ncaa bracket time
+get ncaa bracket time
