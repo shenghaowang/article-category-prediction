@@ -1,0 +1,35 @@
+In 2014, Japan-based bitcoin exchange Mt. Gox declared bankruptcy following a devastating hack where it lost hundreds of thousands of bitcoins.
+
+Today, the court battle over the Mt. Gox disaster continues to unfurl in Japanese courtrooms. The trial involves Mark Karpel¨¨s, who presided over Mt. Gox during the collapse, and the stash of bitcoins held by the exchange in the days before it declared bankruptcy.
+
+Karpel¨¨s is on trial in Tokyo for embezzlement and manipulation of records. In a strange twist, however, as explained by Bloomberg, there was a chance that Karpel¨¨s could have received an enormous windfall through the Mt. Gox trial. In fact, due to a strange bankruptcy rule, Karpel¨¨s could have become a bitcoin billionaire.
+
+In 2014, Mt. Gox lost 850,000 bitcoins. As the world¡¯s largest bitcoin exchange at the time, Mt. Gox was handling nearly 70% of all bitcoin transactions on the internet. The exchange was forced to declare bankruptcy.
+
+Here¡¯s where things get interesting: at the time of the Mt. Gox hack, bitcoin was worth approximately $500. Over 2017, the price of bitcoin skyrocketed to a high of $20,000 before settling to a range of around $6,300 today. That means the discovered coins have more value today than the total coins that were originally lost in 2014.
+
+Some of the found coins, including bitcoin (BTC) and Bitcoin Cash (BCH) have already been sold by the bankruptcy trustee. That trustee sold about $387 million worth of Mt. Gox¡¯s bitcoins starting in January. Many analysts believe this is the reason markets have slumped since January: it¡¯s rare for a single entity to sell off such a massive sum of bitcoins. The Mt. Gox trustee has been selling bitcoins in packets, but it still has a considerable impact on the market.
+
+The value of the remaining bitcoins, meanwhile, is around $1.2 billion. That¡¯s more than enough money to pay off the thousands of people who lost their bitcoins in the Mt. Gox collapse ¨C based on the price of bitcoin in 2014.
+
+In a bankruptcy, the surplus of more than $1 billion would have gone to Mt. Gox¡¯s shareholders.
+
+Mt. Gox¡¯s primary shareholder is Mark Karpel¨¨s, who owns 88% of Mt. Gox through a company he controls.
+
+When it was revealed that Karpel¨¨s was the primary shareholder of Mt. Gox, and that he could stand to become a bitcoin billionaire as a result of the bankruptcy, people ¡°were up in arms¡±, as Bloomberg explains. Karpel¨¨s, who had already received death threats in the months following the collapse of Mt. Gox, received more death threats ¨C some of which were very specific.
+
+Mt. Gox¡¯s creditors, meanwhile, petitioned the Tokyo District Court to change from bankruptcy to a process called civil rehabilitation. Under this process, creditors may be able to receive compensation in bitcoin. These creditors would get back fewer bitcoins than they had lost. However, based on the appreciation of bitcoin since 2014, the creditors could still end up with more money by selling into fiat currencies.
+
+The Tokyo court approved the switch on June 22, allowing Mt. Gox¡¯s creditors to receive their compensation in bitcoin.
+
+¡°I was quite happy about this,¡± said Karpel¨¨s, as quoted by Bloomberg.
+
+Karpel¨¨s isn¡¯t being accused of being behind the hack. Instead, he¡¯s being accused of spending company and customer money and of fiddling with trading records on his exchange ¨C including the use of tactics like price manipulation. If convicted, he could face years in Japanese prison.
+
+Karpel¨¨s claims the money he¡¯s accused of embezzling was borrowed, and that borrowed money was recorded as such in Mt. Gox¡¯s books. Karpel¨¨s disputes the manipulating records charge by stating that he wasn¡¯t doing anything wrong or enriching himself: he was just managing the company¡¯s debts.
+
+Many people are unaware that Mt. Gox had lost customers¡¯ bitcoins prior to the hack. As early as 2011, the world¡¯s largest bitcoin exchange had run into significant problems. The exchange had already lost 80,000 of its customers¡¯ bitcoins, but kept the news a secret to avoid a run on the exchange. Karpel¨¨s claims the exchange lost those bitcoins before he acquired the exchange from Mt. Gox¡¯s founder, Jed McCaleb, in 2011.
+
+The fate of Mark Karpel¨¨s is up to three judges in Japan. As explained by Bloomberg, ¡°he has little reason for optimism¡± because ¡°in Japan, prosecutors win 99 percent of the time.¡±
+
+Creditors, meanwhile, can expect to get bitcoins heading their way in the near future. Creditors have until October to file a claim, and Mt. Gox must submit a proposed rehabilitation plan by February 2019.

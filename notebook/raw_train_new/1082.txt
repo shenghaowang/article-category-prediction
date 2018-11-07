@@ -1,0 +1,13 @@
+After Tokyo-based Bitcoin exchange Mt. Gox reported last month that it lost nearly $500 million worth of users¡¯ bitcoins in a security lapse, many users were not convinced with the explanation from the exchange¡¯s owners.
+
+While Mt. Gox did not provide further information about the attack, which reportedly exploited a transaction bug to divert the funds, a group of hackers claimed Sunday that they broke into Mt. Gox CEO Mark Karpeles¡¯ personal blog, and found a discrepancy in the number of bitcoins deposited compared to the number of bitcoins Mt. Gox claimed were stolen in February's security lapse.
+
+According to a report from Forbes, the hackers gained access to the personal blog and Reddit account of Karpeles and posted a message, claiming that the exchange still had access to some of the bitcoins that Karpeles had reported stolen.
+
+The hackers uploaded a series of files, including a spreadsheet of anonymous user accounts with details of bitcoin balances, Karpeles' home address, and a screenshot allegedly verifying the hackers' access to the data. In addition, the hackers also posted a 716MB zip file claimed to contain stolen data from Mt. Gox servers. Here is the link to the data on Pastebin.
+
+¡°First and foremost, this is not Mark Karpeles,¡± the hackers wrote. ¡°It's time that MTGOX got the bitcoin communities wrath instead of [the] Bitcoin Community getting Goxed¡­ Included in this download you will find relevant database dumps, csv exports, specialized tools, and some highlighted summaries compiled from data. Keeping in line with f***ing Gox alone, no user database dumps have been included.¡±
+
+The data posted by the hackers claimed that 951,116.21905382 bitcoins were deposited into Mt. Gox. The exchange filed for bankruptcy last month, claiming it had lost 750,000 customer bitcoins, in addition to 100,000 of the exchange's own bitcoins.
+
+While the authenticity of Sunday¡¯s database dump has not yet been confirmed, some Reddit users said they had found that their personal account balances matched the data in the posting, CNET reported.

@@ -1,0 +1,63 @@
+Newly released internal GM documents reveal that the company in 2001 considered -- and rejected ¨C an ignition switch design that two prominent safety advocates say could have avoided the problem that led the automaker to recall millions of vehicles this year. The company¡¯s decision to reject the safer switch was motivated by cost, the advocates say.
+
+They say GM documents show that design was the same one GM quietly began providing years later, in 2006, as a replacement part, and is now beginning to add to all recalled vehicles.
+
+The new allegation against GM came Wednesday morning in a joint letter to GM CEO Mary Barra from Clarence Ditlow, executive director of the Center for Auto Safety, and Joan Claybrook, former administrator of the National Highway Traffic Safety Administration (NHTSA) and former executive director of Public Citizen, a nonprofit consumer advocacy organization.
+
+In the letter, Ditlow and Claybrook say that ¡°obscure but ¡®smoking gun¡¯¡± documents released last week ¡°paint a tragic picture of the cost culture and cover-up at General Motors.¡±
+
+¡°We now know, from Engineering Drawings and Documents submitted to the U.S. Congress by General Motors, the company created two competing designs for the ignition switch on the 2003 Saturn Ion and later models including the Chevrolet Cobalt and other recalled vehicles,¡± it says. ¡°But GM chose to use the ignition switch that would fail as your customers were driving innocently on the highway.¡±
+
+In an interview, Ditlow told NBC News that, based on his 40 years experience in the auto industry reading engineering and cost documents, he can reach no other conclusion other than that GM opted for the shorter part because of the price.
+
+Contacted by NBC News Wednesday morning, GM spokesman James Cain said the company was in the process of reviewing the letter. He later issued this statement, referring to an ongoing internal investigationof the ignition switch problem headed by former U.S. Attorney Anton Valukas: "All of the questions you are asking involve issues the Valukas investigation will address. We are hoping that Mr. Valukas¡¯ findings will be completed within the next 45-60 days."
+
+The allegations are based on information contained in approximately 700 pages of internal GM documents released by the House Energy and Commerce Committee on Friday.
+
+GM previously had not disclosed the new information about the 2001 design in any of its public responses.
+
+An official chronology GM provided to federal regulators does not list the design from 2001, or note that later changes that increased the safety of the switch, including the current recall fixes, were based on it.
+
+GM has recalled 2.6 million vehicles -- Chevy Cobalts and HHRs, Pontiac G5s, Pursuits and Solstices and Saturn Ions and Skys, from model years 2003 to 2007 ¨C because the ignition switch problem could cause ignitions to slip from ¡°run¡± to ¡°accessory¡± or ¡°off¡± positions while being driven. That could cause vehicles to stall, shutting down power brakes and power steering and preventing airbags from deploying. GM acknowledges that the faulty ignition switch has been linked to 32 crashes and 13 deaths.
+
+Central to the controversy over GM¡¯s handling of the ignition switch problem and recalls is the configuration of one of the switch¡¯s key parts, called a detent plunger and spring. The detent plunger and spring inserts into bores or slots inside the ignition switch to secure the ignition in one position or another.
+
+In its notification in February about the recall to its federal regulator, the National Highway Traffic Safety Administration (NHTSA), GM stated that it had decided that a safety defect existed in various of its 2003-2007 model year vehicles, warning that ¡°the ignition switch torque performance may not meet General Motors¡¯ specification¡± and could result in the ignition slipping out of ¡°run.¡±
+
+Other newly released documents show that GM had determined that the configuration of the detent plunger and spring first used in 2003-2007 models was a factor in torque resistance problems.
+
+The design GM ended up choosing to install in vehicles starting in 2003 did not meet GM¡¯s own design specifications for torque, as shown by documents released last week.
+
+One document from 2004 shows that GM had recorded multiple failures of the ignition switch to resist inadvertent forces which could cause it to slip out of position, and that GM had taken action that same year to change the detent plunger and spring ¡°to provide more torque force to the switch.¡±
+
+An NBC News investigation first reported last month that evidence gathered in a lawsuit filed by the parents of Brooke Melton, a Georgia woman killed in the crash of her 2005 Chevrolet Cobalt in 2010 showed that plunger and spring ¨C had undergone an unreported change starting in 2006-2007, when ignition switches GM provided as replacements began to include longer plungers and narrower springs, apparently in an effort to address the torque resistance problem. GM settled the Melton lawsuit for an undisclosed sum.
+
+GM later acknowledged that the part had changed. In a chronology of its handling of the faulty ignition switch problem GM provided earlier this year to the NHTSA and released to the public, the company acknowledged that its design engineer responsible for the switch had signed a documentapproving changes to the ignition switch proposed by the then-supplier, Delphi Mechatronics, in April 2006. The approved changes included, among other things, the use of a new (longer-length] detent plunger and spring that increased torque force in the ignition switch.¡± GM stated it believed that the supplier began providing the changed switch to GM ¡°at some point during the 2007 model year.¡±
+
+But GM had not notified federal regulators or car owners, or changed the part number.
+
+After these changes, other GM documents released on Friday show, reported cases of airbag non-deployments relating to ignition switch problems dropped almost to zero.
+
+GM recently acknowledged that the critical alteration in its current recall repairs will be a lengthened detent plunger.
+
+Ditlow and Claybrook¡¯s ¡°smoking gun¡± documents are two engineering drawings which show that GM had considered designs for both a longer and shorter detent plunger and spring part in 2001 -- 13 years before the recall and 5 years before the unreported changes to the ignition switch part which increased the length of the detent plunger. (The engineering drawings are near the end of this document posted on the House Energy and Commerce Committee website.)
+
+Both drawings bear the name of the Vehicle Switch/Electronics Division of Eaton Corp., an industrial manufacturer which has served as a supplier for GM, and was later acquired by Delphi.
+
+One, dated Sept. 25, 2001, shows the plunger length at 7.3mm (See p.13). The other, dated Oct. 25, 2001, one month later, shows the plunger length at a shorter 6.0mm (See p.11).
+
+The two designs are nearly identical to a comparison first reported by NBC News, created by Mark Hood, an engineer hired by Lance Cooper, the plaintiff attorney representing Brooke Melton¡¯s parents in their lawsuit against GM.
+
+Hood¡¯s comparison revealed detent plungers in ignition switches of vehicles from 2005 had shorter detent plungers with lengths close to 6.0mm, and those after 2006 had longer detent plungers with lengths closer to 7.0mm.
+
+¡°The documents show that when General Motors changed the ignition switch in 2006, it did not have to develop a new more robust design because GM engineers had already designed the safer switch,¡± the letter sent to GM CEO Barra on Wednesday states. ¡°¡­ The rejected long detent spring and plunger design became the silent remedy GM subsequently introduced into production in late 2006 without changing the part number, thus secretly fixing the models made after that date.¡±
+
+That change was at least seven years before the recall, and before at least eight of the 13 deaths GM has counted had occurred.
+
+Both Ditlow and Claybrook have been very critical of GM¡¯s response to the ignition problem, since its first public disclosure and announcement of several related mass safety recalls earlier this year.
+
+In their letter, Ditlow and Claybook raise questions about Barra¡¯s testimony in two congressional hearings two weeks ago.
+
+¡°Were you briefed on these internal General Motors documents prior to your testimony before Congress?¡± they ask Barra. ¡°Since they were submitted to Congress before you testified, surely your engineering staff should have told you about the shocking contents of these documents. They paint a tragic picture of the cost culture and cover up at General Motors.¡±
+
+In an interview, Ditlow told NBC News that the documents and additional information they reveal show a pattern of ¡°callous decision-making¡± by GM that ¡°goes way beyond¡± making a significant change to the ignition switch part without reporting it or notifying the public.

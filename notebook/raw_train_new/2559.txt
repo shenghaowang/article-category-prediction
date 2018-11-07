@@ -1,0 +1,13 @@
+News about what actually happened in the days leading up to the Mt. Gox Bitcoin exchange filing for bankruptcy are few and far between, and some of its customers are losing their patience, especially when there is no record in the Bitcoin blockchain of the allegedly stolen 850,000 bitcoins moving.
+
+Yomiuri Shimbun sources confirmed that Mt. Gox was hit by a massive DDoS attack that was separate from the attacks aimed at stealing bitcoins via malformed transactions. The DDoS attacks came prevalently from servers in the US and Europe, and it is unknown if the attackers were the same ones that took advantage of the flaw in the Bitcoin system.
+
+Also this weekend hackers compromised the official blog and the Reddit account of Mt. Gox CEO Mark Karpeles, as well as some of the company¡¯s servers.
+
+¡°It¡¯s time that MTGOX got the bitcoin communities wrath instead of Bitcoin Community getting Goxed. This release would have been sooner, but in spirit of responsible disclosure and making sure all of ducks were in a row, it took a few days longer than would have liked to verify the data,¡± they wrote in a message on Karpeles¡¯ blog, and offered a link to a 716 Mb archive containing ¡°relevant database dumps, csv exports, specialized tools, and some highlighted summaries compiled from data,¡± but no user database dumps.
+
+According to Forbes, the file ¡°appears to include an Excel spreadsheet of over a million trades, a file that purports to show the company¡¯s balances in eighteen difference currencies, the backoffice application for some sort of administrative access to the databases of Mt. Gox¡¯s parent company Tibanne Limited, a screenshot of the hackers¡¯ access to those databases, a list of Mark Karpeles¡¯ home addresses and Karpeles¡¯ personal CV.¡±
+
+¡°In the hackers¡¯ summary of Mt. Gox¡¯s balances in various currencies, they point to a claimed balance of 951,116 bitcoins, which they take as evidence that Mark Karpeles¡¯ claim to have lost users¡¯ digital currency to hackers is fraudulent,¡± added Forbes¡¯ Andy Greenberg, but pointed out that is not evidence of Karpeles¡¯ involvement in the apparent theft.
+
+He also noted that a user on the BitcoinTalk forum apparently tried to sell the Mt. Gox user database, complete with real names and passport scans, but whether he or she actually had the dump in question has not been confirmed.

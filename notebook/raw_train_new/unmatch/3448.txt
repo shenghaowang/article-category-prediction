@@ -1,0 +1,55 @@
+Rupert Murdoch's media conglomerate 21st Century Fox has made an attempt to buy rival media conglomerate Time Warner for $80 billion; the Time Warner board considered and then rejected the offer. But nobody thinks this is a done deal. Murdoch will continue to press his case to Time Warner shareholders, and Time Warner may press Murdoch to sweeten the deal. It's premature to say that a merger is likely, but the fact that these talks are in the news means that even though Time Warner rejected the offer, the possibility is hardly off the table.
+
+Why is this happening? And what does it mean for an ordinary television viewer? You've got questions and we've got answers.
+
+1) What do these companies do and why would they merge?
+
+21st Century Fox and Time Warner are both media conglomerates. They own television and movie production studios that make shows and movies, and they own cable television networks. CNN, Cartoon Network, TNT, and HBO are all Time Warner networks. 21st Century Fox's networks are mostly identifiable by their Fox branding ！ Fox News, Fox Sports, and FX are all 21st Century Fox Networks ！ though they also own a majority stake in National Geographic.
+
+Companies like Fox and Time Warner make a lot of money from what are called carriage fees that cable infrastructure owners pay for the right to carry a channel. Cable TV providers don't face much competition, but nobody is going to pay for a cable package that doesn't feature the networks they want to watch. Recently, the cable industry has seen significant consolidation. One major aim of this consolidation is to gain more leverage over the networks, so that cable providers can pay lower fees for the right to carry channels like Cartoon Network and Fox News. One major aim of consolidating 21st Century Fox and Time Warner would be to accomplish the opposite and allow the network owners to have more leverage vis-┐-vis the people who own cable infrastructure.
+
+2) Why doesn't Time Warner want to merge?
+
+The merger makes business sense, and the price Murdoch is offering ！ about a 22 percent premium over the current market price of Time Warner shares ！ is fair. Nonetheless, Time Warner executives and board members are raising one big objection to the merger. Murdoch is offering some cash to Time Warner shareholders, but most of the purchase would be financed with shares of 21st Century Fox stock.
+
+That's a fairly standard practice, except 21st Century Fox stock is a bit unusual ！ it doesn't carry any voting rights. Like many family firms, Murdoch's company has a two-tier share structure with the bulk of the voting shares in the hands of the Murdoch family. Time Warner's board says it would be a mistake for Time Warner shareholders to swap their voting rights in the company for non-voting shares of questionable value.
+
+At any rate, that's their story. They also might just be bargaining for a higher price.
+
+3) Didn't Time Warner just get bought by Comcast?
+
+No. The proposed takeover is that Comcast is buying Time Warner Cable, which is a different company. Comcast owns both cable providers and television networks, and Time Warner used to be the same way. But in March 2009, the conglomerate's cable assets were spun off as a separate company, Time Warner Cable.
+
+That's what Comcast is buying. More recently, Time Warner also spun off Time Inc, its magazine division. Rupert Murdoch also separated his newspaper interests from his television and film production interests. That leaves the present-day incarnation of 21st Century Fox and the present-day incarnation of Time Warner as very similar businesses, and logical candidates for a merger.
+
+4) Does this mean Fox would be running CNN?
+
+Almost certainly not. That would be an obvious anti-trust red flag. It's fairly common for two companies that are merging to sell off a handful of assets to avert anti-trust concerns, and this is almost certainly what would happen in the case of CNN.
+
+In the past both CBS (a division of Viacom) and ABC (a division of Disney) have expressed interest in owning the network. Both of those companies run fairly costly news divisions as part of the legacy of traditional broadcast television, but like all general interest networks they don't actually air very much news. Combining their news infrastructure with the distribution capabilities and strong brand of CNN is a compelling proposition, so offloading the news channel shouldn't be a problem.
+
+There's no genuinely on-point songs to offer, but one guy on YouTube did rather amusingly recast a They Might Be Giants song as a very mean tune about Murdoch:
+
+6) Am I gonna get screwed if this happens?
+
+Probably not. The reason that you are screwed, as a cable customer, is that there is very little competition in the cable industry. That, in turn, is not so much a failure of anti-trust policy as a reflection of the fundamental economics of infrastructure. There are better and worse ways to regulate (or not regulate) industries like cable television, but there's no clearly correct solution. It's simply a hard problem. Tim Lee reported on how you can counter-exploit the economics of low competition to get a better deal on your cable bill, but that's about the best we can offer.
+
+With that context as background, diminished competition among cable networks is unlikely to harm consumers. What's happening is that cable companies are extracting monopoly rents from consumers, and if Murdoch gets his way he'll be able to ensure that more of those rents flow into his pockets rather than Comcast's pockets. You're in the same boat regardless.
+
+7) Why do people own non-voting stock shares?
+
+It's a little bit mysterious. In theory, the value of a share of stock stems from the fact that owning it entitles you to a small slice of control over the enterprise. Firms with dual-class share structures ！ a group that's grown lately to include Google and Facebook ！ break that link between ownership of the stock and control of the enterprise.
+
+Buying a share of stock like that is arguably a form of pure gambling. You don't really own anything of value other than the right to sell the share later if it becomes more valuable.
+
+On the other hand, in practice almost nobody owns enough shares of stock for the voting rights to matter. Ordinary shareholders in Time Warner do not influence the governance of the company in any practical sense any more than ordinary shareholders of 21st Century Fox do. Indeed, since so much stock is owned through mutual funds or index funds, it's quite common for people to own shares of both companies. So the Time Warner board's objections to the deal make sense in theory, but violates ordinary practice.
+
+Maaaaaybe. Certainly among young tech-savvy urbanites there is a distinct trend toward "cord-cutting" and relying on streaming internet video services for one's entertainment. If that trend continues, the whole way Time Warner and 21st Century Fox have structured their businesses will collapse.
+
+That said, since both companies have very similar businesses, it's not clear that the existence of some chance the industry will collapse necessarily militates against a merger. They're in the same boat. And in the short-term, at least, a merged company could have more clout in working out deals with Google, Apple, Amazon and other firms involved in the streaming video industry. Meanwhile, both firms have their feet somewhat in the live sports realm, which has only increased in monetary value as time-shifting and streaming video have devalued advertising on things that aren't live.
+
+9) So what about sports?
+
+ESPN, owned by Disney, is the 800-pound gorilla of the live sports world. But Time Warner is also an important secondary player in this industry. They run the MLB Network in a partnership with Major League Baseball, and run NBA TV and the NBA League Pass service and apps in partnership with the National Basketball Association. Fox is a major broadcaster of professional football, and also airs many baseball games. Time Warner's TNT subsidiary broadcasts NBA and NCAA basketball games and its TBS subsidiary shows baseball games. Fox also owns a network of regional sports cable networks that carry local live sports coverage, and has interests in college football.
+
+If you were to somehow add it all up, and then redivide it in a more coherently branded way ！ presumably with games transitioning off TNT and TBS onto the flagship Fox Sports Network ！ you'd have what's potentially a credible competitor to ESPN.

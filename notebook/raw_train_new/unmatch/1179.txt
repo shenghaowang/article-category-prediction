@@ -1,0 +1,29 @@
+WATCH: Digital Globe discusses how it¡¯s crowdsourcing campaign is helping in the search for the missing Malaysian jet
+
+TORONTO ¨C More than two million people joined a virtual search party after a U.S. satellite imagery company asked the public to search for clues for the missing flight MH370 Malaysia Airlines jet that disappeared without a trace more than a few days ago.
+
+DigitalGlobe, based in Longmont, Colo., has provided high-resolution images that were taken nearly 640 km (or 400 miles) above Earth.
+
+Last week, the group asked for volunteers to look through the images, which have been made available on Tomnod, a website that encourages the public to sift through satellite images in order ¡°to explore the Earth and solve real-world problems.¡±
+
+DigitalGlobe says experts are sifting through 645,000 features tagged so far. While hundreds of tags include oil slicks, boats and vessels, expert analysts are still working toward identifying the Top 10 most notable areas and share the information with customers and authorities.
+
+¡°We have continually tasked our satellites to image the ever-widening search area and now have more than 24,000 square kilometers of imagery available for the crowd to comb through,¡± said DigitalGlobe in a blog post. ¡°The sheer volume of traffic was a challenge at times for our servers to handle, but we are managing the spikes in activity much better now.¡±
+
+¡°We will continue to collect imagery of the search area and adapt our collection plans as new information becomes available. We appreciate the work that so many of you have done to search for clues and spread the word, and we sincerely hope the efforts will lead to a breakthrough.¡±
+
+The pictures were taken Sunday by two satellites over regions and areas where investigators believe the plane may have crashed.
+
+Users are able to zoom in on every satellite image and tag a location with a ¡°pin¡± if they believe they notice anything that could be part of the wreckage. If there is an overlap in tags, an algorithm will notify expert analysts if multiple people find something suspicious or noteworthy. The experts will then notify authorities of any notable patterns or information that might lead to finding the missing jet.
+
+¡°We¡¯ll say ¡®here are our top ten suspicious or interesting locations¡¯,¡± DigitalGlobe¡¯s Luke Barrington told ABC News. ¡°Is it really an aircraft wing that¡¯s been chopped in half or is this some other debris floating on the ocean? We may not be 100 per cent sure, but if this is where I had to go pick a location to go looking for needles in this big haystack, this is where I¡¯d start.¡±
+
+On Tuesday morning, the server became overloaded due to high traffic.
+
+The Boeing 777 took off from Kuala Lumpur, on the western coast of Malaysia, March 8 en route to Beijing. It flew overland across Malaysia and crossed the eastern coast into the Gulf of Thailand at 35,000 feet (11,000 metres). There it disappeared from radar screens.
+
+The airline says the pilots didn¡¯t send any distress signals, suggesting a sudden and possibly catastrophic incident.
+
+This is not the first time the Tomnod website has been used to aid in a search. Last year, the map was used to help identify more than 60,000 objects of interest after Typhoon Haiyan struck the Philippines in November.
+
+¨C with files from The Associated Press

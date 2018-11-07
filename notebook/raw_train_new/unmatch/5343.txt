@@ -1,0 +1,309 @@
+We are wrapping up the live blog now. For all the latest developments in the search for MH370 keep in touch with our world news page .
+
+19.21 The family of missing Australian couple Bob and Cathy Lawton say "you don't know what to believe"
+
+19.16 A rather tasteless fake Malaysian Airlines advert has been spreading around the internet:
+
+19.10 According to Malaysian newspaper The Star, Pakistan has dismissed reports that the MH370 was in its territory. The special assistant to the Prime Minister on Aviation Shujaat Azeem said the plane disappeared far away from Pakistani air space and was not visible on its radars:
+
+"Pakistan's civil aviation radars never spotted this jet, so how it could be hidden somewhere in Pakistan?"
+
+19.06 CNN is reporting on facts and speculation in relation to a story which has had scant details in more than seven days of it running.
+
+18.47 Images have emerged of the pilots of MH370 going through security at Kuala Lumpur airport- the last time they were pictured before the incident. Zaharie Ahmad Shah is pictured on the right, and Fariq Hamid the co-pilot is on the left.
+
+18.43 A caller into American cable news network C-span notes that the 9/11 hijackers also turned off the transponders on the planes.
+
+17.43 Video has emerged of the pilot of missing flight 370, Zaharie Ahmad Shah, in front of his simulator:
+
+17.35 Also in America, the New York Daily News has this story about Congressman Pete King, criticising the the Malaysian government for ※resisting§ international aid and scrutiny in the search for answers about the fate of flight 370.
+
+※There's obviously something with the pilot and the co-pilot, and that has to be drilled down on,§ said King.
+
+17.26 Captain Chelsea Sullenberger, who successfully executed the water landing of US Airways Flight 1549 in the Hudson River in 2009, is asked his take on the Malaysia plane on CBS. He says that the aviation industry "never willingly tolerates this level of ambiguity" and that findings may take months or years
+
+17.21 Bloomberg has mapped the depth of the water in the areas where flight MH370 could have disappeared.
+
+17.15 The Malay Mail is carrying an op-ed today that expresses anguish, embarassment and defensiveness in equal measure.
+
+The agonies surrounding the missing MH370 plane are inflicted upon Malaysia, our beloved country.
+
+During an interview with CNN, US aviation expert Peter Goelz told the world, ※[The] Search for MH370 is the worst I've ever seen in disaster management.§
+
+16.42 A Greek website is reporting that a ship is on its way to the Straits of Malacca to locate possible debris from flight MH370.
+
+It follows radio reports of suitcases found floating in a field of debris.
+
+Earlier, users of social media site Reddit attempted to locate debris from the plane using high resolution satellite images provided by a US firm, as seen in this user-created overlay (click link):
+
+<noframe>Twitter: Steven Daglas - And this amazing overlay by redditor /u/MichaelFR85 (not the finder) helps see poss. Malaysian <a href="https://twitter.com/search?src=hash&q=%23MH370" target="_blank">#MH370</a> more clearly <a href="http://t.co/jh6lBIJmd1" target="_blank">http://t.co/jh6lBIJmd1</a></noframe>
+
+There have been several false sightings of debris since the plane disappeared.
+
+You can track the ship's progress towards the purported debris field here
+
+15.25 The LA Times is carrying an excellent piece about the American families waiting for news of their loved ones.
+
+"My gut feeling is that it landed. I still feel his spirit. I don＊t feel he is dead"
+
+said Sarah Bajc, a 48-year-old American teacher living in Beijing whose partner, Philip Wood, a 50-year-old IBM executive, was a passenger on the flight.
+
+14.47 One of today's more substantial developments has been confirmation at the Kuala Lumpur press conference that the plane's tracking systems - known as ACARS [Aircraft Communications Addressing and Reporting System] and the transponder - were switched off before the pilot send his final radio communication to air traffic control, in which he said "Alright, good night" without hinting at any trouble.
+
+The ACARS system is supplied to Malaysia Airlines by a Geneva-based air transport communications firm SITA, using a satellite system operated by British firm Inmarsat (see 12.04). SITA issued the following statement:
+
+SITA can confirm that it supplies its Aircraft Communications Addressing and Reporting System (ACARS) to Malaysia Airlines. We are fully supporting the airline and all of the relevant authorities in their on-going investigation of flight MH370.
+
+While ACARS can be manually switched off, it contains a failsafe function which, in the absence of any communications activity for more than an hour, sends a simple "ping" signal.
+
+This function cannot be switched off without depowering the plane itself. An industry source who asked not to be named told the Telegraph:
+
+Somebody on the plane turned off ACARS [Aircraft Communications Addressing and Reporting System] and the transponder, but the system has a failsafe function which, in the absence of any activity, sends a simple ping saying ※are you there＃ yes I am.§ They probably didn＊t know about it. You can＊t switch it off without depowering the plane. It functions if we haven＊t heard anything for an hour. [The ＆ping＊ system] is built in as an additional failsafe. I don＊t think it has ever been used in this way before. This is a very unique situation 每 somebody has manually turned off ACARS and the plane appears to have gone out to deep sea so there is no radar verification.
+
+There is no regulatory requirement to have this technology. It would have been the simplest thing in the world to make all planes report their speed and position.
+
+14.20 As this Reuters article points out, the assumption that China and India are too extensively covered by radar for the plane to have flown through their airspace undetected doesn't quite stack up either.
+
+We have many radar systems operating in this area, but nothing was picked up," Rear Admiral Sudhir Pillai, chief of staff of India's Andamans and Nicobar Command, told Reuters. "It's possible that the military radars were switched off as we operate on an 'as required' basis."
+
+Separately, a defense source said that India did not keep its radar facilities operational at all times because of cost. Asked what the reason was, the source said: "Too expensive."
+
+14.12 Jeff Wise, a pilot and author who writes on aviation, has blogged for Slate on why he thinks it is most likely that the missing airliner is somewhere in Central Asia.
+
+He points out that the sourthern arc, or "corridor", (see 09.22) contains "only two kinds of place" - small islands and ocean:
+
+As for the first, I find it impossible to imagine that MH370 landed on a small island without being noticed.
+
+As for the second, I find it impossible to reconcile with my understanding of human nature that someone would commandeer a plane, maneuver it skillfully and with great imagination through a well-monitored zone of radar coverage, fly for eight hours, and then just go pffft in the middle of an ocean. To believe this scenario, I think you would have to overlook for me what has become a bedrock assumption about this case: that whoever carried it out is extremely intelligent, daring, dedicated, and brave. (Not words you＊re supposed to apply to a bad guy, but neither his motives or the nature of his deeds has yet been established, so I＊ll let them stand for now.)
+
+13.59 One of the many mysteries of the missing MH370 is why, if the plane was indeed hijacked, nobody on board has managed to get a signal to the outside world. There were reports yesterday of calls to some of the mobile phones on board connecting, but not being picked up.
+
+According to an industry source, the missing plane did have onboard telephones in the business class section, but these can be disabled in the same way as the plane's ACARS and transponder tracking systems - meaning it is likely that whoever manually switched these off would have done the same with the phones.
+
+Wi-fi of the sort found in US planes, using a ground-to-orbit system called "Go-go", is not yet available in Asia.
+
+13.48 As reported at 08.10, India has put its navy and air search operations for the missing jet on hold at the request of the Malaysian authorities. Coast guard ships have reverted to routine surveillance in the Andaman Sea and the Bay of Bengal.
+
+There has still been no indication of when the search will resume, but more details have filtered through on the reason for the pause.
+
+Indian and Malaysian officials are understood to have met in Kuala Lumpur today to refine search coordinates, based on recent developments in the ongoing investigation. A statement from India's Defence Ministry said:
+
+So far no sighting or detection has been reported by the units deployed for searches in various designated areas.
+
+The Malaysian authorities have now indicated that based on investigation, the search operations have entered a new phase and a strategy for further searches is being formulated. Accordingly, search operations have been suspended and all Indian assets earmarked for search operations have been placed on standby
+
+It is thought to be unlikely that the plane could have entered Indian airspace undetected, as the region has substantial radar coverage owing to the large number of flights between Europe and Southeast Asia which travel through and high security standards.
+
+However, Vinod Patney, a retired air force officer, told AP that though this was unlikely, it was "not impossible".
+
+13.24 Sarah Weeks, the sister of one of the missing plane's passengers, has described the agonising wait for news.
+
+[The possibility the plane has been hijacked rather than crashed] does raise your hopes because you think the potential is there that my brother is still alive.
+
+But then I also find that very scary as well because if someone has deliberately taken this plane then they've taken it for a reason, and I think we know that oftentimes that's not good:
+
+13.05 The mystery and potential tragedy of the missing Malaysia Airlines flight has gathered intense interest all across the globe.
+
+Earlier today Pope Francis urged people to pray for the victims and families of MH370 after his Angelus address in St Peter's Square in Rome, reports Josephine McKenna. He said:
+
+I ask you to remember the passengers and the crew from the Malaysian plane and their relatives in your prayers.
+
+We are with them at this very difficult time
+
+Pope Francis speaks to faithful during Angelus, the traditional Sunday's prayer, in Saint Peter's Square, Vatican City, Vatican; EPA/MAURIZIO BRAMBATTI
+
+12.55 US public radio station WNYC has put together an interesting infographic showing where the aircraft could be if it has successfully landed at a secret location.
+
+Boeing 777s need a runway to be at least 5,000 feet long, limiting the number of possible sites within the 2,200 nautical mile-radius it is believed the plane could have flown from its last known position within the five hours it is thought to have remained airborne:
+
+12.49 Our US correspondent - and former Transport Editor - David Millward has noted an interesting historical precedent if, as seems increasingly plausible, we are looking at a hijacking of some description.
+
+If the flight has been hijacked and taken to a secret airfield, the attack will reprise the Dawson＊s Field hijackings in 1970 when three aircraft - two bound for New York and one en route to London - were diverted to Dawson＊s Field in Jordan by the Popular Front for the Liberation of Palestine
+
+The story was memorably covered by Telegraph reporter, John Mossman, who even managed to bribe his way onto one of the hijacked aircraft.
+
+12.39 Malaysia's transport minister Hishammuddin Hussein has rejected criticism of Malaysia's Air Force and said the situation the country is in is being monitored throughout the world and could make aviation history.
+
+The latest phase of the search being coordinated by Malaysia involves 25 countries - up from 14 yesterday.
+
+12.22 Reuters has more information on Zaharie Ahmad Shah, the missing plane's captain, whose homemade flight simulator has been seized by police and is currently being scrutinised:
+
+A senior police official said the flight simulator programmes were looked at closely, adding they appeared to be normal ones that allowed players to practice flying and landing in different conditions.
+
+A second senior police official told Reuters investigators had found no links between Captain Zaharie, a father of three grown-up children and a grandfather, and any militant group.
+
+Postings on his Facebook page suggest the pilot was a politically active opponent of the coalition that has ruled Malaysia for the 57 years since independence.
+
+A day before the plane vanished, opposition leader Anwar Ibrahim was convicted of sodomy and sentenced to five years in prison, in a ruling his supporters and international human rights groups say was politically influenced.
+
+12.04 A team from British satellite firm Inmarsat, which provided the satellite information that persuaded the Prime Minister that the plane had been deliberately seized and turned back across Malaysia, is now assisting the Malaysian authorities with the search.
+
+Two of the firm's scientists have been dispatched to Kuala Lumpur where they are supporting the search's technical team in understanding their satellite data calculations and the type and limitations of the data that is available on MH370, The Telegraph has learnt.
+
+11.40 The Malaysian foreign ministry earlier today briefed representatives from 22 countries, including the central Asian states of Kazakhstan, Uzbekistan, Kyrgyzstan and Turkmenistan, and requested support in the form of satellite and radar data.
+
+This is part of a broader attempt to rule out the "northern" search corridor, which is thought to be an increasingly unlikely route for the plane to have taken given the higher density of radar systems over land compared with the southern corridor, which is mainly ocean (see 09.22)
+
+11.10 Malaysian authorities confirm they have seized the self-assembled flight simulator belonging to flight captain Zaharie Ahmad Shah, and have experts currently inspecting it for information including flight paths.
+
+10.55 Najib Razak, Malaysia's Prime Minister, has been busily retweeting the following information from transport minister Hishammuddin Hussein's communication team during the press conference:
+
+<noframe>Twitter: H2O Comms - Up until time <a href="https://twitter.com/search?src=hash&q=%23MH370" target="_blank">#MH370</a> left primary radar coverage, movements consistent with deliberate action by someone on the plane -<a href="http://www.twitter.com/HishammuddinH2O" target="_blank">@HishammuddinH2O</a></noframe>
+
+<noframe>Twitter: H2O Comms - Information released y'day has provided new leads, and given new direction to the search process <a href="https://twitter.com/search?src=hash&q=%23MH370" target="_blank">#MH370</a> -<a href="http://www.twitter.com/HishammuddinH2O" target="_blank">@HishammuddinH2O</a></noframe>
+
+<noframe>Twitter: H2O Comms - With the new wave of information, we hope more parties with expertise will come fwd &amp; help us narrow the search for <a href="https://twitter.com/search?src=hash&q=%23MH370" target="_blank">#MH370</a> -<a href="http://www.twitter.com/HishammuddinH2O" target="_blank">@HishammuddinH2O</a></noframe>
+
+10.40 Our South Asia Editor Dean Nelson was at the press conference in Kuala Lumpur, and has sent through the following notes:
+
+The pilot of MH370 had either switched off the plane's radar and transponders when he said goodnight to Malaysian air traffic controllers or had done so under duress by hijackers, Malaysia's transport minister said.
+
+The police investigation is focussing on crew, passengers and ground staff. The perpetrator/s had one of four motives/causes: hijacking, sabotage, personal problem or psychological problem.
+
+Passengers from four different countries have been investigated by their own intelligence agencies and cleared of any suspicion.
+
+We will have more on these points shortly.
+
+10.18 The search for missing the Malaysia Airlines jet continues along the two "corridors" outlined earlier (see 09.22), now with the possiblity confirmed by authorities that the plane has safely landed somewhere within this area and continued to emit the signals picked up by satellites.
+
+10.13 Some interesting answers from the Malaysian authorities, in particular the information that the plane's communication system had been disabled before the final radio contact from the plane's pilot to air traffic control "Alright, good night".
+
+That would seem to increase the focus on the pilots rather than another passenger on board, although all passengers on the plane are still under investigation.
+
+The information that the two pilots had not requested to fly together would seem to rule out any possible collusion between them.
+
+10.07 The press conference is now over. The authorities claim to have new leads and directions but remain tight-lipped on what exactly these are.
+
+The investigation continues to broaden by the day, with 25 countries now involved and the land area of 11 countries now within the search area.
+
+You can watch highlights of the press conference here:
+
+10.02 There have been no negative reports on the backgrounds of any passengers from foreign intelligence agencies, but all are still being investigated.
+
+09.57 Possible that the plane was grounded when some satellite signals were sent, says Malaysia's civil aviation chief.
+
+09.52 The plane took off with the planned [amount of] fuel - there was no additional fuel. No hazardous cargo was on board.
+
+09.49 Khalid Abu Bakar, Malaysia police chief, says the investigation has been reclassified to cover offences including hijacking, sabotage and terrorism.
+
+He says the investigation has not yet received background information on all passengers as not all countries' intelligence agencies have responded to Malaysia's requests.
+
+Hussein denies rumours that some countries have been uncooperative, describing an "unprecedented" number of people assisting in the investigation internationally.
+
+"The number of countries involved in the search and rescue operation has increased from 14 to 25, which brings new challenges of coordination and diplomacy to the search effort," he says.
+
+09.37 Hussein confirms police have visited the homes of both pilots and inspected the captain's home flight simulator.
+
+He confirms that a rumour that the pilot and copilot had specifically asked to fly together on MH370 is not correct.
+
+The investigation has been refocused on the pilots, passengers and ground staff.
+
+Countries including the US, China and France have been asked to provide further satellite data. Eleven countries' land area are now being searched.
+
+09.30 Today's press conference in Kuala Lumpur is now getting underway with Malaysia's Transport Minister Hishammuddin Hussein addressing a crowded room full of journalists.
+
+He describes a "significant recalibration of search", meaning that the search area has been significantly expanded and nature changed, now looking at large tracts of land as well as sea.
+
+The number of countries involved in the search has been increased from 14 to 25. Leaders of several countries including Bangladesh, India and Kazakhstan have been briefed in last 24 hours.
+
+09.22 In his press conference yesterday, Mr Najib said that authorities were trying to trace the plane across two possible ※corridors§ 〞 a northern one from the top of Thailand through to the border of Kazakhstan and Turkmenistan, and a southern route from Indonesia through to the southern Indian Ocean.
+
+A source familiar with US assessments of satellite signals said it appeared most likely the plane turned south over the Indian Ocean, where it would presumably have run out of fuel and crashed.
+
+The other interpretation was that MH370 flew to the north-west and headed over India.
+
+But it is unlikely the plane flew here for any length of time. India has strong radar coverage that should have allowed authorities there to intercept the plane.
+
+Here's a handy graphic which shows the vast area being searched:
+
+09.00 The major development this morning has been confirmation of the renewed investigation into the two pilots' backgrounds, including searches of their homes.
+
+The flight simulator constructed by the plane's captain Zaharie Ahmad Shah has drawn particular interest, and is being inspected by Malaysian police.
+
+We are half an hour from today's scheduled Malaysia press conference, in which we hope to learn more details of any progress.
+
+AFP has run the following profile of Zaharie:
+
+The captain of a missing Malaysian jet is an engineering buff who assembled his own home flight simulator...
+
+Captain Zaharie Ahmad Shah, 53, joined Malaysia Airlines in 1981 and is praised as a passionate pilot who has logged 18,365 hours of flying time at work and still more at home on his sophisticated simulator.
+
+A tribute page that has garnered more than 400 comments largely from well-wishers, shows pictures of the complex set-up including Zaharie posing in front of it.
+
+Zaharie has his own YouTube channel, features videos such as this one showing him cheerfully explaining how to fix an air-conditioner, patch damaged windows, and other DIY projects.
+
+08.43 The Sunday papers have covered the search for the missing Malaysia Airlines plane from a number of different angles, with much speculation about the possible means and motives of any potential hijacking.
+
+The Sunday Express leads with an interview with an anti-terror expert who believes we may be witnessing the world's first "cyber hijack", speculating that hackers could have taken control of the plane remotely via mobile phone.
+
+According to Dr Sally Leivesley, a former Home Office scientific adviser, a framework of malicious codes, triggered by a mobile phone, would have been able to override the aircraft＊s security software.
+
+Meanwhile, the Mail on Sunday has splashed on claims that Zaharie Ahmad Shah, the plane's captain, was a "political fanatic", based on the fact that he had reportedly attended the controversial trial of Anwar Ibrahim, Malaysia＊s opposition leader, just hours before the flight.
+
+08.30 It is not just China who is critical of Malaysia's investigation. The New York Times has compiled a summary of what it calls the "series of errors" made by Malaysia, which it says has complicated the task of finding MH370.
+
+Most troubling, it says, is the fact that the plane flew over Malaysia itself without the country's military noticing it on military radar or taking steps to identify it.
+
+"The fact that it flew straight over Malaysia, without the Malaysian military identifying it, is just plain weird 〞 not just weird, but also very damning and tragic,§ David Learmount, the operations and safety editor for Flightglobal, a news and data service for the aviation sector, told the newspaper.
+
+The article notes that Malaysia has a control room and American-made F-18s and F-5 fighters on standby for emergenies exactly like this, but did nothing about the unauthorised flight.
+
+08.23 China has ramped up its criticism of Malaysia's handling of the missing plane investigation today, saying it "squandered" precious time and resources by releasing dramatic information on the plane's fate a full week after it vanished.
+
+Prime Minister Najib Razak's revelation yesterday that Malaysia Airlines flight 370 was deliberately diverted and flew for several hours after leaving its intended flight path has prompted questions over how long Malaysian authorities had been privy to the new data, and whether they had missed an opportunity to intercept the diverted plane.
+
+It is undeniable that the disclosure of such vital information is painfully belated...
+
+And due to the absence - or at least lack - of timely authoritative information, massive efforts have been squandered, and numerous rumours have been spawned
+
+Two-thirds of the passengers on board the flight from Kuala Lumpur to Beijing were Chinese.
+
+08.10 Also overnight, India has put its search for the missing Malaysia Airlines flight MH370 on hold, at the request of the Malaysian authorities.
+
+India had been combing two areas, one around the Andaman and Nicobar Islands, and a second, further west, in the Bay of Bengal. Both operations have been suspended, but may yet resume, defence officials said.
+
+08.00 Malaysian authorities are expected to issue an update on their investigation at 9.30am UK time this morning. We will bring you the latest from that as it breaks.
+
+07.55 The renewed interest in the plane's pilots stems from the confirmation yesterday by Najib Razak, the Prime Minister of Malaysia, that airliner MH370＊s communications systems had been deliberately disabled.
+
+He said this was the ※deliberate action of someone on the plane§, adding to growing speculation that the flight had been hijacked by terrorists or one of its crew had ※gone rogue§.
+
+Mr Najib＊s announcement suggests the Malaysian authorities are convinced that someone in the cockpit switched off the communications systems.
+
+Patrick Sawer and Tom Phillips in Kuala Lumpur round up what we really know about the missing plane so far.
+
+07.48 Intriguingly, the Malaysian government statement also said that engineers who may have had contact with Malaysia Airlines Flight 370 before it took off on March 8 were also part of the investigation into the missing jet.
+
+Once again, the statement emphasises that this is "normal procedure" for such an event.
+
+07.40 As the plane's pilots come under renewed scrutiny, you can read our profiles of the pair, who according to their friends and families cut extremely unlikely terrorist figures:
+
+The suspicion of Captain Shah, a 53-year-old grandfather and father of three grown up children, was bolstered in profiles of him that highlighted his obsessive passion for aircraft 每 he even had his own airline flight simulator at home and flew model remote controlled planes as a hobby.
+
+His co-pilot, 27 year old bachelor Fariq Abdul Hamid was portrayed as a playboy who entertained female passengers in his cockpit, where they flirted and smoked cigarettes.
+
+But according to their devoted and distraught friends and families they cut extremely unlikely terrorist figures 每 if they had in fact pulled their Boeing 777 airliner off its course, they would have done it on the basis of extraordinary covers.
+
+Journalists wait outside the house of Fariq Abdul Hamid, co-pilot of the Malaysian airlines missing flight MH370, in Shah Alam, Selangor, Malaysia
+
+07.30 Overnight it has emerged that Malaysian police have searched the homes of the missing airliner's two pilots, and are examining the captain's home flight simulator.
+
+Zaharie Ahmad Shah, 53, was captain of the missing plane, and is said to have assembled his own complex flight simulator at home. Malaysia's transport ministry issued a statement:
+
+Police searched the home of the pilot [Zaharie Ahmad Shah] on Saturday, 15 March.
+
+Officers spoke to family members of the pilot and experts are examining the pilot's flight simulator.
+
+On 15 March, the police also searched the home of the co-pilot [Fariq Abdul Hamid].
+
+However, Malaysian authorities has been keen to emphasise that nothing specific has emerged to cast suspicion on him, and have warned against "jumping to conclusions"
+
+07.15 Good morning and welcome to our live coverage of the search for MH370, the Malaysia Airlines Boeing 777 plane which has now been missing for eight days.
+
+As reported in today's Telegraph, evidence has emerged of a possible 9/11 style plot, after an al-Qaeda supergrass told a court last week that four to five Malaysian men had been planning to take control of a plane, using a bomb hidden in a shoe to blow open the cockpit door.
+
+Security experts said the evidence from a convicted British terrorist was ※credible§. The supergrass said that he had met the Malaysian jihadists 每 one of whom was a pilot 每 in Afghanistan and given them a shoe bomb to use to take control of an aircraft.
+
+A British security source said: ※These spectaculars take a long time in the planning.§
+
+The possibility of such a plot, hatched by the mastermind of the 9/11 attacks on the Twin Towers in New York, was bolstered by an admission by Najib Razak, Malaysia＊s prime minister, that the Boeing 777＊s communications systems had been deliberately switched off ※by someone on the plane§.

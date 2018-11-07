@@ -1,0 +1,47 @@
+In 2016, new onboard intelligence capabilities in drones, commercial regulatory guidelines, and use cases are coming together to create a substantial near-term impact on operational efficiency.
+
+Drones are poised to become a viable solution for all kinds of businesses in the very near term. In June 2016, the US Federal Aviation Administration (FAA) cleared a path for commercial drone use, establishing safe-use rules that include airspace, speed, pilot certification, and other guidelines for operators. It¡¯s a watershed moment for the enterprises that would benefit most from drone-based data collection. At the same time, drone R&D has never shown more potential.
+
+From drone swarms to robot hybrids¡ªwhat new innovations could enable
+
+Today, drones power a range of new business services: early in 2016, PwC estimated the total available market for drone-enabled services to be $127.3 billion. The fastest-growing service areas are in infrastructure, transportation, insurance, and media and entertainment. (See the infographic later in this article for a summary of capabilities and business impact.)
+
+Drones are quickly gaining new physical, artificial intelligence (AI), and drone-to-drone networking capabilities. These new capabilities lead to application scenarios that might not have been considered before:
+ What happens when aerial drones, for example, can also climb or crawl, using more than one mode of locomotion?
+ What if swarms of drones that have learned to cover an area collectively could 3D map an entire building within an hour?
+ What if the back-end systems that process the data could itemize, quantify, and compile the bill of materials for a replacement network of water pipes in a building within another few minutes?
+
+Such a blending of capabilities is not far off, though a lot would depend on highly integrated back-end systems with their own intelligence, pre-designed data preparation, and pre-built reporting functions.
+
+It¡¯s one thing to be able to climb as well as fly, but it¡¯s another to scan and map and globally share the mapping of a previously unknown or constantly changing unstructured environment. The capabilities can be synergistic, however. Although battery-powered quadcopters can¡¯t stay in the air more than an hour, the climbing, hanging, dwelling, and data collecting possibilities for drones means that one drone could dwell in one area with the camera running for hours.
+
+Drone swarms could be deployed in different sections of a warehouse or building and could scan the full area simultaneously, assuming bandwidth is available. New use cases only underscore the potential of drone and robot hybrids, 3D mapping drones, and drone swarms.
+
+Where drones have the biggest impact
+
+The key market segments for near-term drone services are infrastructure and agricultural surveys¡ªin other words, the inspection and monitoring of any sizable physical assets that need to be protected, nurtured, and maintained. PwC estimates the total available global market for those two segments alone exceeds $77 billion. The remaining segments¡ªwith the exception of media and entertainment¡ªare all inspection oriented.
+
+Although there¡¯s considerable buzz about delivery drones, many industry observers regard delivery by drone as a specialized application for remote places that don¡¯t have a transportation infrastructure, for boats and ships at sea, or in disaster relief scenarios. The focus on data collection and analysis for asset management and protection will increase greatly during the near term. For applications like insurance adjustment and infrastructure inspection, drones extend and enrich the data footprint and reduce workforce requirements.
+
+Service providers or companies that have their own drone fleets must deal with ingesting, fusing, modeling, and filtering data from numerous sources. These activities encompass not only drone cameras and other sensors, but also sensors deployed on various airborne platforms, including satellites.
+
+Chief Technology Officer Yuan Gao of drone data service provider Mavrx notes how service providers can help: ¡°It¡¯s not just about surveying; it¡¯s also about how to analyze and process the data. And that¡¯s a challenge we¡¯re working through. I don¡¯t think a single farm somewhere is able to achieve that. We need to ingest a vast amount of data to build the model.¡±
+
+Drone data collection is a relatively new practice. Drone service providers and their business users must contend with many factors:
+ Data collection is generally done onboard, in batch mode with still images that are stitched together and uploaded after the mission. It¡¯s appropriate to consider the possibilities of the newest 3D mapping, but real-time streaming possibilities are iffy at best, unless an organization (such as the military) has its own wide-area secure wireless broadband, or unless LTE cellular is available and reliable in the collection area. Many remote locations do not have cellular coverage at all, and long-range reliability may be lacking in any case.
+ Onboard sensor suites are immature and expensive. For agricultural surveys, both visible and multispectral (such as infrared) imagery must be collected to capture adequate data about crop health. For 3D mapping, a single 360-degree laser ranging module called LiDAR can cost several hundred dollars or more for each drone.
+ Drones complement, rather than replace, other data collection methods. Perhaps the most mature commercial drone use is in agricultural and infrastructure surveys. Data service providers continue to rely heavily on satellite, manned aircraft, and other kinds of imagery.
+ The data service provider landscape is only now emerging. When offering drones to help simplify data collection and analysis, service providers likely will take on the burden of not only aircraft operations and management, but also data management, modeling, and analytical application development.
+
+Drones are essentially mobile sensor and data collection vehicles. How should businesses think about using the kinds of data that drones collect? Start by maximizing your visibility into the root causes of key problems you weren¡¯t able to solve as easily before. Ask yourself, for instance, how could drones help you:
+ Improve efficiencies? Oil companies can conduct safety inspections of pipelines and rigs much more quickly with the help of drones that can sniff for gas leaks or do thermal imaging.
+ Increase accuracy? Supply chain professionals can design warehouses to optimize the use of drones for scanning inventory.
+ Extend the reach of your existing workforce? Rail companies are using drones to inspect tracks and bridges, and mining companies can use them to monitor equipment and to track mining progress.
+ Accelerate decision making? Drones can get a bird¡¯s-eye-view of very large assets. In a disaster recovery scenario, for example, launching one or more drones can give decision-makers a quick sense of the scope of the damage and injury suffered.
+ Accelerate the planning process? Surveyors, for example, can cut the time required to collect mapping data from hours to minutes. With swarms of drones, the efficiencies multiply.
+ Deliver distinctive public relations or product promotion? Aerial photography becomes much more cost-effective and adaptive when drones are available. At altitude, event photos give a sense of space and scale not possible at ground level.
+ Reduce maintenance costs? To identify solar cells or solar panels that weren¡¯t working, crews using infrared cameras have needed to walk the entire array. Now drones can do that work in a fraction of the time.
+
+When you can get insights such as these at the point and time of need, then you can identify, study, and fix problems more quickly and efficiently than you previously could, whether the problem is overwatering a row crop, an impending bridge failure, or wind damage to the roof of an office building.
+
+As the FAA¡¯s rule-making announcement confirms, commercial drone use has become truly viable in 2016. Through the end of the decade, the range of potential use cases will only expand, especially as drones become more capable.

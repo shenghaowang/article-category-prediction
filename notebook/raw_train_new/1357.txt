@@ -1,0 +1,5 @@
+You can install the ShareThis share button on your HTML website in a few easy steps. Navigate to the setup page and choose your preference of Inline Buttons or Sticky Buttons.
+
+Then, select the share buttons you desire. You can customize your design by choosing the alignment, button size, call to action and share count. Once your button is design-ready, click the ¡°register & get the code¡± to get the your button code.
+
+Check out this support post for more details on How to Install Share Buttons on a HTML Website.

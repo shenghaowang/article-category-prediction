@@ -1,0 +1,31 @@
+The problems plaguing bitcoin worsened Tuesday as online attacks on the digital currency's software affected two more exchanges.
+
+[ Get your websites up to speed with HTML5 today using the techniques in InfoWorld's HTML5 Deep Dive PDF how-to report. | For a quick, smart take on the news you'll be talking about, check out InfoWorld TechBrief -- subscribe today. ]
+
+Last week, Mt. Gox, another big exchange, suspended bitcoin transfers from wallets it holds to external bitcoin addresses, as it had noted that a bug in the bitcoin software could allow fraud.
+
+The attack uses "transaction malleability to temporarily disrupt balance checking," Slovenia-based Bitstamp said on its website, adding that no funds have been lost and that it's confident that transactions will be back to normal soon.
+
+Bitcoin withdrawals that failed on Feb. 10 and 11 will be canceled and the amounts added back to customer accounts, it said.
+
+Bulgaria-based BTC-e, another large exchange for the digital currency, also wrote on Twitter that the DDoS attack could cause delays in crediting transactions on the two days.
+
+"This is a denial-of-service attack; whoever is doing this is not stealing coins, but is succeeding in preventing some transactions from confirming," Gavin Andresen, chief scientist for the Bitcoin Foundation, wrote on its blog. "It's important to note that DoS attacks do not affect people's bitcoin wallets or funds."
+
+Andresen said developers were working on a fix for the problem, which centers on so-called "transaction malleability," an underlying issue in bitcoin's software.
+
+The attacks have involved a flood of false transaction records.
+
+"Users of the reference implementation who are bitten by this bug may see their bitcoins 'tied up' in unconfirmed transactions," Andresen added. "We need to update the software to fix that bug, so when they upgrade those coins are returned to the wallet and are available to spend again."
+
+On Monday, the foundation, which provides funding support and other resources for the bitcoin technology, said transaction malleability is a longstanding technical issue and that Mt. Gox should have been prepared for it.
+
+Mt. Gox cited the problem in suspending bitcoin withdrawals to outside wallets, stating it can give people the ability to change transaction details after the fact.
+
+Bitcoin was trading around $660 on Wednesday, down sharply from around $850 last week, according to CoinDesk.
+
+Members of the bitcoin industry emphasized that they expect the problems to be resolved soon.
+
+"By this time next week I expect the TX-Malleability issue to be correctly implemented by all major exchanges," Andreas M. Antonopoulos, chief security officer of bitcoin wallet service Blockchain.info, wrote late Tuesday on Twitter.
+
+The bitcoin woes continued as financial services firm J.P. Morgan criticized the currency as being "vastly inferior to fiat currencies," according to reports.

@@ -1,0 +1,3 @@
+Gold Price in USD per Gram for Last 6 Months
+
+The chart above shows the price of Gold in USD per Gram for Last 6 Months. You can access information on the Gold price in British Pounds (GBP), Euros (EUR) and US Dollars (USD) in a wide variety of time frames from live prices to all time history. The default representation of Gold price is usually in Troy Ounces, but above we give the option to show Grams and Kilograms as well.

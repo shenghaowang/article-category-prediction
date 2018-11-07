@@ -1,0 +1,1 @@
+Glassdoor will not work properly unless browser cookie support is enabled. Learn how to enable cookies.

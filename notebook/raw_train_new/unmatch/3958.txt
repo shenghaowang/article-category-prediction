@@ -1,0 +1,3 @@
+Both the JOLTS Significant Change Tables and the JOLTS Highlights and Graphs are referred to as "JOLTS Supplemental Material". These Supplemental Materials are created monthly to provide insight and information not usually included in the JOLTS monthly press releases.
+
+Caution: Data referenced in this section may have been revised. Historical data for any JOLTS data series may be retrieved from our online LABSTAT database.

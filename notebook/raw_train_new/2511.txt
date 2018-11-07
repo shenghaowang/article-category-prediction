@@ -1,0 +1,21 @@
+Shuttered bitcoin exchange MtGox, which is currently seeking bankruptcy shelter , on Tuesday offered a modicum of relief to users by allowing them to check their balances. The rub is they can't do much more than that.
+
+Anyone unlucky enough to have a Bitcoin wallet at MtGox can now log in to see their account, if only to confirm what could be available to them should the company manage to sort its affairs out.
+
+"Please be aware that confirming the balance on this site does not constitute a filing of rehabilitation claims under the civil rehabilitation procedure and note that the balance amounts shown on this site should also not be considered an acknowledgement by MtGox Co, Ltd of the amount of any rehabilitation claims of users," MtGox says on its website.
+
+"Rehabilitation claims under a civil rehabilitation procedure become confirmed from a filing which is followed by an investigation procedure. The method for filing claims will be published on this site as soon as we will be in situation to announce it."
+
+The reference to rehabilitation claims comes from a Japanese court order it gained on February 28, which prevented it from paying out creditors.
+
+The bankruptcy claim there and in the US came just weeks after the emergence of denial of service attacks on bitcoin wallets that exploited a "transaction malleability issue" to tamper with confirmation details that are used in an exchange between bitcoin wallets.
+
+In early February both MtGox and its main rival, Bitstamp, temporarily suspended withdrawals due to attacks linked to the bug. The Bitcoin Foundation said that the problem affecting wallets could result in bitcoins being tied up in unconfirmed transactions, but not in stolen bitcoin.
+
+Tuesday was the first time MtGox users have had any form of access to their wallets since its closure on 25 February , a day after it resigned from its position on the Bitcoin Foundation board.
+
+MtGox users had already been prevented from initiating withdrawals for several weeks before the company revealed in its bankruptcy filing that some 850,000 bitcoins under its management had vanished due to a software bug "in the bitcoin system".
+
+The Bitcoin Foundation has insisted the issues Mt Gox was experiencing were due to its implementation of the bitcoin wallet, as opposed a bug in bitcoin itself.
+ None Dorian Nakamoto says he's not the creator of Bitcoin
+ None Bitcoin bubble could burst as investors rush to withdraw cash

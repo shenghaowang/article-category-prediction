@@ -1,0 +1,21 @@
+What did GM do about the ignition switch?
+
+It looks like GM engineers knew about the faulty switch at least as far back as 2004, but failed to address it until 2006 ¡ª possibly because it would have been too expensive to fix. And the defective vehicles themselves didn't get recalled until 2014.
+
+That was the version of events laid out in an investigation by the House Energy and Commerce Committee. Here's a breakdown:
+
+Noticing the problem (2001¨C2004): GM engineers noticed a defect in the ignition switch for Saturn Ions in 2001 and for Chevrolet Cobalts in 2004 ¡ª the ignition could inadvertently switch off while driving if, say, hit by a driver's knee. (There's some evidence that GM had considered a more resilient ignition switch in 2001 but rejected it for cost reasons.)
+
+Failing to fix it (2005): GM investigated the issue several times. One inquiry was closed off in March 2005 because, according to a project engineering manager, the ignition switch was too costly to fix. (Emails unearthed by Reuters suggested the fix would have cost GM 90 cents per car.) Another design change was approved in May 2005 but never implemented for unclear reasons.
+
+Possible fix (2006): Finally, in April 2006, a GM engineer approved a new ignition-switch design to increase torque performance. Delphi, a parts maker, later told Congress that the new switch for 2008 models was harder to move out of position but "still below GM's original specifications."
+
+So it's not clear that this redesign actually fixed the problem. What's more, the new design was never given a new parts number ¡ª which means that the earlier, faulty switch might have been inadvertently been installed in later models when those cars went in for repairs.
+
+Signs of crashes (2007¨C2013): In March 2007, safety regulators informed GM of the death of Amber Rose, who crashed her Chevrolet Cobalt in 2005 after the ignition switch shut down the car's electrical system and the airbags failed to deploy. The company didn't appear to launch a formal investigation at that time.
+
+In 2011, a Georgia lawyer named Lance Cooper began investigating the 2010 death of Brooke Melton, whose Chevrolet Cobalt lost power while driving and veered into oncoming traffic. Over the next two years, Cooper's law firm begins unearthing evidence related to the defective ignition switch.
+
+Finally taking action (2012¨C2014): By 2012, GM had identified eight crashes and four deaths involving 2004 Saturn Ions that were attributable to the ignition-switch defect. By the end of 2013, they had determined that the faulty ignition switch was to blame for at least 31 crashes and 13 deaths in a variety of car models. A formal recall began in January 2014.
+
+Investigation (2014): In June 2014, GM released an internal review of the events leading up to the recall. The probe, led by Anton Valukas, confirmed that GM employees had neglected to take action for many years ¡ª although he concluded that it wasn't due to a cover-up but rather a "failure to understand, quite simply, how the car was built."

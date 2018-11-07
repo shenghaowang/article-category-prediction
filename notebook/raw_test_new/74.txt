@@ -1,0 +1,15 @@
+Over the weekend, hackers stole the database of the failed Bitcoin exchange MtGox, hijacked the blog and Reddit account of MtGox CEO Mark Karpeles ¡ª and published the former via the latter. The data appears to show that MtGox did not have all its bitcoins cleaned out by hackers, as it claimed when it went bankrupt.
+
+¡°Included in this download you will find relevant database dumps, csv exports, specialized tools, and some highlighted summaries compiled from data,¡± the hackers wrote in the document they published. No user data was included, but some of those ¡°specialized tools¡± linked to in the document turned out to be Bitcoin wallet-stealing malware (taken down by the host, once Redditors notified it.)
+
+If you can¡¯t trust an angry cryptocurrency-fanatic hacker to dump a risk-free executable file into the wild, who can you trust?
+
+Sarcasm aside, the leaked information appears to bolster the case of those who suspect Karpeles of defrauding his customers. The way Karpeles and his lawyers told it, hackers had stolen 750,000 bitcoins belonging to MtGox¡¯s customers and 100,000 belonging to the exchange itself, supposedly leaving nothing.
+
+According to the data leaked on the weekend, MtGox actually still has 951,116 bitcoins. This detail is accompanied in the document by a strongly-worded suggestion that Karpeles has been less than honest. One bitcoin is currently worth around $620, so that would be roughly $590 million worth.
+
+That said, by MtGox¡¯s version of events, the exchange only recently noticed that the 850,000 bitcoins had been stolen a long time ¨C perhaps even years ¨C ago. There¡¯s no evidence that the outfit ever conducted a proper audit of what it did and didn¡¯t actually hold, so the possibility remains that the information leaked over the weekend is just plain wrong.
+
+Either way, that¡¯s not even the end of the risky business floating around the MtGox collapse. The exchange also put out a notice on Saturday, warning that its former users were being targeted by spam/phishing emails, dressed up to look like MtGox emails and asking for MtGox and bank account details.
+
+¡°We highly recommend not to respond to these emails,¡± MtGox said in the notice. That much, certainly, is true.

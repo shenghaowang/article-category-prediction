@@ -1,0 +1,59 @@
+Janet Yellen will be appointed Fed chair tomorrow. Neil and Ylan already wrote the definitive profile of her, but here are the main things you ought to know going into her confirmation hearings.
+
+1. She is perhaps the most qualified Fed chair in history.
+
+Just look at the competition. When he was appointed chairman, Ben Bernanke's only prior government service was three years on the Fed board and six months as chair of the Council of Economic Advisers (CEA). Alan Greenspan had three years as CEA chair.
+
+Yellen, by contrast, has served for three years as vice chair, headed up the San Francisco Fed for six years, ran the CEA for two years, and before that did a three year stint on the Fed Board of Governors. She also did a stint as an economist at the board in the late 1970s, for good measure.
+
+Only Paul Volcker ¡ª who had a multi-decade career at the New York Fed and the Treasury ¡ª even comes close to that, and he had nowhere near as much exposure to the highest echelons of the Fed system as Yellen has. If experience is your main criterion, Yellen is hard to beat.
+
+2. She's been a powerful voice for the unemployment hawks on the Fed.
+
+In various speeches ¡ª perhaps most notably at the AFL-CIO ¡ª and in Fed deliberations, Yellen has been clear that she thinks subpar growth and too high unemployment are the biggest problems facing the Federal Reserve. "Maximum employment," she has emphasized, is the main goal of the Fed at this point in time. In her words, "With employment so far from its maximum level and with inflation currently running, and expected to continue to run, at or below the [Federal Open Markets] Committee's 2 percent longer-term objective, it is entirely appropriate for progress in attaining maximum employment to take center stage in determining the Committee's policy stance."
+
+3. But she's more than willing to crack down on inflation when the situation requires it.
+
+As Evan Soltas and Matt O'Brien have noted, Yellen is plenty hawkish when the situation requires it. In the mid-1990s, when she served on the Fed Board of Governors, she made it clear that she thought unemployment was dangerously low, low enough that employers have to hike wages, which in turn leads to higher prices, i.e. inflation. "We have an economy operating at a level where we need to be nervous about rising inflation," she said at one meeting. "We can't dismiss the possibility that compensation growth will drift upward, raising core inflation and in turn inflationary expectations. This is a major risk. Obviously, we need to be vigilant in scrutinizing the data for signs of rising wages and salaries."
+
+So inflation hawks, take heart -- if and when it's actually worth worrying about inflation, Yellen will be ready to handle it.
+
+4. She's pretty darn good at predicting where the economy's headed.
+
+Yellen's predictive record is the envy of the Fed. As Ezra noted, she was one of the few voices at the Fed in December 2007 warning that recession could be around the corner. At a time when most thought the worst of the subprime crisis was over, she was skeptical. "The possibilities of a credit crunch developing and of the economy slipping into a recession seem all too real,¡± she warned.
+
+It was far from the only time she got it right when her colleagues didn't. Indeed, an analysis by the Wall Street Journal revealed that Yellen had the best predictions of any Fed policymaker in recent years (see above table).
+
+5. She likes rules-based policy -- and at least used to show support for targeting nominal GDP.
+
+In the mid-2000s, before the crisis, Yellen was a vocal member of a faction of the Fed ¡ª which also included Bernanke ¡ª that supported setting an explicit target for inflation. By contrast, Greenspan, former Fed vice chair Roger Ferguson, and former vice chair Donald Kohn all disapproved of that approach, thinking that it unnecessarily constrained the Fed and reduced flexibility.
+
+More intriguingly, there are signs that Yellen is open to what some think is the Holy Grail of monetary policy: targeting not inflation, but nominal GDP (NGDP). Endorsed by Michael Woodford, probably the best monetary economist currently living, as well as Christina Romer and Scott Sumner, NGDP targeting, if it works, has the potential to make severe economic slumps a thing of the past. What's more, it's backed by a politically diverse coalition including lefties like Romer, conservatives like James Pethokoukis and Ramesh Ponnuru, and practitioners like the econ team at Goldman Sachs.
+
+Yellen hasn't come right out and said she supports it, but she's certainly sympathetic. In a Fed meeting in 1995, she endorsed a policy rule that would focus on closing "the gap between actual and target inflation and also the gap between actual and potential output." Her fellow Committee members interpreted this as an endorsement of NGDP targeting ¡ª with some, like future Bush administration adviser Larry Lindsey ¡ª interpreting it as such and seconding the suggestion ¡ª and Yellen seemed to confirm this the next day, referring to NGDP by name as a "sensible rule." It is of course possible that Yellen has changed her mind since, but the Goldman econ team has made a compelling argument that she's implicitly endorsed it in recent speeches. It's also hardly a coincidence that notable NGDP targeting supporters like Romer and Woodford have endorsed Yellen for Fed chair.
+
+6. She doesn't want to use monetary policy to pop bubbles.
+
+Some at the Fed have argued that it needs to consider hiking rates to prevent bubbles from forming in sectors like housing. Jeremy Stein, a current governor appointed by Obama, has been particularly forceful in making this case. The problem is that this would basically entail starting recessions for the sake of preventing later, worse ones. That requires the Fed be able to correctly diagnose bubbles as they're happening and to not falsely diagnose them where they don't exist, lest a recession be started for no good reason.
+
+As you might be able to tell, I think this view is bonkers. Yellen has been skeptical, too. She thinks the appropriate way to regulate the financial sector is to set tough capital requirements on banks, and otherwise regulate the sector in ways that deter dangerous risk-taking and prevent financial crises. She has also called for increased regulation of "shadow banks" that exist outside of current regulatory structures but are also prone to taking on dangerous amounts of debt. Monetary policy, meanwhile, should be reserved for its traditional purpose of preventing and mitigating recessions rather than starting them.
+
+7. She's served with much of the Obama administration before.
+
+While Larry Summers is much chummier with the Obama administration, and actually served in the White House under the current president, it's worth noting that Yellen doesn't lack for experience with the folks who'll be appointing her. During her two years as CEA chair, she overlapped with Gene Sperling (who, then as now, was NEC director), OMB director Sylvia Mathews Burwell (who was deputy chief of staff for policy and then deputy OMB director), and Treasury Secretary Jack Lew (who was deputy director and then director of the OMB). She was also on a similar wavelength as other Clinton economic aides, supporting the administration's repeal of the Glass-Steagall act (which isn't a huge deal, for reasons explained here) as well as NAFTA.
+
+ So it's not as if she's an unknown quantity in the administration, despite her lack of visits.
+
+8. Her husband will be one of the more interesting First Ladies/Gentlemen the Fed has ever seen.
+
+George Akerlof, Yellen's husband, is a really accomplished economist in his own right. He shared the 2001 Nobel prize for his work on asymmetric information, and has written really interesting stuff on the financial crisis and banking regulation (particularly regulation in cases where the incentives of managers are misaligned with those of the firm - as was arguably the case at banks during the subprime debacle). You can read more about his academic work here, but for now let me give you two fantastic personal anecdotes about the guy:
+ Akerlof and Yellen are close friends of Joseph Stiglitz, who shared the 2001 Nobel with the former. At one point, Akerlof had to mail Stiglitz back some of his clothes. Hilarity ensued:
+
+Some years ago, the economist George Akerlof found himself faced with a simple task: mailing a box of clothes from India, where he was living, to the United States. The clothes belonged to his friend and colleague Joseph Stiglitz, who had left them behind when visiting, so Akerlof was eager to send the box off. But there was a problem. The combination of Indian bureaucracy and what Akerlof called ¡°my own ineptitude in such matters¡± meant that doing so was going to be a hassle ¡ª indeed, he estimated that it would take an entire workday. So he put off dealing with it, week after week. This went on for more than eight months, and it was only shortly before Akerlof himself returned home that he managed to solve his problem: another friend happened to be sending some things back to the U.S., and Akerlof was able to add Stiglitz¡¯s clothes to the shipment. Given the vagaries of intercontinental mail, it¡¯s possible that Akerlof made it back to the States before Stiglitz¡¯s shirts did.
+
+There¡¯s something comforting about this story: even Nobel-winning economists procrastinate! Many of us go through life with an array of undone tasks, large and small, nibbling at our conscience. But Akerlof saw the experience, for all its familiarity, as mysterious. He genuinely intended to send the box to his friend, yet, as he wrote, in a paper called ¡°Procrastination and Obedience¡± (1991), ¡°each morning for over eight months I woke up and decided that the next morning would be the day to send the Stiglitz box.¡± He was always about to send the box, but the moment to act never arrived. Akerlof, who became one of the central figures in behavioral economics, came to the realization that procrastination might be more than just a bad habit. He argued that it revealed something important about the limits of rational thinking and that it could teach useful lessons about phenomena as diverse as substance abuse and savings habits. Since his essay was published, the study of procrastination has become a significant field in academia, with philosophers, psychologists, and economists all weighing in.
+ Once, the New Republic's Noam Scheiber called up Yellen for a story, and Akerlof answered. He quipped, "Well, I'm a pretty good economist too." I defy you to find a more adorable thing the spouse of a Fed chair has ever said.
+
+9. She owns, like, a lot of stamps. Or at least really valuable ones.
+
+While Akerlof's books only earned him and Yellen between $5,000 and $15,000 (which is a shame, because Animal Spirits is great and you should all read it), the couple also has a stamp collection, which Yellen apparently inherited from her mother, that's worth between $15,000 and $50,000. I'm not sure there are any policy implications here, I just think it's cool.

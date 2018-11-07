@@ -1,0 +1,33 @@
+The debacle surrounding Mt. Gox continues to rumble on as CEO Mark Karpeles remains silent following his application for bankruptcy at the end of last month.
+
+Over the weekend hackers released information they claim shows Karpeles continues to lie about the amount of bitcoin stolen from the exchange, however the continuing uncertainty over what exactly happened at Mt. Gox doesn't seem to have impacted the value of cryptocurrencies in general.
+
+According to stats from CoinMarketCap.com, bitcoin's value rose 3% in the last 24 hours to $640, continuing to show resilience in the face of the Mt. Gox uncertainty. While the cryptocurrency is still some way off its high of $1,200, it is proving some naysayers wrong by remaining relatively stable in the face of widespread upheaval.
+
+Bitcoin's relative stability has buoyed the rest of the cryptocurrency market, with 11 of the top 15 mineable cryptocurrencies showing a rise in value in the last day.
+
+The big winner however was the eco-focused mintcoin which rose some 30% in value in the last 24 hours.
+
+Over the weekend hackers posted account transaction information from beleaguered Japanese bitcoin exchange Mt. Gox, claiming CEO Mark Karpeles was lying about the amount of bitcoins the company had before it filed for bankruptcy.
+
+The stolen information claims to show a ledger balance of 951,116 bitcoins, which is over 100,000 more than Karpeles claimed was stolen from his exchange when he filed for bankruptcy protection in Japan on 28 February.
+
+The hackers attacked the personal blog of Karpeles, called "Magical Tux in Japan - Geekness brought me to Japan!" and posted the stolen information there.
+
+Karpeles is remaining silent about the accusations for now.
+
+The reputation of bitcoin was for years hampered by its connection to illicit marketplaces on the dark web - such as Silk Road - where you could anonymously buy everything from drugs to machine guns.
+
+Now one businessman is looking to get remove that stigma by allowing people to purchase guns using bitcoin directly in its store. The firearm shop and training centre Central Texas Gunworks , based in Austin, has installed a bitcoin ATM to allow those wishing to purchase a gun using the cryptocurrency to do so.
+
+However, unlike on the dark web, you won't be able to buy any firearms anonymously as the same paperwork and background checks required of anyone will still apply. Even online buyers can only have firearms shipped to a nearby gun store where the same legal process applies.
+
+According to a comment from the CEO of Bitcoin payment processor startup BitPay, the meme-based cryptocurrency dogecoin could be the next virtual currency accepted on the platform ¨C even before the world's second biggest cryptocurrency litecoin.
+
+Reddit user and dogecoin enthusiast jimmy0x52 claims to have spoken to CEO of BitPay Tony Gallippi at music, film, and interactive conference SXSW which is taking place in Texas this week. Gallippi is reported to have said:
+
+"Think about the consumer - if they have LTC [litecoin] they have BTC [bitcoin]. Doge is really popular and a whole new marketplace currency"
+
+This is contrary to a tweet from BitPay in February, when it said: "Competition among cryptocurrency is important, but we do not currently have plans to accept Dogecoin. Much currency, such persistence. Wow."
+
+BitPay has yet to officially confirm its plans for accepting other cryptocurrencies, but with more than 10,000 bitcoin-accepting merchants on its books, the addition of dogecoin to a platform like BitPay could be huge for the young cryptocurrency.

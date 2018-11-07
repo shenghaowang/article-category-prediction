@@ -1,0 +1,76 @@
+
+ 638,000 people are in the coverage gap in Texas
+ Non-disabled, non-pregnant adults only eligible if they have a minor child and earn less than 15% of the poverty level
+ Texas Medicaid enrollment has only grown by 3% since 2013
+ The state is missing out on billions in federal funding by not expanding Medicaid
+
+
+
+ Texas has not expanded Medicaid under the Affordable Care Act (ACA). And Alabama is the only state in the country with more stringent Medicaid eligibility guidelines for non-disabled adults. As a result, Texas has the biggest coverage gap in the country, with at least 638,000 residents ineligible for Medicaid and also ineligible for premium subsidies to offset the cost of private coverage in the exchange (some estimates put this number as high as 1 million people). Roughly 15 percent of the uninsured population in Texas are in the coverage gap, and would have access to coverage if Texas were to expand Medicaid.
+
+There are nearly 2.5 million people in the coverage gap across 18 of the 19 states that have not yet expanded their Medicaid programs, and more than a quarter of them are in Texas [Wisconsin has not expanded Medicaid but does not have a coverage gap. Note that Virginia will expand Medicaid in January 2019, and Maine is expected to expand coverage once a new governor takes office. At that point, there will be 17 non-expansion states remaining, although three of them have Medicaid expansion on the ballot in November 2017.]
+
+As the ACA was written, it called for Medicaid expansion in every state for legally-present residents with incomes up to 133 percent of poverty (138 percent, with the built-in 5 percent income disregard), which is about $16,753 for a single person in 2018. But in 2012, the Supreme Court ruled that states could not be penalized for opting out of expansion, and Texas has chosen to keep their pre-2014 Medicaid eligibility rules.
+
+ 
+
+ That means non-disabled adults without minor children are ineligible for Medicaid regardless of how low their income is. And parents with minor children are only eligible if the children are enrolled in Medicaid and if the household income doesn¡¯t exceed approximately 15 percent of the poverty level (Texas uses a flat dollar amount for eligibility, but CMS converts that to a percentage) For a single parent with two kids, the parent is only eligible for Medicaid if the kids are on Medicaid and total household income doesn¡¯t exceed $230/month.
+
+Because Texas has refused to accept federal funding to expand Medicaid, health outcomes in the state are lagging behind those of nearby Kentucky and Arkansas, both of which have expanded Medicaid.
+
+Texas has not, however, applied for a federal waiver to implement a work requirement for the existing Medicaid population, as have some of the other states that haven¡¯t expanded Medicaid. But in general, those states have done so at the direction of the legislature, and Texas only has legislative sessions in odd-numbered years. So it¡¯s possible that lawmakers in Texas might consider a work requirement proposal in the 2019 session, although most of the state¡¯s Medicaid enrollees would be exempt as a result of being children, elderly, or disabled.
+
+Uncompensated care: $25 billion in federal funding over the next four years
+
+Political leaders in Texas have remained mostly uninterested in expanding Medicaid. Instead of pushing for legislation to expand Medicaid, Texas officials have been negotiating with CMS in an effort to secure ongoing funding to cover uncompensated care in the state. They were successful in getting the Trump Administration to agree to a five-year extension of the state¡¯s waiver for uncompensated care, and Texas will get $25 billion in federal funding over the next four years as a result.
+
+The Obama Administration had previously noted that uncompensated care funding would be largely unnecessary if states expanded Medicaid, but the Trump Administration is more willing to work with states that have refused federal funding for Medicaid expansion. But even the Trump Administration has noted that the federal funding will end after 2021.
+
+Who is currently eligible?
+
+In addition to those with low incomes who are aged, blind, or disabled (receiving SSI benefits), the following populations are eligible:
+ Adults without dependent children are not eligible at all (this is generally the case in states that have not expanded Medicaid) unless they¡¯re disabled.
+ Adults with dependent children are only eligible if their children are enrolled in Medicaid and if the household income doesn¡¯t exceed approximately 15 percent of poverty level. This amounts to $2,760 a year for a single parent with two minor children. Only Alabama has a more stringent Medicaid eligibility limit for parents of minor children.
+ Children are eligible for either Medicaid or CHIP if their household incomes are up to 201 percent of poverty (this is among the lowest limits in the country, although there are a handful of states with lower eligibility thresholds for children¡¯s Medicaid and CHIP).
+ Pregnant women are eligible for Medicaid if their household income does not exceed 198 percent of poverty.
+
+The state also offers Texas Health Insurance Premium Payment (HIPP) which is a program that lets people with at least one Medicaid-eligible family member opt for employer-sponsored health insurance if it¡¯s available, and receive assistance with the premiums through the Medicaid program (premium assistance programs are available in most states).
+ You can enroll through HealthCare.gov, either online or by phone at 1-800-318-2596.
+ You can enroll through the Medicaid website maintained by the Texas Health and Human Services Commission.
+ You can also download and print a paper application, or request that one be mailed to you, by using this page on the Texas Medicaid website.
+
+Despite the fact that Texas opted against using federal funds to expand Medicaid (the federal government would have fully funded the cost of covering newly-eligible enrollees through 2016), the state still enrolled 141,494 people in Medicaid and CHIP through Healthcare.gov from October 2013 through April 2014. These people were eligible under the state¡¯s existing guidelines, but hadn¡¯t enrolled prior to October 2013.
+
+From late 2013 to July 2018, total Medicaid/CHIP enrollment in Texas grew by only 3 percent, adding a net 123,118 people to the program (as of September 2016, net enrollment growth had been at 7 percent, but enrollment has dropped since then). Texas has more than 4.3 million people enrolled in Medicaid/CHIP ¨C second only to California and New York, where 12 million and 6.5 million people are enrolled, respectively (California and New York both expanded Medicaid under the ACA).
+
+If Texas were to expand Medicaid, it¡¯s estimated that 1,186,000 people would be newly eligible for coverage. Of those people, 638,000 are currently in the coverage gap and have no realistic access to health insurance at all. They don¡¯t qualify for Medicaid, but their incomes are under the poverty level which means they are not eligible for subsidies in the exchange.
+
+Prior to 2014, Texas had the highest uninsured rate in the country, and that is still the case. According to U.S. Census data, 22.1 percent of Texas residents were uninsured in 2013. And while the state¡¯s uninsured rate had fallen to 16.6 by 2016, that was still by far the highest in the nation (the second-highest was Alaska, at 14 percent of the population, although Alaska expanded Medicaid in the fall of 2015, eliminating the coverage gap in that state).
+
+
+
+Missing out on billions in federal funding
+
+By refusing Medicaid expansion under the ACA, Texas has already missed out on billions in federal funding that would otherwise have flowed to the state to provide medical care for their low-income residents. And in addition, the state¡¯s emergency rooms are providing $5.5 billion in uncompensated care each year, treating patients who don¡¯t have health insurance. If Medicaid had been expanded, uncompensated care would have dropped considerably, so hospitals and business groups across the state have been pressuring lawmakers to relent on their opposition to Medicaid expansion.
+
+Because Texas has refused to expand Medicaid, the federal government has warned the state that continued access to federal funding to help cover uncompensated care is in jeopardy (since Medicaid expansion would solve much of the uncompensated care problem). But Governor Greg Abbott has continued to reject Medicaid expansion, and described the federal government¡¯s tactics as ¡°coercive¡± (as described above, Texas has secured an extension of federal funding for uncompensated care through 2021, but the federal government has indicated the funding will end at that point.
+
+Since residents in states not expanding Medicaid still have to pay federal taxes, there has been a significant outflow from Texas residents to fund Medicaid expansion in other states. Over a decade (starting in 2014, and assuming Medicaid expansion continues for ten years), Texas residents will pay $36.2 billion in federal taxes that will be used to pay for Medicaid expansion in other states.
+
+This is by far the highest of any state ¨C the next highest is Florida, where residents will pay just over $20 billion to pay for other states¡¯ Medicaid expansion by 2022 (this data was compiled in 2014, when it was estimated that Texas would miss out on $65.6 billion in federal funding over a decade of refusing to expand Medicaid; updated information indicates that Texas is actually leaving $100 billion on the table over a decade by rejecting Medicaid expansion).
+
+During the 2013 legislative session, Republican John Zerwas sponsored HB3791, which would have directed the state to craft a ¡°Texas solution¡± to Medicaid expansion. But it did not pass. The bill called for reforming the state¡¯s Medicaid system while also accepting federal funding to expand the program. It also included ¡°personal responsibility¡± measures like copays and deductibles, and would have included premium assistance programs to help people purchase private insurance as a preferable alternative to traditional Medicaid.
+
+But also in 2013, Republican lawmakers in Texas passed a measure that requires the state Health and Human Services Commission to receive approval from the legislature before any future Medicaid expansion decisions could be made. So ultimately, even if a governor were to support Medicaid expansion, the decision rests with the Texas Legislature. This makes expansion very unlikely in the near future, given lawmakers¡¯ general rejection of the idea.
+
+As long as Medicaid eligibility continues to be unchanged from 2013 guidelines, the cost of uncompensated care in Texas hospitals is roughly $5.5 billion a year, and it¡¯s largely paid by tax dollars and higher health insurance premiums for people who do have coverage.
+
+Former Governor Rick Perry repeatedly rejected Medicaid expansion. During the 2014 Governor¡¯s race, Republican Greg Abbott (who won by a significant margin) agreed with Perry and expressed his opposition to accepting federal funding to expand Medicaid (both men claimed that the eventual 10 percent of the cost that the state would pay by 2020 would be too much for the budget). Democratic candidate Wendy Davis was in favor of Medicaid expansion in Texas, but she lost the election.
+
+In late 2014, Abbott expressed interest in Utah¡¯s Medicaid expansion waiver (two years later, Utah¡¯s legislature still has not come to an agreement on Medicaid expansion, and the state is now seeking federal approval to expand Medicaid only to the poverty level, instead of to 138 percent of the poverty level). And while that instilled hope that Abbott might soften on his stance towards Medicaid expansion, he remains opposed to it.
+
+But in November 2014, a 15-member board of medical professionals appointed by Governor Perry recommended that the state move forward with Medicaid expansion. The Texas Institute of Health Care Quality and Efficiency board has recommended Medicaid expansion as a solution to what they called an ¡°unacceptable¡± number of people without health insurance in Texas.
+
+Numerous bills were introduced in 2015 in an effort to expand coverage, but none were successful. No Medicaid expansion bills were considered in the 2017 legislative session, and state lawmakers only meet in odd-numbered years in Texas.
+
+Louise Norris is an individual health insurance broker who has been writing about health insurance and health reform since 2006. She has written dozens of opinions and educational pieces about the Affordable Care Act for healthinsurance.org. Her state health exchange updates are regularly cited by media who cover health reform and by other health insurance experts.

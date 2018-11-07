@@ -1,0 +1,65 @@
+bitcoin received lot recent press attention speculative investment alternative payment option fiat currency anonymous nature bitcoin payments also caught attention tax authorities regulators australia overseas
+one issue received little attention gst treatment bitcoin transactions occur within australia discussed bitcoins may qualify money gst purposes result bitcoin payments trades conducted within australia could attract gst generally case transactions involving fiat currency
+issues particularly relevant gst registered entities may accept bitcoin payments receiving payments entity likely either
+use bitcoins make payments goods services
+exchange bitcoins another currency
+transactions occur within australia gst liability could potentially arise
+worst case scenario gst registered entity makes taxable supply consideration bitcoin payment could liable gst twice bitcoins received consideration taxable supply secondly bitcoins exchanged australian currency illustrated example section 8
+bitcoin form virtual digital currency currency transferred online including purposes payment trade via peertopeer payment system users store bitcoins digital wallet
+unlike fiat currency bitcoins issued country one key attractions investors fact value bitcoins cannot controlled traditional monetary policy
+value bitcoins grown spectacularly june 2010 bitcoin worth approximately 8 us cents value reached parity us dollar period february april 2011 29 november 2013 bitcoins reached record price
+explained bitcoin virtual currency intended alternative fiat currency however bitcoins may qualify money term defined new tax system goods services tax act 199 gst act
+term money defined section 1951 gst act follows
+currency whether australia country
+promissory notes bills exchange
+negotiable instrument used circulated intended use circulation currency whether australia country
+whatever supplied payment way
+crediting debiting account
+risk bitcoins meet definition particular bitcoins may qualify currency negotiable instrument type described paragraphs c basis bitcoins issued australian government government country
+bitcoins promissory note bill exchange ie cheque purposes paragraph b bitcoins postal note money order purposes paragraph
+relation paragraph e definition payment bitcoin involve credit debit card involve creation transfer debt
+could perhaps argued bitcoin payment involve crediting debiting account purposes paragraph however contrary argument payments instead involve transfer bitcoins one digital wallet another rather crediting debiting accounts
+matter
+gst applies rate 10 taxable supplies purposes term supply defined section gst act mean
+ensure gst apply payments money section 9104 gst act provides
+words monetary payments treated supply gst purposes except context foreign exchange transactions consequently payments money supply gst applicable payments
+however bitcoin money defined carve definition supply section 9104 may apply bitcoin transactions means unlike fiat currency transactions bitcoin transaction could potentially taxable supply attracts gst
+could gst apply bitcoin payment trade
+generally speaking gst applies taxable supplies entity supplies bitcoin either payment trade could potentially make taxable supply following requirements satisfied
+supply made consideration
+supply made course furtherance enterprise entity carries
+supply connected australia
+entity registered gst required registered
+note purposes consideration nonmonetary therefore entity may receive consideration bitcoin payment made exchange goods services things
+one requirements entity must make supply course carrying enterprise gst liability may arise individuals use bitcoins payment method private domestic capacity
+however individual carries enterprise involves trading bitcoins depending whether individual exceeds gst registration threshold individual may need register gst could potentially liable gst bitcoin trades
+example gst applying bitcoin payment
+white co gst registered company based australia decided purchase apartment rebecca 55000 apartment converted office acquired part white cos business enterprise rebecca gst registered apartment selling used principal place residence
+rebecca agreed accept either 55000 australian currency equivalent value bitcoins exchange apartment supply apartment made rebecca private capacity gst liability arise sale regardless whether paid australian currency bitcoins
+white co paid apartment using australian currency money defined gst act payment would treated supply therefore white co would liable gst respect payment
+however white co instead paid apartment using bitcoins may qualify money defined white co may treated making taxable supply bitcoins triggers gst liability consideration supply bitcoins 55000 apartment transferred rebecca triggering gst liability 5000 white co
+example white cos gst liability would offset input tax credit gst credit white co would need funds available pay 5000 liability australian dollars
+gst registered entity accepts bitcoins payment taxable supply may give rise practical issues arise australian currency accepted payment specifically
+entity need determine market value bitcoins received calculate amount gst payable taxable supply
+tax invoice issued entity need show amount gst payable taxable supply australian dollars tax invoice notwithstanding total invoice amount may paid bitcoins
+entity need australian dollars available pay gst taxable supplies accept bitcoins payment
+issues generally manageable additional practical considerations entities intended accept bitcoin payments issues arise payments received australian dollars
+could gst apply bitcoin exchanged australian currency australia
+foreign exchange transactions occur within australia treated financial supply financial supplies input taxed subject gst
+purposes item 9 regulation new tax system goods services tax regulations 199 gst regulations provides supply input taxed financial supply involves interest
+unlikely regulation could apply exchange transaction involving bitcoins bitcoin neither australian currency currency foreign country rather virtual currency associated country therefore transactions could involve taxable supplies requirements outlined section 4 satisfied
+note discussed section 9 gst may apply bitcoins supplied counter party australia
+example gst applying twice bitcoins accepted payment
+white co sold equipment worth 1100 including gst 100 australian customer white co agreed accept equivalent amount bitcoins instead australian currency payment equipment
+white co gst liability 100 sale equipment notwithstanding received bitcoins instead australian currency
+following sale white co decides convert 1100 worth bitcoins received australian currency white co sells bitcoins purchaser within australia 1100 sale bitcoins may treated taxable supply triggering second 100 gst liability white co
+white co accepted australian currency first instance would need convert bitcoins second potential gst liability would
+would gst apply bitcoin supplied someone outside australia
+bitcoin supplied either payment trade entity outside australia supply may gstfree subject gst export exemption provisions section gst act
+section 95 gst act provides supply gstfree taxable gstfree treatment prevail
+recent press reports regarding proposals companies introduce bitcoin atms australia
+generally speaking atm services treated financial supply input taxed regulation gst regulations however unclear whether provisions may apply atm services provided respect accounts maintained relation money defined gst act
+provisions apply services provided via bitcoin atms located australia could taxable supplies subject gst
+reasons outlined gst treatment bitcoin transactions occur within australia considered carefully particularly case gst registered businesses may considering accepting bitcoins payment goods services entities engage significant bitcoin trading activities
+publication intended general overview discussion subjects dealt intended used substitute taking legal advice specific situation dla piper australia accept responsibility actions taken taken basis publication
+dla piper australia part dla piper global law firm operating various separate distinct legal entities information please refer

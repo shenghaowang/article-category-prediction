@@ -1,0 +1,33 @@
+Goldman Sachs Group Inc. (GS) is acting like the student who got a C but claims it was an A.
+
+The U.S. Federal Reserve on Thursday released its annual "stress tests" of the largest banks, an examination of how well they could withstand a severe recession in which unemployment surges, loans default en masse, investors scamper out of corporate bonds into short-term Treasuries and stock prices tumble 36%. It's considered a remote scenario, but that's how the Fed measures the biggest banks on the annual report card.
+
+And according to the Fed, New York-based Goldman's "common equity tier 1 ratio" - the most basic gauge of a bank's financial strength - would fall as low as 5.6% under the scenario, compared with 12.1% at the end of last year. While 4.5% is considered passing, Goldman's grade was well below that of peers: JPMorgan Chase & Co. (JPM) and Citigroup Inc. (C) each scored a 7.2%, while Bank of America Corp. (BAC) got a 7.9% and Morgan Stanley (MS) came through with a 7.3%. Even scandal-plagued Wells Fargo & Co. (WFC) would make it past the severe recession with an 8.6% ratio intact, according to the Fed.
+
+But Goldman's not ready to accept the humbling rank, especially as it tries to regain investor confidence following a worst-in-class bond- and stock-trading performance last year that has weighed on the firm's share price and forced CEO Lloyd Blankfein to seek out new areas for revenue growth.
+
+In a presentation on its website after the stress-test results were released, Goldman said its internal calculations resulted in a minimum capital level of 7.6% during the recession -- a full two percentage points higher.
+
+It matters because the Fed uses the stress-test scores to help decide how much money banks can pay out to shareholders in the form of dividends and stock buybacks. Firms that can barely withstand a severe recession, the reasoning goes, probably shouldn't be depleting their capital levels now. During the 2008 financial crisis, of course, all the biggest U.S. banks got bailouts from the U.S. Treasury Department and took secret emergency loans from the Fed.
+
+"Goldman can disagree with the Fed's methodology," said analyst David Hendler of Montebello Advisors, but for now "they look the weakest."
+
+In a regulatory filing late Thursday, Goldman noted that its own stress-test results "diverge" from the Fed's and vowed that discussions would ensue.
+
+"We are examining that divergence and will provide more specificity around our planned capital return after the release of next week's CCAR results," the firm said. Therefore, the stress-test results "may not represent our firm's actual capital-return capacity, which may be higher than this year's test would otherwise indicate."
+
+Under Goldman's internal analysis, the firm would lose about $25 billion on a pre-tax basis in the severe recession, roughly the same as projected by the Fed. So it's possible that the disagreement stems from differences in how taxes were calculated - an especially tricky issue given the passage in December of President Donald Trump's tax law, which slashed corporate rates while eliminating some deductions.
+
+The firm's stock price fell 1.4% on Friday in the first trading session following the release of the results, even as an index of big-bank shares climbed 0.2%.
+
+Overall, according to the Fed, the financial system looks healthy: "The nation's largest bank holding companies are strongly capitalized and would be able to lend to households and businesses during a severe global recession," the central bank said in its press release Thursday.
+
+Next week, the Fed will announce whether it approves of individual banks' proposals for dividends and share buybacks over the coming year, in a process known as the Comprehensive Capital Analysis and Review, or CCAR. So shareholders and analysts are scrutinizing this week's stress-test results for clues on what the Fed might decide.
+
+In a report Friday, analysts at the brokerage firm Keefe, Bruyette & Woods wrote that the results don't bode well for shareholders looking for big returns from Goldman.
+
+The KBW analysts had estimated that Goldman would give about $11 billion of capital back to shareholders through the first quarter of 2020. Yet, based on the Fed's analysis, Goldman could only afford to pay out $7.1 billion without falling below regulators' minimum capital level, according to KBW.
+
+"We flag GS of being at risk," the analysts wrote, using Goldman's stock-ticker symbol.
+
+Suffice to say, as Montebello's Hendler, put it: "Goldman is more optimistic than the Fed."

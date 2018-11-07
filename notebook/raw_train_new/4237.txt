@@ -1,0 +1,9 @@
+Mt.Gox, up until last month, was the largest Bitcoin exchange until it lost more than 750,000 of its customer¡¯s Bitcoins worth more than a half-a-billion dollars where it then filed for bankruptcy in the U.S. and Japan. Mark Karpeles admitted in a court room document that a flaw in their software allowed hackers to steal the digital currency.
+
+Lawsuits in the U.S. and Canada against MT.Gox have opened up a new legal battle front for them and Mizuho, Japan¡¯s second largest bank, which was added to the defendants list on Friday in relation to an existing U.S. lawsuit against Mt.Gox. The suit claims that Mizuho committed fraud by providing banking services to Mt.Gox.
+
+In Canada, a class-action lawsuit is also brewing against Mt.Gox and Mizuho has also been named in this suit. Mizuho has failed to comment thus far on the lawsuits that have been filed in both Chicago and Ontario.
+
+The U.S. suit claims that Mizuho knew that Mt.Gox was committing fraud and did not segregate Mt.Gox funds from that of its customers and also failed to suspend banking services to Mt.Gox resulting in even further losses for the Bitcoin customers.
+
+A leaked recording that has been authenticated proves that Mark Kapeles was asked to close the Mt.Gox account with Mizuho due to compliance issues and that Mizuho wished to cut ties with the exchange. Karpeles had said the Mt.Gox was not willing to cooperate with the request.

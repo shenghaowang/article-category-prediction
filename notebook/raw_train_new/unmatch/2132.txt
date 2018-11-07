@@ -1,0 +1,41 @@
+However, the workings of the premier digital cash system remain something of a mystery to the general public.
+
+Bitcoin is a decentralised virtual currency created from computer code in the wake of the 2008 global financial crisis.
+
+Unlike a traditional currency such as the dollar, euro or yen, bitcoin has no central bank and is not backed by any government.
+
+Instead, the unit is controlled and regulated by its community of users, who argue that this makes it more efficient than traditional currencies.
+
+There are some 17.3 million bitcoins in circulation, while the total number can never exceed 21 million.
+
+How does it work?
+
+Bitcoin uses so-called peer-to-peer blockchain technology to create and trade instantly, across the globe.
+
+A blockchain is an extremely secure ledger for recording transactions that is open to all who use it.
+
+Transactions happen when heavily encrypted codes are passed across a computer network.
+
+The network as a whole monitors and verifies the transaction in a process that is intended to ensure no single bitcoin can be spent in more than one place simultaneously.
+
+And, just like conventional currencies, bitcoins can be exchanged for goods and services¡ªprovided the other party is willing to accept them.
+
+Like other virtual units, bitcoin can be produced, or "mined", by banks of computers solving complex algorithms.
+
+However, large-scale currency mining can be very expensive because it requires cutting-edge technology and vast amounts of electricity.
+
+Bitcoin can be purchased also with traditional currencies over online trading platforms.
+
+Users hold the cryptocurrency in a protected virtual wallet, and can then "send" it to one another using the blockchain technology.
+
+But serious security questions linger after hackers managed to steal bitcoin from some online "wallets" in countries including Japan and South Korea.
+
+Bitcoin and its cryptocurrency peers are meanwhile known to be used by criminals for transactions and money-laundering, posing a headache for regulators.
+
+How much is one bitcoin worth?
+
+At its birth, bitcoin was priced at virtually zero, before experiencing astonishing growth in 2017 to peak at a record $19,500 by the end of that year.
+
+However, investors feared a speculative bubble and it has since crashed to stand at about $6,400 per unit following months of less volatile trading.
+
+Explore further: Bitcoin and cryptocurrency for n00bs

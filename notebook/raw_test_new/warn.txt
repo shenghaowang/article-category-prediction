@@ -1,0 +1,870 @@
+2,0.3888888888888889,original_not_found,Asian Stocks Broadly Higher After Selloff,Asia markets broadly recover following extended rout on Wall Street
+4,0.3,original_not_found,BOE to Get Fourth Deputy Governor as Carney Fights Rigging Claim,UK government in talks to keep Carney longer at BoE: BBC
+6,0.5666666666666667,original_not_found,Goldman Sachs Says Bitcoin Likely Can't Work As A Currency, But Still Holds  ...,Goldman Sachs: Bitcoin Is Not A Currency
+8,0.423841059602649,original_not_found,Latest information on the investigation into the missing Malaysia Airlines jet | The  ...,MH370: is missing Malaysia Airlines plane in Cambodian jungle?
+9,0.5555555555555556,original_not_found,Citi upgrades JC Penney, says it's a comeback story,J.C. Penney Is A Natural Comeback Story
+13,0.5510204081632653,original_not_found,UPDATE: German court rejects case against eurozone bailout scheme,Germany rejects bailout challenge
+15,0.40350877192982454,original_not_found,China Growth Goal Challenged by Falling Exports, Factory Prices,China - Economic Growth and Development | Economics
+23,0.4461538461538462,original_not_found,Bitcoin Charges Against Florida Man May Proceed, Judge Rules (1),In Rejecting Bitcoin as Money, Florida Court Sets Likely Precedent
+24,0.5714285714285714,original_not_found,US oil plastered by weak Chinese export data, ends near $101,Oil dips after weak Chinese trade data
+29,0.24324324324324326,original_not_found,Gold extends gains to 4-1/2 mth high on safe-haven demand,Subscribe to read
+37,0.29310344827586204,original_not_found,MARKET SNAPSHOT: US Stocks Fall Amid China Worries,U.S. stocks close lower as Turkey, trade worries continue to weigh
+38,0.4444444444444444,original_not_found,Colorado's pot of gold: $2 million,Pot of gold
+39,0.5777777777777777,original_not_found,Today's Mortgage Rates at BMO Harris Bank Mar 12,Fixed Rate Mortgage Solutions | BMO Harris
+42,0.23636363636363636,original_not_found,OECD: Growth in advanced economies gains momentum - Quincy Herald-Whig  ...,OECD sees synchronised momentum for global economy, but urges further policy action to ensure sustainable and inclusive medium-term growth - OECD
+43,0.3472222222222222,original_not_found,Better Mortgage Rates at Commerce Bank, HSBC and Citizens Bank (March 11),Commerce Bank Launches Commerce Bank Medical Refinance Loan for Doctors
+48,0.4550898203592814,original_not_found,Pound to US Dollar (GBP/USD) Exchange Rate slipped to two-week low in light  ...,Pound US dollar exchange rate: GBP nears two-month high as UK inflation beats forecasts
+49,0.4935064935064935,original_not_found,First Edition: March 18, 2014,10 things you need to know today: March 18, 2014
+72,0.38961038961038963,original_not_found,Electric S-Class hinted by Mercedes-Benz executive,Mercedes-Benz EQ: EQ Power.
+79,0.55,original_not_found,Quiznos Files Bankruptcy Days After Sbarro,Quiznos sub chain files for bankruptcy
+83,0.4266666666666667,original_not_found,Gold drops in Asia,Gold Drops For Fifth Month Amid A Rally In Dollar, Stocks
+93,0.3620689655172414,original_not_found,No engine data after plane went missing, Malaysia says,MH370: is missing Malaysia Airlines plane in Cambodian jungle?
+96,0.42201834862385323,original_not_found,Forget Mt. Gox: Bitcoins Will Still Be Your Future Currency,The Mt. Gox Hack〞 What＊s in your Bitcoin Wallet? 每
+101,0.49635036496350365,original_not_found,US GOLD Comex bounces on Draghi's doveish comments, stronger euro,U.S. stocks surge on Draghi's dovish comments - Xinhua | English.news.cn
+105,0.5757575757575758,original_not_found,Money Tuesday Morning Preview #Hounews,Tuesday Morning - Lawton, OK
+109,0.5957446808510638,original_not_found,US suspects missing Malaysian plane flew on for hours: Report,Missing Malaysian plane may have flown for 4 hours after losing contact - report
+117,0.5647058823529412,original_not_found,Weekly market preview ?? 17 March 2014,KFM Daily Market Report: Monday, 17 March 2014
+121,0.5882352941176471,original_not_found,US regulator launches investigation into Herbalife,US launches Herbalife investigation
+123,0.34710743801652894,original_not_found,Bitcoin Backers Enjoy Rise in Stake amid Attack from Hackers,As Bitcoin Bubble Loses Air, Frauds and Flaws Rise to Surface
+130,0.4946236559139785,original_not_found,PHH Mortgage: Wednesday's Rates for Home Mortgages Mar 12,PHH Mortgage Rates & Refinance Rates
+132,0.36507936507936506,original_not_found,Japan Yet to Decide on Bitcoin Rules Amid Money Laundering Risk,How Japan is fast becoming the powerhouse of the bitcoin market
+140,0.4,original_not_found,Week In FX Americas - Jobless Claims Momentarily Breaks USD Downward Trend,United States Initial Jobless Claims
+143,0.4842105263157895,original_not_found,The internet is where commerce is shifting.,How the Growth of E-Commerce Is Shifting Retail Jobs
+145,0.4444444444444444,original_not_found,Bank of England appoints woman in top policy role,Chancellor appoints Sir David Ramsden to Bank of England deputy role
+153,0.5714285714285714,original_not_found,Chiquita now part of top banana company,Chiquita, Fyffes Merger to Create Top Banana Company
+156,0.47540983606557374,original_not_found,Reiniers: Health care reform - forget the politics,On health reform, forget politicians. What do doctors and patients want?
+157,0.38461538461538464,original_not_found,Analyst Upgrades: Apple Inc. (AAPL), JC Penney Company, Inc., and Netflix, Inc.,Top Analyst Upgrades and Downgrades: Apple, Netflix, Nike, Tesla, Coca-Cola, Comcast, CSX and Many More
+160,0.5102040816326531,original_not_found,Starbucks soon adding barista tips to mobile app,Starbucks＊ new app lets you tip baristas digitally
+166,0.37410071942446044,original_not_found,Sign-Up Surge Brings Health Law's Enrollment Tally To 5 Million,While still rising, health law sign-ups likely to fall short - NY Daily News
+170,0.4854368932038835,original_not_found,Sun Pharma drops after USFDA import ban on Gujarat plant,US bans imports from Sun Pharma＊s Gujarat plant
+171,0.5333333333333333,original_not_found,Trading Update for Dick's Sporting Goods (DKS),DKS : Summary for Dick's Sporting Goods Inc - Yahoo Finance
+181,0.325,original_not_found,Gold Extends Gains To 4-1/2 Month High,Gold miners＊ pain could be investors＊ gain
+182,0.5673758865248227,original_not_found,Asian Shares Gain Ahead of Bank of Japan Meeting,Asian Session 每 Yen gains ahead of Bank of Japan meeting while euro / dollar dips below 1.36
+184,0.27906976744186046,original_not_found,Recalled GM part could cost just $2-$5,GM Recalls More Cars Over Ignition Switch Issues
+185,0.5486725663716814,original_not_found,Shanghai copper slides 5 pct on China concerns,METALS-Shanghai zinc, copper prices slide after downbeat China data
+186,0.2641509433962264,original_not_found,Auto Makers Post February EU Gains,Sales By Segment --
+193,0.40963855421686746,original_not_found,Chinese economy, Ukraine weigh on $A,China looks to Ukraine as demand for food rises
+196,0.25396825396825395,original_not_found,Sebelius: Affordable coverage is only a click, call or visit away,King v. Sebelius: If The Plain Meaning Of The ACA Was Good Enough For Congress, Then It's Good Enough For The Fourth Circuit
+201,0.4918032786885246,original_not_found,As Americans ride public transit in record numbers, ridership down in Portland  ...,Americans are using mass transit more than ever. So why is ridership on 'gold standard' TriMet down?
+202,0.3333333333333333,original_not_found,Studio interview: PBoC to further push liberalization of Yuan's exchange rate,Is China Serious About Liberalizing the Renminbi?
+207,0.49411764705882355,original_not_found,Colorado marijuana numbers breakdown,Marijuana By The Big Business Numbers In Colorado
+209,0.2830188679245283,original_not_found,7 months, 19 companies for 1 pricey policy,5 Psychological Studies on Pricing That You Absolutely MUST Read
+215,0.5,original_not_found,Herbalife discloses civil probe by FTC,Herbalife faces Federal Trade Commission probe
+216,0.3888888888888889,original_not_found,Delay in GM recall triggers investigation,GM: Steps to a recall nightmare
+219,0.2823529411764706,original_not_found,German shares outpace rest of Europe,The stock market correction has arrived in Europe
+228,0.35714285714285715,original_not_found,Gold closes at highest level in six months,Gold marks lowest finish in nearly 8 weeks
+229,0.3783783783783784,original_not_found,Hackers Claim Mt. Gox Still Sitting On Bitcoins,Mt. Gox and the Surprise Redemption of Bitcoin＊s Biggest Villain
+234,0.4090909090909091,original_not_found,Dow Jones Industrial average; Today's DJIA Nasdaq S&P 500 stock market  ...,Stock Market Data - Dow Jones, Nasdaq, S&P 500 - CNNMoney
+247,0.5555555555555556,original_not_found,J.C. Penney stock booster: 'American Comeback Story: It Fits & We Feel It',Is JC Penney The Next Great American Comeback Story?
+250,0.44594594594594594,original_not_found,Premarket: World shares capped by China data, Ukraine worries linger,Premarket: Global shares driven towards worst week since March by trade tensions
+257,0.375,original_not_found,Stock Prices Reverse Higher,Is a Reverse Stock Split Good or Bad?
+267,0.54421768707483,original_not_found,Americans hopping aboard public transit in highest level since 1956,Use of Public Transit in U.S. Reaches Highest Level Since 1956, Advocates Report
+269,0.2542372881355932,original_not_found,At 0630 AEDT on Monday, the local unit was trading at 90.37 US cents. Source  ...,CST to AEDT Time Converter -- TimeBie
+273,0.4864864864864865,original_not_found,China will persist in its search for MH370, says China PM,Chinese satellite spots new object in search for MH370
+283,0.5853658536585366,original_not_found,Criminal Probe Surrounding GM Recall,Criminal probe in GM＊s recall of deadly defect
+295,0.5254237288135594,original_not_found,US stocks inch down amid worry over China's sluggish growth,US stocks and bond yields dip amid trade worries with China
+298,0.4262295081967213,original_not_found,Latest information on search for Malaysian plane,MH370 latest: Search for missing Malaysia Airlines flight could be RESUMED
+304,0.5747126436781609,original_not_found,Colorado reports $2 million in pot taxes,Colorado collects $2M in recreational pot taxes
+317,0.41379310344827586,original_not_found,Alibaba starts ball rolling for IPO in the US,Alibaba＊s Jack Ma warns against trade wars
+321,0.2119205298013245,original_not_found,Colorado collects $2M in recreational pot taxes - WBOC-TV 16, Delmarvas News  ...,Salisbury News: Bipartisan Congressional Bill Would Authorize The Use＃
+323,0.4166666666666667,original_not_found,US stocks, indices finish mostly higher after a weak start,U.S. stocks close higher as Apple helps spark broad tech rally
+329,0.45161290322580644,original_not_found,Herbalife (HLF) Confirms FTC Civil Investigation,Herbalife LTD. (NYSE:HLF), Nu Skin Enterprises, Inc. (NYSE:NUS) - Herbalife Discloses FTC Demand for Civil Investigation, Shares Nose Dive
+330,0.358974358974359,original_not_found,China e-commerce giant Alibaba to list in US,Category:Alibaba Group - Wikipedia
+332,0.40350877192982454,original_not_found,Central Europe Turns to US for Natural Gas,Europe Turns to Russia, and Elsewhere, to Meet Rising Gas Demand in 2017
+338,0.5783132530120482,original_not_found,McDonald's to try build-your-own-burger menu,McDonalds Canada: Build Your Own Burger
+353,0.5755395683453237,original_not_found,UniCredit posts record Q4 loss of $21 billion as it cleans up balance sheet,Italy's UniCredit posts record $19 billion loss after writedowns
+358,0.22695035460992907,original_not_found,CHELSEA: Chelsea Community Hospital reaches out to inform, educate public  ...,Ways to Give - St. Joseph Mercy Chelsea, Chelsea, Michigan (MI)
+360,0.38961038961038963,original_not_found,Ahead of the Bell: JC Penney the comeback kid?,What Went Wrong at J.C. Penney?
+361,0.3684210526315789,original_not_found,Gold rally continues as political tensions persist,Metals Focus: Gold 'Relief Rally' Not Over But Headwinds Persist
+363,0.5,original_not_found,Tue., 11:12am: GM creates new post to spearhead safety issues,Nong Than to spearhead safety drive
+365,0.32786885245901637,original_not_found,Yuan Tumbles to 11-Month Low as Band Widening Spurs Volatility,China stocks, yuan tumble amid worries about slowing economy
+373,0.5151515151515151,original_not_found,Yuan Weakens as PBOC Doubles Trading Band,Yuan Trading Band Doubled
+374,0.411214953271028,original_not_found,Urban Outfitters, Inc. (URBN) news: Urban Outfitters' CEO Discusses F4Q 2014  ...,Urban Outfitters Bares All
+379,0.18181818181818182,original_not_found,Osborne Names Broadbent As BoE Deputy Governor, IMF's Shafik To New Role,Mark Carney says Bank of England needs more power
+382,0.46956521739130436,original_not_found,2nd-Half Turnaround Seen for Urban Outfitters (URBN), Jefferies Says,Urban Outfitters, Inc. (URBN) Tops Q4 EPS by 5c
+383,0.46153846153846156,original_not_found,Hang Seng, Shanghai plunge at close,Hong Kong: Stocks plunge on trade war fears
+384,0.375,original_not_found,Yellen to set policy as threshold passes,Yellen＊s farewell at the Fed has become more complicated
+386,0.4166666666666667,original_not_found,Despite obstacles, bull market turns 5,With record in view, aging bull market may still be frisky
+390,0.48598130841121495,original_not_found,Wall Street edges lower after S&P's record close,Wall Street edges lower, pauses as tax bill clears Congress
+392,0.5517241379310345,original_not_found,Chiquita Brands International Inc. (NYSE:CCQB) Acquires Fyffes Plc (FFY),Chiquita Brands International, Inc. And Fyffes Plc To Combine To Create Leading Global Produce Company
+404,0.5684210526315789,original_not_found,Amazon increases rate of Amazon Prime to $99,Amazon to increase price of Prime membership by 20%
+412,0.5793103448275863,original_not_found,Report: exchange brings competition to state's insurance market,Iowa + Nebraska co-op brings more competition to insurance market with few options
+413,0.2684563758389262,original_not_found,Gold, silver rise as Ukraine, China worries support,Gold Trading Back at $1200 as UK Accuses Russia, US Accuses China of Election Meddling | Gold News
+418,0.49019607843137253,original_not_found,WRAPUP 3-Co-pilot spoke last words heard from missing Malaysian plane,Plane co-pilot 'spoke last words'
+420,0.23684210526315788,original_not_found,Candy Crush maker to be valued at up to US$7.6b in New York float,Market News
+427,0.3146067415730337,original_not_found,Market may be in for a challenging week,Challenging Week for Stock Market | Gorilla Trades
+430,0.3492063492063492,original_not_found,Only Two Weeks Left To Purchase Health Insurance Under ACA,Job change and unemployment: How to deal with a health insurance gap
+441,0.5714285714285714,original_not_found,Business in Brief,How Do I Write a Business Brief?
+444,0.2833333333333333,original_not_found,M&A News Fuels Options Betting on Jos. A. Bank and The Men's Wearhouse,Betting the pharma -- Japan's misdirected M&A boom
+446,0.32967032967032966,original_not_found,Colorado transit rides to record rider growth in 2013,Denver has a coming transit apocalypse
+447,0.5538461538461539,original_not_found,China industrial output, retail sales touch new lows,China industrial output tops forecasts, but investment growth sinks to new low
+452,0.2916666666666667,original_not_found,Consumer Stocks Rising in Monday Trade; Hertz Global Said Near Deal to Spin  ...,HTZ Headlines | Hertz Global Holdings, Inc Stock - Yahoo Finance
+469,0.4172661870503597,original_not_found,Chinese Premier Li Keqiang says US, China should focus on mutual interests  ...,Li Keqiang says China Has Guts, Wisdom to Solve its Problems
+471,0.3448275862068966,original_not_found,Stocks Start the Week with Caution,Proceed With Caution and Make Stocks Prove Themselves
+476,0.2903225806451613,original_not_found,The "Yellen put" is as good as any?? for now,Federal Reserve cuts stimulus but revises growth forecast down - as it happened
+483,0.4827586206896552,original_not_found,Five More Family Members Of MH370 Passengers Arrive From China,Families of Chinese MH370 passengers arrive in Kuala Lumpur, elude media at airport
+486,0.29411764705882354,original_not_found,Revised data NJ unemployment drop was smoother than previously reported  ...,US weekly jobless claims drop to the lowest level since 1969
+487,0.3652173913043478,original_not_found,Marketwired Shuts Off Traders Amid New York Fairness Probe (1),Marketwired to stop selling to high-frequency traders
+491,0.5333333333333333,original_not_found,From ColumbusAlive.com,Columbus Day Activities
+510,0.47058823529411764,original_not_found,Norton antivirus software maker Symantec fires CEO, names director as  ...,Symantec fires CEO Bennett, names Brown as interim replacement
+513,0.2962962962962963,original_not_found,British chancellor reveals new pound as he prepares to deliver budget Eds: epa  ...,Philip Hammond announces date for 2018 autumn budget
+518,0.40963855421686746,original_not_found,EU and US condemn 'cowardly and pointless' Twitter ban,#pointless hashtag on Twitter
+528,0.26277372262773724,original_not_found,UPDATE 4 (Day 15) MISSING MH370: US may give sonar gear to M'sia for search,MH370: is missing Malaysia Airlines plane in Cambodian jungle?
+531,0.48175182481751827,original_not_found,BMW CEO Reithofer says deliveries, profits will beat last year's record levels,BMW sees record 2012 sales, profits despite economy worries
+537,0.4233576642335766,original_not_found,Pricing Game: Wal-Mart's online tool compares rivals' prices, offers shoppers  ...,Amazon trounces rivals in battle of the shopping 'bots'
+543,0.5365853658536586,original_not_found,Wal-Mart to Let Shoppers Swap Used Video Games,Walmart Doubles Down On Video Gaming
+553,0.4462809917355372,original_not_found,Symantec boss axed after revenue takes tumble,Symantec to cut eight per cent of workforce as enterprise sales tumble | CRN
+555,0.5274725274725275,original_not_found,Bruno Guillon leaves Mulberry,Bruno Guillon's resignation from Mulberry comes as no surprise
+560,0.3333333333333333,original_not_found,Louisiana put record number of people to work in January,Louisiana State Penitentiary - Wikipedia
+564,0.5785123966942148,original_not_found,Airbnb raising cash at $10 billion valuation: report,Airbnb Is in Advanced Talks to Raise Funds at a $10 Billion Valuation
+581,0.49411764705882355,original_not_found,The US Economy, Is All About Marijuana Now,5 Economic Reasons to Legalize Marijuana --
+583,0.4380952380952381,original_not_found,FXBeat US wrap: Mild sanctions lift risk sentiment,U.S. reimposes Iran sanctions lifted under nuclear deal
+591,0.42105263157894735,original_not_found,Sector Update: Consumer,Quarterly sector update - Fidelity
+594,0.36363636363636365,original_not_found,Forex - Euro hits session lows amid Ukraine escalation fears,EUR/USD fades new 2018 lows amid USD profit-taking
+597,0.43870967741935485,original_not_found,New ??1 coin will look like the old threepenny bit as Government bids to cut down  ...,1 coin is to be scrapped: New version shaped like old threepenny bit
+599,0.3191489361702128,original_not_found,Local unemployment rose despite state-wide decline,Why Wages Won't Rise When Unemployment Falls
+602,0.3888888888888889,original_not_found,BMW says expects to improve product pricing with new models,BMW expects sales growth as new X models launched in China market - Chinadaily.com.cn
+603,0.5405405405405406,original_not_found,Things to know about the upcoming Obamacare deadline,Everything You Need to Know About Obamacare Open Enrollment
+606,0.45454545454545453,original_not_found,Sunday, March 23 2014 07:02 PM,Screen Shot 2014-07-02 at 2.12.23 PM
+610,0.4854368932038835,original_not_found,Do you like the new pound coin designed to tackle forgery?,U.K. introduces new pound coin to fight fraud
+612,0.4909090909090909,original_not_found,5 Things to Know in Florida for March 18,THE 15 BEST Things to Do in Florida - 2018 (with Photos) - TripAdvisor
+619,0.4583333333333333,original_not_found,Dreamliner judged safe after review,Dreamliner 787 safe? or not? - Air Travel Forum - TripAdvisor
+622,0.4793388429752066,original_not_found,Russia's Bank Rossiya says works as usual after U.S. sanctions,VTB CEO Says Russian Banks Can Withstand New U.S. Sanctions
+624,0.26865671641791045,original_not_found,Today's Trending Ticker: Gamestop,Page Not Found - Finance Portfolio
+625,0.2962962962962963,original_not_found,British chancellor reveals new pound as he prepares to deliver budget Eds: epa  ...,Philip Hammond announces date for 2018 autumn budget
+626,0.34234234234234234,original_not_found,Bank of America passes stress test, but not without hiccups (Video),Nearly All U.S. Banks Pass Fed＊s Stress Test
+630,0.25210084033613445,original_not_found,BMW sees 2014 pretax profit up by single to double digit pct,BMW plans multi-billion euro cost cuts - magazine - ET Auto
+640,0.463768115942029,original_not_found,Political Deal on EU Banking Union Completed,Banking union - Wikipedia
+644,0.3469387755102041,original_not_found,US Fed unveils further cut in bond purchase program,Fed to taper bond buying by $10 billion a month
+649,0.575,original_not_found,Turkey President's Tweet Criticises Twitter Ban,Turkey's Gul condemns Twitter ban
+650,0.5423728813559322,original_not_found,Walmart to Accept Used Video Game Trade-Ins,Walmart Trade-In
+655,0.5825242718446602,original_not_found,Russian stocks fall on opening after US sanctions,Russia hits back at ＆unpredictable＊ US after sanctions
+657,0.4909090909090909,original_not_found,Reports: Toyota, Justice Dept. near $1 billion settlement,Toyota Expected to Settle Justice Dept. Investigation
+666,0.20125786163522014,original_not_found,Fed Stress Test Shows 29 of 30 Banks Meet or Top Capital Target,Goldman Sachs, Morgan Stanley left out of the rally in bank stocks after Fed stress test blunder
+671,0.35443037974683544,original_not_found,Oil, natural gas fall following supply reports,Oil & Gas Market Industry Reports
+673,0.3006535947712418,original_not_found,Five for Tuesday: Russia losing investors, Wal-mart's latest move to remain  ...,Dow closes 254 points lower as Walmart posts worst day since January 1988
+680,0.4142857142857143,original_not_found,Walmart's Letting Shoppers Exchange Used Video Games For Anything in All of  ...,Wal-Mart entry into used videogames trade threatens GameStop
+683,0.46153846153846156,original_not_found,1.5M GM vehicles,GM announces recall of 1.5m vehicles
+688,0.38461538461538464,original_not_found,Turkish president sends tweet denouncing government Twitter ban,Turkey＊s Erdogan blocks access to Twitter
+691,0.3191489361702128,original_not_found,Local unemployment rose despite state-wide decline,Why Wages Won't Rise When Unemployment Falls
+699,0.4142857142857143,original_not_found,Walmart's Letting Shoppers Exchange Used Video Games For Anything in All of  ...,Wal-Mart entry into used videogames trade threatens GameStop
+702,0.4931506849315068,original_not_found,New ??1 coin: Do you like it? Will it fit in supermarket trolleys?,How new 1 coin will cause issues with supermarket trolleys and tickets machines
+705,0.46808510638297873,original_not_found,Next Media: Boeing P-8A Poseidon deployed to search for MH370,Navy Deploys P-8A Poseidon Aircraft to Search for Missing Republic of Korea Crew
+710,0.4342105263157895,original_not_found,Oracle Price Target Increased to $40.00 by Analysts at Evercore Partners (ORCL),Oracle 'Lacks Catalysts To Drive Re-Rate,' Evercore ISI Says In Downgrade
+711,0.3333333333333333,original_not_found,Louisiana put record number of people to work in January,Louisiana State Penitentiary - Wikipedia
+712,0.42857142857142855,original_not_found,Walmart Looking To Dominate Another Field,Walmart looks to dominate overseas with grocery-delivery app investment | Retail Dive
+725,0.47244094488188976,original_not_found,18:36 - Public figures, celebrities tweet about Twitter ban,How come celebrities never respond to fan tweets on Twitter? - Quora
+731,0.4,original_not_found,France: Russia suspended from G-8,Russia just quit the G8 for good
+735,0.4142857142857143,original_not_found,Walmart's Letting Shoppers Exchange Used Video Games For Anything in All of  ...,Wal-Mart entry into used videogames trade threatens GameStop
+740,0.4909090909090909,original_not_found,Reports: Toyota, Justice Dept. near $1 billion settlement,Toyota Expected to Settle Justice Dept. Investigation
+743,0.5263157894736842,original_not_found,US States to Help DOJ Assess Comcast's TWC Acquisition,Multiple states join DOJ in reviewing Comcast's TWC purchase
+753,0.4583333333333333,original_not_found,US Officials Predict Sanctions Will Hit Putin Associates Hard,U.S. Hits Russian Oligarchs And Officials With Sanctions Over Election Interference
+756,0.5982905982905983,original_not_found,German ZEW Investor Confidence Falls to Lowest Since August,German Investor Confidence At 6-year Low | Markets Insider
+765,0.35443037974683544,original_not_found,Oil, natural gas fall following supply reports,Oil & Gas Market Industry Reports
+767,0.4954128440366973,original_not_found,Walmart Will Start to Accept Video Games in Exchange for Groceries,Wal-Mart Wants to Buy Your Used Video Games
+768,0.584070796460177,original_not_found,Wal-Mart joins Best Buy, Target in market for video game trade-ins,Wal-Mart expands video game trade-ins to stores
+775,0.23655913978494625,original_not_found,Russian stocks down as banks suffer amid sanctions - KTVN Channel 2 - Reno  ...,Iran Sanctions
+781,0.59375,original_not_found,Twitter wiped out from Turkey,Twitter website 'blocked' in Turkey
+783,0.4909090909090909,original_not_found,Reports: Toyota, Justice Dept. near $1 billion settlement,Toyota Expected to Settle Justice Dept. Investigation
+787,0.22485207100591717,original_not_found,Wal-Mart takes aim at $2B used video game market - KTVN Channel 2 - Reno  ...,Apple says it will invest $1B to expand data center and build new shipping warehouse in Reno
+792,0.4339622641509434,original_not_found,Gilead Sciences Target of Unusually Large Options Trading (GILD),Gilead Sciences, Inc. (GILD) Social Stream
+793,0.1568627450980392,original_not_found,Area joblessness up to 6.1%,Unemployment - Wikipedia
+796,0.5362318840579711,original_not_found,Colorado Governor signs child-resistance packaging law for marijuana,Colorado governor signs laws regulating sale of recreational marijuana
+801,0.59375,original_not_found,Twitter wiped out from Turkey,Twitter website 'blocked' in Turkey
+803,0.4566929133858268,original_not_found,Russian stocks tumble, Visa, MasterCard stop serving two Russia banks amid  ...,Russian stocks tumble 9% on US sanctions worries
+812,0.43564356435643564,original_not_found,Market Preview: Putin's speech, EU and German sentiment data eyed,Putin's full Crimea speech annotated
+816,0.4393939393939394,original_not_found,South Carolina Jobless Rate Falls To 6.4% In January,South Carolina workforce reaches all-time high as jobless rate continues to fall
+822,0.25,original_not_found,Russian stocks pressured, Visa, MasterCard stop serving 2 Russia banks,Credit card block at Russian banks
+826,0.3,original_not_found,Hong Kong stocks close 0.30% lower,Hong Kong Stock Market (HSI) | 1964-2018 | Data | Chart | Calendar
+828,0.3418803418803419,original_not_found,Oracle (ORCL) Q3 'Not Great, but Getting Better' - Nomura's Sherlund,Oracle's Cloud Strategy: Ruthless Or 'Byzantine'?
+834,0.26865671641791045,original_not_found,Today's Trending Ticker: Gamestop,Page Not Found - Finance Portfolio
+836,0.29411764705882354,original_not_found,Four British companies have made it onto to Ethisphere's annual list of the  ...,Ethisphere Announces 2010 World＊s Most Ethical Companies
+837,0.4583333333333333,original_not_found,Marijuana packaging law clarified in Colorado, but potency caps unlikely,Marijuana Packaging Laws
+847,0.3684210526315789,original_not_found,VIDEO: Today's Trending Ticker: Gamestop,What To Expect From GameStop In 2018
+854,0.432,original_not_found,Healthcare Stocks Undercut Earlier Market Advance; Gilead Sciences Sinks  ...,GILD:NASDAQ GS Stock Quote - Gilead Sciences Inc
+859,0.4230769230769231,original_not_found,NJ Unemployment Rate Falls,N.J.'s unemployment rate falls to 10-year low. Here's what that means for you.
+860,0.35443037974683544,original_not_found,Oil, natural gas fall following supply reports,Oil & Gas Market Industry Reports
+861,0.59375,original_not_found,Twitter wiped out from Turkey,Twitter website 'blocked' in Turkey
+862,0.42105263157894735,original_not_found,Sector Update: Consumer,Quarterly sector update - Fidelity
+868,0.5426356589147286,original_not_found,Russian stocks down after US sanction announcement,Russia stocks fall after US vows further sanctions; Rusal slumps to record lows
+872,0.5952380952380952,original_not_found,Credit Card Blocked In Russia As Sanctions Kick In,Credit card block at Russian banks
+873,0.46808510638297873,original_not_found,Next Media: Boeing P-8A Poseidon deployed to search for MH370,Navy Deploys P-8A Poseidon Aircraft to Search for Missing Republic of Korea Crew
+875,0.4583333333333333,original_not_found,US Officials Predict Sanctions Will Hit Putin Associates Hard,U.S. Hits Russian Oligarchs And Officials With Sanctions Over Election Interference
+879,0.3870967741935484,original_not_found,Price check: Wal-Mart widget compares prices for shoppers,25 Best Price Comparison Websites and Apps to Compare Prices Online
+881,0.36363636363636365,original_not_found,Forex - Euro hits session lows amid Ukraine escalation fears,EUR/USD fades new 2018 lows amid USD profit-taking
+893,0.4444444444444444,original_not_found,Sightings boost hunt for missing jetliner,Day＊s search for missing Malaysian airliner turns up empty
+896,0.59375,original_not_found,Walmart Opens New C-store,Walmart Opening More Convenience Stores
+898,0.4788732394366197,original_not_found,UK Market Slides, Resolution Drops,Sterling slides as UK inflation drops
+905,0.42857142857142855,original_not_found,Twitter Access Restricted After Turkish PM Threatens Social Media,Turkey blocks use of Twitter after prime minister attacks social media site
+912,0.5112781954887218,original_not_found,29 out of 30 US Banks pass Fed stress test: Bigger dividends to follow?,Deutsche Bank fails Fed stress test while 3 US lenders stumble
+915,0.4793388429752066,original_not_found,China Mobile Ltd. ADR (CHL) News Analysis: Stock Down After Company  ...,China Mobile Ltd. (ADR) is Too Cheap to Ignore --
+921,0.348993288590604,original_not_found,Report says NYC's privately funded bike-share program needs tens of millions of  ...,Privately-funded Citi Bike could get public funding for expansion
+922,0.3684210526315789,original_not_found,VIDEO: Today's Trending Ticker: Gamestop,What To Expect From GameStop In 2018
+924,0.5365853658536586,original_not_found,Wal-Mart to Let Shoppers Swap Used Video Games,Walmart Doubles Down On Video Gaming
+926,0.38461538461538464,original_not_found,Turkish president sends tweet denouncing government Twitter ban,Turkey＊s Erdogan blocks access to Twitter
+929,0.4566929133858268,original_not_found,Russian stocks tumble, Visa, MasterCard stop serving two Russia banks amid  ...,Russian stocks tumble 9% on US sanctions worries
+933,0.348993288590604,original_not_found,Report says NYC's privately funded bike-share program needs tens of millions of  ...,Privately-funded Citi Bike could get public funding for expansion
+936,0.49142857142857144,original_not_found,South Carolina jobless rate falls for 8th straight month, dipping to 6.4 percent in  ...,South Carolina's unemployment rate falls to 4.1 percent in May, lowest point since 2000
+939,0.3673469387755102,original_not_found,BMO Harris Bank: Monday's Mortgage Interest Rates Mar 17,Fixed Rate Mortgage Solutions | BMO Harris
+940,0.5333333333333333,original_not_found,Crimea hits German investor sentiment,Print: Ifo: Crimea Crisis Hits German Business Confidence 〞 Naharnet
+945,0.5,original_not_found,Symantec shares drop 10% after latest CEO departure,Symantec stock drops nearly 10% as outlook misses Street view
+949,0.5454545454545454,original_not_found,Boss quits Mulberry after two years,Mulberry boss Guillon quits after turbulent two years
+950,0.3619047619047619,original_not_found,Airbnb closes in on $400 million in next funding round,New Capital Could Raise Airbnb Value To $10 Billion
+955,0.3333333333333333,original_not_found,Australia Renewing Jet Search Buoyed by Satellite Imagery,Malaysia Airlines Flight 370: 2 new signals in search area buoys hope
+956,0.46808510638297873,original_not_found,Bank of America 'stress test' score adjusted down,Tax law upends banks＊ CCAR stress test scores
+959,0.39316239316239315,original_not_found,Twitter usage SOARS in Turkey, let alone succumbing to 'the ban',How Turkey's Twitter Users are Working Around the Ban
+960,0.34615384615384615,original_not_found,IRS phone and email scan reaches Indiana,IRS Repeats Warning about Phone Scams | Internal Revenue Service
+965,0.5531914893617021,original_not_found,Oracle Corporation (NYSE:ORCL) | Oracle Q3FY14 Earnings Preview  ...,Oracle Corporation (NASDAQ:ORCL), Nike, Inc. (NYSE:NKE) - Oracle Earnings Preview: Tech Giant Continues Cloud Transition
+967,0.37681159420289856,original_not_found,Wal-Mart to accept game trade-ins; In-store credit can apply to non-gaming items,Walmart Blog: Trade in used video games for Walmart credit
+972,0.42857142857142855,original_not_found,Walmart Looking To Dominate Another Field,Walmart looks to dominate overseas with grocery-delivery app investment | Retail Dive
+975,0.5046728971962616,original_not_found,HSBC, PNC Bank: Today's Mortgage Interest Rates Mar 22,Best HSBC Home Loans and mortgage interest rate guide
+981,0.5303030303030303,original_not_found,8 Planes Search Indian Ocean with No Sign of Flight 370,New scan of 80,000 km of the Indian Ocean floor finds no sign of Flight MH370
+983,0.5405405405405406,original_not_found,Things to know about the upcoming Obamacare deadline,Everything You Need to Know About Obamacare Open Enrollment
+984,0.4393939393939394,original_not_found,January jobless rate falls to 6.7 percent for North Carolina, just above national  ...,S.C. jobless rate drops below national average
+988,0.4647887323943662,original_not_found,Gilead Sciences (GILD) Has Answers for Congress, Says Baird,Gilead Sciences (GILD) John C. Martin on Q3 2015 Results - Earnings Call Transcript
+993,0.3684210526315789,original_not_found,Obama goes to the hoop in order to score more health insurance enrollments,Trump signs order hitting Obamacare, eyes changes to job-based health coverage
+994,0.4954128440366973,original_not_found,Walmart Will Start to Accept Video Games in Exchange for Groceries,Wal-Mart Wants to Buy Your Used Video Games
+995,0.4897959183673469,original_not_found,Is the price right?,The Price Is Right - Wikipedia
+1007,0.4307692307692308,original_not_found,Symantec Corporation (SYMC) news: Symantec: The Turnaround Is Still On Track,SYMC: Summary for Symantec Corporation - Yahoo Finance
+1009,0.36904761904761907,original_not_found,US appeals court hands defeat to retailers; upholds Fed's cap on debit card  ...,US judge strikes Federal Reserve rule setting 24-cent cap on debit-card transaction fees
+1011,0.5714285714285714,original_not_found,Flight simulators like 1 owned by Malaysia Airlines pilot are used by enthusiasts  ...,Flight simulators used by enthusiasts worldwide
+1014,0.37209302325581395,original_not_found,Twitter's Turkey Hit Exposes Vulnerability,Turkish Stocks Look Cheap Post 'Shock' Election But Currency Vulnerability Weighs Heavy
+1031,0.4195804195804196,original_not_found,BMW CEO Reithofer says deliveries, profits will beat last year's record levels  ...,BMW beats profit forecast on record sales, sees some hurdles
+1033,0.39316239316239315,original_not_found,Twitter usage SOARS in Turkey, let alone succumbing to 'the ban',How Turkey's Twitter Users are Working Around the Ban
+1037,0.31343283582089554,original_not_found,TradeTheNews.com EU Market Update: European markets weather more  ...,Trade The News: Real time stock, forex, bond news analysis squawk
+1038,0.5531914893617021,original_not_found,Oracle Corporation (NYSE:ORCL) | Oracle Q3FY14 Earnings Preview  ...,Oracle Corporation (NASDAQ:ORCL), Nike, Inc. (NYSE:NKE) - Oracle Earnings Preview: Tech Giant Continues Cloud Transition
+1044,0.5294117647058824,original_not_found,Malaysia Airlines MH370: Search for missing jet shifts north after French satellite  ...,Malaysia Airlines MH370: March 28 as it happened
+1049,0.5714285714285714,original_not_found,Affordable Care Act: Some may have more time to apply,Affordable Care Act Information
+1055,0.5135135135135135,original_not_found,Pentagon says captured oil tanker to be handed over to Libyan government in  ...,US sailors hand over control of captured oil tanker to Libyan forces
+1061,0.2620689655172414,original_not_found,Pound no longer round: New ??1 sterling coin will be counterfeit proof,New one pound coin 'fake' found in change - could it end up in YOUR wallet?
+1062,0.4393939393939394,original_not_found,South Carolina Jobless Rate Falls To 6.4% In January,South Carolina workforce reaches all-time high as jobless rate continues to fall
+1068,0.34532374100719426,original_not_found,Outrage over Turkey's Twittter ban ahead of polls, US concerned,Turkey's Twitter Ban Reveals Its Prime Minister's Real Identity: Honeybadger
+1070,0.5,original_not_found,HK: Stocks flat at close,Hong Kong stocks flat as Tencent falls, Xiaomi rises
+1071,0.3595505617977528,original_not_found,New ??1 coin to show a dozen sides,Are your new 1 coins worth more than their face value?
+1072,0.5565217391304348,original_not_found,Symantec Corporation (NASDAQ:SYMC) Appoints Michael Brown As Its Interim  ...,Symantec Appoints Michael A. Brown CEO
+1074,0.34234234234234234,original_not_found,New findings bring optimism to MH370 search operation,Malaysia Airlines flight MH370 | World news | The Guardian
+1082,0.5035971223021583,original_not_found,Wal-Mart Stores, Inc. Announces Video Game Trade-In Service; GameStop Corp  ...,Wal-Mart entry into used videogames trade threatens GameStop
+1087,0.2807017543859649,original_not_found,Walmart Entering The Used Game Market, GameStop's Shares Fall,GameStop's secret weapon against Wal-Mart's incursion
+1088,0.43137254901960786,original_not_found,Bennett gets the boot as Symantec boss,Deploying image (No boot Device Found issues) | Symantec Connect
+1092,0.4827586206896552,original_not_found,EU and US condemn 'cowardly and pointless' Twitter ban,Turkey's Gul condemns Twitter ban
+1093,0.3826086956521739,original_not_found,Oracle Price Target Raised to $43.00 at Stifel Nicolaus (ORCL),NYSE:ORCL - Price Target & Analyst Ratings for Oracle
+1098,0.5365853658536586,original_not_found,Morning Buzzers ?? Symantec Corporation (NASDAQ:SYMC), The Progressive  ...,Symantec Corporation (SYMC) After Hours Trading
+1102,0.3619047619047619,original_not_found,Airbnb closes in on $400 million in next funding round,New Capital Could Raise Airbnb Value To $10 Billion
+1104,0.5714285714285714,original_not_found,Hong Kong stocks close 0.30% lower,China property leads Hong Kong stocks close lower, H-shares down
+1109,0.43636363636363634,original_not_found,Under 25000 credit cards compromised in Sally Beauty data breach,Sally Beauty says data breach hit under 25,000
+1110,0.45161290322580644,original_not_found,Citi Bullish on Oracle Corporation Short-term, SAP AG Long-term,Oracle Corporation - Wikipedia
+1111,0.22388059701492538,original_not_found,Gilead Sciences (GILD) Has Answers for Congress, Says Baird,Fed＊s Fischer says fiscal policy can help boost productivity and lift rates
+1116,0.2545454545454545,original_not_found,BMW - Bayerische Motoren Werke AG: BMW Group looks ahead to 2014 with  ...,BMW Group - Company - Press releases
+1121,0.3469387755102041,original_not_found,US Fed unveils further cut in bond purchase program,Fed to taper bond buying by $10 billion a month
+1127,0.4222222222222222,original_not_found,Watch out, GameStop, here comes Wal-Mart,GameStop down as Wal-Mart unveils trade-in program
+1133,0.4195804195804196,original_not_found,BMW CEO Reithofer says deliveries, profits will beat last year's record levels  ...,BMW beats profit forecast on record sales, sees some hurdles
+1138,0.4909090909090909,original_not_found,5 Things to Know in Florida for March 18,THE 15 BEST Things to Do in Florida - 2018 (with Photos) - TripAdvisor
+1140,0.5660377358490566,original_not_found,Florida unemployment now at 6.1 percent, another 5-year low,Florida's unemployment rate lowest in six years
+1153,0.5263157894736842,original_not_found,Budget 2014: Mixed Essex reaction to new ??1 coin by Royal Mint,Budget 2014: George Osborne to announce new 1 coin
+1155,0.449438202247191,original_not_found,Wal-Mart aims to shake winter with sales push,Spring thaw: Wal-Mart unleashes garden sales
+1159,0.4727272727272727,original_not_found,Wal-Mart to accept video game trade-ins,Walmart Trade-In
+1161,0.3464566929133858,original_not_found,Home-Sharing Giant Airbnb Takes on Venerable Lodging Names with Latest  ...,Putting Airbnb＊s new hosted ＆experience＊ to the test
+1166,0.5,original_not_found,HK: Stocks flat at close,Hong Kong stocks flat as Tencent falls, Xiaomi rises
+1186,0.46808510638297873,original_not_found,Bank of America 'stress test' score adjusted down,Tax law upends banks＊ CCAR stress test scores
+1189,0.34108527131782945,original_not_found,Wall Street's Ties to Putin Threatened as Sanctions Bite,India Goes Ahead With Russia Missile Buy in Face of U.S. Sanctions Threat
+1190,0.46153846153846156,original_not_found,1.5M GM vehicles,GM announces recall of 1.5m vehicles
+1192,0.4077669902912621,original_not_found,Commerce Bank and BMO Harris Tied with Similar Mortgage Rates Today  ...,BMO Harris Bank CD Rates | .com
+1199,0.5531914893617021,original_not_found,Oracle Corporation (NYSE:ORCL) | Oracle Q3FY14 Earnings Preview  ...,Oracle Corporation (NASDAQ:ORCL), Nike, Inc. (NYSE:NKE) - Oracle Earnings Preview: Tech Giant Continues Cloud Transition
+1200,0.416,original_not_found,REPEAT: German ZEW Economic Confidence Weakens Sharply,German ZEW economic sentiment deteriorates to -24.1 in July, a big miss
+1201,0.584070796460177,original_not_found,New 12-sided pound coin is to replace the old on,All change: New 12-sided pound coin to enter circulation in March
+1203,0.44155844155844154,original_not_found,Gains In Mortgage-Backed Securities May Translate To Slightly Better Rates To  ...,Mortgage-Backed Securities (MBS) Definition & Example | InvestingAnswers
+1210,0.43564356435643564,original_not_found,Market Preview: Putin's speech, EU and German sentiment data eyed,Putin's full Crimea speech annotated
+1212,0.49142857142857144,original_not_found,South Carolina jobless rate falls for 8th straight month, dipping to 6.4 percent in  ...,South Carolina's unemployment rate falls to 4.1 percent in May, lowest point since 2000
+1213,0.2620689655172414,original_not_found,Pound no longer round: New ??1 sterling coin will be counterfeit proof,New one pound coin 'fake' found in change - could it end up in YOUR wallet?
+1225,0.582089552238806,original_not_found,Mulberry's French boss Bruno Guillon has quit the luxury handbags firm,Mulberry boss Bruno Guillon quits after two years at the helm of
+1229,0.5294117647058824,original_not_found,Malaysia Airlines MH370: Search for missing jet shifts north after French satellite  ...,Malaysia Airlines MH370: March 28 as it happened
+1233,0.40404040404040403,original_not_found,Do you like the new pound coin designed to tackle forgery?,Firms 'should prepare' for new pound coin
+1249,0.45454545454545453,original_not_found,Sunday, March 23 2014 07:02 PM,Screen Shot 2014-07-02 at 2.12.23 PM
+1258,0.3875968992248062,original_not_found,UPDATE: MKM Partners Downgrades Symantec (SYMC) to Sell,Symantec Tumbles 13%: Five Downgrades; Bulls Urge Shares too Cheap to Sell
+1259,0.5309734513274337,original_not_found,Searchers looking for missing Malaysia jet come up empty,Another Search Begins for Long-Missing Malaysian Airliner
+1272,0.4339622641509434,original_not_found,Nobody's laughing at Obama's sanctions now.,Here's How Obama's Russia Sanctions Will Destroy Vladimir Putin
+1273,0.5252525252525253,original_not_found,Walmart Gets Into The Used Games Business,Wal-Mart to challenge GameStop in used video game business
+1275,0.2857142857142857,original_not_found,Wal-Mart, video game trade-in: Stores to accept video game trade-ins,Walmart Trade-In
+1276,0.5112781954887218,original_not_found,29 out of 30 US Banks pass Fed stress test: Bigger dividends to follow?,Deutsche Bank fails Fed stress test while 3 US lenders stumble
+1297,0.4788732394366197,original_not_found,UK Market Slides, Resolution Drops,Sterling slides as UK inflation drops
+1302,0.48695652173913045,original_not_found,In Brief: Unemployment rates drop in 43 US states in January,Causes of unemployment in the United States - Wikipedia
+1305,0.5333333333333333,original_not_found,Active Morning Movers - Symantec Corporation (SYMC), Progressive Corp  ...,Symantec Corporation (SYMC) Pre-Market Trading
+1307,0.34146341463414637,original_not_found,More Jobs, Lower Unemployment in NJ [AUDIO],N.J.'s unemployment rate at 11-year low
+1310,0.52,original_not_found,Still uninsured? Beware Obamacare's narrow network,Why 27 Million Are Still Uninsured Under Obamacare
+1312,0.4262295081967213,original_not_found,LIVE: 'Malaysia not hiding anything about missing flight MH370',Malaysia Airlines flight MH370: officials widen search area
+1313,0.432,original_not_found,Healthcare Stocks Undercut Earlier Market Advance; Gilead Sciences Sinks  ...,GILD:NASDAQ GS Stock Quote - Gilead Sciences Inc
+1316,0.38848920863309355,original_not_found,GameStop (GME) Slammed as Walmart (WMT) Announces Trade in Game Service,GameStop Faces Fresh Headwind With Walmart Jumping Into Collectibles
+1322,0.4732824427480916,original_not_found,Gilead Sciences Receives ??Buy?? Rating from Deutsche Bank (GILD),Gilead Sciences Buy by Maxim Group from 11/30/17 | Markets Insider
+1325,0.2926829268292683,original_not_found,Area employment dips with loss of holiday jobs in January,U.S. Lost 33,000 Jobs in September; Unemployment Rate Dips to 4.2%
+1337,0.4732824427480916,original_not_found,Gilead Sciences Receives ??Buy?? Rating from Deutsche Bank (GILD),Gilead Sciences Buy by Maxim Group from 11/30/17 | Markets Insider
+1340,0.45454545454545453,original_not_found,Sunday, March 23 2014 07:02 PM,Screen Shot 2014-07-02 at 2.12.23 PM
+1341,0.2807017543859649,original_not_found,Walmart Entering The Used Game Market, GameStop's Shares Fall,GameStop's secret weapon against Wal-Mart's incursion
+1349,0.3418803418803419,original_not_found,Oracle (ORCL) Q3 'Not Great, but Getting Better' - Nomura's Sherlund,Oracle's Cloud Strategy: Ruthless Or 'Byzantine'?
+1351,0.3673469387755102,original_not_found,BMO Harris Bank: Monday's Mortgage Interest Rates Mar 17,Fixed Rate Mortgage Solutions | BMO Harris
+1356,0.4462809917355372,original_not_found,Video Game Trade-In Business Heats Up as Wal-Mart Enters,Walmart Puts GameStop's Used Game Trade-In Business in Crosshairs
+1359,0.5142857142857142,original_not_found,New unemployment numbers for Fla. due out Monday,Unemployment numbers starting to rise slightly in Florida
+1360,0.5294117647058824,original_not_found,'Walmart' jumps into used video game market with in-store and online trade-ins,Walmart Blog: Trade in used video games for Walmart credit
+1363,0.5882352941176471,original_not_found,Walmart Launching Used Video Game Exchange,Wal-Mart Wants to Buy Your Used Video Games
+1369,0.4158415841584158,original_not_found,Twitter ban in Turkey: Not completely blocked,Whatsapp, Twitter and Facebook are now blocked in Turkey
+1371,0.34234234234234234,original_not_found,New findings bring optimism to MH370 search operation,Malaysia Airlines flight MH370 | World news | The Guardian
+1383,0.4662576687116564,original_not_found,Justice Department to reportedly announce Toyota settlement,Toyota and Justice Department said to reach $1.2 billion settlement in criminal case - Los Angeles Times
+1392,0.3464566929133858,original_not_found,Home-Sharing Giant Airbnb Takes on Venerable Lodging Names with Latest  ...,Putting Airbnb＊s new hosted ＆experience＊ to the test
+1393,0.4626865671641791,original_not_found,Walmart says PS4 & Xbox One allowing used games was a reason for the move,Walmart Starts Selling Used Games, But GameStop Isn't Worried
+1397,0.5217391304347826,original_not_found,Hong Kong Stocks Swing as Developers Drop, Solars Advance,Hong Kong stocks jump most in a month on techs, developers
+1399,0.449438202247191,original_not_found,Wal-Mart aims to shake winter with sales push,Spring thaw: Wal-Mart unleashes garden sales
+1407,0.37362637362637363,original_not_found,The Hardest Coin In The World To Fake,Coin Once Believed to Be Fake Is a Million Dollar Find
+1410,0.4050632911392405,original_not_found,Russian share index down 3pc,Russia stock market data - prices and news - FT.com
+1411,0.46808510638297873,original_not_found,Bank of America 'stress test' score adjusted down,Tax law upends banks＊ CCAR stress test scores
+1412,0.448,original_not_found,New ??1 coin unveiled by Chancellor George Osborne,Royal Mint unveils new 1 coin ahead of George Osborne election budget 2015
+1415,0.42790697674418604,original_not_found,North Carolina Unemployment Rate for January Improves to 6.7 Percent, Just  ...,Ongoing Joblessness in North Carolina: Unemployment rate for African Americans fourth in nation, more than double the state＊s white rate
+1416,0.5283018867924528,original_not_found,Turkey blocks Twitter, faces domestic and international backlash,Turkey bans Twitter 〞 and Twitter explodes
+1418,0.36507936507936506,original_not_found,MISSING MH370: Object captured by satellite on Mar 18, says China,MH370: China releases satellite images of possible crash site
+1432,0.5565217391304348,original_not_found,Symantec Corporation (NASDAQ:SYMC) Appoints Michael Brown As Its Interim  ...,Symantec Appoints Michael A. Brown CEO
+1434,0.49142857142857144,original_not_found,South Carolina jobless rate falls for 8th straight month, dipping to 6.4 percent in  ...,South Carolina's unemployment rate falls to 4.1 percent in May, lowest point since 2000
+1440,0.5,original_not_found,Indiana's unemployment rate, at lowest level since 2008, drops below US average,Indiana's Unemployment Rate Lower than Surrounding States
+1448,0.5168539325842697,original_not_found,Symantec Replaces Its CEO,Symantec replaces technology chief as CEO Bennett leads overhaul
+1452,0.5365853658536586,original_not_found,Wal-Mart to Let Shoppers Swap Used Video Games,Walmart Doubles Down On Video Gaming
+1455,0.375,original_not_found,Forex - JPY sightly weaker after Feb trade deficit higher than expected,Forex - USD/JPY - Impact of Japan＊s January Trade Balance
+1459,0.38095238095238093,original_not_found,Mulberry CEO Bruno Guillon Steps Down Amid Share Price Slump (1),Mulberry CEO Resigns
+1460,0.31746031746031744,original_not_found,Why Verisign (NASDAQ:VRSN) Shares Got Hammered on Tuesday with, DSW  ...,DSW Shares Surged on Big Earnings Beat, Positive Comps
+1461,0.5185185185185185,original_not_found,NH unemployment rate drops to 4.7 percent,Maine＊s unemployment rate hits a new low
+1462,0.43137254901960786,original_not_found,Bennett gets the boot as Symantec boss,Deploying image (No boot Device Found issues) | Symantec Connect
+1463,0.49019607843137253,original_not_found,States with the lowest jobless rates,Here Are The States With The Highest And Lowest Unemployment Rates
+1468,0.37142857142857144,original_not_found,Wal-Mart to give store credit for video game trade-ins,Walmart Trade-In
+1473,0.34532374100719426,original_not_found,Outrage over Turkey's Twittter ban ahead of polls, US concerned,Turkey's Twitter Ban Reveals Its Prime Minister's Real Identity: Honeybadger
+1493,0.20155038759689922,original_not_found,Fed Stress Test Shows 29 of 30 Banks Meet or Top Capital Target,Largest banks clear Federal Reserve's toughest annual stress tests
+1498,0.5909090909090909,original_not_found,Symantec CEO fired,Symantec fires CEO Bennett
+1503,0.3875968992248062,original_not_found,UPDATE: MKM Partners Downgrades Symantec (SYMC) to Sell,Symantec Tumbles 13%: Five Downgrades; Bulls Urge Shares too Cheap to Sell
+1506,0.49411764705882355,original_not_found,The US Economy, Is All About Marijuana Now,5 Economic Reasons to Legalize Marijuana --
+1508,0.5982905982905983,original_not_found,German ZEW Investor Confidence Falls to Lowest Since August,German Investor Confidence At 6-year Low | Markets Insider
+1516,0.49019607843137253,original_not_found,States with the lowest jobless rates,Here Are The States With The Highest And Lowest Unemployment Rates
+1519,0.416,original_not_found,UPDATE 2-Putin pledges support for sanctions-hit Russian bank,UPDATE 2-Russia signs deals with China to help weather sanctions
+1532,0.45588235294117646,original_not_found,Company Update: Kimberly-Clark Corporation (NYSE:KMB) ?? Kimberly-Clark  ...,KMB : Summary for Kimberly-Clark Corporation - Yahoo Finance
+1539,0.2926829268292683,original_not_found,Area employment dips with loss of holiday jobs in January,U.S. Lost 33,000 Jobs in September; Unemployment Rate Dips to 4.2%
+1540,0.34408602150537637,original_not_found,Budget 2014: ??1 coin to be replaced with new 12-sided design,New 1 coin to curb counterfeits
+1545,0.4875,original_not_found,Va.'s January unemployment falls to 5 percent; still below national average,Veteran Unemployment Still Below National Average; Post-9/11 Annual Rate Falls to 9.9
+1548,0.22085889570552147,original_not_found,GameStop (GME) Slammed as Walmart (WMT) Announces Trade in Game Service,Walmart merchandise news negative for GameStop, says BofA/Merrill GME;WMT;FNKO;TGT - The Fly
+1550,0.460431654676259,original_not_found,Missing Malaysian jet most likely in southern Indian Ocean, investigators say,MH370: is missing Malaysia Airlines plane in Cambodian jungle?
+1557,0.54,original_not_found,Walmart Video Game Trade-in Program Launches March 26,Wal-Mart expands video game trade-ins to stores
+1560,0.3387096774193548,original_not_found,Gilead Sciences Target of Unusually Large Options Trading (GILD),GILD Headlines | Gilead Sciences, Inc. Stock - Yahoo Finance
+1564,0.584070796460177,original_not_found,Wal-Mart joins Best Buy, Target in market for video game trade-ins,Wal-Mart expands video game trade-ins to stores
+1568,0.4954128440366973,original_not_found,Walmart Will Start to Accept Video Games in Exchange for Groceries,Wal-Mart Wants to Buy Your Used Video Games
+1572,0.0898876404494382,original_not_found,WHY NOBODY IN RUSSIA IS SMIRKING OVER OBAMA'S SANCTIONS,Don＊t rehabilitate Obama on Russia
+1577,0.5365853658536586,original_not_found,Walmart To Buy Back Games,Walmart Trade-In
+1582,0.3826086956521739,original_not_found,Oracle Price Target Raised to $43.00 at Stifel Nicolaus (ORCL),NYSE:ORCL - Price Target & Analyst Ratings for Oracle
+1587,0.5205479452054794,original_not_found,DC, Maryland and Virginia shed jobs in January as their unemployment rates fall,America added 255,000 jobs in July, but unemployment rate unchanged
+1595,0.5168539325842697,original_not_found,Symantec Replaces Its CEO,Symantec replaces technology chief as CEO Bennett leads overhaul
+1600,0.4424778761061947,original_not_found,Walmart will let you trade in games for eGift cards,Walmart's trade-in program is here to make you some extra cash
+1605,0.34408602150537637,original_not_found,Budget 2014: ??1 coin to be replaced with new 12-sided design,New 1 coin to curb counterfeits
+1608,0.5294117647058824,original_not_found,'Walmart' jumps into used video game market with in-store and online trade-ins,Walmart Blog: Trade in used video games for Walmart credit
+1612,0.39316239316239315,original_not_found,Mt. Gox Lawsuit Judge Loosens Bitcoin Freeze to Chase Assets (2),judge freezes assets of Mt. Gox bitcoin exchange boss
+1619,0.46808510638297873,original_not_found,No faking: Royal Mint unveils 12-sided pound coin in a bid to prevent fraud,All change: how the Royal Mint is making the new 12-sided 1 coins
+1624,0.34408602150537637,original_not_found,Budget 2014: ??1 coin to be replaced with new 12-sided design,New 1 coin to curb counterfeits
+1626,0.4931506849315068,original_not_found,Bankrupt exchange discovers 200000 bitcoins previously thought stolen, but  ...,Failed MtGox exchange finds 200,000 Bitcoins in old wallet (Update)
+1627,0.4954128440366973,original_not_found,European shares fall back as Ukraine keeps investors on edge,Europe ditches Ukraine as it seeks to save Greece
+1632,0.4647887323943662,original_not_found,Gilead Sciences (GILD) Has Answers for Congress, Says Baird,Gilead Sciences (GILD) John C. Martin on Q3 2015 Results - Earnings Call Transcript
+1633,0.2882882882882883,original_not_found,Fake IRS agents con taxpayers out of $1 million,IRS Repeats Warning about Phone Scams | Internal Revenue Service
+1637,0.5,original_not_found,Symantec shares drop 10% after latest CEO departure,Symantec stock drops nearly 10% as outlook misses Street view
+1638,0.3235294117647059,original_not_found,European shares fall back as Ukraine keeps investors on edge,Three Years After Euromaidan, Naftogaz Remains Hostage To Ukrainian Politics
+1640,0.3917525773195876,original_not_found,Federal Reserve: Almost All Big US Banks Could Withstand Economic Jolt,Federal Reserve - Wikipedia
+1641,0.4444444444444444,original_not_found,Jobless rates mostly drop,Jobless rate for S'poreans and PRs holds steady
+1644,0.3617021276595745,original_not_found,18:36 - Media and communication groups slam Twitter ban,Banco Edwards (@BancoEdwards) | Twitter
+1648,0.4583333333333333,original_not_found,Marijuana packaging law clarified in Colorado, but potency caps unlikely,Marijuana Packaging Laws
+1656,0.4222222222222222,original_not_found,Watch out, GameStop, here comes Wal-Mart,GameStop down as Wal-Mart unveils trade-in program
+1665,0.463768115942029,original_not_found,Political Deal on EU Banking Union Completed,Banking union - Wikipedia
+1675,0.4909090909090909,original_not_found,Symantec Corporation (SYMC) news: Symantec: The Turnaround Is Still On Track,Symantec CEO Tells Turnaround Tale
+1676,0.4909090909090909,original_not_found,5 Things to Know in Florida for March 18,THE 15 BEST Things to Do in Florida - 2018 (with Photos) - TripAdvisor
+1677,0.5274725274725275,original_not_found,Bruno Guillon leaves Mulberry,Bruno Guillon's resignation from Mulberry comes as no surprise
+1679,0.4158415841584158,original_not_found,Twitter ban in Turkey: Not completely blocked,Whatsapp, Twitter and Facebook are now blocked in Turkey
+1688,0.3783783783783784,original_not_found,New pound coin will be harder to fake,New 1 coins 'being wrongly returned'
+1695,0.43870967741935485,original_not_found,New ??1 coin will look like the old threepenny bit as Government bids to cut down  ...,1 coin is to be scrapped: New version shaped like old threepenny bit
+1697,0.5362318840579711,original_not_found,Colorado Governor signs child-resistance packaging law for marijuana,Colorado governor signs laws regulating sale of recreational marijuana
+1699,0.5,original_not_found,Indiana's unemployment rate, at lowest level since 2008, drops below US average,Indiana's Unemployment Rate Lower than Surrounding States
+1701,0.5333333333333333,original_not_found,Active Morning Movers - Symantec Corporation (SYMC), Progressive Corp  ...,Symantec Corporation (SYMC) Pre-Market Trading
+1702,0.5217391304347826,original_not_found,Hong Kong Stocks Swing as Developers Drop, Solars Advance,Hong Kong stocks jump most in a month on techs, developers
+1706,0.2962962962962963,original_not_found,British chancellor reveals new pound as he prepares to deliver budget Eds: epa  ...,Philip Hammond announces date for 2018 autumn budget
+1715,0.30303030303030304,original_not_found,Missing Plane MH370: Fox News Host Bill Hemmer Says Malaysia Flight Will Be  ...,Fox＊s Bill Hemmer: ＆It Took 2,000 Years to Find Noah＊s Ark,＊ Will We Ever Find MH370?
+1722,0.41025641025641024,original_not_found,Record number of people employed in January helps improve unemployment  ...,U.S. jobs report in January likely to show meaty gain in hiring, low unemployment
+1729,0.42790697674418604,original_not_found,North Carolina Unemployment Rate for January Improves to 6.7 Percent, Just  ...,Ongoing Joblessness in North Carolina: Unemployment rate for African Americans fourth in nation, more than double the state＊s white rate
+1732,0.44642857142857145,original_not_found,NZ Orion crew still hopeful of plane clues,RNZAF Orion and crew busy on multiple fronts in the South West Pacific
+1733,0.43333333333333335,original_not_found,Mt. Gox exchange says it retains nearly a quarter of "lost" bitcoins,Mt. Gox finds forgotten wallet with 200,000 bitcoins
+1737,0.29411764705882354,original_not_found,Four British companies have made it onto to Ethisphere's annual list of the  ...,Ethisphere Announces 2010 World＊s Most Ethical Companies
+1738,0.3006535947712418,original_not_found,Five for Tuesday: Russia losing investors, Wal-mart's latest move to remain  ...,Dow closes 254 points lower as Walmart posts worst day since January 1988
+1748,0.4262295081967213,original_not_found,LIVE: 'Malaysia not hiding anything about missing flight MH370',Malaysia Airlines flight MH370: officials widen search area
+1754,0.5882352941176471,original_not_found,Walmart Launching Used Video Game Exchange,Wal-Mart Wants to Buy Your Used Video Games
+1756,0.34146341463414637,original_not_found,More Jobs, Lower Unemployment in NJ [AUDIO],N.J.'s unemployment rate at 11-year low
+1760,0.544,original_not_found,A look at Turkey's Twitter ban and ways users there are circumventing it,How Turkey's Twitter Users are Working Around the Ban
+1765,0.34615384615384615,original_not_found,IRS phone and email scan reaches Indiana,IRS Repeats Warning about Phone Scams | Internal Revenue Service
+1775,0.584070796460177,original_not_found,Wal-Mart joins Best Buy, Target in market for video game trade-ins,Wal-Mart expands video game trade-ins to stores
+1777,0.4077669902912621,original_not_found,Oracle Corp (ORCL) Misses Q3 EPS by 2c,Morgan Stanley: Oracle (NYSE:ORCL) Is A Buy Ahead Of The Q3 Print
+1778,0.36496350364963503,original_not_found,Congresswoman: Obama admin rule change lets insurance companies keep  ...,Obama admin. knew millions could not keep their health insurance
+1780,0.4462809917355372,original_not_found,Video Game Trade-In Business Heats Up as Wal-Mart Enters,Walmart Puts GameStop's Used Game Trade-In Business in Crosshairs
+1781,0.5714285714285714,original_not_found,Flight simulators like 1 owned by Malaysia Airlines pilot are used by enthusiasts  ...,Flight simulators used by enthusiasts worldwide
+1790,0.37383177570093457,original_not_found,Dollar up on Europe fears, yuan softens on reform,PBOC intervention imminent as yuan tumbles for seventh day
+1792,0.4946236559139785,original_not_found,EBay Applauds Icahn Backing Away From Push to Sell PayPal,Icahn drops eBay call to sell PayPal
+1794,0.5333333333333333,original_not_found,From ColumbusAlive.com,Columbus Day Activities
+1802,0.5185185185185185,original_not_found,NH unemployment rate drops to 4.7 percent,Maine＊s unemployment rate hits a new low
+1803,0.34234234234234234,original_not_found,New findings bring optimism to MH370 search operation,Malaysia Airlines flight MH370 | World news | The Guardian
+1809,0.22485207100591717,original_not_found,Wal-Mart takes aim at $2B used video game market - KTVN Channel 2 - Reno  ...,Apple says it will invest $1B to expand data center and build new shipping warehouse in Reno
+1815,0.49019607843137253,original_not_found,States with the lowest jobless rates,Here Are The States With The Highest And Lowest Unemployment Rates
+1816,0.5112781954887218,original_not_found,29 out of 30 US Banks pass Fed stress test: Bigger dividends to follow?,Deutsche Bank fails Fed stress test while 3 US lenders stumble
+1823,0.5652173913043478,original_not_found,Wal-Mart targets used-game trade,Wal-Mart entry into used videogames trade threatens GameStop
+1826,0.34532374100719426,original_not_found,Outrage over Turkey's Twittter ban ahead of polls, US concerned,Turkey's Twitter Ban Reveals Its Prime Minister's Real Identity: Honeybadger
+1828,0.5633802816901409,original_not_found,eBay Responds to Icahn,EBay responds to Icahn, says sticking with PayPal
+1836,0.4251968503937008,original_not_found,Wall Street's Ties to Putin Threatened as Sanctions Bite,Putin seeks to dial down tensions with US as sanctions continue to bite
+1837,0.30303030303030304,original_not_found,Missing Plane MH370: Fox News Host Bill Hemmer Says Malaysia Flight Will Be  ...,Fox＊s Bill Hemmer: ＆It Took 2,000 Years to Find Noah＊s Ark,＊ Will We Ever Find MH370?
+1838,0.4339622641509434,original_not_found,Nobody's laughing at Obama's sanctions now.,Here's How Obama's Russia Sanctions Will Destroy Vladimir Putin
+1853,0.575,original_not_found,Turkey President's Tweet Criticises Twitter Ban,Turkey's Gul condemns Twitter ban
+1857,0.2882882882882883,original_not_found,Fake IRS agents con taxpayers out of $1 million,IRS Repeats Warning about Phone Scams | Internal Revenue Service
+1860,0.24175824175824176,original_not_found,Nike 3Q gets boost from higher prices, demand,This is why Nike stock is crushing it: Analyst
+1865,0.40816326530612246,original_not_found,Searchers zero in on possible MH370 debris,Possible MH370 debris found after nearly 17 month search
+1866,0.5194805194805194,original_not_found,Users find ways to keep Turkish Twitter,How to get around Turkey's Twitter ban
+1867,0.2994652406417112,original_not_found,Missing Malaysian Airlines 370: Australian search aircraft finds some visible  ...,Missing flight MH370 'found' on Google Earth riddled with BULLET HOLES, crash investigation expert claims
+1869,0.26865671641791045,original_not_found,Today's Trending Ticker: Gamestop,Page Not Found - Finance Portfolio
+1871,0.5785123966942148,original_not_found,Airbnb raising cash at $10 billion valuation: report,Airbnb Is in Advanced Talks to Raise Funds at a $10 Billion Valuation
+1873,0.4050632911392405,original_not_found,Russian share index down 3pc,Russia stock market data - prices and news - FT.com
+1875,0.3888888888888889,original_not_found,BMW says expects to improve product pricing with new models,BMW expects sales growth as new X models launched in China market - Chinadaily.com.cn
+1892,0.5263157894736842,original_not_found,Budget 2014: Mixed Essex reaction to new ??1 coin by Royal Mint,Budget 2014: George Osborne to announce new 1 coin
+1898,0.432,original_not_found,Healthcare Stocks Undercut Earlier Market Advance; Gilead Sciences Sinks  ...,GILD:NASDAQ GS Stock Quote - Gilead Sciences Inc
+1899,0.4462809917355372,original_not_found,Video Game Trade-In Business Heats Up as Wal-Mart Enters,Walmart Puts GameStop's Used Game Trade-In Business in Crosshairs
+1903,0.5633802816901409,original_not_found,eBay Responds to Icahn,EBay responds to Icahn, says sticking with PayPal
+1909,0.49411764705882355,original_not_found,The US Economy, Is All About Marijuana Now,5 Economic Reasons to Legalize Marijuana --
+1910,0.5666666666666667,original_not_found,IRS watchdog says phone scam largest ever; more than 20000 people contacted  ...,IRS watchdog: Phone scam is largest ever
+1917,0.3620689655172414,original_not_found,Australia Renewing Jet Search Buoyed by French Satellite Imagery,French satellite images narrow down MH370 crash site
+1919,0.36764705882352944,original_not_found,Gilead Sciences, Inc. (GILD) news: Gilead discounts Sovaldi 99% for Egypt,Gilead offers Egypt new hepatitis C drug at 99 percent discount
+1926,0.5652173913043478,original_not_found,Wal-Mart targets used-game trade,Wal-Mart entry into used videogames trade threatens GameStop
+1932,0.45112781954887216,original_not_found,Missing Malaysia plane search gets impetus from French satellite images,MH370: is missing Malaysia Airlines plane in Cambodian jungle?
+1938,0.34375,original_not_found,New anti-counterfeit ??1 coin due for release in 2017,New one pound coin 'fake' found in change - could it end up in YOUR wallet?
+1945,0.3620689655172414,original_not_found,Australia Renewing Jet Search Buoyed by French Satellite Imagery,French satellite images narrow down MH370 crash site
+1949,0.4411764705882353,original_not_found,Niluksi Koswanage and Matt Siegel, Reuters,The Interview: Matt Siegel
+1950,0.578125,original_not_found,Turkish ban on Twitter over graft recordings appears to backfire with tech-savvy  ...,Turkey blocks Twitter over graft recordings
+1952,0.3442622950819672,original_not_found,Consumer Minute:IRS phone scam warnings & Starbucks is serving alcohol,Tax Scams/Consumer Alerts | Internal Revenue Service
+1969,0.5405405405405406,original_not_found,Things to know about the upcoming Obamacare deadline,Everything You Need to Know About Obamacare Open Enrollment
+1970,0.4,original_not_found,PNC Bank, PHH Mortgage Mortgage Rates Climbing Sunday Mar 23,Mortgage Rates Jump, Point To Housing Stall | .com
+1982,0.26277372262773724,original_not_found,UPDATE 4 (Day 15) MISSING MH370: US may give sonar gear to M'sia for search,MH370: is missing Malaysia Airlines plane in Cambodian jungle?
+1983,0.4230769230769231,original_not_found,NJ Unemployment Rate Falls,N.J.'s unemployment rate falls to 10-year low. Here's what that means for you.
+1990,0.3442622950819672,original_not_found,Consumer Minute:IRS phone scam warnings & Starbucks is serving alcohol,Tax Scams/Consumer Alerts | Internal Revenue Service
+1992,0.42424242424242425,original_not_found,Toyota may settle US criminal probe for $1.2 billion,Toyota to Pay $1.2 Billion to Settle U.S. Probe
+1993,0.48175182481751827,original_not_found,BMW CEO Reithofer says deliveries, profits will beat last year's record levels,BMW sees record 2012 sales, profits despite economy worries
+1997,0.3006535947712418,original_not_found,Five for Tuesday: Russia losing investors, Wal-mart's latest move to remain  ...,Dow closes 254 points lower as Walmart posts worst day since January 1988
+2004,0.578125,original_not_found,Turkish ban on Twitter over graft recordings appears to backfire with tech-savvy  ...,Turkey blocks Twitter over graft recordings
+2008,0.4444444444444444,original_not_found,Jobless rates mostly drop,Jobless rate for S'poreans and PRs holds steady
+2017,0.3619047619047619,original_not_found,Airbnb closes in on $400 million in next funding round,New Capital Could Raise Airbnb Value To $10 Billion
+2018,0.3925233644859813,original_not_found,Florida's Latest Job Figures Show a Decline in Unemployment,Florida＊s unemployment rate drops to 3.8 percent
+2022,0.4927536231884058,original_not_found,Bennett gets the boot as Symantec boss,Boot scaning | Symantec Connect
+2031,0.25210084033613445,original_not_found,BMW sees 2014 pretax profit up by single to double digit pct,BMW plans multi-billion euro cost cuts - magazine - ET Auto
+2041,0.4342105263157895,original_not_found,Oracle Price Target Increased to $40.00 by Analysts at Evercore Partners (ORCL),Oracle 'Lacks Catalysts To Drive Re-Rate,' Evercore ISI Says In Downgrade
+2048,0.36507936507936506,original_not_found,MISSING MH370: Object captured by satellite on Mar 18, says China,MH370: China releases satellite images of possible crash site
+2049,0.3617021276595745,original_not_found,18:36 - Media and communication groups slam Twitter ban,Banco Edwards (@BancoEdwards) | Twitter
+2050,0.47619047619047616,original_not_found,German ZEW Investor Confidence Declined for Third Month in March,Forex News 每 German investor sentiment declines to 7-month low
+2053,0.42,original_not_found,Seasonally adjusted unemployment rates in state, region fall in January,Unemployment Rates for States
+2054,0.4583333333333333,original_not_found,Dreamliner judged safe after review,Dreamliner 787 safe? or not? - Air Travel Forum - TripAdvisor
+2058,0.47619047619047616,original_not_found,Two Objects Found, Possibly From Missing Malaysia Airlines Plane,MH370: is missing Malaysia Airlines plane in Cambodian jungle?
+2062,0.5497076023391813,original_not_found,January jobless rate falls to 6.7 percent for North Carolina, just above national  ...,N.C. January unemployment rate falls to 6.7 percent | Local Business | journalnow.com
+2070,0.5714285714285714,original_not_found,Walmart Going After GameStop with Used Games Push,Wal-Mart muscles into GameStop territory in used videogame push
+2077,0.5585585585585585,original_not_found,Comcast-Time Warner Merger Faces State-Level Investigation,Comcast- Warner Cable Deal Faces Scrutiny From States
+2081,0.59375,original_not_found,Walmart Opens New C-store,Walmart Opening More Convenience Stores
+2082,0.5333333333333333,original_not_found,Crimea hits German investor sentiment,Print: Ifo: Crimea Crisis Hits German Business Confidence 〞 Naharnet
+2084,0.4077669902912621,original_not_found,Commerce Bank and BMO Harris Tied with Similar Mortgage Rates Today  ...,BMO Harris Bank CD Rates | .com
+2087,0.43902439024390244,original_not_found,Symantec shares drop 10% after latest CEO departure,Symantec stock drops after earnings include weaker-than-expected outlook
+2092,0.5617977528089888,original_not_found,President Of Turkey, Abdullah Gul Criticizes Twitter Ban,Turkey's Gul condemns Twitter ban
+2094,0.45112781954887216,original_not_found,Missing Malaysia plane search gets impetus from French satellite images,MH370: is missing Malaysia Airlines plane in Cambodian jungle?
+2109,0.4774193548387097,original_not_found,Sally Beauty Holdings, Inc. (SBH) news: Sally Beauty Holdings: Looks To Be A  ...,Can this Rally be sustained? Sally Beauty Holdings, Inc. (SBH) | NMSU News
+2119,0.24175824175824176,original_not_found,Nike 3Q gets boost from higher prices, demand,This is why Nike stock is crushing it: Analyst
+2122,0.37037037037037035,original_not_found,Russian stocks pressured, Visa, MasterCard stop serving 2 Russia banks,MasterCard sees threat in Putin's plans for Russian payment cards
+2128,0.26277372262773724,original_not_found,UPDATE 4 (Day 15) MISSING MH370: US may give sonar gear to M'sia for search,MH370: is missing Malaysia Airlines plane in Cambodian jungle?
+2130,0.20689655172413793,original_not_found,Russian stocks down as banks suffer amid sanctions - KTVN Channel 2 - Reno  ...,NevadaLabor.com Bulletins 8/1-9/22/06
+2142,0.36904761904761907,original_not_found,US appeals court hands defeat to retailers; upholds Fed's cap on debit card  ...,US judge strikes Federal Reserve rule setting 24-cent cap on debit-card transaction fees
+2152,0.2727272727272727,original_not_found,Revisions show NJ added 18800 jobs in 2013,Career Connections | Understand the Job Market
+2161,0.4897959183673469,original_not_found,Is the price right?,The Price Is Right - Wikipedia
+2169,0.5112781954887218,original_not_found,Vectra parent Zions is lone bank to fail latest Fed stress test (Video),Deutsche Bank fails Fed stress test while 3 US lenders stumble
+2174,0.45255474452554745,original_not_found,Turkish deputy PM expects block on Twitter to be temporary,Turkish Deputy PM Denounced for Misleading Twitter Pictures on Rakhine Conflict
+2185,0.2916666666666667,original_not_found,Report: Bike-share program in financial trouble,Wait, Chinese Bike-Sharing Doesn't Make Any Sense
+2197,0.5038167938931297,original_not_found,AUGUSTA, Maine (AP) ?? Maine's unemployment fell slightly to 6.2 percent in  ...,Maine unemployment rate rose slightly in September
+2206,0.37681159420289856,original_not_found,Wal-Mart to accept game trade-ins; In-store credit can apply to non-gaming items,Walmart Blog: Trade in used video games for Walmart credit
+2207,0.5688073394495413,original_not_found,Walmart will let you trade in games for eGift cards,Walmart Blog: Trade in used video games for Walmart credit
+2215,0.5871559633027523,original_not_found,Canada Joins US in Broadening Sanctions Against Russia,Further Toughening of Canada＊s Sanctions Against Russia
+2217,0.5426356589147286,original_not_found,Russian stocks down after US sanction announcement,Russia stocks fall after US vows further sanctions; Rusal slumps to record lows
+2225,0.5454545454545454,original_not_found,Boss quits Mulberry after two years,Mulberry boss Guillon quits after turbulent two years
+2226,0.5194805194805194,original_not_found,Users find ways to keep Turkish Twitter,How to get around Turkey's Twitter ban
+2229,0.42,original_not_found,Seasonally adjusted unemployment rates in state, region fall in January,Unemployment Rates for States
+2230,0.3442622950819672,original_not_found,Consumer Minute:IRS phone scam warnings & Starbucks is serving alcohol,Tax Scams/Consumer Alerts | Internal Revenue Service
+2231,0.4,original_not_found,France: Russia suspended from G-8,Russia just quit the G8 for good
+2235,0.3673469387755102,original_not_found,New ??1 coin to show a dozen sides,The New 1 Coin
+2236,0.47619047619047616,original_not_found,German ZEW Investor Confidence Declined for Third Month in March,Forex News 每 German investor sentiment declines to 7-month low
+2243,0.5112781954887218,original_not_found,Vectra parent Zions is lone bank to fail latest Fed stress test (Video),Deutsche Bank fails Fed stress test while 3 US lenders stumble
+2246,0.5360824742268041,original_not_found,Walmart Joins The Used Game Market,GameStop shares dive after Walmart joins used video game market
+2254,0.4875,original_not_found,Va.'s January unemployment falls to 5 percent; still below national average,Veteran Unemployment Still Below National Average; Post-9/11 Annual Rate Falls to 9.9
+2256,0.5263157894736842,original_not_found,In Brief: Unemployment rates drop in 43 US states in January,Harmonised Unemployment Rates (HURs), OECD - Updated: January 2018 - OECD
+2257,0.43870967741935485,original_not_found,New ??1 coin will look like the old threepenny bit as Government bids to cut down  ...,1 coin is to be scrapped: New version shaped like old threepenny bit
+2259,0.4794520547945205,original_not_found,Australia vows to search 'again and again' until missing airliner found,Australian and Malaysian PMs vow search for missing plane will go on | News
+2276,0.42424242424242425,original_not_found,Toyota may settle US criminal probe for $1.2 billion,Toyota to Pay $1.2 Billion to Settle U.S. Probe
+2278,0.460431654676259,original_not_found,Missing Malaysian jet most likely in southern Indian Ocean, investigators say,MH370: is missing Malaysia Airlines plane in Cambodian jungle?
+2279,0.48175182481751827,original_not_found,BMW CEO Reithofer says deliveries, profits will beat last year's record levels,BMW sees record 2012 sales, profits despite economy worries
+2280,0.5168539325842697,original_not_found,Symantec Replaces Its CEO,Symantec replaces technology chief as CEO Bennett leads overhaul
+2281,0.5116279069767442,original_not_found,Nobody's laughing at Obama's sanctions now.,Russian Deputy PM Laughs at Obama Sanctions
+2291,0.4946236559139785,original_not_found,EBay Applauds Icahn Backing Away From Push to Sell PayPal,Icahn drops eBay call to sell PayPal
+2295,0.4657534246575342,original_not_found,BMW sees 2014 pretax profit up by single to double digit percent,BMW considers raising U.S. capacity, expects pretax profit to rise 'significantly'
+2299,0.5797101449275363,original_not_found,VIDEO: French satellite image could show plane debris: Malaysian Transport  ...,French satellites spot possible debris from Malaysian plane
+2303,0.52,original_not_found,Still uninsured? Beware Obamacare's narrow network,Why 27 Million Are Still Uninsured Under Obamacare
+2304,0.4444444444444444,original_not_found,Airbnb's $11b valuation raises eyebrows,gunnisontimes.com: Campaign flyer raises eyebrows
+2318,0.4485981308411215,original_not_found,US levying new economic sanctions against Russia over Crimea,imposes sanctions on 'Putin's bridge' to Crimea
+2324,0.5166666666666667,original_not_found,Minneapolis Fed chief criticizes latest policy statement,Minneapolis fed chief prepares for second symposium on big banks
+2330,0.53125,original_not_found,Advancing, recognizing best practices in business ethics,How To Get Your Company Back On Track: Best Practices In Business Ethics
+2335,0.2994652406417112,original_not_found,Missing Malaysian Airlines 370: Australian search aircraft finds some visible  ...,Missing flight MH370 'found' on Google Earth riddled with BULLET HOLES, crash investigation expert claims
+2342,0.5569620253164557,original_not_found,Symantec sacks CEO for second time in two years,Symantec sacks CEO Steve Bennett
+2343,0.5871559633027523,original_not_found,Canada Joins US in Broadening Sanctions Against Russia,Further Toughening of Canada＊s Sanctions Against Russia
+2348,0.37383177570093457,original_not_found,Dollar up on Europe fears, yuan softens on reform,PBOC intervention imminent as yuan tumbles for seventh day
+2355,0.5426356589147286,original_not_found,Russian stocks down after US sanction announcement,Russia stocks fall after US vows further sanctions; Rusal slumps to record lows
+2357,0.4523809523809524,original_not_found,Missing Malaysian plane: More planes join ocean hunt,Missing plane search intensifies
+2363,0.5,original_not_found,Indiana's unemployment rate, at lowest level since 2008, drops below US average,Indiana's Unemployment Rate Lower than Surrounding States
+2364,0.36363636363636365,original_not_found,Forex - Euro hits session lows amid Ukraine escalation fears,EUR/USD fades new 2018 lows amid USD profit-taking
+2365,0.59375,original_not_found,Walmart Opens New C-store,Walmart Opening More Convenience Stores
+2368,0.3917525773195876,original_not_found,FHFA MBS Settlements Surpass $10 Billion,FHFA Announces $1.9 Billion Settlement With Deutsche Bank
+2371,0.45588235294117646,original_not_found,Company Update: Kimberly-Clark Corporation (NYSE:KMB) ?? Kimberly-Clark  ...,KMB : Summary for Kimberly-Clark Corporation - Yahoo Finance
+2372,0.5365853658536586,original_not_found,Walmart To Buy Back Games,Walmart Trade-In
+2375,0.29333333333333333,original_not_found,Four British companies have made it onto to Ethisphere's annual list of the  ...,M&S among four UK firms named on world＊s ＆most ethical＊ companies list
+2383,0.5666666666666667,original_not_found,IRS watchdog says phone scam largest ever; more than 20000 people contacted  ...,IRS watchdog: Phone scam is largest ever
+2385,0.4854368932038835,original_not_found,Do you like the new pound coin designed to tackle forgery?,U.K. introduces new pound coin to fight fraud
+2393,0.46808510638297873,original_not_found,No faking: Royal Mint unveils 12-sided pound coin in a bid to prevent fraud,All change: how the Royal Mint is making the new 12-sided 1 coins
+2396,0.40816326530612246,original_not_found,Searchers zero in on possible MH370 debris,Possible MH370 debris found after nearly 17 month search
+2401,0.47692307692307695,original_not_found,Hawaii's unemployment declines in January to 4.6 percent,David Y. Ige | NEWS RELEASE: Hawaii＊s Unemployment Rate at 2.1% in January
+2402,0.5633802816901409,original_not_found,eBay Responds to Icahn,EBay responds to Icahn, says sticking with PayPal
+2406,0.2916666666666667,original_not_found,Report: Bike-share program in financial trouble,Wait, Chinese Bike-Sharing Doesn't Make Any Sense
+2413,0.29411764705882354,original_not_found,Revised data NJ unemployment drop was smoother than previously reported  ...,US weekly jobless claims drop to the lowest level since 1969
+2415,0.47863247863247865,original_not_found,Walmart US adds gaming service in push to boost electronic sales,How Walmart is Transforming to Better Serve Customers
+2417,0.47058823529411764,original_not_found,Norton antivirus software maker Symantec fires CEO, names director as  ...,Symantec fires CEO Bennett, names Brown as interim replacement
+2418,0.36231884057971014,original_not_found,Wal-Mart Stores Inc (NYSE:WMT) | [video] Wal-Mart to Enter Used Videogame  ...,Wal-Mart entry into used videogames trade threatens GameStop
+2423,0.4158415841584158,original_not_found,Twitter ban in Turkey: Not completely blocked,Whatsapp, Twitter and Facebook are now blocked in Turkey
+2426,0.3684210526315789,original_not_found,Obama goes to the hoop in order to score more health insurance enrollments,Trump signs order hitting Obamacare, eyes changes to job-based health coverage
+2427,0.30357142857142855,original_not_found,Area employment dips with loss of holiday jobs in January,Seasonal Jobs, Employment in Green Bay, WI | Indeed.com
+2432,0.34234234234234234,original_not_found,Bank of America passes stress test, but not without hiccups (Video),Nearly All U.S. Banks Pass Fed＊s Stress Test
+2437,0.544,original_not_found,A look at Turkey's Twitter ban and ways users there are circumventing it,How Turkey's Twitter Users are Working Around the Ban
+2439,0.47619047619047616,original_not_found,Two Objects Found, Possibly From Missing Malaysia Airlines Plane,MH370: is missing Malaysia Airlines plane in Cambodian jungle?
+2459,0.25210084033613445,original_not_found,BMW sees 2014 pretax profit up by single to double digit pct,BMW plans multi-billion euro cost cuts - magazine - ET Auto
+2461,0.37209302325581395,original_not_found,Twitter's Turkey Hit Exposes Vulnerability,Turkish Stocks Look Cheap Post 'Shock' Election But Currency Vulnerability Weighs Heavy
+2462,0.5825242718446602,original_not_found,Russian stocks fall on opening after US sanctions,Russia hits back at ＆unpredictable＊ US after sanctions
+2467,0.31343283582089554,original_not_found,TradeTheNews.com EU Market Update: European markets weather more  ...,Trade The News: Real time stock, forex, bond news analysis squawk
+2469,0.4794520547945205,original_not_found,Australia vows to search 'again and again' until missing airliner found,Australian and Malaysian PMs vow search for missing plane will go on | News
+2474,0.4195121951219512,original_not_found,Unemployment rates drop in 43 US states in January; Ohio gains second-most  ...,State unemployment rates for February down in 7 states, unchanged in 43 : The Economics Daily: U.S. Bureau of Labor Statistics
+2485,0.4,original_not_found,REPEAT: German ZEW Economic Confidence Weakens Sharply,ZEW Press Release: Economic Outlook Worsens Considerably
+2489,0.4044943820224719,original_not_found,Turkish president sends tweet denouncing government Twitter ban,#turkey hashtag on Twitter
+2508,0.40816326530612246,original_not_found,Searchers zero in on possible MH370 debris,Possible MH370 debris found after nearly 17 month search
+2509,0.375,original_not_found,Wal-Mart to give store credit for video game trade-ins,Walmart Blog: Trade in used video games for Walmart credit
+2515,0.46464646464646464,original_not_found,Airbnb on way to becoming $10b startup,Airbnb said to pursue valuation above $10b - The Boston Globe
+2518,0.4727272727272727,original_not_found,Wal-Mart to accept video game trade-ins,Walmart Trade-In
+2519,0.5714285714285714,original_not_found,Affordable Care Act: Some may have more time to apply,Affordable Care Act Information
+2522,0.5194805194805194,original_not_found,Users find ways to keep Turkish Twitter,How to get around Turkey's Twitter ban
+2532,0.3917525773195876,original_not_found,FHFA MBS Settlements Surpass $10 Billion,FHFA Announces $1.9 Billion Settlement With Deutsche Bank
+2549,0.3617021276595745,original_not_found,18:36 - Media and communication groups slam Twitter ban,Banco Edwards (@BancoEdwards) | Twitter
+2563,0.448,original_not_found,New ??1 coin unveiled by Chancellor George Osborne,Royal Mint unveils new 1 coin ahead of George Osborne election budget 2015
+2564,0.2857142857142857,original_not_found,Wal-Mart, video game trade-in: Stores to accept video game trade-ins,Walmart Trade-In
+2565,0.4727272727272727,original_not_found,Wal-Mart to accept video game trade-ins,Walmart Trade-In
+2567,0.4195804195804196,original_not_found,BMW CEO Reithofer says deliveries, profits will beat last year's record levels  ...,BMW beats profit forecast on record sales, sees some hurdles
+2568,0.4077669902912621,original_not_found,Oracle Corp (ORCL) Misses Q3 EPS by 2c,Morgan Stanley: Oracle (NYSE:ORCL) Is A Buy Ahead Of The Q3 Print
+2570,0.5303030303030303,original_not_found,8 Planes Search Indian Ocean with No Sign of Flight 370,New scan of 80,000 km of the Indian Ocean floor finds no sign of Flight MH370
+2572,0.5166666666666667,original_not_found,Minneapolis Fed chief criticizes latest policy statement,Minneapolis fed chief prepares for second symposium on big banks
+2575,0.1981981981981982,original_not_found,Active Morning Movers - Symantec Corporation (SYMC), Progressive Corp  ...,Vetr.com | Crowdsourced Stock Ratings
+2576,0.24615384615384617,original_not_found,Why Verisign (NASDAQ:VRSN) Shares Got Hammered on Tuesday with, DSW  ...,DSW shares skyrocket after retailer posts blowout earnings
+2578,0.4485981308411215,original_not_found,US levying new economic sanctions against Russia over Crimea,imposes sanctions on 'Putin's bridge' to Crimea
+2580,0.5671641791044776,original_not_found,Symantec Corporation (NASDAQ:SYMC) Appoints Michael Brown As Its Interim  ...,Symantec Appoints Michael Brown as CEO | SecurityWeek.Com
+2588,0.37681159420289856,original_not_found,Wal-Mart to accept game trade-ins; In-store credit can apply to non-gaming items,Walmart Blog: Trade in used video games for Walmart credit
+2590,0.3050847457627119,original_not_found,Morning Buzzers ?? Symantec Corporation (NASDAQ:SYMC), The Progressive  ...,SYMC:NASDAQ GS Stock Quote - Symantec Corp
+2592,0.5263157894736842,original_not_found,Budget 2014: Mixed Essex reaction to new ??1 coin by Royal Mint,Budget 2014: George Osborne to announce new 1 coin
+2595,0.5135135135135135,original_not_found,Pentagon says captured oil tanker to be handed over to Libyan government in  ...,US sailors hand over control of captured oil tanker to Libyan forces
+2599,0.27672955974842767,original_not_found,Fake IRS Agents Swindle More Than $1 Million from Victims,Fake IRS agents target over 20,000 taxpayers in largest phone scam the agency has seen - NY Daily News
+2601,0.5666666666666667,original_not_found,IRS watchdog says phone scam largest ever; more than 20000 people contacted  ...,IRS watchdog: Phone scam is largest ever
+2603,0.448,original_not_found,New ??1 coin unveiled by Chancellor George Osborne,Royal Mint unveils new 1 coin ahead of George Osborne election budget 2015
+2604,0.4411764705882353,original_not_found,Niluksi Koswanage and Matt Siegel, Reuters,The Interview: Matt Siegel
+2605,0.4566929133858268,original_not_found,Russian stocks tumble, Visa, MasterCard stop serving two Russia banks amid  ...,Russian stocks tumble 9% on US sanctions worries
+2608,0.5035971223021583,original_not_found,Wal-Mart Stores, Inc. Announces Video Game Trade-In Service; GameStop Corp  ...,Wal-Mart entry into used videogames trade threatens GameStop
+2609,0.5263157894736842,original_not_found,US States to Help DOJ Assess Comcast's TWC Acquisition,Multiple states join DOJ in reviewing Comcast's TWC purchase
+2613,0.40707964601769914,original_not_found,LinkedIn Corp (LNKD) CEO named the best by Glassdoor,LinkedIn Top Companies 2018: Where the U.S. wants to work now
+2617,0.45161290322580644,original_not_found,Citi Bullish on Oracle Corporation Short-term, SAP AG Long-term,Oracle Corporation - Wikipedia
+2622,0.41025641025641024,original_not_found,Record number of people employed in January helps improve unemployment  ...,U.S. jobs report in January likely to show meaty gain in hiring, low unemployment
+2625,0.46808510638297873,original_not_found,No faking: Royal Mint unveils 12-sided pound coin in a bid to prevent fraud,All change: how the Royal Mint is making the new 12-sided 1 coins
+2638,0.45588235294117646,original_not_found,Company Update: Kimberly-Clark Corporation (NYSE:KMB) ?? Kimberly-Clark  ...,KMB : Summary for Kimberly-Clark Corporation - Yahoo Finance
+2640,0.5892857142857143,original_not_found,Gold Silver & Copper Have Little Reaction To Fed Statement,Gold Weaker, No Reaction To As-Expected FOMC Statement
+2642,0.5555555555555556,original_not_found,Forex - Euro touches session lows after German ZEW misses,European Session 每 Euro bounces after German ZEW hits 2-1/2 year high
+2648,0.3652173913043478,original_not_found,Marketwired Shuts Off Traders Amid New York Fairness Probe (1),Marketwired to stop selling to high-frequency traders
+2650,0.449438202247191,original_not_found,Wal-Mart aims to shake winter with sales push,Spring thaw: Wal-Mart unleashes garden sales
+2654,0.5142857142857142,original_not_found,New unemployment numbers for Fla. due out Monday,Unemployment numbers starting to rise slightly in Florida
+2658,0.22485207100591717,original_not_found,Wal-Mart takes aim at $2B used video game market - KTVN Channel 2 - Reno  ...,Apple says it will invest $1B to expand data center and build new shipping warehouse in Reno
+2668,0.4788732394366197,original_not_found,UK Market Slides, Resolution Drops,Sterling slides as UK inflation drops
+2671,0.544,original_not_found,A look at Turkey's Twitter ban and ways users there are circumventing it,How Turkey's Twitter Users are Working Around the Ban
+2674,0.54,original_not_found,Walmart Video Game Trade-in Program Launches March 26,Wal-Mart expands video game trade-ins to stores
+2677,0.559322033898305,original_not_found,Walmart announces game trade-in program and certified pre-owned game sales,Walmart Announces Foray Into Pre-Owned Games
+2684,0.575,original_not_found,Turkey President's Tweet Criticises Twitter Ban,Turkey's Gul condemns Twitter ban
+2686,0.4380952380952381,original_not_found,FXBeat US wrap: Mild sanctions lift risk sentiment,U.S. reimposes Iran sanctions lifted under nuclear deal
+2689,0.5294117647058824,original_not_found,Malaysia Airlines MH370: Search for missing jet shifts north after French satellite  ...,Malaysia Airlines MH370: March 28 as it happened
+2694,0.4142857142857143,original_not_found,Mt. Gox exchange says it retains nearly a quarter of "lost" bitcoins,Mt. Gox Crypto Battle Continues To Rage Over Who Gets Lost Bitcoin Funds
+2698,0.5333333333333333,original_not_found,From ColumbusAlive.com,Columbus Day Activities
+2706,0.5035971223021583,original_not_found,Wal-Mart Stores, Inc. Announces Video Game Trade-In Service; GameStop Corp  ...,Wal-Mart entry into used videogames trade threatens GameStop
+2717,0.5555555555555556,original_not_found,Forex - Euro touches session lows after German ZEW misses,European Session 每 Euro bounces after German ZEW hits 2-1/2 year high
+2721,0.30303030303030304,original_not_found,Missing Plane MH370: Fox News Host Bill Hemmer Says Malaysia Flight Will Be  ...,Fox＊s Bill Hemmer: ＆It Took 2,000 Years to Find Noah＊s Ark,＊ Will We Ever Find MH370?
+2722,0.42857142857142855,original_not_found,Twitter Access Restricted After Turkish PM Threatens Social Media,Turkey blocks use of Twitter after prime minister attacks social media site
+2728,0.42,original_not_found,Seasonally adjusted unemployment rates in state, region fall in January,Unemployment Rates for States
+2732,0.4077669902912621,original_not_found,Oracle Corp (ORCL) Misses Q3 EPS by 2c,Morgan Stanley: Oracle (NYSE:ORCL) Is A Buy Ahead Of The Q3 Print
+2733,0.5294117647058824,original_not_found,Gilead Sciences Receives ??Buy?? Rating from Deutsche Bank (GILD),Gilead Sciences Buy by Deutsche Bank AG from 06/23/17 | Markets Insider
+2737,0.47619047619047616,original_not_found,Two Objects Found, Possibly From Missing Malaysia Airlines Plane,MH370: is missing Malaysia Airlines plane in Cambodian jungle?
+2738,0.5317919075144508,original_not_found,A new 12-sided one pound coin based on the threepenny bit is being unveiled  ...,REVEALED: The new 12-sided pound coin - and the deadline for spending your old 'round pounds'
+2740,0.463768115942029,original_not_found,Political Deal on EU Banking Union Completed,Banking union - Wikipedia
+2742,0.5252525252525253,original_not_found,Walmart Gets Into The Used Games Business,Wal-Mart to challenge GameStop in used video game business
+2744,0.49019607843137253,original_not_found,Unemployment rates for the counties of eastern Alabama in January.,Alabama unemployment rates by county
+2747,0.4626865671641791,original_not_found,Walmart says PS4 & Xbox One allowing used games was a reason for the move,Walmart Starts Selling Used Games, But GameStop Isn't Worried
+2756,0.5205479452054794,original_not_found,DC, Maryland and Virginia shed jobs in January as their unemployment rates fall,America added 255,000 jobs in July, but unemployment rate unchanged
+2763,0.31683168316831684,original_not_found,Russia's Bank Rossiya says works as usual after U.S. sanctions,Russia sanctions: What you need to know
+2766,0.43478260869565216,original_not_found,Budget 2014: New ??1 Coin Is Blast From The Past,A blast from the past
+2774,0.4774193548387097,original_not_found,Sally Beauty Holdings, Inc. (SBH) news: Sally Beauty Holdings: Looks To Be A  ...,Can this Rally be sustained? Sally Beauty Holdings, Inc. (SBH) | NMSU News
+2778,0.2545454545454545,original_not_found,BMW - Bayerische Motoren Werke AG: BMW Group looks ahead to 2014 with  ...,BMW Group - Company - Press releases
+2781,0.4,original_not_found,PNC Bank, PHH Mortgage Mortgage Rates Climbing Sunday Mar 23,Mortgage Rates Jump, Point To Housing Stall | .com
+2786,0.2620689655172414,original_not_found,Pound no longer round: New ??1 sterling coin will be counterfeit proof,New one pound coin 'fake' found in change - could it end up in YOUR wallet?
+2792,0.3939393939393939,original_not_found,Bank of America Corp (BAC) news: Bank Of America: No. 28 For Yellen, No. 1  ...,Bank of America Corporation Price to Book Value (BAC)
+2797,0.5166666666666667,original_not_found,Minneapolis Fed chief criticizes latest policy statement,Minneapolis fed chief prepares for second symposium on big banks
+2799,0.5714285714285714,original_not_found,Flight simulators like 1 owned by Malaysia Airlines pilot are used by enthusiasts  ...,Flight simulators used by enthusiasts worldwide
+2808,0.40707964601769914,original_not_found,LinkedIn Corp (LNKD) CEO named the best by Glassdoor,LinkedIn Top Companies 2018: Where the U.S. wants to work now
+2820,0.4793388429752066,original_not_found,China Mobile Ltd. ADR (CHL) News Analysis: Stock Down After Company  ...,China Mobile Ltd. (ADR) is Too Cheap to Ignore --
+2823,0.47863247863247865,original_not_found,Walmart US adds gaming service in push to boost electronic sales,How Walmart is Transforming to Better Serve Customers
+2826,0.2807017543859649,original_not_found,Walmart Entering The Used Game Market, GameStop's Shares Fall,GameStop's secret weapon against Wal-Mart's incursion
+2827,0.4485981308411215,original_not_found,US levying new economic sanctions against Russia over Crimea,imposes sanctions on 'Putin's bridge' to Crimea
+2830,0.5688073394495413,original_not_found,Walmart will let you trade in games for eGift cards,Walmart Blog: Trade in used video games for Walmart credit
+2834,0.3888888888888889,original_not_found,BMW says expects to improve product pricing with new models,BMW expects sales growth as new X models launched in China market - Chinadaily.com.cn
+2838,0.4,original_not_found,PNC Bank, PHH Mortgage Mortgage Rates Climbing Sunday Mar 23,Mortgage Rates Jump, Point To Housing Stall | .com
+2842,0.2727272727272727,original_not_found,Revisions show NJ added 18800 jobs in 2013,Career Connections | Understand the Job Market
+2847,0.4142857142857143,original_not_found,Mt. Gox exchange says it retains nearly a quarter of "lost" bitcoins,Mt. Gox Crypto Battle Continues To Rage Over Who Gets Lost Bitcoin Funds
+2848,0.36507936507936506,original_not_found,MISSING MH370: Object captured by satellite on Mar 18, says China,MH370: China releases satellite images of possible crash site
+2858,0.5135135135135135,original_not_found,Pentagon says captured oil tanker to be handed over to Libyan government in  ...,US sailors hand over control of captured oil tanker to Libyan forces
+2859,0.46464646464646464,original_not_found,Airbnb on way to becoming $10b startup,Airbnb said to pursue valuation above $10b - The Boston Globe
+2861,0.47244094488188976,original_not_found,18:36 - Public figures, celebrities tweet about Twitter ban,How come celebrities never respond to fan tweets on Twitter? - Quora
+2865,0.4931506849315068,original_not_found,New ??1 coin: Do you like it? Will it fit in supermarket trolleys?,How new 1 coin will cause issues with supermarket trolleys and tickets machines
+2866,0.4662576687116564,original_not_found,Justice Department to reportedly announce Toyota settlement,Toyota and Justice Department said to reach $1.2 billion settlement in criminal case - Los Angeles Times
+2872,0.45528455284552843,original_not_found,REFILE-Chinese shares up on urbanisation investment plans,REFILE-China shares gain on FTSE Russell entry hopes, potential...
+2873,0.1568627450980392,original_not_found,Area joblessness up to 6.1%,Unemployment - Wikipedia
+2876,0.5454545454545454,original_not_found,Malaysian missing plane - searchers come up empty again,Search For Malaysia Airlines Plane Comes Up Empty Again
+2882,0.4897959183673469,original_not_found,Is the price right?,The Price Is Right - Wikipedia
+2885,0.46153846153846156,original_not_found,1.5M GM vehicles,GM announces recall of 1.5m vehicles
+2889,0.54,original_not_found,Walmart Video Game Trade-in Program Launches March 26,Wal-Mart expands video game trade-ins to stores
+2892,0.4875,original_not_found,Va.'s January unemployment falls to 5 percent; still below national average,Veteran Unemployment Still Below National Average; Post-9/11 Annual Rate Falls to 9.9
+2898,0.29333333333333333,original_not_found,Revised data NJ unemployment drop was smoother than previously reported  ...,Department of Labor and Workforce Development | Dec-21-17 Jobs Reach Historic Peak in New Jersey Private Sector Employment is Higher Than Ever Before
+2904,0.593103448275862,original_not_found,AUGUSTA, Maine (AP) ?? Maine's unemployment fell slightly to 6.2 percent in  ...,Maine＊s January unemployment rate declined slightly to 3 percent
+2912,0.4262295081967213,original_not_found,LIVE: 'Malaysia not hiding anything about missing flight MH370',Malaysia Airlines flight MH370: officials widen search area
+2915,0.4774193548387097,original_not_found,Sally Beauty Holdings, Inc. (SBH) news: Sally Beauty Holdings: Looks To Be A  ...,Can this Rally be sustained? Sally Beauty Holdings, Inc. (SBH) | NMSU News
+2916,0.4,original_not_found,France: Russia suspended from G-8,Russia just quit the G8 for good
+2919,0.375,original_not_found,Forex - JPY sightly weaker after Feb trade deficit higher than expected,Forex - USD/JPY - Impact of Japan＊s January Trade Balance
+2920,0.5660377358490566,original_not_found,Florida unemployment now at 6.1 percent, another 5-year low,Florida's unemployment rate lowest in six years
+2922,0.22641509433962265,original_not_found,IRS phone and email scan reaches Indiana,Access Denied
+2923,0.4380952380952381,original_not_found,FXBeat US wrap: Mild sanctions lift risk sentiment,U.S. reimposes Iran sanctions lifted under nuclear deal
+2924,0.33962264150943394,original_not_found,Australia vows to search 'again and again' until missing airliner found,Abbott vows to solve plane 'riddle'
+2930,0.40404040404040403,original_not_found,Federal Reserve: Almost All Big US Banks Could Withstand Economic Jolt,Federal Reserve balance sheet
+2932,0.5490196078431373,original_not_found,MH370 search: French satellites spot debris,French satellite spots 122 objects that may be MH370 debris
+2953,0.379746835443038,original_not_found,BMO Harris Bank: Monday's Mortgage Interest Rates Mar 17,Error | BMO Harris Bank
+2960,0.4827586206896552,original_not_found,EU and US condemn 'cowardly and pointless' Twitter ban,Turkey's Gul condemns Twitter ban
+2962,0.5985401459854015,original_not_found,Missing Malaysian jet most likely in southern Indian Ocean, investigators say,Malaysia＊s missing plane most likely in Indian Ocean: report
+2963,0.4523809523809524,original_not_found,Turks seek to challenge Twitter ban,Twitter challenges Turkey ban, Erdogan holds fast
+2968,0.5617977528089888,original_not_found,President Of Turkey, Abdullah Gul Criticizes Twitter Ban,Turkey's Gul condemns Twitter ban
+2969,0.4222222222222222,original_not_found,Watch out, GameStop, here comes Wal-Mart,GameStop down as Wal-Mart unveils trade-in program
+2980,0.3783783783783784,original_not_found,New pound coin will be harder to fake,New 1 coins 'being wrongly returned'
+2990,0.5660377358490566,original_not_found,Florida unemployment now at 6.1 percent, another 5-year low,Florida's unemployment rate lowest in six years
+2991,0.3291139240506329,original_not_found,Jobless rates mostly drop,Unemployment rate for Singaporeans drops to 3.2% in Q3
+2996,0.5825242718446602,original_not_found,Russian stocks fall on opening after US sanctions,Russia hits back at ＆unpredictable＊ US after sanctions
+2999,0.5252525252525253,original_not_found,Walmart Gets Into The Used Games Business,Wal-Mart to challenge GameStop in used video game business
+3005,0.4,original_not_found,Bank of America passes stress test, but not without hiccups (Video),Hunter Says Stress Tests Don't Account for Restructuring: Video
+3013,0.49019607843137253,original_not_found,Unemployment rates for the counties of eastern Alabama in January.,Alabama unemployment rates by county
+3014,0.36764705882352944,original_not_found,Gilead Sciences, Inc. (GILD) news: Gilead discounts Sovaldi 99% for Egypt,Gilead offers Egypt new hepatitis C drug at 99 percent discount
+3020,0.1568627450980392,original_not_found,Area joblessness up to 6.1%,Unemployment - Wikipedia
+3030,0.47058823529411764,original_not_found,Norton antivirus software maker Symantec fires CEO, names director as  ...,Symantec fires CEO Bennett, names Brown as interim replacement
+3051,0.35443037974683544,original_not_found,Bank Stress Test Results,Britain's Barclays, Lloyds shock in EU bank stress test
+3061,0.5892857142857143,original_not_found,Gold Silver & Copper Have Little Reaction To Fed Statement,Gold Weaker, No Reaction To As-Expected FOMC Statement
+3064,0.5892857142857143,original_not_found,Gold Silver & Copper Have Little Reaction To Fed Statement,Gold Weaker, No Reaction To As-Expected FOMC Statement
+3066,0.40404040404040403,original_not_found,Federal Reserve: Almost All Big US Banks Could Withstand Economic Jolt,Federal Reserve balance sheet
+3069,0.42790697674418604,original_not_found,North Carolina Unemployment Rate for January Improves to 6.7 Percent, Just  ...,Ongoing Joblessness in North Carolina: Unemployment rate for African Americans fourth in nation, more than double the state＊s white rate
+3070,0.42857142857142855,original_not_found,Twitter Access Restricted After Turkish PM Threatens Social Media,Turkey blocks use of Twitter after prime minister attacks social media site
+3074,0.43564356435643564,original_not_found,Market Preview: Putin's speech, EU and German sentiment data eyed,Putin's full Crimea speech annotated
+3079,0.45045045045045046,original_not_found,Russian stocks pressured, Visa, MasterCard stop serving 2 Russia banks,Visa, Mastercard Replaced by Russia's MIR
+3083,0.4,original_not_found,REPEAT: German ZEW Economic Confidence Weakens Sharply,ZEW Press Release: Economic Outlook Worsens Considerably
+3084,0.43478260869565216,original_not_found,Budget 2014: New ??1 Coin Is Blast From The Past,A blast from the past
+3085,0.5112781954887218,original_not_found,Vectra parent Zions is lone bank to fail latest Fed stress test (Video),Deutsche Bank fails Fed stress test while 3 US lenders stumble
+3088,0.4195121951219512,original_not_found,Unemployment rates drop in 43 US states in January; Ohio gains second-most  ...,State unemployment rates for February down in 7 states, unchanged in 43 : The Economics Daily: U.S. Bureau of Labor Statistics
+3101,0.5797101449275363,original_not_found,VIDEO: French satellite image could show plane debris: Malaysian Transport  ...,French satellites spot possible debris from Malaysian plane
+3107,0.37362637362637363,original_not_found,The Hardest Coin In The World To Fake,Coin Once Believed to Be Fake Is a Million Dollar Find
+3111,0.3673469387755102,original_not_found,New ??1 coin to show a dozen sides,The New 1 Coin
+3115,0.43478260869565216,original_not_found,Budget 2014: New ??1 Coin Is Blast From The Past,A blast from the past
+3116,0.4233576642335766,original_not_found,Pricing Game: Wal-Mart's online tool compares rivals' prices, offers shoppers  ...,Amazon trounces rivals in battle of the shopping 'bots'
+3118,0.3793103448275862,original_not_found,Mortgage Rates Up a Little at PHH Mortgage, HSBC and PNC Bank Today  ...,Home Mortgage Loan & Calculator | HSBC China
+3138,0.24615384615384617,original_not_found,Why Verisign (NASDAQ:VRSN) Shares Got Hammered on Tuesday with, DSW  ...,DSW shares skyrocket after retailer posts blowout earnings
+3146,0.2727272727272727,original_not_found,Revisions show NJ added 18800 jobs in 2013,Career Connections | Understand the Job Market
+3149,0.2857142857142857,original_not_found,Wal-Mart, video game trade-in: Stores to accept video game trade-ins,Walmart Trade-In
+3153,0.44642857142857145,original_not_found,NZ Orion crew still hopeful of plane clues,RNZAF Orion and crew busy on multiple fronts in the South West Pacific
+3159,0.3177570093457944,original_not_found,DC, Maryland and Virginia shed jobs in January as their unemployment rates fall,Maryland Economy at a Glance
+3160,0.4307692307692308,original_not_found,Symantec Corporation (SYMC) news: Symantec: The Turnaround Is Still On Track,SYMC: Summary for Symantec Corporation - Yahoo Finance
+3161,0.3793103448275862,original_not_found,Mortgage Rates Up a Little at PHH Mortgage, HSBC and PNC Bank Today  ...,Home Mortgage Loan & Calculator | HSBC China
+3162,0.42424242424242425,original_not_found,Toyota may settle US criminal probe for $1.2 billion,Toyota to Pay $1.2 Billion to Settle U.S. Probe
+3164,0.0898876404494382,original_not_found,WHY NOBODY IN RUSSIA IS SMIRKING OVER OBAMA'S SANCTIONS,Don＊t rehabilitate Obama on Russia
+3165,0.49019607843137253,original_not_found,Unemployment rates for the counties of eastern Alabama in January.,Alabama unemployment rates by county
+3166,0.3917525773195876,original_not_found,FHFA MBS Settlements Surpass $10 Billion,FHFA Announces $1.9 Billion Settlement With Deutsche Bank
+3169,0.4838709677419355,original_not_found,Tweeting continues in Turkey despite government ban,'Suffocating climate of fear' in Turkey despite end of state of emergency
+3172,0.5178571428571429,original_not_found,FOREX-Euro dips as Russia says won't annex other parts of Ukraine,Will Russia annex the whole of Ukraine? - Quora
+3174,0.36904761904761907,original_not_found,US appeals court hands defeat to retailers; upholds Fed's cap on debit card  ...,US judge strikes Federal Reserve rule setting 24-cent cap on debit-card transaction fees
+3176,0.22085889570552147,original_not_found,GameStop (GME) Slammed as Walmart (WMT) Announces Trade in Game Service,Walmart merchandise news negative for GameStop, says BofA/Merrill GME;WMT;FNKO;TGT - The Fly
+3183,0.4583333333333333,original_not_found,Dreamliner judged safe after review,Dreamliner 787 safe? or not? - Air Travel Forum - TripAdvisor
+3186,0.35443037974683544,original_not_found,Bank Stress Test Results,Britain's Barclays, Lloyds shock in EU bank stress test
+3187,0.5952380952380952,original_not_found,Credit Card Blocked In Russia As Sanctions Kick In,Credit card block at Russian banks
+3188,0.559322033898305,original_not_found,Walmart announces game trade-in program and certified pre-owned game sales,Walmart Announces Foray Into Pre-Owned Games
+3189,0.37606837606837606,original_not_found,Fed's Kocherlakota Blasts New Rate Guidance, Wants Low Rates For Longer,Narayana Kocherlakota: Low real interest rates
+3190,0.4523809523809524,original_not_found,Turks seek to challenge Twitter ban,Twitter challenges Turkey ban, Erdogan holds fast
+3191,0.3443708609271523,original_not_found,Congresswoman: Obama admin rule change lets insurance companies keep  ...,Congresswoman Virginia Foxx is on a quest to roll back Obama's workplace rules
+3195,0.3870967741935484,original_not_found,Price check: Wal-Mart widget compares prices for shoppers,25 Best Price Comparison Websites and Apps to Compare Prices Online
+3198,0.3925233644859813,original_not_found,Florida's Latest Job Figures Show a Decline in Unemployment,Florida＊s unemployment rate drops to 3.8 percent
+3209,0.4838709677419355,original_not_found,Tweeting continues in Turkey despite government ban,'Suffocating climate of fear' in Turkey despite end of state of emergency
+3211,0.2857142857142857,original_not_found,Dollar up on Europe fears, yuan softens on reform,Trump threatens to put tariffs on all $500bn Chinese imports 每 as it happened
+3214,0.48717948717948717,original_not_found,Tennessee's jobless rate dips,Tennessee unemployment rate drops to historic low
+3215,0.3620689655172414,original_not_found,Australia Renewing Jet Search Buoyed by French Satellite Imagery,French satellite images narrow down MH370 crash site
+3221,0.27419354838709675,original_not_found,18:36 - Public figures, celebrities tweet about Twitter ban,JK Rowling deals cunning blow in Twitter war against Piers Morgan
+3223,0.5161290322580645,original_not_found,South Carolina Jobless Rate Falls To 6.4% In January,South Carolina's jobless rate drops below 4%, reaching a new 17-year low
+3225,0.5052631578947369,original_not_found,UK Stocks Drop After Yellen Rate-Hike Comments as Glaxo Slips,Stocks Fall After Yellen＊s Remarks
+3231,0.34146341463414637,original_not_found,More Jobs, Lower Unemployment in NJ [AUDIO],N.J.'s unemployment rate at 11-year low
+3239,0.37142857142857144,original_not_found,Wal-Mart to give store credit for video game trade-ins,Walmart Trade-In
+3241,0.5952380952380952,original_not_found,Credit Card Blocked In Russia As Sanctions Kick In,Credit card block at Russian banks
+3243,0.5052631578947369,original_not_found,UK Stocks Drop After Yellen Rate-Hike Comments as Glaxo Slips,Stocks Fall After Yellen＊s Remarks
+3252,0.45528455284552843,original_not_found,Oracle Price Target Raised to $43.00 at Stifel Nicolaus (ORCL),Oracle (NYSE:ORCL) Stock Rating Reaffirmed by Stifel Nicolaus
+3257,0.578125,original_not_found,Turkish ban on Twitter over graft recordings appears to backfire with tech-savvy  ...,Turkey blocks Twitter over graft recordings
+3259,0.4,original_not_found,MH370 pilots 'not suspicious',Flight MH370: Could it have been suicide?
+3260,0.5904761904761905,original_not_found,US Officials Predict Sanctions Will Hit Putin Associates Hard,US slaps fresh sanctions on Putin associates
+3262,0.27672955974842767,original_not_found,Fake IRS Agents Swindle More Than $1 Million from Victims,Fake IRS agents target over 20,000 taxpayers in largest phone scam the agency has seen - NY Daily News
+3263,0.5142857142857142,original_not_found,New unemployment numbers for Fla. due out Monday,Unemployment numbers starting to rise slightly in Florida
+3267,0.375,original_not_found,Forex - JPY sightly weaker after Feb trade deficit higher than expected,Forex - USD/JPY - Impact of Japan＊s January Trade Balance
+3272,0.5555555555555556,original_not_found,Forex - Euro touches session lows after German ZEW misses,European Session 每 Euro bounces after German ZEW hits 2-1/2 year high
+3274,0.5555555555555556,original_not_found,Wal-Mart to buy used video games,Walmart Blog: Trade in used video games for Walmart credit
+3280,0.5818181818181818,original_not_found,VIDEO: Today's Trending Ticker: Gamestop,Today's Research Reports on Trending Tickers: Ulta Beauty and GameStop
+3284,0.27672955974842767,original_not_found,Fake IRS Agents Swindle More Than $1 Million from Victims,Fake IRS agents target over 20,000 taxpayers in largest phone scam the agency has seen - NY Daily News
+3288,0.48717948717948717,original_not_found,Tennessee's jobless rate dips,Tennessee unemployment rate drops to historic low
+3291,0.4,original_not_found,Ukraine fears drove ZEW fall, says economist,The Baltics fear European ※strategic autonomy§
+3298,0.3783783783783784,original_not_found,New pound coin will be harder to fake,New 1 coins 'being wrongly returned'
+3302,0.5365853658536586,original_not_found,Walmart To Buy Back Games,Walmart Trade-In
+3303,0.5423728813559322,original_not_found,Walmart to Accept Used Video Game Trade-Ins,Walmart Trade-In
+3306,0.5866666666666667,original_not_found,NJ Unemployment Rate Falls,New Jersey unemployment rate falls to 4.2 percent
+3311,0.3770491803278688,original_not_found,Bank of America Corp (BAC) news: Bank Of America: No. 28 For Yellen, No. 1  ...,BAC Bank of America Corporation Stock Quote
+3312,0.5274725274725275,original_not_found,Bruno Guillon leaves Mulberry,Bruno Guillon's resignation from Mulberry comes as no surprise
+3316,0.4421052631578947,original_not_found,Stocks Tumble in Russia After US Adds Sanctions,Russian stocks tumble 9% on US sanctions worries
+3319,0.34375,original_not_found,New anti-counterfeit ??1 coin due for release in 2017,New one pound coin 'fake' found in change - could it end up in YOUR wallet?
+3324,0.5652173913043478,original_not_found,Wal-Mart targets used-game trade,Wal-Mart entry into used videogames trade threatens GameStop
+3325,0.37362637362637363,original_not_found,The Hardest Coin In The World To Fake,Coin Once Believed to Be Fake Is a Million Dollar Find
+3326,0.5309734513274337,original_not_found,Searchers looking for missing Malaysia jet come up empty,Another Search Begins for Long-Missing Malaysian Airliner
+3327,0.39316239316239315,original_not_found,Twitter usage SOARS in Turkey, let alone succumbing to 'the ban',How Turkey's Twitter Users are Working Around the Ban
+3328,0.5871559633027523,original_not_found,VIDEO: Citi Bike in New York Needs Millions, Seeks Help,Citi Bike, Needing Millions of Dollars, Looks for Help
+3329,0.26143790849673204,original_not_found,Advancing, recognizing best practices in business ethics,Ethisphere to Open Application Process for the 2019 World's Most Ethical Companies List August 7
+3330,0.37606837606837606,original_not_found,Fed's Kocherlakota Blasts New Rate Guidance, Wants Low Rates For Longer,Narayana Kocherlakota: Low real interest rates
+3332,0.5362318840579711,original_not_found,Colorado Governor signs child-resistance packaging law for marijuana,Colorado governor signs laws regulating sale of recreational marijuana
+3333,0.46808510638297873,original_not_found,Game on! Wal-Mart gets into the video-game trade-in biz,Wal-Mart will buy your used video games
+3335,0.4233576642335766,original_not_found,Pricing Game: Wal-Mart's online tool compares rivals' prices, offers shoppers  ...,Amazon trounces rivals in battle of the shopping 'bots'
+3337,0.3793103448275862,original_not_found,Mortgage Rates Up a Little at PHH Mortgage, HSBC and PNC Bank Today  ...,Home Mortgage Loan & Calculator | HSBC China
+3341,0.5454545454545454,original_not_found,Malaysian missing plane - searchers come up empty again,Search For Malaysia Airlines Plane Comes Up Empty Again
+3343,0.584070796460177,original_not_found,New 12-sided pound coin is to replace the old on,All change: New 12-sided pound coin to enter circulation in March
+3345,0.36363636363636365,original_not_found,Lennar Q1 profit climbs - quick facts,Lennar News | Markets Insider
+3352,0.5535714285714286,original_not_found,Asian shares fall on Federal Reserve concerns,Asia: Markets head down with Federal Reserve rates set to rise more
+3354,0.3,original_not_found,Hong Kong stocks close 0.30% lower,Hong Kong Stock Market (HSI) | 1964-2018 | Data | Chart | Calendar
+3360,0.5303030303030303,original_not_found,8 Planes Search Indian Ocean with No Sign of Flight 370,New scan of 80,000 km of the Indian Ocean floor finds no sign of Flight MH370
+3364,0.4793388429752066,original_not_found,Russia's Bank Rossiya says works as usual after U.S. sanctions,VTB CEO Says Russian Banks Can Withstand New U.S. Sanctions
+3365,0.43636363636363634,original_not_found,Under 25000 credit cards compromised in Sally Beauty data breach,Sally Beauty says data breach hit under 25,000
+3370,0.582089552238806,original_not_found,Mulberry's French boss Bruno Guillon has quit the luxury handbags firm,Mulberry boss Bruno Guillon quits after two years at the helm of
+3371,0.4931506849315068,original_not_found,New ??1 coin: Do you like it? Will it fit in supermarket trolleys?,How new 1 coin will cause issues with supermarket trolleys and tickets machines
+3381,0.45161290322580644,original_not_found,Citi Bullish on Oracle Corporation Short-term, SAP AG Long-term,Oracle Corporation - Wikipedia
+3390,0.26143790849673204,original_not_found,Advancing, recognizing best practices in business ethics,Ethisphere to Open Application Process for the 2019 World's Most Ethical Companies List August 7
+3398,0.43636363636363634,original_not_found,Under 25000 credit cards compromised in Sally Beauty data breach,Sally Beauty says data breach hit under 25,000
+3400,0.5423728813559322,original_not_found,Walmart to Accept Used Video Game Trade-Ins,Walmart Trade-In
+3401,0.5490196078431373,original_not_found,MH370 search: French satellites spot debris,French satellite spots 122 objects that may be MH370 debris
+3410,0.37209302325581395,original_not_found,Twitter's Turkey Hit Exposes Vulnerability,Turkish Stocks Look Cheap Post 'Shock' Election But Currency Vulnerability Weighs Heavy
+3415,0.2545454545454545,original_not_found,BMW - Bayerische Motoren Werke AG: BMW Group looks ahead to 2014 with  ...,BMW Group - Company - Press releases
+3418,0.5535714285714286,original_not_found,Justice Department to reportedly announce Toyota settlement,Toyota, Justice Department Reach Settlement On Recall
+3422,0.5454545454545454,original_not_found,Boss quits Mulberry after two years,Mulberry boss Guillon quits after turbulent two years
+3427,0.4752475247524752,original_not_found,Nike 3Q gets boost from higher prices, demand,Nike revenue beats on higher demand overseas - Bloomberg
+3430,0.5882352941176471,original_not_found,Walmart Launching Used Video Game Exchange,Wal-Mart Wants to Buy Your Used Video Games
+3432,0.5038167938931297,original_not_found,AUGUSTA, Maine (AP) ?? Maine's unemployment fell slightly to 6.2 percent in  ...,Maine unemployment rate rose slightly in September
+3443,0.5490196078431373,original_not_found,MH370 search: French satellites spot debris,French satellite spots 122 objects that may be MH370 debris
+3457,0.5409836065573771,original_not_found,January jobless rate falls to 6.7 percent for North Carolina, just above national  ...,SC jobless rate falls to 6.6 percent
+3471,0.4444444444444444,original_not_found,Airbnb's $11b valuation raises eyebrows,gunnisontimes.com: Campaign flyer raises eyebrows
+3473,0.4411764705882353,original_not_found,Niluksi Koswanage and Matt Siegel, Reuters,The Interview: Matt Siegel
+3480,0.34375,original_not_found,New anti-counterfeit ??1 coin due for release in 2017,New one pound coin 'fake' found in change - could it end up in YOUR wallet?
+3481,0.36879432624113473,original_not_found,Gains In Mortgage-Backed Securities May Translate To Slightly Better Rates To  ...,Why cheaper index funds translate into lower future returns
+3486,0.0898876404494382,original_not_found,WHY NOBODY IN RUSSIA IS SMIRKING OVER OBAMA'S SANCTIONS,Don＊t rehabilitate Obama on Russia
+3489,0.36231884057971014,original_not_found,Wal-Mart Stores Inc (NYSE:WMT) | [video] Wal-Mart to Enter Used Videogame  ...,Wal-Mart entry into used videogames trade threatens GameStop
+3493,0.46464646464646464,original_not_found,Airbnb on way to becoming $10b startup,Airbnb said to pursue valuation above $10b - The Boston Globe
+3496,0.3418803418803419,original_not_found,Oracle (ORCL) Q3 'Not Great, but Getting Better' - Nomura's Sherlund,Oracle's Cloud Strategy: Ruthless Or 'Byzantine'?
+3497,0.5294117647058824,original_not_found,'Walmart' jumps into used video game market with in-store and online trade-ins,Walmart Blog: Trade in used video games for Walmart credit
+3501,0.559322033898305,original_not_found,Walmart announces game trade-in program and certified pre-owned game sales,Walmart Announces Foray Into Pre-Owned Games
+3506,0.4077669902912621,original_not_found,Commerce Bank and BMO Harris Tied with Similar Mortgage Rates Today  ...,BMO Harris Bank CD Rates | .com
+3520,0.36764705882352944,original_not_found,Gilead Sciences, Inc. (GILD) news: Gilead discounts Sovaldi 99% for Egypt,Gilead offers Egypt new hepatitis C drug at 99 percent discount
+3530,0.5454545454545454,original_not_found,Malaysian missing plane - searchers come up empty again,Search For Malaysia Airlines Plane Comes Up Empty Again
+3537,0.3469387755102041,original_not_found,US Fed unveils further cut in bond purchase program,Fed to taper bond buying by $10 billion a month
+3542,0.44642857142857145,original_not_found,NZ Orion crew still hopeful of plane clues,RNZAF Orion and crew busy on multiple fronts in the South West Pacific
+3548,0.4166666666666667,original_not_found,GameStop drops; Hertz moves ahead with spinoff,GameStop down on Wal-Mart worries; Microsoft gains
+3552,0.31343283582089554,original_not_found,TradeTheNews.com EU Market Update: European markets weather more  ...,Trade The News: Real time stock, forex, bond news analysis squawk
+3556,0.5046728971962616,original_not_found,HSBC, PNC Bank: Today's Mortgage Interest Rates Mar 22,Best HSBC Home Loans and mortgage interest rate guide
+3557,0.584070796460177,original_not_found,New 12-sided pound coin is to replace the old on,All change: New 12-sided pound coin to enter circulation in March
+3559,0.3684210526315789,original_not_found,Obama goes to the hoop in order to score more health insurance enrollments,Trump signs order hitting Obamacare, eyes changes to job-based health coverage
+3561,0.4838709677419355,original_not_found,Tweeting continues in Turkey despite government ban,'Suffocating climate of fear' in Turkey despite end of state of emergency
+3562,0.35443037974683544,original_not_found,Bank Stress Test Results,Britain's Barclays, Lloyds shock in EU bank stress test
+3563,0.4195121951219512,original_not_found,Unemployment rates drop in 43 US states in January; Ohio gains second-most  ...,State unemployment rates for February down in 7 states, unchanged in 43 : The Economics Daily: U.S. Bureau of Labor Statistics
+3565,0.47692307692307695,original_not_found,Hawaii's unemployment declines in January to 4.6 percent,David Y. Ige | NEWS RELEASE: Hawaii＊s Unemployment Rate at 2.1% in January
+3566,0.4523809523809524,original_not_found,Missing Malaysian plane: More planes join ocean hunt,Missing plane search intensifies
+3570,0.5309734513274337,original_not_found,Searchers looking for missing Malaysia jet come up empty,Another Search Begins for Long-Missing Malaysian Airliner
+3587,0.5317919075144508,original_not_found,A new 12-sided one pound coin based on the threepenny bit is being unveiled  ...,REVEALED: The new 12-sided pound coin - and the deadline for spending your old 'round pounds'
+3592,0.5217391304347826,original_not_found,Hong Kong Stocks Swing as Developers Drop, Solars Advance,Hong Kong stocks jump most in a month on techs, developers
+3599,0.3333333333333333,original_not_found,Australia Renewing Jet Search Buoyed by Satellite Imagery,Malaysia Airlines Flight 370: 2 new signals in search area buoys hope
+3609,0.4523809523809524,original_not_found,Turks seek to challenge Twitter ban,Twitter challenges Turkey ban, Erdogan holds fast
+3610,0.45255474452554745,original_not_found,Turkish deputy PM expects block on Twitter to be temporary,Turkish Deputy PM Denounced for Misleading Twitter Pictures on Rakhine Conflict
+3611,0.3443708609271523,original_not_found,Congresswoman: Obama admin rule change lets insurance companies keep  ...,Congresswoman Virginia Foxx is on a quest to roll back Obama's workplace rules
+3614,0.37606837606837606,original_not_found,Fed's Kocherlakota Blasts New Rate Guidance, Wants Low Rates For Longer,Narayana Kocherlakota: Low real interest rates
+3615,0.5909090909090909,original_not_found,Symantec CEO fired,Symantec fires CEO Bennett
+3616,0.5,original_not_found,HK: Stocks flat at close,Hong Kong stocks flat as Tencent falls, Xiaomi rises
+3619,0.5039370078740157,original_not_found,European shares fall back as Ukraine keeps investors on edge,European stocks slip as health-care stocks fall back after earnings
+3621,0.38095238095238093,original_not_found,Mulberry CEO Bruno Guillon Steps Down Amid Share Price Slump (1),Mulberry CEO Resigns
+3626,0.3333333333333333,original_not_found,Louisiana put record number of people to work in January,Louisiana State Penitentiary - Wikipedia
+3629,0.5871559633027523,original_not_found,Canada Joins US in Broadening Sanctions Against Russia,Further Toughening of Canada＊s Sanctions Against Russia
+3639,0.40707964601769914,original_not_found,LinkedIn Corp (LNKD) CEO named the best by Glassdoor,LinkedIn Top Companies 2018: Where the U.S. wants to work now
+3643,0.4793388429752066,original_not_found,China Mobile Ltd. ADR (CHL) News Analysis: Stock Down After Company  ...,China Mobile Ltd. (ADR) is Too Cheap to Ignore --
+3645,0.42105263157894735,original_not_found,Sector Update: Consumer,Quarterly sector update - Fidelity
+3647,0.5714285714285714,original_not_found,Walmart Going After GameStop with Used Games Push,Wal-Mart muscles into GameStop territory in used videogame push
+3650,0.4,original_not_found,MH370 pilots 'not suspicious',Flight MH370: Could it have been suicide?
+3653,0.3652173913043478,original_not_found,Marketwired Shuts Off Traders Amid New York Fairness Probe (1),Marketwired to stop selling to high-frequency traders
+3674,0.4421052631578947,original_not_found,Stocks Tumble in Russia After US Adds Sanctions,Russian stocks tumble 9% on US sanctions worries
+3675,0.5263157894736842,original_not_found,US States to Help DOJ Assess Comcast's TWC Acquisition,Multiple states join DOJ in reviewing Comcast's TWC purchase
+3676,0.5714285714285714,original_not_found,Affordable Care Act: Some may have more time to apply,Affordable Care Act Information
+3689,0.45255474452554745,original_not_found,Turkish deputy PM expects block on Twitter to be temporary,Turkish Deputy PM Denounced for Misleading Twitter Pictures on Rakhine Conflict
+3696,0.47692307692307695,original_not_found,Hawaii's unemployment declines in January to 4.6 percent,David Y. Ige | NEWS RELEASE: Hawaii＊s Unemployment Rate at 2.1% in January
+3697,0.582089552238806,original_not_found,Mulberry's French boss Bruno Guillon has quit the luxury handbags firm,Mulberry boss Bruno Guillon quits after two years at the helm of
+3706,0.4462809917355372,original_not_found,Symantec boss axed after revenue takes tumble,Symantec to cut eight per cent of workforce as enterprise sales tumble | CRN
+3713,0.5714285714285714,original_not_found,Walmart Going After GameStop with Used Games Push,Wal-Mart muscles into GameStop territory in used videogame push
+3717,0.4050632911392405,original_not_found,Russian share index down 3pc,Russia stock market data - prices and news - FT.com
+3719,0.46938775510204084,original_not_found,Missing Malaysian plane: More planes join ocean hunt,NASA Joins Hunt for Missing Malaysian Jetliner
+3723,0.3925233644859813,original_not_found,Florida's Latest Job Figures Show a Decline in Unemployment,Florida＊s unemployment rate drops to 3.8 percent
+3726,0.47619047619047616,original_not_found,German ZEW Investor Confidence Declined for Third Month in March,Forex News 每 German investor sentiment declines to 7-month low
+3734,0.20202020202020202,original_not_found,Morning Buzzers ?? Symantec Corporation (NASDAQ:SYMC), The Progressive  ...,Pardon Our Interruption
+3736,0.4626865671641791,original_not_found,Walmart says PS4 & Xbox One allowing used games was a reason for the move,Walmart Starts Selling Used Games, But GameStop Isn't Worried
+3740,0.3902439024390244,original_not_found,Still uninsured? Beware Obamacare's narrow network,The Problem with Narrow Networks
+3741,0.20155038759689922,original_not_found,Fed Stress Test Shows 29 of 30 Banks Meet or Top Capital Target,Largest banks clear Federal Reserve's toughest annual stress tests
+3744,0.3191489361702128,original_not_found,Local unemployment rose despite state-wide decline,Why Wages Won't Rise When Unemployment Falls
+3745,0.36879432624113473,original_not_found,Gains In Mortgage-Backed Securities May Translate To Slightly Better Rates To  ...,Why cheaper index funds translate into lower future returns
+3746,0.4946236559139785,original_not_found,EBay Applauds Icahn Backing Away From Push to Sell PayPal,Icahn drops eBay call to sell PayPal
+3749,0.45112781954887216,original_not_found,Missing Malaysia plane search gets impetus from French satellite images,MH370: is missing Malaysia Airlines plane in Cambodian jungle?
+3751,0.4342105263157895,original_not_found,Oracle Price Target Increased to $40.00 by Analysts at Evercore Partners (ORCL),Oracle 'Lacks Catalysts To Drive Re-Rate,' Evercore ISI Says In Downgrade
+3757,0.26,original_not_found,Fake IRS agents con taxpayers out of $1 million,Don't Fall for the 'Steve Martin' IRS Phone Call Scam
+3760,0.5617977528089888,original_not_found,President Of Turkey, Abdullah Gul Criticizes Twitter Ban,Turkey's Gul condemns Twitter ban
+3761,0.5909090909090909,original_not_found,Symantec CEO fired,Symantec fires CEO Bennett
+3765,0.3473053892215569,original_not_found,Record number of people employed in January helps improve unemployment  ...,Trump says he deserves credit for the lowest black unemployment rate in decades. He doesn＊t.
+3771,0.3870967741935484,original_not_found,Price check: Wal-Mart widget compares prices for shoppers,25 Best Price Comparison Websites and Apps to Compare Prices Online
+3772,0.3333333333333333,original_not_found,Australia Renewing Jet Search Buoyed by Satellite Imagery,Malaysia Airlines Flight 370: 2 new signals in search area buoys hope
+3778,0.37037037037037035,original_not_found,Dems Question Gilead Price,Gilead＊s $84,000 Treatment Questioned by U.S. Lawmakers
+3783,0.47706422018348627,original_not_found,US to allow some people to enroll in Obamacare after deadline,Still need to enroll in or change 2018 coverage?
+3791,0.2916666666666667,original_not_found,Report: Bike-share program in financial trouble,Wait, Chinese Bike-Sharing Doesn't Make Any Sense
+3794,0.47863247863247865,original_not_found,Walmart US adds gaming service in push to boost electronic sales,How Walmart is Transforming to Better Serve Customers
+3795,0.2994652406417112,original_not_found,Missing Malaysian Airlines 370: Australian search aircraft finds some visible  ...,Missing flight MH370 'found' on Google Earth riddled with BULLET HOLES, crash investigation expert claims
+3799,0.2,original_not_found,Russian stocks down as banks suffer amid sanctions - KTVN Channel 2 - Reno  ...,Breaking News & Bulletins June 1-30, 2007
+3805,0.3875968992248062,original_not_found,UPDATE: MKM Partners Downgrades Symantec (SYMC) to Sell,Symantec Tumbles 13%: Five Downgrades; Bulls Urge Shares too Cheap to Sell
+3807,0.3387096774193548,original_not_found,Gilead Sciences Target of Unusually Large Options Trading (GILD),GILD Headlines | Gilead Sciences, Inc. Stock - Yahoo Finance
+3809,0.42857142857142855,original_not_found,Walmart Looking To Dominate Another Field,Walmart looks to dominate overseas with grocery-delivery app investment | Retail Dive
+3811,0.4657534246575342,original_not_found,BMW sees 2014 pretax profit up by single to double digit percent,BMW considers raising U.S. capacity, expects pretax profit to rise 'significantly'
+3813,0.5052631578947369,original_not_found,UK Stocks Drop After Yellen Rate-Hike Comments as Glaxo Slips,Stocks Fall After Yellen＊s Remarks
+3814,0.5317919075144508,original_not_found,A new 12-sided one pound coin based on the threepenny bit is being unveiled  ...,REVEALED: The new 12-sided pound coin - and the deadline for spending your old 'round pounds'
+3821,0.4421052631578947,original_not_found,Stocks Tumble in Russia After US Adds Sanctions,Russian stocks tumble 9% on US sanctions worries
+3825,0.5046728971962616,original_not_found,HSBC, PNC Bank: Today's Mortgage Interest Rates Mar 22,Best HSBC Home Loans and mortgage interest rate guide

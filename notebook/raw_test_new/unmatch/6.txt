@@ -1,0 +1,41 @@
+Goldman Sachs thinks that Bitcoin believers need to take a cold shower, drink some coffee, and sober up.
+
+In the wake of Mt. Gox¡¯s collapse, the supposed outing of Bitcoin¡¯s creator, and some high-profile arrests, the financial services firm has put together an exhaustive survey of ¡°Bitcoin¡± and ¡°bitcoin¡± and ultimately finds the technology promising but the currency wanting.
+
+The key takeaway: Bitcoin likely can¡¯t work as a currency, but ¡­ the ledger-based technology that underlies it could hold promise.
+
+For those still unfamiliar with the concept Bitcoin is a peer-to-peer network that allows for the proof and transfer of ownership without the need of a trusted third party, the Goldman Sachs report explains. The unit of the network is bitcoin.
+
+Goldman Sachs¡¯ analysts consider bitcoin ¡ª the unit of exchange ¡ª more like a commodity than a currency, according to the report.
+
+¡°We would argue that Bitcoin, and other digital currencies, lie somewhere on the boundary between currency, commodity and financial asset,¡± write Dominic Wilson, chief markets economist at Goldman Sachs, and Jose Ursua, a global economist with the firm. ¡°Our best definition would be that it is currently a speculative financial asset that can be used as a medium of exchange.¡±
+
+A successful cyber-currency needs a fixed exchange rate to succeed, according to the economists, and the difficulties Bitcoin faces as a store of value are significant obstacle to its adoption.
+
+¡°On net, more than taking off as a widely-used alternative currency, it is much more plausible that Bitcoin eventually has a significant impact in terms of its innovation on payments technology, by forcing existing players to adapt or coopt it,¡± the authors write.
+
+If Bitcoin is, in fact, a commodity, Goldman¡¯s head of commodities research, Jeff Currie, argues that it still won¡¯t hold a candle to the gold-standard of commodities ¡ª gold.
+
+¡°A commodity is any item that ¡®accomodates¡¯ our physical wants and needs. And one of these physical wants is the need for a store of value,¡± writes Currie. Currencies, by contrast, are instruments that are secured by either a commodity or a government¡¯s ability to tax and defend.
+
+By Currie¡¯s reasoning, commodities become supplanted when a better commodity comes along, so, for him, the question is whether Bitcoin solves an economic problem that currently exists with gold.
+
+¡°The short answer is no,¡± Currie writes. ¡°Gold is not failing as a store of value as wood failed as a sources of energy in steam engines. Steam locomotives could go farther and faster on coal. But Bitcoin does not improve upon gold.¡±
+
+Despite Goldman¡¯s bearishness on the currency, the financial services firm does see promise in the technology platform itself, and other firms like the commodities trader Global Advisers are already actively trading Bitcoin directly on a proprietary basis.
+
+Global Advisers¡¯ founding co-principal Daniel Masters likens Bitcoin¡¯s tumultuous trading to the spike in silver prices from 2005 to 2011.
+
+¡°In my view there is voracious demand for new Bitcoin, and, similar to silver, prices will have to rise dramatically to meet it. Specifically I think the call on Bitcoin could very reasonably be $150 billion, which places it, ironically, in the same ballpark as the valuation of Amazon and of Greece¡¯s M1 money supply,¡± Masters said.
+
+Entrepreneurs and investors still see promise in the currency (or commodity) and the technology. As we¡¯ve written previously, a new wave of startups are already launching services around Bitcoin and bitcoin that could provide the stability that the industry needs.
+
+¡°We are seeing the amateur enthusiasts get weaned out and winnowed out,¡± said Jeremy Allaire, a serial entrepreneur and the founder of Circle ¡ª a Bitcoin startup backed by Accel and General Catalyst.
+
+¡°Bitcoin has achieved real network effects on a global basis,¡± said Allaire. ¡°The number of new projects and entities and companies being formed on a worldwide basis are legion¡­ there are thousands of them.¡±
+
+The critical component that¡¯s missing for the adoption and use of Bitcoin is regulation, according to Allaire. ¡°Ultimately what¡¯s going to be necessary is common supervision. There need to be common rules for how digital currency exchanges, wallet services, etc. operate that are consistent around the world.¡±
+
+Allaire also said that financial institutions like Goldman Sachs are going to have to step up. ¡°All of the very top firms are very interested in the U.S. based trading exchange space,¡± Allaire said.
+
+Goldman Sachs maintains that it does not yet have an institutional perspective on Bitcoin, but that several initiatives are underway to get a handle on the phenomenon.

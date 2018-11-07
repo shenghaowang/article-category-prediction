@@ -1,0 +1,89 @@
+The FOMC is now meeting for the first time with Janet Yellen as Chair. Goldman's US team expects the FOMC to deliver an accommodative message...alongside a continued tapering of asset purchases. However, they note, their market views here are likely to shift little in response, as much of that dovishness is arguably already priced, particularly in US rates. SocGen notes that "qualitative guidance" will probably consist of two components: the FOMC＊s forecast for the fed funds rate (aka ※the dots§) providing a baseline scenario, and a descriptive component signalling the elasticity of this rate path to the underlying economic outlook. SocGen also warns that this transition is worrisome for inflation in 2015. But BofA suggests this is not problem as The Fed will indicate the US economy "lift-off" in late-2015 will save us all.
+
+Via Goldman Sachs,
+
+
+
+Some accommodative changes expected from the FOMC later today
+
+
+
+The FOMC is now meeting for the first time with Janet Yellen as Chair. In addition to the usual post-meeting statement release later today, there will also be the quarterly release of the Summary of Economic Projections and a press conference with Chair Yellen. The current backdrop presents several challenges for the Fed. The US growth data have slowed, perhaps because of weather (our own models suggest that about  of the 1pp decline in implied real GDP growth is weather-related), but expectations remain firm that growth will accelerate later this year. The unemployment rate has declined sharply and is only two-tenths of a percent away from the Fed＊s stated 6.5% target. And the FOMC has already embarked on a tapering of asset purchases, currently at about $10bn/month.
+
+
+
+Given this backdrop, and under the guidance of Chair Yellen, our US Economics team expects the FOMC to deliver an accommodative message. They will likely acknowledge weather effects, but only partly, in describing current economic conditions and they are likely to continue to taper asset purchase at the current pace. Alongside this, we expect three other shifts that, taken together, are marginally more accommodative.
+
+First, the FOMC＊s long-run unemployment and funds rate projections may both decline. Second, we expect two participants to move their target dates for the first rate hike (the so-called ※dots§) further out. Third, we expect the FOMC to move towards a more qualitative description of the labour market conditions needed to shift to a less accommodative policy stance.
+
+This qualitative guidance could occur alongside the current 6.5% unemployment rate threshold or in place of it.
+
+
+
+Despite these expected shifts from the Fed, our current assessment of where key macro-driven asset markets are likely to head over the medium term is not particularly captive to the outcome of today＊s meeting. This is in part because some markets 每 rates in particular 每 have already reflected an accommodative Fed stance, leaving them relatively more exposed to the expected pick-up in US growth, and in part because other macro themes are likely to remain in focus, such as the ongoing adjustment process in EM assets and China-related weakness.
+
+
+
+Longer-dated US rates vulnerable to better growth outcomes; dovish surprise unlikely
+
+
+
+Turning first to the US rate market directly, with Dec 2015 Fed funds at 60bp and Dec 2016 Fed funds at 160bp, there is some room for a limited rally at the very front end. But Fed dovishness is well appreciated by the market, and short rates have already rallied over the last few months. Longer-dated US rates ought to be more connected to the US growth outlook, and here our bias is to be short. As Francesco Garzarelli and the Rates team have recently argued, US 10-year yields hovering around 2.7% is below our forecast for the end of Q2 at 3.1%, and we expect better US growth outcomes to push yields higher from here. From a trading perspective, our focus so far this year has been on the belly of the US curve via two trading recommendations, one tactical 每 recommending longs on the June-15 Short Sterling contract (LM5) against shorts on the June-15 Eurodollar contract (EDM5) 每 and one a strategic 'Top Trade' 每 recommending a long EUR swap (EONIA) 5y rate position vs. a short in 5y Treasuries.
+
+
+
+More USD strength likely ahead, despite an accommodative Fed...
+
+
+
+Despite a potential dovish tilt from the Fed, our tactical FX views are more geared towards incremental US strength relative to other majors, not weakness. Specifically, in the near term, our FX team has greatest conviction in USD strength against the Yen, CAD and AUD, as US growth bounces, the BoJ pivots to a more aggressively dovish stance, and China growth and commodity market headwinds remain in place.
+
+
+
+The near-term EUR and GBP paths from here are less clear, although our inclination is for a shift towards USD strength. In both markets a good deal of USD weakness has already been priced, in the case of the EUR in part owing to a lack of ECB action, and in the case of the GBP in part due to a better patch of UK growth. However, with the EUR nearing 1.40, the top of our forecast range, ECB President Draghi＊s recent rhetoric indicating that FX constraints are on his radar screen, and US data expected to improve, over the medium term we expect the USD to gain ground against both these currencies.
+
+
+
+although EM assets may feel some relief temporarily
+
+
+
+Over the last 18 months or so, US easing has, episodically, shielded EM rates and FX from their fundamental headwinds. These patches of relief have, thus far, proven only temporary, with structural needs to rebalance and domestic growth concerns ultimately the more important drivers of EM asset performance. This is our current view of EM market risks heading into the FOMC as well.
+
+
+
+First and foremost, it is unclear at best if there will be any incremental US rate relief or if Fed dovishness is already fully appreciated by markets. And even if there is some incremental easing to be priced, EM headwinds remain intact. China growth outcomes continue to disappoint, and as our EM team recently demonstrated, that is only partially priced in many exposed markets. Beyond exposure to China weakness, which should abate somewhat as we go through the year, the degree of internal rebalancing still needed in several places implies significantly more market adjustments yet to come.
+
+
+
+DM equities: An asset class for all seasons
+
+
+
+DM equities are the one place where incremental Fed easing and the likelihood of a US growth recovery both push in the same direction. True, the S&P 500 is nearly back to all-time highs. With our Wavefront Consumer Growth and GDP Growth baskets mostly range-bound thus far in 2014, weather worries have been mostly absent, but so has growth optimism. Support has mostly come from easy financial conditions and still-supportive risk sentiment. So a pick-up in growth, incrementally more easing of financial conditions or a combination of the two should be enough to keep pushing DM equities higher. Indeed, our US strategists still expect modest S&P upside this year. And tactically, we are expressing our upbeat equity market view via a recommendation to be long the German DAX index, which had underperformed markedly over the last few weeks and could benefit from any FOMC surprise later today or better US growth news later this week, and as weather effects roll off.
+
+SocGen is a little less exuberant but lays out the details of what to expect from qualitative guidance and warns of inflation concerns in 2015,
+
+What will qualitative guidance look like?
+
+
+
+It has been 15 months since the Fed switched from calendar guidance to one based on economic thresholds. Now that the 6.5% unemployment threshold has become virtually obsolete, the FOMC is shifting to a new framework. Qualitative guidance will probably consist of two components: the FOMC＊s forecast for the fed funds rate (aka ※the dots§) providing a baseline scenario, and a descriptive component signalling the elasticity of this rate path to the underlying economic outlook. Over the past year, ※the dots§ have been very inelastic to data surprises, and we expect this to continue. Indeed, at this week＊s meeting, we expect that the Fed will lower its unemployment rate projections, yet keep its rate forecasts largely unchanged. The Fed will probably explain this away by pointing to hidden slack in the labour market.
+
+
+
+What to expect this week 每 a laundry list
+
+Asset purchases to be reduced by $10bn to $55bn. We expect the Fed to drop the 6.5% unemployment threshold, or at least start phasing it out. The threshold will be replaced with a qualitative description of conditions for rate hikes. We expect something along the lines of: The Committee expects that the exceptionally low rate will be appropriate at least as long as unemployment remains elevated and inflation remains low. In judging the amount of labour market slack the Committee will consider a number of statistics, including labour force participation, part-time employment, and long-term unemployment. The Fed＊s GDP and inflation forecasts are unlikely to change at all, but the unemployment rate projections will likely be revised down (we assume by 0.2% for YE 2015 and by 0.1% for YE 2016). ※The dots§ are unlikely to change, with the median forecast still at 0.75% for the end of 2015 and 1.75% for the end of 2016. The median may be quoted in the FOMC statement itself.
+
+All else equal, such an outcome should be viewed as more accommodative at the margin. In the chart below, we demonstrate this visually by calculating the policy gap for the March meeting, based on the assumptions outlined above. The policy gap is the difference between prescribed rates and the FOMC median rate projection, measured about ten quarters ahead.
+
+
+
+By guiding towards an even wider policy gap, the Fed will be reinforcing the current growth momentum. But if, like us, you believe that the participation rate drop is unlikely to be reversed and the unemployment rate is ※real§ then this should also be viewed as raising inflation risks for 2015 and beyond.
+
+BofAML's take is similar with an "escape velocity" recvery expected in late-2015...
+
++++++++++++++++++
+
+So, in summary, Fed will shift to highly accomodative (sounding) forward-guidance (because they've nailed their projections so well in the past), continue the taper come hell or high water, bonds are priced for this but stocks are not... inflation is a fear in 2015 but "escape velocity" growth will save us from that problem...

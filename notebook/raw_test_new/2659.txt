@@ -1,0 +1,25 @@
+Symantec fired its second CEO in less than two years on Thursday, dismissing Steve Bennett and putting a board member in charge while the security vendor searches for a permanent replacement.
+
+Bennett took the reins from former president and CEO Enrique Salem in July 2012 after Salem was dismissed amid weak financial results. Bennett has also resigned from Symantec's board, according to a press release.
+
+Symantec went through a major reorganization under Bennett, which the company said had "helped establish a solid foundation for Symantec's future." His termination was part of an ongoing process and not in response to any event or impropriety, according to Symantec. But the company said it needs a leader who can "drive the next stage of Symantec's product innovation and growth."
+
+Board member Michael Brown will serve as interim president and CEO during an executive search that will begin immediately.
+
+Also on Thursday, Symantec reiterated its guidance for the fourth quarter of its 2014 fiscal year, including slightly higher profit and fatter margins than a year earlier, on lower revenue.
+
+Bennett had taken over with a promise to reorganize Symantec to better compete in the mobile arena and compete there as effectively as it had in PCs.
+
+"The need for protecting and managing your information has never been stronger, and we must act aggressively to capture a growing share of this market," Interim CEO Brown said in the release.
+
+Symantec's security business depends too much on endpoint software, such as PC antivirus tools, while competitors come out with more modern offerings, said Forrester Research security analyst Rick Holland. Fast-moving rivals include Palo Alto Networks, which makes next-generation firewalls, and FireEye, with advanced anti-malware software that doesn't rely on traditional signatures, he said.
+
+Endpoint products like Symantec's aren't going away, but many would-be buyers today pick alternatives such as Microsoft's Forefront, which is included with other Microsoft licenses, he said.
+
+"They need to have an innovative solution out to customers sooner than later," Holland said. Bennett's firing indicates that change wasn't happening fast enough for the company's board, he said.
+
+Righting the ship may require taking the company private so it can make major acquisitions and investments in new technologies without having to meet Wall Street's expectations at the same time, Holland said. "I think it's really difficult to do a turnaround if you're a public company," he said.
+
+The company might also split itself up, spinning off either its security or its backup and recovery business and focusing on just one of them, Holland said. Integrating an acquired company into the current sprawling organization would be a challenge, he said.
+
+In after-hours trading late Thursday, Symantec's shares (Nasdaq: SYMC) were down $1.26 at $19.65.

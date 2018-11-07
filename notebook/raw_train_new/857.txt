@@ -1,0 +1,11 @@
+MtGox boss Mark Karpeles has been targeted by hackers following the company's recent bankruptcy protection filing.
+
+The Bitcoin magnate's personal blog and Reddit account were breached, resulting in information about the exchange's trading activities being posted online.
+
+The leaked material includes an Excel spreadsheet of more than one million transactions, entries from the firm's business ledger and details about its admin software.
+
+"It's time that MtGox got the Bitcoin community's wrath instead of [the] Bitcoin community getting Goxed," said the hackers in a statement accompanying the data dump.
+
+MtGox went dark last month after 744,000 Bitcoins - worth around 210 million - were reportedly stolen via a security loophole.
+
+It remains unclear whether the information leaked by hackers was genuine and sheds any light on the incident, according to Forbes.

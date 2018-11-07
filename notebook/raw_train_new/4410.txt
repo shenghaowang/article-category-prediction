@@ -1,0 +1,13 @@
+After banning Twitter last night, the actions of Turkish Prime Minister Recep Tayyip Erdogan have failed spectacularly.
+
+Immediately following Turkey¡¯s ban, Twitter issued an SMS workaround. Then, ¡°#TwitterisblockedinTurkey¡± became a globally trending topic on Twitter. Into the night, usage of Google¡¯s free DNS service exploded to circumvent the blockage of Twitter¡¯s domain. Now, social media analysis firms Brandwatch and We Are Social report that Turkish tweets last night and this morning are up by a massive 138 percent.
+
+The following graph, provided by Brandwatch, shows the rise in tweets from 2 A.M. to 12 P.M. (Turkish CET).
+
+Turkish users collectively tweeted 2.5 million times since the ban went into effect, potentially ¡°setting new records for Twitter use in the country,¡± according to a different study reported by the Guardian.
+
+Fanning the flames, usage of virtual private networks (VPNs) in Turkey appears to be up significantly. ZenMate, for example ¡ª a security and privacy extension for Google Chrome ¡ª reports it saw ¡°25,000 visitors from Turkey to the Chrome store in the last 12 hours.¡± Similarly, VPN provider Hotspot Shield saw an uptick in usage on iOS, and is now the top Android app in the Google Play store in Turkey.
+
+Studies such as the above serve only as rough guidelines and are limited by sample size. Collectively, however, the reports make for strong evidence that Erdogan has failed to enact an effective country-wide ban on Twitter.
+
+Following our original report last night, the Turkish Embassy in Washington D.C. and Turkey¡¯s Office of the Prime Minister have yet to respond to VentureBeat¡¯s request for comment.

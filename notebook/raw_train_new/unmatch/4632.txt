@@ -1,0 +1,89 @@
+The European Union and United States have adopted sanctions as a central part of their response to the political crisis in Ukraine. Members and assured with vessels calling at ports in Ukraine should ensure that no sanctioned individuals or entities are involved. The lists of parties sanctioned by the EU and US have been steadily expanding and it is essential to check the latest lists (see Links).
+
+The US authorities adopt the approach that designations extend to any entity owned or controlled by designated persons. Similarly, EU Regulations apply to funds and resources "controlled by" listed persons and prohibit making funds available to such persons "directly or indirectly".
+
+Members and assureds should also pay attention to the restrictions on the import into the EU of goods originating in Crimea or Sevastopol. In addition sectoral sanctions have been introduced targeting inter alia the energy sector with restrictions affecting the supply of certain services relating to oil exploration and production.
+
+In view of the increasingly tense political climate, it is likely that sanctions will continue to be extended and the situation remains fluid.
+
+The Association's Rules contain a standard exclusion for liability for liabilities, costs or expenses where payment by the Association or the provision of cover may expose the Association to the risk of being subject to a sanction, prohibition or any adverse action (Rule 30.4.6). Liability is also excluded when there is a shortfall due to an inability to recover reinsurance or pool contributions from other insurers or P&I Clubs which are themselves unable to pay due to sanctions legislation (Rule 32.6). The Association is also able to terminate cover where a Member has exposed or may expose the Association to the risk of being or becoming subject to a sanction, prohibition, restriction or other adverse action by a state or international organisation or competent authority (Rule 3.3.2a). Similar provisions exist in the Terms & Conditions for non-mutual covers.
+
+As noted above, the EU restrictions on import of goods originating in Crimea and Sevastopol include a prohibition on insurance and reinsurance. Accordingly importing such goods in contravention of these restrictions may trigger the insurance exclusion.
+
+On 27 August 2018, the Department of State published a Notice bringing mandatory sanctions under the Chemical and Biological Weapons Control and Warfare Act into force. They will remain in place for at least one year. Sanctions are imposed on:
+ None Arms Sales and Financing of Such Sales: termination of sales to Russia of any defence articles, services, design and construction services, licenses for the export to Russia of any item on the US Munitions List, and all foreign military financing for Russia. This sanction has been waived in relation to the issuance of licenses in support of government space cooperation and commercial space launches (such licenses to be issued on a case-by-case basis).
+ None Denial of US Government Credit or Other Financial Assistance: denial to Russia of any credit, credit guarantees, or other financial assistance by the US Government.
+ None Exports of National Security-Sensitive Goods and Technology: prohibition on the export to Russia of any goods or technology on that part of the control list. There are a number of waivers, including the flight safety (civil fixed-wing passenger aviation), space flight, and commercial end-users (civil end-uses in Russia).
+ The fifth mandatory sanction: termination of foreign assistance to Russia has been waived in its entirety.
+
+On 16 August 2018 the U.S. Department of State made a determination that will trigger sanctions under "Chemical and Biological Weapons Control and Warfare Elimination Act". The first round of sanctions took effect on 27 August 2018 and introduced a ban on exports to Russia of security-sensitive products and technology (exemption permitted for existing contracts) and termination of related export licenses.
+
+The second round of sanctions will take effect in three months unless US government determines otherwise and will include three or more sanctions, including possible prohibition of all exports of US goods or technology to Russia (exemptions for food and agricultural products and existing contracts) and restrictions on import to the US of any articles produced or grown in Russia.
+
+US government has the authority to waive any of these sanctions and it is currently not clear which of the second-round sanctions will be imposed. Companies trading with Russia shall in any case review sanction provisions in their contracts.
+
+On 2 August 2017 President Trump signed into law the "Countering America's Adversaries Through Sanctions Act" (CAATSA).
+
+The Act expands and codifies sanctions against Russia:
+ Opens up for designations for entities and persons operating in (or providing support to) certain sectors of Russian economy: railway, financial services, mining, energy, metals, defence and related material;
+ Reduces tenors for transactions listed under Directive 1 E.O. 13622 (equity and debt financing of certain Russian financial institutions) from 30 to 14 days and under Directive 2 (debt financing of certain Russian oil and gas companies) from 90 to 60 days respectively;
+ Projects named in Directive 4 (under E.O. 13622), namely supply of goods and services (except for financial) in support of exploration or production of deepwater, Arctic offshore or shale projects that have potential to produce oil are now prohibited also for "persons within the US" and not only on the territory of Russian Federation but worldwide. Furthermore, restrictions apply not only to persons designated under this Directive but also where such persons have interest of at least 33 percent;
+ Opens up for sanctions against persons who have made an investment in Russia's energy export pipelines (of USD1 million or aggregate value of USD5 million during a 12 month period);
+ Authorises further sanctions related to cybersecurity, investments in crude oil projects, human rights abuses, defence/intelligence sectors and privatisation of Russian state-owned assets;
+ Instructs the President to impose sanctions on persons that provided Syria with weapons.
+
+On 27 October 2017 the Department of State issued public guidance on the implementation of Section 231 of CAATSA accompanied by list of entities considered to be operating in Russia's defence or intelligence sectors. President may impose sanctions against individuals that engage in "significant" transactions with entities on this list. Additionally, OFAC published new FAQs related to CAATSA sections 223(a), 226, 228, and 233.
+
+CAATSA also imposes substantial restriction on the President's ability to provide sanctions relief to Russia.
+
+On 6 April 2018 OFAC designated 7 of Russia's oligarchs, 12 companies they own (incl. Eurosibenergo, Basic Element, Rusal, Russian Financial Corporation, etc.) and 17 senior Russian government officials. The full list can be found here. OFAC has also issued General License 12C, General License 13C, General License 14, General License 15 and General License 16, authorising certain transactions with the designated entities to allow for continued maintenance and wind down activities. OFAC also published new FAQs about these general licenses.
+
+On 6 March 2014 the President signed Executive Order 13660 allowing to sanction any individual or entity responsible for or complicit in actions that undermine the democratic process or threaten the peace, security and stability of Ukraine. The full text of EO can be found here. This was expanded on 17 March 2014 and 20 March 2014 by Executive Orders 13661 & 13662 enabling the targeting of Russian entities and individuals, including both Russian and Crimean officials, individual businessmen, banks and commercial companies. These three EOs were subsequently implemented by Regulation (31 CFR part 589). In July 2015, OFAC designated five Crimean port operators and one sea ferry operator pursuant to Executive Order 13685. The seaports affected are at Kerch, Sevastopol, Feodosia, Evpatoria and Yalta. The US has extended its targeted sanctions against senior Russian officials, businessmen and state-owned companies until 6 March 2017. The White House's notice on the extension is here. The list of Specially Designated Nationals (SDN List) has steadily grown and the latest list can be found on US treasury website. More information on the designations can be found here and a link to the OFAC search facility is provided here.
+
+The US authorities adopt the approach that designations extend to any entity owned or controlled by designated persons. An entity which is not itself listed but is owned directly or indirectly by a blocked person with a 50% or more interest is considered as a blocked person. Caution is required when dealing with a non-blocked entity in which one or more blocked persons has a significant interest. For more information see US OFAC Guidance published on 13 August 2014.
+
+In July 2014 limited "sectoral sanctions" were introduced against several banks (Gazprombank, Vneshtorgbank, Russian Agricultural Bank and Vnesheconomobank) and two energy companies (Rosneft and Novatek). Since then the list has continued to expand. These companies are not subject to an asset freeze but US persons are unable to enter into certain transactions with them. These companies appear on a new Sectoral Sanctions Identification List (SSI List) and are not in the SDN list. Russia's largest company - the United Shipbuilding Corporation has been added to the SDN list. US Treasury has issued FAQs on sectoral sanctions which can be found here.
+
+The category of prohibited transactions varies and it is necessary to check the SSI Listing to find out details by cross referencing to the applicable Directive under EO 13662. Certain types of financial services are commonly restricted. However some operators in the energy sector may be affected by Directive 4 (updated 31 October 2017) which contains restrictions on the provision by a US person or within the US of "goods, services (except for financial services), or technology in support of exploration or production for deepwater, Arctic offshore, or shale projects that have the potential to produce oil in the Russian Federation, or in maritime area claimed by the Russian Federation and extending from its territory, and that involve any person determined to be subject to this Directive, its property, or its interests in property". OFAC has also published new and updated FAQs relating to this Directive.
+
+In addition to prohibitions on transactions with named entities and individuals, there are general restrictions on US corporations and individuals conducting business with Crimea (see for example Executive Order dated 19 December 2014).
+
+On 29 December 2016, President Obama imposed sanctions by Executive Order on Russian intelligence agencies, three companies and several individuals for alleged involvement in cyber activity affecting the US. These sanctions are unlikely to have an effect on international trade.
+
+Restrictions on trading with or investment in Crimea or Sevastopol
+
+On 23 June 2014 the European Union passed Council Decision 2014/386/CFSP and Council Regulation 692/2014 introducing new set of sanctions relating to Ukraine. Import of goods originating in Crimea or Sevastopol into the EU is prohibited, as well as financing, financial assistance or (re)insurance in relation to such imports.
+
+
+
+On July 30 2014 an amendment to the 692/2014 regulation was passed in a new Council Regulation No. 825/2014 imposing ban on new investments related to infrastructure in the sectors of transport, telecommunications and energy and the exploitation of natural resources in Crimea and Sevastopol as well as export ban on key equipment and technology related to these sectors. These restrictions were extended on 19 December 2014 by Regulation 1351/2014 which also included a ban on cruise vessels calling at ports in the Crimean Peninsula.
+
+For further information see International Group circular published on 17 July 2014 and the supplementary circular dated 12 August 2014.
+
+The EU has extended its sectoral sanctions against Russia until 31July 2017. In its statement the Council sums up the scope of sanctions imposed by Council Regulation 692/2014 and Council Decision 2014/386/CFSP.
+
+On 1 August 2014, EU Regulation 833/2014 introduced a requirement for prior authorization was required for exporting dual use technology to the Russian oil sector, including floating or submersible drilling or production platforms, sea-going light vessels, fire-floats, floating cranes and other vessels, etc. (listed in Annex II of the Regulation). Prior authorisation was also required for any sale, supply, transfer or export of certain technologies which are "suited for the oil industry" and it is clear that licensing would not be given for technology to be used in "projects pertaining to deep water oil exploration and production, Arctic oil exploration and production, or shale oil projects in Russia". Activities under contracts made before 1 August 2014 were able to go ahead.
+
+EU Regulation 960/2014 of 8 September 2014 amended Regulation 833/2014 and extended the restrictions for certain services associated with deep water oil exploration and production, arctic oil exploration and production, or shale oil projects. These Regulations were further amended, largely to provide clarification, on 4 December 2014 by Regulation 1290/2014.The prohibited services are (i) drilling, (ii) well testing, (iii) logging and completion services and (iv) the supply of specialised floating vessels. There is no provision for authorities to grant an export authorisation, although the measures do not apply to contracts concluded before 12 September 2014. The restrictions do not apply to services necessary for the urgent prevention or mitigation of an event likely to have a serious impact on human health and safety or the environment.
+
+EU Commission published Guidance on the application of certain provisions in Regulation 833/2014 on 16 December 2014.
+
+Similar restrictions apply to other sectors including dual-use technology, arms and military equipment and access to the capital market for financial institutions
+
+The EU first introduced measures freezing the funds and economic resources of designated persons in March 2014. Since then Council Regulation 269/2014 adopted on 17 March has been amended by a series of Council Regulations adding further individuals and entities to the list. Restrictions are in place against a large number of individuals and entities (including Crimea based companies involved in the gas and oil industries, Kerch and Sevastopol Commercial Sea Ports and several Russian largest banks). The EU extended sanctions until 15 September 2016 by Implementing Regulation 2016/353 amending Regulation 269/2014 and Decision 2016/359 amending Decision 2014/145/CFSP. See Links with information about where to find official lists provided by US, EU and UK.
+
+On 14 September 2017 the EU issued Council Regulation 2017/1547 which allows to authorise payments to Crimean Sea Ports for certain services.
+
+Although EU Regulations do not have direct effect in Norway, the Norwegian government has in general aligned itself with the EU.
+
+On 15 August 2014 the Ministry of Foreign Affairs issued a Press Release announcing the introduction of restrictive measures against Russia in line with those already implemented by the EU, including Regulation 833/2014. The Regulation can be found here (FOR-2014-08-15-1076 Norwegian language only).
+
+On April 17 2015, the Norwegian Foreign Ministry adopted changes to its Regulation on restrictive measures against Russia extending its scope and providing some clarifications in line with EU regulations.
+
+On 4 June 2018 President Putin signed law on new counter-measures including restrictions on the import into Russia of products and/or raw materials originating from the USA and other foreign states, and on the export from Russia of products to foreign citizens. The legislation gives President Putin the power to choose the sectors and products that will be affected, and to "ban or suspend co-operation with a hostile state". The Russian Government will define the list of products and raw materials which may be banned from being imported/exported, as well as other types of work/services the procurement of which may be banned or restricted.
+
+On 30 July 2017 in response to CAATSA the President of Russia confirmed that staff at US diplomatic missions in Russia would have to be cut by 755 people and that Russia would seize two US diplomatic properties.
+
+On 7 August 2014 Russia implemented an import ban on beef, pork, poultry, fruit, vegetables, fish, cheese, milk and dairy products. The ban applies to imports from the EU, US, Norway, Australia and Canada.
+
+On May 29 2015 Russia issued a list of 89 European politicians and officials who are banned from entering the country. The list includes past and present European parliamentarians and ministers. The list was sent to all EU member states.

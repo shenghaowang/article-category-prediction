@@ -1,0 +1,27 @@
+The software driving Bitcoin's network was upgraded Wednesday, with security fixes addressing a problem that defunct bitcoin exchange Mt. Gox blamed for losing nearly half a billion dollars worth of bitcoins.
+
+The open-source software, known as Bitcoin-QT, has also been rebranded as "Bitcoin Core" to highlight that it runs the core infrastructure of the virtual currency's transaction and verification network.
+
+Upgrading Bitcoin's software is a delicate operation, and many of the changes have been under discussion for months. The market capitalization of all bitcoins in circulation is roughly US$8 billion, according to figures from Blockchain.info, and a mistake could be costly.
+
+But the virtual currency has weathered innumerable negative events over the past five years and is still seeing growing adoption by businesses and retailers as an alternative payment platform.
+
+The value of a bitcoin wobbled only slightly after Mt. Gox, at one time the largest bitcoin exchange, filed for bankruptcy protection in Tokyo District Court on Feb. 28 and in U.S. Bankruptcy Court for the Northern District of Texas on March 9.
+
+In early February, Mt. Gox said it was investigating a long-known security problem called "transaction malleability," which in some cases can allow attackers to make it falsely appear they haven't received a bitcoin payment if an exchange isn't properly validating transactions.
+
+Other exchanges briefly halted trading while inspecting their code, but bitcoin experts said highly customized software written by Mt. Gox likely exacerbated the problem.
+
+After filing for bankruptcy, Mt.Gox said the bug was possibly responsible for the missing bitcoins, valued at US$474 million at the time. It has not yet provided a clearer explanation for the losses.
+
+The latest version of bitcoin's software, 0.9.0, contains more than a half dozen fixes for transaction malleability, according to the release notes for the software.
+
+Bitcoin Core also contains a new feature for payment requests. Previously, merchants couldn't attach a note describing an invoice, and people also could not supply a refund address to a merchant.
+
+The latest version automatically supplies a refund address. The payment requests can also be cryptographically signed to ensure the bitcoins are going to the intended recipient, wrote Wladimir van der Laan of the Bitcoin Core Development Team.
+
+The improvements help make bitcoin more usable for commerce. Lann wrote that future Bitcoin Core releases will aim to fine tune the software, improving its functionality and the users' experiences.
+
+Developers creating bitcoin-compatible software are advised to incorporate the software changes into their own "wallets," which are software programs for holding and transferring bitcoins, and other payments applications.
+
+Send news tips and comments to jeremy_kirk@idg.com. Follow me on Twitter: @jeremy_kirk

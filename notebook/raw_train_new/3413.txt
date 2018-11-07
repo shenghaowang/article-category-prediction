@@ -1,0 +1,81 @@
+When MtGox suddenly shut up show with $400 million worth of ¡®missing¡¯ Bitcoins last month, the owners of the exchange stated that hackers were responsible for this loss. Whoever had raided MtGox has successfully exploited the transaction malleability bug to divert these funds from the exchange, or so its owners claimed. But suspicions have lingered over how true the hacker story really is, with some claiming that the owners may have simply pocketed the cash for themselves.
+
+Now, following MtGox¡¯s unnerving silence since it made an application for bankruptcy just over a week ago, a group of hackers claims to have broken into the site¡¯s network to find out what the real story is.
+
+According to a report in Forbes, the hacker or hackers successfully compromised Mark Karpeles¡¯ personal blog and Reddit account, before using these two platforms to post ¡®evidence¡¯ that the MtGox CEO still had access to some of the missing Bitcoins. They also provided a series of files to support these claims, including a spreadsheet that details over a million Bitcoin transactions; a screenshot that appears to confirm the hackers gained access to MtGox¡¯s network; and Karpeles¡¯ home address.
+
+The hackers also presented a file that show¡¯s MtGox¡¯s bank balance in 18 different currencies. Most tellingly, this file shows that it still has a balance of 951,116 Bitcoins ¨C something that hackers say is ¡®evidence¡¯ that the exchange¡¯s owners still have quite a stash of BTC. As the hacker¡¯s so eloquently point out, ¡°That fat fuck has been lying!!¡±
+
+Here¡¯s the full text of the message from the hackers:
+
+*** SAVE THIS POST, MIRROR THE FILES, REPOST, SHARE AND KEEP THIS DATA AVAILABLE *** First and foremost, this is not Mark Karpeles. Fuck that bitch-titted motherfucker.
+
+ It¡¯s time that MTGOX got the bitcoin communities wrath instead of Bitcoin Community getting Goxed. This release would have been sooner, but in spirit of responsible disclosure and making sure all of ducks were in a row, it took a few days longer than would have liked to verify the data.
+
+ Above you will finding download link and a mirror used without asking from Mark Karpeles very own blog.magicaltux.net.
+
+ Included in this download you will find relevant database dumps, csv exports, specialized tools, and some highlighted summaries compiled from data. Keeping in line with fucking Gox alone, no user database dumps have been included.
+
+ Repost and share this info before it¡¯s gone. Lots of people, including us, lost money and coins. Upvote this post.
+
+ We stole no bitcoins. There were none to steal. If you want to donate, you can keep us full of pizzas and beers by sending coins here, 1859rayqN1X7DYjD1BrAHm4vaQxoUhhzsN .
+
+ Balance SUM for ALL USERS by currency.
+
+ [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+
+ Currency: AUD Balance: 924,124.65121
+
+ Currency: BTC Balance: 951,116.21905382 <¨C That fat fuck has been lying!!
+
+ Currency: CAD Balance: 320,184.36558
+
+ Currency: CHF Balance: 99,487.07308
+
+ Currency: CNY Balance: 297,775.78994
+
+ Currency: DKK Balance: 112,264.56207
+
+ Currency: EUR Balance: 5,634,625.59531
+
+ Currency: GBP Balance: 921,892.96793
+
+ Currency: HKD Balance: 740,519.14894
+
+ Currency: JPY Balance: 384,885,150.13700
+
+ Currency: NOK Balance: 91,346.00305
+
+ Currency: NZD Balance: 58,224.95320
+
+ Currency: PLN Balance: 1,645,194.67364
+
+ Currency: RUB Balance: 551,162.54477
+
+ Currency: SEK Balance: 15,335.84383
+
+ Currency: SGD Balance: 43,193.59706
+
+ Currency: THB Balance: 666,464.33497
+
+ Currency: USD Balance: 30,611,805.67481
+
+ [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+
+ Total BTC Deposits: 19,065,241.307202
+
+ Total BTC Withdrawl: 18,563,466.149383
+
+ ¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+
+ BTC Difference: 501,775.157819
+
+ [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+
+The files haven¡¯t been confirmed as genuine, and even if they are real there¡¯s no way of telling if they¡¯re up to date. It could simply show money that MtGox once held, before the hackers made off with their booty ¨C but then again, it could be further evidence of massive theft on the part of Karpeles and others at MtGox.
+
+In its bankruptcy filing, MtGox claimed to have lost around 750,000 Bitcoins that belong to its customers, in addition to 100,000 of its own. However, Bitcoin users have yet to see these missing Bitcoins appear on the public blockchain, which suggests that whoever does have the money is keeping it stashed somewhere.
+
+This weekend¡¯s ¡®hack¡¯ comes just days after someone attempted to sell a file containing the personal details and passport scans of MtGox¡¯s users on the BitcoinTalk forum. The ¡®owner¡¯ of that 20GB file offered it for sale for 100 bitcoins, ¡°to make up for personal losses from MtGox closure¡±.
+
+Since you¡¯re here ¡­Support our Sponsors ¡­ We¡¯d like to tell you about our mission and how you can help us fulfill it. SiliconANGLE Media Inc.¡¯s business model is based on the intrinsic value of the content, not advertising. Unlike many online publications, we don¡¯t have a paywall or run banner advertising, because we want to keep our journalism open, without influence or the need to chase traffic. The journalism, reporting and commentary on SiliconANGLE ¡ª along with live, unscripted video from our Silicon Valley studio and globe-trotting video teams at theCUBE ¡ª take a lot of hard work, time and money. Keeping the quality high requires the support of sponsors who are aligned with our vision of ad-free journalism content. If you like the reporting, video interviews and other ad-free content here, please take a moment to check out a sample of the video content supported by our sponsors, tweet your support, and keep coming back to SiliconANGLE:

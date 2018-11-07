@@ -1,0 +1,23 @@
+Whenever you borrow money, whether it's in the form of a mortgage or a line of credit from your bank, you're required to pay that money back. The same holds true for companies that issue bonds. When a company issues bonds, it's obligated to make regular interest payments to bondholders and repay their principal investments once the bonds come due. Whenever a company fails to uphold its obligations to bondholders, whether it's in the form of a missed interest payment or a missed principal payment, it's considered a bond default.
+
+A bond is a contract of sorts between an issuer (which could be either a corporation or a municipality) and an investor. When you buy bonds, the issuer agrees to repay your principal investment once the bond matures, or comes due. In the interim, the issuer is required to make interest payments, typically twice a year, which serve as your incentive for buying the bond in the first place.
+
+Sometimes, however, companies or municipalities run into cash flow issues, and when this happens, the result is often a bond default. A default occurs when any payment on the part of an issuer is missed. It doesn't matter whether the payment in question is a principal payment or an interest payment -- it's still considered a default.
+
+What happens when a bond defaults?
+
+Sometimes bond defaults resolve themselves. It can happen that an issuer experiences a temporary cash flow problem that causes it to miss a payment, but then makes that payment a week later. While this type of scenario technically constitutes a default, it's fairly innocuous from a bondholder perspective.
+
+But while some bond defaults resolve themselves quickly, others signify major financial trouble for the issuer. In fact, it's often the case that a company that defaults on its bonds will file for bankruptcy shortly thereafter.
+
+Once a company enters the bankruptcy process, the extent to which you'll be repaid as a bondholder will depend on the company's assets and cash flows, as well as the type of bankruptcy at play. In a Chapter 7 bankruptcy, the company that files goes through a liquidation process. A trustee is appointed to sell off the company's assets, and creditors are paid based on the value of those assets. In a Chapter 11 bankruptcy, the company that files will continue to operate while attempting to reorganize its debts. The company will submit a plan of reorganization, and once approved, bondholders will be paid as per the terms of the plan.
+
+In either type of bankruptcy, bondholders fall somewhere in the middle in terms of getting repaid. Though bondholders aren't first in line, they do take priority over stockholders. If you buy bonds from a company that files for Chapter 11, you might get repaid in the form of new bonds, but there's a chance you'll take a hit on their face value.
+
+Protecting yourself as an investor
+
+Though bonds are generally considered less risky than stocks, they're by no means a risk-free investment. All it takes is for an issuer to default on its obligations or file bankruptcy for you to lose money. You can protect yourself, however, by sticking to bonds with high credit ratings and keeping regular tabs on your investments. This is especially important when you buy long-term bonds with far-off maturity dates, as a lot can happen to an issuer's finances over time.
+
+You should also be aware that while defaults are far more common with corporate bonds than municipal bonds, municipalities can also default on their obligations. If you have reason to believe that the issuer of your bonds might have difficulty making an upcoming payment, it might make sense to sell your bonds before that happens provided the market price is right.
+
+This article is part of The Motley Fool's Knowledge Center, which was created based on the collected wisdom of a fantastic community of investors. We'd love to hear your questions, thoughts, and opinions on the Knowledge Center in general or this page in particular. Your input will help us help the world invest, better! Email us at knowledgecenter@fool.com. Thanks -- and Fool on!

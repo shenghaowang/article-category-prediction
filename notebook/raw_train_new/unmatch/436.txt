@@ -1,0 +1,39 @@
+When announcing Comcast¡¯s intention to buy Time Warner Cable, Comcast CEO Brian Roberts called cable a ¡°highly competitive and dynamic marketplace.¡± Dynamic it might be, but competitive it isn¡¯t. Most of us live a local monopoly, cable-wise: it might be a Comcast city or a Time Warner town, but we don¡¯t have that much choice with our providers. And those companies also, hugely, provide our broadband access. So what does 75% reach or a 15% market share really look like, to a city and the people in it?
+
+All of the data for these maps comes from the National Broadband Map, a joint project of the NTIA and FCC. The map shows what broadband operators operate in every part of the country, and what technologies they provide. It¡¯s a tool that shows both a national perspective or lets you view info for a specific address.
+
+There are a few caveats about the data. First, it¡¯s not an exact 1:1 representation of ¡°here are all the houses that subscribe to [provider],¡± but instead a map of available services in a particular area. Secondly, the map works at the census tract level, which leaves a bit of room for error. For example, if there¡¯s a building in the very corner of your census tract that can get FiOS, then your address will still show up as having FiOS access even if Verizon has refused several times to run the fiber an extra half mile down the road to you. (Sigh.)
+
+That said, even with the potential imprecision the maps still provide a stark visualization of just how much your address matters when it comes to your broadband access.
+
+The Twin Cities are one such example:
+
+Not only does the map for the area clearly show the city and county boundaries where service changes over, but also it highlights the divide between rural and urban/suburban areas. As you zoom out from Minneapolis and St. Paul, cable broadband service in Minnesota shows up in nodes along the interstate like a string of Christmas lights.
+
+But if you do live in the city, and have cable access, your options are Comcast or bust. Charter barely hangs on around the edges.
+
+Moving from the midwest to the West Coast, it¡¯s the same story in Los Angeles: Time Warner Cable (which isn¡¯t Comcast yet, but may well be soon) dominates the city, with Charter squeezed in around the edges:
+
+And then there¡¯s Boston, where the line of cable competition is almost analogous to a map of the city borders:
+
+Two years ago, Boston petitioned the FCC to be permitted to regulate cable after a decade of continuous rate increases from Comcast. Comcast, in its turn, claimed that as RCN also operated in the city, it wasn¡¯t a monopoly and the prices were fair.
+
+Technically, Comcast was telling the truth. Although RCN¡¯s service mostly stops abruptly at the Boston city line, RCN does operate inside Boston¡¯s borders. There are little purple rectangles of service dotting Beantown here and there. But the majority of those little dots aren¡¯t residential areas; they¡¯re commercial ones. (One of them is, inexplicably, Boston Common ¡ª a big park.)
+
+It¡¯s a technicality that doesn¡¯t stretch all that far, though, and Boston is still seeking better ways to improve the internet in town. New mayor Martin Walsh has recently pledged to bring higher internet speeds to the city, and that means fiber. Verizon FiOS won¡¯t expand to serve Boston, and the shortlist for near-term Google Fiber expansion skipped the northeast entirely, so Boston is seeking other options.
+
+A representative from Boston¡¯s office of Innovation and Technology told Consumerist, ¡°The City is very interested in getting a fiber-based provider to build-out to all our neighborhoods,¡± and added:
+
+And from East Coast back to the West: Los Angeles, too, has decided fiber is the way forward. L.A. is actively working on a plan to create a fiber network. Even the bids for partnerships are still in the future, though, to say nothing of the actual build-out and availability to subscribers. For now, consumers are stuck with their local monopoly.
+
+Even when a city sports active competition, actual choice for consumers can remain surprisingly limited. Enter New York: the five boroughs of New York City have, among them, four broadband providers.
+
+To some extent, there is genuine competition in the city, and it works. When Verizon FiOS came to town in 2008, customers began fleeing Time Warner Cable whenever the option presented itself.
+
+But by late 2013, it became clear Verizon¡¯s ¡°access everywhere¡± promises had stalled out. In October, The Verge reported on the situation. Verizon claims that they reach 75% of the city¡¯s millions of residents; public advocate Bill de Blasio, who has since become the city¡¯s mayor, claimed the number was closer to 51%. Verizon, meanwhile, has no plans to expand FiOS any further.
+
+Large, very densely-populated swaths of Brooklyn, Manhattan, Queens, and the Bronx remain limited to service from Time Warner Cable or from Cablevision. Even in a city that can claim four providers, your options depend entirely on what neighborhood, or even city block, you live in.
+
+Consumers in most areas don¡¯t really have any relief on the near horizon. Even if, hypothetically speaking, Comcast spun off whole markets like Minneapolis to competitors like Charter as part of the TWC merger, it wouldn¡¯t really help the consumers who live there. If there¡¯s only one option at your house, it barely matters who owns it. One provider might give better customer service than another, but there¡¯s still no market in the area forcing a company to improve infrastructure or reduce prices.
+
+Customers in most cities currently have two options for broadband: their cable provider, or slower DSL through copper wires. But the more resource-intensive 21st century entertainment gets ¡ª both in speed and in volume ¡ª the less traditional DSL will be able to handle consumers¡¯ needs. That leaves fiber networks, both private and public, as the path of the future. And millions of consumers would benefit from making that future a reality as soon as possible.

@@ -1,0 +1,27 @@
+A Japanese court ruled Friday to pull infamous Bitcoin exchange Mt. Gox out of bankruptcy, opening the door for at least $1 billion worth of cryptocurrency to be paid back to the company¡¯s former customers.
+
+The decision was a stunning outcome for victims in a saga that represents Bitcoin¡¯s darkest chapter since its creation nearly a decade ago: Mt. Gox, then the largest Bitcoin exchange in the world, collapsed in early 2014 after realizing it had lost all the cryptocurrency it held ¡ª 850,000 Bitcoins valued at roughly $473 million at the time. The Mt. Gox hack is still the biggest theft of Bitcoins in history.
+
+While 200,000 Bitcoins were subsequently discovered by Mt. Gox¡¯s then-CEO Mark Karpel¨¨s, that money had essentially been frozen in the Tokyo-based company¡¯s bankruptcy estate ever since. For more than four years, Mt. Gox creditors have been unsure if and when they could ever expect refunds ¡ª or if they would receive paper money or Bitcoins back ¡ª even as the value of their recovered assets soared to more than $4 billion when the Bitcoin price peaked last year.
+
+That changed this week when the Tokyo District Court halted Mt. Gox¡¯s bankruptcy proceedings and commenced a legal process known as civil rehabilitation, allowing it to distribute the remaining Mt. Gox assets to ex-customers and debtors. The estate include nearly 170,000 each of Bitcoins and its offshoot Bitcoin Cash, worth roughly $1.2 billion at today¡¯s prices.
+
+¡°Enormous assets¡­will be returned to creditors of Mt. Gox,¡± Shin Fukuoka, a leading attorney and partner at Japan¡¯s Nishimura & Asahi law firm, who petitioned the Court for civil rehabilitation on behalf of a large creditor, wrote in a statement. ¡°This is the creditors¡¯ victory.¡±
+
+Subscribe to The Ledger, Fortune¡¯s weekly newsletter about cryptocurrency and the blockchain.
+
+The Court also confirmed that those ¡°seeking a refund of Bitcoins¡± would be paid in that form. Under the original bankruptcy plan, creditors were only entitled to receive the monetary equivalent of the value of their Bitcoins at the time of Mt. Gox¡¯s collapse, when the cryptocurrency¡¯s price was $483. With the Bitcoin price now around $6,200, millions of dollars worth of excess would otherwise have lined the pockets of Karpel¨¨s and other Mt. Gox shareholders.
+
+Still, the news came as a relief for Karpel¨¨s, on trial in Tokyo for embezzlement and other criminal charges, who feared a backlash of lawsuits if he were to collect the windfall.
+
+¡°I hope entering civil rehabilitation will be for the best of everyone. As I said previously I am not expecting any kind of profit from this and only hope everyone will be repaid as much as possible as soon as possible,¡± Karpel¨¨s told in a message following the announcement. ¡°Creditors worked hard for the purpose of seeing civil rehabilitation happen and I will continue to help as much as I can.¡±
+
+In addition to creditors, investors who speculated on such a fortunate, if once unlikely, turn of events by buying up the claims of others stand to reap major profits from the Mt. Gox disaster. That includes Thomas Braziel, managing partner of hedge fund B.E. Capital Management, who purchased $1 million in creditors¡¯ claims at a discount: ¡°If the rehabilitation happens, it¡¯s a bonanza, and you make eight, nine, 10 times your money,¡± Braziel told me earlier this year.
+
+The payout, however, won¡¯t come immediately. The Mt. Gox trustee has reopened a claim-filing process requiring creditors to submit proof of what they are owed under the rehabilitation, and must also formulate a new plan for the distribution of assets, which is due Feb. 14, 2019. It could be a year from now or longer before that plan becomes final and creditors receive their Bitcoins.
+
+Yet even the prospect of hoards of Mt. Gox Bitcoins flooding the market once creditors get their hands on them may have contributed to a sharp rout in the Bitcoin price, which dropped nearly 8% Friday, while Bitcoin Cash fell nearly 12%. The selloff also came on the heels of a $32 million hack of South Korean cryptocurrency exchange Bithumb and fears that India may ban Bitcoin.
+
+The rest of Mt. Gox¡¯s missing Bitcoins, some 650,000, were stolen by hackers and may never be recovered, though one suspect in the conspiracy was arrested last summer. (For the full saga, read my feature story in , ¡°Mt. Gox and the Surprising Redemption of Bitcoin¡¯s Biggest Villain.¡±)
+
+At the same time, the civil rehabilitation proceedings ¡ª marking the first time a defunct business has been ¡°rehabilitated¡± in Japan¡¯s history ¡ª does not mean Mt. Gox itself will make a comeback. ¡°There are no plans to resume operations of the Bitcoin exchange operated by Mt. Gox at this time,¡± the company¡¯s trustee told creditors.

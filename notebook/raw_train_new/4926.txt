@@ -1,0 +1,5 @@
+Bitcoin exchange Mt. Gox, which filed for bankruptcy in February after losing 744,408 bitcoins belonging to customers in addition to 100,000 it owned, reports it has found nearly a quarter of its lost cache in a forgotten online wallet.
+
+The exchange claims that it found 200,000 bitcoins ¡ª the current equivalent of $119 million ¡ª in a digital file that had not been accessed since June 2011. The discovery brings the amount of missing cryptocurrency down to around 650,000.
+
+Mt. Gox, based in Japan, was the world¡¯s largest bitcoin exchange until the loss forced them to halt operations.

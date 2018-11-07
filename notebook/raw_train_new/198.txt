@@ -1,0 +1,29 @@
+Failed Bitcoin exchange Mt. Gox is allowing users to log in to their accounts once again, nearly three weeks after it filed for bankruptcy protection.
+
+Some users reported seeing accurate balances, but on various forums, users were, however, concerned that the exchange's website had been hacked and the new login facility on the site may be a hoax.
+
+"We believe this is an authentic notice on the website and we are confirming with the legal team," a call center staffer said on Tuesday.
+
+Another staffer had earlier said that she was unable to say whether the reactivated login was the result of an order by the Tokyo District Court, adding the database cannot be accessed while the case is being investigated by the court. Lawyers for Mt. Gox could not immediately be reached.
+
+The notice on the website, which was said to have been posted Tuesday by the call center, invited users to log in to check their Bitcoin wallet balances. It's the first access since the Tokyo-based exchange went offline Feb. 25 and later announced it had lost some 850,000 bitcoins.
+
+Some users noted that the reopened access only confirms what they knew before the exchange's meltdown and that their coins remain in limbo.
+
+"The site shows the coins, but it indicates it has no real meaning with respect to claims," said Aaron G., an investor who did not want his last name to be used. His balance indicates about 464 bitcoins (roughly US$286,700 according to average bitcoin prices on other exchanges).
+
+"So, just numbers on a screen -- just as 'real' as they were before Gox went down," he said in an email interview.
+
+Aaron, who filed a fraud complaint against the exchange with Tokyo police, was referring to the legalese on the page citing Mt. Gox's pending status under Japan's Civil Rehabilitation Act.
+
+"Please be aware that confirming the balance on this site does not constitute a filing of rehabilitation claims under the civil rehabilitation procedure and note that the balance amounts shown on this site should also not be considered an acknowledgment by MtGox Co., Ltd. of the amount of any rehabilitation claims of users," the exchange said on its website.
+
+"I can see the 10k Mtgox stole from me... hooray!" a Reddit user posted in reaction to the reactivation of the login.
+
+The Mt. Gox website said it will post a method for filing claims as soon as it is in a position to do so, without providing details.
+
+The move follows the exchange's filing for bankruptcy protection in Tokyo District Court on Feb. 28 with liabilities of AY=6.5 billion ($63.6 million), when it said 750,000 of its customers' bitcoins were missing, along with 100,000 of its own. Users were left wondering whether they will ever get their bitcoins back.
+
+The rehabilitation procedure is one of several legal actions involving Mt. Gox and its parent company Tibanne, led by Mark Karpeles. Last week a U.S. district court judge ordered a freeze of the assets of Karpeles as well as Tibanne and Mt. Gox's U.S. subsidiary amid allegations of fraud.
+
+Gregory Greene filed the Chicago lawsuit against Mt. Gox on Feb. 27, alleging he lost around $25,000 worth of bitcoins in the exchange's meltdown.

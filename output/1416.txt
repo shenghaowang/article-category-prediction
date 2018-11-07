@@ -1,0 +1,11 @@
+archive containing transaction records mt gox released internet last week hackers compromised blog mt gox ceo mark karpeles also contains malware windows mac
+security researchers antivirus firm kaspersky lab analyzed file called mtgox2014leakzip concluded addition various mt documents data contains malicious binary files
+learn secure systems web browser deep dive pdf special report security central newsletter infoworld
+files windows mac versions custom backoffice application accessing transaction database mt gox large bitcoin exchange filed bankruptcy japan late february claiming lost 85000 bitcoins cyber thieves
+however actually malware programs designed search steal bitcoin wallet files computers kaspersky security researcher sergey lozhkin said friday blog post
+windows mac written programming language developing applications
+executed display graphical interface appears mt gox database access tool however background launch process windows searches walletdat files users computer according lozhkin latter critical data file bitcoin cryptocurrency user kept unencrypted stolen cyber criminals gain access bitcoins user possession specific account
+malware kaspersky named windows version mac version stolen bitcoin wallet files remote server used located bulgaria offline
+seems whole leak invented infect computers malware takes advantage peoples keen interest mt gox topic lozhkin said
+malware creators often using social engineering tricks hot discussion topics spread malware great example attack focused target audience said
+users downloaded archive executed binary files inside probably scan computers antimalware program take immediate steps secure bitcoins according scan report monday service 27 47 antivirus engine detect windows binary file malicious suspicious

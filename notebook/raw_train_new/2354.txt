@@ -1,0 +1,35 @@
+A new version of Starbucks¡¯ iPhone app means the 5 million mobile payments the coffee giant handles weekly can now include tips for baristas.
+
+Starbucks has unveiled a new iPhone app that will allow customers to tip from their smartphone, a move that flexes the coffee giant¡¯s digital muscle and could help line baristas¡¯ pockets with money from the millions who use mobile devices to pay for their lattes.
+
+Right now all tipping at Starbucks is done in cash. Customers paying with a credit or debit card or with the Starbucks card cannot leave tips unless they have cash in hand.
+
+The new feature connects Starbucks employees with a rapidly expanding universe of potential tippers: 10 million customers use the Starbucks mobile app, accounting for 12 percent of transactions, double the rate from a year ago.
+
+¡°We think it¡¯s going to be great for our baristas,¡± Chief Digital Officer Adam Brotman said in an interview at Starbucks¡¯ Sodo headquarters. He said customers have been requesting a tipping feature for the app for some time.
+
+The addition of tipping comes amid a thorough redesign of Starbucks¡¯ iPhone app, an increasingly important tool for the company as it focuses on adapting to consumers¡¯ embrace of smartphones and online commerce.
+
+Starbucks processes 5 million mobile payments per week. At an analyst conference Tuesday, chief operating officer Troy Alstead said that Starbucks is the largest mobile-payments retailer in the U.S. ¡°and, we think, around the world.¡±
+
+Alstead and other executives have hinted that the company might eventually extend that expertise beyond its stores.
+
+Also key is Starbucks¡¯ 7 million member-strong rewards program, which is highlighted in a streamlined app redesign that gives customers a quick glimpse of how close they are to freebies.
+
+Starbucks has also added a ¡°shake to pay¡± feature: to pay, customers shake their phone at the counter. That causes a bar code to show up and the barista scans it.
+
+Currently customers navigate their way to the bar code by pressing a button.
+
+Starbucks Chief Financial Officer Scott Maw said at the analyst conference on Tuesday that the current version of the app is the fastest way to pay. The shake-up feature should help speed transactions further.
+
+The app will be available on March 19 in the U.S., U.K. and Canada, and an Android version will be available later this year, the company said.
+
+Starbucks¡¯ tipping feature will give customers the option of tipping 50 cents, $1 or $2 via a push notification sent to their iPhone a few minutes after paying at the register.
+
+Customers will have a two-hour window to decide about the tip, or to change the amount, said Brotman.
+
+The feature also somewhat resembles the tipping method devised by Square, a mobile-payments company in which Starbucks has invested and which Brotman called ¡°an inspiration.¡±
+
+Tips have been a touchy subject at Starbucks. Last November a U.S. Court of Appeals dismissed a lawsuit filed by Starbucks baristas in New York upset at having to share tips with shift supervisors.
+
+Starbucks¡¯ old iOS app came under fire in January when a cybersecurity expert found that it stored some user information without encryption. The app was fixed a few days after the discovery.

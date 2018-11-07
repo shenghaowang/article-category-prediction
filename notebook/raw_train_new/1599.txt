@@ -1,0 +1,3 @@
+By selecting one or more (max 10) payment types, prices on Wego will include applicable minimum payment fees. Please note that not all providers support all payment types.
+
+Please select at least 1 Payment Method.

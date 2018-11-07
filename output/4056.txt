@@ -1,0 +1,22 @@
+table 1 job openings levels rates industry region seasonally adjusted
+table 2 hires levels rates industry region seasonally adjusted
+table 3 total separations levels rates industry region seasonally adjusted
+table 4 quits levels rates industry region seasonally adjusted
+table 5 layoffs discharges levels rates industry region seasonally adjusted
+table 6 separations levels rates industry region seasonally adjusted
+table 7 job openings levels rates industry region seasonally adjusted
+table 8 hires levels rates industry region seasonally adjusted
+table 9 total separations levels rates industry region seasonally adjusted
+table 10 quits levels rates industry region seasonally adjusted
+table 11 layoffs discharges levels rates industry region seasonally adjusted
+table 12 separations levels rates industry region seasonally adjusted
+table 13 annual hires levels industry region seasonally adjusted
+table 14 annual hires rates industry region seasonally adjusted
+table 15 annual total separations levels industry region seasonally adjusted
+table 16 annual total separations rates industry region seasonally adjusted
+table 17 annual quits levels industry region seasonally adjusted
+table 18 annual quits rates industry region seasonally adjusted
+table 19 annual layoffs discharges levels industry region seasonally adjusted
+table 20 annual layoffs discharges rates industry region seasonally adjusted
+table 21 annual separations levels industry region seasonally adjusted
+table 22 annual separations rates industry region seasonally adjusted

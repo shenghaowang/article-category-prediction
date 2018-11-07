@@ -1,0 +1,33 @@
+Along with GDP growth, the unemployment rate is the most recognized economic statistic in the United States. It¡¯s too bad it is so misleading.
+
+¡°The unemployment rate declined to 4.6 percent in November¡­¡± are the very first words of the Bureau of Labor Statistics¡¯ news release about the November 2016 survey data. That must seem incredibly wrong to many Americans. And that is because it is, in fact, not true that 4.6% of Americans who want a full-time job don¡¯t have one. The unemployment rate is something more specific and less meaningful.
+
+As measured by the BLS, the unemployment rate is defined as the percentage of unemployed people who are currently in the labor force. In order to be in the labor force, a person either must have a job or have looked for work in the last four weeks. A person only needed one hour in the prior week to be considered employed.
+
+This leaves out a ton of relevant people. According to the November 2016 data, over 5.5 million Americans said they want a job, but don¡¯t have one, and are not considered a part of the labor force. If these people were included in the unemployment rate, it would jump to 8.2%.
+
+The BLS is not attempting to be deceptive. These folks are left out of the calculation because more than half of them have not done anything to find work in more than a year. Another 10% of this group say they are not available for work at the moment.
+
+Yet to leave this group out significantly underestimates employment issues in the US. For example, the unemployment rate completely ignores the nearly 600,000 ¡°discouraged workers¡± who say they are no longer looking because they don¡¯t think they can find a job. It disregards the many students who would like a part-time job but have given up looking, and caretakers who would take a job if the compensation was high enough.
+
+Among the group of people that the BLS considers out of the labor force, there is too much variety in their ¡°labor force attachment¡± (the economic term for the likelihood a person will return to the labor market) to simply disregard them. This is not a new argument. More than three decades ago, the Nobel prizewinner James Heckman and his coauthor Christopher Flinn pointed out that labor force participation is a matter of degree, not binary.
+
+The research of the economists Andreas Hornstein of the Federal Reserve Bank of Richmond, Marianna Kudlyak of the Federal Reserve Bank of San Francisco, and Fabian Lange of McGill University demonstrates this fluidity. The researchers calculated the likelihood of different groups of nonemployed people getting a job in the next month (pdf) using data from 2010. They found that the ¡°unemployed¡± had a 16.8% of getting a job the next month, while those who are considered out of the labor force but say they want a job, found work 11.6% of the time.
+
+A better indicator of whether someone is unemployed or not is the amount of time since they last worked. As every person without a job knows, it¡¯s a lot easier to find one the less time you¡¯ve been out of work.
+
+When Hornstein, Kudlyak and Yange looked at subgroups within these employment types, they found that the ¡°unemployed¡± who had not had a job in over six months were no more likely to find a job in the next month than those who said they wanted a job but are not counted in the labor force. Does it really make sense that BLS considers one group in the unemployment rate calculation, but leaves the other out?
+
+Hornstein, Kudlyak and Yange don¡¯t think so. They developed a new statistic: the nonemployment index.
+
+Instead of ignoring those that BLS considers out of the labor force, the nonemployment index includes them. The index is calculated by weighting each type of nonemployed group by their likelihood of transitioning to the labor market in the next month. In other words, instead of not counting people out of the labor force, they are counted as one-third or one-tenth of a person depending on their subgroup.
+
+The following chart shows the nonemployment index versus the unemployment rate over the last 20 years. The nonemployment rate is consistently higher, and has not fallen quite as quickly since the Great Recession. If part-time workers who were interested in full-time work were included, the nonemployment index would rise by about 1%.
+
+Hornstein, Kudlyak and Lange are not the only researchers to have taken issue with the unemployment rate. The left-leaning Economic Policy Institute (EPI) publishes an alternative unemployment rate that includes ¡°missing workers.¡± EPI contends that demographic trends suggest that two million more people would be participating in the job market if it were significantly stronger, but that these people are instead counted as out of the labor force.
+
+Even the BLS grants that there may be an issue. ¡°Some have argued, however, that the [unemployment rate inclusion] measures are too restricted, and that they do not adequately capture the breadth of labor market problems,¡± the BLS explains in an FAQ. In response to this concern, the BLS now publishes some crude alternative measures of unemployment. Still, the unemployment rate remains the top line finding of the monthly labor market report.
+
+Critics of the unemployment rate don¡¯t think it is completely useless. The researchers behind the nonemployment index write that the conventional unemployment rate provides a ¡°valid signal¡± of the labor market cycle. The unemployment rate and alternative measures like the nonemployment index are highly correlated. So for understanding directional trends in the job market, there is not a huge difference.
+
+But unemployment is too important a measure for us to be okay with just directional accuracy. The unemployment number the US uses should give a real sense of how many people are out of work, but don¡¯t want to be. As currently defined, it doesn¡¯t do that. The government has the tools to do better and it should.

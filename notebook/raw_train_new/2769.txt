@@ -1,0 +1,21 @@
+Defunct Bitcoin exchange Mt. Gox has been accused of pocketing its users¡¯ cash by a group of hackers who infiltrated the personal blog and Reddit account of the service¡¯s CEO.
+
+The repository made headlines last month after 200 million worth of Bitcoins were allegedly stolen by hackers, forcing the organisation to file for bankruptcy protection in Japan and close its doors.
+
+The company claimed in the bankruptcy filing that it had lost 750,000 customer Bitcoins, as well as 100,000 company-owned ones too.
+
+However, a separate group of hackers have now accused the firm of pocketing at least some of the money it told users had been stolen.
+
+According to a report by Forbes, the hackers gained access to the Reddit account and personal blog of Mt. Gox CEO Mark Karpeles to post a missive detailing their accusations.
+
+¡°It¡¯s time that MTGOX got the Bitcoin communities wrath instead of [the] Bitcoin Community getting Goxed,¡± the hackers wrote.
+
+The term ¡°Goxed¡± is often used by Mt. Gox users to describe instances where the site has gone offline or experienced other technical issues.
+
+The group also reportedly posted a 716 megabyte file to Karpeles¡¯ personal website that allegedly contained data stolen from Mt. Gox¡¯s servers about the organisation¡¯s finances.
+
+The hackers said it shows the company has a balance of 951,116 Bitcoins, and have used it to pour scorn on Mt. Gox¡¯s assertion that users¡¯ money had been lost.
+
+Karpeles was unresponsive to requests for comment from Forbes, and ¨C at the time of writing ¨C the hackers¡¯ claims were still awaiting verification.
+
+In the meantime, industry watchers have started questioning why no evidence has been uncovered to date about how the stolen Bitcoins are being spent, fuelling speculation they may not have been stolen at all.

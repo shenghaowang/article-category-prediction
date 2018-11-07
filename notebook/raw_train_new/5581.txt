@@ -1,0 +1,11 @@
+In a rare public statement, the CEO of the embattled Bitcoin exchange Mt. Gox said that the company has found an ¡°old format wallet¡± containing approximately 200,000 bitcoins. At present exchange rates, that sum is worth over $115 million.
+
+Mt. Gox has filed for both bankruptcy protection in its native Japan and in the US.
+
+¡°Taking into account the existence of the 200,000 BTC, the total number of bitcoins which have disappeared is therefore estimated to be approximately 650,000 BTC. (Please note that the reasons for their disappearance and the exact number of bitcoins which disappeared is still under investigation and that the above figures may still change depending on the results of the investigation),¡± wrote Karpeles
+
+Mt. Gox has said that it has lost 750,000 bitcoins (around $412.5 million) belonging to customers, and over 100,000 bitcoins (around $55 million) of its own money. The site suddenly shut down last month after weeks of sustained DDoS attacks and ¡°transaction malleability¡± problems, which led the company to halt withdrawals entirely. (That problem was finally patched on Thursday.)
+
+As far as the purported internal documents that were released in February, Karpeles previously told Ars, ¡°I cannot comment on documents not issued by us,¡± but he did not deny their authenticity.
+
+Since then, Karpeles has not responded to Ars¡¯ repeated requests for comment.

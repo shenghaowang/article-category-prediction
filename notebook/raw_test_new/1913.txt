@@ -1,0 +1,51 @@
+Turkish Prime Minister Recep Tayyip Erdoan has had it in for Twitter ever since a stream of damaging leaks alleging widespread corruption in his inner circle spread via the social network.
+
+Things got more restrictive back in February, as the Turkish parliament passed a bill designed to tighten control of the Internet, allowing blocks of websites deemed offensive.
+
+On Thursday, the hammer fell, with Erdoan promising to "wipe out Twitter," claiming "They will see the Turkish republic's strength."
+
+As of last night, the hashtags #TwitterisblockedinTurkey, #TurkeyblockedTwitter and #OccupyTwitter were trending worldwide.
+
+So here's how the Turkish people can show Erdoan a little strength of their own, and keep the tweets twittering on in the Republic.
+
+That's right: the over-zealous censors in Turkey's government haven't thought of this one. For the time being, Turkish users wondering how to access Twitter in Turkey can send tweets via their mobile network.
+
+Turkish users: you can send Tweets using SMS. Avea and Vodafone text START to 2444. Turkcell text START to 2555.
+
+This is certainly a good option for Turkish users trying to access Twitter, but some users have voiced worries that this could lead to authorities tracking down individual users and taking action against them.
+
+For the time being, it's probably best not to tweet anything too inflammatory using this method, as remember it will tie your Twitter handle to your phone contract and identity.
+
+Which brings us on to...
+
+To the amusement of many online, the Turkish government is using a simple Domain Name System (DNS) block to black out Twitter.
+
+DNS Blocking is a strategy for making it difficult for users to locate specific domains or web sites on the Internet. It was first introduced in 1997 as a means to block spam email from known IP addresses. Your Internet service provider (ISP) simply sees that you're trying to connect to Twitter and refuses to serve you, possibly redirecting you to another page.
+
+The solution is simple in this case: change your DNS. There are many different options for DNS solutions, some paid-for, some free. Your best bet in our view is to use a free solution like Google DNS or OpenDNS.
+
+Turkish users: try some of these out and let us know how much success you have!
+
+Update: As of Saturday, the Turkish government has also blocked Google DNS. OpenDNS appears to still be working.
+
+Another solution is to use a VPN connection.
+
+Setting up a VPN usually requires shelling out a little cash, however there are a number of free options.
+
+Check out our recent list of the best free-to-use VPN providers out there.
+
+But be careful: people should be cautious when using free VPNs. They can be unreliable, or in some cases, contain malicious software. Make sure to scan any downloaded files with leading antivirus software, and check around on forums for malware warnings before downloading anything you don't 100 per cent trust.
+
+That's not all, though: whatever free VPN product you may consider, bear in mind that there are a few caveats. While most free VPN software employs some sort of security for the data connection, you certainly aren't getting the security strength of paid and business VPN products. So if you're doing anything that might get you in trouble, you might want to consider our final option...
+
+Update: The most popular choice so far has been Hotspot Shield, a free VPN service that at the time of writing is being downloaded 270,000 times a day in Turkey.
+
+That's right: the favoured haven of terrorists, drug dealers and illegal pornographers could actually be your most effective weapon in the fight against Internet censorship in Turkey.
+
+This open source tool was born as a US Navy project, but now it's used by all kinds of people worldwide, including the hacktivist group Anonymous.
+
+When you surf through TOR, your browser's data requests take a circuitous route through randomly-chosen TOR servers. All traffic is encrypted except the final connection from a TOR server to the actual website. Anyone intercepting a packet along the way won't learn anything about you or the destination website.
+
+First, download the client, and then you're set!
+
+For more, check out our full guide on how to browse the web anonymously.

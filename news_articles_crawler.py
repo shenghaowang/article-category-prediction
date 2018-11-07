@@ -4,6 +4,7 @@ import logging
 import sys
 import time
 import pandas as pd
+from logging.config import fileConfig
 from bs4 import BeautifulSoup
 from nltk.corpus import stopwords
 from threading import Thread
@@ -14,14 +15,7 @@ ReadTimeoutError, ProtocolError)
 from requests.exceptions import ConnectionError, ReadTimeout, TooManyRedirects
 
 
-file_handler = logging.FileHandler(filename='main.log')
-stdout_handler = logging.StreamHandler(sys.stdout)
-handlers = [file_handler, stdout_handler]
-logging.basicConfig(
-    level=logging.INFO,
-	format='[%(asctime)s] {%(filename)s:%(lineno)d} %(levelname)s - %(message)s',
-    handlers=handlers
-)
+logging.config.fileConfig(fname="logging.conf", disable_existing_loggers=False)
 logger = logging.getLogger(__name__)
 
 

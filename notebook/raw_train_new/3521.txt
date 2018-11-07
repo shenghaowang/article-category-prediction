@@ -1,0 +1,5 @@
+After weeks of showing only legal notices, Mt.Gox¡¯s homepage now has a login screen that lets users check their Bitcoin balances. But that¡¯s apparently all the beleaguered digital wallet service will allow for now. The site also displays a notice stating:
+
+¡°This balance confirmation service is provided on this site only for the convenience of all users. Please be aware that confirming the balance on this site does not constitute a filing of rehabilitation claims under the civil rehabilitation procedure and note that the balance amounts shown on this site should also not be considered an acknowledgment by MtGox Co., Ltd. of the amount of any rehabilitation claims of users.¡±
+
+¡°Civil rehabilitation¡± is a reference to a legal procedure that Mt.Gox filed for at the end of last month, which it claims may allow it to rebuild its business and repay some creditors. It is still unclear when users will be able to access their bitcoins.

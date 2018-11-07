@@ -1,0 +1,19 @@
+The US air safety authority has issued a warning and maintenance order over a software bug that causes a complete electric shutdown of Boeing¡¯s 787 and potentially ¡°loss of control¡± of the aircraft.
+
+In the latest of a long line of problems plaguing Boeing¡¯s 787 Dreamliner, which saw the company¡¯s fleet grounded over battery issues and concerns raised over possible hacking vulnerabilities, the new software bug was found in plane¡¯s generator-control units.
+
+The plane¡¯s electrical generators fall into a failsafe mode if kept continuously powered on for 248 days. The 787 has four such main generator-control units that, if powered on at the same time, could fail simultaneously and cause a complete electrical shutdown.
+
+¡°We are issuing this AD [airworthiness directive] to prevent loss of all AC electrical power, which could result in loss of control of the aeroplane,¡± said the Federal Aviation Administration directive. ¡°If the four main generator control units (associated with the engine-mounted generators) were powered up at the same time, after 248 days of continuous power, all four GCUs will go into failsafe mode at the same time, resulting in a loss of all AC electrical power regardless of flight phase.¡±
+
+Should the electrical shutdown happen at a critical phase in flight such as take-off or landing, or while manoeuvring in the air, the loss of control could be catastrophic.
+
+The FAA considered the situation critical and issued the new rule without allowing time for comment. Boeing is working on a software upgrade for the control units that should rectify the bug.
+
+¡°The airworthiness directive action addresses a condition that only occurred in the lab. Simulated testing determined that this condition is possible in cases where an aeroplane¡¯s power is left on for more than eight continuous months. No airplane in the fleet experienced that condition,¡± a Boeing spokesman told the Guardian.
+
+According to Boeing¡¯s records, all of the 787s currently in service have been turned off and turned on again as part of maintenance. The FAA¡¯s directive mandates action recommended by Boeing on 19 April.
+
+¡°If there is a definitive record of a powercycle within the last 120 days, no operator action is immediately required. Operators will perform periodic power cycling at scheduled intervals until incorporating a software update. Boeing will issue in the fourth quarter of 2015,¡± said the Boeing spokesman.
+ Boeing 787 Dreamliner: FAA to issue ¡®airworthiness directive¡¯ in wake of fire
+ The demise of the Boeing 747 is a sign of changing flight patterns
